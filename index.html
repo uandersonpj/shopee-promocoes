@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#FF5522">
+<meta property="og:title" content="Super Promoções Shopee">
+<meta property="og:description" content="As melhores ofertas da Shopee atualizadas automaticamente. Até 80% OFF!">
+<title>Super Promoções Shopee 🔥</title>
+<style>
+:root {
+  --bg: #0f0f0f;
+  --bg2: #181818;
+  --card: #1e1e1e;
+  --border: #2a2a2a;
+  --orange: #ff5522;
+  --orange2: #ff8c42;
+  --text: #f0f0f0;
+  --muted: #888;
+  --muted2: #555;
+  --wpp: #25d366;
+  --tg: #2aabee;
+  --radius: 14px;
+  --shadow: 0 4px 24px rgba(0,0,0,0.4);
+}
+@media(prefers-color-scheme:light){
+  :root{
+    --bg:#f5f5f5;--bg2:#ebebeb;--card:#fff;--border:#e0e0e0;
+    --text:#111;--muted:#666;--muted2:#aaa;--shadow:0 4px 24px rgba(0,0,0,0.08);
+  }
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,sans-serif;min-height:100vh;overflow-x:hidden}
+
+/* HEADER */
+header{
+  position:sticky;top:0;z-index:100;
+  background:var(--bg);
+  border-bottom:1px solid var(--border);
+  padding:12px 16px;
+  display:flex;flex-direction:column;gap:10px;
+  backdrop-filter:blur(12px);
+}
+.header-top{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.logo{display:flex;align-items:center;gap:8px;text-decoration:none}
+.logo-icon{font-size:26px;line-height:1}
+.logo-text{font-size:17px;font-weight:800;color:var(--text);letter-spacing:-0.02em}
+.logo-text span{color:var(--orange)}
+.live-badge{
+  display:flex;align-items:center;gap:5px;
+  background:rgba(255,85,34,0.12);
+  border:1px solid rgba(255,85,34,0.3);
+  color:var(--orange);
+  font-size:11px;font-weight:700;
+  padding:4px 10px;border-radius:20px;
+  white-space:nowrap;
+}
+.live-dot{width:6px;height:6px;background:var(--orange);border-radius:50%;animation:blink 1s infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+
+/* SEARCH */
+.search-wrap{position:relative;width:100%}
+.search-wrap svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);opacity:0.4;pointer-events:none}
+#search{
+  width:100%;padding:10px 12px 10px 38px;
+  background:var(--bg2);border:1px solid var(--border);
+  border-radius:10px;color:var(--text);font-size:14px;outline:none;
+  transition:border-color 0.2s;
+}
+#search:focus{border-color:var(--orange)}
+#search::placeholder{color:var(--muted2)}
+
+/* CATEGORIES */
+.cats{
+  display:flex;gap:8px;overflow-x:auto;padding:2px 0 4px;
+  scrollbar-width:none;
+}
+.cats::-webkit-scrollbar{display:none}
+.cat{
+  flex-shrink:0;padding:6px 14px;border-radius:20px;
+  border:1px solid var(--border);background:var(--bg2);
+  color:var(--muted);font-size:12px;font-weight:600;cursor:pointer;
+  white-space:nowrap;transition:all 0.15s;
+}
+.cat:hover,.cat.active{background:var(--orange);border-color:var(--orange);color:#fff}
+
+/* STATS BAR */
+.stats-bar{
+  display:flex;gap:16px;align-items:center;
+  padding:10px 16px;
+  background:var(--bg2);border-bottom:1px solid var(--border);
+  font-size:12px;color:var(--muted);
+  overflow-x:auto;scrollbar-width:none;
+}
+.stats-bar::-webkit-scrollbar{display:none}
+.stat-item{display:flex;align-items:center;gap:5px;white-space:nowrap;flex-shrink:0}
+.stat-item strong{color:var(--orange);font-size:14px}
+.stat-sep{color:var(--border)}
+#last-update{margin-left:auto;flex-shrink:0}
+
+/* MAIN */
+main{max-width:1200px;margin:0 auto;padding:16px}
+
+/* SORT */
+.toolbar{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px;gap:8px}
+.result-count{font-size:13px;color:var(--muted)}
+.result-count strong{color:var(--text)}
+select#sort{
+  background:var(--bg2);border:1px solid var(--border);
+  color:var(--text);padding:6px 10px;border-radius:8px;font-size:13px;outline:none;cursor:pointer;
+}
+
+/* GRID */
+#grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(160px,1fr));
+  gap:12px;
+}
+@media(min-width:480px){#grid{grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px}}
+@media(min-width:768px){#grid{grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:16px}}
+@media(min-width:1024px){#grid{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}}
+
+/* CARD */
+.card{
+  background:var(--card);border:1px solid var(--border);
+  border-radius:var(--radius);overflow:hidden;
+  display:flex;flex-direction:column;
+  transition:transform 0.2s,box-shadow 0.2s;
+  position:relative;
+}
+.card:hover{transform:translateY(-3px);box-shadow:var(--shadow)}
+
+.card-img-wrap{position:relative;aspect-ratio:1;overflow:hidden;background:var(--bg2)}
+.card-img-wrap img{width:100%;height:100%;object-fit:cover;transition:transform 0.3s}
+.card:hover .card-img-wrap img{transform:scale(1.05)}
+.card-img-wrap .no-img{
+  width:100%;height:100%;display:flex;align-items:center;justify-content:center;
+  font-size:40px;color:var(--muted2);
+}
+
+.disc-badge{
+  position:absolute;top:8px;left:8px;
+  background:var(--orange);color:#fff;
+  font-size:11px;font-weight:800;
+  padding:3px 7px;border-radius:6px;
+  letter-spacing:0.02em;
+}
+
+.card-body{padding:10px;display:flex;flex-direction:column;gap:6px;flex:1}
+
+.card-name{
+  font-size:12px;line-height:1.4;color:var(--text);
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+  font-weight:500;
+}
+
+.card-prices{display:flex;align-items:baseline;gap:6px;flex-wrap:wrap}
+.price-now{font-size:16px;font-weight:800;color:var(--orange)}
+.price-old{font-size:11px;color:var(--muted);text-decoration:line-through}
+
+.card-meta{display:flex;align-items:center;gap:6px;font-size:11px;color:var(--muted)}
+.stars{color:#f5a623}
+.card-shop{font-size:10px;color:var(--muted2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+
+.btn-buy{
+  display:flex;align-items:center;justify-content:center;gap:6px;
+  background:var(--orange);color:#fff;
+  font-size:13px;font-weight:700;
+  padding:10px;border-radius:8px;
+  text-decoration:none;margin-top:auto;
+  transition:filter 0.15s,transform 0.15s;
+  border:none;cursor:pointer;
+}
+.btn-buy:hover{filter:brightness(1.1);transform:scale(1.02)}
+.btn-buy:active{transform:scale(0.97)}
+
+/* SKELETON */
+.skeleton{animation:shimmer 1.5s infinite linear;background:linear-gradient(90deg,var(--bg2) 25%,var(--border) 50%,var(--bg2) 75%);background-size:200% 100%}
+@keyframes shimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
+.card-skel .card-img-wrap{background:none}
+.skel-img{width:100%;aspect-ratio:1;border-radius:0}
+.skel-line{height:12px;border-radius:4px;margin-bottom:6px}
+.skel-line.short{width:60%}
+.skel-price{height:18px;border-radius:4px;width:50%;margin-bottom:8px}
+.skel-btn{height:36px;border-radius:8px}
+
+/* EMPTY */
+.empty{
+  grid-column:1/-1;padding:60px 20px;text-align:center;color:var(--muted);
+}
+.empty-icon{font-size:48px;margin-bottom:12px}
+.empty h3{font-size:16px;margin-bottom:6px;color:var(--text)}
+
+/* JOIN SECTION */
+.join-section{
+  margin:32px 16px 16px;
+  background:linear-gradient(135deg,rgba(255,85,34,0.08),rgba(255,140,66,0.04));
+  border:1px solid rgba(255,85,34,0.2);
+  border-radius:16px;padding:24px 20px;text-align:center;
+}
+.join-section h3{font-size:18px;font-weight:800;margin-bottom:6px}
+.join-section p{font-size:13px;color:var(--muted);margin-bottom:16px;line-height:1.5}
+.join-btns{display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
+.join-btn{
+  display:flex;align-items:center;gap:8px;
+  padding:12px 20px;border-radius:12px;
+  text-decoration:none;color:#fff;font-weight:700;font-size:14px;
+  transition:transform 0.15s,filter 0.15s;
+}
+.join-btn:hover{transform:translateY(-2px);filter:brightness(1.1)}
+.join-btn.wpp{background:linear-gradient(135deg,#25d366,#1da851);box-shadow:0 4px 16px rgba(37,211,102,0.3)}
+.join-btn.tg{background:linear-gradient(135deg,#2aabee,#1a8cc7);box-shadow:0 4px 16px rgba(42,171,238,0.3)}
+
+/* FOOTER */
+footer{
+  text-align:center;padding:20px 16px 32px;
+  font-size:11px;color:var(--muted);border-top:1px solid var(--border);
+  margin-top:16px;line-height:2;
+}
+footer a{color:var(--orange);text-decoration:none}
+
+/* REFRESH BTN */
+#refresh-btn{
+  background:none;border:1px solid var(--border);color:var(--muted);
+  padding:6px 12px;border-radius:8px;font-size:12px;cursor:pointer;
+  display:flex;align-items:center;gap:5px;transition:all 0.15s;
+}
+#refresh-btn:hover{border-color:var(--orange);color:var(--orange)}
+#refresh-btn.spinning svg{animation:spin 1s linear infinite}
+@keyframes spin{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+
+/* BACK TO TOP */
+#top-btn{
+  position:fixed;bottom:20px;right:16px;z-index:99;
+  width:40px;height:40px;border-radius:50%;
+  background:var(--orange);color:#fff;border:none;cursor:pointer;
+  display:none;align-items:center;justify-content:center;font-size:18px;
+  box-shadow:0 4px 16px rgba(255,85,34,0.4);transition:transform 0.15s;
+}
+#top-btn:hover{transform:scale(1.1)}
+#top-btn.show{display:flex}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-top">
+    <a class="logo" href="#">
+      <span class="logo-icon">🔥</span>
+      <span class="logo-text">Super Promoções <span>Shopee</span></span>
+    </a>
+    <div class="live-badge"><span class="live-dot"></span> AO VIVO</div>
+  </div>
+  <div class="search-wrap">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+    <input id="search" type="text" placeholder="Buscar produto..." autocomplete="off">
+  </div>
+  <div class="cats" id="cats"></div>
+</header>
+
+<div class="stats-bar">
+  <div class="stat-item"><strong id="stat-total">—</strong> ofertas</div>
+  <span class="stat-sep">·</span>
+  <div class="stat-item">até <strong id="stat-max-disc">—</strong> OFF</div>
+  <span class="stat-sep">·</span>
+  <div class="stat-item">de <strong id="stat-min-price">—</strong></div>
+  <div class="stat-item" id="last-update" style="color:var(--muted2);font-size:11px"></div>
+</div>
+
+<main>
+  <div class="toolbar">
+    <span class="result-count"><strong id="count">0</strong> produtos</span>
+    <div style="display:flex;gap:8px;align-items:center">
+      <select id="sort">
+        <option value="disc">Maior desconto</option>
+        <option value="price_asc">Menor preço</option>
+        <option value="price_desc">Maior preço</option>
+        <option value="rating">Melhor avaliação</option>
+      </select>
+      <button id="refresh-btn">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"/><path d="M8 16H3v5"/></svg>
+        Atualizar
+      </button>
+    </div>
+  </div>
+  <div id="grid"></div>
+</main>
+
+<div class="join-section" style="max-width:1200px;margin:24px auto 0;box-sizing:border-box;margin-left:max(16px,(100% - 1200px)/2);margin-right:max(16px,(100% - 1200px)/2)">
+  <h3>🔔 Receba promoções em tempo real</h3>
+  <p>Entre nos nossos grupos gratuitos e seja o primeiro a saber das melhores ofertas!</p>
+  <div class="join-btns">
+    <a class="join-btn wpp" href="https://chat.whatsapp.com/IMeU9zQxDETC4KEFowams8" target="_blank" rel="noopener">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="white"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.127.558 4.122 1.532 5.855L.057 23.886a.5.5 0 0 0 .613.613l6.083-1.464A11.945 11.945 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.882a9.877 9.877 0 0 1-5.032-1.375l-.36-.214-3.733.899.934-3.641-.235-.374A9.867 9.867 0 0 1 2.118 12C2.118 6.534 6.534 2.118 12 2.118c5.466 0 9.882 4.416 9.882 9.882 0 5.466-4.416 9.882-9.882 9.882z"/></svg>
+      WhatsApp
+    </a>
+    <a class="join-btn tg" href="https://t.me/+LX45uwu6oW42MGYx" target="_blank" rel="noopener">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="white"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.894 8.221-1.97 9.28c-.145.658-.537.818-1.084.508l-3-2.21-1.447 1.394c-.16.16-.295.295-.605.295l.213-3.053 5.56-5.023c.242-.213-.054-.333-.373-.12l-6.869 4.326-2.96-.924c-.643-.204-.657-.643.136-.953l11.57-4.461c.537-.194 1.006.131.829.941z"/></svg>
+      Telegram
+    </a>
+  </div>
+</div>
+
+<footer>
+  Atualizado automaticamente a cada 15 minutos · Links de afiliado Shopee<br>
+  <a href="https://shopee.com.br" target="_blank">Shopee Brasil</a> · 100% gratuito · Sem spam
+</footer>
+
+<button id="top-btn" aria-label="Voltar ao topo">↑</button>
+
+<script>
+const CATS_LABEL = {
+  'notebook':'💻 Notebook','ssd nvme':'💾 SSD','placa de video':'🎮 GPU',
+  'monitor':'🖥️ Monitor','roteador wifi':'📡 Roteador','teclado mecanico':'⌨️ Teclado',
+  'mouse gamer':'🖱️ Mouse','fonte atx':'⚡ Fonte','sabao em po':'🫧 Sabão',
+  'amaciante':'🌸 Amaciante','detergente':'🍋 Detergente','desinfetante':'🧴 Desinfetante',
+  'esponja':'🧽 Esponja','organizador':'📦 Organização','pano microfibra':'🧣 Microfibra',
+  'shampoo':'🧴 Shampoo','condicionador':'💆 Condicionador','protetor solar':'☀️ Protetor',
+  'creme facial':'✨ Creme','perfume':'🌺 Perfume','fralda':'👶 Fralda',
+  'carrinho bebe':'🍼 Carrinho','whey protein':'💪 Whey','creatina':'⚗️ Creatina',
+  'haltere':'🏋️ Haltere','elastico musculacao':'🤸 Elástico','racao cachorro':'🐕 Ração Dog',
+  'racao gato':'🐈 Ração Gato','casinha pet':'🏠 Casinha','coleira':'🐾 Coleira',
+  'air fryer':'🍳 Air Fryer','cafeteira':'☕ Cafeteira','liquidificador':'🥤 Liquidificador',
+  'panela pressao':'🍲 Panela','tenis feminino':'👟 Tênis','bolsa feminina':'👜 Bolsa',
+  'relogio masculino':'⌚ Relógio','oculos sol':'🕶️ Óculos'
+};
+
+let allProducts = [], filtered = [], activeCat = 'todos';
+
+function fmt(v){ return 'R$ '+Number(v).toFixed(2).replace('.',',') }
+function stars(r){
+  if(!r) return '';
+  const n = Math.round(parseFloat(r));
+  return '★'.repeat(n)+'☆'.repeat(5-n);
+}
+
+function renderSkeletons(){
+  const g = document.getElementById('grid');
+  g.innerHTML = Array(12).fill(0).map(()=>`
+    <div class="card card-skel">
+      <div class="card-img-wrap"><div class="skel-img skeleton"></div></div>
+      <div class="card-body">
+        <div class="skel-line skeleton"></div>
+        <div class="skel-line short skeleton"></div>
+        <div class="skel-price skeleton"></div>
+        <div class="skel-btn skeleton"></div>
+      </div>
+    </div>`).join('');
+}
+
+function renderCards(list){
+  const g = document.getElementById('grid');
+  document.getElementById('count').textContent = list.length;
+  if(!list.length){
+    g.innerHTML = `<div class="empty"><div class="empty-icon">🔍</div><h3>Nenhum produto encontrado</h3><p>Tente outro termo ou categoria.</p></div>`;
+    return;
+  }
+  g.innerHTML = list.map(p=>{
+    const imgTag = p.image
+      ? `<img src="${p.image}" alt="${p.name}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\\'no-img\\'>🛍️</div>'">`
+      : `<div class="no-img">🛍️</div>`;
+    const oldPrice = p.original_price && p.original_price > p.price
+      ? `<span class="price-old">${fmt(p.original_price)}</span>` : '';
+    const rating = p.rating ? `<span class="stars">${stars(p.rating)}</span><span>${parseFloat(p.rating).toFixed(1)}</span>` : '';
+    const sales = p.sales ? `<span>· ${p.sales} vendidos</span>` : '';
+    return `
+    <div class="card">
+      <div class="card-img-wrap">
+        ${imgTag}
+        ${p.discount>=5?`<div class="disc-badge">-${Math.round(p.discount)}%</div>`:''}
+      </div>
+      <div class="card-body">
+        <div class="card-name">${p.name}</div>
+        <div class="card-prices">
+          <span class="price-now">${fmt(p.price)}</span>
+          ${oldPrice}
+        </div>
+        <div class="card-meta">${rating}${sales}</div>
+        ${p.shop?`<div class="card-shop">🏬 ${p.shop}</div>`:''}
+        <a class="btn-buy" href="${p.link}" target="_blank" rel="noopener sponsored">
+          🛒 Comprar na Shopee
+        </a>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function applySort(list){
+  const s = document.getElementById('sort').value;
+  return [...list].sort((a,b)=>{
+    if(s==='disc') return (b.discount||0)-(a.discount||0);
+    if(s==='price_asc') return (a.price||0)-(b.price||0);
+    if(s==='price_desc') return (b.price||0)-(a.price||0);
+    if(s==='rating') return (b.rating||0)-(a.rating||0);
+    return 0;
+  });
+}
+
+function applyFilters(){
+  const q = document.getElementById('search').value.toLowerCase().trim();
+  filtered = allProducts.filter(p=>{
+    const matchCat = activeCat==='todos' || p.category===activeCat;
+    const matchQ = !q || p.name.toLowerCase().includes(q) || (p.shop||'').toLowerCase().includes(q);
+    return matchCat && matchQ;
+  });
+  renderCards(applySort(filtered));
+}
+
+function buildCats(products){
+  const cats = document.getElementById('cats');
+  const found = [...new Set(products.map(p=>p.category).filter(Boolean))];
+  cats.innerHTML = `<button class="cat active" data-cat="todos">🏷️ Todos</button>`
+    + found.map(c=>`<button class="cat" data-cat="${c}">${CATS_LABEL[c]||c}</button>`).join('');
+  cats.querySelectorAll('.cat').forEach(btn=>{
+    btn.addEventListener('click',()=>{
+      cats.querySelectorAll('.cat').forEach(b=>b.classList.remove('active'));
+      btn.classList.add('active');
+      activeCat = btn.dataset.cat;
+      applyFilters();
+    });
+  });
+}
+
+function updateStats(products){
+  document.getElementById('stat-total').textContent = products.length;
+  const maxDisc = Math.max(...products.map(p=>p.discount||0));
+  document.getElementById('stat-max-disc').textContent = Math.round(maxDisc)+'%';
+  const minPrice = Math.min(...products.map(p=>p.price||Infinity));
+  document.getElementById('stat-min-price').textContent = fmt(minPrice);
+}
+
+async function loadProducts(){
+  const btn = document.getElementById('refresh-btn');
+  btn.classList.add('spinning');
+  renderSkeletons();
+  try{
+    const r = await fetch('produtos.json?t='+Date.now());
+    if(!r.ok) throw new Error('HTTP '+r.status);
+    const data = await r.json();
+    allProducts = data.products || [];
+    if(data.updated_at){
+      const d = new Date(data.updated_at);
+      document.getElementById('last-update').textContent =
+        'Atualizado às '+d.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'});
+    }
+    updateStats(allProducts);
+    buildCats(allProducts);
+    applyFilters();
+  }catch(e){
+    document.getElementById('grid').innerHTML =
+      `<div class="empty"><div class="empty-icon">⚠️</div><h3>Aguardando promoções</h3><p>O bot ainda não gerou o arquivo de produtos.<br>Aguarde o próximo ciclo (15 min).</p></div>`;
+    document.getElementById('count').textContent = '0';
+  }
+  btn.classList.remove('spinning');
+}
+
+// Events
+document.getElementById('search').addEventListener('input', applyFilters);
+document.getElementById('sort').addEventListener('change', applyFilters);
+document.getElementById('refresh-btn').addEventListener('click', loadProducts);
+
+// Back to top
+const topBtn = document.getElementById('top-btn');
+window.addEventListener('scroll',()=>{ topBtn.classList.toggle('show', window.scrollY>400) });
+topBtn.addEventListener('click',()=>window.scrollTo({top:0,behavior:'smooth'}));
+
+// Auto refresh every 15 min
+setInterval(loadProducts, 15 * 60 * 1000);
+
+// Init
+loadProducts();
+</script>
+</body>
+</html>
