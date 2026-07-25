@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Super Promoções | Shopee + Mercado Livre</title>
-<meta name="description" content="Promoções atualizadas em tempo real de Shopee e Mercado Livre. Achadinhos com até 90% OFF, atualizados a cada 15 minutos.">
+<title>Super Promoções | Achadinhos Shopee com até 90% OFF</title>
+<meta name="description" content="Centenas de achadinhos da Shopee com desconto, coletados e atualizados automaticamente a cada 15 minutos.">
 
 <!-- Favicon -->
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%94%A5%3C/text%3E%3C/svg%3E">
@@ -13,7 +13,7 @@
 <!-- Open Graph (WhatsApp / Telegram / Facebook) -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Super Promoções">
-<meta property="og:title" content="🔥 Super Promoções — Achadinhos Shopee + Mercado Livre">
+<meta property="og:title" content="🔥 Super Promoções — Achadinhos da Shopee">
 <meta property="og:description" content="Centenas de ofertas com até 90% OFF, atualizadas a cada 15 minutos. Entre no grupo e receba antes de todo mundo!">
 <meta property="og:url" content="https://uandersonpj.github.io/shopee-promocoes/">
 <meta property="og:image" content="https://uandersonpj.github.io/shopee-promocoes/og-image.png">
@@ -21,7 +21,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:locale" content="pt_BR">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="🔥 Super Promoções — Achadinhos Shopee + Mercado Livre">
+<meta name="twitter:title" content="🔥 Super Promoções — Achadinhos da Shopee">
 <meta name="twitter:description" content="Centenas de ofertas com até 90% OFF, atualizadas a cada 15 minutos.">
 <meta name="twitter:image" content="https://uandersonpj.github.io/shopee-promocoes/og-image.png">
 <meta name="theme-color" content="#ff5522">
@@ -195,8 +195,10 @@ header {
 .card-img img { width:100%;height:100%;object-fit:contain;padding:8px;transition:transform .3s; }
 .card:hover .card-img img { transform: scale(1.05); }
 .badge { position:absolute;top:8px;left:8px;padding:3px 8px;border-radius:6px;font-size:.72rem;font-weight:800; }
-.badge-shopee { background:var(--orange);color:#fff; }
-.badge-ml     { background:var(--ml-yellow);color:#000; }
+.disc-low { background:#3f4a5a;color:#e2e8f0; }
+.disc-mid { background:#f59e0b;color:#1a1200; }
+.disc-hi  { background:#dc2626;color:#fff; }
+.card-saving { font-size:.7rem;font-weight:700;color:var(--green); }
 .src-badge { position:absolute;top:8px;right:8px;padding:2px 7px;border-radius:6px;font-size:.62rem;font-weight:700;opacity:.9; }
 .src-shopee { background:var(--orange);color:#fff; }
 .src-ml     { background:var(--ml-yellow);color:#000; }
@@ -360,7 +362,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
   </button>
   <div class="logo">
     <span style="font-size:1.4rem">🔥</span>
-    <h1>Super <span class="sp">Promoções</span> <span class="ml">| Shopee+ML</span></h1>
+    <h1>Super <span class="sp">Promoções</span> <span class="ml" id="brandML" hidden>| Shopee+ML</span></h1>
   </div>
   <div class="search-wrap">
     <input type="text" id="searchInput" placeholder="Buscar produto…">
@@ -368,12 +370,13 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
   <div class="header-right">
     <button class="src-btn active" data-filter="all">🔥 Todos</button>
     <button class="src-btn" data-filter="shopee">🟠 Shopee</button>
-    <button class="src-btn" data-filter="mercadolivre">🟡 ML</button>
+    <button class="src-btn ml-only" data-filter="mercadolivre" hidden>🟡 ML</button>
     <select id="sortSelect">
       <option value="discount">Maior desconto</option>
       <option value="price_asc">Menor preço</option>
       <option value="price_desc">Maior preço</option>
       <option value="rating">Melhor avaliação</option>
+      <option value="sales">Mais vendidos</option>
     </select>
   </div>
 </header>
@@ -390,7 +393,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
     <div class="sidebar-section-title">Plataforma</div>
     <button class="cat-item active" data-filter="all">🔥 Todos <span class="cat-count" id="cnt-all">0</span></button>
     <button class="cat-item" data-filter="shopee">🟠 Shopee <span class="cat-count" id="cnt-shopee">0</span></button>
-    <button class="cat-item" data-filter="mercadolivre">🟡 Mercado Livre <span class="cat-count" id="cnt-ml">0</span></button>
+    <button class="cat-item ml-only" data-filter="mercadolivre" hidden>🟡 Mercado Livre <span class="cat-count" id="cnt-ml">0</span></button>
     <button class="cat-item" id="favBtn">❤️ Meus Favoritos <span class="cat-count" id="cnt-fav">0</span></button>
   </div>
 
@@ -403,6 +406,17 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
       <button class="chip" data-max="50">Até R$ 50</button>
       <button class="chip" data-max="100">Até R$ 100</button>
       <button class="chip" data-max="200">Até R$ 200</button>
+    </div>
+  </div>
+
+  <!-- Desconto mínimo -->
+  <div class="sidebar-section">
+    <div class="sidebar-section-title">Desconto Mínimo</div>
+    <div class="price-chips">
+      <button class="chip active" data-disc="0">Todos</button>
+      <button class="chip" data-disc="30">30%+</button>
+      <button class="chip" data-disc="50">50%+</button>
+      <button class="chip" data-disc="70">70%+</button>
     </div>
   </div>
 
@@ -424,6 +438,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
     <button class="cat-item sort-item" data-sort="price_asc">💰 Menor preço</button>
     <button class="cat-item sort-item" data-sort="price_desc">📈 Maior preço</button>
     <button class="cat-item sort-item" data-sort="rating">⭐ Melhor avaliação</button>
+    <button class="cat-item sort-item" data-sort="sales">🛒 Mais vendidos</button>
   </div>
 
   <!-- Categorias dinâmicas -->
@@ -449,7 +464,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
 <div class="statsbar">
   <div class="stat"><span class="dot"></span><strong id="statTotal">…</strong> ofertas</div>
   <div class="stat">🟠 <strong id="statShopee">…</strong></div>
-  <div class="stat">🟡 <strong id="statML">…</strong></div>
+  <div class="stat" id="statMLWrap" hidden>🟡 <strong id="statML">…</strong></div>
   <div class="stat">🔥 Até <strong id="statDisc">…</strong>% OFF</div>
   <div class="stat">🕐 <strong id="statTime">—</strong></div>
 </div>
@@ -507,8 +522,17 @@ let searchQ = '';
 let sortBy = 'discount';
 let maxPrice = 0;
 let minRating = 0;
+let minDiscount = 0;
 let onlyFavs = false;
 let onlyOfficial = false;
+
+// Corte de vendas para o selo "MAIS VENDIDO": percentil 90 do lote atual.
+// Fixo em 1000 o selo aparecia em 52% dos cards e não significava nada.
+let hotThreshold = Infinity;
+function computeHotThreshold(products) {
+  const v = products.map(p => p.sales || 0).filter(n => n > 0).sort((a,b) => a-b);
+  hotThreshold = v.length ? Math.max(3000, v[Math.floor(v.length * 0.9)]) : Infinity;
+}
 
 /* ── FAVORITOS (localStorage) ── */
 let favs = new Set();
@@ -634,13 +658,14 @@ function buildCard(p) {
   const loja = isML ? 'Mercado Livre' : 'Shopee';
   const disc = Math.round(p.discount || 0);
   const name = esc(p.name);
-  const badge = disc > 0
-    ? `<div class="badge ${isML?'badge-ml':'badge-shopee'}">${disc}% OFF</div>` : '';
+  // Cor do selo escala com o desconto: 15-29% neutro, 30-49% âmbar, 50%+ vermelho
+  const discLevel = disc >= 50 ? 'disc-hi' : disc >= 30 ? 'disc-mid' : 'disc-low';
+  const badge = disc > 0 ? `<div class="badge ${discLevel}">${disc}% OFF</div>` : '';
   const src = `<div class="src-badge ${isML?'src-ml':'src-shopee'}">${isML?'🟡 ML':'🟠 Shopee'}</div>`;
 
   const tags = [];
   if (p.commission >= 3) tags.push(`<span class="commission-tag">💎 COMISSÃO EXTRA</span>`);
-  if (p.sales >= 1000)   tags.push(`<span class="hot-tag">🔥 MAIS VENDIDO</span>`);
+  if (p.sales >= hotThreshold) tags.push(`<span class="hot-tag">🔥 MAIS VENDIDO</span>`);
   const tagRow = tags.length ? `<div class="card-tags">${tags.join('')}</div>` : '';
 
   const isFav = favs.has(p.id);
@@ -652,9 +677,13 @@ function buildCard(p) {
               title="Compartilhar" aria-label="Compartilhar ${name}">📤</button>
     </div>`;
 
-  const orig = (p.original_price && p.original_price > p.price)
+  const economia = (p.original_price || 0) - p.price;
+  const orig = economia > 0
     ? `<span class="price-was">R$ ${fmt(p.original_price)}</span>
        <span class="sr-only">preço anterior</span>` : '';
+  // Só vale destacar a economia quando o valor é relevante
+  const saving = economia >= 5
+    ? `<div class="card-saving">Você economiza R$ ${fmt(economia)}</div>` : '';
 
   const img = p.image
     ? `<img src="${esc(p.image)}" alt="${name}" loading="lazy" decoding="async"
@@ -669,6 +698,7 @@ function buildCard(p) {
       <div class="card-prices">
         <span class="price-now">R$ ${fmt(p.price)}</span>${orig}
       </div>
+      ${saving}
       <div class="card-meta">${p.rating?'<span>⭐ '+Number(p.rating).toFixed(1)+'</span>':''}${p.sales?'<span>🛒 '+p.sales+' vendidos</span>':''}</div>
       ${p.shop?`<div class="card-shop">🏬 ${esc(p.shop)}</div>`:''}
     </div>
@@ -712,6 +742,7 @@ function applyFilters() {
   if (activeSource !== 'all') list = list.filter(p=>p.source===activeSource);
   if (activeCategory !== 'all') list = list.filter(p=>p.category===activeCategory);
   if (maxPrice > 0) list = list.filter(p=>p.price<=maxPrice);
+  if (minDiscount > 0) list = list.filter(p=>(p.discount||0) >= minDiscount);
   if (minRating > 0) list = list.filter(p=>Number(p.rating||0) >= minRating);
   if (onlyOfficial) list = list.filter(p=>/oficial/i.test(p.shop||''));
   if (searchQ) {
@@ -723,6 +754,7 @@ function applyFilters() {
   else if (sortBy==='price_asc') list.sort((a,b)=>a.price-b.price);
   else if (sortBy==='price_desc') list.sort((a,b)=>b.price-a.price);
   else if (sortBy==='rating') list.sort((a,b)=>(b.rating||0)-(a.rating||0));
+  else if (sortBy==='sales') list.sort((a,b)=>(b.sales||0)-(a.sales||0));
   return list;
 }
 
@@ -734,6 +766,7 @@ function updateURL(push) {
   if (activeSource !== 'all')   q.set('fonte', activeSource);
   if (activeCategory !== 'all') q.set('categoria', activeCategory);
   if (maxPrice)                 q.set('max', maxPrice);
+  if (minDiscount)              q.set('desconto', minDiscount);
   if (minRating)                q.set('nota', minRating);
   if (onlyOfficial)             q.set('oficial', '1');
   if (onlyFavs)                 q.set('favoritos', '1');
@@ -748,6 +781,7 @@ function readURL() {
   activeSource   = q.get('fonte') || 'all';
   activeCategory = q.get('categoria') || 'all';
   maxPrice       = Number(q.get('max') || 0);
+  minDiscount    = Number(q.get('desconto') || 0);
   minRating      = Number(q.get('nota') || 0);
   onlyOfficial   = q.get('oficial') === '1';
   onlyFavs       = q.get('favoritos') === '1';
@@ -763,6 +797,8 @@ function syncUI() {
   document.getElementById('officialBtn').classList.toggle('active', onlyOfficial);
   document.querySelectorAll('.chip[data-max]').forEach(c =>
     c.classList.toggle('active', Number(c.dataset.max) === maxPrice));
+  document.querySelectorAll('.chip[data-disc]').forEach(c =>
+    c.classList.toggle('active', Number(c.dataset.disc) === minDiscount));
   document.querySelectorAll('.chip[data-rating]').forEach(c =>
     c.classList.toggle('active', Number(c.dataset.rating) === minRating));
   document.querySelectorAll('.sort-item').forEach(b =>
@@ -808,7 +844,31 @@ function render(push) {
     appendBatch();
   }
   updateItemListLd();
+  updateTitle();
   updateURL(push);
+}
+
+/* ── TÍTULO E DESCRIÇÃO CONFORME O FILTRO ── */
+function titleCase(s) {
+  return s.replace(/\b\p{L}/gu, c => c.toUpperCase());
+}
+function updateTitle() {
+  const n = currentList.length;
+  let t, d;
+  if (activeCategory !== 'all') {
+    const c = titleCase(activeCategory);
+    t = `${c} em Promoção — ${n} ofertas | Super Promoções`;
+    d = `${n} ofertas de ${c} com desconto na Shopee, atualizadas a cada 15 minutos.`;
+  } else if (searchQ) {
+    t = `${titleCase(searchQ)} — ${n} ofertas | Super Promoções`;
+    d = `${n} ofertas encontradas para "${searchQ}".`;
+  } else {
+    t = 'Super Promoções | Achadinhos Shopee com até 90% OFF';
+    d = `${n} ofertas atualizadas a cada 15 minutos. Entre no grupo e receba antes de todo mundo.`;
+  }
+  document.title = t;
+  const meta = document.querySelector('meta[name="description"]');
+  if (meta) meta.content = d;
 }
 
 /* ── DADOS ESTRUTURADOS DAS OFERTAS VISÍVEIS ── */
@@ -866,6 +926,13 @@ async function load() {
     const shopeeN = allProducts.filter(p=>p.source==='shopee').length;
     const mlN = allProducts.filter(p=>p.source==='mercadolivre').length;
     const maxDisc = allProducts.length ? Math.round(Math.max(...allProducts.map(p=>p.discount||0))) : 0;
+    // Só anuncia o Mercado Livre quando ele realmente tem ofertas no ar
+    document.querySelectorAll('.ml-only').forEach(el => { el.hidden = mlN === 0; });
+    document.getElementById('brandML').hidden = mlN === 0;
+    document.getElementById('statMLWrap').hidden = mlN === 0;
+    if (mlN === 0 && activeSource === 'mercadolivre') activeSource = 'all';
+
+    computeHotThreshold(allProducts);
     const d = data.updated_at ? new Date(data.updated_at) : null;
     const opts = { timeZone:'America/Sao_Paulo', hour:'2-digit', minute:'2-digit' };
     document.getElementById('statTotal').textContent = allProducts.length;
@@ -968,6 +1035,13 @@ document.getElementById('officialBtn').addEventListener('click', () => {
 document.querySelectorAll('.chip[data-max]').forEach(chip => {
   chip.addEventListener('click', () => {
     maxPrice = Number(chip.dataset.max); syncUI(); render(true);
+  });
+});
+
+// Desconto mínimo
+document.querySelectorAll('.chip[data-disc]').forEach(chip => {
+  chip.addEventListener('click', () => {
+    minDiscount = Number(chip.dataset.disc); syncUI(); render(true);
   });
 });
 

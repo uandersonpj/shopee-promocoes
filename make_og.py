@@ -5,6 +5,10 @@ W, H = 1200, 630
 BG_TOP, BG_BOT = (15, 15, 19), (26, 10, 0)
 ORANGE, YELLOW, GREEN, WHITE, MUTED = (255, 85, 34), (255, 230, 0), (34, 197, 94), (240, 240, 248), (150, 150, 172)
 
+# Plataformas com oferta no ar. Quando o Mercado Livre for liberado, basta
+# acrescentar ("Mercado Livre", YELLOW) a esta lista e rodar o script de novo.
+PLATAFORMAS = [("Shopee", ORANGE)]
+
 
 def font(size, bold=False):
     for name in (("arialbd.ttf", "seguisb.ttf") if bold else ("arial.ttf", "segoeui.ttf")):
@@ -42,11 +46,12 @@ d.text((70, 274), "PROMOÇÕES", font=font(100, True), fill=ORANGE)
 # Linha das plataformas, posicionada por medição
 f_plat = font(42, True)
 x = 70
-d.text((x, 424),"Shopee", font=f_plat, fill=ORANGE)
-x += width(d, "Shopee", f_plat) + 18
-d.text((x, 424),"+", font=f_plat, fill=MUTED)
-x += width(d, "+", f_plat) + 18
-d.text((x, 424),"Mercado Livre", font=f_plat, fill=YELLOW)
+for i, (nome, cor) in enumerate(PLATAFORMAS):
+    if i:
+        d.text((x, 424), "+", font=f_plat, fill=MUTED)
+        x += width(d, "+", f_plat) + 18
+    d.text((x, 424), nome, font=f_plat, fill=cor)
+    x += width(d, nome, f_plat) + 18
 
 d.text((70, 506), "Entre no grupo e receba antes de todo mundo", font=font(30), fill=MUTED)
 
