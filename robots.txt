@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Evita indexar variações de filtro como páginas separadas
+Disallow: /*?favoritos=
+Disallow: /*?code=
+
+Sitemap: https://uandersonpj.github.io/shopee-promocoes/sitemap.xml
