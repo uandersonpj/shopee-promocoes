@@ -4,7 +4,27 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Super Promoções | Shopee + Mercado Livre</title>
-<meta name="description" content="Promoções atualizadas em tempo real de Shopee e Mercado Livre com links de afiliado.">
+<meta name="description" content="Promoções atualizadas em tempo real de Shopee e Mercado Livre. Achadinhos com até 90% OFF, atualizados a cada 15 minutos.">
+
+<!-- Favicon -->
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%94%A5%3C/text%3E%3C/svg%3E">
+<link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%94%A5%3C/text%3E%3C/svg%3E">
+
+<!-- Open Graph (WhatsApp / Telegram / Facebook) -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Super Promoções">
+<meta property="og:title" content="🔥 Super Promoções — Achadinhos Shopee + Mercado Livre">
+<meta property="og:description" content="Centenas de ofertas com até 90% OFF, atualizadas a cada 15 minutos. Entre no grupo e receba antes de todo mundo!">
+<meta property="og:url" content="https://uandersonpj.github.io/shopee-promocoes/">
+<meta property="og:image" content="https://uandersonpj.github.io/shopee-promocoes/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="pt_BR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="🔥 Super Promoções — Achadinhos Shopee + Mercado Livre">
+<meta name="twitter:description" content="Centenas de ofertas com até 90% OFF, atualizadas a cada 15 minutos.">
+<meta name="twitter:image" content="https://uandersonpj.github.io/shopee-promocoes/og-image.png">
+<meta name="theme-color" content="#ff5522">
 <style>
 :root {
   --bg: #0f0f13;
@@ -132,7 +152,7 @@ header {
 /* ── MAIN CONTENT ── */
 .main {
   margin-top: calc(var(--header-h) + 34px);
-  padding: 20px 16px; max-width: 1400px; margin-left: auto; margin-right: auto;
+  padding: 20px 16px 90px; max-width: 1400px; margin-left: auto; margin-right: auto;
 }
 
 /* ── GRID ── */
@@ -157,6 +177,43 @@ header {
 .src-shopee { background:var(--orange);color:#fff; }
 .src-ml     { background:var(--ml-yellow);color:#000; }
 .commission-tag { position:absolute;bottom:8px;left:8px;padding:2px 7px;border-radius:6px;font-size:.62rem;font-weight:800;background:#7c3aed;color:#fff; }
+.hot-tag { position:absolute;bottom:8px;right:8px;padding:2px 7px;border-radius:6px;font-size:.62rem;font-weight:800;background:#dc2626;color:#fff; }
+
+/* ── FAVORITO / COMPARTILHAR ── */
+.card-actions { position:absolute;top:34px;right:8px;display:flex;flex-direction:column;gap:6px;z-index:5; }
+.icon-btn {
+  width:30px;height:30px;border-radius:50%;border:none;cursor:pointer;
+  background:rgba(0,0,0,.6);color:#fff;font-size:.95rem;line-height:1;
+  display:flex;align-items:center;justify-content:center;
+  backdrop-filter:blur(4px);transition:transform .15s,background .15s;
+}
+.icon-btn:hover { transform:scale(1.12);background:rgba(0,0,0,.85); }
+.icon-btn.faved { background:#e11d48;color:#fff; }
+
+/* ── BANNER INFERIOR ── */
+#joinBanner {
+  position:fixed;bottom:0;left:0;right:0;z-index:400;
+  background:linear-gradient(135deg,#128C4A,#25D366);
+  padding:11px 14px;display:none;align-items:center;gap:12px;
+  box-shadow:0 -4px 20px rgba(0,0,0,.5);
+}
+#joinBanner.show { display:flex; }
+#joinBanner .bnr-txt { flex:1;font-size:.8rem;font-weight:600;color:#fff;line-height:1.35; }
+#joinBanner .bnr-cta {
+  background:#fff;color:#128C4A;padding:8px 15px;border-radius:20px;
+  font-weight:800;font-size:.8rem;text-decoration:none;white-space:nowrap;flex-shrink:0;
+}
+#joinBanner .bnr-x { background:none;border:none;color:rgba(255,255,255,.85);font-size:1.15rem;cursor:pointer;padding:0 3px;flex-shrink:0; }
+
+/* ── FAIXA DE PREÇO ── */
+.price-chips { display:flex;flex-wrap:wrap;gap:6px;padding:6px 16px 10px; }
+.chip {
+  padding:5px 11px;border-radius:14px;border:1.5px solid var(--border);
+  background:transparent;color:var(--muted);font-size:.74rem;font-weight:700;
+  cursor:pointer;transition:all .15s;
+}
+.chip:hover { border-color:var(--orange);color:var(--text); }
+.chip.active { background:var(--orange);border-color:var(--orange);color:#fff; }
 .card-body { padding:10px;flex:1;display:flex;flex-direction:column;gap:5px; }
 .card-name { font-size:.8rem;line-height:1.4;color:var(--text);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden; }
 .card-prices { display:flex;align-items:baseline;gap:6px;flex-wrap:wrap; }
@@ -191,6 +248,8 @@ header {
 /* ── TOP BTN ── */
 #topBtn { position:fixed;bottom:20px;right:20px;width:42px;height:42px;border-radius:50%;background:var(--orange);color:#fff;border:none;cursor:pointer;font-size:1.1rem;display:none;z-index:300;box-shadow:var(--shadow); }
 
+body:has(#joinBanner.show) #topBtn { bottom: 76px; }
+
 /* ── RESPONSIVE ── */
 @media(max-width:640px){
   .logo h1 { font-size:.9rem; }
@@ -198,6 +257,9 @@ header {
   .grid { grid-template-columns:repeat(auto-fill,minmax(155px,1fr));gap:10px; }
   .statsbar { gap:10px; }
   .stat:nth-child(n+4) { display:none; }
+  #joinBanner { padding:9px 11px;gap:9px; }
+  #joinBanner .bnr-txt { font-size:.72rem; }
+  #joinBanner .bnr-cta { padding:7px 12px;font-size:.74rem; }
 }
 </style>
 </head>
@@ -241,6 +303,19 @@ header {
     <button class="cat-item active" data-filter="all">🔥 Todos <span class="cat-count" id="cnt-all">0</span></button>
     <button class="cat-item" data-filter="shopee">🟠 Shopee <span class="cat-count" id="cnt-shopee">0</span></button>
     <button class="cat-item" data-filter="mercadolivre">🟡 Mercado Livre <span class="cat-count" id="cnt-ml">0</span></button>
+    <button class="cat-item" id="favBtn">❤️ Meus Favoritos <span class="cat-count" id="cnt-fav">0</span></button>
+  </div>
+
+  <!-- Faixa de preço -->
+  <div class="sidebar-section">
+    <div class="sidebar-section-title">Faixa de Preço</div>
+    <div class="price-chips">
+      <button class="chip active" data-max="0">Todos</button>
+      <button class="chip" data-max="20">Até R$ 20</button>
+      <button class="chip" data-max="50">Até R$ 50</button>
+      <button class="chip" data-max="100">Até R$ 100</button>
+      <button class="chip" data-max="200">Até R$ 200</button>
+    </div>
   </div>
 
   <!-- Ordenação (mobile) -->
@@ -287,6 +362,14 @@ header {
 
 <button id="topBtn" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑</button>
 
+<!-- BANNER GRUPO -->
+<div id="joinBanner">
+  <span style="font-size:1.5rem;flex-shrink:0">📲</span>
+  <div class="bnr-txt">Receba achadinhos como estes <b>antes de todo mundo</b> no WhatsApp!</div>
+  <a href="https://chat.whatsapp.com/IMeU9zQxDETC4KEFowams8" target="_blank" rel="noopener" class="bnr-cta">Entrar grátis</a>
+  <button class="bnr-x" id="bnrClose" aria-label="Fechar">✕</button>
+</div>
+
 <script>
 const DATA_URL = 'produtos.json';
 const REFRESH_MS = 15 * 60 * 1000;
@@ -296,6 +379,34 @@ let activeSource = 'all';
 let activeCategory = 'all';
 let searchQ = '';
 let sortBy = 'discount';
+let maxPrice = 0;
+let onlyFavs = false;
+
+/* ── FAVORITOS (localStorage) ── */
+let favs = new Set();
+try { favs = new Set(JSON.parse(localStorage.getItem('favs') || '[]')); } catch(e) {}
+function saveFavs() {
+  try { localStorage.setItem('favs', JSON.stringify([...favs])); } catch(e) {}
+  document.getElementById('cnt-fav').textContent = favs.size;
+}
+function toggleFav(id, btn) {
+  if (favs.has(id)) { favs.delete(id); btn.classList.remove('faved'); btn.textContent = '🤍'; }
+  else { favs.add(id); btn.classList.add('faved'); btn.textContent = '❤️'; }
+  saveFavs();
+  if (onlyFavs) render();
+}
+
+/* ── COMPARTILHAR ── */
+function shareProduct(p) {
+  const disc = Math.round(p.discount || 0);
+  const txt = `🔥 *${p.name}*\n\n💰 R$ ${fmt(p.price)}${disc>0?`  (${disc}% OFF)`:''}\n\n🛒 ${p.link}\n\n📲 Mais ofertas: https://uandersonpj.github.io/shopee-promocoes/`;
+  const url = 'https://api.whatsapp.com/send?text=' + encodeURIComponent(txt);
+  if (navigator.share) {
+    navigator.share({ title: p.name, text: txt }).catch(() => window.open(url, '_blank'));
+  } else {
+    window.open(url, '_blank');
+  }
+}
 
 const NICHE_ICONS = {
   'organizador':'🗂️','tapete':'🏠','luminaria':'💡','abajur':'🪔','quadro decorativo':'🖼️',
@@ -338,13 +449,19 @@ function buildCard(p) {
   const badge = disc > 0 ? `<div class="badge ${isML?'badge-ml':'badge-shopee'}">${disc}% OFF</div>` : '';
   const src = `<div class="src-badge ${isML?'src-ml':'src-shopee'}">${isML?'🟡 ML':'🟠 Shopee'}</div>`;
   const commTag = hasComm ? `<div class="commission-tag">💎 COMISSÃO EXTRA</div>` : '';
+  const hotTag = (p.sales >= 1000) ? `<div class="hot-tag">🔥 MAIS VENDIDO</div>` : '';
+  const isFav = favs.has(p.id);
+  const actions = `<div class="card-actions">
+      <button class="icon-btn fav-btn${isFav?' faved':''}" data-id="${p.id}" title="Salvar" aria-label="Favoritar">${isFav?'❤️':'🤍'}</button>
+      <button class="icon-btn share-btn" data-id="${p.id}" title="Compartilhar" aria-label="Compartilhar">📤</button>
+    </div>`;
   const orig = (p.original_price && p.original_price > p.price)
     ? `<span class="price-was">R$ ${fmt(p.original_price)}</span>` : '';
   const img = p.image
     ? `<img src="${p.image}" alt="" loading="lazy" onerror="this.parentNode.innerHTML='<div style=display:flex;align-items:center;justify-content:center;height:100%;font-size:3rem>🛍️</div>'">`
     : `<div style="display:flex;align-items:center;justify-content:center;height:100%;font-size:3rem">🛍️</div>`;
   return `<div class="card ${isML?'ml-card':''}">
-    <div class="card-img">${img}${badge}${src}${commTag}</div>
+    <div class="card-img">${img}${badge}${src}${commTag}${hotTag}${actions}</div>
     <div class="card-body">
       <div class="card-name">${p.name||''}</div>
       <div class="card-prices"><span class="price-now">R$ ${fmt(p.price)}</span>${orig}</div>
@@ -385,8 +502,10 @@ function buildCatList(products) {
 
 function render() {
   let list = allProducts;
+  if (onlyFavs) list = list.filter(p=>favs.has(p.id));
   if (activeSource !== 'all') list = list.filter(p=>p.source===activeSource);
   if (activeCategory !== 'all') list = list.filter(p=>p.category===activeCategory);
+  if (maxPrice > 0) list = list.filter(p=>p.price<=maxPrice);
   if (searchQ) {
     const q = searchQ.toLowerCase();
     list = list.filter(p=>(p.name||'').toLowerCase().includes(q)||(p.category||'').toLowerCase().includes(q)||(p.shop||'').toLowerCase().includes(q));
@@ -399,7 +518,9 @@ function render() {
   const grid = document.getElementById('grid');
   grid.innerHTML = list.length
     ? list.map(buildCard).join('')
-    : `<div class="empty"><div class="icon">🔍</div><p>Nenhum produto encontrado.</p></div>`;
+    : (onlyFavs
+        ? `<div class="empty"><div class="icon">🤍</div><p>Você ainda não salvou nenhuma oferta.<br>Toque no coração de um produto para guardá-lo aqui.</p></div>`
+        : `<div class="empty"><div class="icon">🔍</div><p>Nenhum produto encontrado.</p></div>`);
 }
 
 async function load() {
@@ -474,6 +595,65 @@ document.querySelectorAll('.sort-item').forEach(btn => {
 
 // Search
 document.getElementById('searchInput').addEventListener('input', e => { searchQ=e.target.value.trim(); render(); });
+
+// Favoritos / Compartilhar (delegação no grid)
+document.getElementById('grid').addEventListener('click', e => {
+  const fav = e.target.closest('.fav-btn');
+  if (fav) { e.preventDefault(); toggleFav(fav.dataset.id, fav); return; }
+  const sh = e.target.closest('.share-btn');
+  if (sh) {
+    e.preventDefault();
+    const p = allProducts.find(x => x.id === sh.dataset.id);
+    if (p) shareProduct(p);
+  }
+});
+
+// Filtro "Meus Favoritos"
+document.getElementById('favBtn').addEventListener('click', () => {
+  onlyFavs = !onlyFavs;
+  document.getElementById('favBtn').classList.toggle('active', onlyFavs);
+  if (onlyFavs) {
+    document.querySelectorAll('[data-filter]').forEach(b=>b.classList.remove('active','ml-active'));
+    activeSource = 'all'; activeCategory = 'all';
+    document.querySelectorAll('.cat-item[data-cat]').forEach(b=>b.classList.remove('active'));
+  } else {
+    document.querySelectorAll('[data-filter="all"]').forEach(b=>b.classList.add('active'));
+  }
+  render();
+  closeSidebar();
+});
+
+// Faixa de preço
+document.querySelectorAll('.chip').forEach(chip => {
+  chip.addEventListener('click', () => {
+    document.querySelectorAll('.chip').forEach(c=>c.classList.remove('active'));
+    chip.classList.add('active');
+    maxPrice = Number(chip.dataset.max);
+    render();
+  });
+});
+
+// Banner de grupo (aparece após scroll, dispensável por 7 dias)
+(function initBanner() {
+  const KEY = 'bnrClosedAt';
+  let closed = 0;
+  try { closed = Number(localStorage.getItem(KEY) || 0); } catch(e) {}
+  if (Date.now() - closed < 7 * 24 * 3600 * 1000) return;
+  const bnr = document.getElementById('joinBanner');
+  const show = () => {
+    if (window.scrollY > 500) {
+      bnr.classList.add('show');
+      window.removeEventListener('scroll', show);
+    }
+  };
+  window.addEventListener('scroll', show);
+  document.getElementById('bnrClose').addEventListener('click', () => {
+    bnr.classList.remove('show');
+    try { localStorage.setItem(KEY, String(Date.now())); } catch(e) {}
+  });
+})();
+
+saveFavs();
 
 // Scroll top btn
 window.addEventListener('scroll', () => { document.getElementById('topBtn').style.display=window.scrollY>400?'block':'none'; });
