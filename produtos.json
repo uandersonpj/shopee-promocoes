@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T16:13:02.637760+00:00",
+  "updated_at": "2026-07-31T16:31:25.832333+00:00",
   "total": 1178,
   "products": [
     {
@@ -28,7 +28,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvk-mdc4nq55wpuu08",
         "productLink": "https://shopee.com.br/product/627750190/23698808886",
         "offerLink": "https://s.shopee.com.br/3LPf2PO0iK"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "15445478279",
@@ -281,35 +282,6 @@
         "productLink": "https://shopee.com.br/product/322874822/23797686527",
         "offerLink": "https://s.shopee.com.br/1qarFmmULG"
       }
-    },
-    {
-      "id": "43258408741",
-      "name": "Brinquedo Interativo Para Gatos Meowjoy Com Vara De Pesca Em Aço Inoxidável, Durável E Alivia O estresse",
-      "price": 11.69,
-      "original_price": 89.92,
-      "discount": 87.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823rf-mp4mojkbcr9o19",
-      "link": "https://s.shopee.com.br/2BDhePKPtp",
-      "rating": "5",
-      "sales": 728,
-      "shop": "Choice Oficial",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 43258408741,
-        "productName": "Brinquedo Interativo Para Gatos Meowjoy Com Vara De Pesca Em Aço Inoxidável, Durável E Alivia O estresse",
-        "price": "11.69",
-        "priceDiscountRate": 87,
-        "commissionRate": "0.07",
-        "sales": 728,
-        "ratingStar": "5",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rf-mp4mojkbcr9o19",
-        "productLink": "https://shopee.com.br/product/1006215031/43258408741",
-        "offerLink": "https://s.shopee.com.br/2BDhePKPtp"
-      },
-      "_last_price": null
     },
     {
       "id": "40723848736",
@@ -772,35 +744,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
         "productLink": "https://shopee.com.br/product/1006215031/25074712287",
         "offerLink": "https://s.shopee.com.br/80BUb8kkC7"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22899238019",
-      "name": "Luvas De Pesca E Ciclismo Masculinas/Femininas – Proteção Solar De Meio Dedo De Seda Gelada Respirável Para Motocicleta",
-      "price": 8.65,
-      "original_price": 50.88,
-      "discount": 83.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-81zvr-mim1d9qnfl6s9f",
-      "link": "https://s.shopee.com.br/50Xt1hGgXx",
-      "rating": "4.8",
-      "sales": 32,
-      "shop": "Paris*3",
-      "category": "luva pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22899238019,
-        "productName": "Luvas De Pesca E Ciclismo Masculinas/Femininas – Proteção Solar De Meio Dedo De Seda Gelada Respirável Para Motocicleta",
-        "price": "8.65",
-        "priceDiscountRate": 83,
-        "commissionRate": "0.03",
-        "sales": 32,
-        "ratingStar": "4.8",
-        "shopName": "Paris*3",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvr-mim1d9qnfl6s9f",
-        "productLink": "https://shopee.com.br/product/1603112703/22899238019",
-        "offerLink": "https://s.shopee.com.br/50Xt1hGgXx"
       },
       "_last_price": null
     },
@@ -1675,35 +1618,6 @@
       "_last_price": null
     },
     {
-      "id": "9511754133",
-      "name": "Creatina Max Titanium 300g Pura",
-      "price": 42.0,
-      "original_price": 182.61,
-      "discount": 77.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-22100-7b7tjvynfbivb7",
-      "link": "https://s.shopee.com.br/4LICEK9ahB",
-      "rating": "4.9",
-      "sales": 3403,
-      "shop": "Hard Extreme",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 9511754133,
-        "productName": "Creatina Max Titanium 300g Pura",
-        "price": "42",
-        "priceDiscountRate": 77,
-        "commissionRate": "0.03",
-        "sales": 3403,
-        "ratingStar": "4.9",
-        "shopName": "Hard Extreme",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-7b7tjvynfbivb7",
-        "productLink": "https://shopee.com.br/product/338537405/9511754133",
-        "offerLink": "https://s.shopee.com.br/4LICEK9ahB"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22693513091",
       "name": "Bolsa de Ombra Feminina com Alça Ajustável, Bolsa Feminina Elegante com Couro Sintetico Preto, Presente",
       "price": 69.98,
@@ -2280,6 +2194,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcw6gui5vk1e01",
         "productLink": "https://shopee.com.br/product/883941882/22498781114",
         "offerLink": "https://s.shopee.com.br/3B6Eq6Oe3H"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "42130479011",
+      "name": "Creatina Sabor 7Belo Max Titanium 300g Creatina 7 Belo",
+      "price": 48.99,
+      "original_price": 188.42,
+      "discount": 74.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mnn3go0t0e0x13",
+      "link": "https://s.shopee.com.br/80BUb3vdGI",
+      "rating": "4.9",
+      "sales": 642,
+      "shop": "Hard Extreme",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42130479011,
+        "productName": "Creatina Sabor 7Belo Max Titanium 300g Creatina 7 Belo",
+        "price": "48.99",
+        "priceDiscountRate": 74,
+        "commissionRate": "0.08",
+        "sales": 642,
+        "ratingStar": "4.9",
+        "shopName": "Hard Extreme",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mnn3go0t0e0x13",
+        "productLink": "https://shopee.com.br/product/338537405/42130479011",
+        "offerLink": "https://s.shopee.com.br/80BUb3vdGI"
       },
       "_last_price": null
     },
@@ -9768,8 +9711,8 @@
     {
       "id": "23898316189",
       "name": "240Kg Carretilha De Pesca Com Marine Sports Pitching 6.2 : 1 Alta 10kg Max Molinete De Pesca Molinete Pesca Mulinete",
-      "price": 52.0,
-      "original_price": 120.93,
+      "price": 52.8,
+      "original_price": 122.79,
       "discount": 57.0,
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfje7rr96hol5a",
@@ -9782,7 +9725,7 @@
       "_item": {
         "itemId": 23898316189,
         "productName": "240Kg Carretilha De Pesca Com Marine Sports Pitching 6.2 : 1 Alta 10kg Max Molinete De Pesca Molinete Pesca Mulinete",
-        "price": "52",
+        "price": "52.8",
         "priceDiscountRate": 57,
         "commissionRate": "0.08",
         "sales": 908,
@@ -18785,35 +18728,6 @@
       "_last_price": null
     },
     {
-      "id": "23099448490",
-      "name": "Kit 10, 20 Ou 30 Peixinhos + 1, 2 ou 4 Vara de Pesca",
-      "price": 17.6,
-      "original_price": 32.0,
-      "discount": 45.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mn49jc94sf7ka1",
-      "link": "https://s.shopee.com.br/80BVDYhkUD",
-      "rating": "4.7",
-      "sales": 677,
-      "shop": "Pereira Lima Variedades",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23099448490,
-        "productName": "Kit 10, 20 Ou 30 Peixinhos + 1, 2 ou 4 Vara de Pesca",
-        "price": "17.6",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.12",
-        "sales": 677,
-        "ratingStar": "4.7",
-        "shopName": "Pereira Lima Variedades",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mn49jc94sf7ka1",
-        "productLink": "https://shopee.com.br/product/1589345123/23099448490",
-        "offerLink": "https://s.shopee.com.br/80BVDYhkUD"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22897703144",
       "name": "vara de pesca Joyfox  Vara Molinete1,8m + Carretel Molinete Dc7000 12+1 Rolamentos",
       "price": 109.0,
@@ -18839,6 +18753,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m81eurdcjlzl56",
         "productLink": "https://shopee.com.br/product/1045152671/22897703144",
         "offerLink": "https://s.shopee.com.br/AAFzB6pxfd"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23099448490",
+      "name": "Kit 10, 20 Ou 30 Peixinhos + 1, 2 ou 4 Vara de Pesca",
+      "price": 17.6,
+      "original_price": 32.0,
+      "discount": 45.0,
+      "commission": 0.12,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mn49jc94sf7ka1",
+      "link": "https://s.shopee.com.br/80BVDYhkUD",
+      "rating": "4.7",
+      "sales": 677,
+      "shop": "Pereira Lima Variedades",
+      "category": "kit pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23099448490,
+        "productName": "Kit 10, 20 Ou 30 Peixinhos + 1, 2 ou 4 Vara de Pesca",
+        "price": "17.6",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.12",
+        "sales": 677,
+        "ratingStar": "4.7",
+        "shopName": "Pereira Lima Variedades",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mn49jc94sf7ka1",
+        "productLink": "https://shopee.com.br/product/1589345123/23099448490",
+        "offerLink": "https://s.shopee.com.br/80BVDYhkUD"
       },
       "_last_price": null
     },
@@ -21014,6 +20957,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/c09f0fbd455b065b796fbedfb3c45cf1",
         "productLink": "https://shopee.com.br/product/504210070/10928841452",
         "offerLink": "https://s.shopee.com.br/5q701DiZqx"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58252383961",
+      "name": "CAMISA DE PESCA FEMININA X PROTECTION COM CAPUZ PROTEÇÃO UV LUVA MAR NEGRO",
+      "price": 112.9,
+      "original_price": 191.36,
+      "discount": 41.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-81zuh-mim7r6z81zwgd1",
+      "link": "https://s.shopee.com.br/5fnapnRrHM",
+      "rating": "4.9",
+      "sales": 21,
+      "shop": "Angler Brasil",
+      "category": "luva pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58252383961,
+        "productName": "CAMISA DE PESCA FEMININA X PROTECTION COM CAPUZ PROTEÇÃO UV LUVA MAR NEGRO",
+        "price": "112.9",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.03",
+        "sales": 21,
+        "ratingStar": "4.9",
+        "shopName": "Angler Brasil",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zuh-mim7r6z81zwgd1",
+        "productLink": "https://shopee.com.br/product/434941384/58252383961",
+        "offerLink": "https://s.shopee.com.br/5fnapnRrHM"
       },
       "_last_price": null
     },
@@ -25774,6 +25746,35 @@
       "_last_price": null
     },
     {
+      "id": "20997919456",
+      "name": "Jogo de Panelas Teflon Munique 11 Pçs com Panela de Pressão fechamento externo de 2.5L",
+      "price": 269.9,
+      "original_price": 402.84,
+      "discount": 33.0,
+      "commission": 0.09,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdx9-m0uhupvpbqlh8d",
+      "link": "https://s.shopee.com.br/BSdGi6i9R",
+      "rating": "4.7",
+      "sales": 3067,
+      "shop": "Global Alumínios",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20997919456,
+        "productName": "Jogo de Panelas Teflon Munique 11 Pçs com Panela de Pressão fechamento externo de 2.5L",
+        "price": "269.9",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.09",
+        "sales": 3067,
+        "ratingStar": "4.7",
+        "shopName": "Global Alumínios",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx9-m0uhupvpbqlh8d",
+        "productLink": "https://shopee.com.br/product/583326427/20997919456",
+        "offerLink": "https://s.shopee.com.br/BSdGi6i9R"
+      },
+      "_last_price": null
+    },
+    {
       "id": "25721342244",
       "name": "Relógio Esportivo Digital Masculino À Prova D'água Silicone Pulseira Leve De Pulso Ao Ar Livre Presente",
       "price": 8.43,
@@ -26930,35 +26931,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcwg5y18qnsxd2",
         "productLink": "https://shopee.com.br/product/829646892/21598777670",
         "offerLink": "https://s.shopee.com.br/6L3Gc1NZUq"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20997919456",
-      "name": "Jogo de Panelas Teflon Munique 11 Pçs com Panela de Pressão fechamento externo de 2.5L",
-      "price": 275.9,
-      "original_price": 399.86,
-      "discount": 31.0,
-      "commission": 0.09,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdx9-m0uhupvpbqlh8d",
-      "link": "https://s.shopee.com.br/BSdGi6i9R",
-      "rating": "4.7",
-      "sales": 3067,
-      "shop": "Global Alumínios",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20997919456,
-        "productName": "Jogo de Panelas Teflon Munique 11 Pçs com Panela de Pressão fechamento externo de 2.5L",
-        "price": "275.9",
-        "priceDiscountRate": 31,
-        "commissionRate": "0.09",
-        "sales": 3067,
-        "ratingStar": "4.7",
-        "shopName": "Global Alumínios",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx9-m0uhupvpbqlh8d",
-        "productLink": "https://shopee.com.br/product/583326427/20997919456",
-        "offerLink": "https://s.shopee.com.br/BSdGi6i9R"
       },
       "_last_price": null
     },
@@ -28583,6 +28555,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mnedit5rizno15",
         "productLink": "https://shopee.com.br/product/339947600/22298932926",
         "offerLink": "https://s.shopee.com.br/7KvnnmUNT4"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22394358184",
+      "name": "Perfume Colônia Cebolinha Deo Jequiti Turma Da Mônica 25ml",
+      "price": 23.9,
+      "original_price": 32.74,
+      "discount": 27.0,
+      "commission": 0.14,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdxibc71og01ff",
+      "link": "https://s.shopee.com.br/Lm3SxKcHi",
+      "rating": "4.9",
+      "sales": 3637,
+      "shop": "JR Magazines",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22394358184,
+        "productName": "Perfume Colônia Cebolinha Deo Jequiti Turma Da Mônica 25ml",
+        "price": "23.9",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.14",
+        "sales": 3637,
+        "ratingStar": "4.9",
+        "shopName": "JR Magazines",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdxibc71og01ff",
+        "productLink": "https://shopee.com.br/product/1360835786/22394358184",
+        "offerLink": "https://s.shopee.com.br/Lm3SxKcHi"
       },
       "_last_price": null
     },
