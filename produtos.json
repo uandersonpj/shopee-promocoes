@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T07:48:33.823620+00:00",
-  "total": 1188,
+  "updated_at": "2026-07-31T08:05:44.026294+00:00",
+  "total": 1187,
   "products": [
     {
       "id": "23698808886",
@@ -57,7 +57,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/4a4e3664d0dd6a0269a4da4aae8d0ce8",
         "productLink": "https://shopee.com.br/product/664231577/15445478279",
         "offerLink": "https://s.shopee.com.br/9KgsBSrhR1"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "53604373378",
@@ -11017,35 +11018,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawb2jf7rxhf2",
         "productLink": "https://shopee.com.br/product/1242044379/22092998564",
         "offerLink": "https://s.shopee.com.br/4qESpF7ggE"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "42672846488",
-      "name": "Haltere NeoPrene Protetor De Peito De Futebol Esportivo Luckysport Original",
-      "price": 21.5,
-      "original_price": 47.78,
-      "discount": 55.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-22110-pn9iow3uebkv79",
-      "link": "https://s.shopee.com.br/5q7015LGym",
-      "rating": "4.6",
-      "sales": 85,
-      "shop": "luckyshop86.br",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42672846488,
-        "productName": "Haltere NeoPrene Protetor De Peito De Futebol Esportivo Luckysport Original",
-        "price": "21.5",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.03",
-        "sales": 85,
-        "ratingStar": "4.6",
-        "shopName": "luckyshop86.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22110-pn9iow3uebkv79",
-        "productLink": "https://shopee.com.br/product/403649711/42672846488",
-        "offerLink": "https://s.shopee.com.br/5q7015LGym"
       },
       "_last_price": null
     },
