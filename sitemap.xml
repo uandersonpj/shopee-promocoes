@@ -325,12 +325,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://uandersonpj.github.io/shopee-promocoes/?categoria=condicionador</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://uandersonpj.github.io/shopee-promocoes/?categoria=isca%20pesca</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>hourly</changefreq>
@@ -338,6 +332,12 @@
   </url>
   <url>
     <loc>https://uandersonpj.github.io/shopee-promocoes/?categoria=suporte%20vara%20pesca</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://uandersonpj.github.io/shopee-promocoes/?categoria=condicionador</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
