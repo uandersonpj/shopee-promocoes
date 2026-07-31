@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T04:23:07.733590+00:00",
-  "total": 1186,
+  "updated_at": "2026-07-31T04:41:17.280373+00:00",
+  "total": 1187,
   "products": [
     {
       "id": "23698808886",
@@ -4147,6 +4147,35 @@
       "_last_price": null
     },
     {
+      "id": "58206269989",
+      "name": "Cafeteira Italiana Moka 12 Xícaras 600ml em Inox para Café Tipo Expresso",
+      "price": 36.99,
+      "original_price": 115.59,
+      "discount": 68.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8260z-mlfoobx6680869",
+      "link": "https://s.shopee.com.br/Lm3T0Wk1T",
+      "rating": "4.9",
+      "sales": 496,
+      "shop": "Dong Sheng Presente LTDA",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58206269989,
+        "productName": "Cafeteira Italiana Moka 12 Xícaras 600ml em Inox para Café Tipo Expresso",
+        "price": "36.99",
+        "priceDiscountRate": 68,
+        "commissionRate": "0.03",
+        "sales": 496,
+        "ratingStar": "4.9",
+        "shopName": "Dong Sheng Presente LTDA",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260z-mlfoobx6680869",
+        "productLink": "https://shopee.com.br/product/794850458/58206269989",
+        "offerLink": "https://s.shopee.com.br/Lm3T0Wk1T"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23494180407",
       "name": "Carretilha Moinho de Pesca HE 1000-7000 Metal EVA 10kg Máximo Água Salada Oceano Carretel Metálico",
       "price": 25.99,
@@ -5655,35 +5684,6 @@
       "_last_price": null
     },
     {
-      "id": "52306505589",
-      "name": "Panela De Pressão Elétrica Fmaxx Kitchen Chef 4 Litros 800w Prateado 127v 60hz",
-      "price": 216.99,
-      "original_price": 619.97,
-      "discount": 65.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mnviv97rr0ua3f",
-      "link": "https://s.shopee.com.br/4fv2cypa1U",
-      "rating": "4.9",
-      "sales": 789,
-      "shop": "Shop.EV",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 52306505589,
-        "productName": "Panela De Pressão Elétrica Fmaxx Kitchen Chef 4 Litros 800w Prateado 127v 60hz",
-        "price": "216.99",
-        "priceDiscountRate": 65,
-        "commissionRate": "0.03",
-        "sales": 789,
-        "ratingStar": "4.9",
-        "shopName": "Shop.EV",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mnviv97rr0ua3f",
-        "productLink": "https://shopee.com.br/product/1512106181/52306505589",
-        "offerLink": "https://s.shopee.com.br/4fv2cypa1U"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20397641620",
       "name": "Tênis Meia Feminino Calce Fácil slip on Ortopédico Esportivo Leve e Confortável Casual Academia",
       "price": 21.0,
@@ -7163,6 +7163,35 @@
       "_last_price": null
     },
     {
+      "id": "22297461641",
+      "name": "Refil Agua Perfumada Odorizante de Ambientes e Tecidos Roupas Tecidos Lençois 1L",
+      "price": 33.73,
+      "original_price": 86.49,
+      "discount": 61.0,
+      "commission": 0.16,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ld-moh707bak07a30",
+      "link": "https://s.shopee.com.br/7fYeQV1N46",
+      "rating": "4.8",
+      "sales": 1003,
+      "shop": "Notável Aroma",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22297461641,
+        "productName": "Refil Agua Perfumada Odorizante de Ambientes e Tecidos Roupas Tecidos Lençois 1L",
+        "price": "33.73",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.16",
+        "sales": 1003,
+        "ratingStar": "4.8",
+        "shopName": "Notável Aroma",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-moh707bak07a30",
+        "productLink": "https://shopee.com.br/product/1207367861/22297461641",
+        "offerLink": "https://s.shopee.com.br/7fYeQV1N46"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58209396052",
       "name": "Kit de Panos de Microfibra Multiuso Alta Absorção para Limpeza Doméstica",
       "price": 11.5,
@@ -7913,6 +7942,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i6-mdxnx63nl3ib56",
         "productLink": "https://shopee.com.br/product/1108411379/22498859182",
         "offerLink": "https://s.shopee.com.br/8fRBOKIgVk"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "52306505589",
+      "name": "Panela De Pressão Elétrica Fmaxx Kitchen Chef 4 Litros 800w Prateado 127v 60hz",
+      "price": 244.99,
+      "original_price": 612.48,
+      "discount": 60.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mnviv97rr0ua3f",
+      "link": "https://s.shopee.com.br/4fv2cypa1U",
+      "rating": "4.9",
+      "sales": 789,
+      "shop": "Shop.EV",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 52306505589,
+        "productName": "Panela De Pressão Elétrica Fmaxx Kitchen Chef 4 Litros 800w Prateado 127v 60hz",
+        "price": "244.99",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.03",
+        "sales": 789,
+        "ratingStar": "4.9",
+        "shopName": "Shop.EV",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mnviv97rr0ua3f",
+        "productLink": "https://shopee.com.br/product/1512106181/52306505589",
+        "offerLink": "https://s.shopee.com.br/4fv2cypa1U"
       },
       "_last_price": null
     },
@@ -10471,8 +10529,8 @@
     {
       "id": "19894088143",
       "name": "1PC Vib Lure 6 Cores Iscas De Pesca Em Metal Rotativo 3D Olhos Crankbait Sequin Isca Dura Biônica Afundando Giratório Com Anzol Triplo",
-      "price": 6.39,
-      "original_price": 14.52,
+      "price": 6.79,
+      "original_price": 15.43,
       "discount": 56.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rbm3-lmr7kt9dlf89d7",
@@ -10485,7 +10543,7 @@
       "_item": {
         "itemId": 19894088143,
         "productName": "1PC Vib Lure 6 Cores Iscas De Pesca Em Metal Rotativo 3D Olhos Crankbait Sequin Isca Dura Biônica Afundando Giratório Com Anzol Triplo",
-        "price": "6.39",
+        "price": "6.79",
         "priceDiscountRate": 56,
         "commissionRate": "0.07",
         "sales": 289,
@@ -22446,35 +22504,6 @@
       "_last_price": null
     },
     {
-      "id": "52810065079",
-      "name": "Cafeteira Elétrica Kian 18 Xícaras 650W 127V Filtro Permanente Jarra de Vidro Corta Pingos",
-      "price": 79.27,
-      "original_price": 129.95,
-      "discount": 39.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mnx94udscxduba",
-      "link": "https://s.shopee.com.br/5q70A5tey4",
-      "rating": "4.9",
-      "sales": 1071,
-      "shop": "Compact Ltda",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 52810065079,
-        "productName": "Cafeteira Elétrica Kian 18 Xícaras 650W 127V Filtro Permanente Jarra de Vidro Corta Pingos",
-        "price": "79.27",
-        "priceDiscountRate": 39,
-        "commissionRate": "0.03",
-        "sales": 1071,
-        "ratingStar": "4.9",
-        "shopName": "Compact Ltda",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mnx94udscxduba",
-        "productLink": "https://shopee.com.br/product/1163208131/52810065079",
-        "offerLink": "https://s.shopee.com.br/5q70A5tey4"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22399208671",
       "name": "Liquidificador Oster 15 Velocidades + Pulsar Preto 3,2 Litros Preto",
       "price": 199.98,
@@ -22877,6 +22906,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1plzu4dymmgae",
         "productLink": "https://shopee.com.br/product/398944029/22202389512",
         "offerLink": "https://s.shopee.com.br/111kGDQ4QT"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23193702716",
+      "name": "Panela de Pressão 4,5L Antiaderente com Visor de Vidro na Tampa Superior Grande Grafite/Cereja MTA",
+      "price": 186.9,
+      "original_price": 301.45,
+      "discount": 38.0,
+      "commission": 0.09,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mn1koh1tjrpc96",
+      "link": "https://s.shopee.com.br/3LPfGdbVlT",
+      "rating": "4.9",
+      "sales": 620,
+      "shop": "Âncora Shopp",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23193702716,
+        "productName": "Panela de Pressão 4,5L Antiaderente com Visor de Vidro na Tampa Superior Grande Grafite/Cereja MTA",
+        "price": "186.9",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.09",
+        "sales": 620,
+        "ratingStar": "4.9",
+        "shopName": "Âncora Shopp",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mn1koh1tjrpc96",
+        "productLink": "https://shopee.com.br/product/316557325/23193702716",
+        "offerLink": "https://s.shopee.com.br/3LPfGdbVlT"
       },
       "_last_price": null
     },
@@ -29083,35 +29141,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820mb-mqy3crbeg4cm59",
         "productLink": "https://shopee.com.br/product/1036192295/23199462739",
         "offerLink": "https://s.shopee.com.br/1LeaejVcm0"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22892005630",
-      "name": "Amaciante Para Roupas Urca Lavanda - 5L",
-      "price": 17.99,
-      "original_price": 24.31,
-      "discount": 26.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7qvcs-lk151befklcaa0",
-      "link": "https://s.shopee.com.br/2VqY2tVNvk",
-      "rating": "4.9",
-      "sales": 1277,
-      "shop": "Casa de Gê",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22892005630,
-        "productName": "Amaciante Para Roupas Urca Lavanda - 5L",
-        "price": "17.99",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.13",
-        "sales": 1277,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvcs-lk151befklcaa0",
-        "productLink": "https://shopee.com.br/product/534023108/22892005630",
-        "offerLink": "https://s.shopee.com.br/2VqY2tVNvk"
       },
       "_last_price": null
     },
