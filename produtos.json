@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T18:11:51.488858+00:00",
-  "total": 1107,
+  "updated_at": "2026-08-01T18:30:36.284550+00:00",
+  "total": 1106,
   "products": [
     {
       "id": "23698808886",
@@ -140,8 +140,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qq-mp4mttd95lald6",
         "productLink": "https://shopee.com.br/product/1006215031/24683837124",
         "offerLink": "https://s.shopee.com.br/qiK3yTULK"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "52011120312",
@@ -750,8 +749,8 @@
     {
       "id": "25074712287",
       "name": "20 Peças Cabeça De Pesca Líderes De Linha De Aço Inoxidável Com Fivela Giratória Para Equipamento De Isca Ou Ganchos",
-      "price": 7.51,
-      "original_price": 44.18,
+      "price": 7.14,
+      "original_price": 42.0,
       "discount": 83.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
@@ -764,7 +763,7 @@
       "_item": {
         "itemId": 25074712287,
         "productName": "20 Peças Cabeça De Pesca Líderes De Linha De Aço Inoxidável Com Fivela Giratória Para Equipamento De Isca Ou Ganchos",
-        "price": "7.51",
+        "price": "7.14",
         "priceDiscountRate": 83,
         "commissionRate": "0.07",
         "sales": 606,
@@ -7650,6 +7649,35 @@
       "_last_price": null
     },
     {
+      "id": "52306505589",
+      "name": "Panela De Pressão Elétrica Fmaxx Kitchen Chef 4 Litros 800w Prateado 127v 60hz",
+      "price": 244.99,
+      "original_price": 612.48,
+      "discount": 60.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mnviv97rr0ua3f",
+      "link": "https://s.shopee.com.br/4fv2cypa1U",
+      "rating": "4.9",
+      "sales": 813,
+      "shop": "Shop.EV",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 52306505589,
+        "productName": "Panela De Pressão Elétrica Fmaxx Kitchen Chef 4 Litros 800w Prateado 127v 60hz",
+        "price": "244.99",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.03",
+        "sales": 813,
+        "ratingStar": "4.9",
+        "shopName": "Shop.EV",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mnviv97rr0ua3f",
+        "productLink": "https://shopee.com.br/product/1512106181/52306505589",
+        "offerLink": "https://s.shopee.com.br/4fv2cypa1U"
+      },
+      "_last_price": null
+    },
+    {
       "id": "29594282517",
       "name": "Panela De Pressão Elétrica Fmaxx Chef 4 Litros 800w 220v Prateado 220v 60hz",
       "price": 244.99,
@@ -8632,6 +8660,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mr5ati25mryf8b",
         "productLink": "https://shopee.com.br/product/1600162028/22598932320",
         "offerLink": "https://s.shopee.com.br/5VU9cWYWuN"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "42659281125",
+      "name": "Óculos De Sol Ovais Vintage Com Proteção UV400 , Armação De Metal Para Mulheres E Homens",
+      "price": 13.78,
+      "original_price": 32.81,
+      "discount": 58.0,
+      "commission": 0.12,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823qp-mp4m9y3qr6kr4f",
+      "link": "https://s.shopee.com.br/6pzXCylKMm",
+      "rating": "4.7",
+      "sales": 5550,
+      "shop": "Choice Oficial",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42659281125,
+        "productName": "Óculos De Sol Ovais Vintage Com Proteção UV400 , Armação De Metal Para Mulheres E Homens",
+        "price": "13.78",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.12",
+        "sales": 5550,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qp-mp4m9y3qr6kr4f",
+        "productLink": "https://shopee.com.br/product/1006215031/42659281125",
+        "offerLink": "https://s.shopee.com.br/6pzXCylKMm"
       },
       "_last_price": null
     },
@@ -9705,35 +9762,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/5794797f3d5fe25a874e953091734b51",
         "productLink": "https://shopee.com.br/product/421422443/4886594145",
         "offerLink": "https://s.shopee.com.br/8V7lC2N6of"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "42659281125",
-      "name": "Óculos De Sol Ovais Vintage Com Proteção UV400 , Armação De Metal Para Mulheres E Homens",
-      "price": 15.41,
-      "original_price": 35.02,
-      "discount": 56.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823qp-mp4m9y3qr6kr4f",
-      "link": "https://s.shopee.com.br/6pzXCylKMm",
-      "rating": "4.7",
-      "sales": 5550,
-      "shop": "Choice Oficial",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42659281125,
-        "productName": "Óculos De Sol Ovais Vintage Com Proteção UV400 , Armação De Metal Para Mulheres E Homens",
-        "price": "15.41",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.12",
-        "sales": 5550,
-        "ratingStar": "4.7",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qp-mp4m9y3qr6kr4f",
-        "productLink": "https://shopee.com.br/product/1006215031/42659281125",
-        "offerLink": "https://s.shopee.com.br/6pzXCylKMm"
       },
       "_last_price": null
     },
@@ -19859,35 +19887,6 @@
       "_last_price": null
     },
     {
-      "id": "18898304916",
-      "name": "Panela Pressão - 4,5 litros - Antiaderente - Cores: Cereja e Preto - Média",
-      "price": 79.99,
-      "original_price": 135.58,
-      "discount": 41.0,
-      "commission": 0.18,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekk44ym8mwx48",
-      "link": "https://s.shopee.com.br/4qEV1q9hne",
-      "rating": "4.9",
-      "sales": 827,
-      "shop": "Delux Alumínios",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18898304916,
-        "productName": "Panela Pressão - 4,5 litros - Antiaderente - Cores: Cereja e Preto - Média",
-        "price": "79.99",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.18",
-        "sales": 827,
-        "ratingStar": "4.9",
-        "shopName": "Delux Alumínios",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekk44ym8mwx48",
-        "productLink": "https://shopee.com.br/product/1598893985/18898304916",
-        "offerLink": "https://s.shopee.com.br/4qEV1q9hne"
-      },
-      "_last_price": null
-    },
-    {
       "id": "26019156649",
       "name": "Assista 8 Ultra Smart Watch Série 8 Digital Masculino À Prova D'água Esporte Fitness Android",
       "price": 34.04,
@@ -20754,6 +20753,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/faf088e43fa94ea059672bd62f30c59b",
         "productLink": "https://shopee.com.br/product/676684389/17969896360",
         "offerLink": "https://s.shopee.com.br/7Kvnnsx1ka"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23697635991",
+      "name": "Tênis Vizzano Feminino Casual Plataforma Tênis Leve Macio acolchoado Ultra Conforto Couro Sintético",
+      "price": 119.9,
+      "original_price": 199.83,
+      "discount": 40.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mby3kimlsxuh48",
+      "link": "https://s.shopee.com.br/5VU9cW40TJ",
+      "rating": "4.9",
+      "sales": 2228,
+      "shop": "Osure",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23697635991,
+        "productName": "Tênis Vizzano Feminino Casual Plataforma Tênis Leve Macio acolchoado Ultra Conforto Couro Sintético",
+        "price": "119.9",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 2228,
+        "ratingStar": "4.9",
+        "shopName": "Osure",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mby3kimlsxuh48",
+        "productLink": "https://shopee.com.br/product/371728614/23697635991",
+        "offerLink": "https://s.shopee.com.br/5VU9cW40TJ"
       },
       "_last_price": null
     },
@@ -23260,7 +23288,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820la-mmgnmeemyvwnae",
       "link": "https://s.shopee.com.br/70IxPAVe8u",
-      "rating": "5",
+      "rating": "4.9",
       "sales": 2821,
       "shop": "BRMAX OFICIAL",
       "category": "detergente",
@@ -23272,7 +23300,7 @@
         "priceDiscountRate": 35,
         "commissionRate": "0.03",
         "sales": 2821,
-        "ratingStar": "5",
+        "ratingStar": "4.9",
         "shopName": "BRMAX OFICIAL",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mmgnmeemyvwnae",
         "productLink": "https://shopee.com.br/product/399029882/58202393982",
@@ -23480,35 +23508,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b7-mg5iq6d437d8c0",
         "productLink": "https://shopee.com.br/product/1248266601/19698336562",
         "offerLink": "https://s.shopee.com.br/6pzXKdR2bl"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23697635991",
-      "name": "Tênis Vizzano Feminino Casual Plataforma Tênis Leve Macio acolchoado Ultra Conforto Couro Sintético",
-      "price": 130.11,
-      "original_price": 200.17,
-      "discount": 35.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mby3kimlsxuh48",
-      "link": "https://s.shopee.com.br/5VU9cW40TJ",
-      "rating": "4.9",
-      "sales": 2228,
-      "shop": "Osure",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23697635991,
-        "productName": "Tênis Vizzano Feminino Casual Plataforma Tênis Leve Macio acolchoado Ultra Conforto Couro Sintético",
-        "price": "130.11",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.03",
-        "sales": 2228,
-        "ratingStar": "4.9",
-        "shopName": "Osure",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mby3kimlsxuh48",
-        "productLink": "https://shopee.com.br/product/371728614/23697635991",
-        "offerLink": "https://s.shopee.com.br/5VU9cW40TJ"
       },
       "_last_price": null
     },
@@ -29657,35 +29656,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvd-m1e4waixbdef7f",
         "productLink": "https://shopee.com.br/product/347988064/22593481622",
         "offerLink": "https://s.shopee.com.br/AAG1NbCXkO"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "45158660671",
-      "name": "Cafeteira Espresso Lov Três Corações 1250W",
-      "price": 355.53,
-      "original_price": 450.04,
-      "discount": 21.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259z-mr0ij6f717nl64",
-      "link": "https://s.shopee.com.br/5LAjZAvYz1",
-      "rating": "5",
-      "sales": 928,
-      "shop": "BUMPER MAGAZINE",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45158660671,
-        "productName": "Cafeteira Espresso Lov Três Corações 1250W",
-        "price": "355.53",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.08",
-        "sales": 928,
-        "ratingStar": "5",
-        "shopName": "BUMPER MAGAZINE",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259z-mr0ij6f717nl64",
-        "productLink": "https://shopee.com.br/product/342086228/45158660671",
-        "offerLink": "https://s.shopee.com.br/5LAjZAvYz1"
       },
       "_last_price": null
     },
