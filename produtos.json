@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T00:20:35.007404+00:00",
-  "total": 1176,
+  "updated_at": "2026-08-01T00:39:10.897348+00:00",
+  "total": 1177,
   "products": [
     {
       "id": "23698808886",
@@ -112,7 +112,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qr-mp4mmrr7785o39",
         "productLink": "https://shopee.com.br/product/1006215031/52255058387",
         "offerLink": "https://s.shopee.com.br/3g2VR1Mk2Q"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58210104632",
@@ -1240,6 +1241,35 @@
       "_last_price": null
     },
     {
+      "id": "58202416470",
+      "name": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
+      "price": 3.98,
+      "original_price": 19.9,
+      "discount": 80.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
+      "link": "https://s.shopee.com.br/1qarIFqokv",
+      "rating": "4.8",
+      "sales": 11298,
+      "shop": "LUCIOshopping",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58202416470,
+        "productName": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
+        "price": "3.98",
+        "priceDiscountRate": 80,
+        "commissionRate": "0.03",
+        "sales": 11298,
+        "ratingStar": "4.8",
+        "shopName": "LUCIOshopping",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
+        "productLink": "https://shopee.com.br/product/1691846378/58202416470",
+        "offerLink": "https://s.shopee.com.br/1qarIFqokv"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21997150349",
       "name": "Kit 6 Forma de Silicone para Fritadeira Air Fryer com Alça Antiaderente Cozinha",
       "price": 13.99,
@@ -1671,6 +1701,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd6y-lwxns5l5iee81f",
         "productLink": "https://shopee.com.br/product/504210070/18705418573",
         "offerLink": "https://s.shopee.com.br/Lm45R2jl6"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "9511754133",
+      "name": "Creatina Max Titanium 300g Pura",
+      "price": 42.0,
+      "original_price": 182.61,
+      "discount": 77.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-22100-7b7tjvynfbivb7",
+      "link": "https://s.shopee.com.br/4LICEK9ahB",
+      "rating": "4.9",
+      "sales": 3556,
+      "shop": "Hard Extreme",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 9511754133,
+        "productName": "Creatina Max Titanium 300g Pura",
+        "price": "42",
+        "priceDiscountRate": 77,
+        "commissionRate": "0.03",
+        "sales": 3556,
+        "ratingStar": "4.9",
+        "shopName": "Hard Extreme",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-7b7tjvynfbivb7",
+        "productLink": "https://shopee.com.br/product/338537405/9511754133",
+        "offerLink": "https://s.shopee.com.br/4LICEK9ahB"
       },
       "_last_price": null
     },
@@ -15421,35 +15480,6 @@
       "_last_price": null
     },
     {
-      "id": "58258320900",
-      "name": "Creatina Monohidratada DUX Nutrition 100% Pura Original – Ganho de Massa Muscular Força",
-      "price": 39.88,
-      "original_price": 78.2,
-      "discount": 49.0,
-      "commission": 0.19,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lp-molis0zyjyme72",
-      "link": "https://s.shopee.com.br/50XuE1PB2m",
-      "rating": "4.8",
-      "sales": 831,
-      "shop": "Essenza_Natural",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58258320900,
-        "productName": "Creatina Monohidratada DUX Nutrition 100% Pura Original – Ganho de Massa Muscular Força",
-        "price": "39.88",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.19",
-        "sales": 831,
-        "ratingStar": "4.8",
-        "shopName": "Essenza_Natural",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-molis0zyjyme72",
-        "productLink": "https://shopee.com.br/product/1635178759/58258320900",
-        "offerLink": "https://s.shopee.com.br/50XuE1PB2m"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58260786160",
       "name": "Camiseta Masculina 100% Algodão Academia Treino Fitness Motivação Masculina Estampa Haltere",
       "price": 35.7,
@@ -20612,35 +20642,6 @@
       "_last_price": null
     },
     {
-      "id": "23694320738",
-      "name": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-      "price": 49.99,
-      "original_price": 84.73,
-      "discount": 41.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
-      "link": "https://s.shopee.com.br/3Vj5EiaiFq",
-      "rating": "4.8",
-      "sales": 1093,
-      "shop": "Traxen",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23694320738,
-        "productName": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-        "price": "49.99",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.03",
-        "sales": 1093,
-        "ratingStar": "4.8",
-        "shopName": "Traxen",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
-        "productLink": "https://shopee.com.br/product/786353833/23694320738",
-        "offerLink": "https://s.shopee.com.br/3Vj5EiaiFq"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22794061718",
       "name": "Dispensers Lavanderia 1,5L e 2,3L - Amaciante, Sabão em Pó, Sabão Líquido, Tira Manchas kit/individ",
       "price": 48.8,
@@ -21217,6 +21218,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824j3-mpfj2jnpcfta86",
         "productLink": "https://shopee.com.br/product/291961323/22898708200",
         "offerLink": "https://s.shopee.com.br/6VMgpVSRN2"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23694320738",
+      "name": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
+      "price": 49.99,
+      "original_price": 83.32,
+      "discount": 40.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
+      "link": "https://s.shopee.com.br/3Vj5EiaiFq",
+      "rating": "4.8",
+      "sales": 1093,
+      "shop": "Traxen",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23694320738,
+        "productName": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
+        "price": "49.99",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 1093,
+        "ratingStar": "4.8",
+        "shopName": "Traxen",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
+        "productLink": "https://shopee.com.br/product/786353833/23694320738",
+        "offerLink": "https://s.shopee.com.br/3Vj5EiaiFq"
       },
       "_last_price": null
     },
