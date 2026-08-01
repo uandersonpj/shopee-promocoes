@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T06:33:28.829351+00:00",
-  "total": 1139,
+  "updated_at": "2026-08-01T06:37:27.746790+00:00",
+  "total": 1140,
   "products": [
     {
       "id": "23698808886",
@@ -115,7 +115,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qq-mp4mttd95lald6",
         "productLink": "https://shopee.com.br/product/1006215031/24683837124",
         "offerLink": "https://s.shopee.com.br/qiK3yTULK"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "52011120312",
@@ -172,7 +173,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qr-mp4mmrr7785o39",
         "productLink": "https://shopee.com.br/product/1006215031/52255058387",
         "offerLink": "https://s.shopee.com.br/3g2VR1Mk2Q"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22194876933",
@@ -490,7 +492,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pu-mp4n4y3efpc2f7",
         "productLink": "https://shopee.com.br/product/1006215031/24360408071",
         "offerLink": "https://s.shopee.com.br/qiK3x8AXw"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "43479061221",
@@ -29895,6 +29898,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbmk-lnrahbu8unbg31",
         "productLink": "https://shopee.com.br/product/534023108/22692646370",
         "offerLink": "https://s.shopee.com.br/AAFzyz3wyr"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58251222961",
+      "name": "Perfumes Árabes Premium Secret’s 15ml - Luxo, Elegância, Alta Fixação, Longa Duração e Projeção",
+      "price": 24.98,
+      "original_price": 32.87,
+      "discount": 24.0,
+      "commission": 0.16,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81zup-mkrdv891r7k0c6",
+      "link": "https://s.shopee.com.br/gOtrZJLbo",
+      "rating": "4.8",
+      "sales": 3248,
+      "shop": "Aura Storee",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58251222961,
+        "productName": "Perfumes Árabes Premium Secret’s 15ml - Luxo, Elegância, Alta Fixação, Longa Duração e Projeção",
+        "price": "24.98",
+        "priceDiscountRate": 24,
+        "commissionRate": "0.16",
+        "sales": 3248,
+        "ratingStar": "4.8",
+        "shopName": "Aura Storee",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zup-mkrdv891r7k0c6",
+        "productLink": "https://shopee.com.br/product/1644511441/58251222961",
+        "offerLink": "https://s.shopee.com.br/gOtrZJLbo"
       },
       "_last_price": null
     },
