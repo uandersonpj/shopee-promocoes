@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T16:38:17.652591+00:00",
-  "total": 1110,
+  "updated_at": "2026-08-01T16:56:58.860151+00:00",
+  "total": 1111,
   "products": [
     {
       "id": "23698808886",
@@ -56,7 +56,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/4a4e3664d0dd6a0269a4da4aae8d0ce8",
         "productLink": "https://shopee.com.br/product/664231577/15445478279",
         "offerLink": "https://s.shopee.com.br/9KgsBSrhR1"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58210104632",
@@ -9594,8 +9595,8 @@
     {
       "id": "58207705974",
       "name": "Kit 5 Suportes de Banheiro Alto Adesivo Organizador de Parede Sabonete Shampoo Condicionador e Papel",
-      "price": 34.55,
-      "original_price": 78.52,
+      "price": 34.99,
+      "original_price": 79.52,
       "discount": 56.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mo5fpms2ebk0d2",
@@ -9608,7 +9609,7 @@
       "_item": {
         "itemId": 58207705974,
         "productName": "Kit 5 Suportes de Banheiro Alto Adesivo Organizador de Parede Sabonete Shampoo Condicionador e Papel",
-        "price": "34.55",
+        "price": "34.99",
         "priceDiscountRate": 56,
         "commissionRate": "0.03",
         "sales": 4449,
@@ -15827,35 +15828,6 @@
       "_last_price": null
     },
     {
-      "id": "22493214020",
-      "name": "Mini Bike Ergométrica Pernas Braços Fisioterapia Cicloergometro Pedalinho Monitor LCD",
-      "price": 106.37,
-      "original_price": 200.7,
-      "discount": 47.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwh-m0mfb8whkg9xc8",
-      "link": "https://s.shopee.com.br/111mSfVeeR",
-      "rating": "4.9",
-      "sales": 1667,
-      "shop": "JK LINK",
-      "category": "monitor",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22493214020,
-        "productName": "Mini Bike Ergométrica Pernas Braços Fisioterapia Cicloergometro Pedalinho Monitor LCD",
-        "price": "106.37",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.03",
-        "sales": 1667,
-        "ratingStar": "4.9",
-        "shopName": "JK LINK",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwh-m0mfb8whkg9xc8",
-        "productLink": "https://shopee.com.br/product/1204063631/22493214020",
-        "offerLink": "https://s.shopee.com.br/111mSfVeeR"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23294401619",
       "name": "TV Inteligente Adaptador 300M Sem Fio USB Repetidor Wifi",
       "price": 36.9,
@@ -19568,6 +19540,35 @@
       "_last_price": null
     },
     {
+      "id": "22393214253",
+      "name": "Mini Bike Ergométrica Pernas Braços Fisioterapia Cicloergometro Pedalinho Monitor LCD",
+      "price": 118.9,
+      "original_price": 201.53,
+      "discount": 41.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxb-m0mfbhb76nrd20",
+      "link": "https://s.shopee.com.br/6AjqXJ9rnD",
+      "rating": "4.9",
+      "sales": 1570,
+      "shop": "HUGSTORE",
+      "category": "monitor",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22393214253,
+        "productName": "Mini Bike Ergométrica Pernas Braços Fisioterapia Cicloergometro Pedalinho Monitor LCD",
+        "price": "118.9",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.07",
+        "sales": 1570,
+        "ratingStar": "4.9",
+        "shopName": "HUGSTORE",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxb-m0mfbhb76nrd20",
+        "productLink": "https://shopee.com.br/product/260477274/22393214253",
+        "offerLink": "https://s.shopee.com.br/6AjqXJ9rnD"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23799198110",
       "name": "Aparelho Medidor De Pressão Arterial Digital De Braço",
       "price": 35.31,
@@ -20353,8 +20354,8 @@
     {
       "id": "58258909286",
       "name": "Panos de Chão Gigante Microfibra Multiuso 60x80 Alta Absorção",
-      "price": 27.62,
-      "original_price": 46.03,
+      "price": 28.92,
+      "original_price": 48.2,
       "discount": 40.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mqw4zznwtszo9c",
@@ -20367,7 +20368,7 @@
       "_item": {
         "itemId": 58258909286,
         "productName": "Panos de Chão Gigante Microfibra Multiuso 60x80 Alta Absorção",
-        "price": "27.62",
+        "price": "28.92",
         "priceDiscountRate": 40,
         "commissionRate": "0.03",
         "sales": 8992,
@@ -27916,6 +27917,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zto-ml5989e7ml8nf8",
         "productLink": "https://shopee.com.br/product/1177903362/22198915719",
         "offerLink": "https://s.shopee.com.br/2VqY2vLZUs"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22892005630",
+      "name": "Amaciante Para Roupas Urca Lavanda - 5L",
+      "price": 17.99,
+      "original_price": 24.31,
+      "discount": 26.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7qvcs-lk151befklcaa0",
+      "link": "https://s.shopee.com.br/8AUwzrdROO",
+      "rating": "4.9",
+      "sales": 1338,
+      "shop": "Casa de Gê",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22892005630,
+        "productName": "Amaciante Para Roupas Urca Lavanda - 5L",
+        "price": "17.99",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.13",
+        "sales": 1338,
+        "ratingStar": "4.9",
+        "shopName": "Casa de Gê",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvcs-lk151befklcaa0",
+        "productLink": "https://shopee.com.br/product/534023108/22892005630",
+        "offerLink": "https://s.shopee.com.br/8AUwzrdROO"
       },
       "_last_price": null
     },
