@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T04:04:45.405181+00:00",
-  "total": 1141,
+  "updated_at": "2026-08-01T04:23:20.491954+00:00",
+  "total": 1139,
   "products": [
     {
       "id": "23698808886",
@@ -226,7 +226,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zy-mkjta30g8s1vfe",
         "productLink": "https://shopee.com.br/product/1719334016/22194876950",
         "offerLink": "https://s.shopee.com.br/1qarFsSjy8"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23593588164",
@@ -810,8 +811,8 @@
     {
       "id": "25074712287",
       "name": "20 Peças Cabeça De Pesca Líderes De Linha De Aço Inoxidável Com Fivela Giratória Para Equipamento De Isca Ou Ganchos",
-      "price": 7.51,
-      "original_price": 44.18,
+      "price": 7.13,
+      "original_price": 41.94,
       "discount": 83.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
@@ -824,7 +825,7 @@
       "_item": {
         "itemId": 25074712287,
         "productName": "20 Peças Cabeça De Pesca Líderes De Linha De Aço Inoxidável Com Fivela Giratória Para Equipamento De Isca Ou Ganchos",
-        "price": "7.51",
+        "price": "7.13",
         "priceDiscountRate": 83,
         "commissionRate": "0.07",
         "sales": 606,
@@ -11422,35 +11423,6 @@
       "_last_price": null
     },
     {
-      "id": "50758135390",
-      "name": "Kit de 1 Ate 2 Mbec ou Kayak Linha Premium Alta Fixação Amadeirado Frescor Floral Noite e Dia",
-      "price": 45.98,
-      "original_price": 99.96,
-      "discount": 54.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mp9qe0egsr29fe",
-      "link": "https://s.shopee.com.br/AAG0KuvkKu",
-      "rating": "4.6",
-      "sales": 1773,
-      "shop": "Calm And Confort",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 50758135390,
-        "productName": "Kit de 1 Ate 2 Mbec ou Kayak Linha Premium Alta Fixação Amadeirado Frescor Floral Noite e Dia",
-        "price": "45.98",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.03",
-        "sales": 1773,
-        "ratingStar": "4.6",
-        "shopName": "Calm And Confort",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mp9qe0egsr29fe",
-        "productLink": "https://shopee.com.br/product/1582653079/50758135390",
-        "offerLink": "https://s.shopee.com.br/AAG0KuvkKu"
-      },
-      "_last_price": null
-    },
-    {
       "id": "44001553177",
       "name": "Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda Pet Xixi Cão Pequeno Médio",
       "price": 19.96,
@@ -16642,6 +16614,35 @@
       "_last_price": null
     },
     {
+      "id": "46801277977",
+      "name": "Novo Carretel De Pesca De Arrasto Máximo De 200kg AK2000 , 7.2 : 1 Arremesso De Alta Velocidade Com Freio Magnético~",
+      "price": 56.0,
+      "original_price": 107.69,
+      "discount": 48.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mn3rb9a5tougb4",
+      "link": "https://s.shopee.com.br/9zwYysSiOm",
+      "rating": "4.8",
+      "sales": 31,
+      "shop": "YUMAX Super Store",
+      "category": "suporte vara pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 46801277977,
+        "productName": "Novo Carretel De Pesca De Arrasto Máximo De 200kg AK2000 , 7.2 : 1 Arremesso De Alta Velocidade Com Freio Magnético~",
+        "price": "56",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.13",
+        "sales": 31,
+        "ratingStar": "4.8",
+        "shopName": "YUMAX Super Store",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mn3rb9a5tougb4",
+        "productLink": "https://shopee.com.br/product/1594828289/46801277977",
+        "offerLink": "https://s.shopee.com.br/9zwYysSiOm"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21197653338",
       "name": "ESTOJO ORGANIZADOR , PESCA, FERRAMENTAS , PARAFUSOS EM GERAL TOY 25392",
       "price": 20.9,
@@ -17479,35 +17480,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mnm2elt70b9c20",
         "productLink": "https://shopee.com.br/product/801125047/23599290240",
         "offerLink": "https://s.shopee.com.br/3g2VRCR67t"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "46801277977",
-      "name": "Novo Carretel De Pesca De Arrasto Máximo De 200kg AK2000 , 7.2 : 1 Arremesso De Alta Velocidade Com Freio Magnético~",
-      "price": 58.0,
-      "original_price": 109.43,
-      "discount": 47.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mn3rb9a5tougb4",
-      "link": "https://s.shopee.com.br/9zwYysSiOm",
-      "rating": "4.8",
-      "sales": 31,
-      "shop": "YUMAX Super Store",
-      "category": "suporte vara pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 46801277977,
-        "productName": "Novo Carretel De Pesca De Arrasto Máximo De 200kg AK2000 , 7.2 : 1 Arremesso De Alta Velocidade Com Freio Magnético~",
-        "price": "58",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.13",
-        "sales": 31,
-        "ratingStar": "4.8",
-        "shopName": "YUMAX Super Store",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mn3rb9a5tougb4",
-        "productLink": "https://shopee.com.br/product/1594828289/46801277977",
-        "offerLink": "https://s.shopee.com.br/9zwYysSiOm"
       },
       "_last_price": null
     },
@@ -31660,35 +31632,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mm1w4sasy29w83",
         "productLink": "https://shopee.com.br/product/318598271/19151100623",
         "offerLink": "https://s.shopee.com.br/5fnZomZJSj"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23498913907",
-      "name": "RAÇÃO SPECIAL DOG CARNE ADULTO TODAS AS RAÇAS 15KG",
-      "price": 89.9,
-      "original_price": 109.63,
-      "discount": 18.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdx5bt22xlabb5",
-      "link": "https://s.shopee.com.br/111kGD8kKu",
-      "rating": "4.9",
-      "sales": 1149,
-      "shop": "Pegada Store  Oficial",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498913907,
-        "productName": "RAÇÃO SPECIAL DOG CARNE ADULTO TODAS AS RAÇAS 15KG",
-        "price": "89.9",
-        "priceDiscountRate": 18,
-        "commissionRate": "0.03",
-        "sales": 1149,
-        "ratingStar": "4.9",
-        "shopName": "Pegada Store  Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdx5bt22xlabb5",
-        "productLink": "https://shopee.com.br/product/441998868/23498913907",
-        "offerLink": "https://s.shopee.com.br/111kGD8kKu"
       },
       "_last_price": null
     },
