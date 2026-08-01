@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T18:30:36.284550+00:00",
+  "updated_at": "2026-08-01T18:49:17.485633+00:00",
   "total": 1106,
   "products": [
     {
@@ -84,7 +84,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mpf8btxmai2u62",
         "productLink": "https://shopee.com.br/product/1739671384/58210104632",
         "offerLink": "https://s.shopee.com.br/8AUunKn0Qa"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "53604373378",
@@ -5851,64 +5852,6 @@
       "_last_price": null
     },
     {
-      "id": "19797926230",
-      "name": "Elástico Extensor com Pedal Fitness Musculação Pilates Treino Funcional Fortalecimento Muscular",
-      "price": 14.8,
-      "original_price": 40.0,
-      "discount": 63.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825a2-mqqlyqtdbeo0bf",
-      "link": "https://s.shopee.com.br/3B6EqBipWy",
-      "rating": "4.8",
-      "sales": 7646,
-      "shop": "JK LINK",
-      "category": "elastico musculacao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19797926230,
-        "productName": "Elástico Extensor com Pedal Fitness Musculação Pilates Treino Funcional Fortalecimento Muscular",
-        "price": "14.8",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.03",
-        "sales": 7646,
-        "ratingStar": "4.8",
-        "shopName": "JK LINK",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a2-mqqlyqtdbeo0bf",
-        "productLink": "https://shopee.com.br/product/1204063631/19797926230",
-        "offerLink": "https://s.shopee.com.br/3B6EqBipWy"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18399505319",
-      "name": "Elástico Extensor Pedal Fitness Musculação Pilates Treinamento Funcional",
-      "price": 14.8,
-      "original_price": 40.0,
-      "discount": 63.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259w-mqqmzvap1nuo57",
-      "link": "https://s.shopee.com.br/30modsjSrx",
-      "rating": "4.8",
-      "sales": 4808,
-      "shop": "HUGSTORE",
-      "category": "elastico musculacao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18399505319,
-        "productName": "Elástico Extensor Pedal Fitness Musculação Pilates Treinamento Funcional",
-        "price": "14.8",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.07",
-        "sales": 4808,
-        "ratingStar": "4.8",
-        "shopName": "HUGSTORE",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259w-mqqmzvap1nuo57",
-        "productLink": "https://shopee.com.br/product/260477274/18399505319",
-        "offerLink": "https://s.shopee.com.br/30modsjSrx"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22094648104",
       "name": "Bota de treino elastic divas feminina fits zumba musculação",
       "price": 55.49,
@@ -8664,35 +8607,6 @@
       "_last_price": null
     },
     {
-      "id": "42659281125",
-      "name": "Óculos De Sol Ovais Vintage Com Proteção UV400 , Armação De Metal Para Mulheres E Homens",
-      "price": 13.78,
-      "original_price": 32.81,
-      "discount": 58.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823qp-mp4m9y3qr6kr4f",
-      "link": "https://s.shopee.com.br/6pzXCylKMm",
-      "rating": "4.7",
-      "sales": 5550,
-      "shop": "Choice Oficial",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42659281125,
-        "productName": "Óculos De Sol Ovais Vintage Com Proteção UV400 , Armação De Metal Para Mulheres E Homens",
-        "price": "13.78",
-        "priceDiscountRate": 58,
-        "commissionRate": "0.12",
-        "sales": 5550,
-        "ratingStar": "4.7",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qp-mp4m9y3qr6kr4f",
-        "productLink": "https://shopee.com.br/product/1006215031/42659281125",
-        "offerLink": "https://s.shopee.com.br/6pzXCylKMm"
-      },
-      "_last_price": null
-    },
-    {
       "id": "27289841239",
       "name": "Conjunto De 2 Peças Inclui Vara De Pesca De Fundição Longa De 1,6/1,8/2,1 M E Carretel metal 7,2 : 1",
       "price": 36.0,
@@ -9766,6 +9680,35 @@
       "_last_price": null
     },
     {
+      "id": "42659281125",
+      "name": "Óculos De Sol Ovais Vintage Com Proteção UV400 , Armação De Metal Para Mulheres E Homens",
+      "price": 15.41,
+      "original_price": 35.02,
+      "discount": 56.0,
+      "commission": 0.12,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823qp-mp4m9y3qr6kr4f",
+      "link": "https://s.shopee.com.br/6pzXCylKMm",
+      "rating": "4.7",
+      "sales": 5550,
+      "shop": "Choice Oficial",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42659281125,
+        "productName": "Óculos De Sol Ovais Vintage Com Proteção UV400 , Armação De Metal Para Mulheres E Homens",
+        "price": "15.41",
+        "priceDiscountRate": 56,
+        "commissionRate": "0.12",
+        "sales": 5550,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qp-mp4m9y3qr6kr4f",
+        "productLink": "https://shopee.com.br/product/1006215031/42659281125",
+        "offerLink": "https://s.shopee.com.br/6pzXCylKMm"
+      },
+      "_last_price": null
+    },
+    {
       "id": "56654809434",
       "name": "Óculos De Sol De Armação Pequena Retrô Com Dois Tons De Metal Proteção UV400 Unissex Para Viagens Diárias",
       "price": 11.51,
@@ -10313,6 +10256,64 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22110-pn9iow3uebkv79",
         "productLink": "https://shopee.com.br/product/403649711/42672846488",
         "offerLink": "https://s.shopee.com.br/5q7015LGym"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19797926230",
+      "name": "Elástico Extensor com Pedal Fitness Musculação Pilates Treino Funcional Fortalecimento Muscular",
+      "price": 17.99,
+      "original_price": 39.98,
+      "discount": 55.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825a2-mqqlyqtdbeo0bf",
+      "link": "https://s.shopee.com.br/3B6EqBipWy",
+      "rating": "4.8",
+      "sales": 7646,
+      "shop": "JK LINK",
+      "category": "elastico musculacao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19797926230,
+        "productName": "Elástico Extensor com Pedal Fitness Musculação Pilates Treino Funcional Fortalecimento Muscular",
+        "price": "17.99",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.03",
+        "sales": 7646,
+        "ratingStar": "4.8",
+        "shopName": "JK LINK",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a2-mqqlyqtdbeo0bf",
+        "productLink": "https://shopee.com.br/product/1204063631/19797926230",
+        "offerLink": "https://s.shopee.com.br/3B6EqBipWy"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18399505319",
+      "name": "Elástico Extensor Pedal Fitness Musculação Pilates Treinamento Funcional",
+      "price": 17.99,
+      "original_price": 39.98,
+      "discount": 55.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259w-mqqmzvap1nuo57",
+      "link": "https://s.shopee.com.br/30modsjSrx",
+      "rating": "4.8",
+      "sales": 4808,
+      "shop": "HUGSTORE",
+      "category": "elastico musculacao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18399505319,
+        "productName": "Elástico Extensor Pedal Fitness Musculação Pilates Treinamento Funcional",
+        "price": "17.99",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.07",
+        "sales": 4808,
+        "ratingStar": "4.8",
+        "shopName": "HUGSTORE",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259w-mqqmzvap1nuo57",
+        "productLink": "https://shopee.com.br/product/260477274/18399505319",
+        "offerLink": "https://s.shopee.com.br/30modsjSrx"
       },
       "_last_price": null
     },
@@ -19568,35 +19569,6 @@
       "_last_price": null
     },
     {
-      "id": "22698451598",
-      "name": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
-      "price": 57.99,
-      "original_price": 98.29,
-      "discount": 41.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
-      "link": "https://s.shopee.com.br/gOtrVYA84",
-      "rating": "4.9",
-      "sales": 273,
-      "shop": "LAMPADAECOM",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22698451598,
-        "productName": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
-        "price": "57.99",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.12",
-        "sales": 273,
-        "ratingStar": "4.9",
-        "shopName": "LAMPADAECOM",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
-        "productLink": "https://shopee.com.br/product/983665337/22698451598",
-        "offerLink": "https://s.shopee.com.br/gOtrVYA84"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23694320738",
       "name": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
       "price": 49.99,
@@ -21217,6 +21189,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfyfxtickw7be2",
         "productLink": "https://shopee.com.br/product/331720585/27881066513",
         "offerLink": "https://s.shopee.com.br/60QQEaULNz"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22698451598",
+      "name": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
+      "price": 59.9,
+      "original_price": 98.2,
+      "discount": 39.0,
+      "commission": 0.12,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
+      "link": "https://s.shopee.com.br/gOtrVYA84",
+      "rating": "4.9",
+      "sales": 273,
+      "shop": "LAMPADAECOM",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22698451598,
+        "productName": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
+        "price": "59.9",
+        "priceDiscountRate": 39,
+        "commissionRate": "0.12",
+        "sales": 273,
+        "ratingStar": "4.9",
+        "shopName": "LAMPADAECOM",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
+        "productLink": "https://shopee.com.br/product/983665337/22698451598",
+        "offerLink": "https://s.shopee.com.br/gOtrVYA84"
       },
       "_last_price": null
     },
