@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T04:29:19.723927+00:00",
+  "updated_at": "2026-08-02T04:47:55.249754+00:00",
   "total": 1114,
   "products": [
     {
@@ -28,7 +28,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvk-mdc4nq55wpuu08",
         "productLink": "https://shopee.com.br/product/627750190/23698808886",
         "offerLink": "https://s.shopee.com.br/3LPf2PO0iK"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "15445478279",
@@ -7506,6 +7507,35 @@
       "_last_price": null
     },
     {
+      "id": "52306505589",
+      "name": "Panela De Pressão Elétrica Fmaxx Kitchen Chef 4 Litros 800w Prateado 127v 60hz",
+      "price": 244.99,
+      "original_price": 612.48,
+      "discount": 60.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mnviv97rr0ua3f",
+      "link": "https://s.shopee.com.br/4fv2cypa1U",
+      "rating": "4.9",
+      "sales": 828,
+      "shop": "Shop.EV",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 52306505589,
+        "productName": "Panela De Pressão Elétrica Fmaxx Kitchen Chef 4 Litros 800w Prateado 127v 60hz",
+        "price": "244.99",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.03",
+        "sales": 828,
+        "ratingStar": "4.9",
+        "shopName": "Shop.EV",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mnviv97rr0ua3f",
+        "productLink": "https://shopee.com.br/product/1512106181/52306505589",
+        "offerLink": "https://s.shopee.com.br/4fv2cypa1U"
+      },
+      "_last_price": null
+    },
+    {
       "id": "29594282517",
       "name": "Panela De Pressão Elétrica Fmaxx Chef 4 Litros 800w 220v Prateado 220v 60hz",
       "price": 244.99,
@@ -8492,6 +8522,35 @@
       "_last_price": null
     },
     {
+      "id": "42659281125",
+      "name": "Óculos De Sol Ovais Vintage Com Proteção UV400 , Armação De Metal Para Mulheres E Homens",
+      "price": 13.78,
+      "original_price": 32.81,
+      "discount": 58.0,
+      "commission": 0.12,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823qp-mp4m9y3qr6kr4f",
+      "link": "https://s.shopee.com.br/6pzXCylKMm",
+      "rating": "4.7",
+      "sales": 5738,
+      "shop": "Choice Oficial",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42659281125,
+        "productName": "Óculos De Sol Ovais Vintage Com Proteção UV400 , Armação De Metal Para Mulheres E Homens",
+        "price": "13.78",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.12",
+        "sales": 5738,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qp-mp4m9y3qr6kr4f",
+        "productLink": "https://shopee.com.br/product/1006215031/42659281125",
+        "offerLink": "https://s.shopee.com.br/6pzXCylKMm"
+      },
+      "_last_price": null
+    },
+    {
       "id": "27289841239",
       "name": "Conjunto De 2 Peças Inclui Vara De Pesca De Fundição Longa De 1,6/1,8/2,1 M E Carretel metal 7,2 : 1",
       "price": 36.0,
@@ -8529,7 +8588,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rbkm-lpumq0sizh7ia5",
       "link": "https://s.shopee.com.br/40fLpnZ23y",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 388,
       "shop": "zhongyu.br",
       "category": "isca artificial",
@@ -8541,7 +8600,7 @@
         "priceDiscountRate": 58,
         "commissionRate": "0.03",
         "sales": 388,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "zhongyu.br",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbkm-lpumq0sizh7ia5",
         "productLink": "https://shopee.com.br/product/647546523/25305694401",
@@ -9619,35 +9678,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/5794797f3d5fe25a874e953091734b51",
         "productLink": "https://shopee.com.br/product/421422443/4886594145",
         "offerLink": "https://s.shopee.com.br/8V7lC2N6of"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "42659281125",
-      "name": "Óculos De Sol Ovais Vintage Com Proteção UV400 , Armação De Metal Para Mulheres E Homens",
-      "price": 15.41,
-      "original_price": 35.02,
-      "discount": 56.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823qp-mp4m9y3qr6kr4f",
-      "link": "https://s.shopee.com.br/6pzXCylKMm",
-      "rating": "4.7",
-      "sales": 5738,
-      "shop": "Choice Oficial",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42659281125,
-        "productName": "Óculos De Sol Ovais Vintage Com Proteção UV400 , Armação De Metal Para Mulheres E Homens",
-        "price": "15.41",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.12",
-        "sales": 5738,
-        "ratingStar": "4.7",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qp-mp4m9y3qr6kr4f",
-        "productLink": "https://shopee.com.br/product/1006215031/42659281125",
-        "offerLink": "https://s.shopee.com.br/6pzXCylKMm"
       },
       "_last_price": null
     },
@@ -19889,35 +19919,6 @@
       "_last_price": null
     },
     {
-      "id": "18898304916",
-      "name": "Panela Pressão - 4,5 litros - Antiaderente - Cores: Cereja e Preto - Média",
-      "price": 79.99,
-      "original_price": 135.58,
-      "discount": 41.0,
-      "commission": 0.18,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekk44ym8mwx48",
-      "link": "https://s.shopee.com.br/4qEV1q9hne",
-      "rating": "4.9",
-      "sales": 839,
-      "shop": "Delux Alumínios",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18898304916,
-        "productName": "Panela Pressão - 4,5 litros - Antiaderente - Cores: Cereja e Preto - Média",
-        "price": "79.99",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.18",
-        "sales": 839,
-        "ratingStar": "4.9",
-        "shopName": "Delux Alumínios",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekk44ym8mwx48",
-        "productLink": "https://shopee.com.br/product/1598893985/18898304916",
-        "offerLink": "https://s.shopee.com.br/4qEV1q9hne"
-      },
-      "_last_price": null
-    },
-    {
       "id": "26019156649",
       "name": "Assista 8 Ultra Smart Watch Série 8 Digital Masculino À Prova D'água Esporte Fitness Android",
       "price": 34.04,
@@ -27901,7 +27902,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mpcyqre3uv45e3",
       "link": "https://s.shopee.com.br/3Vj5Ei63IL",
-      "rating": "4.7",
+      "rating": "4.6",
       "sales": 464,
       "shop": "3dreamartstudio",
       "category": "roteador wifi",
@@ -27913,7 +27914,7 @@
         "priceDiscountRate": 26,
         "commissionRate": "0.03",
         "sales": 464,
-        "ratingStar": "4.7",
+        "ratingStar": "4.6",
         "shopName": "3dreamartstudio",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mpcyqre3uv45e3",
         "productLink": "https://shopee.com.br/product/1538521690/53812069361",
