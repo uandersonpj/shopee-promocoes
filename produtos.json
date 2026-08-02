@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T02:37:31.670992+00:00",
+  "updated_at": "2026-08-02T02:56:11.963391+00:00",
   "total": 1110,
   "products": [
     {
@@ -224,7 +224,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82628-mkjt9yqn25mt3b",
         "productLink": "https://shopee.com.br/product/1719334016/22194876933",
         "offerLink": "https://s.shopee.com.br/9041n31SQL"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22194876950",
@@ -21743,35 +21744,6 @@
       "_last_price": null
     },
     {
-      "id": "19599842993",
-      "name": "Ração Golden Special Gatos Adultos Frango e Carne 3kg",
-      "price": 49.9,
-      "original_price": 80.48,
-      "discount": 38.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc9rpzgvcfe3ae",
-      "link": "https://s.shopee.com.br/6L3GjiSwck",
-      "rating": "4.9",
-      "sales": 1958,
-      "shop": "SPN MARKET",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19599842993,
-        "productName": "Ração Golden Special Gatos Adultos Frango e Carne 3kg",
-        "price": "49.9",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.03",
-        "sales": 1958,
-        "ratingStar": "4.9",
-        "shopName": "SPN MARKET",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc9rpzgvcfe3ae",
-        "productLink": "https://shopee.com.br/product/1501485889/19599842993",
-        "offerLink": "https://s.shopee.com.br/6L3GjiSwck"
-      },
-      "_last_price": null
-    },
-    {
       "id": "24754408104",
       "name": "Relógio Masculino Novo Bracelete Original Conjunto De Relógios Masculinos Moda Presentes Em Aço Inoxidável",
       "price": 14.89,
@@ -22874,6 +22846,35 @@
       "_last_price": null
     },
     {
+      "id": "22999025441",
+      "name": "Purina Party Mix Petiscos Para Gatos Frango 40G Friskies",
+      "price": 6.39,
+      "original_price": 9.98,
+      "discount": 36.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825b6-mftzk8yoeyvgce",
+      "link": "https://s.shopee.com.br/Lm6lf6KBX",
+      "rating": "4.9",
+      "sales": 1060,
+      "shop": "Chegô",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22999025441,
+        "productName": "Purina Party Mix Petiscos Para Gatos Frango 40G Friskies",
+        "price": "6.39",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 1060,
+        "ratingStar": "4.9",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b6-mftzk8yoeyvgce",
+        "productLink": "https://shopee.com.br/product/1248266601/22999025441",
+        "offerLink": "https://s.shopee.com.br/Lm6lf6KBX"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58253767614",
       "name": "Arranhador Gato Rampa Anti Estresse Casinha Brinquedo Tóca 30x47cm",
       "price": 31.85,
@@ -23508,35 +23509,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b7-mg5iq6d437d8c0",
         "productLink": "https://shopee.com.br/product/1248266601/19698336562",
         "offerLink": "https://s.shopee.com.br/6pzXKdR2bl"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "42361748659",
-      "name": "Sache Friskies Ração Úmida para Gatos Adultos Caixa com 15un de 85g",
-      "price": 38.89,
-      "original_price": 59.83,
-      "discount": 35.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-md39aejxowe962",
-      "link": "https://s.shopee.com.br/7Kvom9euWM",
-      "rating": "4.9",
-      "sales": 1177,
-      "shop": "Omelhordopet2",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42361748659,
-        "productName": "Sache Friskies Ração Úmida para Gatos Adultos Caixa com 15un de 85g",
-        "price": "38.89",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.03",
-        "sales": 1177,
-        "ratingStar": "4.9",
-        "shopName": "Omelhordopet2",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md39aejxowe962",
-        "productLink": "https://shopee.com.br/product/568788110/42361748659",
-        "offerLink": "https://s.shopee.com.br/7Kvom9euWM"
       },
       "_last_price": null
     },
@@ -24639,35 +24611,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zus-mn30gipk4ni911",
         "productLink": "https://shopee.com.br/product/706961933/29392573808",
         "offerLink": "https://s.shopee.com.br/gOtrbRL6R"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22693876209",
-      "name": "Ração Úmida Sachê GranPlus Gourmet Gatos Display 18 unidades de 85g cada",
-      "price": 46.9,
-      "original_price": 70.0,
-      "discount": 33.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfm0moxiz9f14",
-      "link": "https://s.shopee.com.br/70IxWwQPGo",
-      "rating": "5",
-      "sales": 2152,
-      "shop": "SPN MARKET",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22693876209,
-        "productName": "Ração Úmida Sachê GranPlus Gourmet Gatos Display 18 unidades de 85g cada",
-        "price": "46.9",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.03",
-        "sales": 2152,
-        "ratingStar": "5",
-        "shopName": "SPN MARKET",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfm0moxiz9f14",
-        "productLink": "https://shopee.com.br/product/1501485889/22693876209",
-        "offerLink": "https://s.shopee.com.br/70IxWwQPGo"
       },
       "_last_price": null
     },
@@ -26234,6 +26177,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rasn-man7dwuzomle57",
         "productLink": "https://shopee.com.br/product/1194006916/19699443228",
         "offerLink": "https://s.shopee.com.br/2LXA3DSgzi"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23394548748",
+      "name": "Ração Úmida para Gatos Adultos Castrados Gourmet Sabor Carne 70G Golden",
+      "price": 2.79,
+      "original_price": 3.99,
+      "discount": 30.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82581-mg5kg5f074so75",
+      "link": "https://s.shopee.com.br/Lm6YoTEBl",
+      "rating": "4.9",
+      "sales": 881,
+      "shop": "Chegô",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23394548748,
+        "productName": "Ração Úmida para Gatos Adultos Castrados Gourmet Sabor Carne 70G Golden",
+        "price": "2.79",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.03",
+        "sales": 881,
+        "ratingStar": "4.9",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82581-mg5kg5f074so75",
+        "productLink": "https://shopee.com.br/product/1248266601/23394548748",
+        "offerLink": "https://s.shopee.com.br/Lm6YoTEBl"
       },
       "_last_price": null
     },
@@ -29279,6 +29251,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd72-lvt04eugw3tpbe",
         "productLink": "https://shopee.com.br/product/1194006916/22593058408",
         "offerLink": "https://s.shopee.com.br/1qarKsiJ85"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "42361748659",
+      "name": "Sache Friskies Ração Úmida para Gatos Adultos Caixa com 15un de 85g",
+      "price": 45.9,
+      "original_price": 59.61,
+      "discount": 23.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-md39aejxowe962",
+      "link": "https://s.shopee.com.br/7Kvom9euWM",
+      "rating": "4.9",
+      "sales": 1177,
+      "shop": "Omelhordopet2",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42361748659,
+        "productName": "Sache Friskies Ração Úmida para Gatos Adultos Caixa com 15un de 85g",
+        "price": "45.9",
+        "priceDiscountRate": 23,
+        "commissionRate": "0.03",
+        "sales": 1177,
+        "ratingStar": "4.9",
+        "shopName": "Omelhordopet2",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md39aejxowe962",
+        "productLink": "https://shopee.com.br/product/568788110/42361748659",
+        "offerLink": "https://s.shopee.com.br/7Kvom9euWM"
       },
       "_last_price": null
     },
