@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T07:35:09.376466+00:00",
+  "updated_at": "2026-08-02T07:53:43.623991+00:00",
   "total": 1114,
   "products": [
     {
@@ -173,7 +173,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qo-moodqvbtpo8yf2",
         "productLink": "https://shopee.com.br/product/1571156019/52011120312",
         "offerLink": "https://s.shopee.com.br/70IznPRvZT"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "52255058387",
@@ -16356,35 +16357,6 @@
       "_last_price": null
     },
     {
-      "id": "40265722427",
-      "name": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
-      "price": 7.7,
-      "original_price": 14.53,
-      "discount": 47.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
-      "link": "https://s.shopee.com.br/1Vy0rCiY8F",
-      "rating": "5",
-      "sales": 327,
-      "shop": "br.FashLoop",
-      "category": "isca artificial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40265722427,
-        "productName": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
-        "price": "7.7",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.03",
-        "sales": 327,
-        "ratingStar": "5",
-        "shopName": "br.FashLoop",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
-        "productLink": "https://shopee.com.br/product/1603567416/40265722427",
-        "offerLink": "https://s.shopee.com.br/1Vy0rCiY8F"
-      },
-      "_last_price": null
-    },
-    {
       "id": "25951902122",
       "name": "Isca Artificial De Pesca 6,5g/5cm Sinking Minnow Lure 3D Olhos A Laser Plástica Com 2 Anzóis Triplos",
       "price": 3.0,
@@ -18382,6 +18354,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mnmv3zn9gete60",
         "productLink": "https://shopee.com.br/product/1833187804/23699513929",
         "offerLink": "https://s.shopee.com.br/AAFzB6GlR5"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "40265722427",
+      "name": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
+      "price": 7.7,
+      "original_price": 13.75,
+      "discount": 44.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
+      "link": "https://s.shopee.com.br/1Vy0rCiY8F",
+      "rating": "5",
+      "sales": 327,
+      "shop": "br.FashLoop",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 40265722427,
+        "productName": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
+        "price": "7.7",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.03",
+        "sales": 327,
+        "ratingStar": "5",
+        "shopName": "br.FashLoop",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
+        "productLink": "https://shopee.com.br/product/1603567416/40265722427",
+        "offerLink": "https://s.shopee.com.br/1Vy0rCiY8F"
       },
       "_last_price": null
     },
