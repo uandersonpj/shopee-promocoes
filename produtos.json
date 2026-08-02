@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T18:23:48.496222+00:00",
-  "total": 1100,
+  "updated_at": "2026-08-02T18:42:46.740743+00:00",
+  "total": 1101,
   "products": [
     {
       "id": "23698808886",
@@ -142,7 +142,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qq-mp4mttd95lald6",
         "productLink": "https://shopee.com.br/product/1006215031/24683837124",
         "offerLink": "https://s.shopee.com.br/qiK3yTULK"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "52011120312",
@@ -170,8 +171,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qo-moodqvbtpo8yf2",
         "productLink": "https://shopee.com.br/product/1571156019/52011120312",
         "offerLink": "https://s.shopee.com.br/70IznPRvZT"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "52255058387",
@@ -13767,6 +13767,64 @@
       "_last_price": null
     },
     {
+      "id": "13964236047",
+      "name": "Organizador Caixa Plastica Com divisórias Para organizar Bijuterias Acessórios De Pesca Costura E Remédios 3 Andares",
+      "price": 20.0,
+      "original_price": 40.0,
+      "discount": 50.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqy8vp94s1u66",
+      "link": "https://s.shopee.com.br/7VFE0FhRO3",
+      "rating": "4.8",
+      "sales": 1699,
+      "shop": "top_oneshopp",
+      "category": "caixa de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 13964236047,
+        "productName": "Organizador Caixa Plastica Com divisórias Para organizar Bijuterias Acessórios De Pesca Costura E Remédios 3 Andares",
+        "price": "20",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.13",
+        "sales": 1699,
+        "ratingStar": "4.8",
+        "shopName": "top_oneshopp",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqy8vp94s1u66",
+        "productLink": "https://shopee.com.br/product/441081894/13964236047",
+        "offerLink": "https://s.shopee.com.br/7VFE0FhRO3"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19403621266",
+      "name": "100 Pçs/Caixa Cascos De Aço Carbono Isca De Peixe Jig Pesca Círculo Acessórios Da Carpa Equipamentos De Engrenagem Face Com Perfurado",
+      "price": 11.0,
+      "original_price": 22.0,
+      "discount": 50.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/1f2d37be391f345f756d41a3f6a0d150",
+      "link": "https://s.shopee.com.br/1LecNZmi4b",
+      "rating": "4.6",
+      "sales": 309,
+      "shop": "NYAYEO Vida ao ar livre",
+      "category": "caixa de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19403621266,
+        "productName": "100 Pçs/Caixa Cascos De Aço Carbono Isca De Peixe Jig Pesca Círculo Acessórios Da Carpa Equipamentos De Engrenagem Face Com Perfurado",
+        "price": "11",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.07",
+        "sales": 309,
+        "ratingStar": "4.6",
+        "shopName": "NYAYEO Vida ao ar livre",
+        "imageUrl": "https://cf.shopee.com.br/file/1f2d37be391f345f756d41a3f6a0d150",
+        "productLink": "https://shopee.com.br/product/654851978/19403621266",
+        "offerLink": "https://s.shopee.com.br/1LecNZmi4b"
+      },
+      "_last_price": null
+    },
+    {
       "id": "51656663357",
       "name": "Canivete Uso Domestico Camping Pesca Compacto Abertura Rápida Clipe de Bolso Resistente",
       "price": 14.99,
@@ -18987,35 +19045,6 @@
       "_last_price": null
     },
     {
-      "id": "23197735277",
-      "name": "Creatina Turbo Monohidratada Black Skull Pote 300g",
-      "price": 25.99,
-      "original_price": 44.81,
-      "discount": 42.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-ml6q0aevnrwm48",
-      "link": "https://s.shopee.com.br/5VU9kARz3Q",
-      "rating": "4.9",
-      "sales": 4037,
-      "shop": "Droga Clara",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23197735277,
-        "productName": "Creatina Turbo Monohidratada Black Skull Pote 300g",
-        "price": "25.99",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.07",
-        "sales": 4037,
-        "ratingStar": "4.9",
-        "shopName": "Droga Clara",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-ml6q0aevnrwm48",
-        "productLink": "https://shopee.com.br/product/1045085918/23197735277",
-        "offerLink": "https://s.shopee.com.br/5VU9kARz3Q"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22094694540",
       "name": "Ração Úmida Sachê Frango ao Molho 100g para Cães Adultos Pedigree",
       "price": 2.89,
@@ -21193,8 +21222,8 @@
     {
       "id": "23498778973",
       "name": "Protetor Solar Facial Hidrabene Clareador FPS 70 Antissinais Clareia a pele Toque Seco 50g Unidade ou Kit",
-      "price": 37.96,
-      "original_price": 61.23,
+      "price": 42.96,
+      "original_price": 69.29,
       "discount": 38.0,
       "commission": 0.075,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwt-mcuquxfbz03yae",
@@ -21207,7 +21236,7 @@
       "_item": {
         "itemId": 23498778973,
         "productName": "Protetor Solar Facial Hidrabene Clareador FPS 70 Antissinais Clareia a pele Toque Seco 50g Unidade ou Kit",
-        "price": "37.96",
+        "price": "42.96",
         "priceDiscountRate": 38,
         "commissionRate": "0.075",
         "sales": 3458,
@@ -24667,6 +24696,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-7qukw-leq0pw6u1hbf19",
         "productLink": "https://shopee.com.br/product/607566210/23033984620",
         "offerLink": "https://s.shopee.com.br/3LPf2aSMnr"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "52704618775",
+      "name": "Caixa Organizadora Plástico 13 Divisórias Transparente Multiuso Tampa e Trava Pesca Remédios Costura",
+      "price": 22.99,
+      "original_price": 34.31,
+      "discount": 33.0,
+      "commission": 0.18,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfx1m3yqt4x3c",
+      "link": "https://s.shopee.com.br/4Vbe9Oaedy",
+      "rating": "4.9",
+      "sales": 365,
+      "shop": "All Útil",
+      "category": "caixa de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 52704618775,
+        "productName": "Caixa Organizadora Plástico 13 Divisórias Transparente Multiuso Tampa e Trava Pesca Remédios Costura",
+        "price": "22.99",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.18",
+        "sales": 365,
+        "ratingStar": "4.9",
+        "shopName": "All Útil",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfx1m3yqt4x3c",
+        "productLink": "https://shopee.com.br/product/400733933/52704618775",
+        "offerLink": "https://s.shopee.com.br/4Vbe9Oaedy"
       },
       "_last_price": null
     },
@@ -31366,35 +31424,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9xu5qteawhuf3",
         "productLink": "https://shopee.com.br/product/1532520364/22693991174",
         "offerLink": "https://s.shopee.com.br/4Aym22nQ1L"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "10971341240",
-      "name": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente",
-      "price": 133.9,
-      "original_price": 159.4,
-      "discount": 16.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mq56ui3fgwled9",
-      "link": "https://s.shopee.com.br/50Xt1aoJLa",
-      "rating": "4.8",
-      "sales": 887,
-      "shop": "CASABIG",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 10971341240,
-        "productName": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente",
-        "price": "133.9",
-        "priceDiscountRate": 16,
-        "commissionRate": "0.07",
-        "sales": 887,
-        "ratingStar": "4.8",
-        "shopName": "CASABIG",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mq56ui3fgwled9",
-        "productLink": "https://shopee.com.br/product/521604773/10971341240",
-        "offerLink": "https://s.shopee.com.br/50Xt1aoJLa"
       },
       "_last_price": null
     },
