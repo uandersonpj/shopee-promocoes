@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T15:48:40.791596+00:00",
+  "updated_at": "2026-08-02T16:07:34.932726+00:00",
   "total": 1104,
   "products": [
     {
@@ -56,7 +56,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/4a4e3664d0dd6a0269a4da4aae8d0ce8",
         "productLink": "https://shopee.com.br/product/664231577/15445478279",
         "offerLink": "https://s.shopee.com.br/9KgsBSrhR1"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58210104632",
@@ -395,8 +396,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mnb6ge4ki9dt70",
         "productLink": "https://shopee.com.br/product/407760070/49603251115",
         "offerLink": "https://s.shopee.com.br/2g9yFEKw9x"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "21897733919",
@@ -1445,8 +1445,8 @@
     {
       "id": "25074712287",
       "name": "20 Peças Cabeça De Pesca Líderes De Linha De Aço Inoxidável Com Fivela Giratória Para Equipamento De Isca Ou Ganchos",
-      "price": 7.62,
-      "original_price": 33.13,
+      "price": 7.45,
+      "original_price": 32.39,
       "discount": 77.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
@@ -1459,7 +1459,7 @@
       "_item": {
         "itemId": 25074712287,
         "productName": "20 Peças Cabeça De Pesca Líderes De Linha De Aço Inoxidável Com Fivela Giratória Para Equipamento De Isca Ou Ganchos",
-        "price": "7.62",
+        "price": "7.45",
         "priceDiscountRate": 77,
         "commissionRate": "0.07",
         "sales": 659,
@@ -4931,7 +4931,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-82625-mlcz0sr2f0un54",
       "link": "https://s.shopee.com.br/70IxWq6h6O",
-      "rating": "4.5",
+      "rating": "4.6",
       "sales": 1697,
       "shop": "_BEM ESTAR88",
       "category": "monitor",
@@ -4943,7 +4943,7 @@
         "priceDiscountRate": 65,
         "commissionRate": "0.03",
         "sales": 1697,
-        "ratingStar": "4.5",
+        "ratingStar": "4.6",
         "shopName": "_BEM ESTAR88",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82625-mlcz0sr2f0un54",
         "productLink": "https://shopee.com.br/product/1558233660/58206131437",
@@ -8550,8 +8550,8 @@
     {
       "id": "22694463642",
       "name": "Forma Air Fryer 50/100/150/200/250 Descartável Antiaderente Redonda Forro De Papel Vegetal",
-      "price": 13.98,
-      "original_price": 33.29,
+      "price": 13.99,
+      "original_price": 33.31,
       "discount": 58.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfa2zn43hdz96b",
@@ -8564,7 +8564,7 @@
       "_item": {
         "itemId": 22694463642,
         "productName": "Forma Air Fryer 50/100/150/200/250 Descartável Antiaderente Redonda Forro De Papel Vegetal",
-        "price": "13.98",
+        "price": "13.99",
         "priceDiscountRate": 58,
         "commissionRate": "0.03",
         "sales": 1668,
@@ -20409,35 +20409,6 @@
       "_last_price": null
     },
     {
-      "id": "10764754425",
-      "name": "Liquidificador 3 velocidades 550W Turbo Power - L-99-FR - Mondial",
-      "price": 105.73,
-      "original_price": 176.22,
-      "discount": 40.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259u-mr9l7aa480ek37",
-      "link": "https://s.shopee.com.br/6L3Gc2RZFa",
-      "rating": "4.9",
-      "sales": 644,
-      "shop": "Dutra Máquinas",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 10764754425,
-        "productName": "Liquidificador 3 velocidades 550W Turbo Power - L-99-FR - Mondial",
-        "price": "105.73",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 644,
-        "ratingStar": "4.9",
-        "shopName": "Dutra Máquinas",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259u-mr9l7aa480ek37",
-        "productLink": "https://shopee.com.br/product/489001115/10764754425",
-        "offerLink": "https://s.shopee.com.br/6L3Gc2RZFa"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23793927191",
       "name": "Panela De Pressão 4,5 Litros Antiaderente Teflon Com Tampa Externa Cinza PROMOÇAO",
       "price": 137.0,
@@ -21490,7 +21461,7 @@
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rblr-lnh90qw90azw09",
       "link": "https://s.shopee.com.br/9KgsBZJw7y",
-      "rating": "4.6",
+      "rating": "4.7",
       "sales": 1745,
       "shop": "Choice Oficial",
       "category": "relogio masculino",
@@ -21502,7 +21473,7 @@
         "priceDiscountRate": 38,
         "commissionRate": "0.07",
         "sales": 1745,
-        "ratingStar": "4.6",
+        "ratingStar": "4.7",
         "shopName": "Choice Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rblr-lnh90qw90azw09",
         "productLink": "https://shopee.com.br/product/1006215031/24754408104",
@@ -24581,6 +24552,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a0-mrcnt8thz4smcb",
         "productLink": "https://shopee.com.br/product/489001115/12237278339",
         "offerLink": "https://s.shopee.com.br/9KgsBYG99o"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "10764754425",
+      "name": "Liquidificador 3 velocidades 550W Turbo Power - L-99-FR - Mondial",
+      "price": 117.47,
+      "original_price": 175.33,
+      "discount": 33.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259u-mr9l7aa480ek37",
+      "link": "https://s.shopee.com.br/6L3Gc2RZFa",
+      "rating": "4.9",
+      "sales": 644,
+      "shop": "Dutra Máquinas",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 10764754425,
+        "productName": "Liquidificador 3 velocidades 550W Turbo Power - L-99-FR - Mondial",
+        "price": "117.47",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.03",
+        "sales": 644,
+        "ratingStar": "4.9",
+        "shopName": "Dutra Máquinas",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259u-mr9l7aa480ek37",
+        "productLink": "https://shopee.com.br/product/489001115/10764754425",
+        "offerLink": "https://s.shopee.com.br/6L3Gc2RZFa"
       },
       "_last_price": null
     },
