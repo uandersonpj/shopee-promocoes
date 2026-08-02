@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T00:45:21.575150+00:00",
-  "total": 1107,
+  "updated_at": "2026-08-02T01:04:05.733826+00:00",
+  "total": 1108,
   "products": [
     {
       "id": "23698808886",
@@ -84,7 +84,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mpf8btxmai2u62",
         "productLink": "https://shopee.com.br/product/1739671384/58210104632",
         "offerLink": "https://s.shopee.com.br/8AUunKn0Qa"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "53604373378",
@@ -2864,35 +2865,6 @@
       "_last_price": null
     },
     {
-      "id": "58210748022",
-      "name": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g Pele plena",
-      "price": 29.99,
-      "original_price": 99.97,
-      "discount": 70.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134211-820lk-mnhohirkcb9eaf",
-      "link": "https://s.shopee.com.br/BSe3P1Rn1",
-      "rating": "4.8",
-      "sales": 3228,
-      "shop": "Lulu Secrets",
-      "category": "creme facial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58210748022,
-        "productName": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g Pele plena",
-        "price": "29.99",
-        "priceDiscountRate": 70,
-        "commissionRate": "0.07",
-        "sales": 3228,
-        "ratingStar": "4.8",
-        "shopName": "Lulu Secrets",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-820lk-mnhohirkcb9eaf",
-        "productLink": "https://shopee.com.br/product/1650905473/58210748022",
-        "offerLink": "https://s.shopee.com.br/BSe3P1Rn1"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58203876031",
       "name": "Kit com 40 Carrinhos de Fricção Coloridos + Caixa Organizadora | Presente Infantil",
       "price": 44.99,
@@ -5006,6 +4978,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-moksftpzd7v3cf",
         "productLink": "https://shopee.com.br/product/1509466453/42358581197",
         "offerLink": "https://s.shopee.com.br/8pkbaYkT4m"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58210748022",
+      "name": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g Pele plena",
+      "price": 29.99,
+      "original_price": 85.69,
+      "discount": 65.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134211-820lk-mnhohirkcb9eaf",
+      "link": "https://s.shopee.com.br/BSe3P1Rn1",
+      "rating": "4.8",
+      "sales": 3228,
+      "shop": "Lulu Secrets",
+      "category": "creme facial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58210748022,
+        "productName": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g Pele plena",
+        "price": "29.99",
+        "priceDiscountRate": 65,
+        "commissionRate": "0.07",
+        "sales": 3228,
+        "ratingStar": "4.8",
+        "shopName": "Lulu Secrets",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-820lk-mnhohirkcb9eaf",
+        "productLink": "https://shopee.com.br/product/1650905473/58210748022",
+        "offerLink": "https://s.shopee.com.br/BSe3P1Rn1"
       },
       "_last_price": null
     },
@@ -14116,35 +14117,6 @@
       "_last_price": null
     },
     {
-      "id": "20599650029",
-      "name": "Papel Fotográfico 180g Glossy Brilhante A4 à Prova D'água MASTERPRINT",
-      "price": 8.99,
-      "original_price": 17.63,
-      "discount": 49.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7jpai59essq27",
-      "link": "https://s.shopee.com.br/40fNYGm0FF",
-      "rating": "4.9",
-      "sales": 2248,
-      "shop": "Papel fotografico e Papelaria",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20599650029,
-        "productName": "Papel Fotográfico 180g Glossy Brilhante A4 à Prova D'água MASTERPRINT",
-        "price": "8.99",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.08",
-        "sales": 2248,
-        "ratingStar": "4.9",
-        "shopName": "Papel fotografico e Papelaria",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7jpai59essq27",
-        "productLink": "https://shopee.com.br/product/761647073/20599650029",
-        "offerLink": "https://s.shopee.com.br/40fNYGm0FF"
-      },
-      "_last_price": null
-    },
-    {
       "id": "41165421078",
       "name": "ACASIS 10Gbps M . 2 NVMe SSD Gabinete USB C Docking Station Com Ventilador De Resfriamento Para iPhone17 16 15 Pro/Max/P",
       "price": 204.0,
@@ -20815,35 +20787,6 @@
       "_last_price": null
     },
     {
-      "id": "23697635991",
-      "name": "Tênis Vizzano Feminino Casual Plataforma Tênis Leve Macio acolchoado Ultra Conforto Couro Sintético",
-      "price": 119.9,
-      "original_price": 199.83,
-      "discount": 40.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mby3kimlsxuh48",
-      "link": "https://s.shopee.com.br/5VU9cW40TJ",
-      "rating": "4.9",
-      "sales": 2276,
-      "shop": "Osure",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23697635991,
-        "productName": "Tênis Vizzano Feminino Casual Plataforma Tênis Leve Macio acolchoado Ultra Conforto Couro Sintético",
-        "price": "119.9",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 2276,
-        "ratingStar": "4.9",
-        "shopName": "Osure",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mby3kimlsxuh48",
-        "productLink": "https://shopee.com.br/product/371728614/23697635991",
-        "offerLink": "https://s.shopee.com.br/5VU9cW40TJ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58253571216",
       "name": "Cola Transparente Para Reparo De Sapatos – Adesivo À Prova D'água Fixação De Solas , Saltos E Bolsas (60ml)",
       "price": 15.23,
@@ -23595,6 +23538,64 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b7-mg5iq6d437d8c0",
         "productLink": "https://shopee.com.br/product/1248266601/19698336562",
         "offerLink": "https://s.shopee.com.br/6pzXKdR2bl"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "42361748659",
+      "name": "Sache Friskies Ração Úmida para Gatos Adultos Caixa com 15un de 85g",
+      "price": 38.89,
+      "original_price": 59.83,
+      "discount": 35.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-md39aejxowe962",
+      "link": "https://s.shopee.com.br/7Kvom9euWM",
+      "rating": "4.9",
+      "sales": 1177,
+      "shop": "Omelhordopet2",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42361748659,
+        "productName": "Sache Friskies Ração Úmida para Gatos Adultos Caixa com 15un de 85g",
+        "price": "38.89",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.03",
+        "sales": 1177,
+        "ratingStar": "4.9",
+        "shopName": "Omelhordopet2",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md39aejxowe962",
+        "productLink": "https://shopee.com.br/product/568788110/42361748659",
+        "offerLink": "https://s.shopee.com.br/7Kvom9euWM"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23697635991",
+      "name": "Tênis Vizzano Feminino Casual Plataforma Tênis Leve Macio acolchoado Ultra Conforto Couro Sintético",
+      "price": 130.11,
+      "original_price": 200.17,
+      "discount": 35.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mby3kimlsxuh48",
+      "link": "https://s.shopee.com.br/5VU9cW40TJ",
+      "rating": "4.9",
+      "sales": 2276,
+      "shop": "Osure",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23697635991,
+        "productName": "Tênis Vizzano Feminino Casual Plataforma Tênis Leve Macio acolchoado Ultra Conforto Couro Sintético",
+        "price": "130.11",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.03",
+        "sales": 2276,
+        "ratingStar": "4.9",
+        "shopName": "Osure",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mby3kimlsxuh48",
+        "productLink": "https://shopee.com.br/product/371728614/23697635991",
+        "offerLink": "https://s.shopee.com.br/5VU9cW40TJ"
       },
       "_last_price": null
     },
@@ -30642,6 +30643,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mp18dhjxhy4l91",
         "productLink": "https://shopee.com.br/product/987020544/58261911959",
         "offerLink": "https://s.shopee.com.br/8AUwzw6U9V"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22398562405",
+      "name": "Ração Golden Special Cães Adultos Frango e Carne 15 kg",
+      "price": 140.9,
+      "original_price": 173.95,
+      "discount": 19.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-main4ts5zatr4b",
+      "link": "https://s.shopee.com.br/1LecrNWV1Y",
+      "rating": "4.9",
+      "sales": 454,
+      "shop": "CHICOBASA",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22398562405,
+        "productName": "Ração Golden Special Cães Adultos Frango e Carne 15 kg",
+        "price": "140.9",
+        "priceDiscountRate": 19,
+        "commissionRate": "0.03",
+        "sales": 454,
+        "ratingStar": "4.9",
+        "shopName": "CHICOBASA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-main4ts5zatr4b",
+        "productLink": "https://shopee.com.br/product/1320930677/22398562405",
+        "offerLink": "https://s.shopee.com.br/1LecrNWV1Y"
       },
       "_last_price": null
     },
