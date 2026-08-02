@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T22:10:25.875252+00:00",
+  "updated_at": "2026-08-02T22:29:18.528945+00:00",
   "total": 1103,
   "products": [
     {
@@ -57,7 +57,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/4a4e3664d0dd6a0269a4da4aae8d0ce8",
         "productLink": "https://shopee.com.br/product/664231577/15445478279",
         "offerLink": "https://s.shopee.com.br/9KgsBSrhR1"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58210104632",
@@ -142,34 +143,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qq-mp4mttd95lald6",
         "productLink": "https://shopee.com.br/product/1006215031/24683837124",
         "offerLink": "https://s.shopee.com.br/qiK3yTULK"
-      }
-    },
-    {
-      "id": "52011120312",
-      "name": "Isca De Camarão Artificial Realista Kit 5/10/30/50 peças Macia Para Pesca Anzol",
-      "price": 10.89,
-      "original_price": 99.0,
-      "discount": 89.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823qo-moodqvbtpo8yf2",
-      "link": "https://s.shopee.com.br/70IznPRvZT",
-      "rating": "4.7",
-      "sales": 135,
-      "shop": "FLYERILING",
-      "category": "isca artificial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 52011120312,
-        "productName": "Isca De Camarão Artificial Realista Kit 5/10/30/50 peças Macia Para Pesca Anzol",
-        "price": "10.89",
-        "priceDiscountRate": 89,
-        "commissionRate": "0.03",
-        "sales": 135,
-        "ratingStar": "4.7",
-        "shopName": "FLYERILING",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qo-moodqvbtpo8yf2",
-        "productLink": "https://shopee.com.br/product/1571156019/52011120312",
-        "offerLink": "https://s.shopee.com.br/70IznPRvZT"
       }
     },
     {
@@ -1028,8 +1001,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
         "productLink": "https://shopee.com.br/product/972031390/21997150349",
         "offerLink": "https://s.shopee.com.br/9KgsBXgseJ"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58251235467",
@@ -2971,35 +2943,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mrf0djwv98udee",
         "productLink": "https://shopee.com.br/product/1414801857/57653356201",
         "offerLink": "https://s.shopee.com.br/W5US10B73"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58210748022",
-      "name": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g Pele plena",
-      "price": 29.99,
-      "original_price": 99.97,
-      "discount": 70.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134211-820lk-mnhohirkcb9eaf",
-      "link": "https://s.shopee.com.br/BSe3P1Rn1",
-      "rating": "4.8",
-      "sales": 3148,
-      "shop": "Lulu Secrets",
-      "category": "creme facial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58210748022,
-        "productName": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g Pele plena",
-        "price": "29.99",
-        "priceDiscountRate": 70,
-        "commissionRate": "0.07",
-        "sales": 3148,
-        "ratingStar": "4.8",
-        "shopName": "Lulu Secrets",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-820lk-mnhohirkcb9eaf",
-        "productLink": "https://shopee.com.br/product/1650905473/58210748022",
-        "offerLink": "https://s.shopee.com.br/BSe3P1Rn1"
       },
       "_last_price": null
     },
@@ -5059,6 +5002,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-moksftpzd7v3cf",
         "productLink": "https://shopee.com.br/product/1509466453/42358581197",
         "offerLink": "https://s.shopee.com.br/8pkbaYkT4m"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58210748022",
+      "name": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g Pele plena",
+      "price": 29.99,
+      "original_price": 85.69,
+      "discount": 65.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134211-820lk-mnhohirkcb9eaf",
+      "link": "https://s.shopee.com.br/BSe3P1Rn1",
+      "rating": "4.8",
+      "sales": 3148,
+      "shop": "Lulu Secrets",
+      "category": "creme facial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58210748022,
+        "productName": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g Pele plena",
+        "price": "29.99",
+        "priceDiscountRate": 65,
+        "commissionRate": "0.07",
+        "sales": 3148,
+        "ratingStar": "4.8",
+        "shopName": "Lulu Secrets",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-820lk-mnhohirkcb9eaf",
+        "productLink": "https://shopee.com.br/product/1650905473/58210748022",
+        "offerLink": "https://s.shopee.com.br/BSe3P1Rn1"
       },
       "_last_price": null
     },
@@ -17533,6 +17505,35 @@
       "_last_price": null
     },
     {
+      "id": "22497836763",
+      "name": "Kit Isca Artificial Larva Bicho Da Laranja Aromatizado com Anzol Chinu n°4 Tilápia Pacu Piau Curimba",
+      "price": 12.05,
+      "original_price": 21.91,
+      "discount": 45.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0iz3aatz4ap45",
+      "link": "https://s.shopee.com.br/50Xt1dVE24",
+      "rating": "4.8",
+      "sales": 200,
+      "shop": "Tralha de Ouro",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22497836763,
+        "productName": "Kit Isca Artificial Larva Bicho Da Laranja Aromatizado com Anzol Chinu n°4 Tilápia Pacu Piau Curimba",
+        "price": "12.05",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 200,
+        "ratingStar": "4.8",
+        "shopName": "Tralha de Ouro",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0iz3aatz4ap45",
+        "productLink": "https://shopee.com.br/product/360052108/22497836763",
+        "offerLink": "https://s.shopee.com.br/50Xt1dVE24"
+      },
+      "_last_price": null
+    },
+    {
       "id": "25976014318",
       "name": "Flutuadores De Pesca Bobbers 7g-80g EVA Espuma , Para Crappie Pike Perch Carp Bass",
       "price": 2.42,
@@ -19012,35 +19013,6 @@
       "_last_price": null
     },
     {
-      "id": "23197735277",
-      "name": "Creatina Turbo Monohidratada Black Skull Pote 300g",
-      "price": 25.99,
-      "original_price": 44.81,
-      "discount": 42.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-ml6q0aevnrwm48",
-      "link": "https://s.shopee.com.br/5VU9kARz3Q",
-      "rating": "4.9",
-      "sales": 4069,
-      "shop": "Droga Clara",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23197735277,
-        "productName": "Creatina Turbo Monohidratada Black Skull Pote 300g",
-        "price": "25.99",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.07",
-        "sales": 4069,
-        "ratingStar": "4.9",
-        "shopName": "Droga Clara",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-ml6q0aevnrwm48",
-        "productLink": "https://shopee.com.br/product/1045085918/23197735277",
-        "offerLink": "https://s.shopee.com.br/5VU9kARz3Q"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22094694540",
       "name": "Ração Úmida Sachê Frango ao Molho 100g para Cães Adultos Pedigree",
       "price": 2.89,
@@ -20255,6 +20227,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1plzu4dymmgae",
         "productLink": "https://shopee.com.br/product/398944029/22202389512",
         "offerLink": "https://s.shopee.com.br/111kGDQ4QT"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19499594439",
+      "name": "Arranhador Para Gatos Com Casinha Playground",
+      "price": 150.4,
+      "original_price": 250.67,
+      "discount": 40.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5nadx4bfrlxa9",
+      "link": "https://s.shopee.com.br/6fg70dMIok",
+      "rating": "4.8",
+      "sales": 863,
+      "shop": "Amigo de Pata",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19499594439,
+        "productName": "Arranhador Para Gatos Com Casinha Playground",
+        "price": "150.4",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.11",
+        "sales": 863,
+        "ratingStar": "4.8",
+        "shopName": "Amigo de Pata",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5nadx4bfrlxa9",
+        "productLink": "https://shopee.com.br/product/1321212347/19499594439",
+        "offerLink": "https://s.shopee.com.br/6fg70dMIok"
       },
       "_last_price": null
     },
