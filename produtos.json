@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T01:22:47.352529+00:00",
+  "updated_at": "2026-08-02T01:41:27.030325+00:00",
   "total": 1108,
   "products": [
     {
@@ -168,7 +168,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qo-moodqvbtpo8yf2",
         "productLink": "https://shopee.com.br/product/1571156019/52011120312",
         "offerLink": "https://s.shopee.com.br/70IznPRvZT"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "52255058387",
@@ -6839,8 +6840,8 @@
     {
       "id": "23893429110",
       "name": "70KG Molinete De Pesca Carretel De Pesca 5.2 : 1 Giratório 1000-7000 Com Cabo EVA Amarelo Escuro",
-      "price": 45.0,
-      "original_price": 115.38,
+      "price": 45.8,
+      "original_price": 117.44,
       "discount": 61.0,
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfje7rr835s0e2",
@@ -6853,7 +6854,7 @@
       "_item": {
         "itemId": 23893429110,
         "productName": "70KG Molinete De Pesca Carretel De Pesca 5.2 : 1 Giratório 1000-7000 Com Cabo EVA Amarelo Escuro",
-        "price": "45",
+        "price": "45.8",
         "priceDiscountRate": 61,
         "commissionRate": "0.08",
         "sales": 835,
@@ -11535,35 +11536,6 @@
       "_last_price": null
     },
     {
-      "id": "29806177637",
-      "name": "Feijão Espacial De Pesca SKEC 600Pcs Tackle Oval Stopper Rubber Fishing Line Stops Fly Flutuador",
-      "price": 19.46,
-      "original_price": 41.4,
-      "discount": 53.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwv-ly4py9sfn9qef3",
-      "link": "https://s.shopee.com.br/9V0INwi5Hs",
-      "rating": "4.9",
-      "sales": 36,
-      "shop": "skechersrt.br",
-      "category": "flutuador pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 29806177637,
-        "productName": "Feijão Espacial De Pesca SKEC 600Pcs Tackle Oval Stopper Rubber Fishing Line Stops Fly Flutuador",
-        "price": "19.46",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.03",
-        "sales": 36,
-        "ratingStar": "4.9",
-        "shopName": "skechersrt.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwv-ly4py9sfn9qef3",
-        "productLink": "https://shopee.com.br/product/1228962740/29806177637",
-        "offerLink": "https://s.shopee.com.br/9V0INwi5Hs"
-      },
-      "_last_price": null
-    },
-    {
       "id": "19198335914",
       "name": "Kit Sino Duplo Alarme Para Vara De Pesca Suporte Sinalizador Guizo Sininho Clipe Universal",
       "price": 10.07,
@@ -12227,6 +12199,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mqfvq77ehzimc5",
         "productLink": "https://shopee.com.br/product/1480010654/41666830739",
         "offerLink": "https://s.shopee.com.br/8V7mEFGhIK"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "29806177637",
+      "name": "Feijão Espacial De Pesca SKEC 600Pcs Tackle Oval Stopper Rubber Fishing Line Stops Fly Flutuador",
+      "price": 19.52,
+      "original_price": 40.67,
+      "discount": 52.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwv-ly4py9sfn9qef3",
+      "link": "https://s.shopee.com.br/9V0INwi5Hs",
+      "rating": "4.9",
+      "sales": 36,
+      "shop": "skechersrt.br",
+      "category": "flutuador pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 29806177637,
+        "productName": "Feijão Espacial De Pesca SKEC 600Pcs Tackle Oval Stopper Rubber Fishing Line Stops Fly Flutuador",
+        "price": "19.52",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.03",
+        "sales": 36,
+        "ratingStar": "4.9",
+        "shopName": "skechersrt.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwv-ly4py9sfn9qef3",
+        "productLink": "https://shopee.com.br/product/1228962740/29806177637",
+        "offerLink": "https://s.shopee.com.br/9V0INwi5Hs"
       },
       "_last_price": null
     },
@@ -16523,35 +16524,6 @@
       "_last_price": null
     },
     {
-      "id": "27975909779",
-      "name": "COURTNEY Protetor De 2 Dedos Equipamento De Pesca Polegar E Dedo Indicador Luva Antiderrapante Luvas De Dois",
-      "price": 12.58,
-      "original_price": 23.74,
-      "discount": 47.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcf4-m6557zaj3un276",
-      "link": "https://s.shopee.com.br/Lm3T7YS0z",
-      "rating": "4.8",
-      "sales": 18,
-      "shop": "courtney.br",
-      "category": "luva pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 27975909779,
-        "productName": "COURTNEY Protetor De 2 Dedos Equipamento De Pesca Polegar E Dedo Indicador Luva Antiderrapante Luvas De Dois",
-        "price": "12.58",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.03",
-        "sales": 18,
-        "ratingStar": "4.8",
-        "shopName": "courtney.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcf4-m6557zaj3un276",
-        "productLink": "https://shopee.com.br/product/432187243/27975909779",
-        "offerLink": "https://s.shopee.com.br/Lm3T7YS0z"
-      },
-      "_last_price": null
-    },
-    {
       "id": "21299368624",
       "name": "Caderno 20 Matérias Universitário Capa Dura Com Preto Rosa Escolar Credeal",
       "price": 19.99,
@@ -17244,6 +17216,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjpuijk0yfpf0f",
         "productLink": "https://shopee.com.br/product/557502955/58253667121",
         "offerLink": "https://s.shopee.com.br/70Iy1ilYVv"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "27975909779",
+      "name": "COURTNEY Protetor De 2 Dedos Equipamento De Pesca Polegar E Dedo Indicador Luva Antiderrapante Luvas De Dois",
+      "price": 13.19,
+      "original_price": 24.43,
+      "discount": 46.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcf4-m6557zaj3un276",
+      "link": "https://s.shopee.com.br/Lm3T7YS0z",
+      "rating": "4.8",
+      "sales": 18,
+      "shop": "courtney.br",
+      "category": "luva pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 27975909779,
+        "productName": "COURTNEY Protetor De 2 Dedos Equipamento De Pesca Polegar E Dedo Indicador Luva Antiderrapante Luvas De Dois",
+        "price": "13.19",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.03",
+        "sales": 18,
+        "ratingStar": "4.8",
+        "shopName": "courtney.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcf4-m6557zaj3un276",
+        "productLink": "https://shopee.com.br/product/432187243/27975909779",
+        "offerLink": "https://s.shopee.com.br/Lm3T7YS0z"
       },
       "_last_price": null
     },
