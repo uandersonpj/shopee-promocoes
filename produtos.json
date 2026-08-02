@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T15:29:47.662427+00:00",
-  "total": 1103,
+  "updated_at": "2026-08-02T15:48:40.791596+00:00",
+  "total": 1104,
   "products": [
     {
       "id": "23698808886",
@@ -309,8 +309,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rf-mp4mojkbcr9o19",
         "productLink": "https://shopee.com.br/product/1006215031/43258408741",
         "offerLink": "https://s.shopee.com.br/2BDhePKPtp"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "40723848736",
@@ -2948,6 +2947,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134211-820lk-mnhohirkcb9eaf",
         "productLink": "https://shopee.com.br/product/1650905473/58210748022",
         "offerLink": "https://s.shopee.com.br/BSe3P1Rn1"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58206111970",
+      "name": "Kit 4 Body Splash victoria Lançamento Vanilla love speel pure seduction coconut",
+      "price": 27.9,
+      "original_price": 93.0,
+      "discount": 70.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mlcji2k7bhfr43",
+      "link": "https://s.shopee.com.br/1BLASUHRax",
+      "rating": "4.4",
+      "sales": 2544,
+      "shop": "Bolza.Store",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58206111970,
+        "productName": "Kit 4 Body Splash victoria Lançamento Vanilla love speel pure seduction coconut",
+        "price": "27.9",
+        "priceDiscountRate": 70,
+        "commissionRate": "0.03",
+        "sales": 2544,
+        "ratingStar": "4.4",
+        "shopName": "Bolza.Store",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mlcji2k7bhfr43",
+        "productLink": "https://shopee.com.br/product/1386802886/58206111970",
+        "offerLink": "https://s.shopee.com.br/1BLASUHRax"
       },
       "_last_price": null
     },
@@ -8406,8 +8434,8 @@
     {
       "id": "40705846836",
       "name": "CELIMAX Oil Control Mattifying Sun Stick SPF50+ PA++++ | 19g",
-      "price": 71.99,
-      "original_price": 171.4,
+      "price": 72.0,
+      "original_price": 171.43,
       "discount": 58.0,
       "commission": 0.23,
       "image": "https://cf.shopee.com.br/file/sg-11134207-7ra16-mbdkc56vadlv7f",
@@ -8420,7 +8448,7 @@
       "_item": {
         "itemId": 40705846836,
         "productName": "CELIMAX Oil Control Mattifying Sun Stick SPF50+ PA++++ | 19g",
-        "price": "71.99",
+        "price": "72",
         "priceDiscountRate": 58,
         "commissionRate": "0.23",
         "sales": 878,
