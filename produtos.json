@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T15:24:16.855373+00:00",
-  "total": 1124,
+  "updated_at": "2026-08-03T15:43:13.250880+00:00",
+  "total": 1121,
   "products": [
     {
       "id": "23698808886",
@@ -1774,8 +1774,8 @@
     {
       "id": "20398528613",
       "name": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
-      "price": 11.89,
-      "original_price": 49.54,
+      "price": 11.99,
+      "original_price": 49.96,
       "discount": 76.0,
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mmvxxzgnnoqsff",
@@ -1788,7 +1788,7 @@
       "_item": {
         "itemId": 20398528613,
         "productName": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
-        "price": "11.89",
+        "price": "11.99",
         "priceDiscountRate": 76,
         "commissionRate": "0.08",
         "sales": 6503,
@@ -3682,6 +3682,35 @@
       "_last_price": null
     },
     {
+      "id": "20299250319",
+      "name": "Monitor digital de pressão arterial de braço totalmente automático anjgg",
+      "price": 38.99,
+      "original_price": 121.84,
+      "discount": 68.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-81zte-mmiy7u0wlgqw8c",
+      "link": "https://s.shopee.com.br/5fnebZ2bIM",
+      "rating": "4.8",
+      "sales": 4594,
+      "shop": "ANJ.GG store",
+      "category": "monitor",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20299250319,
+        "productName": "Monitor digital de pressão arterial de braço totalmente automático anjgg",
+        "price": "38.99",
+        "priceDiscountRate": 68,
+        "commissionRate": "0.07",
+        "sales": 4594,
+        "ratingStar": "4.8",
+        "shopName": "ANJ.GG store",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zte-mmiy7u0wlgqw8c",
+        "productLink": "https://shopee.com.br/product/391739739/20299250319",
+        "offerLink": "https://s.shopee.com.br/5fnebZ2bIM"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22495754071",
       "name": "1 Rosa/Preto/Azul Cesto De Roupa Caixa Dobrável Para Armazenagem E Organização De Vestuário Brinquedos",
       "price": 13.99,
@@ -4718,35 +4747,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mju1knjp0ykh49",
         "productLink": "https://shopee.com.br/product/1553175352/22994820028",
         "offerLink": "https://s.shopee.com.br/BSiuIKBt9"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "43404734335",
-      "name": "Retinol Firmador Levantamento | Suave Nutritivo Anti-rugas Anti-envelhecimento Precoce|Hidratação no Frio|Oferta Limitad",
-      "price": 20.9,
-      "original_price": 61.47,
-      "discount": 66.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mo3qwcihcohu1f",
-      "link": "https://s.shopee.com.br/19HrDR1g1",
-      "rating": "4.8",
-      "sales": 4254,
-      "shop": "Preferred HYGYL..br",
-      "category": "creme facial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 43404734335,
-        "productName": "Retinol Firmador Levantamento | Suave Nutritivo Anti-rugas Anti-envelhecimento Precoce|Hidratação no Frio|Oferta Limitad",
-        "price": "20.9",
-        "priceDiscountRate": 66,
-        "commissionRate": "0.07",
-        "sales": 4254,
-        "ratingStar": "4.8",
-        "shopName": "Preferred HYGYL..br",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mo3qwcihcohu1f",
-        "productLink": "https://shopee.com.br/product/1500791820/43404734335",
-        "offerLink": "https://s.shopee.com.br/19HrDR1g1"
       },
       "_last_price": null
     },
@@ -6922,6 +6922,35 @@
       "_last_price": null
     },
     {
+      "id": "43404734335",
+      "name": "Retinol Firmador Levantamento | Suave Nutritivo Anti-rugas Anti-envelhecimento Precoce|Hidratação no Frio|Oferta Limitad",
+      "price": 23.99,
+      "original_price": 61.51,
+      "discount": 61.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mo3qwcihcohu1f",
+      "link": "https://s.shopee.com.br/19HrDR1g1",
+      "rating": "4.8",
+      "sales": 4254,
+      "shop": "Preferred HYGYL..br",
+      "category": "creme facial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 43404734335,
+        "productName": "Retinol Firmador Levantamento | Suave Nutritivo Anti-rugas Anti-envelhecimento Precoce|Hidratação no Frio|Oferta Limitad",
+        "price": "23.99",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.07",
+        "sales": 4254,
+        "ratingStar": "4.8",
+        "shopName": "Preferred HYGYL..br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mo3qwcihcohu1f",
+        "productLink": "https://shopee.com.br/product/1500791820/43404734335",
+        "offerLink": "https://s.shopee.com.br/19HrDR1g1"
+      },
+      "_last_price": null
+    },
+    {
       "id": "7183482061",
       "name": "Mochila Maternidade Bolsa Mamãe Bebê Multifunção  JorgeStore",
       "price": 27.55,
@@ -7469,35 +7498,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-7ra16-mbdkc56vadlv7f",
         "productLink": "https://shopee.com.br/product/457864097/40705846836",
         "offerLink": "https://s.shopee.com.br/7KvsaghRQH"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21550045026",
-      "name": "Creme Depilatório Facial Depilsam Karité 50G",
-      "price": 15.99,
-      "original_price": 39.98,
-      "discount": 60.0,
-      "commission": 0.17,
-      "image": "https://cf.shopee.com.br/file/4bba4d40278622219c444f699a080850",
-      "link": "https://s.shopee.com.br/gOyeROUKD",
-      "rating": "4.8",
-      "sales": 3058,
-      "shop": "Dana Cosmeticos",
-      "category": "creme facial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21550045026,
-        "productName": "Creme Depilatório Facial Depilsam Karité 50G",
-        "price": "15.99",
-        "priceDiscountRate": 60,
-        "commissionRate": "0.17",
-        "sales": 3058,
-        "ratingStar": "4.8",
-        "shopName": "Dana Cosmeticos",
-        "imageUrl": "https://cf.shopee.com.br/file/4bba4d40278622219c444f699a080850",
-        "productLink": "https://shopee.com.br/product/436104412/21550045026",
-        "offerLink": "https://s.shopee.com.br/gOyeROUKD"
       },
       "_last_price": null
     },
@@ -10834,35 +10834,6 @@
       "_last_price": null
     },
     {
-      "id": "19747855339",
-      "name": "Deo Colônia Tabu Tradicional 60ml",
-      "price": 13.29,
-      "original_price": 28.89,
-      "discount": 54.0,
-      "commission": 0.17,
-      "image": "https://cf.shopee.com.br/file/9ea44eb398263976d03b4461b76ab069",
-      "link": "https://s.shopee.com.br/6pzbzmIbw1",
-      "rating": "4.7",
-      "sales": 3735,
-      "shop": "Dana Cosmeticos",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19747855339,
-        "productName": "Deo Colônia Tabu Tradicional 60ml",
-        "price": "13.29",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.17",
-        "sales": 3735,
-        "ratingStar": "4.7",
-        "shopName": "Dana Cosmeticos",
-        "imageUrl": "https://cf.shopee.com.br/file/9ea44eb398263976d03b4461b76ab069",
-        "productLink": "https://shopee.com.br/product/436104412/19747855339",
-        "offerLink": "https://s.shopee.com.br/6pzbzmIbw1"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58206612939",
       "name": "Kit 2 Body Splash Ameixa Negra, Maracujá, ou Uva Merlot Cereja 200ml BELKIT Alta Projeção e Fixação",
       "price": 36.9,
@@ -13555,8 +13526,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mrfvoh8gt62u52",
         "productLink": "https://shopee.com.br/product/1571276714/58209395730",
         "offerLink": "https://s.shopee.com.br/Lm8Frxs6W"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22198303887",
@@ -15850,35 +15820,6 @@
       "_last_price": null
     },
     {
-      "id": "56511310186",
-      "name": "Kit 3 Potes Herméticos 2L Para Lavanderia Com Vedação P/ Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
-      "price": 53.01,
-      "original_price": 100.02,
-      "discount": 47.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mosc7lrooo3n52",
-      "link": "https://s.shopee.com.br/1LefRcwMLi",
-      "rating": "4.9",
-      "sales": 3637,
-      "shop": "CampvendasMulticoisas",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 56511310186,
-        "productName": "Kit 3 Potes Herméticos 2L Para Lavanderia Com Vedação P/ Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
-        "price": "53.01",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.12",
-        "sales": 3637,
-        "ratingStar": "4.9",
-        "shopName": "CampvendasMulticoisas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mosc7lrooo3n52",
-        "productLink": "https://shopee.com.br/product/1627792845/56511310186",
-        "offerLink": "https://s.shopee.com.br/1LefRcwMLi"
-      },
-      "_last_price": null
-    },
-    {
       "id": "51961303157",
       "name": "Kit 3 a 10 Potes Herméticos 2L Para Lavanderia Com Vedação Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
       "price": 53.01,
@@ -16374,8 +16315,8 @@
     {
       "id": "10908191710",
       "name": "Mochila Bolsa Masculina Impermeável Reforçada Promoção Cor Preta",
-      "price": 34.99,
-      "original_price": 66.02,
+      "price": 35.0,
+      "original_price": 66.04,
       "discount": 47.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke1crgmbksie2",
@@ -16388,7 +16329,7 @@
       "_item": {
         "itemId": 10908191710,
         "productName": "Mochila Bolsa Masculina Impermeável Reforçada Promoção Cor Preta",
-        "price": "34.99",
+        "price": "35",
         "priceDiscountRate": 47,
         "commissionRate": "0.03",
         "sales": 3725,
@@ -19243,6 +19184,35 @@
       "_last_price": null
     },
     {
+      "id": "22493501782",
+      "name": "Fonte De Alimentação KNUP Intel Atx 200w 12V Sata Para PC Original",
+      "price": 51.99,
+      "original_price": 89.64,
+      "discount": 42.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1slaj2valu077",
+      "link": "https://s.shopee.com.br/20uMEqKYU1",
+      "rating": "4.9",
+      "sales": 41,
+      "shop": "TREVORIA SHOP",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22493501782,
+        "productName": "Fonte De Alimentação KNUP Intel Atx 200w 12V Sata Para PC Original",
+        "price": "51.99",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.03",
+        "sales": 41,
+        "ratingStar": "4.9",
+        "shopName": "TREVORIA SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1slaj2valu077",
+        "productLink": "https://shopee.com.br/product/1074008902/22493501782",
+        "offerLink": "https://s.shopee.com.br/20uMEqKYU1"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22398897653",
       "name": "Kit Coala Laundry 3 Amaciantes - Chá Branco 1L",
       "price": 39.99,
@@ -19674,35 +19644,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
         "productLink": "https://shopee.com.br/product/786353833/23694320738",
         "offerLink": "https://s.shopee.com.br/AAG3xqXw4o"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23697709910",
-      "name": "Porta Detergente Sabão Dispenser 2 em 1 Com Suporte Para Bucha Esponja e Rodo",
-      "price": 11.8,
-      "original_price": 20.0,
-      "discount": 41.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-ml9779qs3f9j21",
-      "link": "https://s.shopee.com.br/BSirgSISI",
-      "rating": "4.9",
-      "sales": 1345,
-      "shop": "Vira Lisa Decor Outlet",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23697709910,
-        "productName": "Porta Detergente Sabão Dispenser 2 em 1 Com Suporte Para Bucha Esponja e Rodo",
-        "price": "11.8",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.08",
-        "sales": 1345,
-        "ratingStar": "4.9",
-        "shopName": "Vira Lisa Decor Outlet",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-ml9779qs3f9j21",
-        "productLink": "https://shopee.com.br/product/1302608944/23697709910",
-        "offerLink": "https://s.shopee.com.br/BSirgSISI"
       },
       "_last_price": null
     },
@@ -23332,35 +23273,6 @@
       "_last_price": null
     },
     {
-      "id": "58264172118",
-      "name": "Gabinete Gamer Montech Air 903 Max, Mid Tower, E-ATX, Black, Sem Fonte, Com 4 Fans",
-      "price": 516.64,
-      "original_price": 794.83,
-      "discount": 35.0,
-      "commission": 0.06,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259i-mqmcuwlcn6dpb6",
-      "link": "https://s.shopee.com.br/qiPdawx3i",
-      "rating": "5",
-      "sales": 15,
-      "shop": "Terabyte ",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58264172118,
-        "productName": "Gabinete Gamer Montech Air 903 Max, Mid Tower, E-ATX, Black, Sem Fonte, Com 4 Fans",
-        "price": "516.64",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.06",
-        "sales": 15,
-        "ratingStar": "5",
-        "shopName": "Terabyte ",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259i-mqmcuwlcn6dpb6",
-        "productLink": "https://shopee.com.br/product/1552226494/58264172118",
-        "offerLink": "https://s.shopee.com.br/qiPdawx3i"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58202393982",
       "name": "Detergente Lava Louças Ypê em Pó 1Kg ou 450g para Máquina - Escolha a Quantidade",
       "price": 34.89,
@@ -24575,6 +24487,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mnelfbq3bablef",
         "productLink": "https://shopee.com.br/product/323786292/58208932216",
         "offerLink": "https://s.shopee.com.br/8fRGc5ACCw"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "49606415504",
+      "name": "Dispenser Organizador Lavanderia 2,8 e 1,3 Litros Acrílico amaciante sabão em pó Lavanderia",
+      "price": 28.9,
+      "original_price": 43.13,
+      "discount": 33.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825zo-ml3xwrht7a4kc5",
+      "link": "https://s.shopee.com.br/8KoQjq1QFS",
+      "rating": "4.6",
+      "sales": 326,
+      "shop": "Souna Home",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 49606415504,
+        "productName": "Dispenser Organizador Lavanderia 2,8 e 1,3 Litros Acrílico amaciante sabão em pó Lavanderia",
+        "price": "28.9",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.03",
+        "sales": 326,
+        "ratingStar": "4.6",
+        "shopName": "Souna Home",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zo-ml3xwrht7a4kc5",
+        "productLink": "https://shopee.com.br/product/838022405/49606415504",
+        "offerLink": "https://s.shopee.com.br/8KoQjq1QFS"
       },
       "_last_price": null
     },
@@ -26262,7 +26203,7 @@
     },
     {
       "id": "18599854143",
-      "name": "Brow Easy Tiras de Cera Depilatória Facial Tutti Frutti 100 Unidades Para Sobrancelhas e Buço — Prontas para Uso",
+      "name": "100 Tiras de Cera Depilatória Facial Tutti Frutti 50 Pares Unidades Sobrancelhas Buço — Prontas para Uso Depil Easy",
       "price": 22.9,
       "original_price": 32.71,
       "discount": 30.0,
@@ -26276,7 +26217,7 @@
       "source": "shopee",
       "_item": {
         "itemId": 18599854143,
-        "productName": "Brow Easy Tiras de Cera Depilatória Facial Tutti Frutti 100 Unidades Para Sobrancelhas e Buço — Prontas para Uso",
+        "productName": "100 Tiras de Cera Depilatória Facial Tutti Frutti 50 Pares Unidades Sobrancelhas Buço — Prontas para Uso Depil Easy",
         "price": "22.9",
         "priceDiscountRate": 30,
         "commissionRate": "0.13",
@@ -30930,35 +30871,6 @@
       "_last_price": null
     },
     {
-      "id": "23798542591",
-      "name": "Panela De Pressão 4,5 Litros 7 Litros e 3 Litros  ASJ - Fechamento Externo",
-      "price": 109.8,
-      "original_price": 135.56,
-      "discount": 19.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maa0o7vhfi5y75",
-      "link": "https://s.shopee.com.br/5q74o0BjB7",
-      "rating": "4.7",
-      "sales": 869,
-      "shop": "Shop MultiCompra",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23798542591,
-        "productName": "Panela De Pressão 4,5 Litros 7 Litros e 3 Litros  ASJ - Fechamento Externo",
-        "price": "109.8",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.03",
-        "sales": 869,
-        "ratingStar": "4.7",
-        "shopName": "Shop MultiCompra",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maa0o7vhfi5y75",
-        "productLink": "https://shopee.com.br/product/1409066838/23798542591",
-        "offerLink": "https://s.shopee.com.br/5q74o0BjB7"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22597014373",
       "name": "Kit 5 Iscas Artificial Soft Bait Tucunaré Traira Corvina",
       "price": 24.97,
@@ -31158,35 +31070,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m67cbhbc6hmaf0",
         "productLink": "https://shopee.com.br/product/398944029/14604313620",
         "offerLink": "https://s.shopee.com.br/2LXCdXYnRY"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23498913907",
-      "name": "RAÇÃO SPECIAL DOG CARNE ADULTO TODAS AS RAÇAS 15KG",
-      "price": 89.9,
-      "original_price": 109.63,
-      "discount": 18.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdx5bt22xlabb5",
-      "link": "https://s.shopee.com.br/9pdDZK6FEL",
-      "rating": "4.9",
-      "sales": 1075,
-      "shop": "Pegada Store  Oficial",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498913907,
-        "productName": "RAÇÃO SPECIAL DOG CARNE ADULTO TODAS AS RAÇAS 15KG",
-        "price": "89.9",
-        "priceDiscountRate": 18,
-        "commissionRate": "0.03",
-        "sales": 1075,
-        "ratingStar": "4.9",
-        "shopName": "Pegada Store  Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdx5bt22xlabb5",
-        "productLink": "https://shopee.com.br/product/441998868/23498913907",
-        "offerLink": "https://s.shopee.com.br/9pdDZK6FEL"
       },
       "_last_price": null
     },
@@ -32260,6 +32143,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnddp09ufn4fe5",
         "productLink": "https://shopee.com.br/product/534023108/19748645144",
         "offerLink": "https://s.shopee.com.br/5ArO0fhlZl"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "17590710236",
+      "name": "Amaciante Concentrado Baby Soft Inspiração Fascinante 1L - Rende 50 lavagens",
+      "price": 15.89,
+      "original_price": 18.69,
+      "discount": 15.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-22120-axzvnj9kv3kv69",
+      "link": "https://s.shopee.com.br/4qEXc3j2Fj",
+      "rating": "4.9",
+      "sales": 1254,
+      "shop": "Casa de Gê",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 17590710236,
+        "productName": "Amaciante Concentrado Baby Soft Inspiração Fascinante 1L - Rende 50 lavagens",
+        "price": "15.89",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.13",
+        "sales": 1254,
+        "ratingStar": "4.9",
+        "shopName": "Casa de Gê",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22120-axzvnj9kv3kv69",
+        "productLink": "https://shopee.com.br/product/534023108/17590710236",
+        "offerLink": "https://s.shopee.com.br/4qEXc3j2Fj"
       },
       "_last_price": null
     },
