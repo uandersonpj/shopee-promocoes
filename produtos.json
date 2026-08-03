@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T17:17:47.514331+00:00",
-  "total": 1122,
+  "updated_at": "2026-08-03T17:36:44.252329+00:00",
+  "total": 1121,
   "products": [
     {
       "id": "23698808886",
@@ -286,8 +286,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1zzq6l901gfa2",
         "productLink": "https://shopee.com.br/product/322874822/23797686527",
         "offerLink": "https://s.shopee.com.br/5q74o17CNn"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "43258408741",
@@ -3882,7 +3881,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra1a-mbjbbhgogn4q6c",
         "productLink": "https://shopee.com.br/product/1398716274/23494180407",
         "offerLink": "https://s.shopee.com.br/7VFIn5myZ6"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "40856507262",
@@ -9707,8 +9707,8 @@
     {
       "id": "58207705974",
       "name": "Kit 5 Suportes de Banheiro Alto Adesivo Organizador de Parede Sabonete Shampoo Condicionador e Papel",
-      "price": 34.55,
-      "original_price": 78.52,
+      "price": 34.4,
+      "original_price": 78.18,
       "discount": 56.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mo5fpms2ebk0d2",
@@ -9721,7 +9721,7 @@
       "_item": {
         "itemId": 58207705974,
         "productName": "Kit 5 Suportes de Banheiro Alto Adesivo Organizador de Parede Sabonete Shampoo Condicionador e Papel",
-        "price": "34.55",
+        "price": "34.4",
         "priceDiscountRate": 56,
         "commissionRate": "0.03",
         "sales": 4474,
@@ -11324,35 +11324,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mozqryfhjfuod2",
         "productLink": "https://shopee.com.br/product/1726489543/23899479691",
         "offerLink": "https://s.shopee.com.br/19HrBnpgl"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20999077793",
-      "name": "BB Cream/Base/Corretivo com Esponja com Formato de Cogumelo / Base Clareador Maquiagem Creme Clareador Cor Marfim e Natu",
-      "price": 22.99,
-      "original_price": 48.91,
-      "discount": 53.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbkd-lopopr3jpki6c5",
-      "link": "https://s.shopee.com.br/30mtQhcPbZ",
-      "rating": "4.8",
-      "sales": 822,
-      "shop": "CYL MAKEUP",
-      "category": "esponja",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20999077793,
-        "productName": "BB Cream/Base/Corretivo com Esponja com Formato de Cogumelo / Base Clareador Maquiagem Creme Clareador Cor Marfim e Natu",
-        "price": "22.99",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.03",
-        "sales": 822,
-        "ratingStar": "4.8",
-        "shopName": "CYL MAKEUP",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbkd-lopopr3jpki6c5",
-        "productLink": "https://shopee.com.br/product/314090713/20999077793",
-        "offerLink": "https://s.shopee.com.br/30mtQhcPbZ"
       },
       "_last_price": null
     },
@@ -14429,6 +14400,35 @@
       "_last_price": null
     },
     {
+      "id": "20999077793",
+      "name": "BB Cream/Base/Corretivo com Esponja com Formato de Cogumelo / Base Clareador Maquiagem Creme Clareador Cor Marfim e Natu",
+      "price": 23.88,
+      "original_price": 46.82,
+      "discount": 49.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbkd-lopopr3jpki6c5",
+      "link": "https://s.shopee.com.br/30mtQhcPbZ",
+      "rating": "4.8",
+      "sales": 822,
+      "shop": "CYL MAKEUP",
+      "category": "esponja",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20999077793,
+        "productName": "BB Cream/Base/Corretivo com Esponja com Formato de Cogumelo / Base Clareador Maquiagem Creme Clareador Cor Marfim e Natu",
+        "price": "23.88",
+        "priceDiscountRate": 49,
+        "commissionRate": "0.03",
+        "sales": 822,
+        "ratingStar": "4.8",
+        "shopName": "CYL MAKEUP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbkd-lopopr3jpki6c5",
+        "productLink": "https://shopee.com.br/product/314090713/20999077793",
+        "offerLink": "https://s.shopee.com.br/30mtQhcPbZ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22199182572",
       "name": "Prateleira Adesiva Multiuso – Organizador de Cozinha e Banheiro Criativo Bonequinho",
       "price": 9.99,
@@ -16980,35 +16980,6 @@
       "_last_price": null
     },
     {
-      "id": "48354429530",
-      "name": "Relógio De Pulso De Quartzo Com Pulseira De Aço Inoxidável Mostrador Quadrado De Moda De Luxo Masculino Calendário E Sem",
-      "price": 27.25,
-      "original_price": 50.46,
-      "discount": 46.0,
-      "commission": 0.09,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259t-mr9vk2y1yd51d8",
-      "link": "https://s.shopee.com.br/8V7pyux2yZ",
-      "rating": "4.7",
-      "sales": 2297,
-      "shop": "Choice Oficial",
-      "category": "relogio masculino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 48354429530,
-        "productName": "Relógio De Pulso De Quartzo Com Pulseira De Aço Inoxidável Mostrador Quadrado De Moda De Luxo Masculino Calendário E Sem",
-        "price": "27.25",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.09",
-        "sales": 2297,
-        "ratingStar": "4.7",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259t-mr9vk2y1yd51d8",
-        "productLink": "https://shopee.com.br/product/1006215031/48354429530",
-        "offerLink": "https://s.shopee.com.br/8V7pyux2yZ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22698124596",
       "name": "Kit Relógio Masculino Digital Sport À Prova D'Água Corrente Pulseira Pingente",
       "price": 26.72,
@@ -17845,6 +17816,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2ygt9g0iyta0",
         "productLink": "https://shopee.com.br/product/323761608/40771440846",
         "offerLink": "https://s.shopee.com.br/9zwdlfrKvk"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "48354429530",
+      "name": "Relógio De Pulso De Quartzo Com Pulseira De Aço Inoxidável Mostrador Quadrado De Moda De Luxo Masculino Calendário E Sem",
+      "price": 27.67,
+      "original_price": 50.31,
+      "discount": 45.0,
+      "commission": 0.09,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259t-mr9vk2y1yd51d8",
+      "link": "https://s.shopee.com.br/8V7pyux2yZ",
+      "rating": "4.7",
+      "sales": 2297,
+      "shop": "Choice Oficial",
+      "category": "relogio masculino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 48354429530,
+        "productName": "Relógio De Pulso De Quartzo Com Pulseira De Aço Inoxidável Mostrador Quadrado De Moda De Luxo Masculino Calendário E Sem",
+        "price": "27.67",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.09",
+        "sales": 2297,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259t-mr9vk2y1yd51d8",
+        "productLink": "https://shopee.com.br/product/1006215031/48354429530",
+        "offerLink": "https://s.shopee.com.br/8V7pyux2yZ"
       },
       "_last_price": null
     },
@@ -19647,35 +19647,6 @@
       "_last_price": null
     },
     {
-      "id": "23697709910",
-      "name": "Porta Detergente Sabão Dispenser 2 em 1 Com Suporte Para Bucha Esponja e Rodo",
-      "price": 11.8,
-      "original_price": 20.0,
-      "discount": 41.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-ml9779qs3f9j21",
-      "link": "https://s.shopee.com.br/BSirgSISI",
-      "rating": "4.9",
-      "sales": 1345,
-      "shop": "Vira Lisa Decor Outlet",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23697709910,
-        "productName": "Porta Detergente Sabão Dispenser 2 em 1 Com Suporte Para Bucha Esponja e Rodo",
-        "price": "11.8",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.08",
-        "sales": 1345,
-        "ratingStar": "4.9",
-        "shopName": "Vira Lisa Decor Outlet",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-ml9779qs3f9j21",
-        "productLink": "https://shopee.com.br/product/1302608944/23697709910",
-        "offerLink": "https://s.shopee.com.br/BSirgSISI"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18999566083",
       "name": "Gancho Adesivo Inox Porta Esponja Bucha Suporte de Pia Parede Cozinha Premium",
       "price": 5.89,
@@ -20571,35 +20542,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjaa6s64g0sj43",
         "productLink": "https://shopee.com.br/product/1593119369/22894275092",
         "offerLink": "https://s.shopee.com.br/9pdDZIgFZr"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22194458905",
-      "name": "Coleção 12 Carrinhos Miniatura Kit Completo Brinquedo Meninos",
-      "price": 14.9,
-      "original_price": 24.83,
-      "discount": 40.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf1h1y2ry8sk12",
-      "link": "https://s.shopee.com.br/19HrEHgX2",
-      "rating": "4.8",
-      "sales": 1017,
-      "shop": "Importek_",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22194458905,
-        "productName": "Coleção 12 Carrinhos Miniatura Kit Completo Brinquedo Meninos",
-        "price": "14.9",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 1017,
-        "ratingStar": "4.8",
-        "shopName": "Importek_",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf1h1y2ry8sk12",
-        "productLink": "https://shopee.com.br/product/1564337780/22194458905",
-        "offerLink": "https://s.shopee.com.br/19HrEHgX2"
       },
       "_last_price": null
     },
@@ -27274,6 +27216,35 @@
       "_last_price": null
     },
     {
+      "id": "23499368877",
+      "name": "Brinquedo Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos Caixa Container que Vira Pista Qualidade",
+      "price": 71.92,
+      "original_price": 99.89,
+      "discount": 28.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8261f-ml6fnhmlfais41",
+      "link": "https://s.shopee.com.br/111p34DsVK",
+      "rating": "4.8",
+      "sales": 835,
+      "shop": "LDLINSHOP",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23499368877,
+        "productName": "Brinquedo Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos Caixa Container que Vira Pista Qualidade",
+        "price": "71.92",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.13",
+        "sales": 835,
+        "ratingStar": "4.8",
+        "shopName": "LDLINSHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261f-ml6fnhmlfais41",
+        "productLink": "https://shopee.com.br/product/316522636/23499368877",
+        "offerLink": "https://s.shopee.com.br/111p34DsVK"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19398297649",
       "name": "Ração Para Cachorro 15kg Special Dog Ultralife Gold Performance Adulto Carne Frango e Batata Doce",
       "price": 136.99,
@@ -28053,35 +28024,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6wwo48snxwn8a",
         "productLink": "https://shopee.com.br/product/665367909/22593748951",
         "offerLink": "https://s.shopee.com.br/6L3LOphJxh"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "16324454755",
-      "name": "Kit SOS Cachos Coco Profundo Shampoo e Condicionador Litrão Salon Line",
-      "price": 49.0,
-      "original_price": 66.22,
-      "discount": 26.0,
-      "commission": 0.18,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mpwv9cefewowf7",
-      "link": "https://s.shopee.com.br/9fJnMy3lBJ",
-      "rating": "4.9",
-      "sales": 3469,
-      "shop": "Salon Line",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 16324454755,
-        "productName": "Kit SOS Cachos Coco Profundo Shampoo e Condicionador Litrão Salon Line",
-        "price": "49",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.18",
-        "sales": 3469,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mpwv9cefewowf7",
-        "productLink": "https://shopee.com.br/product/616222685/16324454755",
-        "offerLink": "https://s.shopee.com.br/9fJnMy3lBJ"
       },
       "_last_price": null
     },
@@ -29300,6 +29242,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4f-m7pqiw99z9nr22",
         "productLink": "https://shopee.com.br/product/410663728/23898339097",
         "offerLink": "https://s.shopee.com.br/6fgBnRAyk6"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "16324454755",
+      "name": "Kit SOS Cachos Coco Profundo Shampoo e Condicionador Litrão Salon Line",
+      "price": 50.99,
+      "original_price": 66.22,
+      "discount": 23.0,
+      "commission": 0.18,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mpwv9cefewowf7",
+      "link": "https://s.shopee.com.br/9fJnMy3lBJ",
+      "rating": "4.9",
+      "sales": 3469,
+      "shop": "Salon Line",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 16324454755,
+        "productName": "Kit SOS Cachos Coco Profundo Shampoo e Condicionador Litrão Salon Line",
+        "price": "50.99",
+        "priceDiscountRate": 23,
+        "commissionRate": "0.18",
+        "sales": 3469,
+        "ratingStar": "4.9",
+        "shopName": "Salon Line",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mpwv9cefewowf7",
+        "productLink": "https://shopee.com.br/product/616222685/16324454755",
+        "offerLink": "https://s.shopee.com.br/9fJnMy3lBJ"
       },
       "_last_price": null
     },
@@ -31829,8 +31800,8 @@
     {
       "id": "10971341240",
       "name": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente",
-      "price": 133.9,
-      "original_price": 159.4,
+      "price": 132.9,
+      "original_price": 158.21,
       "discount": 16.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mq56ui3fgwled9",
@@ -31843,7 +31814,7 @@
       "_item": {
         "itemId": 10971341240,
         "productName": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente",
-        "price": "133.9",
+        "price": "132.9",
         "priceDiscountRate": 16,
         "commissionRate": "0.07",
         "sales": 901,
