@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T16:39:58.442123+00:00",
-  "total": 1121,
+  "updated_at": "2026-08-03T16:58:52.583711+00:00",
+  "total": 1122,
   "products": [
     {
       "id": "23698808886",
@@ -85,8 +85,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mpf8btxmai2u62",
         "productLink": "https://shopee.com.br/product/1739671384/58210104632",
         "offerLink": "https://s.shopee.com.br/3qM0QFPy0q"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "24683837124",
@@ -3275,7 +3274,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
         "productLink": "https://shopee.com.br/product/1368232097/58207198817",
         "offerLink": "https://s.shopee.com.br/7fYizRYCnw"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23199448516",
@@ -9072,7 +9072,7 @@
       "price": 29.99,
       "original_price": 69.74,
       "discount": 57.0,
-      "commission": 0.03,
+      "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1qfaspn0ejuf9",
       "link": "https://s.shopee.com.br/4qEXc6QDzw",
       "rating": "5",
@@ -9085,7 +9085,7 @@
         "productName": "Expositor de Perfumes Cosméticos 3 Andares Multiuso Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza",
         "price": "29.99",
         "priceDiscountRate": 57,
-        "commissionRate": "0.03",
+        "commissionRate": "0.08",
         "sales": 3416,
         "ratingStar": "5",
         "shopName": "CASA RIOCHIQUE",
@@ -9707,8 +9707,8 @@
     {
       "id": "58207705974",
       "name": "Kit 5 Suportes de Banheiro Alto Adesivo Organizador de Parede Sabonete Shampoo Condicionador e Papel",
-      "price": 34.55,
-      "original_price": 78.52,
+      "price": 34.4,
+      "original_price": 78.18,
       "discount": 56.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mo5fpms2ebk0d2",
@@ -9721,7 +9721,7 @@
       "_item": {
         "itemId": 58207705974,
         "productName": "Kit 5 Suportes de Banheiro Alto Adesivo Organizador de Parede Sabonete Shampoo Condicionador e Papel",
-        "price": "34.55",
+        "price": "34.4",
         "priceDiscountRate": 56,
         "commissionRate": "0.03",
         "sales": 4474,
@@ -19643,6 +19643,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
         "productLink": "https://shopee.com.br/product/786353833/23694320738",
         "offerLink": "https://s.shopee.com.br/AAG3xqXw4o"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23697709910",
+      "name": "Porta Detergente Sabão Dispenser 2 em 1 Com Suporte Para Bucha Esponja e Rodo",
+      "price": 11.8,
+      "original_price": 20.0,
+      "discount": 41.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-ml9779qs3f9j21",
+      "link": "https://s.shopee.com.br/BSirgSISI",
+      "rating": "4.9",
+      "sales": 1345,
+      "shop": "Vira Lisa Decor Outlet",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23697709910,
+        "productName": "Porta Detergente Sabão Dispenser 2 em 1 Com Suporte Para Bucha Esponja e Rodo",
+        "price": "11.8",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.08",
+        "sales": 1345,
+        "ratingStar": "4.9",
+        "shopName": "Vira Lisa Decor Outlet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-ml9779qs3f9j21",
+        "productLink": "https://shopee.com.br/product/1302608944/23697709910",
+        "offerLink": "https://s.shopee.com.br/BSirgSISI"
       },
       "_last_price": null
     },
