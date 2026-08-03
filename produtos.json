@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T17:55:39.930426+00:00",
+  "updated_at": "2026-08-03T18:14:41.696609+00:00",
   "total": 1120,
   "products": [
     {
@@ -400,8 +400,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mnb6ge4ki9dt70",
         "productLink": "https://shopee.com.br/product/407760070/49603251115",
         "offerLink": "https://s.shopee.com.br/6L3LOqY7Kb"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "21897733919",
@@ -4431,7 +4430,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mejg3ix0mgao9d",
         "productLink": "https://shopee.com.br/product/1362613415/42308171073",
         "offerLink": "https://s.shopee.com.br/7fYizQCTOu"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "48402066160",
@@ -4604,7 +4604,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhccre0s9ix19b",
         "productLink": "https://shopee.com.br/product/1594633180/55501913565",
         "offerLink": "https://s.shopee.com.br/4VbhDeNNxG"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22697748403",
@@ -5767,8 +5768,8 @@
     {
       "id": "24273618299",
       "name": "Homens Mulheres Dirigindo Óculos De Sol Proteção Uv Para Andar De Bicicleta",
-      "price": 7.65,
-      "original_price": 21.25,
+      "price": 7.73,
+      "original_price": 21.47,
       "discount": 64.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823qi-mp4mn1nsi32jbe",
@@ -5781,7 +5782,7 @@
       "_item": {
         "itemId": 24273618299,
         "productName": "Homens Mulheres Dirigindo Óculos De Sol Proteção Uv Para Andar De Bicicleta",
-        "price": "7.65",
+        "price": "7.73",
         "priceDiscountRate": 64,
         "commissionRate": "0.07",
         "sales": 2172,
@@ -28028,35 +28029,6 @@
       "_last_price": null
     },
     {
-      "id": "16324454755",
-      "name": "Kit SOS Cachos Coco Profundo Shampoo e Condicionador Litrão Salon Line",
-      "price": 49.0,
-      "original_price": 66.22,
-      "discount": 26.0,
-      "commission": 0.18,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mpwv9cefewowf7",
-      "link": "https://s.shopee.com.br/9fJnMy3lBJ",
-      "rating": "4.9",
-      "sales": 3469,
-      "shop": "Salon Line",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 16324454755,
-        "productName": "Kit SOS Cachos Coco Profundo Shampoo e Condicionador Litrão Salon Line",
-        "price": "49",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.18",
-        "sales": 3469,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mpwv9cefewowf7",
-        "productLink": "https://shopee.com.br/product/616222685/16324454755",
-        "offerLink": "https://s.shopee.com.br/9fJnMy3lBJ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "19898945817",
       "name": "kit 11 Elásticos Extensores 5 mini Bands Treino Funcional e Musculação",
       "price": 36.99,
@@ -29271,6 +29243,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4f-m7pqiw99z9nr22",
         "productLink": "https://shopee.com.br/product/410663728/23898339097",
         "offerLink": "https://s.shopee.com.br/6fgBnRAyk6"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "16324454755",
+      "name": "Kit SOS Cachos Coco Profundo Shampoo e Condicionador Litrão Salon Line",
+      "price": 50.99,
+      "original_price": 66.22,
+      "discount": 23.0,
+      "commission": 0.18,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mpwv9cefewowf7",
+      "link": "https://s.shopee.com.br/9fJnMy3lBJ",
+      "rating": "4.9",
+      "sales": 3469,
+      "shop": "Salon Line",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 16324454755,
+        "productName": "Kit SOS Cachos Coco Profundo Shampoo e Condicionador Litrão Salon Line",
+        "price": "50.99",
+        "priceDiscountRate": 23,
+        "commissionRate": "0.18",
+        "sales": 3469,
+        "ratingStar": "4.9",
+        "shopName": "Salon Line",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mpwv9cefewowf7",
+        "productLink": "https://shopee.com.br/product/616222685/16324454755",
+        "offerLink": "https://s.shopee.com.br/9fJnMy3lBJ"
       },
       "_last_price": null
     },
