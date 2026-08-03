@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T06:37:17.553499+00:00",
+  "updated_at": "2026-08-03T06:55:56.391547+00:00",
   "total": 1112,
   "products": [
     {
@@ -1681,7 +1681,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgf3dycxebr838",
         "productLink": "https://shopee.com.br/product/483938660/23799125316",
         "offerLink": "https://s.shopee.com.br/80BZNrgBTL"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58261483318",
@@ -6034,7 +6035,7 @@
       "price": 37.0,
       "original_price": 100.0,
       "discount": 63.0,
-      "commission": 0.2,
+      "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mlq1ob393uvb2b",
       "link": "https://s.shopee.com.br/3g2aE1xZba",
       "rating": "4.7",
@@ -6047,7 +6048,7 @@
         "productName": "SPOETRY Bolsa Feminina Casual de Nylon Nova Grande Ombro Tote",
         "price": "37",
         "priceDiscountRate": 63,
-        "commissionRate": "0.2",
+        "commissionRate": "0.03",
         "sales": 1727,
         "ratingStar": "4.7",
         "shopName": "JESDA-05",
@@ -10036,7 +10037,7 @@
       "price": 24.5,
       "original_price": 55.68,
       "discount": 56.0,
-      "commission": 0.23,
+      "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mq2zvsocj3eo45",
       "link": "https://s.shopee.com.br/8V7pyzYtLN",
       "rating": "5",
@@ -10049,7 +10050,7 @@
         "productName": "6/10/16 buracos gaiolas dobradas portátil hexágono rede de pesca peixe automático caranguejo armadilha carpa camarão",
         "price": "24.5",
         "priceDiscountRate": 56,
-        "commissionRate": "0.23",
+        "commissionRate": "0.03",
         "sales": 132,
         "ratingStar": "5",
         "shopName": "JESDA-05",
@@ -12235,35 +12236,6 @@
       "_last_price": null
     },
     {
-      "id": "40527255410",
-      "name": "Bóia De Pesca OUDIMEIHE EVA 2 Unidades De Flutuabilidade 5/8/10/15/20/30/40/50/60g Luminosa Flutuador Marítima Vara De L",
-      "price": 6.49,
-      "original_price": 13.52,
-      "discount": 52.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-822yf-mi9tp31fak8x7e",
-      "link": "https://s.shopee.com.br/2gA32GhlHI",
-      "rating": "4.6",
-      "sales": 7,
-      "shop": "oudimeihe.br",
-      "category": "flutuador pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40527255410,
-        "productName": "Bóia De Pesca OUDIMEIHE EVA 2 Unidades De Flutuabilidade 5/8/10/15/20/30/40/50/60g Luminosa Flutuador Marítima Vara De L",
-        "price": "6.49",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 7,
-        "ratingStar": "4.6",
-        "shopName": "oudimeihe.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822yf-mi9tp31fak8x7e",
-        "productLink": "https://shopee.com.br/product/514735552/40527255410",
-        "offerLink": "https://s.shopee.com.br/2gA32GhlHI"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58204228267",
       "name": "Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 300MBPS",
       "price": 60.99,
@@ -12666,6 +12638,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mnf4yw22gtms4b",
         "productLink": "https://shopee.com.br/product/1182870871/23098043228",
         "offerLink": "https://s.shopee.com.br/3g2aE6dxFS"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "40527255410",
+      "name": "Bóia De Pesca OUDIMEIHE EVA 2 Unidades De Flutuabilidade 5/8/10/15/20/30/40/50/60g Luminosa Flutuador Marítima Vara De L",
+      "price": 6.49,
+      "original_price": 13.24,
+      "discount": 51.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-822yf-mi9tp31fak8x7e",
+      "link": "https://s.shopee.com.br/2gA32GhlHI",
+      "rating": "4.6",
+      "sales": 7,
+      "shop": "oudimeihe.br",
+      "category": "flutuador pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 40527255410,
+        "productName": "Bóia De Pesca OUDIMEIHE EVA 2 Unidades De Flutuabilidade 5/8/10/15/20/30/40/50/60g Luminosa Flutuador Marítima Vara De L",
+        "price": "6.49",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.03",
+        "sales": 7,
+        "ratingStar": "4.6",
+        "shopName": "oudimeihe.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822yf-mi9tp31fak8x7e",
+        "productLink": "https://shopee.com.br/product/514735552/40527255410",
+        "offerLink": "https://s.shopee.com.br/2gA32GhlHI"
       },
       "_last_price": null
     },
@@ -29461,6 +29462,35 @@
       "_last_price": null
     },
     {
+      "id": "22192220077",
+      "name": "Dispensador  Para Detergente Dispenser  Sabao 2x1 Detergente Suporte Porta Bucha Esponja Limpeza",
+      "price": 15.66,
+      "original_price": 20.08,
+      "discount": 22.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134201-820m4-mqxrc5ckybrbc6",
+      "link": "https://s.shopee.com.br/40fQcX3o6K",
+      "rating": "4.8",
+      "sales": 1347,
+      "shop": "CYBAZAR",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22192220077,
+        "productName": "Dispensador  Para Detergente Dispenser  Sabao 2x1 Detergente Suporte Porta Bucha Esponja Limpeza",
+        "price": "15.66",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.03",
+        "sales": 1347,
+        "ratingStar": "4.8",
+        "shopName": "CYBAZAR",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m4-mqxrc5ckybrbc6",
+        "productLink": "https://shopee.com.br/product/378143264/22192220077",
+        "offerLink": "https://s.shopee.com.br/40fQcX3o6K"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22494036135",
       "name": "Limpador De Vidros Com Espatula Para Box Janelas Frestas Fendas Refil Microfibra",
       "price": 17.85,
@@ -30675,35 +30705,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mq801uh7ao76e8",
         "productLink": "https://shopee.com.br/product/1558156510/58213593272",
         "offerLink": "https://s.shopee.com.br/40fQcWmCwU"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58255902115",
-      "name": "Base Sabão Líquido Faz 20L – Kit Blend Concentrado 2 Frascos – Fácil de Fazer",
-      "price": 58.99,
-      "original_price": 72.83,
-      "discount": 19.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820li-mp3t5spg1berbf",
-      "link": "https://s.shopee.com.br/8V7q1NjdkA",
-      "rating": "4.9",
-      "sales": 4870,
-      "shop": "Mercado das Essências",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58255902115,
-        "productName": "Base Sabão Líquido Faz 20L – Kit Blend Concentrado 2 Frascos – Fácil de Fazer",
-        "price": "58.99",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.03",
-        "sales": 4870,
-        "ratingStar": "4.9",
-        "shopName": "Mercado das Essências",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mp3t5spg1berbf",
-        "productLink": "https://shopee.com.br/product/1107585845/58255902115",
-        "offerLink": "https://s.shopee.com.br/8V7q1NjdkA"
       },
       "_last_price": null
     },
