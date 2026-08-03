@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T02:15:16.453287+00:00",
-  "total": 1104,
+  "updated_at": "2026-08-03T02:34:09.139022+00:00",
+  "total": 1105,
   "products": [
     {
       "id": "23698808886",
@@ -666,7 +666,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mmi9yl6sf3ls65",
         "productLink": "https://shopee.com.br/product/1198407784/23497594302",
         "offerLink": "https://s.shopee.com.br/1BLFFR75fr"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "55508691646",
@@ -696,6 +697,34 @@
         "offerLink": "https://s.shopee.com.br/BSi3VdvSM"
       },
       "_last_price": null
+    },
+    {
+      "id": "23997726120",
+      "name": "Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expansível para Trilha Esportiva",
+      "price": 119.98,
+      "original_price": 705.76,
+      "discount": 83.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820la-mmi9yl6sgi6819",
+      "link": "https://s.shopee.com.br/6L3L0K5U4Z",
+      "rating": "5",
+      "sales": 2472,
+      "shop": "Romantic Crown.02",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23997726120,
+        "productName": "Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expansível para Trilha Esportiva",
+        "price": "119.98",
+        "priceDiscountRate": 83,
+        "commissionRate": "0.08",
+        "sales": 2472,
+        "ratingStar": "5",
+        "shopName": "Romantic Crown.02",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mmi9yl6sgi6819",
+        "productLink": "https://shopee.com.br/product/1198407784/23997726120",
+        "offerLink": "https://s.shopee.com.br/6L3L0K5U4Z"
+      }
     },
     {
       "id": "58107463214",
@@ -1897,8 +1926,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mnn2sbr4n75s68",
         "productLink": "https://shopee.com.br/product/873988691/22594956407",
         "offerLink": "https://s.shopee.com.br/6VMlb8Bc4z"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23118736011",
@@ -10491,7 +10519,7 @@
       "original_price": 111.09,
       "discount": 55.0,
       "commission": 0.1,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259k-mqvpl3v1v0959d",
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mrfa92h09hc401",
       "link": "https://s.shopee.com.br/4qEXcAt8Ef",
       "rating": "4.8",
       "sales": 2537,
@@ -10507,7 +10535,7 @@
         "sales": 2537,
         "ratingStar": "4.8",
         "shopName": "Amy.Store",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259k-mqvpl3v1v0959d",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mrfa92h09hc401",
         "productLink": "https://shopee.com.br/product/1468415010/58207180884",
         "offerLink": "https://s.shopee.com.br/4qEXcAt8Ef"
       },
