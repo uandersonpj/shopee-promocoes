@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T07:33:15.755788+00:00",
+  "updated_at": "2026-08-03T07:51:53.802027+00:00",
   "total": 1113,
   "products": [
     {
@@ -1768,7 +1768,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1xeanm14pt61d",
         "productLink": "https://shopee.com.br/product/1017646777/22198016021",
         "offerLink": "https://s.shopee.com.br/80BZNvVUef"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "9212570285",
@@ -2183,7 +2184,7 @@
       "discount": 73.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2g0564t6gjq0c",
-      "link": "https://s.shopee.com.br/1LefRbnxrb",
+      "link": "https://s.shopee.com.br/7fYjQFE0Ea",
       "rating": "4.8",
       "sales": 292,
       "shop": "Jãosguen Game",
@@ -2200,7 +2201,7 @@
         "shopName": "Jãosguen Game",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2g0564t6gjq0c",
         "productLink": "https://shopee.com.br/product/429531216/20997984229",
-        "offerLink": "https://s.shopee.com.br/1LefRbnxrb"
+        "offerLink": "https://s.shopee.com.br/7fYjQFE0Ea"
       },
       "_last_price": null
     },
@@ -2442,7 +2443,7 @@
       "discount": 71.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-824jb-mf15ogil1te54c",
-      "link": "https://s.shopee.com.br/1Vy5dunKWc",
+      "link": "https://s.shopee.com.br/5VUEqGMFd9",
       "rating": "4.8",
       "sales": 549,
       "shop": "PEGLEVE",
@@ -2459,7 +2460,7 @@
         "shopName": "PEGLEVE",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824jb-mf15ogil1te54c",
         "productLink": "https://shopee.com.br/product/816803352/19722902525",
-        "offerLink": "https://s.shopee.com.br/1Vy5dunKWc"
+        "offerLink": "https://s.shopee.com.br/5VUEqGMFd9"
       },
       "_last_price": null
     },
@@ -2790,7 +2791,7 @@
       "discount": 70.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcmbazbekcn5d9",
-      "link": "https://s.shopee.com.br/3B6Jcygz92",
+      "link": "https://s.shopee.com.br/7AcSpKFuFZ",
       "rating": "4.8",
       "sales": 216,
       "shop": "yiyiyi",
@@ -2807,7 +2808,7 @@
         "shopName": "yiyiyi",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcmbazbekcn5d9",
         "productLink": "https://shopee.com.br/product/883941882/23598220274",
-        "offerLink": "https://s.shopee.com.br/3B6Jcygz92"
+        "offerLink": "https://s.shopee.com.br/7AcSpKFuFZ"
       },
       "_last_price": null
     },
@@ -3595,6 +3596,35 @@
       "_last_price": null
     },
     {
+      "id": "23295025918",
+      "name": "Teclado Mecanico R8 1037, RGB, ABNT2, Switch Azul, Branco, R8-1037WH-RBW-ABNT2",
+      "price": 94.83,
+      "original_price": 296.34,
+      "discount": 68.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82586-mq7scchkxg5q8d",
+      "link": "https://s.shopee.com.br/6L3LpnJ4wC",
+      "rating": "5",
+      "sales": 182,
+      "shop": "Pichau",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23295025918,
+        "productName": "Teclado Mecanico R8 1037, RGB, ABNT2, Switch Azul, Branco, R8-1037WH-RBW-ABNT2",
+        "price": "94.83",
+        "priceDiscountRate": 68,
+        "commissionRate": "0.03",
+        "sales": 182,
+        "ratingStar": "5",
+        "shopName": "Pichau",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82586-mq7scchkxg5q8d",
+        "productLink": "https://shopee.com.br/product/627750190/23295025918",
+        "offerLink": "https://s.shopee.com.br/6L3LpnJ4wC"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22495754071",
       "name": "1 Rosa/Preto/Azul Cesto De Roupa Caixa Dobrável Para Armazenagem E Organização De Vestuário Brinquedos",
       "price": 13.99,
@@ -3997,35 +4027,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfgg-m9akut11lpyac0",
         "productLink": "https://shopee.com.br/product/400311012/17255136776",
         "offerLink": "https://s.shopee.com.br/7ps9BXuLtr"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58212805691",
-      "name": "Chaveiro Anti-Stress Teclado Mecânico 4 Teclas Com Som - Alívio de Ansiedade, Ideal Para Escritório e Estudos",
-      "price": 14.99,
-      "original_price": 45.42,
-      "discount": 67.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mpmpfi8h39j41e",
-      "link": "https://s.shopee.com.br/4fv7PjbH6R",
-      "rating": "4.8",
-      "sales": 208,
-      "shop": "Bloomy s1",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58212805691,
-        "productName": "Chaveiro Anti-Stress Teclado Mecânico 4 Teclas Com Som - Alívio de Ansiedade, Ideal Para Escritório e Estudos",
-        "price": "14.99",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.07",
-        "sales": 208,
-        "ratingStar": "4.8",
-        "shopName": "Bloomy s1",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mpmpfi8h39j41e",
-        "productLink": "https://shopee.com.br/product/984259416/58212805691",
-        "offerLink": "https://s.shopee.com.br/4fv7PjbH6R"
       },
       "_last_price": null
     },
@@ -6415,7 +6416,7 @@
       "discount": 62.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh72tmnu2ih05c",
-      "link": "https://s.shopee.com.br/1qaw2Wm3qe",
+      "link": "https://s.shopee.com.br/5q75EsKyxB",
       "rating": "4.9",
       "sales": 234,
       "shop": "Ulife Loja Oficial",
@@ -6432,7 +6433,7 @@
         "shopName": "Ulife Loja Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh72tmnu2ih05c",
         "productLink": "https://shopee.com.br/product/1241585188/23797838280",
-        "offerLink": "https://s.shopee.com.br/1qaw2Wm3qe"
+        "offerLink": "https://s.shopee.com.br/5q75EsKyxB"
       },
       "_last_price": null
     },
@@ -6850,7 +6851,7 @@
       "discount": 61.0,
       "commission": 0.11,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mos2w4d46ww35f",
-      "link": "https://s.shopee.com.br/2BDmR8knAg",
+      "link": "https://s.shopee.com.br/6AjvdUJiHD",
       "rating": "5",
       "sales": 273,
       "shop": "TechLar-MGS",
@@ -6867,7 +6868,7 @@
         "shopName": "TechLar-MGS",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mos2w4d46ww35f",
         "productLink": "https://shopee.com.br/product/1814169023/58260576959",
-        "offerLink": "https://s.shopee.com.br/2BDmR8knAg"
+        "offerLink": "https://s.shopee.com.br/6AjvdUJiHD"
       },
       "_last_price": null
     },
@@ -9547,7 +9548,7 @@
       "discount": 56.0,
       "commission": 0.13,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mogo5wxoddz712",
-      "link": "https://s.shopee.com.br/5ArO0eZN5U",
+      "link": "https://s.shopee.com.br/9ANXD08IC1",
       "rating": "4.8",
       "sales": 219,
       "shop": "jieke189",
@@ -9564,7 +9565,7 @@
         "shopName": "jieke189",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mogo5wxoddz712",
         "productLink": "https://shopee.com.br/product/1721755090/58208800672",
-        "offerLink": "https://s.shopee.com.br/5ArO0eZN5U"
+        "offerLink": "https://s.shopee.com.br/9ANXD08IC1"
       },
       "_last_price": null
     },
@@ -11142,7 +11143,7 @@
       "discount": 53.0,
       "commission": 0.14,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me0c21dddz4013",
-      "link": "https://s.shopee.com.br/20uMEplQVf",
+      "link": "https://s.shopee.com.br/5fnf2ZLcI8",
       "rating": "4.9",
       "sales": 261,
       "shop": "Shop Borges",
@@ -11159,7 +11160,7 @@
         "shopName": "Shop Borges",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me0c21dddz4013",
         "productLink": "https://shopee.com.br/product/473616631/41365763294",
-        "offerLink": "https://s.shopee.com.br/20uMEplQVf"
+        "offerLink": "https://s.shopee.com.br/5fnf2ZLcI8"
       },
       "_last_price": null
     },
@@ -11171,7 +11172,7 @@
       "discount": 53.0,
       "commission": 0.18,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkb1enn2l6v54e",
-      "link": "https://s.shopee.com.br/3g2aDtf585",
+      "link": "https://s.shopee.com.br/7Kvt1dFGuY",
       "rating": "4.9",
       "sales": 241,
       "shop": "Dismatic - by MGParts",
@@ -11188,7 +11189,7 @@
         "shopName": "Dismatic - by MGParts",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkb1enn2l6v54e",
         "productLink": "https://shopee.com.br/product/359164659/58204629642",
-        "offerLink": "https://s.shopee.com.br/3g2aDtf585"
+        "offerLink": "https://s.shopee.com.br/7Kvt1dFGuY"
       },
       "_last_price": null
     },
@@ -11722,7 +11723,7 @@
       "discount": 52.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mmij6fnxz9jcad",
-      "link": "https://s.shopee.com.br/2LXCdRk9ph",
+      "link": "https://s.shopee.com.br/60QVRBKLcA",
       "rating": "4.8",
       "sales": 320,
       "shop": "NOLM STORE",
@@ -11739,7 +11740,7 @@
         "shopName": "NOLM STORE",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mmij6fnxz9jcad",
         "productLink": "https://shopee.com.br/product/1748398536/57108039282",
-        "offerLink": "https://s.shopee.com.br/2LXCdRk9ph"
+        "offerLink": "https://s.shopee.com.br/60QVRBKLcA"
       },
       "_last_price": null
     },
@@ -12911,7 +12912,7 @@
       "discount": 50.0,
       "commission": 0.05,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mrbmz3bfho91f3",
-      "link": "https://s.shopee.com.br/1gHVqDmhBd",
+      "link": "https://s.shopee.com.br/5LAodxMsy6",
       "rating": "4.9",
       "sales": 292,
       "shop": "MixMania BR",
@@ -12928,7 +12929,7 @@
         "shopName": "MixMania BR",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mrbmz3bfho91f3",
         "productLink": "https://shopee.com.br/product/1447668497/21699672982",
-        "offerLink": "https://s.shopee.com.br/1gHVqDmhBd"
+        "offerLink": "https://s.shopee.com.br/5LAodxMsy6"
       },
       "_last_price": null
     },
@@ -17348,7 +17349,7 @@
       "discount": 45.0,
       "commission": 0.06,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mo00jyq2bk02c6",
-      "link": "https://s.shopee.com.br/3VjA1afiT4",
+      "link": "https://s.shopee.com.br/7VFJDwEdZb",
       "rating": "4.8",
       "sales": 252,
       "shop": "Ecomix ZA",
@@ -17365,7 +17366,7 @@
         "shopName": "Ecomix ZA",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mo00jyq2bk02c6",
         "productLink": "https://shopee.com.br/product/1602935775/58259925634",
-        "offerLink": "https://s.shopee.com.br/3VjA1afiT4"
+        "offerLink": "https://s.shopee.com.br/7VFJDwEdZb"
       },
       "_last_price": null
     },
@@ -17377,7 +17378,7 @@
       "discount": 45.0,
       "commission": 0.09,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8258e-mqehxire4zr507",
-      "link": "https://s.shopee.com.br/2gA323it9z",
+      "link": "https://s.shopee.com.br/90470h8vWy",
       "rating": "5",
       "sales": 204,
       "shop": "Choice Oficial",
@@ -17394,7 +17395,7 @@
         "shopName": "Choice Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258e-mqehxire4zr507",
         "productLink": "https://shopee.com.br/product/1006215031/45707967320",
-        "offerLink": "https://s.shopee.com.br/2gA323it9z"
+        "offerLink": "https://s.shopee.com.br/90470h8vWy"
       },
       "_last_price": null
     },
@@ -17899,7 +17900,7 @@
       "discount": 44.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg5th0jywlqff2",
-      "link": "https://s.shopee.com.br/4qEXc2adlS",
+      "link": "https://s.shopee.com.br/8pkgoO9Yrz",
       "rating": "4.9",
       "sales": 196,
       "shop": "LVV STORE",
@@ -17916,7 +17917,7 @@
         "shopName": "LVV STORE",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg5th0jywlqff2",
         "productLink": "https://shopee.com.br/product/1456473793/22799059695",
-        "offerLink": "https://s.shopee.com.br/4qEXc2adlS"
+        "offerLink": "https://s.shopee.com.br/8pkgoO9Yrz"
       },
       "_last_price": null
     },
@@ -21089,7 +21090,7 @@
       "discount": 39.0,
       "commission": 0.12,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
-      "link": "https://s.shopee.com.br/30mtQfhcU1",
+      "link": "https://s.shopee.com.br/6fgCEPHoGU",
       "rating": "4.9",
       "sales": 257,
       "shop": "LAMPADAECOM",
@@ -21106,7 +21107,7 @@
         "shopName": "LAMPADAECOM",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
         "productLink": "https://shopee.com.br/product/983665337/22698451598",
-        "offerLink": "https://s.shopee.com.br/30mtQfhcU1"
+        "offerLink": "https://s.shopee.com.br/6fgCEPHoGU"
       },
       "_last_price": null
     },
@@ -21872,7 +21873,7 @@
       "discount": 37.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7renr-m8dmyyovx193fe",
-      "link": "https://s.shopee.com.br/2qTTEMiFp0",
+      "link": "https://s.shopee.com.br/6pzcQiHAvX",
       "rating": "4.9",
       "sales": 220,
       "shop": "Pichau",
@@ -21889,7 +21890,7 @@
         "shopName": "Pichau",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7renr-m8dmyyovx193fe",
         "productLink": "https://shopee.com.br/product/627750190/18299730064",
-        "offerLink": "https://s.shopee.com.br/2qTTEMiFp0"
+        "offerLink": "https://s.shopee.com.br/6pzcQiHAvX"
       },
       "_last_price": null
     },
@@ -24453,7 +24454,7 @@
       "discount": 33.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mnelfbq3bablef",
-      "link": "https://s.shopee.com.br/50XxoLa0QT",
+      "link": "https://s.shopee.com.br/8fRGc5ACCw",
       "rating": "4.9",
       "sales": 187,
       "shop": "Eletro Souls",
@@ -24470,7 +24471,7 @@
         "shopName": "Eletro Souls",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mnelfbq3bablef",
         "productLink": "https://shopee.com.br/product/323786292/58208932216",
-        "offerLink": "https://s.shopee.com.br/50XxoLa0QT"
+        "offerLink": "https://s.shopee.com.br/8fRGc5ACCw"
       },
       "_last_price": null
     },
@@ -28281,7 +28282,7 @@
       "discount": 25.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134201-820mb-mqy3crbeg4cm59",
-      "link": "https://s.shopee.com.br/2VqcpkjWUi",
+      "link": "https://s.shopee.com.br/6VMm26IRbF",
       "rating": "4.7",
       "sales": 435,
       "shop": "POLESTAR ONLINE",
@@ -28298,7 +28299,7 @@
         "shopName": "POLESTAR ONLINE",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820mb-mqy3crbeg4cm59",
         "productLink": "https://shopee.com.br/product/1036192295/23199462739",
-        "offerLink": "https://s.shopee.com.br/2VqcpkjWUi"
+        "offerLink": "https://s.shopee.com.br/6VMm26IRbF"
       },
       "_last_price": null
     },
