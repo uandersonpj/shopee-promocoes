@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T08:47:51.941917+00:00",
+  "updated_at": "2026-08-03T09:06:31.184911+00:00",
   "total": 1113,
   "products": [
     {
@@ -2406,7 +2406,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-micol4p8wyrl81",
         "productLink": "https://shopee.com.br/product/1059934694/23294309688",
         "offerLink": "https://s.shopee.com.br/AAG3xueytx"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "25824870977",
@@ -8586,35 +8587,6 @@
       "_last_price": null
     },
     {
-      "id": "23394445493",
-      "name": "KIT 50/100/150/200 Formas Assadeira Papel Manteiga Descartável Para Air fryer Sem Sujeira Leo Store BR Leo Store BR",
-      "price": 13.98,
-      "original_price": 33.29,
-      "discount": 58.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfcy0le48qh189",
-      "link": "https://s.shopee.com.br/111pXwWoEM",
-      "rating": "4.8",
-      "sales": 2257,
-      "shop": "Win  ",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23394445493,
-        "productName": "KIT 50/100/150/200 Formas Assadeira Papel Manteiga Descartável Para Air fryer Sem Sujeira Leo Store BR Leo Store BR",
-        "price": "13.98",
-        "priceDiscountRate": 58,
-        "commissionRate": "0.03",
-        "sales": 2257,
-        "ratingStar": "4.8",
-        "shopName": "Win  ",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfcy0le48qh189",
-        "productLink": "https://shopee.com.br/product/405617888/23394445493",
-        "offerLink": "https://s.shopee.com.br/111pXwWoEM"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22999454687",
       "name": "Mini Liquidificador Portátil 400ml 6 Lâminas Recarregável USB Mixer Suco Shake",
       "price": 32.9,
@@ -10964,6 +10936,35 @@
       "_last_price": null
     },
     {
+      "id": "58207663151",
+      "name": "Kit 50 a 300 Formas Descartável Para Airfryer Antiaderente Não Suja Cozinha Fritadedira Promoção",
+      "price": 10.99,
+      "original_price": 23.89,
+      "discount": 54.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82626-mm9sym8py58v5c",
+      "link": "https://s.shopee.com.br/BSi3Zl2ax",
+      "rating": "4.7",
+      "sales": 2101,
+      "shop": "Universo do Lar*",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58207663151,
+        "productName": "Kit 50 a 300 Formas Descartável Para Airfryer Antiaderente Não Suja Cozinha Fritadedira Promoção",
+        "price": "10.99",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.13",
+        "sales": 2101,
+        "ratingStar": "4.7",
+        "shopName": "Universo do Lar*",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82626-mm9sym8py58v5c",
+        "productLink": "https://shopee.com.br/product/1619812344/58207663151",
+        "offerLink": "https://s.shopee.com.br/BSi3Zl2ax"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22198068260",
       "name": "Mini Liquidificador Portátil Shake 6 Laminas + Cabo USB-SE3095",
       "price": 22.04,
@@ -11569,6 +11570,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zue-mksm3ytz0rupdd",
         "productLink": "https://shopee.com.br/product/403413671/19097661270",
         "offerLink": "https://s.shopee.com.br/7Kvsak2ECW"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "43080992322",
+      "name": "Kit 100 Formas Descartáveis para Airfryer Quadrada ou Redonda Forro Papel Antiaderente Impermeável",
+      "price": 13.98,
+      "original_price": 29.74,
+      "discount": 53.0,
+      "commission": 0.05,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mofy71n71hxfd1",
+      "link": "https://s.shopee.com.br/19HrGlfvu",
+      "rating": "4.8",
+      "sales": 2865,
+      "shop": "HomeSmart",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 43080992322,
+        "productName": "Kit 100 Formas Descartáveis para Airfryer Quadrada ou Redonda Forro Papel Antiaderente Impermeável",
+        "price": "13.98",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.05",
+        "sales": 2865,
+        "ratingStar": "4.8",
+        "shopName": "HomeSmart",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mofy71n71hxfd1",
+        "productLink": "https://shopee.com.br/product/1142080977/43080992322",
+        "offerLink": "https://s.shopee.com.br/19HrGlfvu"
       },
       "_last_price": null
     },
@@ -20564,12 +20594,12 @@
     },
     {
       "id": "10764754425",
-      "name": "Liquidificador 3 velocidades 550W Turbo Power - L-99-FR - Mondial",
+      "name": "Liquidificador 3 velocidades 550W Power Turbo Power - L-99-FR - Mondial",
       "price": 105.73,
       "original_price": 176.22,
       "discount": 40.0,
       "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259u-mr9l7aa480ek37",
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825am-mrfooozb1mo2ad",
       "link": "https://s.shopee.com.br/6fgBnWvUeR",
       "rating": "4.9",
       "sales": 685,
@@ -20578,14 +20608,14 @@
       "source": "shopee",
       "_item": {
         "itemId": 10764754425,
-        "productName": "Liquidificador 3 velocidades 550W Turbo Power - L-99-FR - Mondial",
+        "productName": "Liquidificador 3 velocidades 550W Power Turbo Power - L-99-FR - Mondial",
         "price": "105.73",
         "priceDiscountRate": 40,
         "commissionRate": "0.03",
         "sales": 685,
         "ratingStar": "4.9",
         "shopName": "Dutra Máquinas",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259u-mr9l7aa480ek37",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825am-mrfooozb1mo2ad",
         "productLink": "https://shopee.com.br/product/489001115/10764754425",
         "offerLink": "https://s.shopee.com.br/6fgBnWvUeR"
       },
@@ -29781,35 +29811,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvd-m1e4waixbdef7f",
         "productLink": "https://shopee.com.br/product/347988064/22593481622",
         "offerLink": "https://s.shopee.com.br/6pzbznQwC4"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "57205646686",
-      "name": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
-      "price": 181.77,
-      "original_price": 230.09,
-      "discount": 21.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
-      "link": "https://s.shopee.com.br/1BLFkFWAtP",
-      "rating": "4.9",
-      "sales": 1487,
-      "shop": "BESTBYBRASILGOLD",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57205646686,
-        "productName": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
-        "price": "181.77",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.03",
-        "sales": 1487,
-        "ratingStar": "4.9",
-        "shopName": "BESTBYBRASILGOLD",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
-        "productLink": "https://shopee.com.br/product/1494297971/57205646686",
-        "offerLink": "https://s.shopee.com.br/1BLFkFWAtP"
       },
       "_last_price": null
     },
