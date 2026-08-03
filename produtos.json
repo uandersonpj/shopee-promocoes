@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T23:18:46.207046+00:00",
+  "updated_at": "2026-08-03T23:37:41.157665+00:00",
   "total": 1125,
   "products": [
     {
@@ -286,7 +286,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1zzq6l901gfa2",
         "productLink": "https://shopee.com.br/product/322874822/23797686527",
         "offerLink": "https://s.shopee.com.br/5q74o17CNn"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "43258408741",
@@ -1083,8 +1084,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
         "productLink": "https://shopee.com.br/product/972031390/21997150349",
         "offerLink": "https://s.shopee.com.br/7KvsakJl31"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58251235467",
@@ -19821,35 +19821,6 @@
       "_last_price": null
     },
     {
-      "id": "23694320738",
-      "name": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-      "price": 49.99,
-      "original_price": 84.73,
-      "discount": 41.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
-      "link": "https://s.shopee.com.br/AAG3xqXw4o",
-      "rating": "4.8",
-      "sales": 1136,
-      "shop": "Traxen",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23694320738,
-        "productName": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-        "price": "49.99",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.03",
-        "sales": 1136,
-        "ratingStar": "4.8",
-        "shopName": "Traxen",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
-        "productLink": "https://shopee.com.br/product/786353833/23694320738",
-        "offerLink": "https://s.shopee.com.br/AAG3xqXw4o"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18999566083",
       "name": "Gancho Adesivo Inox Porta Esponja Bucha Suporte de Pia Parede Cozinha Premium",
       "price": 5.89,
@@ -20430,6 +20401,35 @@
       "_last_price": null
     },
     {
+      "id": "23694320738",
+      "name": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
+      "price": 49.99,
+      "original_price": 83.32,
+      "discount": 40.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
+      "link": "https://s.shopee.com.br/AAG3xqXw4o",
+      "rating": "4.8",
+      "sales": 1136,
+      "shop": "Traxen",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23694320738,
+        "productName": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
+        "price": "49.99",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 1136,
+        "ratingStar": "4.8",
+        "shopName": "Traxen",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
+        "productLink": "https://shopee.com.br/product/786353833/23694320738",
+        "offerLink": "https://s.shopee.com.br/AAG3xqXw4o"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22793869680",
       "name": "Essência Para Saneantes, Desinfetantes, Limpadores 100ml, Super Concentrada e Neutraliza Odores",
       "price": 19.2,
@@ -20716,6 +20716,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjaa6s64g0sj43",
         "productLink": "https://shopee.com.br/product/1593119369/22894275092",
         "offerLink": "https://s.shopee.com.br/9pdDZIgFZr"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22194458905",
+      "name": "Coleção 12 Carrinhos Miniatura Kit Completo Brinquedo Meninos",
+      "price": 14.9,
+      "original_price": 24.83,
+      "discount": 40.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf1h1y2ry8sk12",
+      "link": "https://s.shopee.com.br/19HrEHgX2",
+      "rating": "4.8",
+      "sales": 999,
+      "shop": "Importek_",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22194458905,
+        "productName": "Coleção 12 Carrinhos Miniatura Kit Completo Brinquedo Meninos",
+        "price": "14.9",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 999,
+        "ratingStar": "4.8",
+        "shopName": "Importek_",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf1h1y2ry8sk12",
+        "productLink": "https://shopee.com.br/product/1564337780/22194458905",
+        "offerLink": "https://s.shopee.com.br/19HrEHgX2"
       },
       "_last_price": null
     },
@@ -26586,7 +26615,7 @@
       "commission": 0.16,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lb-moh9avb3ey9scc",
       "link": "https://s.shopee.com.br/2VqdR7tNXD",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 983,
       "shop": "MY E-Commerce LTDA",
       "category": "cafeteira",
@@ -26598,7 +26627,7 @@
         "priceDiscountRate": 30,
         "commissionRate": "0.16",
         "sales": 983,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "MY E-Commerce LTDA",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-moh9avb3ey9scc",
         "productLink": "https://shopee.com.br/product/417728659/20599359513",
@@ -27328,35 +27357,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6tq89gxz4778",
         "productLink": "https://shopee.com.br/product/1384157489/22294647711",
         "offerLink": "https://s.shopee.com.br/6VMlbAJscB"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23499368877",
-      "name": "Brinquedo Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos Caixa Container que Vira Pista Qualidade",
-      "price": 71.92,
-      "original_price": 99.89,
-      "discount": 28.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8261f-ml6fnhmlfais41",
-      "link": "https://s.shopee.com.br/111p34DsVK",
-      "rating": "4.8",
-      "sales": 827,
-      "shop": "LDLINSHOP",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23499368877,
-        "productName": "Brinquedo Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos Caixa Container que Vira Pista Qualidade",
-        "price": "71.92",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.13",
-        "sales": 827,
-        "ratingStar": "4.8",
-        "shopName": "LDLINSHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261f-ml6fnhmlfais41",
-        "productLink": "https://shopee.com.br/product/316522636/23499368877",
-        "offerLink": "https://s.shopee.com.br/111p34DsVK"
       },
       "_last_price": null
     },
