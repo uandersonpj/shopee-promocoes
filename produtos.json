@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T18:33:40.598052+00:00",
+  "updated_at": "2026-08-03T18:52:46.094234+00:00",
   "total": 1120,
   "products": [
     {
@@ -427,8 +427,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyoeedt37dlhb3",
         "productLink": "https://shopee.com.br/product/394192376/21897733919",
         "offerLink": "https://s.shopee.com.br/AUsuxnGnGu"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "24360408071",
@@ -4114,6 +4113,35 @@
       "_last_price": null
     },
     {
+      "id": "58212805691",
+      "name": "Chaveiro Anti-Stress Teclado Mecânico 4 Teclas Com Som - Alívio de Ansiedade, Ideal Para Escritório e Estudos",
+      "price": 14.99,
+      "original_price": 45.42,
+      "discount": 67.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mpmpfi8h39j41e",
+      "link": "https://s.shopee.com.br/4fv7PjbH6R",
+      "rating": "4.8",
+      "sales": 208,
+      "shop": "Bloomy s1",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58212805691,
+        "productName": "Chaveiro Anti-Stress Teclado Mecânico 4 Teclas Com Som - Alívio de Ansiedade, Ideal Para Escritório e Estudos",
+        "price": "14.99",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.07",
+        "sales": 208,
+        "ratingStar": "4.8",
+        "shopName": "Bloomy s1",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mpmpfi8h39j41e",
+        "productLink": "https://shopee.com.br/product/984259416/58212805691",
+        "offerLink": "https://s.shopee.com.br/4fv7PjbH6R"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19498730086",
       "name": "Kit 2 Aço inoxidável Suporte Porta Esponja para bucha de pia Prateleira de cozinha",
       "price": 6.0,
@@ -6834,35 +6862,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvfw-lflxztyt3eodf8",
         "productLink": "https://shopee.com.br/product/504210070/15097201878",
         "offerLink": "https://s.shopee.com.br/9ANWmB6lLp"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58260576959",
-      "name": "Teclado Mecânico Gamer RGB 68 Teclas Eixo Vermelho USB+2.4G+BT ABNT2 TK08",
-      "price": 156.99,
-      "original_price": 402.54,
-      "discount": 61.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mos2w4d46ww35f",
-      "link": "https://s.shopee.com.br/6AjvdUJiHD",
-      "rating": "5",
-      "sales": 273,
-      "shop": "TechLar-MGS",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58260576959,
-        "productName": "Teclado Mecânico Gamer RGB 68 Teclas Eixo Vermelho USB+2.4G+BT ABNT2 TK08",
-        "price": "156.99",
-        "priceDiscountRate": 61,
-        "commissionRate": "0.11",
-        "sales": 273,
-        "ratingStar": "5",
-        "shopName": "TechLar-MGS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mos2w4d46ww35f",
-        "productLink": "https://shopee.com.br/product/1814169023/58260576959",
-        "offerLink": "https://s.shopee.com.br/6AjvdUJiHD"
       },
       "_last_price": null
     },
