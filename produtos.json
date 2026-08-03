@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T10:58:55.835234+00:00",
-  "total": 1116,
+  "updated_at": "2026-08-03T11:17:44.989237+00:00",
+  "total": 1115,
   "products": [
     {
       "id": "23698808886",
@@ -666,35 +666,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mmz137ddk4cg6c",
         "productLink": "https://shopee.com.br/product/1467162087/55508691646",
         "offerLink": "https://s.shopee.com.br/BSi3VdvSM"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23997726120",
-      "name": "Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expansível para Trilha Esportiva",
-      "price": 119.98,
-      "original_price": 705.76,
-      "discount": 83.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820la-mmi9yl6sgi6819",
-      "link": "https://s.shopee.com.br/6L3L0K5U4Z",
-      "rating": "5",
-      "sales": 2472,
-      "shop": "Romantic Crown.02",
-      "category": "bolsa feminina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23997726120,
-        "productName": "Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expansível para Trilha Esportiva",
-        "price": "119.98",
-        "priceDiscountRate": 83,
-        "commissionRate": "0.08",
-        "sales": 2472,
-        "ratingStar": "5",
-        "shopName": "Romantic Crown.02",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mmi9yl6sgi6819",
-        "productLink": "https://shopee.com.br/product/1198407784/23997726120",
-        "offerLink": "https://s.shopee.com.br/6L3L0K5U4Z"
       },
       "_last_price": null
     },
@@ -3244,8 +3215,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820m4-mnkc728pehag67",
         "productLink": "https://shopee.com.br/product/372103398/23199448516",
         "offerLink": "https://s.shopee.com.br/Lm8FyHeYy"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58251069728",
@@ -4640,35 +4610,6 @@
       "_last_price": null
     },
     {
-      "id": "18597998986",
-      "name": "Carrinho de Passeio Infantil Buggy Musical com Empurrador Quadriciclo Farol Andador UTV Multmaxx",
-      "price": 338.9,
-      "original_price": 996.76,
-      "discount": 66.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2s5htox16fpfd",
-      "link": "https://s.shopee.com.br/qiOqlEVqH",
-      "rating": "4.8",
-      "sales": 489,
-      "shop": "VGSHOP ",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18597998986,
-        "productName": "Carrinho de Passeio Infantil Buggy Musical com Empurrador Quadriciclo Farol Andador UTV Multmaxx",
-        "price": "338.9",
-        "priceDiscountRate": 66,
-        "commissionRate": "0.03",
-        "sales": 489,
-        "ratingStar": "4.8",
-        "shopName": "VGSHOP ",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2s5htox16fpfd",
-        "productLink": "https://shopee.com.br/product/1272600089/18597998986",
-        "offerLink": "https://s.shopee.com.br/qiOqlEVqH"
-      },
-      "_last_price": null
-    },
-    {
       "id": "51004391053",
       "name": "Haltere Ajustável Gallant Com Placas De Peso De 20Kg E Base Elite Pro",
       "price": 577.22,
@@ -5100,6 +5041,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mnwoay42c26d3c",
         "productLink": "https://shopee.com.br/product/1509457194/49260023163",
         "offerLink": "https://s.shopee.com.br/8pkgNSSJxs"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18597998986",
+      "name": "Carrinho de Passeio Infantil Buggy Musical com Empurrador Quadriciclo Farol Andador UTV Multmaxx",
+      "price": 349.9,
+      "original_price": 999.71,
+      "discount": 65.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2s5htox16fpfd",
+      "link": "https://s.shopee.com.br/qiOqlEVqH",
+      "rating": "4.8",
+      "sales": 489,
+      "shop": "VGSHOP ",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18597998986,
+        "productName": "Carrinho de Passeio Infantil Buggy Musical com Empurrador Quadriciclo Farol Andador UTV Multmaxx",
+        "price": "349.9",
+        "priceDiscountRate": 65,
+        "commissionRate": "0.03",
+        "sales": 489,
+        "ratingStar": "4.8",
+        "shopName": "VGSHOP ",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2s5htox16fpfd",
+        "productLink": "https://shopee.com.br/product/1272600089/18597998986",
+        "offerLink": "https://s.shopee.com.br/qiOqlEVqH"
       },
       "_last_price": null
     },
@@ -19517,35 +19487,6 @@
       "_last_price": null
     },
     {
-      "id": "58204282495",
-      "name": "Trio Esponjas Maquiagem Macrilan EP26 Para Base Pó e Corretivo Preta",
-      "price": 18.87,
-      "original_price": 31.98,
-      "discount": 41.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1u3qdjfymae6",
-      "link": "https://s.shopee.com.br/2gA325dgHX",
-      "rating": "5",
-      "sales": 1966,
-      "shop": "PRIME COMPLETA COMERCIO E SERVICOS ",
-      "category": "esponja",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58204282495,
-        "productName": "Trio Esponjas Maquiagem Macrilan EP26 Para Base Pó e Corretivo Preta",
-        "price": "18.87",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.07",
-        "sales": 1966,
-        "ratingStar": "5",
-        "shopName": "PRIME COMPLETA COMERCIO E SERVICOS ",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1u3qdjfymae6",
-        "productLink": "https://shopee.com.br/product/1087950389/58204282495",
-        "offerLink": "https://s.shopee.com.br/2gA325dgHX"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58201333089",
       "name": "Flanela Microfibra Limpa Vidro - Kit 20 Un Pano Multiuso Toalha de Limpeza Eficiente",
       "price": 11.9,
@@ -20151,6 +20092,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mpmnisfi6rr5b1",
         "productLink": "https://shopee.com.br/product/1107585845/22793869680",
         "offerLink": "https://s.shopee.com.br/6AjvCWCskx"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58204282495",
+      "name": "Trio Esponjas Maquiagem Macrilan EP26 Para Base Pó e Corretivo Preta",
+      "price": 19.2,
+      "original_price": 32.0,
+      "discount": 40.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1u3qdjfymae6",
+      "link": "https://s.shopee.com.br/2gA325dgHX",
+      "rating": "5",
+      "sales": 1966,
+      "shop": "PRIME COMPLETA COMERCIO E SERVICOS ",
+      "category": "esponja",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58204282495,
+        "productName": "Trio Esponjas Maquiagem Macrilan EP26 Para Base Pó e Corretivo Preta",
+        "price": "19.2",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.07",
+        "sales": 1966,
+        "ratingStar": "5",
+        "shopName": "PRIME COMPLETA COMERCIO E SERVICOS ",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1u3qdjfymae6",
+        "productLink": "https://shopee.com.br/product/1087950389/58204282495",
+        "offerLink": "https://s.shopee.com.br/2gA325dgHX"
       },
       "_last_price": null
     },
