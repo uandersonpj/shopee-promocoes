@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T04:21:22.135836+00:00",
+  "updated_at": "2026-08-04T04:40:00.582917+00:00",
   "total": 1127,
   "products": [
     {
@@ -666,7 +666,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mmi9yl6sgi6819",
         "productLink": "https://shopee.com.br/product/1198407784/23997726120",
         "offerLink": "https://s.shopee.com.br/6L3L0K5U4Z"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58107463214",
@@ -10605,8 +10606,8 @@
     {
       "id": "47811321649",
       "name": "Kit 4 Potes Herméticos 2L Para Lavanderia Com Vedação P/ Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
-      "price": 68.41,
-      "original_price": 148.72,
+      "price": 68.42,
+      "original_price": 148.74,
       "discount": 54.0,
       "commission": 0.12,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mosdi0wi3sat12",
@@ -10619,7 +10620,7 @@
       "_item": {
         "itemId": 47811321649,
         "productName": "Kit 4 Potes Herméticos 2L Para Lavanderia Com Vedação P/ Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
-        "price": "68.41",
+        "price": "68.42",
         "priceDiscountRate": 54,
         "commissionRate": "0.12",
         "sales": 1428,
