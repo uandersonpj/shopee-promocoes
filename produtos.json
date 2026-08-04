@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T17:30:17.862023+00:00",
-  "total": 1117,
+  "updated_at": "2026-08-04T17:49:12.237690+00:00",
+  "total": 1132,
   "products": [
     {
       "id": "23698808886",
@@ -28,8 +28,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvk-mdc4nq55wpuu08",
         "productLink": "https://shopee.com.br/product/627750190/23698808886",
         "offerLink": "https://s.shopee.com.br/Lm8FlrltF"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "15445478279",
@@ -2753,7 +2752,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mlffathukzr9f4",
         "productLink": "https://shopee.com.br/product/1232299933/54850610196",
         "offerLink": "https://s.shopee.com.br/Lm8r91cva"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22793679889",
@@ -4605,6 +4605,34 @@
         "offerLink": "https://s.shopee.com.br/2gA5Pm1A5N"
       },
       "_last_price": null
+    },
+    {
+      "id": "55501913565",
+      "name": "Enrolador de Linha Polinha Suporte para linha de pesca Compatível com Varas Simples e Telescópicas",
+      "price": 1.5,
+      "original_price": 4.55,
+      "discount": 67.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhccre0s9ix19b",
+      "link": "https://s.shopee.com.br/4VbhDeNNxG",
+      "rating": "4.8",
+      "sales": 64,
+      "shop": "CLICK & VIVA",
+      "category": "suporte vara pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 55501913565,
+        "productName": "Enrolador de Linha Polinha Suporte para linha de pesca Compatível com Varas Simples e Telescópicas",
+        "price": "1.5",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.07",
+        "sales": 64,
+        "ratingStar": "4.8",
+        "shopName": "CLICK & VIVA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhccre0s9ix19b",
+        "productLink": "https://shopee.com.br/product/1594633180/55501913565",
+        "offerLink": "https://s.shopee.com.br/4VbhDeNNxG"
+      }
     },
     {
       "id": "22697748403",
@@ -7043,8 +7071,8 @@
     {
       "id": "23893429110",
       "name": "70KG Molinete De Pesca Carretel De Pesca 5.2 : 1 Giratório 1000-7000 Com Cabo EVA Amarelo Escuro",
-      "price": 45.0,
-      "original_price": 115.38,
+      "price": 45.8,
+      "original_price": 117.44,
       "discount": 61.0,
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfje7rr835s0e2",
@@ -7057,7 +7085,7 @@
       "_item": {
         "itemId": 23893429110,
         "productName": "70KG Molinete De Pesca Carretel De Pesca 5.2 : 1 Giratório 1000-7000 Com Cabo EVA Amarelo Escuro",
-        "price": "45",
+        "price": "45.8",
         "priceDiscountRate": 61,
         "commissionRate": "0.08",
         "sales": 839,
@@ -7787,6 +7815,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbkt-lm2y5pyt79ybe0",
         "productLink": "https://shopee.com.br/product/207578873/22196958037",
         "offerLink": "https://s.shopee.com.br/4Vbjb8uBMc"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22198925909",
+      "name": "Kit Sinos Duplo Alarme Para Vara De Pesca Suporte Sinalizador Guizo Sininho",
+      "price": 15.98,
+      "original_price": 39.95,
+      "discount": 60.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-memefl92z0n5c8",
+      "link": "https://s.shopee.com.br/50XxoZLTwJ",
+      "rating": "4.9",
+      "sales": 59,
+      "shop": "MDV ECOMMERCE",
+      "category": "suporte vara pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22198925909,
+        "productName": "Kit Sinos Duplo Alarme Para Vara De Pesca Suporte Sinalizador Guizo Sininho",
+        "price": "15.98",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.03",
+        "sales": 59,
+        "ratingStar": "4.9",
+        "shopName": "MDV ECOMMERCE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-memefl92z0n5c8",
+        "productLink": "https://shopee.com.br/product/1551845803/22198925909",
+        "offerLink": "https://s.shopee.com.br/50XxoZLTwJ"
       },
       "_last_price": null
     },
@@ -9241,35 +9298,6 @@
       "_last_price": null
     },
     {
-      "id": "22698842056",
-      "name": "Moedor Multifuncional de Café e Especiarias 110V/220V com Design  Inoxidável 4 Lâminas",
-      "price": 38.49,
-      "original_price": 89.51,
-      "discount": 57.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7repo-mdv9dd28kjq540",
-      "link": "https://s.shopee.com.br/5ArOc1jE7T",
-      "rating": "4.8",
-      "sales": 2413,
-      "shop": "SuperX.X",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22698842056,
-        "productName": "Moedor Multifuncional de Café e Especiarias 110V/220V com Design  Inoxidável 4 Lâminas",
-        "price": "38.49",
-        "priceDiscountRate": 57,
-        "commissionRate": "0.11",
-        "sales": 2413,
-        "ratingStar": "4.8",
-        "shopName": "SuperX.X",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repo-mdv9dd28kjq540",
-        "productLink": "https://shopee.com.br/product/1393395741/22698842056",
-        "offerLink": "https://s.shopee.com.br/5ArOc1jE7T"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23497309877",
       "name": "Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb Cozinha",
       "price": 59.9,
@@ -10107,6 +10135,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mq2zvsocj3eo45",
         "productLink": "https://shopee.com.br/product/1669666744/58263407185",
         "offerLink": "https://s.shopee.com.br/8V7pyzYtLN"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23399365801",
+      "name": "Suporte Vara de Pesca Piratamba 35cm Apoio Premium Emborrachado Aço Galvanizado Barranco Pesqueiro Até 30kg",
+      "price": 35.19,
+      "original_price": 79.98,
+      "discount": 56.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mqpf4usfkqv4c5",
+      "link": "https://s.shopee.com.br/3qM0QQPvIw",
+      "rating": "4.9",
+      "sales": 108,
+      "shop": "KN Company | Pesca & Acessórios",
+      "category": "suporte vara pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23399365801,
+        "productName": "Suporte Vara de Pesca Piratamba 35cm Apoio Premium Emborrachado Aço Galvanizado Barranco Pesqueiro Até 30kg",
+        "price": "35.19",
+        "priceDiscountRate": 56,
+        "commissionRate": "0.03",
+        "sales": 108,
+        "ratingStar": "4.9",
+        "shopName": "KN Company | Pesca & Acessórios",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mqpf4usfkqv4c5",
+        "productLink": "https://shopee.com.br/product/661434891/23399365801",
+        "offerLink": "https://s.shopee.com.br/3qM0QQPvIw"
       },
       "_last_price": null
     },
@@ -10980,6 +11037,35 @@
       "_last_price": null
     },
     {
+      "id": "22698842056",
+      "name": "Moedor Multifuncional de Café e Especiarias 110V/220V com Design  Inoxidável 4 Lâminas",
+      "price": 39.49,
+      "original_price": 85.85,
+      "discount": 54.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7repo-mdv9dd28kjq540",
+      "link": "https://s.shopee.com.br/5ArOc1jE7T",
+      "rating": "4.8",
+      "sales": 2413,
+      "shop": "SuperX.X",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22698842056,
+        "productName": "Moedor Multifuncional de Café e Especiarias 110V/220V com Design  Inoxidável 4 Lâminas",
+        "price": "39.49",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.11",
+        "sales": 2413,
+        "ratingStar": "4.8",
+        "shopName": "SuperX.X",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repo-mdv9dd28kjq540",
+        "productLink": "https://shopee.com.br/product/1393395741/22698842056",
+        "offerLink": "https://s.shopee.com.br/5ArOc1jE7T"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22198068260",
       "name": "Mini Liquidificador Portátil Shake 6 Laminas + Cabo USB-SE3095",
       "price": 22.04,
@@ -11734,6 +11820,35 @@
       "_last_price": null
     },
     {
+      "id": "19198335914",
+      "name": "Kit Sino Duplo Alarme Para Vara De Pesca Suporte Sinalizador Guizo Sininho Clipe Universal",
+      "price": 10.07,
+      "original_price": 21.43,
+      "discount": 53.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh56v1mbfpxcf7",
+      "link": "https://s.shopee.com.br/2BDmRMWGgS",
+      "rating": "4.9",
+      "sales": 182,
+      "shop": "tiopescada",
+      "category": "suporte vara pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19198335914,
+        "productName": "Kit Sino Duplo Alarme Para Vara De Pesca Suporte Sinalizador Guizo Sininho Clipe Universal",
+        "price": "10.07",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.03",
+        "sales": 182,
+        "ratingStar": "4.9",
+        "shopName": "tiopescada",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh56v1mbfpxcf7",
+        "productLink": "https://shopee.com.br/product/1641676028/19198335914",
+        "offerLink": "https://s.shopee.com.br/2BDmRMWGgS"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23698804974",
       "name": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
       "price": 10.99,
@@ -11817,35 +11932,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mlo03sx34wef14",
         "productLink": "https://shopee.com.br/product/402665763/58256681617",
         "offerLink": "https://s.shopee.com.br/3qM0QDmqHN"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22994148851",
-      "name": "PROMOÇÃO FAZ 25 LITROS DE DESINFETANTE CONCENTRADO COM 500ML | VÁRIAS FRAGRÂNCIAS",
-      "price": 10.99,
-      "original_price": 22.9,
-      "discount": 52.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mn3cmeqnyfwh53",
-      "link": "https://s.shopee.com.br/AKZUAAx1Ia",
-      "rating": "4.8",
-      "sales": 1286,
-      "shop": "TudoDaDay",
-      "category": "desinfetante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22994148851,
-        "productName": "PROMOÇÃO FAZ 25 LITROS DE DESINFETANTE CONCENTRADO COM 500ML | VÁRIAS FRAGRÂNCIAS",
-        "price": "10.99",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 1286,
-        "ratingStar": "4.8",
-        "shopName": "TudoDaDay",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mn3cmeqnyfwh53",
-        "productLink": "https://shopee.com.br/product/1564593552/22994148851",
-        "offerLink": "https://s.shopee.com.br/AKZUAAx1Ia"
       },
       "_last_price": null
     },
@@ -14255,6 +14341,35 @@
       "_last_price": null
     },
     {
+      "id": "58202972742",
+      "name": "Suporte Vara Pesca Emborrachado Reforçado 35cm Apoio Premium - PIRATAMBA",
+      "price": 39.0,
+      "original_price": 78.0,
+      "discount": 50.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkioznekh91dcd",
+      "link": "https://s.shopee.com.br/2LXCdfVdLX",
+      "rating": "4.9",
+      "sales": 156,
+      "shop": "Ubero Imports",
+      "category": "suporte vara pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58202972742,
+        "productName": "Suporte Vara Pesca Emborrachado Reforçado 35cm Apoio Premium - PIRATAMBA",
+        "price": "39",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 156,
+        "ratingStar": "4.9",
+        "shopName": "Ubero Imports",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkioznekh91dcd",
+        "productLink": "https://shopee.com.br/product/1719286529/58202972742",
+        "offerLink": "https://s.shopee.com.br/2LXCdfVdLX"
+      },
+      "_last_price": null
+    },
+    {
       "id": "24453469246",
       "name": "Novas Luvas de Pesca Luminosa com Lanterna led Luvas de Pesca Noturna de Reparo de Emergência Luvas de Iluminação de Pesca Noturna Luvas à prova",
       "price": 11.9,
@@ -16546,35 +16661,6 @@
       "_last_price": null
     },
     {
-      "id": "40265722427",
-      "name": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
-      "price": 7.7,
-      "original_price": 14.53,
-      "discount": 47.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
-      "link": "https://s.shopee.com.br/9fJnN5nOjo",
-      "rating": "5",
-      "sales": 322,
-      "shop": "br.FashLoop",
-      "category": "isca artificial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40265722427,
-        "productName": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
-        "price": "7.7",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.03",
-        "sales": 322,
-        "ratingStar": "5",
-        "shopName": "br.FashLoop",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
-        "productLink": "https://shopee.com.br/product/1603567416/40265722427",
-        "offerLink": "https://s.shopee.com.br/9fJnN5nOjo"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20552135222",
       "name": "Colete Salva Vidas Flutuador Infantil AcquaFun My Little Crab 100% Bóia Fabricado no Brasil",
       "price": 39.99,
@@ -16658,6 +16744,64 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pf-mp4mrk33iknhaf",
         "productLink": "https://shopee.com.br/product/1006215031/29777745435",
         "offerLink": "https://s.shopee.com.br/5VUEPS77Ql"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "46801277977",
+      "name": "Novo Carretel De Pesca De Arrasto Máximo De 200kg AK2000 , 7.2 : 1 Arremesso De Alta Velocidade Com Freio Magnético~",
+      "price": 57.8,
+      "original_price": 109.06,
+      "discount": 47.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mn3rb9a5tougb4",
+      "link": "https://s.shopee.com.br/6AjvCiH2Zc",
+      "rating": "4.8",
+      "sales": 33,
+      "shop": "YUMAX Super Store",
+      "category": "suporte vara pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 46801277977,
+        "productName": "Novo Carretel De Pesca De Arrasto Máximo De 200kg AK2000 , 7.2 : 1 Arremesso De Alta Velocidade Com Freio Magnético~",
+        "price": "57.8",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.13",
+        "sales": 33,
+        "ratingStar": "4.8",
+        "shopName": "YUMAX Super Store",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mn3rb9a5tougb4",
+        "productLink": "https://shopee.com.br/product/1594828289/46801277977",
+        "offerLink": "https://s.shopee.com.br/6AjvCiH2Zc"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23697736565",
+      "name": "Suporte Saca Areia Rosca Para Guarda Sol Vara De Pesca",
+      "price": 15.99,
+      "original_price": 30.17,
+      "discount": 47.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfv6n6w1dpmo96",
+      "link": "https://s.shopee.com.br/8fRGzVD9pT",
+      "rating": "4.9",
+      "sales": 22,
+      "shop": "Atacadão Unamar",
+      "category": "suporte vara pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23697736565,
+        "productName": "Suporte Saca Areia Rosca Para Guarda Sol Vara De Pesca",
+        "price": "15.99",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.03",
+        "sales": 22,
+        "ratingStar": "4.9",
+        "shopName": "Atacadão Unamar",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfv6n6w1dpmo96",
+        "productLink": "https://shopee.com.br/product/392709246/23697736565",
+        "offerLink": "https://s.shopee.com.br/8fRGzVD9pT"
       },
       "_last_price": null
     },
@@ -18546,6 +18690,35 @@
       "_last_price": null
     },
     {
+      "id": "40265722427",
+      "name": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
+      "price": 7.7,
+      "original_price": 13.75,
+      "discount": 44.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
+      "link": "https://s.shopee.com.br/9fJnN5nOjo",
+      "rating": "5",
+      "sales": 322,
+      "shop": "br.FashLoop",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 40265722427,
+        "productName": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
+        "price": "7.7",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.03",
+        "sales": 322,
+        "ratingStar": "5",
+        "shopName": "br.FashLoop",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
+        "productLink": "https://shopee.com.br/product/1603567416/40265722427",
+        "offerLink": "https://s.shopee.com.br/9fJnN5nOjo"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58254191315",
       "name": "Estojo Organizador De Pesca Dupla Face Maleta Para Iscas E Acessórios 12/14 Divisórias",
       "price": 27.9,
@@ -20252,6 +20425,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd5w-m76rt2vtn821b6",
         "productLink": "https://shopee.com.br/product/1603567416/44315735571",
         "offerLink": "https://s.shopee.com.br/8fRGBFHjSL"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "10928841452",
+      "name": "5 Pçs / 10 Pçs Reutilizável Vara De Pesca Suporte De Amarração Tira Prendedor De Ferramentas De Pesca",
+      "price": 10.99,
+      "original_price": 18.63,
+      "discount": 41.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/c09f0fbd455b065b796fbedfb3c45cf1",
+      "link": "https://s.shopee.com.br/4LIH1LO1IF",
+      "rating": "4.8",
+      "sales": 43,
+      "shop": "VanFishing Isca Pesca.br",
+      "category": "suporte vara pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 10928841452,
+        "productName": "5 Pçs / 10 Pçs Reutilizável Vara De Pesca Suporte De Amarração Tira Prendedor De Ferramentas De Pesca",
+        "price": "10.99",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.07",
+        "sales": 43,
+        "ratingStar": "4.8",
+        "shopName": "VanFishing Isca Pesca.br",
+        "imageUrl": "https://cf.shopee.com.br/file/c09f0fbd455b065b796fbedfb3c45cf1",
+        "productLink": "https://shopee.com.br/product/504210070/10928841452",
+        "offerLink": "https://s.shopee.com.br/4LIH1LO1IF"
       },
       "_last_price": null
     },
@@ -24374,6 +24576,35 @@
       "_last_price": null
     },
     {
+      "id": "23092864059",
+      "name": "Ração Whiskas 10Kg Ração Gato Castrado Adulto 1+ Sabor Carne Ração para Gatos Castrados 10kg",
+      "price": 141.99,
+      "original_price": 215.14,
+      "discount": 34.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rce1-ltb3ak2s3bptf9",
+      "link": "https://s.shopee.com.br/5fngzB1R6p",
+      "rating": "5",
+      "sales": 1228,
+      "shop": "Marcinho PET",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23092864059,
+        "productName": "Ração Whiskas 10Kg Ração Gato Castrado Adulto 1+ Sabor Carne Ração para Gatos Castrados 10kg",
+        "price": "141.99",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.03",
+        "sales": 1228,
+        "ratingStar": "5",
+        "shopName": "Marcinho PET",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rce1-ltb3ak2s3bptf9",
+        "productLink": "https://shopee.com.br/product/1194006916/23092864059",
+        "offerLink": "https://s.shopee.com.br/5fngzB1R6p"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58208582003",
       "name": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
       "price": 47.9,
@@ -24544,6 +24775,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rj-mp1jxdevztohc0",
         "productLink": "https://shopee.com.br/product/940287081/22199524567",
         "offerLink": "https://s.shopee.com.br/6L3LOzLgQM"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20597494947",
+      "name": "Saca Areia Fixador Âncora Suporte Guarda Sol E Vara De Pesca Praia Verão Camping Cores Variadas",
+      "price": 19.74,
+      "original_price": 29.91,
+      "discount": 34.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbl1-lnvsaqnslu3qe2",
+      "link": "https://s.shopee.com.br/40fQcjPHy9",
+      "rating": "4.9",
+      "sales": 55,
+      "shop": "PENSOU.COMPROU.LEVOU",
+      "category": "suporte vara pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20597494947,
+        "productName": "Saca Areia Fixador Âncora Suporte Guarda Sol E Vara De Pesca Praia Verão Camping Cores Variadas",
+        "price": "19.74",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.03",
+        "sales": 55,
+        "ratingStar": "4.9",
+        "shopName": "PENSOU.COMPROU.LEVOU",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbl1-lnvsaqnslu3qe2",
+        "productLink": "https://shopee.com.br/product/1074001909/20597494947",
+        "offerLink": "https://s.shopee.com.br/40fQcjPHy9"
       },
       "_last_price": null
     },
@@ -26694,6 +26954,35 @@
       "_last_price": null
     },
     {
+      "id": "28228522926",
+      "name": "Suporte para vara com clipe de fixação, dispositivo de armazenamento, equipamento de pesca e equipamento",
+      "price": 13.9,
+      "original_price": 19.86,
+      "discount": 30.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd5v-m6ziwp7tm4kb2d",
+      "link": "https://s.shopee.com.br/2gA32HUMfl",
+      "rating": "4.7",
+      "sales": 249,
+      "shop": "zhongyu.br",
+      "category": "suporte vara pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 28228522926,
+        "productName": "Suporte para vara com clipe de fixação, dispositivo de armazenamento, equipamento de pesca e equipamento",
+        "price": "13.9",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.03",
+        "sales": 249,
+        "ratingStar": "4.7",
+        "shopName": "zhongyu.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd5v-m6ziwp7tm4kb2d",
+        "productLink": "https://shopee.com.br/product/647546523/28228522926",
+        "offerLink": "https://s.shopee.com.br/2gA32HUMfl"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23091599945",
       "name": "Lava Roupas Líquido Perfect White 7L Omo",
       "price": 99.98,
@@ -27245,6 +27534,35 @@
       "_last_price": null
     },
     {
+      "id": "44202214204",
+      "name": "Panela de Pressão Elétrica Itatiaia Essencial 5L 900W 127V Inox",
+      "price": 299.9,
+      "original_price": 416.53,
+      "discount": 28.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rasz-ma8kbnoem0tu53",
+      "link": "https://s.shopee.com.br/9fJnN2x8Oy",
+      "rating": "4.9",
+      "sales": 721,
+      "shop": "Inpower",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 44202214204,
+        "productName": "Panela de Pressão Elétrica Itatiaia Essencial 5L 900W 127V Inox",
+        "price": "299.9",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.03",
+        "sales": 721,
+        "ratingStar": "4.9",
+        "shopName": "Inpower",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rasz-ma8kbnoem0tu53",
+        "productLink": "https://shopee.com.br/product/683223635/44202214204",
+        "offerLink": "https://s.shopee.com.br/9fJnN2x8Oy"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22793684140",
       "name": "Tênis Feminino Esportivo Leve e mácio Academia Corrida",
       "price": 36.0,
@@ -27540,7 +27858,7 @@
       "price": 23.9,
       "original_price": 32.74,
       "discount": 27.0,
-      "commission": 0.14,
+      "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdxibc71og01ff",
       "link": "https://s.shopee.com.br/8V7sC33GTy",
       "rating": "4.9",
@@ -27553,7 +27871,7 @@
         "productName": "Perfume Colônia Cebolinha Deo Jequiti Turma Da Mônica 25ml",
         "price": "23.9",
         "priceDiscountRate": 27,
-        "commissionRate": "0.14",
+        "commissionRate": "0.03",
         "sales": 3454,
         "ratingStar": "4.9",
         "shopName": "JR Magazines",
@@ -27709,35 +28027,6 @@
       "_last_price": null
     },
     {
-      "id": "25845400895",
-      "name": "Panela de Pressão 2,5 Litros Alumínio Polida Fort-Lar",
-      "price": 51.9,
-      "original_price": 71.1,
-      "discount": 27.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-macy6hm46tfz71",
-      "link": "https://s.shopee.com.br/8fRGBD0wQs",
-      "rating": "4.9",
-      "sales": 914,
-      "shop": "r_store1",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 25845400895,
-        "productName": "Panela de Pressão 2,5 Litros Alumínio Polida Fort-Lar",
-        "price": "51.9",
-        "priceDiscountRate": 27,
-        "commissionRate": "0.08",
-        "sales": 914,
-        "ratingStar": "4.9",
-        "shopName": "r_store1",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-macy6hm46tfz71",
-        "productLink": "https://shopee.com.br/product/502568539/25845400895",
-        "offerLink": "https://s.shopee.com.br/8fRGBD0wQs"
-      },
-      "_last_price": null
-    },
-    {
       "id": "6957639501",
       "name": "Kit Pesca Esportiva Chumbada Anzol Giradores e Boias Sino e Linha",
       "price": 39.33,
@@ -27879,6 +28168,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zto-ml5989e7ml8nf8",
         "productLink": "https://shopee.com.br/product/1177903362/22198915719",
         "offerLink": "https://s.shopee.com.br/1gHVqEv5fk"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22994148851",
+      "name": "PROMOÇÃO FAZ 25 LITROS DE DESINFETANTE CONCENTRADO COM 500ML | VÁRIAS FRAGRÂNCIAS",
+      "price": 16.89,
+      "original_price": 22.82,
+      "discount": 26.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mn3cmeqnyfwh53",
+      "link": "https://s.shopee.com.br/AKZUAAx1Ia",
+      "rating": "4.8",
+      "sales": 1286,
+      "shop": "TudoDaDay",
+      "category": "desinfetante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22994148851,
+        "productName": "PROMOÇÃO FAZ 25 LITROS DE DESINFETANTE CONCENTRADO COM 500ML | VÁRIAS FRAGRÂNCIAS",
+        "price": "16.89",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.03",
+        "sales": 1286,
+        "ratingStar": "4.8",
+        "shopName": "TudoDaDay",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mn3cmeqnyfwh53",
+        "productLink": "https://shopee.com.br/product/1564593552/22994148851",
+        "offerLink": "https://s.shopee.com.br/AKZUAAx1Ia"
       },
       "_last_price": null
     },
@@ -28372,6 +28690,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mmt07g0rint06e",
         "productLink": "https://shopee.com.br/product/373261329/58208444702",
         "offerLink": "https://s.shopee.com.br/6pzbzljLRE"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21550045026",
+      "name": "Creme Depilatório Facial Depilsam Karité 50G",
+      "price": 14.9,
+      "original_price": 19.87,
+      "discount": 25.0,
+      "commission": 0.17,
+      "image": "https://cf.shopee.com.br/file/4bba4d40278622219c444f699a080850",
+      "link": "https://s.shopee.com.br/gOyeROUKD",
+      "rating": "4.8",
+      "sales": 2984,
+      "shop": "Dana Cosmeticos",
+      "category": "creme facial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21550045026,
+        "productName": "Creme Depilatório Facial Depilsam Karité 50G",
+        "price": "14.9",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.17",
+        "sales": 2984,
+        "ratingStar": "4.8",
+        "shopName": "Dana Cosmeticos",
+        "imageUrl": "https://cf.shopee.com.br/file/4bba4d40278622219c444f699a080850",
+        "productLink": "https://shopee.com.br/product/436104412/21550045026",
+        "offerLink": "https://s.shopee.com.br/gOyeROUKD"
       },
       "_last_price": null
     },
@@ -30406,6 +30753,35 @@
       "_last_price": null
     },
     {
+      "id": "41054174116",
+      "name": "Kit Suportes de Vara de Pesca 41cm Aço Reforçado p/ Barranco Pesqueiro",
+      "price": 19.9,
+      "original_price": 24.87,
+      "discount": 20.0,
+      "commission": 0.15,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me7jrmrfqww3cd",
+      "link": "https://s.shopee.com.br/3LPjpVRpJp",
+      "rating": "4.8",
+      "sales": 127,
+      "shop": "ALAS Comercial",
+      "category": "suporte vara pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41054174116,
+        "productName": "Kit Suportes de Vara de Pesca 41cm Aço Reforçado p/ Barranco Pesqueiro",
+        "price": "19.9",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.15",
+        "sales": 127,
+        "ratingStar": "4.8",
+        "shopName": "ALAS Comercial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me7jrmrfqww3cd",
+        "productLink": "https://shopee.com.br/product/1316730580/41054174116",
+        "offerLink": "https://s.shopee.com.br/3LPjpVRpJp"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58203314751",
       "name": "Suporte Ajustável Vertical para Placa de Vídeo GPU | Anti-Sag | Universal HD PC Gamer",
       "price": 12.9,
@@ -31450,6 +31826,35 @@
       "_last_price": null
     },
     {
+      "id": "19899241926",
+      "name": "Detergente Enzimático Zymedet 1L- Prolink",
+      "price": 30.9,
+      "original_price": 36.79,
+      "discount": 16.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltuc9brnd3pbe2",
+      "link": "https://s.shopee.com.br/30mtQhOwBU",
+      "rating": "5",
+      "sales": 576,
+      "shop": "ICE Health",
+      "category": "desinfetante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19899241926,
+        "productName": "Detergente Enzimático Zymedet 1L- Prolink",
+        "price": "30.9",
+        "priceDiscountRate": 16,
+        "commissionRate": "0.03",
+        "sales": 576,
+        "ratingStar": "5",
+        "shopName": "ICE Health",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltuc9brnd3pbe2",
+        "productLink": "https://shopee.com.br/product/1179560619/19899241926",
+        "offerLink": "https://s.shopee.com.br/30mtQhOwBU"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58213023655",
       "name": "Kit 3un Limpador 500ml UAU Perfume Chá Branco",
       "price": 15.9,
@@ -31968,6 +32373,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnddp09ufn4fe5",
         "productLink": "https://shopee.com.br/product/534023108/19748645144",
         "offerLink": "https://s.shopee.com.br/5ArO0fhlZl"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18598296472",
+      "name": "Calisul Percarbonato 100% Pureza total - Tira Manchas Natural",
+      "price": 19.78,
+      "original_price": 23.27,
+      "discount": 15.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdsw7fyi4jbl20",
+      "link": "https://s.shopee.com.br/6pzcnvlJnP",
+      "rating": "4.9",
+      "sales": 906,
+      "shop": "AGRONLINE loja agricola",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18598296472,
+        "productName": "Calisul Percarbonato 100% Pureza total - Tira Manchas Natural",
+        "price": "19.78",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.03",
+        "sales": 906,
+        "ratingStar": "4.9",
+        "shopName": "AGRONLINE loja agricola",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdsw7fyi4jbl20",
+        "productLink": "https://shopee.com.br/product/1494249827/18598296472",
+        "offerLink": "https://s.shopee.com.br/6pzcnvlJnP"
       },
       "_last_price": null
     },
