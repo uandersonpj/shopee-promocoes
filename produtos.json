@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T03:24:46.637148+00:00",
-  "total": 1129,
+  "updated_at": "2026-08-04T03:43:27.683708+00:00",
+  "total": 1128,
   "products": [
     {
       "id": "23698808886",
@@ -608,7 +608,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mmi9yl6sf3ls65",
         "productLink": "https://shopee.com.br/product/1198407784/23497594302",
         "offerLink": "https://s.shopee.com.br/1BLFFR75fr"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "55508691646",
@@ -30433,35 +30434,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mr1pal9vdypz31",
         "productLink": "https://shopee.com.br/product/1246701013/22594148344",
         "offerLink": "https://s.shopee.com.br/70J2C7ly0Q"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "40881634244",
-      "name": "Forma Airfryer Descartável Papel Antiaderente Redonda Quadrada 50 100 200 250 Unidades",
-      "price": 12.79,
-      "original_price": 15.99,
-      "discount": 20.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mpcphejk4eth7f",
-      "link": "https://s.shopee.com.br/6pzco1RQvt",
-      "rating": "4.8",
-      "sales": 1808,
-      "shop": "HJ Prime Shop",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40881634244,
-        "productName": "Forma Airfryer Descartável Papel Antiaderente Redonda Quadrada 50 100 200 250 Unidades",
-        "price": "12.79",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.03",
-        "sales": 1808,
-        "ratingStar": "4.8",
-        "shopName": "HJ Prime Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mpcphejk4eth7f",
-        "productLink": "https://shopee.com.br/product/429439423/40881634244",
-        "offerLink": "https://s.shopee.com.br/6pzco1RQvt"
       },
       "_last_price": null
     },
