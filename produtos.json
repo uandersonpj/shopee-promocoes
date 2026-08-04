@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T00:53:34.568387+00:00",
+  "updated_at": "2026-08-04T01:12:39.723128+00:00",
   "total": 1126,
   "products": [
     {
@@ -461,7 +461,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pu-mp4n4y3efpc2f7",
         "productLink": "https://shopee.com.br/product/1006215031/24360408071",
         "offerLink": "https://s.shopee.com.br/80BZO0GH4S"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "26539956454",
@@ -1576,8 +1577,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823p5-mp4meqki2g3k68",
         "productLink": "https://shopee.com.br/product/1006215031/47000945292",
         "offerLink": "https://s.shopee.com.br/1LefRneiZ2"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22497773735",
@@ -20807,35 +20807,6 @@
       "_last_price": null
     },
     {
-      "id": "22194458905",
-      "name": "Coleção 12 Carrinhos Miniatura Kit Completo Brinquedo Meninos",
-      "price": 14.9,
-      "original_price": 24.83,
-      "discount": 40.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf1h1y2ry8sk12",
-      "link": "https://s.shopee.com.br/19HrEHgX2",
-      "rating": "4.8",
-      "sales": 999,
-      "shop": "Importek_",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22194458905,
-        "productName": "Coleção 12 Carrinhos Miniatura Kit Completo Brinquedo Meninos",
-        "price": "14.9",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 999,
-        "ratingStar": "4.8",
-        "shopName": "Importek_",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf1h1y2ry8sk12",
-        "productLink": "https://shopee.com.br/product/1564337780/22194458905",
-        "offerLink": "https://s.shopee.com.br/19HrEHgX2"
-      },
-      "_last_price": null
-    },
-    {
       "id": "7278628761",
       "name": "Whey Protein Concentrado 1kg 100% Importado Soldiers Nutrition Suplemento Proteína Muscular",
       "price": 145.9,
@@ -27473,6 +27444,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6tq89gxz4778",
         "productLink": "https://shopee.com.br/product/1384157489/22294647711",
         "offerLink": "https://s.shopee.com.br/6VMlbAJscB"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23499368877",
+      "name": "Brinquedo Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos Caixa Container que Vira Pista Qualidade",
+      "price": 71.92,
+      "original_price": 99.89,
+      "discount": 28.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8261f-ml6fnhmlfais41",
+      "link": "https://s.shopee.com.br/111p34DsVK",
+      "rating": "4.8",
+      "sales": 827,
+      "shop": "LDLINSHOP",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23499368877,
+        "productName": "Brinquedo Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos Caixa Container que Vira Pista Qualidade",
+        "price": "71.92",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.13",
+        "sales": 827,
+        "ratingStar": "4.8",
+        "shopName": "LDLINSHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261f-ml6fnhmlfais41",
+        "productLink": "https://shopee.com.br/product/316522636/23499368877",
+        "offerLink": "https://s.shopee.com.br/111p34DsVK"
       },
       "_last_price": null
     },
