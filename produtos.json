@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T12:10:34.724594+00:00",
-  "total": 1129,
+  "updated_at": "2026-08-04T12:29:17.070924+00:00",
+  "total": 1128,
   "products": [
     {
       "id": "23698808886",
@@ -3242,8 +3242,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
         "productLink": "https://shopee.com.br/product/1368232097/58207198817",
         "offerLink": "https://s.shopee.com.br/7fYizRYCnw"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23199448516",
@@ -13778,7 +13777,7 @@
       "price": 45.48,
       "original_price": 90.96,
       "discount": 50.0,
-      "commission": 0.03,
+      "commission": 0.1,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mo8bw1zmkn44c0",
       "link": "https://s.shopee.com.br/qiPS3ziuj",
       "rating": "4.9",
@@ -13791,7 +13790,7 @@
         "productName": "Cafeteira Italiana Moka Premium 6 Xícaras De  Alumínio",
         "price": "45.48",
         "priceDiscountRate": 50,
-        "commissionRate": "0.03",
+        "commissionRate": "0.1",
         "sales": 1624,
         "ratingStar": "4.9",
         "shopName": "SELLNEEDS",
@@ -20680,7 +20679,7 @@
       "price": 41.9,
       "original_price": 69.83,
       "discount": 40.0,
-      "commission": 0.03,
+      "commission": 0.1,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mrfw6xjz7eh04f",
       "link": "https://s.shopee.com.br/80BZNtsRCn",
       "rating": "4.7",
@@ -20693,7 +20692,7 @@
         "productName": "Kit 4 Super Panos De Chão Grandes Em Microfibra Panão 80x50",
         "price": "41.9",
         "priceDiscountRate": 40,
-        "commissionRate": "0.03",
+        "commissionRate": "0.1",
         "sales": 2091,
         "ratingStar": "4.7",
         "shopName": "SELLNEEDS",
@@ -24827,7 +24826,7 @@
       "price": 72.55,
       "original_price": 108.28,
       "discount": 33.0,
-      "commission": 0.03,
+      "commission": 0.1,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mra6ut14j11h76",
       "link": "https://s.shopee.com.br/19HtlFzzk",
       "rating": "4.9",
@@ -24840,7 +24839,7 @@
         "productName": "Kit Lixeira Cozinha 5L E Dispenser Porta Detergente Luxo",
         "price": "72.55",
         "priceDiscountRate": 33,
-        "commissionRate": "0.03",
+        "commissionRate": "0.1",
         "sales": 1953,
         "ratingStar": "4.9",
         "shopName": "SELLNEEDS",
@@ -27055,35 +27054,6 @@
       "_last_price": null
     },
     {
-      "id": "53056867747",
-      "name": "Kit 24 unidades Whiskas Sachê 85g Sachê para Gatos Adultos Sabores Frango Atum Carne Alimento Úmido",
-      "price": 51.9,
-      "original_price": 73.1,
-      "discount": 29.0,
-      "commission": 0.17,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mlhxd9gvwy6ce1",
-      "link": "https://s.shopee.com.br/3B6Jd4n5ML",
-      "rating": "5",
-      "sales": 1584,
-      "shop": "Marcinho PET",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 53056867747,
-        "productName": "Kit 24 unidades Whiskas Sachê 85g Sachê para Gatos Adultos Sabores Frango Atum Carne Alimento Úmido",
-        "price": "51.9",
-        "priceDiscountRate": 29,
-        "commissionRate": "0.17",
-        "sales": 1584,
-        "ratingStar": "5",
-        "shopName": "Marcinho PET",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mlhxd9gvwy6ce1",
-        "productLink": "https://shopee.com.br/product/1194006916/53056867747",
-        "offerLink": "https://s.shopee.com.br/3B6Jd4n5ML"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22799500311",
       "name": "Casinha de Gato 2 Andares Playground Rampa Arranhador Toca Felino Brinquedo Degrau Casa",
       "price": 56.9,
@@ -27637,8 +27607,8 @@
     {
       "id": "45557096111",
       "name": "Kit Banqueta Dobrável Com Alça Suporta 150kg Reforçada Camping Rancho Pesca",
-      "price": 35.89,
-      "original_price": 49.85,
+      "price": 35.9,
+      "original_price": 49.86,
       "discount": 28.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mlp37yq2ldza90",
@@ -27651,7 +27621,7 @@
       "_item": {
         "itemId": 45557096111,
         "productName": "Kit Banqueta Dobrável Com Alça Suporta 150kg Reforçada Camping Rancho Pesca",
-        "price": "35.89",
+        "price": "35.9",
         "priceDiscountRate": 28,
         "commissionRate": "0.03",
         "sales": 658,
