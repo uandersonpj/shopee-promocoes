@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T23:56:37.291841+00:00",
-  "total": 1125,
+  "updated_at": "2026-08-04T00:15:38.422998+00:00",
+  "total": 1126,
   "products": [
     {
       "id": "23698808886",
@@ -402,7 +402,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mnb6ge4ki9dt70",
         "productLink": "https://shopee.com.br/product/407760070/49603251115",
         "offerLink": "https://s.shopee.com.br/6L3LOqY7Kb"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21897733919",
@@ -519,8 +520,8 @@
     {
       "id": "52905774499",
       "name": "Espremedor Elétrico de Frutas Automático | Laranja, Limão e Outras Frutas | Suco Natural Rápido | Design Premium",
-      "price": 47.99,
-      "original_price": 299.94,
+      "price": 48.99,
+      "original_price": 306.19,
       "discount": 84.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8260c-mlw5gdmlji8493",
@@ -533,7 +534,7 @@
       "_item": {
         "itemId": 52905774499,
         "productName": "Espremedor Elétrico de Frutas Automático | Laranja, Limão e Outras Frutas | Suco Natural Rápido | Design Premium",
-        "price": "47.99",
+        "price": "48.99",
         "priceDiscountRate": 84,
         "commissionRate": "0.03",
         "sales": 6833,
@@ -1258,8 +1259,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyp5enbirpg574",
         "productLink": "https://shopee.com.br/product/443105265/23897691943",
         "offerLink": "https://s.shopee.com.br/4LIH1FZJO2"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22492388439",
@@ -1317,35 +1317,6 @@
         "productLink": "https://shopee.com.br/product/218996205/25391678999",
         "offerLink": "https://s.shopee.com.br/qiOqflb4m"
       }
-    },
-    {
-      "id": "22994403632",
-      "name": "Esponja de Banho lava costa Silicone anti bacteriano Esfoliar O Corpo 60/70x11.5cm",
-      "price": 8.99,
-      "original_price": 40.86,
-      "discount": 78.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mejts7vieltu9f",
-      "link": "https://s.shopee.com.br/4LIH19XKth",
-      "rating": "4.8",
-      "sales": 2848,
-      "shop": "AIGEE SHOP",
-      "category": "esponja",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22994403632,
-        "productName": "Esponja de Banho lava costa Silicone anti bacteriano Esfoliar O Corpo 60/70x11.5cm",
-        "price": "8.99",
-        "priceDiscountRate": 78,
-        "commissionRate": "0.03",
-        "sales": 2848,
-        "ratingStar": "4.8",
-        "shopName": "AIGEE SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mejts7vieltu9f",
-        "productLink": "https://shopee.com.br/product/1415768873/22994403632",
-        "offerLink": "https://s.shopee.com.br/4LIH19XKth"
-      },
-      "_last_price": null
     },
     {
       "id": "58210234177",
@@ -2852,6 +2823,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcmbazbekcn5d9",
         "productLink": "https://shopee.com.br/product/883941882/23598220274",
         "offerLink": "https://s.shopee.com.br/7AcSpKFuFZ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22994403632",
+      "name": "Esponja de Banho lava costa Silicone anti bacteriano Esfoliar O Corpo 60/70x11.5cm",
+      "price": 11.99,
+      "original_price": 39.97,
+      "discount": 70.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mejts7vieltu9f",
+      "link": "https://s.shopee.com.br/4LIH19XKth",
+      "rating": "4.8",
+      "sales": 2848,
+      "shop": "AIGEE SHOP",
+      "category": "esponja",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22994403632,
+        "productName": "Esponja de Banho lava costa Silicone anti bacteriano Esfoliar O Corpo 60/70x11.5cm",
+        "price": "11.99",
+        "priceDiscountRate": 70,
+        "commissionRate": "0.03",
+        "sales": 2848,
+        "ratingStar": "4.8",
+        "shopName": "AIGEE SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mejts7vieltu9f",
+        "productLink": "https://shopee.com.br/product/1415768873/22994403632",
+        "offerLink": "https://s.shopee.com.br/4LIH19XKth"
       },
       "_last_price": null
     },
@@ -8838,7 +8838,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rbkm-lpumq0sizh7ia5",
       "link": "https://s.shopee.com.br/6fgBnZyopW",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 359,
       "shop": "zhongyu.br",
       "category": "isca artificial",
@@ -8850,7 +8850,7 @@
         "priceDiscountRate": 58,
         "commissionRate": "0.03",
         "sales": 359,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "zhongyu.br",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbkm-lpumq0sizh7ia5",
         "productLink": "https://shopee.com.br/product/647546523/25305694401",
@@ -17762,35 +17762,6 @@
       "_last_price": null
     },
     {
-      "id": "21998001825",
-      "name": "Esponja de banho lava costa Silicone anti bacteriano cores sortido",
-      "price": 10.99,
-      "original_price": 19.98,
-      "discount": 45.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ra1c-m548tvxdhm0wde",
-      "link": "https://s.shopee.com.br/BSi3UnCLm",
-      "rating": "4.7",
-      "sales": 3756,
-      "shop": "Luxor Comercial",
-      "category": "esponja",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21998001825,
-        "productName": "Esponja de banho lava costa Silicone anti bacteriano cores sortido",
-        "price": "10.99",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.03",
-        "sales": 3756,
-        "ratingStar": "4.7",
-        "shopName": "Luxor Comercial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra1c-m548tvxdhm0wde",
-        "productLink": "https://shopee.com.br/product/222975446/21998001825",
-        "offerLink": "https://s.shopee.com.br/BSi3UnCLm"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20999077793",
       "name": "BB Cream/Base/Corretivo com Esponja com Formato de Cogumelo / Base Clareador Maquiagem Creme Clareador Cor Marfim e Natu",
       "price": 28.88,
@@ -18719,6 +18690,35 @@
       "_last_price": null
     },
     {
+      "id": "58254191315",
+      "name": "Estojo Organizador De Pesca Dupla Face Maleta Para Iscas E Acessórios 12/14 Divisórias",
+      "price": 27.9,
+      "original_price": 49.82,
+      "discount": 44.0,
+      "commission": 0.16,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8260l-mk0matpd6cxt68",
+      "link": "https://s.shopee.com.br/20uMF3oV9l",
+      "rating": "4.7",
+      "sales": 75,
+      "shop": "RICCO & CRIATIVO IMPORTS",
+      "category": "estojo pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58254191315,
+        "productName": "Estojo Organizador De Pesca Dupla Face Maleta Para Iscas E Acessórios 12/14 Divisórias",
+        "price": "27.9",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.16",
+        "sales": 75,
+        "ratingStar": "4.7",
+        "shopName": "RICCO & CRIATIVO IMPORTS",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260l-mk0matpd6cxt68",
+        "productLink": "https://shopee.com.br/product/1592831479/58254191315",
+        "offerLink": "https://s.shopee.com.br/20uMF3oV9l"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58206416694",
       "name": "Luva de Pesca Profissional Antiderrapante Proteção Peixe Pescaria Ajustável Resistente Confortável",
       "price": 19.99,
@@ -18918,6 +18918,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820lf-mo4hagt8fapsb4",
         "productLink": "https://shopee.com.br/product/1584628276/58202343137",
         "offerLink": "https://s.shopee.com.br/9zwdlYyHyY"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21998001825",
+      "name": "Esponja de banho lava costa Silicone anti bacteriano cores sortido",
+      "price": 11.5,
+      "original_price": 20.18,
+      "discount": 43.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ra1c-m548tvxdhm0wde",
+      "link": "https://s.shopee.com.br/BSi3UnCLm",
+      "rating": "4.7",
+      "sales": 3756,
+      "shop": "Luxor Comercial",
+      "category": "esponja",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21998001825,
+        "productName": "Esponja de banho lava costa Silicone anti bacteriano cores sortido",
+        "price": "11.5",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.03",
+        "sales": 3756,
+        "ratingStar": "4.7",
+        "shopName": "Luxor Comercial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra1c-m548tvxdhm0wde",
+        "productLink": "https://shopee.com.br/product/222975446/21998001825",
+        "offerLink": "https://s.shopee.com.br/BSi3UnCLm"
       },
       "_last_price": null
     },
@@ -20774,35 +20803,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjaa6s64g0sj43",
         "productLink": "https://shopee.com.br/product/1593119369/22894275092",
         "offerLink": "https://s.shopee.com.br/9pdDZIgFZr"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22194458905",
-      "name": "Coleção 12 Carrinhos Miniatura Kit Completo Brinquedo Meninos",
-      "price": 14.9,
-      "original_price": 24.83,
-      "discount": 40.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf1h1y2ry8sk12",
-      "link": "https://s.shopee.com.br/19HrEHgX2",
-      "rating": "4.8",
-      "sales": 999,
-      "shop": "Importek_",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22194458905,
-        "productName": "Coleção 12 Carrinhos Miniatura Kit Completo Brinquedo Meninos",
-        "price": "14.9",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 999,
-        "ratingStar": "4.8",
-        "shopName": "Importek_",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf1h1y2ry8sk12",
-        "productLink": "https://shopee.com.br/product/1564337780/22194458905",
-        "offerLink": "https://s.shopee.com.br/19HrEHgX2"
       },
       "_last_price": null
     },
@@ -27419,6 +27419,35 @@
       "_last_price": null
     },
     {
+      "id": "23499368877",
+      "name": "Brinquedo Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos Caixa Container que Vira Pista Qualidade",
+      "price": 71.92,
+      "original_price": 99.89,
+      "discount": 28.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8261f-ml6fnhmlfais41",
+      "link": "https://s.shopee.com.br/111p34DsVK",
+      "rating": "4.8",
+      "sales": 827,
+      "shop": "LDLINSHOP",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23499368877,
+        "productName": "Brinquedo Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos Caixa Container que Vira Pista Qualidade",
+        "price": "71.92",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.13",
+        "sales": 827,
+        "ratingStar": "4.8",
+        "shopName": "LDLINSHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261f-ml6fnhmlfais41",
+        "productLink": "https://shopee.com.br/product/316522636/23499368877",
+        "offerLink": "https://s.shopee.com.br/111p34DsVK"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19398297649",
       "name": "Ração Para Cachorro 15kg Special Dog Ultralife Gold Performance Adulto Carne Frango e Batata Doce",
       "price": 136.99,
@@ -27502,35 +27531,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmqfwqq71vcw90",
         "productLink": "https://shopee.com.br/product/379103154/58208305021",
         "offerLink": "https://s.shopee.com.br/7fYizN4kSG"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "44202214204",
-      "name": "Panela de Pressão Elétrica Itatiaia Essencial 5L 900W 127V Inox",
-      "price": 299.9,
-      "original_price": 416.53,
-      "discount": 28.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rasz-ma8kbnoem0tu53",
-      "link": "https://s.shopee.com.br/9fJnN2x8Oy",
-      "rating": "4.9",
-      "sales": 721,
-      "shop": "Inpower",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 44202214204,
-        "productName": "Panela de Pressão Elétrica Itatiaia Essencial 5L 900W 127V Inox",
-        "price": "299.9",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.03",
-        "sales": 721,
-        "ratingStar": "4.9",
-        "shopName": "Inpower",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rasz-ma8kbnoem0tu53",
-        "productLink": "https://shopee.com.br/product/683223635/44202214204",
-        "offerLink": "https://s.shopee.com.br/9fJnN2x8Oy"
       },
       "_last_price": null
     },
@@ -28053,6 +28053,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mnp4nu9pryf625",
         "productLink": "https://shopee.com.br/product/1552460828/58209955451",
         "offerLink": "https://s.shopee.com.br/19ISX2tbU"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "25845400895",
+      "name": "Panela de Pressão 2,5 Litros Alumínio Polida Fort-Lar",
+      "price": 51.9,
+      "original_price": 71.1,
+      "discount": 27.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-macy6hm46tfz71",
+      "link": "https://s.shopee.com.br/8fRGBD0wQs",
+      "rating": "4.9",
+      "sales": 914,
+      "shop": "r_store1",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 25845400895,
+        "productName": "Panela de Pressão 2,5 Litros Alumínio Polida Fort-Lar",
+        "price": "51.9",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.08",
+        "sales": 914,
+        "ratingStar": "4.9",
+        "shopName": "r_store1",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-macy6hm46tfz71",
+        "productLink": "https://shopee.com.br/product/502568539/25845400895",
+        "offerLink": "https://s.shopee.com.br/8fRGBD0wQs"
       },
       "_last_price": null
     },
