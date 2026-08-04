@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T18:26:59.574059+00:00",
-  "total": 1131,
+  "updated_at": "2026-08-04T18:45:47.791508+00:00",
+  "total": 1129,
   "products": [
     {
       "id": "23698808886",
@@ -315,8 +315,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1zzq6l901gfa2",
         "productLink": "https://shopee.com.br/product/322874822/23797686527",
         "offerLink": "https://s.shopee.com.br/5q74o17CNn"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "43258408741",
@@ -3273,7 +3272,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820m4-mnkc728pehag67",
         "productLink": "https://shopee.com.br/product/372103398/23199448516",
         "offerLink": "https://s.shopee.com.br/Lm8FyHeYy"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58251069728",
@@ -12602,6 +12602,35 @@
       "_last_price": null
     },
     {
+      "id": "58263011143",
+      "name": "Kit Completo Karssellé – Shampoo 1L + Condicionador 1L + Máscara 500ml + Óleo 60ml",
+      "price": 48.99,
+      "original_price": 99.98,
+      "discount": 51.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824ht-mpsjy2beg6ps79",
+      "link": "https://s.shopee.com.br/7Kvu9pYdo6",
+      "rating": "4.8",
+      "sales": 1520,
+      "shop": "OMEGA Cosmeticos",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58263011143,
+        "productName": "Kit Completo Karssellé – Shampoo 1L + Condicionador 1L + Máscara 500ml + Óleo 60ml",
+        "price": "48.99",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.03",
+        "sales": 1520,
+        "ratingStar": "4.8",
+        "shopName": "OMEGA Cosmeticos",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ht-mpsjy2beg6ps79",
+        "productLink": "https://shopee.com.br/product/622657465/58263011143",
+        "offerLink": "https://s.shopee.com.br/7Kvu9pYdo6"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23994304314",
       "name": "Perfume Importados Feminino E Masculino 30ML",
       "price": 29.4,
@@ -13129,7 +13158,7 @@
       "price": 12.99,
       "original_price": 25.98,
       "discount": 50.0,
-      "commission": 0.23,
+      "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mckw428u9pflf0",
       "link": "https://s.shopee.com.br/6AjvCUnACA",
       "rating": "4.8",
@@ -13142,7 +13171,7 @@
         "productName": "Mousepad Ergonômico Confort Neoprene Preto Apoio Pulso Antiderrapante Escritório Gamer Confortavel",
         "price": "12.99",
         "priceDiscountRate": 50,
-        "commissionRate": "0.23",
+        "commissionRate": "0.03",
         "sales": 1099,
         "ratingStar": "4.8",
         "shopName": "BelinhoStore",
@@ -22841,7 +22870,7 @@
       "price": 18.98,
       "original_price": 30.13,
       "discount": 37.0,
-      "commission": 0.07,
+      "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8260w-mm1wiu828t8o80",
       "link": "https://s.shopee.com.br/qiOqniVF9",
       "rating": "4.8",
@@ -22854,7 +22883,7 @@
         "productName": "Espuma Desengordurante Removedor De Gordura Panela  Spray Fogão Coifa Air Fryer Removedor limpa",
         "price": "18.98",
         "priceDiscountRate": 37,
-        "commissionRate": "0.07",
+        "commissionRate": "0.03",
         "sales": 1812,
         "ratingStar": "4.8",
         "shopName": "BelinhoStore",
@@ -25715,7 +25744,7 @@
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mptds7r37k0331",
       "link": "https://s.shopee.com.br/111peMz5Zm",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 1127,
       "shop": "WL OUTLET HOME",
       "category": "cafeteira",
@@ -25727,7 +25756,7 @@
         "priceDiscountRate": 32,
         "commissionRate": "0.08",
         "sales": 1127,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "WL OUTLET HOME",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mptds7r37k0331",
         "productLink": "https://shopee.com.br/product/621325478/54262669579",
@@ -26752,7 +26781,7 @@
     },
     {
       "id": "23099448490",
-      "name": "Kit 10, 20 Ou 30 Peixinhos + 1, 2 ou 4 Vara de Pesca",
+      "name": "Kit 10+1 20+2 30+4 Peixinhos para Pescaria Vara de Pescar Jogo de Pesca com Peixes e Varinha Brinquedo Interativo Brinca",
       "price": 22.4,
       "original_price": 32.0,
       "discount": 30.0,
@@ -26766,7 +26795,7 @@
       "source": "shopee",
       "_item": {
         "itemId": 23099448490,
-        "productName": "Kit 10, 20 Ou 30 Peixinhos + 1, 2 ou 4 Vara de Pesca",
+        "productName": "Kit 10+1 20+2 30+4 Peixinhos para Pescaria Vara de Pescar Jogo de Pesca com Peixes e Varinha Brinquedo Interativo Brinca",
         "price": "22.4",
         "priceDiscountRate": 30,
         "commissionRate": "0.12",
@@ -27037,35 +27066,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mll99udq0ao7d0",
         "productLink": "https://shopee.com.br/product/1754933018/23499364961",
         "offerLink": "https://s.shopee.com.br/Lm93zRf7J"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23498038856",
-      "name": "140 Blocos De Montar Super Coloridos Carrinho + Rodinhas - educacional",
-      "price": 28.35,
-      "original_price": 39.93,
-      "discount": 29.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2tuxpumqwb714",
-      "link": "https://s.shopee.com.br/7fYizJoUyE",
-      "rating": "4.7",
-      "sales": 2437,
-      "shop": "JoO Imported",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498038856,
-        "productName": "140 Blocos De Montar Super Coloridos Carrinho + Rodinhas - educacional",
-        "price": "28.35",
-        "priceDiscountRate": 29,
-        "commissionRate": "0.03",
-        "sales": 2437,
-        "ratingStar": "4.7",
-        "shopName": "JoO Imported",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2tuxpumqwb714",
-        "productLink": "https://shopee.com.br/product/399751373/23498038856",
-        "offerLink": "https://s.shopee.com.br/7fYizJoUyE"
       },
       "_last_price": null
     },
@@ -28230,35 +28230,6 @@
       "_last_price": null
     },
     {
-      "id": "16324454755",
-      "name": "Kit SOS Cachos Coco Profundo Shampoo e Condicionador Litrão Salon Line",
-      "price": 49.0,
-      "original_price": 66.22,
-      "discount": 26.0,
-      "commission": 0.18,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mpwv9cefewowf7",
-      "link": "https://s.shopee.com.br/9fJnMy3lBJ",
-      "rating": "4.9",
-      "sales": 3415,
-      "shop": "Salon Line",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 16324454755,
-        "productName": "Kit SOS Cachos Coco Profundo Shampoo e Condicionador Litrão Salon Line",
-        "price": "49",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.18",
-        "sales": 3415,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mpwv9cefewowf7",
-        "productLink": "https://shopee.com.br/product/616222685/16324454755",
-        "offerLink": "https://s.shopee.com.br/9fJnMy3lBJ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58256586508",
       "name": "Kit Capilar Óleo Extraordinário NEW HAIR - Shampoo, Condicionador, Máscara e Óleo",
       "price": 43.9,
@@ -28313,35 +28284,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mp0u7xd7ojk03d",
         "productLink": "https://shopee.com.br/product/382010808/58259794589",
         "offerLink": "https://s.shopee.com.br/qiOqmvy5b"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23993189785",
-      "name": "Ração Gran Plus Choice Frango Carne Gatos Adultos 10,1kg",
-      "price": 124.9,
-      "original_price": 168.78,
-      "discount": 26.0,
-      "commission": 0.18,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mpmlvjcedgqp17",
-      "link": "https://s.shopee.com.br/20uMEvrWiw",
-      "rating": "4.9",
-      "sales": 2263,
-      "shop": "LeluPets",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23993189785,
-        "productName": "Ração Gran Plus Choice Frango Carne Gatos Adultos 10,1kg",
-        "price": "124.9",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.18",
-        "sales": 2263,
-        "ratingStar": "4.9",
-        "shopName": "LeluPets",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mpmlvjcedgqp17",
-        "productLink": "https://shopee.com.br/product/293152127/23993189785",
-        "offerLink": "https://s.shopee.com.br/20uMEvrWiw"
       },
       "_last_price": null
     },
@@ -29299,6 +29241,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mo417yfibj7la8",
         "productLink": "https://shopee.com.br/product/993017837/19598318944",
         "offerLink": "https://s.shopee.com.br/AUsuMY3hsP"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58251764328",
+      "name": "Ração Para Gato Adulto 10,1kg Nutrican Sabor Carne Frango 28g Proteína Sem Corante",
+      "price": 75.99,
+      "original_price": 99.99,
+      "discount": 24.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mpid7odz905fb6",
+      "link": "https://s.shopee.com.br/2qTVfpys2B",
+      "rating": "4.9",
+      "sales": 1182,
+      "shop": "Petistrô",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58251764328,
+        "productName": "Ração Para Gato Adulto 10,1kg Nutrican Sabor Carne Frango 28g Proteína Sem Corante",
+        "price": "75.99",
+        "priceDiscountRate": 24,
+        "commissionRate": "0.03",
+        "sales": 1182,
+        "ratingStar": "4.9",
+        "shopName": "Petistrô",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mpid7odz905fb6",
+        "productLink": "https://shopee.com.br/product/382010808/58251764328",
+        "offerLink": "https://s.shopee.com.br/2qTVfpys2B"
       },
       "_last_price": null
     },
@@ -31822,35 +31793,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mr7mfs9pnx1j7d",
         "productLink": "https://shopee.com.br/product/383626563/58252899562",
         "offerLink": "https://s.shopee.com.br/AKZUAA6UyQ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "19899241926",
-      "name": "Detergente Enzimático Zymedet 1L- Prolink",
-      "price": 30.9,
-      "original_price": 36.79,
-      "discount": 16.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltuc9brnd3pbe2",
-      "link": "https://s.shopee.com.br/30mtQhOwBU",
-      "rating": "5",
-      "sales": 576,
-      "shop": "ICE Health",
-      "category": "desinfetante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19899241926,
-        "productName": "Detergente Enzimático Zymedet 1L- Prolink",
-        "price": "30.9",
-        "priceDiscountRate": 16,
-        "commissionRate": "0.03",
-        "sales": 576,
-        "ratingStar": "5",
-        "shopName": "ICE Health",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltuc9brnd3pbe2",
-        "productLink": "https://shopee.com.br/product/1179560619/19899241926",
-        "offerLink": "https://s.shopee.com.br/30mtQhOwBU"
       },
       "_last_price": null
     },
