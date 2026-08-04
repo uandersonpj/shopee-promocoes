@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T02:27:55.762677+00:00",
-  "total": 1123,
+  "updated_at": "2026-08-04T02:46:41.418968+00:00",
+  "total": 1124,
   "products": [
     {
       "id": "23698808886",
@@ -492,7 +492,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134275-7rdxw-mdfucal40l6y57",
         "productLink": "https://shopee.com.br/product/236693678/26539956454",
         "offerLink": "https://s.shopee.com.br/30mtQqhIjG"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "56607111945",
@@ -579,34 +580,6 @@
         "offerLink": "https://s.shopee.com.br/8V7pyvEN3b"
       },
       "_last_price": null
-    },
-    {
-      "id": "41881399321",
-      "name": "Rede de pesca dobrável, com 6/10/16 malhas, ideal para a captura de peixes e camarões ao ar livre",
-      "price": 18.8,
-      "original_price": 117.5,
-      "discount": 84.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mogki8ouhx589a",
-      "link": "https://s.shopee.com.br/7ps9BlbQhR",
-      "rating": "4.8",
-      "sales": 124,
-      "shop": "BD Boutique De Lustres",
-      "category": "rede de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41881399321,
-        "productName": "Rede de pesca dobrável, com 6/10/16 malhas, ideal para a captura de peixes e camarões ao ar livre",
-        "price": "18.8",
-        "priceDiscountRate": 84,
-        "commissionRate": "0.11",
-        "sales": 124,
-        "ratingStar": "4.8",
-        "shopName": "BD Boutique De Lustres",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mogki8ouhx589a",
-        "productLink": "https://shopee.com.br/product/1489642227/41881399321",
-        "offerLink": "https://s.shopee.com.br/7ps9BlbQhR"
-      }
     },
     {
       "id": "23497594302",
@@ -1034,8 +1007,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
         "productLink": "https://shopee.com.br/product/1266325318/21897981294",
         "offerLink": "https://s.shopee.com.br/7fYizJFRFG"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23294866358",
@@ -1293,6 +1265,34 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm5-lln14dkqwcs917",
         "productLink": "https://shopee.com.br/product/504210070/22492388439",
         "offerLink": "https://s.shopee.com.br/111p3Co6eg"
+      }
+    },
+    {
+      "id": "41881399321",
+      "name": "Rede de pesca dobrável, com 6/10/16 malhas, ideal para a captura de peixes e camarões ao ar livre",
+      "price": 25.8,
+      "original_price": 122.86,
+      "discount": 79.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mogki8ouhx589a",
+      "link": "https://s.shopee.com.br/7ps9BlbQhR",
+      "rating": "4.8",
+      "sales": 124,
+      "shop": "BD Boutique De Lustres",
+      "category": "rede de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41881399321,
+        "productName": "Rede de pesca dobrável, com 6/10/16 malhas, ideal para a captura de peixes e camarões ao ar livre",
+        "price": "25.8",
+        "priceDiscountRate": 79,
+        "commissionRate": "0.11",
+        "sales": 124,
+        "ratingStar": "4.8",
+        "shopName": "BD Boutique De Lustres",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mogki8ouhx589a",
+        "productLink": "https://shopee.com.br/product/1489642227/41881399321",
+        "offerLink": "https://s.shopee.com.br/7ps9BlbQhR"
       }
     },
     {
@@ -9758,35 +9758,6 @@
       "_last_price": null
     },
     {
-      "id": "22998283669",
-      "name": "Sachê Origens Cães Adultos Sabor Carne com Abóbora Todos os Portes Premium Especial 85g Adimax",
-      "price": 4.04,
-      "original_price": 9.18,
-      "discount": 56.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6zel3eh6wqvba",
-      "link": "https://s.shopee.com.br/1qaw2cahSX",
-      "rating": "4.9",
-      "sales": 648,
-      "shop": "GP ECOMMERCE.",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22998283669,
-        "productName": "Sachê Origens Cães Adultos Sabor Carne com Abóbora Todos os Portes Premium Especial 85g Adimax",
-        "price": "4.04",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.03",
-        "sales": 648,
-        "ratingStar": "4.9",
-        "shopName": "GP ECOMMERCE.",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6zel3eh6wqvba",
-        "productLink": "https://shopee.com.br/product/442964228/22998283669",
-        "offerLink": "https://s.shopee.com.br/1qaw2cahSX"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23499408719",
       "name": "Brinquedo Interativo Pato Dispensador de Ração | Alimentador Tigela Lenta Divertida Para Cães e Gatos Petiscos e Ração",
       "price": 31.99,
@@ -13267,31 +13238,31 @@
       "_last_price": null
     },
     {
-      "id": "23394843805",
-      "name": "Kit  3 Luva Pano de Microfibra Multiuso Para Limpeza Veicular Carro Limpeza Geral Boa Qualidade Ola1",
+      "id": "22098174379",
+      "name": "Kit 10 Pano De Prato Microfibra SECA MAIS Absorvente",
       "price": 19.9,
       "original_price": 39.8,
       "discount": 50.0,
       "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8262z-mkmren7ymqyo44",
-      "link": "https://s.shopee.com.br/8V7pyoqXBu",
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mo114050p0qofa",
+      "link": "https://s.shopee.com.br/20uNo1FD6o",
       "rating": "4.8",
-      "sales": 1441,
-      "shop": "Olaolatextil",
+      "sales": 1428,
+      "shop": "Wolf_Utilidades",
       "category": "pano microfibra",
       "source": "shopee",
       "_item": {
-        "itemId": 23394843805,
-        "productName": "Kit  3 Luva Pano de Microfibra Multiuso Para Limpeza Veicular Carro Limpeza Geral Boa Qualidade Ola1",
+        "itemId": 22098174379,
+        "productName": "Kit 10 Pano De Prato Microfibra SECA MAIS Absorvente",
         "price": "19.9",
         "priceDiscountRate": 50,
         "commissionRate": "0.03",
-        "sales": 1441,
+        "sales": 1428,
         "ratingStar": "4.8",
-        "shopName": "Olaolatextil",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262z-mkmren7ymqyo44",
-        "productLink": "https://shopee.com.br/product/1618822516/23394843805",
-        "offerLink": "https://s.shopee.com.br/8V7pyoqXBu"
+        "shopName": "Wolf_Utilidades",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mo114050p0qofa",
+        "productLink": "https://shopee.com.br/product/1036231479/22098174379",
+        "offerLink": "https://s.shopee.com.br/20uNo1FD6o"
       },
       "_last_price": null
     },
@@ -17967,8 +17938,8 @@
     {
       "id": "48354429530",
       "name": "Relógio De Pulso De Quartzo Com Pulseira De Aço Inoxidável Mostrador Quadrado De Moda De Luxo Masculino Calendário E Sem",
-      "price": 27.67,
-      "original_price": 50.31,
+      "price": 27.75,
+      "original_price": 50.45,
       "discount": 45.0,
       "commission": 0.09,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8259t-mr9vk2y1yd51d8",
@@ -17981,7 +17952,7 @@
       "_item": {
         "itemId": 48354429530,
         "productName": "Relógio De Pulso De Quartzo Com Pulseira De Aço Inoxidável Mostrador Quadrado De Moda De Luxo Masculino Calendário E Sem",
-        "price": "27.67",
+        "price": "27.75",
         "priceDiscountRate": 45,
         "commissionRate": "0.09",
         "sales": 2278,
@@ -18686,6 +18657,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mlhvk7l2duyv4e",
         "productLink": "https://shopee.com.br/product/1469128345/58206416694",
         "offerLink": "https://s.shopee.com.br/5VUEPUoJAk"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "29877782583",
+      "name": "2 Peças Luvas De Strass Para Rede De Pesca Feminina , Mangas De Infantil Sem Dedos , Acessórios De Cena Dos Anos 80 , Dr",
+      "price": 15.04,
+      "original_price": 26.86,
+      "discount": 44.0,
+      "commission": 0.1,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6qy7616re3gee",
+      "link": "https://s.shopee.com.br/BSjcqUof1",
+      "rating": "5",
+      "sales": 24,
+      "shop": "Loja de Vida Doméstica Delicada",
+      "category": "luva pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 29877782583,
+        "productName": "2 Peças Luvas De Strass Para Rede De Pesca Feminina , Mangas De Infantil Sem Dedos , Acessórios De Cena Dos Anos 80 , Dr",
+        "price": "15.04",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.1",
+        "sales": 24,
+        "ratingStar": "5",
+        "shopName": "Loja de Vida Doméstica Delicada",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6qy7616re3gee",
+        "productLink": "https://shopee.com.br/product/184031551/29877782583",
+        "offerLink": "https://s.shopee.com.br/BSjcqUof1"
       },
       "_last_price": null
     },
@@ -20952,35 +20952,6 @@
       "_last_price": null
     },
     {
-      "id": "23793927191",
-      "name": "Panela De Pressão 4,5 Litros Antiaderente Teflon Com Tampa Externa Cinza PROMOÇAO",
-      "price": 137.0,
-      "original_price": 228.33,
-      "discount": 40.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9068frjp1xe46",
-      "link": "https://s.shopee.com.br/7AcTCeGxcs",
-      "rating": "4.8",
-      "sales": 843,
-      "shop": "impório_ecommerce",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23793927191,
-        "productName": "Panela De Pressão 4,5 Litros Antiaderente Teflon Com Tampa Externa Cinza PROMOÇAO",
-        "price": "137",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.11",
-        "sales": 843,
-        "ratingStar": "4.8",
-        "shopName": "impório_ecommerce",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9068frjp1xe46",
-        "productLink": "https://shopee.com.br/product/862830026/23793927191",
-        "offerLink": "https://s.shopee.com.br/7AcTCeGxcs"
-      },
-      "_last_price": null
-    },
-    {
       "id": "17969896360",
       "name": "Tênis Feminino Fácil de Calçar com Enfeite Cadarço Falso, Macio e Confortável, Mod. F0101",
       "price": 29.9,
@@ -21006,6 +20977,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/faf088e43fa94ea059672bd62f30c59b",
         "productLink": "https://shopee.com.br/product/676684389/17969896360",
         "offerLink": "https://s.shopee.com.br/7ps9BgLzHv"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23697635991",
+      "name": "Tênis Vizzano Feminino Casual Plataforma Tênis Leve Macio acolchoado Ultra Conforto Couro Sintético",
+      "price": 119.9,
+      "original_price": 199.83,
+      "discount": 40.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mby3kimlsxuh48",
+      "link": "https://s.shopee.com.br/1Vy6SEtrCn",
+      "rating": "4.9",
+      "sales": 2274,
+      "shop": "Osure",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23697635991,
+        "productName": "Tênis Vizzano Feminino Casual Plataforma Tênis Leve Macio acolchoado Ultra Conforto Couro Sintético",
+        "price": "119.9",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 2274,
+        "ratingStar": "4.9",
+        "shopName": "Osure",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mby3kimlsxuh48",
+        "productLink": "https://shopee.com.br/product/371728614/23697635991",
+        "offerLink": "https://s.shopee.com.br/1Vy6SEtrCn"
       },
       "_last_price": null
     },
@@ -21911,8 +21911,8 @@
     {
       "id": "58209897996",
       "name": "Ração Cachorro Filhote Todas As Raças 10,1kg Sabor Carne 28g Proteína",
-      "price": 71.39,
-      "original_price": 115.15,
+      "price": 71.99,
+      "original_price": 116.11,
       "discount": 38.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mp0u7xcolnurcf",
@@ -21925,7 +21925,7 @@
       "_item": {
         "itemId": 58209897996,
         "productName": "Ração Cachorro Filhote Todas As Raças 10,1kg Sabor Carne 28g Proteína",
-        "price": "71.39",
+        "price": "71.99",
         "priceDiscountRate": 38,
         "commissionRate": "0.03",
         "sales": 732,
@@ -23794,31 +23794,31 @@
       "_last_price": null
     },
     {
-      "id": "23697635991",
-      "name": "Tênis Vizzano Feminino Casual Plataforma Tênis Leve Macio acolchoado Ultra Conforto Couro Sintético",
-      "price": 130.11,
-      "original_price": 200.17,
+      "id": "23793927191",
+      "name": "Panela De Pressão 4,5 Litros Antiaderente Teflon Com Tampa Externa Cinza PROMOÇAO",
+      "price": 149.9,
+      "original_price": 230.62,
       "discount": 35.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mby3kimlsxuh48",
-      "link": "https://s.shopee.com.br/1Vy6SEtrCn",
-      "rating": "4.9",
-      "sales": 2274,
-      "shop": "Osure",
-      "category": "tenis feminino",
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9068frjp1xe46",
+      "link": "https://s.shopee.com.br/7AcTCeGxcs",
+      "rating": "4.8",
+      "sales": 843,
+      "shop": "impório_ecommerce",
+      "category": "panela pressao",
       "source": "shopee",
       "_item": {
-        "itemId": 23697635991,
-        "productName": "Tênis Vizzano Feminino Casual Plataforma Tênis Leve Macio acolchoado Ultra Conforto Couro Sintético",
-        "price": "130.11",
+        "itemId": 23793927191,
+        "productName": "Panela De Pressão 4,5 Litros Antiaderente Teflon Com Tampa Externa Cinza PROMOÇAO",
+        "price": "149.9",
         "priceDiscountRate": 35,
-        "commissionRate": "0.03",
-        "sales": 2274,
-        "ratingStar": "4.9",
-        "shopName": "Osure",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mby3kimlsxuh48",
-        "productLink": "https://shopee.com.br/product/371728614/23697635991",
-        "offerLink": "https://s.shopee.com.br/1Vy6SEtrCn"
+        "commissionRate": "0.11",
+        "sales": 843,
+        "ratingStar": "4.8",
+        "shopName": "impório_ecommerce",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9068frjp1xe46",
+        "productLink": "https://shopee.com.br/product/862830026/23793927191",
+        "offerLink": "https://s.shopee.com.br/7AcTCeGxcs"
       },
       "_last_price": null
     },
@@ -27448,35 +27448,6 @@
       "_last_price": null
     },
     {
-      "id": "58259794589",
-      "name": "Ração Gato MiaCat 10,1kg Todas As Raças Filhote e Adulto 27g Proteína Sem Corante",
-      "price": 72.19,
-      "original_price": 100.26,
-      "discount": 28.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mp0u7xd7ojk03d",
-      "link": "https://s.shopee.com.br/qiOqmvy5b",
-      "rating": "4.9",
-      "sales": 4097,
-      "shop": "Petistrô",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58259794589,
-        "productName": "Ração Gato MiaCat 10,1kg Todas As Raças Filhote e Adulto 27g Proteína Sem Corante",
-        "price": "72.19",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.03",
-        "sales": 4097,
-        "ratingStar": "4.9",
-        "shopName": "Petistrô",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mp0u7xd7ojk03d",
-        "productLink": "https://shopee.com.br/product/382010808/58259794589",
-        "offerLink": "https://s.shopee.com.br/qiOqmvy5b"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58208305021",
       "name": "Panela De Pressao 4,5 litros Antiaderente Kit Convencional Tampa Vidro",
       "price": 129.8,
@@ -27937,6 +27908,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbfcqyuh946w39",
         "productLink": "https://shopee.com.br/product/944253608/41956063364",
         "offerLink": "https://s.shopee.com.br/9fJnN16sZI"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58259794589",
+      "name": "Ração Gato MiaCat 10,1kg Todas As Raças Filhote e Adulto 27g Proteína Sem Corante",
+      "price": 72.99,
+      "original_price": 99.99,
+      "discount": 27.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mp0u7xd7ojk03d",
+      "link": "https://s.shopee.com.br/qiOqmvy5b",
+      "rating": "4.9",
+      "sales": 4097,
+      "shop": "Petistrô",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58259794589,
+        "productName": "Ração Gato MiaCat 10,1kg Todas As Raças Filhote e Adulto 27g Proteína Sem Corante",
+        "price": "72.99",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.03",
+        "sales": 4097,
+        "ratingStar": "4.9",
+        "shopName": "Petistrô",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mp0u7xd7ojk03d",
+        "productLink": "https://shopee.com.br/product/382010808/58259794589",
+        "offerLink": "https://s.shopee.com.br/qiOqmvy5b"
       },
       "_last_price": null
     },
@@ -28697,8 +28697,8 @@
     {
       "id": "58252889444",
       "name": "Ração Premium Grain Nature 15kg – Com Ômega 3 e 6 e Extrato de Yucca",
-      "price": 149.49,
-      "original_price": 199.32,
+      "price": 149.99,
+      "original_price": 199.99,
       "discount": 25.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mprzmnwv1ips67",
@@ -28711,7 +28711,7 @@
       "_item": {
         "itemId": 58252889444,
         "productName": "Ração Premium Grain Nature 15kg – Com Ômega 3 e 6 e Extrato de Yucca",
-        "price": "149.49",
+        "price": "149.99",
         "priceDiscountRate": 25,
         "commissionRate": "0.03",
         "sales": 1150,
@@ -31011,6 +31011,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mp18dhjxhy4l91",
         "productLink": "https://shopee.com.br/product/987020544/58261911959",
         "offerLink": "https://s.shopee.com.br/30mtQlnihI"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22398562405",
+      "name": "Ração Golden Special Cães Adultos Frango e Carne 15 kg",
+      "price": 140.9,
+      "original_price": 173.95,
+      "discount": 19.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-main4ts5zatr4b",
+      "link": "https://s.shopee.com.br/40fRtUb1Bs",
+      "rating": "4.9",
+      "sales": 467,
+      "shop": "CHICOBASA",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22398562405,
+        "productName": "Ração Golden Special Cães Adultos Frango e Carne 15 kg",
+        "price": "140.9",
+        "priceDiscountRate": 19,
+        "commissionRate": "0.03",
+        "sales": 467,
+        "ratingStar": "4.9",
+        "shopName": "CHICOBASA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-main4ts5zatr4b",
+        "productLink": "https://shopee.com.br/product/1320930677/22398562405",
+        "offerLink": "https://s.shopee.com.br/40fRtUb1Bs"
       },
       "_last_price": null
     },
