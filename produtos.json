@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T05:54:32.508126+00:00",
-  "total": 1127,
+  "updated_at": "2026-08-04T06:13:10.991008+00:00",
+  "total": 1128,
   "products": [
     {
       "id": "23698808886",
@@ -1274,7 +1274,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyp5enbirpg574",
         "productLink": "https://shopee.com.br/product/443105265/23897691943",
         "offerLink": "https://s.shopee.com.br/4LIH1FZJO2"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22492388439",
@@ -31977,6 +31978,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-moeelft3d5hia5",
         "productLink": "https://shopee.com.br/product/1509105042/23898806674",
         "offerLink": "https://s.shopee.com.br/1LefRhu44s"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22693991174",
+      "name": "Coleira para Cães/Gatos Contra Pulgas, Carrapatos e Leishmaniose, Proteção Ajustável de Silicone Anti-Mosquito 8 Meses",
+      "price": 25.99,
+      "original_price": 30.94,
+      "discount": 16.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9xu5qteawhuf3",
+      "link": "https://s.shopee.com.br/70J2C83UsY",
+      "rating": "4.8",
+      "sales": 1507,
+      "shop": "Mercadinho Completa",
+      "category": "coleira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22693991174,
+        "productName": "Coleira para Cães/Gatos Contra Pulgas, Carrapatos e Leishmaniose, Proteção Ajustável de Silicone Anti-Mosquito 8 Meses",
+        "price": "25.99",
+        "priceDiscountRate": 16,
+        "commissionRate": "0.13",
+        "sales": 1507,
+        "ratingStar": "4.8",
+        "shopName": "Mercadinho Completa",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9xu5qteawhuf3",
+        "productLink": "https://shopee.com.br/product/1532520364/22693991174",
+        "offerLink": "https://s.shopee.com.br/70J2C83UsY"
       },
       "_last_price": null
     },
