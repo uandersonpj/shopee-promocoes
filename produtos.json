@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T10:36:49.020387+00:00",
-  "total": 1124,
+  "updated_at": "2026-08-04T10:55:29.804320+00:00",
+  "total": 1125,
   "products": [
     {
       "id": "23698808886",
@@ -1942,8 +1942,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mnn2sbr4n75s68",
         "productLink": "https://shopee.com.br/product/873988691/22594956407",
         "offerLink": "https://s.shopee.com.br/6VMlb8Bc4z"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23118736011",
@@ -24516,7 +24515,7 @@
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823rj-mp1jxdevztohc0",
       "link": "https://s.shopee.com.br/6L3LOzLgQM",
-      "rating": "5",
+      "rating": "4.9",
       "sales": 217,
       "shop": "ApexVendas",
       "category": "caixa de pesca",
@@ -24528,7 +24527,7 @@
         "priceDiscountRate": 34,
         "commissionRate": "0.07",
         "sales": 217,
-        "ratingStar": "5",
+        "ratingStar": "4.9",
         "shopName": "ApexVendas",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rj-mp1jxdevztohc0",
         "productLink": "https://shopee.com.br/product/940287081/22199524567",
@@ -29318,6 +29317,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4f-m7pqiw99z9nr22",
         "productLink": "https://shopee.com.br/product/410663728/23898339097",
         "offerLink": "https://s.shopee.com.br/6fgBnRAyk6"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22498217448",
+      "name": "1 / 2 / 3 ou 5  Luva de Microfibra lavagem automotiva",
+      "price": 9.99,
+      "original_price": 12.97,
+      "discount": 23.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mq6896wieuipd5",
+      "link": "https://s.shopee.com.br/2gA4HgwHyB",
+      "rating": "4.3",
+      "sales": 1426,
+      "shop": "UNIFAST_SP",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22498217448,
+        "productName": "1 / 2 / 3 ou 5  Luva de Microfibra lavagem automotiva",
+        "price": "9.99",
+        "priceDiscountRate": 23,
+        "commissionRate": "0.08",
+        "sales": 1426,
+        "ratingStar": "4.3",
+        "shopName": "UNIFAST_SP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mq6896wieuipd5",
+        "productLink": "https://shopee.com.br/product/388202560/22498217448",
+        "offerLink": "https://s.shopee.com.br/2gA4HgwHyB"
       },
       "_last_price": null
     },
