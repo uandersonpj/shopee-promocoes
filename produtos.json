@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T16:33:37.872420+00:00",
-  "total": 1127,
+  "updated_at": "2026-08-04T16:52:26.741545+00:00",
+  "total": 1111,
   "products": [
     {
       "id": "23698808886",
@@ -1748,7 +1748,7 @@
       "price": 11.99,
       "original_price": 49.96,
       "discount": 76.0,
-      "commission": 0.08,
+      "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mmvxxzgnnoqsff",
       "link": "https://s.shopee.com.br/6AjxPlC9DI",
       "rating": "4.8",
@@ -1761,7 +1761,7 @@
         "productName": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
         "price": "11.99",
         "priceDiscountRate": 76,
-        "commissionRate": "0.08",
+        "commissionRate": "0.03",
         "sales": 6490,
         "ratingStar": "4.8",
         "shopName": "ANA 1108",
@@ -1942,7 +1942,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mnn2sbr4n75s68",
         "productLink": "https://shopee.com.br/product/873988691/22594956407",
         "offerLink": "https://s.shopee.com.br/6VMlb8Bc4z"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23118736011",
@@ -4080,35 +4081,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82616-ml2clmr46gao12",
         "productLink": "https://shopee.com.br/product/475104620/58255656605",
         "offerLink": "https://s.shopee.com.br/8pkgNalIJw"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21198202231",
-      "name": "Adaptador Case SSD M.2 SATA PCIe NVMe NV2 USB 3.1 10Gbps | Compatível com NVMe e SATA",
-      "price": 56.89,
-      "original_price": 172.39,
-      "discount": 67.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maqajn6xwn7z9d",
-      "link": "https://s.shopee.com.br/1BLHSUfj75",
-      "rating": "4.9",
-      "sales": 74,
-      "shop": "HAIYAN ZHAO",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21198202231,
-        "productName": "Adaptador Case SSD M.2 SATA PCIe NVMe NV2 USB 3.1 10Gbps | Compatível com NVMe e SATA",
-        "price": "56.89",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.03",
-        "sales": 74,
-        "ratingStar": "4.9",
-        "shopName": "HAIYAN ZHAO",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maqajn6xwn7z9d",
-        "productLink": "https://shopee.com.br/product/1059934694/21198202231",
-        "offerLink": "https://s.shopee.com.br/1BLHSUfj75"
       },
       "_last_price": null
     },
@@ -6312,35 +6284,6 @@
       "_last_price": null
     },
     {
-      "id": "23998935659",
-      "name": "Dissipador de Calor SSD M.2 NVMe 2280 com Thermal Pad",
-      "price": 16.99,
-      "original_price": 44.71,
-      "discount": 62.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mrbmy2x8wm4l3f",
-      "link": "https://s.shopee.com.br/W5afGiGT1",
-      "rating": "5",
-      "sales": 53,
-      "shop": "LexRocks Infinity",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23998935659,
-        "productName": "Dissipador de Calor SSD M.2 NVMe 2280 com Thermal Pad",
-        "price": "16.99",
-        "priceDiscountRate": 62,
-        "commissionRate": "0.03",
-        "sales": 53,
-        "ratingStar": "5",
-        "shopName": "LexRocks Infinity",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mrbmy2x8wm4l3f",
-        "productLink": "https://shopee.com.br/product/1145739576/23998935659",
-        "offerLink": "https://s.shopee.com.br/W5afGiGT1"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23392949484",
       "name": "Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão Com Instrução de Voz",
       "price": 37.99,
@@ -7874,35 +7817,6 @@
       "_last_price": null
     },
     {
-      "id": "43150138443",
-      "name": "Estação De Acoplamento UGREEN USB HUB Para Mac Mini M4 M4 Pro M . 2 NVMe SSD 8 Tb Max 10 Gbps Portas-A E C SD TF 170 Mb/",
-      "price": 289.9,
-      "original_price": 707.07,
-      "discount": 59.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m9fq67u6pdzxd0",
-      "link": "https://s.shopee.com.br/2BDoeKbv5N",
-      "rating": "4.9",
-      "sales": 31,
-      "shop": "Ugreen Official Shop",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 43150138443,
-        "productName": "Estação De Acoplamento UGREEN USB HUB Para Mac Mini M4 M4 Pro M . 2 NVMe SSD 8 Tb Max 10 Gbps Portas-A E C SD TF 170 Mb/",
-        "price": "289.9",
-        "priceDiscountRate": 59,
-        "commissionRate": "0.03",
-        "sales": 31,
-        "ratingStar": "4.9",
-        "shopName": "Ugreen Official Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m9fq67u6pdzxd0",
-        "productLink": "https://shopee.com.br/product/218996205/43150138443",
-        "offerLink": "https://s.shopee.com.br/2BDoeKbv5N"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23194387208",
       "name": "Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente Aparelho De Pressão",
       "price": 40.98,
@@ -8918,35 +8832,6 @@
       "_last_price": null
     },
     {
-      "id": "58261918789",
-      "name": "Dissipador de Calor Para SSD NVME e Vídeo Game com Thermal Pad",
-      "price": 16.59,
-      "original_price": 38.58,
-      "discount": 57.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mrbmy2x8o6pxce",
-      "link": "https://s.shopee.com.br/3LPm2TXTii",
-      "rating": "4.9",
-      "sales": 38,
-      "shop": "LexRocks Infinity",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58261918789,
-        "productName": "Dissipador de Calor Para SSD NVME e Vídeo Game com Thermal Pad",
-        "price": "16.59",
-        "priceDiscountRate": 57,
-        "commissionRate": "0.03",
-        "sales": 38,
-        "ratingStar": "4.9",
-        "shopName": "LexRocks Infinity",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mrbmy2x8o6pxce",
-        "productLink": "https://shopee.com.br/product/1145739576/58261918789",
-        "offerLink": "https://s.shopee.com.br/3LPm2TXTii"
-      },
-      "_last_price": null
-    },
-    {
       "id": "47709897714",
       "name": "Suporte Universal Fixo Para Televisão e Monitor Smart TV LED LCD 4K Parede Painel 10 a 100 Polegadas",
       "price": 12.99,
@@ -9790,8 +9675,8 @@
     {
       "id": "58207705974",
       "name": "Kit 5 Suportes de Banheiro Alto Adesivo Organizador de Parede Sabonete Shampoo Condicionador e Papel",
-      "price": 34.4,
-      "original_price": 78.18,
+      "price": 34.55,
+      "original_price": 78.52,
       "discount": 56.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mo5fpms2ebk0d2",
@@ -9804,7 +9689,7 @@
       "_item": {
         "itemId": 58207705974,
         "productName": "Kit 5 Suportes de Banheiro Alto Adesivo Organizador de Parede Sabonete Shampoo Condicionador e Papel",
-        "price": "34.4",
+        "price": "34.55",
         "priceDiscountRate": 56,
         "commissionRate": "0.03",
         "sales": 4439,
@@ -13552,8 +13437,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mrfvoh8gt62u52",
         "productLink": "https://shopee.com.br/product/1571276714/58209395730",
         "offerLink": "https://s.shopee.com.br/Lm8Frxs6W"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22198303887",
@@ -14364,35 +14248,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lp94bb8ncmhj31",
         "productLink": "https://shopee.com.br/product/891592038/24453469246",
         "offerLink": "https://s.shopee.com.br/4qEYQSwcOn"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "41165421078",
-      "name": "ACASIS 10Gbps M . 2 NVMe SSD Gabinete USB C Docking Station Com Ventilador De Resfriamento Para iPhone17 16 15 Pro/Max/P",
-      "price": 204.0,
-      "original_price": 400.0,
-      "discount": 49.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mdy22eu9t53bf2",
-      "link": "https://s.shopee.com.br/BSkGejX8v",
-      "rating": "4.9",
-      "sales": 55,
-      "shop": "acasis.br",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41165421078,
-        "productName": "ACASIS 10Gbps M . 2 NVMe SSD Gabinete USB C Docking Station Com Ventilador De Resfriamento Para iPhone17 16 15 Pro/Max/P",
-        "price": "204",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.08",
-        "sales": 55,
-        "ratingStar": "4.9",
-        "shopName": "acasis.br",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mdy22eu9t53bf2",
-        "productLink": "https://shopee.com.br/product/992814391/41165421078",
-        "offerLink": "https://s.shopee.com.br/BSkGejX8v"
       },
       "_last_price": null
     },
@@ -16858,64 +16713,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lz81fe0rg1mpd6",
         "productLink": "https://shopee.com.br/product/761647073/21299368624",
         "offerLink": "https://s.shopee.com.br/4AyqonHaGn"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58209519096",
-      "name": "Ssd M.2 2280 Nvme 256gb Knup Kp-hd813 Para Pc E Notebook Preto",
-      "price": 379.0,
-      "original_price": 701.85,
-      "discount": 46.0,
-      "commission": 0.06,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mnfvemk7fchw90",
-      "link": "https://s.shopee.com.br/3VjCEmWqNl",
-      "rating": "5",
-      "sales": 27,
-      "shop": "Seu Meu Estilo",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58209519096,
-        "productName": "Ssd M.2 2280 Nvme 256gb Knup Kp-hd813 Para Pc E Notebook Preto",
-        "price": "379",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.06",
-        "sales": 27,
-        "ratingStar": "5",
-        "shopName": "Seu Meu Estilo",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mnfvemk7fchw90",
-        "productLink": "https://shopee.com.br/product/1383941518/58209519096",
-        "offerLink": "https://s.shopee.com.br/3VjCEmWqNl"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22494219157",
-      "name": "SSD Adata Legend 710, 512GB, M.2 2280 NVMe Leitura 2.400MBs, Gravação 1.600MBs, ALEG-710-512GCS",
-      "price": 736.39,
-      "original_price": 1363.69,
-      "discount": 46.0,
-      "commission": 0.06,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824in-mea3mrj8hpmv40",
-      "link": "https://s.shopee.com.br/2qTVRYZNjh",
-      "rating": "4.9",
-      "sales": 20,
-      "shop": "Terabyte ",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22494219157,
-        "productName": "SSD Adata Legend 710, 512GB, M.2 2280 NVMe Leitura 2.400MBs, Gravação 1.600MBs, ALEG-710-512GCS",
-        "price": "736.39",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.06",
-        "sales": 20,
-        "ratingStar": "4.9",
-        "shopName": "Terabyte ",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824in-mea3mrj8hpmv40",
-        "productLink": "https://shopee.com.br/product/1552226494/22494219157",
-        "offerLink": "https://s.shopee.com.br/2qTVRYZNjh"
       },
       "_last_price": null
     },
@@ -20342,6 +20139,35 @@
       "_last_price": null
     },
     {
+      "id": "44315735571",
+      "name": "Líder De Linha De Pesca De Aço De 50 Peças Com Equipamento Acessório Giratório , Pode Ser Usado Em Água Salgada E Doce",
+      "price": 13.98,
+      "original_price": 23.69,
+      "discount": 41.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd5w-m76rt2vtn821b6",
+      "link": "https://s.shopee.com.br/8fRGBFHjSL",
+      "rating": "5",
+      "sales": 292,
+      "shop": "br.FashLoop",
+      "category": "linha de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 44315735571,
+        "productName": "Líder De Linha De Pesca De Aço De 50 Peças Com Equipamento Acessório Giratório , Pode Ser Usado Em Água Salgada E Doce",
+        "price": "13.98",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.03",
+        "sales": 292,
+        "ratingStar": "5",
+        "shopName": "br.FashLoop",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd5w-m76rt2vtn821b6",
+        "productLink": "https://shopee.com.br/product/1603567416/44315735571",
+        "offerLink": "https://s.shopee.com.br/8fRGBFHjSL"
+      },
+      "_last_price": null
+    },
+    {
       "id": "10928841452",
       "name": "5 Pçs / 10 Pçs Reutilizável Vara De Pesca Suporte De Amarração Tira Prendedor De Ferramentas De Pesca",
       "price": 10.99,
@@ -21328,64 +21154,6 @@
       "_last_price": null
     },
     {
-      "id": "58255954420",
-      "name": "SSD KNUP 512GB M.2 NVMe 2280 PCIe Gen2 x4 – 3D NAND Alta Velocidade",
-      "price": 574.96,
-      "original_price": 942.56,
-      "discount": 39.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-ml7znvutgoata7",
-      "link": "https://s.shopee.com.br/AUswZe6CAk",
-      "rating": "5",
-      "sales": 115,
-      "shop": "GIRL HOUSE",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58255954420,
-        "productName": "SSD KNUP 512GB M.2 NVMe 2280 PCIe Gen2 x4 – 3D NAND Alta Velocidade",
-        "price": "574.96",
-        "priceDiscountRate": 39,
-        "commissionRate": "0.03",
-        "sales": 115,
-        "ratingStar": "5",
-        "shopName": "GIRL HOUSE",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-ml7znvutgoata7",
-        "productLink": "https://shopee.com.br/product/1191862841/58255954420",
-        "offerLink": "https://s.shopee.com.br/AUswZe6CAk"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58255745911",
-      "name": "SSD 512GB M.2 NVMe 3.0 2280 PCle GEN2 X4 SpeedRam 3D NAND KNUP – Upgrade Rápido e Seguro",
-      "price": 574.96,
-      "original_price": 942.56,
-      "discount": 39.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81zu0-ml3q39fseq6967",
-      "link": "https://s.shopee.com.br/2Vqf2waePT",
-      "rating": "4.9",
-      "sales": 41,
-      "shop": "L&Z HOME",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58255745911,
-        "productName": "SSD 512GB M.2 NVMe 3.0 2280 PCle GEN2 X4 SpeedRam 3D NAND KNUP – Upgrade Rápido e Seguro",
-        "price": "574.96",
-        "priceDiscountRate": 39,
-        "commissionRate": "0.03",
-        "sales": 41,
-        "ratingStar": "4.9",
-        "shopName": "L&Z HOME",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu0-ml3q39fseq6967",
-        "productLink": "https://shopee.com.br/product/1686981082/58255745911",
-        "offerLink": "https://s.shopee.com.br/2Vqf2waePT"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58205445541",
       "name": "Placa de Vídeo AsRock AMD Radeon RX 7600 Challenger Pro OC, 8GB, GDDR6, FSR, 90-GA62ZZ-00UANF",
       "price": 2082.09,
@@ -22310,35 +22078,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zuh-mn4h4pyllqtd06",
         "productLink": "https://shopee.com.br/product/1228959663/28957970918",
         "offerLink": "https://s.shopee.com.br/50Y0C3sHLf"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23799229847",
-      "name": "SSD Kingston NV3, 500GB, M.2 NVMe, 2280, PCIe 4.0, Leitura 5000MBs e Gravação 3000MBs, SNV3S/500G",
-      "price": 867.71,
-      "original_price": 1377.32,
-      "discount": 37.0,
-      "commission": 0.06,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-822ys-mic0mday5ipwf1",
-      "link": "https://s.shopee.com.br/9KgzBVAdXZ",
-      "rating": "5",
-      "sales": 90,
-      "shop": "Terabyte ",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23799229847,
-        "productName": "SSD Kingston NV3, 500GB, M.2 NVMe, 2280, PCIe 4.0, Leitura 5000MBs e Gravação 3000MBs, SNV3S/500G",
-        "price": "867.71",
-        "priceDiscountRate": 37,
-        "commissionRate": "0.06",
-        "sales": 90,
-        "ratingStar": "5",
-        "shopName": "Terabyte ",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822ys-mic0mday5ipwf1",
-        "productLink": "https://shopee.com.br/product/1552226494/23799229847",
-        "offerLink": "https://s.shopee.com.br/9KgzBVAdXZ"
       },
       "_last_price": null
     },
@@ -23590,35 +23329,6 @@
       "_last_price": null
     },
     {
-      "id": "58211171122",
-      "name": "SSD WD Green SN350 NVMe M.2 2280 – 500GB e 1TB - 2400MB/s - Novo Lacrado - C/ NF",
-      "price": 709.0,
-      "original_price": 1090.77,
-      "discount": 35.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820la-moipz4u5q77k16",
-      "link": "https://s.shopee.com.br/111rGBgMS2",
-      "rating": "5",
-      "sales": 51,
-      "shop": "Ripamonte Acessorio",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58211171122,
-        "productName": "SSD WD Green SN350 NVMe M.2 2280 – 500GB e 1TB - 2400MB/s - Novo Lacrado - C/ NF",
-        "price": "709",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.03",
-        "sales": 51,
-        "ratingStar": "5",
-        "shopName": "Ripamonte Acessorio",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-moipz4u5q77k16",
-        "productLink": "https://shopee.com.br/product/1764225006/58211171122",
-        "offerLink": "https://s.shopee.com.br/111rGBgMS2"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22693663474",
       "name": "Cabo Displayport  Blindado 4k Reforçado 144Hz 1,8 Metros Pra Placa de Vídeo Console Monitor Projetor",
       "price": 14.99,
@@ -24199,35 +23909,6 @@
       "_last_price": null
     },
     {
-      "id": "54208286629",
-      "name": " Caixa/Enclausuramento SSD M2 10Gbps NVMe/SATA Aplicado ao Adaptador/Enclausuramento M.2 NGFF NVMe PCIe SATA,",
-      "price": 35.48,
-      "original_price": 53.76,
-      "discount": 34.0,
-      "commission": 0.09,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824g8-mpg8595toxe337",
-      "link": "https://s.shopee.com.br/Lm9SjSVMH",
-      "rating": "5",
-      "sales": 6,
-      "shop": "Choice Oficial",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 54208286629,
-        "productName": " Caixa/Enclausuramento SSD M2 10Gbps NVMe/SATA Aplicado ao Adaptador/Enclausuramento M.2 NGFF NVMe PCIe SATA,",
-        "price": "35.48",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.09",
-        "sales": 6,
-        "ratingStar": "5",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824g8-mpg8595toxe337",
-        "productLink": "https://shopee.com.br/product/1006215031/54208286629",
-        "offerLink": "https://s.shopee.com.br/Lm9SjSVMH"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58263140120",
       "name": "Suporte de Parede para Roteador Modem Wi Fi Universal Fixação Segura e Organiza Fios e Cabos",
       "price": 39.8,
@@ -24717,35 +24398,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbl1-lnvsaqnslu3qe2",
         "productLink": "https://shopee.com.br/product/1074001909/20597494947",
         "offerLink": "https://s.shopee.com.br/40fQcjPHy9"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21698775727",
-      "name": "Case SSD M2 NVME e Ngff Sata Portátil USB Rápido Pcie Case Externo Cabo Usb 3.0 Universal",
-      "price": 59.9,
-      "original_price": 89.4,
-      "discount": 33.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztv-mklcfmlrda83a2",
-      "link": "https://s.shopee.com.br/20uOS1cYQK",
-      "rating": "4.9",
-      "sales": 53,
-      "shop": "Compay Ecommerce",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21698775727,
-        "productName": "Case SSD M2 NVME e Ngff Sata Portátil USB Rápido Pcie Case Externo Cabo Usb 3.0 Universal",
-        "price": "59.9",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.03",
-        "sales": 53,
-        "ratingStar": "4.9",
-        "shopName": "Compay Ecommerce",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztv-mklcfmlrda83a2",
-        "productLink": "https://shopee.com.br/product/555167129/21698775727",
-        "offerLink": "https://s.shopee.com.br/20uOS1cYQK"
       },
       "_last_price": null
     },
@@ -26051,35 +25703,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfgv-m3akp4rsaq7bbb",
         "productLink": "https://shopee.com.br/product/894632099/20397993494",
         "offerLink": "https://s.shopee.com.br/4VbhDdJSTn"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "26835301785",
-      "name": "Adaptador SSD M.2 NGFF/NVMe USB 3.2 Gen 2 até 5TB Knup KP-HD850",
-      "price": 57.51,
-      "original_price": 82.16,
-      "discount": 30.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfi6-m94rqmd6uzdddf",
-      "link": "https://s.shopee.com.br/2gA5FFa14e",
-      "rating": "4.8",
-      "sales": 27,
-      "shop": "Keedi Eletrônicos",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 26835301785,
-        "productName": "Adaptador SSD M.2 NGFF/NVMe USB 3.2 Gen 2 até 5TB Knup KP-HD850",
-        "price": "57.51",
-        "priceDiscountRate": 30,
-        "commissionRate": "0.13",
-        "sales": 27,
-        "ratingStar": "4.8",
-        "shopName": "Keedi Eletrônicos",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfi6-m94rqmd6uzdddf",
-        "productLink": "https://shopee.com.br/product/373745451/26835301785",
-        "offerLink": "https://s.shopee.com.br/2gA5FFa14e"
       },
       "_last_price": null
     },
@@ -29071,35 +28694,6 @@
       "_last_price": null
     },
     {
-      "id": "26088124351",
-      "name": "Gabinete De Disco Rígido Transparente M . 2 NVMe SSD NGFF Externo De Estado Sólido De Protocolo Duplo",
-      "price": 32.7,
-      "original_price": 43.03,
-      "discount": 24.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/sg-11134301-7rdyc-mdee0tngae6m09",
-      "link": "https://s.shopee.com.br/1qayFidBlP",
-      "rating": "4.9",
-      "sales": 25,
-      "shop": "Choice Oficial",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 26088124351,
-        "productName": "Gabinete De Disco Rígido Transparente M . 2 NVMe SSD NGFF Externo De Estado Sólido De Protocolo Duplo",
-        "price": "32.7",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.11",
-        "sales": 25,
-        "ratingStar": "4.9",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rdyc-mdee0tngae6m09",
-        "productLink": "https://shopee.com.br/product/1006215031/26088124351",
-        "offerLink": "https://s.shopee.com.br/1qayFidBlP"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58251222961",
       "name": "Perfumes Árabes Premium Secret’s 15ml - Luxo, Elegância, Alta Fixação, Longa Duração e Projeção",
       "price": 24.97,
@@ -30024,35 +29618,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rdvf-mcbiek37dzupf2",
         "productLink": "https://shopee.com.br/product/1603567416/41865738800",
         "offerLink": "https://s.shopee.com.br/6AjvCilloo"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "19099682372",
-      "name": "Dissipador Alumínio SSD M.2 NVMe NGFF + Thermalpad para PC PS5 Notebook",
-      "price": 19.92,
-      "original_price": 24.9,
-      "discount": 20.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8nhpczsfg5t37",
-      "link": "https://s.shopee.com.br/2LXEqdbHkQ",
-      "rating": "5",
-      "sales": 50,
-      "shop": "DKS INFORMATICA",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19099682372,
-        "productName": "Dissipador Alumínio SSD M.2 NVMe NGFF + Thermalpad para PC PS5 Notebook",
-        "price": "19.92",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.03",
-        "sales": 50,
-        "ratingStar": "5",
-        "shopName": "DKS INFORMATICA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8nhpczsfg5t37",
-        "productLink": "https://shopee.com.br/product/277163538/19099682372",
-        "offerLink": "https://s.shopee.com.br/2LXEqdbHkQ"
       },
       "_last_price": null
     },
@@ -31329,35 +30894,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mqougklreigzee",
         "productLink": "https://shopee.com.br/product/375688601/23997314491",
         "offerLink": "https://s.shopee.com.br/30mtQtkh7f"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22294957686",
-      "name": "Case Ssd M2 NGFF E mSATA P/ Sata 3 6gbs Adaptador Gaveta 2.5 - NÃO SERVE PARA NVME",
-      "price": 48.99,
-      "original_price": 59.02,
-      "discount": 17.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-81zum-mmw4drfukj5yf2",
-      "link": "https://s.shopee.com.br/qiQ2Kxj00",
-      "rating": "4.8",
-      "sales": 27,
-      "shop": "Cipoloni Eletro",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22294957686,
-        "productName": "Case Ssd M2 NGFF E mSATA P/ Sata 3 6gbs Adaptador Gaveta 2.5 - NÃO SERVE PARA NVME",
-        "price": "48.99",
-        "priceDiscountRate": 17,
-        "commissionRate": "0.03",
-        "sales": 27,
-        "ratingStar": "4.8",
-        "shopName": "Cipoloni Eletro",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zum-mmw4drfukj5yf2",
-        "productLink": "https://shopee.com.br/product/1788027014/22294957686",
-        "offerLink": "https://s.shopee.com.br/qiQ2Kxj00"
       },
       "_last_price": null
     },
