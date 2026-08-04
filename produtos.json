@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T11:14:15.277545+00:00",
-  "total": 1127,
+  "updated_at": "2026-08-04T11:33:04.058006+00:00",
+  "total": 1129,
   "products": [
     {
       "id": "23698808886",
@@ -2289,8 +2289,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mnz5ipg57t3539",
         "productLink": "https://shopee.com.br/product/1634545368/23398908978",
         "offerLink": "https://s.shopee.com.br/2gA3qKHZFI"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "42130479011",
@@ -8817,6 +8816,35 @@
       "_last_price": null
     },
     {
+      "id": "22594566643",
+      "name": "Vara Telescópica Bali 88% Carbono 5.4m  Albatroz",
+      "price": 84.99,
+      "original_price": 202.36,
+      "discount": 58.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825b7-mg5o18qgkgem55",
+      "link": "https://s.shopee.com.br/3g2cV9wHVQ",
+      "rating": "4.8",
+      "sales": 105,
+      "shop": "SSR ESTRELA",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22594566643,
+        "productName": "Vara Telescópica Bali 88% Carbono 5.4m  Albatroz",
+        "price": "84.99",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.11",
+        "sales": 105,
+        "ratingStar": "4.8",
+        "shopName": "SSR ESTRELA",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b7-mg5o18qgkgem55",
+        "productLink": "https://shopee.com.br/product/1480594679/22594566643",
+        "offerLink": "https://s.shopee.com.br/3g2cV9wHVQ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23994933674",
       "name": "Canivete dobrável de aço inoxidável para chaveiro Caça Pesca  promoção Resiste",
       "price": 12.7,
@@ -9277,35 +9305,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mqibfr7ldvybed",
         "productLink": "https://shopee.com.br/product/1252701665/23893228453",
         "offerLink": "https://s.shopee.com.br/3LPjpOYzAM"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22698842056",
-      "name": "Moedor Multifuncional de Café e Especiarias 110V/220V com Design  Inoxidável 4 Lâminas",
-      "price": 38.49,
-      "original_price": 89.51,
-      "discount": 57.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7repo-mdv9dd28kjq540",
-      "link": "https://s.shopee.com.br/5ArOc1jE7T",
-      "rating": "4.8",
-      "sales": 2413,
-      "shop": "SuperX.X",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22698842056,
-        "productName": "Moedor Multifuncional de Café e Especiarias 110V/220V com Design  Inoxidável 4 Lâminas",
-        "price": "38.49",
-        "priceDiscountRate": 57,
-        "commissionRate": "0.11",
-        "sales": 2413,
-        "ratingStar": "4.8",
-        "shopName": "SuperX.X",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repo-mdv9dd28kjq540",
-        "productLink": "https://shopee.com.br/product/1393395741/22698842056",
-        "offerLink": "https://s.shopee.com.br/5ArOc1jE7T"
       },
       "_last_price": null
     },
@@ -11046,6 +11045,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82626-mm9sym8py58v5c",
         "productLink": "https://shopee.com.br/product/1619812344/58207663151",
         "offerLink": "https://s.shopee.com.br/BSi3Zl2ax"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22698842056",
+      "name": "Moedor Multifuncional de Café e Especiarias 110V/220V com Design  Inoxidável 4 Lâminas",
+      "price": 39.49,
+      "original_price": 85.85,
+      "discount": 54.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7repo-mdv9dd28kjq540",
+      "link": "https://s.shopee.com.br/5ArOc1jE7T",
+      "rating": "4.8",
+      "sales": 2413,
+      "shop": "SuperX.X",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22698842056,
+        "productName": "Moedor Multifuncional de Café e Especiarias 110V/220V com Design  Inoxidável 4 Lâminas",
+        "price": "39.49",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.11",
+        "sales": 2413,
+        "ratingStar": "4.8",
+        "shopName": "SuperX.X",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repo-mdv9dd28kjq540",
+        "productLink": "https://shopee.com.br/product/1393395741/22698842056",
+        "offerLink": "https://s.shopee.com.br/5ArOc1jE7T"
       },
       "_last_price": null
     },
@@ -18126,35 +18154,6 @@
       "_last_price": null
     },
     {
-      "id": "48354429530",
-      "name": "Relógio De Pulso De Quartzo Com Pulseira De Aço Inoxidável Mostrador Quadrado De Moda De Luxo Masculino Calendário E Sem",
-      "price": 27.75,
-      "original_price": 50.45,
-      "discount": 45.0,
-      "commission": 0.09,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259t-mr9vk2y1yd51d8",
-      "link": "https://s.shopee.com.br/8V7pyux2yZ",
-      "rating": "4.7",
-      "sales": 2278,
-      "shop": "Choice Oficial",
-      "category": "relogio masculino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 48354429530,
-        "productName": "Relógio De Pulso De Quartzo Com Pulseira De Aço Inoxidável Mostrador Quadrado De Moda De Luxo Masculino Calendário E Sem",
-        "price": "27.75",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.09",
-        "sales": 2278,
-        "ratingStar": "4.7",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259t-mr9vk2y1yd51d8",
-        "productLink": "https://shopee.com.br/product/1006215031/48354429530",
-        "offerLink": "https://s.shopee.com.br/8V7pyux2yZ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22897703144",
       "name": "vara de pesca Joyfox  Vara Molinete1,8m + Carretel Molinete Dc7000 12+1 Rolamentos",
       "price": 109.0,
@@ -18731,6 +18730,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
         "productLink": "https://shopee.com.br/product/1603567416/40265722427",
         "offerLink": "https://s.shopee.com.br/9fJnN5nOjo"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58254191315",
+      "name": "Estojo Organizador De Pesca Dupla Face Maleta Para Iscas E Acessórios 12/14 Divisórias",
+      "price": 27.9,
+      "original_price": 49.82,
+      "discount": 44.0,
+      "commission": 0.16,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8260l-mk0matpd6cxt68",
+      "link": "https://s.shopee.com.br/20uMF3oV9l",
+      "rating": "4.7",
+      "sales": 75,
+      "shop": "RICCO & CRIATIVO IMPORTS",
+      "category": "estojo pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58254191315,
+        "productName": "Estojo Organizador De Pesca Dupla Face Maleta Para Iscas E Acessórios 12/14 Divisórias",
+        "price": "27.9",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.16",
+        "sales": 75,
+        "ratingStar": "4.7",
+        "shopName": "RICCO & CRIATIVO IMPORTS",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260l-mk0matpd6cxt68",
+        "productLink": "https://shopee.com.br/product/1592831479/58254191315",
+        "offerLink": "https://s.shopee.com.br/20uMF3oV9l"
       },
       "_last_price": null
     },
@@ -25320,8 +25348,8 @@
     {
       "id": "23194783176",
       "name": "Kit 4 Perfumes Masculinos Árabes 100ml",
-      "price": 67.9,
-      "original_price": 99.85,
+      "price": 67.99,
+      "original_price": 99.99,
       "discount": 32.0,
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9z9h64k5c640",
@@ -25334,7 +25362,7 @@
       "_item": {
         "itemId": 23194783176,
         "productName": "Kit 4 Perfumes Masculinos Árabes 100ml",
-        "price": "67.9",
+        "price": "67.99",
         "priceDiscountRate": 32,
         "commissionRate": "0.08",
         "sales": 2941,
@@ -28740,35 +28768,6 @@
       "_last_price": null
     },
     {
-      "id": "11869643265",
-      "name": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
-      "price": 110.99,
-      "original_price": 147.99,
-      "discount": 25.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
-      "link": "https://s.shopee.com.br/gOyeTwbQY",
-      "rating": "4.9",
-      "sales": 3543,
-      "shop": "Popular Pet",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 11869643265,
-        "productName": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
-        "price": "110.99",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.03",
-        "sales": 3543,
-        "ratingStar": "4.9",
-        "shopName": "Popular Pet",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
-        "productLink": "https://shopee.com.br/product/398944029/11869643265",
-        "offerLink": "https://s.shopee.com.br/gOyeTwbQY"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58203663455",
       "name": "Ração Para Gatos Nutrican 10kg Sabor Carne Frango Premium",
       "price": 74.59,
@@ -29374,6 +29373,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4f-m7pqiw99z9nr22",
         "productLink": "https://shopee.com.br/product/410663728/23898339097",
         "offerLink": "https://s.shopee.com.br/6fgBnRAyk6"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22498217448",
+      "name": "1 / 2 / 3 ou 5  Luva de Microfibra lavagem automotiva",
+      "price": 9.99,
+      "original_price": 12.97,
+      "discount": 23.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mq6896wieuipd5",
+      "link": "https://s.shopee.com.br/2gA4HgwHyB",
+      "rating": "4.3",
+      "sales": 1426,
+      "shop": "UNIFAST_SP",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22498217448,
+        "productName": "1 / 2 / 3 ou 5  Luva de Microfibra lavagem automotiva",
+        "price": "9.99",
+        "priceDiscountRate": 23,
+        "commissionRate": "0.08",
+        "sales": 1426,
+        "ratingStar": "4.3",
+        "shopName": "UNIFAST_SP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mq6896wieuipd5",
+        "productLink": "https://shopee.com.br/product/388202560/22498217448",
+        "offerLink": "https://s.shopee.com.br/2gA4HgwHyB"
       },
       "_last_price": null
     },
@@ -32564,6 +32592,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu2-mkv8m298c2kgcf",
         "productLink": "https://shopee.com.br/product/1194006916/22393494933",
         "offerLink": "https://s.shopee.com.br/8fRGBBAgbC"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "48354429530",
+      "name": "Relógio De Pulso De Quartzo Com Pulseira De Aço Inoxidável Mostrador Quadrado De Moda De Luxo Masculino Calendário E Sem",
+      "price": 42.45,
+      "original_price": 49.94,
+      "discount": 15.0,
+      "commission": 0.09,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259t-mr9vk2y1yd51d8",
+      "link": "https://s.shopee.com.br/8V7pyux2yZ",
+      "rating": "4.7",
+      "sales": 2278,
+      "shop": "Choice Oficial",
+      "category": "relogio masculino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 48354429530,
+        "productName": "Relógio De Pulso De Quartzo Com Pulseira De Aço Inoxidável Mostrador Quadrado De Moda De Luxo Masculino Calendário E Sem",
+        "price": "42.45",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.09",
+        "sales": 2278,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259t-mr9vk2y1yd51d8",
+        "productLink": "https://shopee.com.br/product/1006215031/48354429530",
+        "offerLink": "https://s.shopee.com.br/8V7pyux2yZ"
       },
       "_last_price": null
     },
