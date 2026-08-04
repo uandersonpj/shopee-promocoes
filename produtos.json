@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T07:48:39.472999+00:00",
-  "total": 1127,
+  "updated_at": "2026-08-04T08:07:19.108733+00:00",
+  "total": 1129,
   "products": [
     {
       "id": "23698808886",
@@ -1709,7 +1709,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgf3dycxebr838",
         "productLink": "https://shopee.com.br/product/483938660/23799125316",
         "offerLink": "https://s.shopee.com.br/80BZNrgBTL"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58261483318",
@@ -2084,6 +2085,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcw6gui5vk1e01",
         "productLink": "https://shopee.com.br/product/883941882/22498781114",
         "offerLink": "https://s.shopee.com.br/W5YS4r8YG"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "28126553523",
+      "name": "ouro Suporte De Shampoo Prateleiras De Banheiro Sem Furo",
+      "price": 25.99,
+      "original_price": 99.96,
+      "discount": 74.0,
+      "commission": 0.06,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6giayorgw3v41",
+      "link": "https://s.shopee.com.br/1BLFFLa7Qa",
+      "rating": "4.8",
+      "sales": 3880,
+      "shop": "ECOSEN",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 28126553523,
+        "productName": "ouro Suporte De Shampoo Prateleiras De Banheiro Sem Furo",
+        "price": "25.99",
+        "priceDiscountRate": 74,
+        "commissionRate": "0.06",
+        "sales": 3880,
+        "ratingStar": "4.8",
+        "shopName": "ECOSEN",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6giayorgw3v41",
+        "productLink": "https://shopee.com.br/product/1258611312/28126553523",
+        "offerLink": "https://s.shopee.com.br/1BLFFLa7Qa"
       },
       "_last_price": null
     },
@@ -18672,6 +18702,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mlhvk7l2duyv4e",
         "productLink": "https://shopee.com.br/product/1469128345/58206416694",
         "offerLink": "https://s.shopee.com.br/5VUEPUoJAk"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "29877782583",
+      "name": "2 Peças Luvas De Strass Para Rede De Pesca Feminina , Mangas De Infantil Sem Dedos , Acessórios De Cena Dos Anos 80 , Dr",
+      "price": 15.04,
+      "original_price": 26.86,
+      "discount": 44.0,
+      "commission": 0.1,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6qy7616re3gee",
+      "link": "https://s.shopee.com.br/BSjcqUof1",
+      "rating": "5",
+      "sales": 24,
+      "shop": "Loja de Vida Doméstica Delicada",
+      "category": "luva pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 29877782583,
+        "productName": "2 Peças Luvas De Strass Para Rede De Pesca Feminina , Mangas De Infantil Sem Dedos , Acessórios De Cena Dos Anos 80 , Dr",
+        "price": "15.04",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.1",
+        "sales": 24,
+        "ratingStar": "5",
+        "shopName": "Loja de Vida Doméstica Delicada",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6qy7616re3gee",
+        "productLink": "https://shopee.com.br/product/184031551/29877782583",
+        "offerLink": "https://s.shopee.com.br/BSjcqUof1"
       },
       "_last_price": null
     },
