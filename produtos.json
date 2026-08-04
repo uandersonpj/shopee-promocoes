@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T18:08:07.319638+00:00",
+  "updated_at": "2026-08-04T18:26:59.574059+00:00",
   "total": 1131,
   "products": [
     {
@@ -200,8 +200,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82628-mkjt9yqn25mt3b",
         "productLink": "https://shopee.com.br/product/1719334016/22194876933",
         "offerLink": "https://s.shopee.com.br/9fJnN9YRiP"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22194876950",
@@ -3245,7 +3244,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
         "productLink": "https://shopee.com.br/product/1368232097/58207198817",
         "offerLink": "https://s.shopee.com.br/7fYizRYCnw"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23199448516",
@@ -5454,7 +5454,7 @@
       "commission": 0.09,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mo95hjw1hibq95",
       "link": "https://s.shopee.com.br/9046ZtT86K",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 135,
       "shop": "sougayilanglocal3.br",
       "category": "vara telescopica",
@@ -5466,7 +5466,7 @@
         "priceDiscountRate": 65,
         "commissionRate": "0.09",
         "sales": 135,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "sougayilanglocal3.br",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mo95hjw1hibq95",
         "productLink": "https://shopee.com.br/product/1500993597/41508677910",
@@ -15414,6 +15414,35 @@
       "_last_price": null
     },
     {
+      "id": "18098210626",
+      "name": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
+      "price": 8.87,
+      "original_price": 17.06,
+      "discount": 48.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rff2-m95cllpltuw9dc",
+      "link": "https://s.shopee.com.br/30mvs5dWAC",
+      "rating": "4.9",
+      "sales": 3275,
+      "shop": "mypetone",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18098210626,
+        "productName": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
+        "price": "8.87",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.07",
+        "sales": 3275,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rff2-m95cllpltuw9dc",
+        "productLink": "https://shopee.com.br/product/290073877/18098210626",
+        "offerLink": "https://s.shopee.com.br/30mvs5dWAC"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19299611725",
       "name": "Colchão para carrinho Moises Colchonete carrinho com fronha Menino, Menina e Neutro carrinho de bebe",
       "price": 20.99,
@@ -19932,6 +19961,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
         "productLink": "https://shopee.com.br/product/786353833/23694320738",
         "offerLink": "https://s.shopee.com.br/AAG3xqXw4o"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23697709910",
+      "name": "Porta Detergente Sabão Dispenser 2 em 1 Com Suporte Para Bucha Esponja e Rodo",
+      "price": 11.8,
+      "original_price": 20.0,
+      "discount": 41.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-ml9779qs3f9j21",
+      "link": "https://s.shopee.com.br/BSirgSISI",
+      "rating": "4.9",
+      "sales": 1326,
+      "shop": "Vira Lisa Decor Outlet",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23697709910,
+        "productName": "Porta Detergente Sabão Dispenser 2 em 1 Com Suporte Para Bucha Esponja e Rodo",
+        "price": "11.8",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.08",
+        "sales": 1326,
+        "ratingStar": "4.9",
+        "shopName": "Vira Lisa Decor Outlet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-ml9779qs3f9j21",
+        "productLink": "https://shopee.com.br/product/1302608944/23697709910",
+        "offerLink": "https://s.shopee.com.br/BSirgSISI"
       },
       "_last_price": null
     },
@@ -25823,35 +25881,6 @@
       "_last_price": null
     },
     {
-      "id": "22091082363",
-      "name": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
-      "price": 15.44,
-      "original_price": 22.38,
-      "discount": 31.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mghzxpo3fdaf1b",
-      "link": "https://s.shopee.com.br/20uMEsWwjf",
-      "rating": "4.9",
-      "sales": 4432,
-      "shop": "mypetone",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22091082363,
-        "productName": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
-        "price": "15.44",
-        "priceDiscountRate": 31,
-        "commissionRate": "0.07",
-        "sales": 4432,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mghzxpo3fdaf1b",
-        "productLink": "https://shopee.com.br/product/290073877/22091082363",
-        "offerLink": "https://s.shopee.com.br/20uMEsWwjf"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23099318034",
       "name": "Kit Shampoo e Condicionador SOS Bomba Original 500ml Salon Line",
       "price": 42.0,
@@ -29506,6 +29535,35 @@
       "_last_price": null
     },
     {
+      "id": "22593058408",
+      "name": "Ração Quatree Life 10.1Kg Ração Quatree Gatos Adultos Salmão e Arroz Ração Quatree Gatos 10Kg",
+      "price": 151.99,
+      "original_price": 197.39,
+      "discount": 23.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd72-lvt04eugw3tpbe",
+      "link": "https://s.shopee.com.br/9047NzS79Y",
+      "rating": "5",
+      "sales": 1069,
+      "shop": "Marcinho PET",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22593058408,
+        "productName": "Ração Quatree Life 10.1Kg Ração Quatree Gatos Adultos Salmão e Arroz Ração Quatree Gatos 10Kg",
+        "price": "151.99",
+        "priceDiscountRate": 23,
+        "commissionRate": "0.03",
+        "sales": 1069,
+        "ratingStar": "5",
+        "shopName": "Marcinho PET",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd72-lvt04eugw3tpbe",
+        "productLink": "https://shopee.com.br/product/1194006916/22593058408",
+        "offerLink": "https://s.shopee.com.br/9047NzS79Y"
+      },
+      "_last_price": null
+    },
+    {
       "id": "57205646686",
       "name": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
       "price": 177.2,
@@ -30140,35 +30198,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mpqtfqbbug3ne7",
         "productLink": "https://shopee.com.br/product/956346509/58201941320",
         "offerLink": "https://s.shopee.com.br/4AyqonqVQX"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "53602238910",
-      "name": "Placa de Vídeo NVIDIA GeForce MSI  RTX5060TI Ventus OC Black Plus 2X 16GB - 128 Bits - HDMI/3X DP - 912-V535",
-      "price": 4099.0,
-      "original_price": 5123.75,
-      "discount": 20.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82281-mhl0nyuf7oqw61",
-      "link": "https://s.shopee.com.br/50XxoKnKjm",
-      "rating": "4.9",
-      "sales": 76,
-      "shop": "TNTinfoLoja",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 53602238910,
-        "productName": "Placa de Vídeo NVIDIA GeForce MSI  RTX5060TI Ventus OC Black Plus 2X 16GB - 128 Bits - HDMI/3X DP - 912-V535",
-        "price": "4099",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.03",
-        "sales": 76,
-        "ratingStar": "4.9",
-        "shopName": "TNTinfoLoja",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82281-mhl0nyuf7oqw61",
-        "productLink": "https://shopee.com.br/product/344381236/53602238910",
-        "offerLink": "https://s.shopee.com.br/50XxoKnKjm"
       },
       "_last_price": null
     },
@@ -31944,8 +31973,8 @@
     {
       "id": "22693991174",
       "name": "Coleira para Cães/Gatos Contra Pulgas, Carrapatos e Leishmaniose, Proteção Ajustável de Silicone Anti-Mosquito 8 Meses",
-      "price": 17.99,
-      "original_price": 21.42,
+      "price": 25.99,
+      "original_price": 30.94,
       "discount": 16.0,
       "commission": 0.13,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9xu5qteawhuf3",
@@ -31958,7 +31987,7 @@
       "_item": {
         "itemId": 22693991174,
         "productName": "Coleira para Cães/Gatos Contra Pulgas, Carrapatos e Leishmaniose, Proteção Ajustável de Silicone Anti-Mosquito 8 Meses",
-        "price": "17.99",
+        "price": "25.99",
         "priceDiscountRate": 16,
         "commissionRate": "0.13",
         "sales": 1507,
@@ -32402,35 +32431,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94jcrcrark2dd",
         "productLink": "https://shopee.com.br/product/683952730/11086604605",
         "offerLink": "https://s.shopee.com.br/AKZUAAfhF7"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "11051183096",
-      "name": "Lava Roupas Liquido Urca Azul - 5l",
-      "price": 33.66,
-      "original_price": 39.6,
-      "discount": 15.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mp0x9oqly9z768",
-      "link": "https://s.shopee.com.br/9046cIhjjL",
-      "rating": "4.9",
-      "sales": 2293,
-      "shop": "Casa de Gê",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 11051183096,
-        "productName": "Lava Roupas Liquido Urca Azul - 5l",
-        "price": "33.66",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.13",
-        "sales": 2293,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mp0x9oqly9z768",
-        "productLink": "https://shopee.com.br/product/534023108/11051183096",
-        "offerLink": "https://s.shopee.com.br/9046cIhjjL"
       },
       "_last_price": null
     },
