@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T06:13:10.991008+00:00",
+  "updated_at": "2026-08-04T06:32:26.553186+00:00",
   "total": 1128,
   "products": [
     {
@@ -1303,7 +1303,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm5-lln14dkqwcs917",
         "productLink": "https://shopee.com.br/product/504210070/22492388439",
         "offerLink": "https://s.shopee.com.br/111p3Co6eg"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "41881399321",
@@ -7966,6 +7967,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8vmrj7w6aoh96",
         "productLink": "https://shopee.com.br/product/1372008216/21099702144",
         "offerLink": "https://s.shopee.com.br/8KoPmSsRt8"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58260576959",
+      "name": "Teclado Mecânico Gamer RGB 68 Teclas Eixo Vermelho USB+2.4G+BT ABNT2 TK08",
+      "price": 69.99,
+      "original_price": 170.71,
+      "discount": 59.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mos2w4d46ww35f",
+      "link": "https://s.shopee.com.br/6AjvdUJiHD",
+      "rating": "5",
+      "sales": 275,
+      "shop": "TechLar-MGS",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58260576959,
+        "productName": "Teclado Mecânico Gamer RGB 68 Teclas Eixo Vermelho USB+2.4G+BT ABNT2 TK08",
+        "price": "69.99",
+        "priceDiscountRate": 59,
+        "commissionRate": "0.11",
+        "sales": 275,
+        "ratingStar": "5",
+        "shopName": "TechLar-MGS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mos2w4d46ww35f",
+        "productLink": "https://shopee.com.br/product/1814169023/58260576959",
+        "offerLink": "https://s.shopee.com.br/6AjvdUJiHD"
       },
       "_last_price": null
     },
@@ -19769,35 +19799,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822wr-mi5uo9k4z9q958",
         "productLink": "https://shopee.com.br/product/1553736756/23799198110",
         "offerLink": "https://s.shopee.com.br/1LeedZrQ9u"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58260576959",
-      "name": "Teclado Mecânico Gamer RGB 68 Teclas Eixo Vermelho USB+2.4G+BT ABNT2 TK08",
-      "price": 69.99,
-      "original_price": 118.63,
-      "discount": 41.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mos2w4d46ww35f",
-      "link": "https://s.shopee.com.br/6AjvdUJiHD",
-      "rating": "5",
-      "sales": 275,
-      "shop": "TechLar-MGS",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58260576959,
-        "productName": "Teclado Mecânico Gamer RGB 68 Teclas Eixo Vermelho USB+2.4G+BT ABNT2 TK08",
-        "price": "69.99",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.11",
-        "sales": 275,
-        "ratingStar": "5",
-        "shopName": "TechLar-MGS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mos2w4d46ww35f",
-        "productLink": "https://shopee.com.br/product/1814169023/58260576959",
-        "offerLink": "https://s.shopee.com.br/6AjvdUJiHD"
       },
       "_last_price": null
     },
