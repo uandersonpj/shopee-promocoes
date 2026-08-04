@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T00:34:38.927733+00:00",
-  "total": 1125,
+  "updated_at": "2026-08-04T00:53:34.568387+00:00",
+  "total": 1126,
   "products": [
     {
       "id": "23698808886",
@@ -432,7 +432,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyoeedt37dlhb3",
         "productLink": "https://shopee.com.br/product/394192376/21897733919",
         "offerLink": "https://s.shopee.com.br/AUsuxnGnGu"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "24360408071",
@@ -892,8 +893,8 @@
     {
       "id": "28641291883",
       "name": "Mesa Notebook Ergonômica Multiuso Altura Regulável Rodinhas Mesa Escrivaninha para Cama Sofá Ajustes",
-      "price": 79.9,
-      "original_price": 399.5,
+      "price": 79.91,
+      "original_price": 399.55,
       "discount": 80.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meek3amdacqp2f",
@@ -906,7 +907,7 @@
       "_item": {
         "itemId": 28641291883,
         "productName": "Mesa Notebook Ergonômica Multiuso Altura Regulável Rodinhas Mesa Escrivaninha para Cama Sofá Ajustes",
-        "price": "79.9",
+        "price": "79.91",
         "priceDiscountRate": 80,
         "commissionRate": "0.07",
         "sales": 3543,
@@ -1402,8 +1403,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
         "productLink": "https://shopee.com.br/product/1006215031/25074712287",
         "offerLink": "https://s.shopee.com.br/60QV0LRsrZ"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "18705418573",
@@ -2939,35 +2939,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mrf0djwv98udee",
         "productLink": "https://shopee.com.br/product/1414801857/57653356201",
         "offerLink": "https://s.shopee.com.br/Lm8FpPl07"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58210748022",
-      "name": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g Pele plena",
-      "price": 29.99,
-      "original_price": 99.97,
-      "discount": 70.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134211-820lk-mnhohirkcb9eaf",
-      "link": "https://s.shopee.com.br/111p33NDeJ",
-      "rating": "4.8",
-      "sales": 3065,
-      "shop": "Lulu Secrets",
-      "category": "creme facial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58210748022,
-        "productName": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g Pele plena",
-        "price": "29.99",
-        "priceDiscountRate": 70,
-        "commissionRate": "0.07",
-        "sales": 3065,
-        "ratingStar": "4.8",
-        "shopName": "Lulu Secrets",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-820lk-mnhohirkcb9eaf",
-        "productLink": "https://shopee.com.br/product/1650905473/58210748022",
-        "offerLink": "https://s.shopee.com.br/111p33NDeJ"
       },
       "_last_price": null
     },
@@ -5085,6 +5056,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-moksftpzd7v3cf",
         "productLink": "https://shopee.com.br/product/1509466453/42358581197",
         "offerLink": "https://s.shopee.com.br/1qaw2ZXa4W"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58210748022",
+      "name": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g Pele plena",
+      "price": 29.99,
+      "original_price": 85.69,
+      "discount": 65.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134211-820lk-mnhohirkcb9eaf",
+      "link": "https://s.shopee.com.br/111p33NDeJ",
+      "rating": "4.8",
+      "sales": 3065,
+      "shop": "Lulu Secrets",
+      "category": "creme facial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58210748022,
+        "productName": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g Pele plena",
+        "price": "29.99",
+        "priceDiscountRate": 65,
+        "commissionRate": "0.07",
+        "sales": 3065,
+        "ratingStar": "4.8",
+        "shopName": "Lulu Secrets",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-820lk-mnhohirkcb9eaf",
+        "productLink": "https://shopee.com.br/product/1650905473/58210748022",
+        "offerLink": "https://s.shopee.com.br/111p33NDeJ"
       },
       "_last_price": null
     },
@@ -12542,6 +12542,35 @@
       "_last_price": null
     },
     {
+      "id": "58263011143",
+      "name": "Kit Completo Karssellé – Shampoo 1L + Condicionador 1L + Máscara 500ml + Óleo 60ml",
+      "price": 48.99,
+      "original_price": 99.98,
+      "discount": 51.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824ht-mpsjy2beg6ps79",
+      "link": "https://s.shopee.com.br/7Kvu9pYdo6",
+      "rating": "4.8",
+      "sales": 1520,
+      "shop": "OMEGA Cosmeticos",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58263011143,
+        "productName": "Kit Completo Karssellé – Shampoo 1L + Condicionador 1L + Máscara 500ml + Óleo 60ml",
+        "price": "48.99",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.03",
+        "sales": 1520,
+        "ratingStar": "4.8",
+        "shopName": "OMEGA Cosmeticos",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ht-mpsjy2beg6ps79",
+        "productLink": "https://shopee.com.br/product/622657465/58263011143",
+        "offerLink": "https://s.shopee.com.br/7Kvu9pYdo6"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23994304314",
       "name": "Perfume Importados Feminino E Masculino 30ML",
       "price": 29.4,
@@ -13267,31 +13296,31 @@
       "_last_price": null
     },
     {
-      "id": "23394843805",
-      "name": "Kit  3 Luva Pano de Microfibra Multiuso Para Limpeza Veicular Carro Limpeza Geral Boa Qualidade Ola1",
+      "id": "22098174379",
+      "name": "Kit 10 Pano De Prato Microfibra SECA MAIS Absorvente",
       "price": 19.9,
       "original_price": 39.8,
       "discount": 50.0,
       "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8262z-mkmren7ymqyo44",
-      "link": "https://s.shopee.com.br/8V7pyoqXBu",
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mo114050p0qofa",
+      "link": "https://s.shopee.com.br/20uNo1FD6o",
       "rating": "4.8",
-      "sales": 1441,
-      "shop": "Olaolatextil",
+      "sales": 1428,
+      "shop": "Wolf_Utilidades",
       "category": "pano microfibra",
       "source": "shopee",
       "_item": {
-        "itemId": 23394843805,
-        "productName": "Kit  3 Luva Pano de Microfibra Multiuso Para Limpeza Veicular Carro Limpeza Geral Boa Qualidade Ola1",
+        "itemId": 22098174379,
+        "productName": "Kit 10 Pano De Prato Microfibra SECA MAIS Absorvente",
         "price": "19.9",
         "priceDiscountRate": 50,
         "commissionRate": "0.03",
-        "sales": 1441,
+        "sales": 1428,
         "ratingStar": "4.8",
-        "shopName": "Olaolatextil",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262z-mkmren7ymqyo44",
-        "productLink": "https://shopee.com.br/product/1618822516/23394843805",
-        "offerLink": "https://s.shopee.com.br/8V7pyoqXBu"
+        "shopName": "Wolf_Utilidades",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mo114050p0qofa",
+        "productLink": "https://shopee.com.br/product/1036231479/22098174379",
+        "offerLink": "https://s.shopee.com.br/20uNo1FD6o"
       },
       "_last_price": null
     },
@@ -18690,6 +18719,35 @@
       "_last_price": null
     },
     {
+      "id": "29877782583",
+      "name": "2 Peças Luvas De Strass Para Rede De Pesca Feminina , Mangas De Infantil Sem Dedos , Acessórios De Cena Dos Anos 80 , Dr",
+      "price": 15.04,
+      "original_price": 26.86,
+      "discount": 44.0,
+      "commission": 0.1,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6qy7616re3gee",
+      "link": "https://s.shopee.com.br/BSjcqUof1",
+      "rating": "5",
+      "sales": 24,
+      "shop": "Loja de Vida Doméstica Delicada",
+      "category": "luva pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 29877782583,
+        "productName": "2 Peças Luvas De Strass Para Rede De Pesca Feminina , Mangas De Infantil Sem Dedos , Acessórios De Cena Dos Anos 80 , Dr",
+        "price": "15.04",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.1",
+        "sales": 24,
+        "ratingStar": "5",
+        "shopName": "Loja de Vida Doméstica Delicada",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6qy7616re3gee",
+        "productLink": "https://shopee.com.br/product/184031551/29877782583",
+        "offerLink": "https://s.shopee.com.br/BSjcqUof1"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23198435597",
       "name": "Cabo De Rede Azul RJ45 CAT5e Pc Notebook Roteador Smart Tv Video Game 1/3/5/10/15/20/25/30 Metros",
       "price": 7.9,
@@ -19908,6 +19966,35 @@
       "_last_price": null
     },
     {
+      "id": "16271693872",
+      "name": "Beauty Of Joseon relief sun rice probiotics / niacinamide  sun cream protetor solar SPF50+ PA++10ml,50ml,50ml 1+1",
+      "price": 29.98,
+      "original_price": 50.81,
+      "discount": 41.0,
+      "commission": 0.2,
+      "image": "https://cf.shopee.com.br/file/sg-11134207-823rd-mp8ti5rbw9og98",
+      "link": "https://s.shopee.com.br/1Legwteuiy",
+      "rating": "5",
+      "sales": 900,
+      "shop": "koksara.kbeauty",
+      "category": "protetor solar",
+      "source": "shopee",
+      "_item": {
+        "itemId": 16271693872,
+        "productName": "Beauty Of Joseon relief sun rice probiotics / niacinamide  sun cream protetor solar SPF50+ PA++10ml,50ml,50ml 1+1",
+        "price": "29.98",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.2",
+        "sales": 900,
+        "ratingStar": "5",
+        "shopName": "koksara.kbeauty",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-823rd-mp8ti5rbw9og98",
+        "productLink": "https://shopee.com.br/product/457864097/16271693872",
+        "offerLink": "https://s.shopee.com.br/1Legwteuiy"
+      },
+      "_last_price": null
+    },
+    {
       "id": "25689606519",
       "name": "CALÇA Sumikko fralda Ajustável total max M/G/XG 100 unidade Baby",
       "price": 129.0,
@@ -20716,6 +20803,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjaa6s64g0sj43",
         "productLink": "https://shopee.com.br/product/1593119369/22894275092",
         "offerLink": "https://s.shopee.com.br/9pdDZIgFZr"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22194458905",
+      "name": "Coleção 12 Carrinhos Miniatura Kit Completo Brinquedo Meninos",
+      "price": 14.9,
+      "original_price": 24.83,
+      "discount": 40.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf1h1y2ry8sk12",
+      "link": "https://s.shopee.com.br/19HrEHgX2",
+      "rating": "4.8",
+      "sales": 999,
+      "shop": "Importek_",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22194458905,
+        "productName": "Coleção 12 Carrinhos Miniatura Kit Completo Brinquedo Meninos",
+        "price": "14.9",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 999,
+        "ratingStar": "4.8",
+        "shopName": "Importek_",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf1h1y2ry8sk12",
+        "productLink": "https://shopee.com.br/product/1564337780/22194458905",
+        "offerLink": "https://s.shopee.com.br/19HrEHgX2"
       },
       "_last_price": null
     },
@@ -27361,35 +27477,6 @@
       "_last_price": null
     },
     {
-      "id": "23499368877",
-      "name": "Brinquedo Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos Caixa Container que Vira Pista Qualidade",
-      "price": 71.92,
-      "original_price": 99.89,
-      "discount": 28.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8261f-ml6fnhmlfais41",
-      "link": "https://s.shopee.com.br/111p34DsVK",
-      "rating": "4.8",
-      "sales": 827,
-      "shop": "LDLINSHOP",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23499368877,
-        "productName": "Brinquedo Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos Caixa Container que Vira Pista Qualidade",
-        "price": "71.92",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.13",
-        "sales": 827,
-        "ratingStar": "4.8",
-        "shopName": "LDLINSHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261f-ml6fnhmlfais41",
-        "productLink": "https://shopee.com.br/product/316522636/23499368877",
-        "offerLink": "https://s.shopee.com.br/111p34DsVK"
-      },
-      "_last_price": null
-    },
-    {
       "id": "19398297649",
       "name": "Ração Para Cachorro 15kg Special Dog Ultralife Gold Performance Adulto Carne Frango e Batata Doce",
       "price": 136.99,
@@ -28173,35 +28260,6 @@
       "_last_price": null
     },
     {
-      "id": "16324454755",
-      "name": "Kit SOS Cachos Coco Profundo Shampoo e Condicionador Litrão Salon Line",
-      "price": 49.0,
-      "original_price": 66.22,
-      "discount": 26.0,
-      "commission": 0.18,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mpwv9cefewowf7",
-      "link": "https://s.shopee.com.br/9fJnMy3lBJ",
-      "rating": "4.9",
-      "sales": 3415,
-      "shop": "Salon Line",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 16324454755,
-        "productName": "Kit SOS Cachos Coco Profundo Shampoo e Condicionador Litrão Salon Line",
-        "price": "49",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.18",
-        "sales": 3415,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mpwv9cefewowf7",
-        "productLink": "https://shopee.com.br/product/616222685/16324454755",
-        "offerLink": "https://s.shopee.com.br/9fJnMy3lBJ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58256586508",
       "name": "Kit Capilar Óleo Extraordinário NEW HAIR - Shampoo, Condicionador, Máscara e Óleo",
       "price": 43.9,
@@ -28604,35 +28662,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262v-ml180252vj0gcc",
         "productLink": "https://shopee.com.br/product/335170333/23493418176",
         "offerLink": "https://s.shopee.com.br/W5YS7KzQ6"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58205979239",
-      "name": "Principia Kit Limpa Hidrata e Protege c/ Gel de Limpeza GL-01 + Creme Hidratante CH-01 + Protetor Cor PS-05 FPS 70",
-      "price": 117.73,
-      "original_price": 156.97,
-      "discount": 25.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mli7ak1thedga0",
-      "link": "https://s.shopee.com.br/7VFImzgo5I",
-      "rating": "4.9",
-      "sales": 1431,
-      "shop": "Principia Skincare",
-      "category": "protetor solar",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58205979239,
-        "productName": "Principia Kit Limpa Hidrata e Protege c/ Gel de Limpeza GL-01 + Creme Hidratante CH-01 + Protetor Cor PS-05 FPS 70",
-        "price": "117.73",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.11",
-        "sales": 1431,
-        "ratingStar": "4.9",
-        "shopName": "Principia Skincare",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mli7ak1thedga0",
-        "productLink": "https://shopee.com.br/product/373261329/58205979239",
-        "offerLink": "https://s.shopee.com.br/7VFImzgo5I"
       },
       "_last_price": null
     },
