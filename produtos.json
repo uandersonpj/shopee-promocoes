@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T01:31:24.783143+00:00",
-  "total": 1126,
+  "updated_at": "2026-08-04T01:50:10.002095+00:00",
+  "total": 1125,
   "products": [
     {
       "id": "23698808886",
@@ -143,7 +143,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qo-moodqvbtpo8yf2",
         "productLink": "https://shopee.com.br/product/1571156019/52011120312",
         "offerLink": "https://s.shopee.com.br/7VFIn6ve8l"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22194876933",
@@ -1663,8 +1664,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mp313r3vzcatce",
         "productLink": "https://shopee.com.br/product/1848916283/58211974133",
         "offerLink": "https://s.shopee.com.br/5LAoCxH4M6"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23799125316",
@@ -8171,7 +8171,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mlcji2k7bhfr43",
       "link": "https://s.shopee.com.br/50XxoPPaf1",
-      "rating": "4.5",
+      "rating": "4.4",
       "sales": 2445,
       "shop": "Bolza.Store",
       "category": "perfume",
@@ -8183,7 +8183,7 @@
         "priceDiscountRate": 59,
         "commissionRate": "0.03",
         "sales": 2445,
-        "ratingStar": "4.5",
+        "ratingStar": "4.4",
         "shopName": "Bolza.Store",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mlcji2k7bhfr43",
         "productLink": "https://shopee.com.br/product/1386802886/58206111970",
@@ -10686,6 +10686,35 @@
       "_last_price": null
     },
     {
+      "id": "47811321649",
+      "name": "Kit 4 Potes Herméticos 2L Para Lavanderia Com Vedação P/ Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
+      "price": 68.42,
+      "original_price": 148.74,
+      "discount": 54.0,
+      "commission": 0.12,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mosdi0wi3sat12",
+      "link": "https://s.shopee.com.br/3B6JczpNdB",
+      "rating": "4.9",
+      "sales": 1428,
+      "shop": "CampvendasMulticoisas",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 47811321649,
+        "productName": "Kit 4 Potes Herméticos 2L Para Lavanderia Com Vedação P/ Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
+        "price": "68.42",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.12",
+        "sales": 1428,
+        "ratingStar": "4.9",
+        "shopName": "CampvendasMulticoisas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mosdi0wi3sat12",
+        "productLink": "https://shopee.com.br/product/1627792845/47811321649",
+        "offerLink": "https://s.shopee.com.br/3B6JczpNdB"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22494539582",
       "name": "Pote Hermético em Acrílico dispenser para Grãos Sabão em pó e liquido com tampa Copo Medidor dosador",
       "price": 25.99,
@@ -12712,35 +12741,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zul-mmnxoqndyd5429",
         "productLink": "https://shopee.com.br/product/1418809825/21099837714",
         "offerLink": "https://s.shopee.com.br/AUsuMbK5tL"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "29777745435",
-      "name": "Boonie Chapéu Balaclava Terno Dobrável Macio Proteção Solar Boné De Pesca Respirável Pescador Caça Ao Ar Livre Amplo Pro",
-      "price": 27.55,
-      "original_price": 56.22,
-      "discount": 51.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823pf-mp4mrk33iknhaf",
-      "link": "https://s.shopee.com.br/5VUEPS77Ql",
-      "rating": "4.9",
-      "sales": 1510,
-      "shop": "Choice Oficial",
-      "category": "boné pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 29777745435,
-        "productName": "Boonie Chapéu Balaclava Terno Dobrável Macio Proteção Solar Boné De Pesca Respirável Pescador Caça Ao Ar Livre Amplo Pro",
-        "price": "27.55",
-        "priceDiscountRate": 51,
-        "commissionRate": "0.13",
-        "sales": 1510,
-        "ratingStar": "4.9",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pf-mp4mrk33iknhaf",
-        "productLink": "https://shopee.com.br/product/1006215031/29777745435",
-        "offerLink": "https://s.shopee.com.br/5VUEPS77Ql"
       },
       "_last_price": null
     },
@@ -19270,6 +19270,35 @@
       "_last_price": null
     },
     {
+      "id": "29777745435",
+      "name": "Boonie Chapéu Balaclava Terno Dobrável Macio Proteção Solar Boné De Pesca Respirável Pescador Caça Ao Ar Livre Amplo Pro",
+      "price": 31.79,
+      "original_price": 55.77,
+      "discount": 43.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823pf-mp4mrk33iknhaf",
+      "link": "https://s.shopee.com.br/5VUEPS77Ql",
+      "rating": "4.9",
+      "sales": 1510,
+      "shop": "Choice Oficial",
+      "category": "boné pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 29777745435,
+        "productName": "Boonie Chapéu Balaclava Terno Dobrável Macio Proteção Solar Boné De Pesca Respirável Pescador Caça Ao Ar Livre Amplo Pro",
+        "price": "31.79",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.13",
+        "sales": 1510,
+        "ratingStar": "4.9",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pf-mp4mrk33iknhaf",
+        "productLink": "https://shopee.com.br/product/1006215031/29777745435",
+        "offerLink": "https://s.shopee.com.br/5VUEPS77Ql"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22594371178",
       "name": "Chapéu Balaclava Terno Dobrável Macio Proteção Solar Boné De Pesca Respirável Pescadoria Ao Ar Livre",
       "price": 29.98,
@@ -20774,6 +20803,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjaa6s64g0sj43",
         "productLink": "https://shopee.com.br/product/1593119369/22894275092",
         "offerLink": "https://s.shopee.com.br/9pdDZIgFZr"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22194458905",
+      "name": "Coleção 12 Carrinhos Miniatura Kit Completo Brinquedo Meninos",
+      "price": 14.9,
+      "original_price": 24.83,
+      "discount": 40.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf1h1y2ry8sk12",
+      "link": "https://s.shopee.com.br/19HrEHgX2",
+      "rating": "4.8",
+      "sales": 999,
+      "shop": "Importek_",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22194458905,
+        "productName": "Coleção 12 Carrinhos Miniatura Kit Completo Brinquedo Meninos",
+        "price": "14.9",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 999,
+        "ratingStar": "4.8",
+        "shopName": "Importek_",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf1h1y2ry8sk12",
+        "productLink": "https://shopee.com.br/product/1564337780/22194458905",
+        "offerLink": "https://s.shopee.com.br/19HrEHgX2"
       },
       "_last_price": null
     },
@@ -24664,35 +24722,6 @@
       "_last_price": null
     },
     {
-      "id": "49606415504",
-      "name": "Dispenser Organizador Lavanderia 2,8 e 1,3 Litros Acrílico amaciante sabão em pó Lavanderia",
-      "price": 28.9,
-      "original_price": 43.13,
-      "discount": 33.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825zo-ml3xwrht7a4kc5",
-      "link": "https://s.shopee.com.br/8KoQjq1QFS",
-      "rating": "4.6",
-      "sales": 323,
-      "shop": "Souna Home",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 49606415504,
-        "productName": "Dispenser Organizador Lavanderia 2,8 e 1,3 Litros Acrílico amaciante sabão em pó Lavanderia",
-        "price": "28.9",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.03",
-        "sales": 323,
-        "ratingStar": "4.6",
-        "shopName": "Souna Home",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zo-ml3xwrht7a4kc5",
-        "productLink": "https://shopee.com.br/product/838022405/49606415504",
-        "offerLink": "https://s.shopee.com.br/8KoQjq1QFS"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23136366164",
       "name": "Amaciante Profissional 5L Comfort",
       "price": 62.59,
@@ -27419,35 +27448,6 @@
       "_last_price": null
     },
     {
-      "id": "23499368877",
-      "name": "Brinquedo Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos Caixa Container que Vira Pista Qualidade",
-      "price": 71.92,
-      "original_price": 99.89,
-      "discount": 28.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8261f-ml6fnhmlfais41",
-      "link": "https://s.shopee.com.br/111p34DsVK",
-      "rating": "4.8",
-      "sales": 827,
-      "shop": "LDLINSHOP",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23499368877,
-        "productName": "Brinquedo Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos Caixa Container que Vira Pista Qualidade",
-        "price": "71.92",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.13",
-        "sales": 827,
-        "ratingStar": "4.8",
-        "shopName": "LDLINSHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261f-ml6fnhmlfais41",
-        "productLink": "https://shopee.com.br/product/316522636/23499368877",
-        "offerLink": "https://s.shopee.com.br/111p34DsVK"
-      },
-      "_last_price": null
-    },
-    {
       "id": "19398297649",
       "name": "Ração Para Cachorro 15kg Special Dog Ultralife Gold Performance Adulto Carne Frango e Batata Doce",
       "price": 136.99,
@@ -27531,35 +27531,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmqfwqq71vcw90",
         "productLink": "https://shopee.com.br/product/379103154/58208305021",
         "offerLink": "https://s.shopee.com.br/7fYizN4kSG"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "44202214204",
-      "name": "Panela de Pressão Elétrica Itatiaia Essencial 5L 900W 127V Inox",
-      "price": 299.9,
-      "original_price": 416.53,
-      "discount": 28.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rasz-ma8kbnoem0tu53",
-      "link": "https://s.shopee.com.br/9fJnN2x8Oy",
-      "rating": "4.9",
-      "sales": 721,
-      "shop": "Inpower",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 44202214204,
-        "productName": "Panela de Pressão Elétrica Itatiaia Essencial 5L 900W 127V Inox",
-        "price": "299.9",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.03",
-        "sales": 721,
-        "ratingStar": "4.9",
-        "shopName": "Inpower",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rasz-ma8kbnoem0tu53",
-        "productLink": "https://shopee.com.br/product/683223635/44202214204",
-        "offerLink": "https://s.shopee.com.br/9fJnN2x8Oy"
       },
       "_last_price": null
     },
@@ -28057,31 +28028,31 @@
       "_last_price": null
     },
     {
-      "id": "58209955451",
-      "name": "Descalcificante Limpa Cafeteira Expresso Maquina Nespresso Dolce Gusto 3 Corações Café Dentro Limpez",
-      "price": 19.97,
-      "original_price": 27.36,
+      "id": "25845400895",
+      "name": "Panela de Pressão 2,5 Litros Alumínio Polida Fort-Lar",
+      "price": 51.9,
+      "original_price": 71.1,
       "discount": 27.0,
-      "commission": 0.18,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mnp4nu9pryf625",
-      "link": "https://s.shopee.com.br/19ISX2tbU",
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-macy6hm46tfz71",
+      "link": "https://s.shopee.com.br/8fRGBD0wQs",
       "rating": "4.9",
-      "sales": 1927,
-      "shop": "Oferta Day",
-      "category": "cafeteira",
+      "sales": 914,
+      "shop": "r_store1",
+      "category": "panela pressao",
       "source": "shopee",
       "_item": {
-        "itemId": 58209955451,
-        "productName": "Descalcificante Limpa Cafeteira Expresso Maquina Nespresso Dolce Gusto 3 Corações Café Dentro Limpez",
-        "price": "19.97",
+        "itemId": 25845400895,
+        "productName": "Panela de Pressão 2,5 Litros Alumínio Polida Fort-Lar",
+        "price": "51.9",
         "priceDiscountRate": 27,
-        "commissionRate": "0.18",
-        "sales": 1927,
+        "commissionRate": "0.08",
+        "sales": 914,
         "ratingStar": "4.9",
-        "shopName": "Oferta Day",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mnp4nu9pryf625",
-        "productLink": "https://shopee.com.br/product/1552460828/58209955451",
-        "offerLink": "https://s.shopee.com.br/19ISX2tbU"
+        "shopName": "r_store1",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-macy6hm46tfz71",
+        "productLink": "https://shopee.com.br/product/502568539/25845400895",
+        "offerLink": "https://s.shopee.com.br/8fRGBD0wQs"
       },
       "_last_price": null
     },
@@ -30377,6 +30348,35 @@
       "_last_price": null
     },
     {
+      "id": "58209955451",
+      "name": "Descalcificante Limpa Cafeteira Expresso Maquina Nespresso Dolce Gusto 3 Corações Café Dentro Limpez",
+      "price": 21.9,
+      "original_price": 27.37,
+      "discount": 20.0,
+      "commission": 0.18,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mnp4nu9pryf625",
+      "link": "https://s.shopee.com.br/19ISX2tbU",
+      "rating": "4.9",
+      "sales": 1927,
+      "shop": "Oferta Day",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58209955451,
+        "productName": "Descalcificante Limpa Cafeteira Expresso Maquina Nespresso Dolce Gusto 3 Corações Café Dentro Limpez",
+        "price": "21.9",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.18",
+        "sales": 1927,
+        "ratingStar": "4.9",
+        "shopName": "Oferta Day",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mnp4nu9pryf625",
+        "productLink": "https://shopee.com.br/product/1552460828/58209955451",
+        "offerLink": "https://s.shopee.com.br/19ISX2tbU"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22094202428",
       "name": "Tênis Feminino Lançamento Confortável academia caminhada casual leve casual e esportivo",
       "price": 55.99,
@@ -32258,35 +32258,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnddp09ufn4fe5",
         "productLink": "https://shopee.com.br/product/534023108/19748645144",
         "offerLink": "https://s.shopee.com.br/5ArO0fhlZl"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "17590710236",
-      "name": "Amaciante Concentrado Baby Soft Inspiração Fascinante 1L - Rende 50 lavagens",
-      "price": 15.89,
-      "original_price": 18.69,
-      "discount": 15.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-22120-axzvnj9kv3kv69",
-      "link": "https://s.shopee.com.br/4qEXc3j2Fj",
-      "rating": "4.9",
-      "sales": 1193,
-      "shop": "Casa de Gê",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 17590710236,
-        "productName": "Amaciante Concentrado Baby Soft Inspiração Fascinante 1L - Rende 50 lavagens",
-        "price": "15.89",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.13",
-        "sales": 1193,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22120-axzvnj9kv3kv69",
-        "productLink": "https://shopee.com.br/product/534023108/17590710236",
-        "offerLink": "https://s.shopee.com.br/4qEXc3j2Fj"
       },
       "_last_price": null
     },
