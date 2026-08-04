@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T09:40:41.976181+00:00",
+  "updated_at": "2026-08-04T09:59:22.325497+00:00",
   "total": 1127,
   "products": [
     {
@@ -6913,7 +6913,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-820nu-mnebqsks0i6849",
       "link": "https://s.shopee.com.br/9zwdlZkp9F",
-      "rating": "4.6",
+      "rating": "4.7",
       "sales": 1496,
       "shop": "JupiTerra",
       "category": "pano microfibra",
@@ -6925,7 +6925,7 @@
         "priceDiscountRate": 61,
         "commissionRate": "0.03",
         "sales": 1496,
-        "ratingStar": "4.6",
+        "ratingStar": "4.7",
         "shopName": "JupiTerra",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820nu-mnebqsks0i6849",
         "productLink": "https://shopee.com.br/product/1765095638/58209396052",
@@ -12444,35 +12444,6 @@
       "_last_price": null
     },
     {
-      "id": "51961303157",
-      "name": "Kit 3 a 10 Potes Herméticos 2L Para Lavanderia Com Vedação Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
-      "price": 49.0,
-      "original_price": 100.0,
-      "discount": 51.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mosjxda5lmva37",
-      "link": "https://s.shopee.com.br/9ANWm1AwL5",
-      "rating": "4.9",
-      "sales": 780,
-      "shop": "CampvendasMulticoisas",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 51961303157,
-        "productName": "Kit 3 a 10 Potes Herméticos 2L Para Lavanderia Com Vedação Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
-        "price": "49",
-        "priceDiscountRate": 51,
-        "commissionRate": "0.12",
-        "sales": 780,
-        "ratingStar": "4.9",
-        "shopName": "CampvendasMulticoisas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mosjxda5lmva37",
-        "productLink": "https://shopee.com.br/product/1627792845/51961303157",
-        "offerLink": "https://s.shopee.com.br/9ANWm1AwL5"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23899175305",
       "name": "Lava Roupas Sabão em Pó com Percabonato Perfumado",
       "price": 19.97,
@@ -16007,6 +15978,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mosc7lrooo3n52",
         "productLink": "https://shopee.com.br/product/1627792845/56511310186",
         "offerLink": "https://s.shopee.com.br/1LefRcwMLi"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "51961303157",
+      "name": "Kit 3 a 10 Potes Herméticos 2L Para Lavanderia Com Vedação Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
+      "price": 53.01,
+      "original_price": 100.02,
+      "discount": 47.0,
+      "commission": 0.12,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mosjxda5lmva37",
+      "link": "https://s.shopee.com.br/9ANWm1AwL5",
+      "rating": "4.9",
+      "sales": 780,
+      "shop": "CampvendasMulticoisas",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 51961303157,
+        "productName": "Kit 3 a 10 Potes Herméticos 2L Para Lavanderia Com Vedação Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
+        "price": "53.01",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.12",
+        "sales": 780,
+        "ratingStar": "4.9",
+        "shopName": "CampvendasMulticoisas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mosjxda5lmva37",
+        "productLink": "https://shopee.com.br/product/1627792845/51961303157",
+        "offerLink": "https://s.shopee.com.br/9ANWm1AwL5"
       },
       "_last_price": null
     },
