@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T08:54:05.045134+00:00",
-  "total": 1127,
+  "updated_at": "2026-08-05T09:12:45.615616+00:00",
+  "total": 1126,
   "products": [
     {
       "id": "23698808886",
@@ -1710,7 +1710,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgf3dycxebr838",
         "productLink": "https://shopee.com.br/product/483938660/23799125316",
         "offerLink": "https://s.shopee.com.br/80BZNrgBTL"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22719293954",
@@ -20012,6 +20013,35 @@
       "_last_price": null
     },
     {
+      "id": "23697709910",
+      "name": "Porta Detergente Sabão Dispenser 2 em 1 Com Suporte Para Bucha Esponja e Rodo",
+      "price": 11.8,
+      "original_price": 20.0,
+      "discount": 41.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-ml9779qs3f9j21",
+      "link": "https://s.shopee.com.br/BSirgSISI",
+      "rating": "4.9",
+      "sales": 1327,
+      "shop": "Vira Lisa Decor Outlet",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23697709910,
+        "productName": "Porta Detergente Sabão Dispenser 2 em 1 Com Suporte Para Bucha Esponja e Rodo",
+        "price": "11.8",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.08",
+        "sales": 1327,
+        "ratingStar": "4.9",
+        "shopName": "Vira Lisa Decor Outlet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-ml9779qs3f9j21",
+        "productLink": "https://shopee.com.br/product/1302608944/23697709910",
+        "offerLink": "https://s.shopee.com.br/BSirgSISI"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18999566083",
       "name": "Gancho Adesivo Inox Porta Esponja Bucha Suporte de Pia Parede Cozinha Premium",
       "price": 5.89,
@@ -32134,35 +32164,6 @@
       "_last_price": null
     },
     {
-      "id": "18998573561",
-      "name": "Amaciante Ruth Care Colinho da Vovó - 1l",
-      "price": 7.48,
-      "original_price": 8.8,
-      "discount": 15.0,
-      "commission": 0.15,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbmo-lneo8slh76y975",
-      "link": "https://s.shopee.com.br/3LPjpIokII",
-      "rating": "4.9",
-      "sales": 1056,
-      "shop": "Casa de Gê",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18998573561,
-        "productName": "Amaciante Ruth Care Colinho da Vovó - 1l",
-        "price": "7.48",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.15",
-        "sales": 1056,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbmo-lneo8slh76y975",
-        "productLink": "https://shopee.com.br/product/534023108/18998573561",
-        "offerLink": "https://s.shopee.com.br/3LPjpIokII"
-      },
-      "_last_price": null
-    },
-    {
       "id": "11151188105",
       "name": "Lava Roupas Liquido Ruth Care Xodozinho - 1l",
       "price": 13.09,
@@ -32304,35 +32305,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94jcrcrark2dd",
         "productLink": "https://shopee.com.br/product/683952730/11086604605",
         "offerLink": "https://s.shopee.com.br/AKZUAAfhF7"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "11051183096",
-      "name": "Lava Roupas Liquido Urca Azul - 5l",
-      "price": 33.66,
-      "original_price": 39.6,
-      "discount": 15.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mp0x9oqly9z768",
-      "link": "https://s.shopee.com.br/9046cIhjjL",
-      "rating": "4.9",
-      "sales": 2341,
-      "shop": "Casa de Gê",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 11051183096,
-        "productName": "Lava Roupas Liquido Urca Azul - 5l",
-        "price": "33.66",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.13",
-        "sales": 2341,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mp0x9oqly9z768",
-        "productLink": "https://shopee.com.br/product/534023108/11051183096",
-        "offerLink": "https://s.shopee.com.br/9046cIhjjL"
       },
       "_last_price": null
     },
