@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T05:07:59.426338+00:00",
-  "total": 1127,
+  "updated_at": "2026-08-05T05:26:37.284021+00:00",
+  "total": 1126,
   "products": [
     {
       "id": "23698808886",
@@ -753,7 +753,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mo5fpms2330ge3",
         "productLink": "https://shopee.com.br/product/1298416721/23399029450",
         "offerLink": "https://s.shopee.com.br/1BLFFUAYN2"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23699424696",
@@ -2394,35 +2395,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfvb2gx4p34791",
         "productLink": "https://shopee.com.br/product/629805123/22099046331",
         "offerLink": "https://s.shopee.com.br/4fv7PmMnJv"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "24191969006",
-      "name": "Kit De 2 Protetores Solares Buba Para Carros",
-      "price": 15.8,
-      "original_price": 58.52,
-      "discount": 73.0,
-      "commission": 0.1,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6qb314947x8e6",
-      "link": "https://s.shopee.com.br/9fJpkU4x2E",
-      "rating": "4.6",
-      "sales": 1188,
-      "shop": "CASA_NO.1.br",
-      "category": "protetor solar",
-      "source": "shopee",
-      "_item": {
-        "itemId": 24191969006,
-        "productName": "Kit De 2 Protetores Solares Buba Para Carros",
-        "price": "15.8",
-        "priceDiscountRate": 73,
-        "commissionRate": "0.1",
-        "sales": 1188,
-        "ratingStar": "4.6",
-        "shopName": "CASA_NO.1.br",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6qb314947x8e6",
-        "productLink": "https://shopee.com.br/product/1389142964/24191969006",
-        "offerLink": "https://s.shopee.com.br/9fJpkU4x2E"
       },
       "_last_price": null
     },
