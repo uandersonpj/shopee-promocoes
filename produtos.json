@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T06:59:56.811017+00:00",
-  "total": 1126,
+  "updated_at": "2026-08-05T07:18:34.875633+00:00",
+  "total": 1127,
   "products": [
     {
       "id": "23698808886",
@@ -1246,7 +1246,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyp5enbirpg574",
         "productLink": "https://shopee.com.br/product/443105265/23897691943",
         "offerLink": "https://s.shopee.com.br/4LIH1FZJO2"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22492388439",
@@ -32153,6 +32154,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40g08sd675t69",
         "productLink": "https://shopee.com.br/product/534023108/10951188066",
         "offerLink": "https://s.shopee.com.br/2BDmR9tBex"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18998573561",
+      "name": "Amaciante Ruth Care Colinho da Vovó - 1l",
+      "price": 7.48,
+      "original_price": 8.8,
+      "discount": 15.0,
+      "commission": 0.15,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbmo-lneo8slh76y975",
+      "link": "https://s.shopee.com.br/3LPjpIokII",
+      "rating": "4.9",
+      "sales": 1056,
+      "shop": "Casa de Gê",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18998573561,
+        "productName": "Amaciante Ruth Care Colinho da Vovó - 1l",
+        "price": "7.48",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.15",
+        "sales": 1056,
+        "ratingStar": "4.9",
+        "shopName": "Casa de Gê",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbmo-lneo8slh76y975",
+        "productLink": "https://shopee.com.br/product/534023108/18998573561",
+        "offerLink": "https://s.shopee.com.br/3LPjpIokII"
       },
       "_last_price": null
     },
