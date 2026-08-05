@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T04:30:39.049972+00:00",
+  "updated_at": "2026-08-05T04:49:20.113423+00:00",
   "total": 1128,
   "products": [
     {
@@ -637,7 +637,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mmi9yl6sf3ls65",
         "productLink": "https://shopee.com.br/product/1198407784/23497594302",
         "offerLink": "https://s.shopee.com.br/1BLFFR75fr"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "55508691646",
@@ -20144,35 +20145,6 @@
       "_last_price": null
     },
     {
-      "id": "23498386191",
-      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-      "price": 175.9,
-      "original_price": 298.14,
-      "discount": 41.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-      "link": "https://s.shopee.com.br/9V0NAghWFl",
-      "rating": "4.9",
-      "sales": 925,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498386191,
-        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-        "price": "175.9",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.07",
-        "sales": 925,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-        "productLink": "https://shopee.com.br/product/504754787/23498386191",
-        "offerLink": "https://s.shopee.com.br/9V0NAghWFl"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20497679378",
       "name": "Creatina Monohidratada Pura Refil 500g Dark Lab - Creatina 100% Pura",
       "price": 52.9,
@@ -24490,6 +24462,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra3u-mbe7m8ziioae62",
         "productLink": "https://shopee.com.br/product/314834922/22794170349",
         "offerLink": "https://s.shopee.com.br/8V7pypd03S"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23498386191",
+      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+      "price": 198.9,
+      "original_price": 301.36,
+      "discount": 34.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+      "link": "https://s.shopee.com.br/9V0NAghWFl",
+      "rating": "4.9",
+      "sales": 925,
+      "shop": "Zociella Kids",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498386191,
+        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+        "price": "198.9",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.07",
+        "sales": 925,
+        "ratingStar": "4.9",
+        "shopName": "Zociella Kids",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+        "productLink": "https://shopee.com.br/product/504754787/23498386191",
+        "offerLink": "https://s.shopee.com.br/9V0NAghWFl"
       },
       "_last_price": null
     },
@@ -31224,8 +31225,8 @@
     {
       "id": "20759160783",
       "name": "Teclado Usb Padrão ABNT2 Brasileiro Super Macio Notebook Pc Computador",
-      "price": 24.89,
-      "original_price": 29.99,
+      "price": 24.9,
+      "original_price": 30.0,
       "discount": 17.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mopjxmujv7r933",
@@ -31238,7 +31239,7 @@
       "_item": {
         "itemId": 20759160783,
         "productName": "Teclado Usb Padrão ABNT2 Brasileiro Super Macio Notebook Pc Computador",
-        "price": "24.89",
+        "price": "24.9",
         "priceDiscountRate": 17,
         "commissionRate": "0.03",
         "sales": 3018,
