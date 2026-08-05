@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T08:16:48.806774+00:00",
+  "updated_at": "2026-08-05T08:35:28.835316+00:00",
   "total": 1127,
   "products": [
     {
@@ -1652,7 +1652,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823oc-mpcmkv5yn56z8d",
         "productLink": "https://shopee.com.br/product/344381236/42931642321",
         "offerLink": "https://s.shopee.com.br/40fQcUr8lU"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58211974133",
@@ -20010,35 +20011,6 @@
       "_last_price": null
     },
     {
-      "id": "23697709910",
-      "name": "Porta Detergente Sabão Dispenser 2 em 1 Com Suporte Para Bucha Esponja e Rodo",
-      "price": 11.8,
-      "original_price": 20.0,
-      "discount": 41.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-ml9779qs3f9j21",
-      "link": "https://s.shopee.com.br/BSirgSISI",
-      "rating": "4.9",
-      "sales": 1327,
-      "shop": "Vira Lisa Decor Outlet",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23697709910,
-        "productName": "Porta Detergente Sabão Dispenser 2 em 1 Com Suporte Para Bucha Esponja e Rodo",
-        "price": "11.8",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.08",
-        "sales": 1327,
-        "ratingStar": "4.9",
-        "shopName": "Vira Lisa Decor Outlet",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-ml9779qs3f9j21",
-        "productLink": "https://shopee.com.br/product/1302608944/23697709910",
-        "offerLink": "https://s.shopee.com.br/BSirgSISI"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18999566083",
       "name": "Gancho Adesivo Inox Porta Esponja Bucha Suporte de Pia Parede Cozinha Premium",
       "price": 5.89,
@@ -32331,6 +32303,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94jcrcrark2dd",
         "productLink": "https://shopee.com.br/product/683952730/11086604605",
         "offerLink": "https://s.shopee.com.br/AKZUAAfhF7"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "11051183096",
+      "name": "Lava Roupas Liquido Urca Azul - 5l",
+      "price": 33.66,
+      "original_price": 39.6,
+      "discount": 15.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mp0x9oqly9z768",
+      "link": "https://s.shopee.com.br/9046cIhjjL",
+      "rating": "4.9",
+      "sales": 2341,
+      "shop": "Casa de Gê",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 11051183096,
+        "productName": "Lava Roupas Liquido Urca Azul - 5l",
+        "price": "33.66",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.13",
+        "sales": 2341,
+        "ratingStar": "4.9",
+        "shopName": "Casa de Gê",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mp0x9oqly9z768",
+        "productLink": "https://shopee.com.br/product/534023108/11051183096",
+        "offerLink": "https://s.shopee.com.br/9046cIhjjL"
       },
       "_last_price": null
     },
