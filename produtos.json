@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T18:38:19.870555+00:00",
-  "total": 1126,
+  "updated_at": "2026-08-05T18:57:06.591937+00:00",
+  "total": 1124,
   "products": [
     {
       "id": "23698808886",
@@ -85,8 +85,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mpf8btxmai2u62",
         "productLink": "https://shopee.com.br/product/1739671384/58210104632",
         "offerLink": "https://s.shopee.com.br/3qM0QFPy0q"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "24683837124",
@@ -1042,6 +1041,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
         "productLink": "https://shopee.com.br/product/1266325318/21897981294",
         "offerLink": "https://s.shopee.com.br/AUswZiveQI"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23294866358",
+      "name": "Creatina DUX 300g - 100% Pura com SELO CREAPURE Reconhecido pela ANVISA",
+      "price": 49.0,
+      "original_price": 245.0,
+      "discount": 80.0,
+      "commission": 0.17,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mldt9agkd2x0c0",
+      "link": "https://s.shopee.com.br/111sqYc80x",
+      "rating": "4.9",
+      "sales": 710,
+      "shop": "NT-Wey",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23294866358,
+        "productName": "Creatina DUX 300g - 100% Pura com SELO CREAPURE Reconhecido pela ANVISA",
+        "price": "49",
+        "priceDiscountRate": 80,
+        "commissionRate": "0.17",
+        "sales": 710,
+        "ratingStar": "4.9",
+        "shopName": "NT-Wey",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mldt9agkd2x0c0",
+        "productLink": "https://shopee.com.br/product/1082873638/23294866358",
+        "offerLink": "https://s.shopee.com.br/111sqYc80x"
       },
       "_last_price": null
     },
@@ -2815,35 +2843,6 @@
       "_last_price": null
     },
     {
-      "id": "23593085144",
-      "name": "Creatina Pura Black Skull 10.58Oz 300G",
-      "price": 24.9,
-      "original_price": 85.86,
-      "discount": 71.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4e-lw75q0ait6mj08",
-      "link": "https://s.shopee.com.br/9pdEAZJKci",
-      "rating": "4.9",
-      "sales": 3433,
-      "shop": "Droga Clara",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23593085144,
-        "productName": "Creatina Pura Black Skull 10.58Oz 300G",
-        "price": "24.9",
-        "priceDiscountRate": 71,
-        "commissionRate": "0.03",
-        "sales": 3433,
-        "ratingStar": "4.9",
-        "shopName": "Droga Clara",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4e-lw75q0ait6mj08",
-        "productLink": "https://shopee.com.br/product/1045085918/23593085144",
-        "offerLink": "https://s.shopee.com.br/9pdEAZJKci"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22298024808",
       "name": "Casa Casinha Para Cachorro Pet N5 Com Colchonete - Unishop",
       "price": 59.99,
@@ -2869,7 +2868,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9sn5nirw2exdd",
         "productLink": "https://shopee.com.br/product/385342152/22298024808",
         "offerLink": "https://s.shopee.com.br/6fgBnVnEgK"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "54850610196",
@@ -3158,35 +3158,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mnzolhuki4n4c0",
         "productLink": "https://shopee.com.br/product/347988064/7078628796",
         "offerLink": "https://s.shopee.com.br/9V0NAhGmmK"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23494366358",
-      "name": "Creatina DUX 300g - 100% Pura com  SELO CREAPURE Reconhecido pela ANVISA",
-      "price": 52.89,
-      "original_price": 176.3,
-      "discount": 70.0,
-      "commission": 0.21,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj023getz75v28",
-      "link": "https://s.shopee.com.br/6L3PO2T5Gd",
-      "rating": "4.9",
-      "sales": 1185,
-      "shop": "Dermavitale.ofc",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23494366358,
-        "productName": "Creatina DUX 300g - 100% Pura com  SELO CREAPURE Reconhecido pela ANVISA",
-        "price": "52.89",
-        "priceDiscountRate": 70,
-        "commissionRate": "0.21",
-        "sales": 1185,
-        "ratingStar": "4.9",
-        "shopName": "Dermavitale.ofc",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj023getz75v28",
-        "productLink": "https://shopee.com.br/product/905800445/23494366358",
-        "offerLink": "https://s.shopee.com.br/6L3PO2T5Gd"
       },
       "_last_price": null
     },
@@ -14547,8 +14518,8 @@
     {
       "id": "22297767438",
       "name": "Camera Externa Ip a Prova D'água Wifi Dupla 2 Em 1 com Visao Noturna C/ Infravermelho monitor-G1",
-      "price": 132.65,
-      "original_price": 260.1,
+      "price": 134.99,
+      "original_price": 264.69,
       "discount": 49.0,
       "commission": 0.1,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-metgrkrg2br777",
@@ -14561,7 +14532,7 @@
       "_item": {
         "itemId": 22297767438,
         "productName": "Camera Externa Ip a Prova D'água Wifi Dupla 2 Em 1 com Visao Noturna C/ Infravermelho monitor-G1",
-        "price": "132.65",
+        "price": "134.99",
         "priceDiscountRate": 49,
         "commissionRate": "0.1",
         "sales": 2234,
@@ -16467,7 +16438,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825a5-mqmqpo2wuq6je7",
       "link": "https://s.shopee.com.br/Lm8Fr7Ln0",
-      "rating": "5",
+      "rating": "4.8",
       "sales": 3,
       "shop": "sundance.br",
       "category": "haltere",
@@ -16479,7 +16450,7 @@
         "priceDiscountRate": 47,
         "commissionRate": "0.03",
         "sales": 3,
-        "ratingStar": "5",
+        "ratingStar": "4.8",
         "shopName": "sundance.br",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a5-mqmqpo2wuq6je7",
         "productLink": "https://shopee.com.br/product/1229081676/40130550330",
@@ -25823,35 +25794,6 @@
       "_last_price": null
     },
     {
-      "id": "22091082363",
-      "name": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
-      "price": 15.44,
-      "original_price": 22.38,
-      "discount": 31.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mghzxpo3fdaf1b",
-      "link": "https://s.shopee.com.br/20uMEsWwjf",
-      "rating": "4.9",
-      "sales": 4463,
-      "shop": "mypetone",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22091082363,
-        "productName": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
-        "price": "15.44",
-        "priceDiscountRate": 31,
-        "commissionRate": "0.07",
-        "sales": 4463,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mghzxpo3fdaf1b",
-        "productLink": "https://shopee.com.br/product/290073877/22091082363",
-        "offerLink": "https://s.shopee.com.br/20uMEsWwjf"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23099318034",
       "name": "Kit Shampoo e Condicionador SOS Bomba Original 500ml Salon Line",
       "price": 42.0,
@@ -31373,7 +31315,7 @@
       "rating": "4.9",
       "sales": 3393,
       "shop": "Salon Line",
-      "category": "condicionador",
+      "category": "shampoo",
       "source": "shopee",
       "_item": {
         "itemId": 18156375729,
