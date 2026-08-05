@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T13:36:41.318604+00:00",
-  "total": 1120,
+  "updated_at": "2026-08-05T13:55:30.392092+00:00",
+  "total": 1125,
   "products": [
     {
       "id": "23698808886",
@@ -3933,8 +3933,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra1a-mbjbbhgogn4q6c",
         "productLink": "https://shopee.com.br/product/1398716274/23494180407",
         "offerLink": "https://s.shopee.com.br/7VFIn5myZ6"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "40856507262",
@@ -4815,7 +4814,7 @@
       "commission": 0.23,
       "image": "https://cf.shopee.com.br/file/br-11134201-820lv-mqxcc2tl2yh320",
       "link": "https://s.shopee.com.br/BSi3VMG60",
-      "rating": "4.5",
+      "rating": "4.4",
       "sales": 5450,
       "shop": "INFINITY COMERCIO DE VARIEDADES",
       "category": "pano microfibra",
@@ -4827,7 +4826,7 @@
         "priceDiscountRate": 66,
         "commissionRate": "0.23",
         "sales": 5450,
-        "ratingStar": "4.5",
+        "ratingStar": "4.4",
         "shopName": "INFINITY COMERCIO DE VARIEDADES",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lv-mqxcc2tl2yh320",
         "productLink": "https://shopee.com.br/product/1003085235/20298963209",
@@ -8838,35 +8837,6 @@
       "_last_price": null
     },
     {
-      "id": "22598932320",
-      "name": "Relógio De Pulso Digital à Pprova De água Para Homem Cronógrafo LED Pulseira Desportiva Casual Em Silicone",
-      "price": 25.49,
-      "original_price": 60.69,
-      "discount": 58.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mr5ati25mryf8b",
-      "link": "https://s.shopee.com.br/9Kh0r8bdxU",
-      "rating": "4.8",
-      "sales": 1230,
-      "shop": "MagiLeaf Wild",
-      "category": "relogio masculino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22598932320,
-        "productName": "Relógio De Pulso Digital à Pprova De água Para Homem Cronógrafo LED Pulseira Desportiva Casual Em Silicone",
-        "price": "25.49",
-        "priceDiscountRate": 58,
-        "commissionRate": "0.11",
-        "sales": 1230,
-        "ratingStar": "4.8",
-        "shopName": "MagiLeaf Wild",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mr5ati25mryf8b",
-        "productLink": "https://shopee.com.br/product/1600162028/22598932320",
-        "offerLink": "https://s.shopee.com.br/9Kh0r8bdxU"
-      },
-      "_last_price": null
-    },
-    {
       "id": "42659281125",
       "name": "Óculos De Sol Ovais Vintage Com Proteção UV400 , Armação De Metal Para Mulheres E Homens",
       "price": 13.78,
@@ -11623,7 +11593,7 @@
     },
     {
       "id": "20298322054",
-      "name": "Kit Creatina Monohidratada + Pré Treino Evolution 300g  Kit Força e Performance - Soldiers Nutrition",
+      "name": "Kit Creatina Monohidratada + Pré Treino Evolution 300g  Aminoácidos Essenciais - Soldiers Nutrition",
       "price": 69.9,
       "original_price": 148.72,
       "discount": 53.0,
@@ -11637,7 +11607,7 @@
       "source": "shopee",
       "_item": {
         "itemId": 20298322054,
-        "productName": "Kit Creatina Monohidratada + Pré Treino Evolution 300g  Kit Força e Performance - Soldiers Nutrition",
+        "productName": "Kit Creatina Monohidratada + Pré Treino Evolution 300g  Aminoácidos Essenciais - Soldiers Nutrition",
         "price": "69.9",
         "priceDiscountRate": 53,
         "commissionRate": "0.15",
@@ -19742,6 +19712,35 @@
       "_last_price": null
     },
     {
+      "id": "22094694540",
+      "name": "Ração Úmida Sachê Frango ao Molho 100g para Cães Adultos Pedigree",
+      "price": 2.89,
+      "original_price": 4.98,
+      "discount": 42.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-821ey-mh21l6d9y96y34",
+      "link": "https://s.shopee.com.br/9fJrAUw8Ya",
+      "rating": "4.9",
+      "sales": 455,
+      "shop": "Chegô",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22094694540,
+        "productName": "Ração Úmida Sachê Frango ao Molho 100g para Cães Adultos Pedigree",
+        "price": "2.89",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.03",
+        "sales": 455,
+        "ratingStar": "4.9",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ey-mh21l6d9y96y34",
+        "productLink": "https://shopee.com.br/product/1248266601/22094694540",
+        "offerLink": "https://s.shopee.com.br/9fJrAUw8Ya"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22298591472",
       "name": "Ração Quatree Gourmet Gatos 10,1Kg",
       "price": 121.55,
@@ -20985,6 +20984,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfeeh9tbdmv49d",
         "productLink": "https://shopee.com.br/product/1242044379/22498685992",
         "offerLink": "https://s.shopee.com.br/3qM2p4pltu"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58200628539",
+      "name": "Ração Úmida Sachê High Protein Cães Adultos Carne e Frango 85g Pedigree",
+      "price": 2.99,
+      "original_price": 4.98,
+      "discount": 40.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-821er-mh228199vnym8a",
+      "link": "https://s.shopee.com.br/8KoTa31DGS",
+      "rating": "5",
+      "sales": 450,
+      "shop": "Chegô",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58200628539,
+        "productName": "Ração Úmida Sachê High Protein Cães Adultos Carne e Frango 85g Pedigree",
+        "price": "2.99",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 450,
+        "ratingStar": "5",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821er-mh228199vnym8a",
+        "productLink": "https://shopee.com.br/product/1248266601/58200628539",
+        "offerLink": "https://s.shopee.com.br/8KoTa31DGS"
       },
       "_last_price": null
     },
@@ -22319,6 +22347,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r8-mp4n5zizxs7f75",
         "productLink": "https://shopee.com.br/product/1006215031/25721342244",
         "offerLink": "https://s.shopee.com.br/5VUEPP8T3h"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "24754408104",
+      "name": "Relógio Masculino Novo Bracelete Original Conjunto De Relógios Masculinos Moda Presentes Em Aço Inoxidável",
+      "price": 14.89,
+      "original_price": 24.02,
+      "discount": 38.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rblr-lnh90qw90azw09",
+      "link": "https://s.shopee.com.br/AUsuMapQut",
+      "rating": "4.7",
+      "sales": 1707,
+      "shop": "Choice Oficial",
+      "category": "relogio masculino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 24754408104,
+        "productName": "Relógio Masculino Novo Bracelete Original Conjunto De Relógios Masculinos Moda Presentes Em Aço Inoxidável",
+        "price": "14.89",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.07",
+        "sales": 1707,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rblr-lnh90qw90azw09",
+        "productLink": "https://shopee.com.br/product/1006215031/24754408104",
+        "offerLink": "https://s.shopee.com.br/AUsuMapQut"
       },
       "_last_price": null
     },
@@ -24121,6 +24178,35 @@
       "_last_price": null
     },
     {
+      "id": "19698336562",
+      "name": "Sachê para Gato de Atum Premier Pet 70G Premier",
+      "price": 6.49,
+      "original_price": 9.98,
+      "discount": 35.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825b7-mg5iq6d437d8c0",
+      "link": "https://s.shopee.com.br/1qaw2csA3x",
+      "rating": "5",
+      "sales": 1867,
+      "shop": "Chegô",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19698336562,
+        "productName": "Sachê para Gato de Atum Premier Pet 70G Premier",
+        "price": "6.49",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.03",
+        "sales": 1867,
+        "ratingStar": "5",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b7-mg5iq6d437d8c0",
+        "productLink": "https://shopee.com.br/product/1248266601/19698336562",
+        "offerLink": "https://s.shopee.com.br/1qaw2csA3x"
+      },
+      "_last_price": null
+    },
+    {
       "id": "54302551381",
       "name": "Liquidificador Oster 127V 3,2 Litros 15 Velocidades + Pulsar - Preto",
       "price": 194.99,
@@ -25074,6 +25160,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfm0moxiz9f14",
         "productLink": "https://shopee.com.br/product/1501485889/22693876209",
         "offerLink": "https://s.shopee.com.br/1gHVqJsnOu"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22299071731",
+      "name": "Ração Úmida para Gatos Adultos Sabor Atum Gourmet 70G Golden",
+      "price": 2.69,
+      "original_price": 4.01,
+      "discount": 33.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825b9-mg5kdxhwvw2605",
+      "link": "https://s.shopee.com.br/8KoTa3Ik8j",
+      "rating": "5",
+      "sales": 1389,
+      "shop": "Chegô",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22299071731,
+        "productName": "Ração Úmida para Gatos Adultos Sabor Atum Gourmet 70G Golden",
+        "price": "2.69",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.03",
+        "sales": 1389,
+        "ratingStar": "5",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b9-mg5kdxhwvw2605",
+        "productLink": "https://shopee.com.br/product/1248266601/22299071731",
+        "offerLink": "https://s.shopee.com.br/8KoTa3Ik8j"
       },
       "_last_price": null
     },
@@ -26350,6 +26465,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rasn-man7dwuzomle57",
         "productLink": "https://shopee.com.br/product/1194006916/19699443228",
         "offerLink": "https://s.shopee.com.br/9V0QyBwltb"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23394548748",
+      "name": "Ração Úmida para Gatos Adultos Castrados Gourmet Sabor Carne 70G Golden",
+      "price": 2.79,
+      "original_price": 3.99,
+      "discount": 30.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82581-mg5kg5f074so75",
+      "link": "https://s.shopee.com.br/9zwhZ7COl9",
+      "rating": "4.9",
+      "sales": 981,
+      "shop": "Chegô",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23394548748,
+        "productName": "Ração Úmida para Gatos Adultos Castrados Gourmet Sabor Carne 70G Golden",
+        "price": "2.79",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.03",
+        "sales": 981,
+        "ratingStar": "4.9",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82581-mg5kg5f074so75",
+        "productLink": "https://shopee.com.br/product/1248266601/23394548748",
+        "offerLink": "https://s.shopee.com.br/9zwhZ7COl9"
       },
       "_last_price": null
     },
@@ -28007,6 +28151,35 @@
       "_last_price": null
     },
     {
+      "id": "22494696420",
+      "name": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
+      "price": 31.69,
+      "original_price": 42.82,
+      "discount": 26.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3zupa92neo67",
+      "link": "https://s.shopee.com.br/5q78bSAjKj",
+      "rating": "4.9",
+      "sales": 940,
+      "shop": "Chegô",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22494696420,
+        "productName": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
+        "price": "31.69",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.03",
+        "sales": 940,
+        "ratingStar": "4.9",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3zupa92neo67",
+        "productLink": "https://shopee.com.br/product/1248266601/22494696420",
+        "offerLink": "https://s.shopee.com.br/5q78bSAjKj"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58259794589",
       "name": "Ração Gato MiaCat 10,1kg Todas As Raças Filhote e Adulto 27g Proteína Sem Corante",
       "price": 73.59,
@@ -29087,7 +29260,7 @@
       "discount": 24.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgf18m8srymc9c",
-      "link": "https://s.shopee.com.br/5VUGmxHibw",
+      "link": "https://s.shopee.com.br/1Vy9eXqPZy",
       "rating": "4.9",
       "sales": 174,
       "shop": "FL Ship",
@@ -29104,7 +29277,7 @@
         "shopName": "FL Ship",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgf18m8srymc9c",
         "productLink": "https://shopee.com.br/product/1218728182/58200135776",
-        "offerLink": "https://s.shopee.com.br/5VUGmxHibw"
+        "offerLink": "https://s.shopee.com.br/1Vy9eXqPZy"
       },
       "_last_price": null
     },
@@ -29806,7 +29979,7 @@
     },
     {
       "id": "22593481622",
-      "name": "Kit Whey Protein Primal 1kg + Creatina 500g Performance e Recuperação Pós-Treino - Soldiers Nutrition",
+      "name": "Kit Whey Protein Primal 1kg + Creatina 500g 100% Pura - Soldiers Nutrition",
       "price": 99.9,
       "original_price": 126.46,
       "discount": 21.0,
@@ -29820,7 +29993,7 @@
       "source": "shopee",
       "_item": {
         "itemId": 22593481622,
-        "productName": "Kit Whey Protein Primal 1kg + Creatina 500g Performance e Recuperação Pós-Treino - Soldiers Nutrition",
+        "productName": "Kit Whey Protein Primal 1kg + Creatina 500g 100% Pura - Soldiers Nutrition",
         "price": "99.9",
         "priceDiscountRate": 21,
         "commissionRate": "0.15",
@@ -29830,35 +30003,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mrgdkfdeckckaa",
         "productLink": "https://shopee.com.br/product/347988064/22593481622",
         "offerLink": "https://s.shopee.com.br/9pdHYTFlAE"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22494696420",
-      "name": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
-      "price": 34.09,
-      "original_price": 43.15,
-      "discount": 21.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3zupa92neo67",
-      "link": "https://s.shopee.com.br/5q78bSAjKj",
-      "rating": "4.9",
-      "sales": 940,
-      "shop": "Chegô",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22494696420,
-        "productName": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
-        "price": "34.09",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.03",
-        "sales": 940,
-        "ratingStar": "4.9",
-        "shopName": "Chegô",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3zupa92neo67",
-        "productLink": "https://shopee.com.br/product/1248266601/22494696420",
-        "offerLink": "https://s.shopee.com.br/5q78bSAjKj"
       },
       "_last_price": null
     },
@@ -31750,8 +31894,8 @@
     {
       "id": "10971341240",
       "name": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente",
-      "price": 132.9,
-      "original_price": 158.21,
+      "price": 140.9,
+      "original_price": 167.74,
       "discount": 16.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mq56ui3fgwled9",
@@ -31764,7 +31908,7 @@
       "_item": {
         "itemId": 10971341240,
         "productName": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente",
-        "price": "132.9",
+        "price": "140.9",
         "priceDiscountRate": 16,
         "commissionRate": "0.07",
         "sales": 913,
