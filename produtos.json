@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T02:19:40.107853+00:00",
-  "total": 1126,
+  "updated_at": "2026-08-05T02:38:24.912926+00:00",
+  "total": 1125,
   "products": [
     {
       "id": "23698808886",
@@ -946,7 +946,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b5-mr8gyqsp0av57f",
         "productLink": "https://shopee.com.br/product/1006215031/53604373378",
         "offerLink": "https://s.shopee.com.br/4fv7Pn9GD7"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21897981294",
@@ -1606,8 +1607,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823oc-mpcmkv5yn56z8d",
         "productLink": "https://shopee.com.br/product/344381236/42931642321",
         "offerLink": "https://s.shopee.com.br/40fQcUr8lU"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58211974133",
@@ -8076,35 +8076,6 @@
       "_last_price": null
     },
     {
-      "id": "20299321793",
-      "name": "1/2/3 Suporte De Shampoo Preto Organizador Alta qualidade Prateleira De Banheiro Sem Furo Premium-Space Alumínio ES",
-      "price": 14.27,
-      "original_price": 34.8,
-      "discount": 59.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134211-81zum-mko49067dddu01",
-      "link": "https://s.shopee.com.br/Lm8FodI7N",
-      "rating": "4.8",
-      "sales": 4619,
-      "shop": "ES Official Shop",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20299321793,
-        "productName": "1/2/3 Suporte De Shampoo Preto Organizador Alta qualidade Prateleira De Banheiro Sem Furo Premium-Space Alumínio ES",
-        "price": "14.27",
-        "priceDiscountRate": 59,
-        "commissionRate": "0.13",
-        "sales": 4619,
-        "ratingStar": "4.8",
-        "shopName": "ES Official Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-81zum-mko49067dddu01",
-        "productLink": "https://shopee.com.br/product/988030305/20299321793",
-        "offerLink": "https://s.shopee.com.br/Lm8FodI7N"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23098206585",
       "name": "Kit Com 2 Protetor Solar blackout Carro Infantil Para Carro Buba  Com Ventosa Protege Sol",
       "price": 15.8,
@@ -9526,35 +9497,6 @@
       "_last_price": null
     },
     {
-      "id": "58208800672",
-      "name": "KIT Teclado 100% mecânico Punk Esports Led+ mouse para jogos Um item obrigatório para os jogadores -H7",
-      "price": 175.99,
-      "original_price": 399.98,
-      "discount": 56.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mogo5wxoddz712",
-      "link": "https://s.shopee.com.br/7AcTBDzduw",
-      "rating": "4.8",
-      "sales": 223,
-      "shop": "jieke189",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58208800672,
-        "productName": "KIT Teclado 100% mecânico Punk Esports Led+ mouse para jogos Um item obrigatório para os jogadores -H7",
-        "price": "175.99",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.13",
-        "sales": 223,
-        "ratingStar": "4.8",
-        "shopName": "jieke189",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mogo5wxoddz712",
-        "productLink": "https://shopee.com.br/product/1721755090/58208800672",
-        "offerLink": "https://s.shopee.com.br/7AcTBDzduw"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58212984375",
       "name": "Cabo De Força Bipolar Tripolar ATX 1,5m Cabo Energia Monitor Fonte Computador Eletrónicos",
       "price": 9.99,
@@ -10160,6 +10102,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyaushhh43q14",
         "productLink": "https://shopee.com.br/product/234308900/23393395960",
         "offerLink": "https://s.shopee.com.br/3VjA1Zt2mL"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58208800672",
+      "name": "KIT Teclado 100% mecânico Punk Esports Led+ mouse para jogos Um item obrigatório para os jogadores -H7",
+      "price": 179.99,
+      "original_price": 399.98,
+      "discount": 55.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mogo5wxoddz712",
+      "link": "https://s.shopee.com.br/7AcTBDzduw",
+      "rating": "4.8",
+      "sales": 223,
+      "shop": "jieke189",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58208800672,
+        "productName": "KIT Teclado 100% mecânico Punk Esports Led+ mouse para jogos Um item obrigatório para os jogadores -H7",
+        "price": "179.99",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.13",
+        "sales": 223,
+        "ratingStar": "4.8",
+        "shopName": "jieke189",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mogo5wxoddz712",
+        "productLink": "https://shopee.com.br/product/1721755090/58208800672",
+        "offerLink": "https://s.shopee.com.br/7AcTBDzduw"
       },
       "_last_price": null
     },
@@ -17008,6 +16979,35 @@
       "_last_price": null
     },
     {
+      "id": "20299321793",
+      "name": "1/2/3 Suporte De Shampoo Preto Organizador Alta qualidade Prateleira De Banheiro Sem Furo Premium-Space Alumínio ES",
+      "price": 19.0,
+      "original_price": 35.19,
+      "discount": 46.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134211-81zum-mko49067dddu01",
+      "link": "https://s.shopee.com.br/Lm8FodI7N",
+      "rating": "4.8",
+      "sales": 4619,
+      "shop": "ES Official Shop",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20299321793,
+        "productName": "1/2/3 Suporte De Shampoo Preto Organizador Alta qualidade Prateleira De Banheiro Sem Furo Premium-Space Alumínio ES",
+        "price": "19",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.13",
+        "sales": 4619,
+        "ratingStar": "4.8",
+        "shopName": "ES Official Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-81zum-mko49067dddu01",
+        "productLink": "https://shopee.com.br/product/988030305/20299321793",
+        "offerLink": "https://s.shopee.com.br/Lm8FodI7N"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58204434373",
       "name": "VENTO LIVRE Garrafa Térmica Dopaminérgica 1000ml Aço 316 com Canudo, que pode ser usada como haltere",
       "price": 95.9,
@@ -19643,6 +19643,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mos9zhznbojkdc",
         "productLink": "https://shopee.com.br/product/1552273518/58206660891",
         "offerLink": "https://s.shopee.com.br/4qEXc7LQ9o"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22094694540",
+      "name": "Ração Úmida Sachê Frango ao Molho 100g para Cães Adultos Pedigree",
+      "price": 2.89,
+      "original_price": 4.98,
+      "discount": 42.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-821ey-mh21l6d9y96y34",
+      "link": "https://s.shopee.com.br/Lm8FrgPVM",
+      "rating": "4.9",
+      "sales": 455,
+      "shop": "Chegô",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22094694540,
+        "productName": "Ração Úmida Sachê Frango ao Molho 100g para Cães Adultos Pedigree",
+        "price": "2.89",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.03",
+        "sales": 455,
+        "ratingStar": "4.9",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ey-mh21l6d9y96y34",
+        "productLink": "https://shopee.com.br/product/1248266601/22094694540",
+        "offerLink": "https://s.shopee.com.br/Lm8FrgPVM"
       },
       "_last_price": null
     },
@@ -30928,35 +30957,6 @@
       "_last_price": null
     },
     {
-      "id": "22398562405",
-      "name": "Ração Golden Special Cães Adultos Frango e Carne 15 kg",
-      "price": 140.9,
-      "original_price": 173.95,
-      "discount": 19.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-main4ts5zatr4b",
-      "link": "https://s.shopee.com.br/40fRtUb1Bs",
-      "rating": "4.9",
-      "sales": 469,
-      "shop": "CHICOBASA",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22398562405,
-        "productName": "Ração Golden Special Cães Adultos Frango e Carne 15 kg",
-        "price": "140.9",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.03",
-        "sales": 469,
-        "ratingStar": "4.9",
-        "shopName": "CHICOBASA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-main4ts5zatr4b",
-        "productLink": "https://shopee.com.br/product/1320930677/22398562405",
-        "offerLink": "https://s.shopee.com.br/40fRtUb1Bs"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22597014373",
       "name": "Kit 5 Iscas Artificial Soft Bait Tucunaré Traira Corvina",
       "price": 24.97,
@@ -32258,35 +32258,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94jcrcrark2dd",
         "productLink": "https://shopee.com.br/product/683952730/11086604605",
         "offerLink": "https://s.shopee.com.br/AKZUAAfhF7"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "11051183096",
-      "name": "Lava Roupas Liquido Urca Azul - 5l",
-      "price": 33.66,
-      "original_price": 39.6,
-      "discount": 15.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mp0x9oqly9z768",
-      "link": "https://s.shopee.com.br/9046cIhjjL",
-      "rating": "4.9",
-      "sales": 2341,
-      "shop": "Casa de Gê",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 11051183096,
-        "productName": "Lava Roupas Liquido Urca Azul - 5l",
-        "price": "33.66",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.13",
-        "sales": 2341,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mp0x9oqly9z768",
-        "productLink": "https://shopee.com.br/product/534023108/11051183096",
-        "offerLink": "https://s.shopee.com.br/9046cIhjjL"
       },
       "_last_price": null
     },
