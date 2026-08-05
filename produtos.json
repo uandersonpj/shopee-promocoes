@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T06:22:37.239878+00:00",
+  "updated_at": "2026-08-05T06:41:17.466290+00:00",
   "total": 1126,
   "products": [
     {
@@ -1072,7 +1072,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
         "productLink": "https://shopee.com.br/product/972031390/21997150349",
         "offerLink": "https://s.shopee.com.br/7KvsakJl31"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58251235467",
@@ -15915,6 +15916,35 @@
       "_last_price": null
     },
     {
+      "id": "22798712425",
+      "name": "Kit De Pesca Completo 1 Vara Telescópica 12 Lbs + 1 Molinete Com Linha - Acessórios Iscas, Anzóis, Chumbadas",
+      "price": 39.0,
+      "original_price": 75.0,
+      "discount": 48.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk0gdyplhfy878",
+      "link": "https://s.shopee.com.br/60QVoaJFH4",
+      "rating": "4.7",
+      "sales": 67,
+      "shop": "HK  STORE",
+      "category": "chumbada",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22798712425,
+        "productName": "Kit De Pesca Completo 1 Vara Telescópica 12 Lbs + 1 Molinete Com Linha - Acessórios Iscas, Anzóis, Chumbadas",
+        "price": "39",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.08",
+        "sales": 67,
+        "ratingStar": "4.7",
+        "shopName": "HK  STORE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk0gdyplhfy878",
+        "productLink": "https://shopee.com.br/product/1267134569/22798712425",
+        "offerLink": "https://s.shopee.com.br/60QVoaJFH4"
+      },
+      "_last_price": null
+    },
+    {
       "id": "41601446410",
       "name": "Proteção Solar Respirável Flexível Unissex Luvas De Motocicleta Para Ciclismo Pesca Condução Atividades Ao Ar Livre",
       "price": 11.21,
@@ -19391,35 +19421,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h3-me67r2ops4qq66",
         "productLink": "https://shopee.com.br/product/296745639/22594371178",
         "offerLink": "https://s.shopee.com.br/5ArO0q8O6k"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22798712425",
-      "name": "Kit De Pesca Completo 1 Vara Telescópica 12 Lbs + 1 Molinete Com Linha - Acessórios Iscas, Anzóis, Chumbadas",
-      "price": 39.0,
-      "original_price": 68.42,
-      "discount": 43.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk0gdyplhfy878",
-      "link": "https://s.shopee.com.br/60QVoaJFH4",
-      "rating": "4.7",
-      "sales": 67,
-      "shop": "HK  STORE",
-      "category": "chumbada",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22798712425,
-        "productName": "Kit De Pesca Completo 1 Vara Telescópica 12 Lbs + 1 Molinete Com Linha - Acessórios Iscas, Anzóis, Chumbadas",
-        "price": "39",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.08",
-        "sales": 67,
-        "ratingStar": "4.7",
-        "shopName": "HK  STORE",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk0gdyplhfy878",
-        "productLink": "https://shopee.com.br/product/1267134569/22798712425",
-        "offerLink": "https://s.shopee.com.br/60QVoaJFH4"
       },
       "_last_price": null
     },
