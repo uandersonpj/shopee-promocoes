@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T16:40:33.635252+00:00",
-  "total": 1128,
+  "updated_at": "2026-08-10T16:59:34.618152+00:00",
+  "total": 1129,
   "products": [
     {
       "id": "23698808886",
@@ -1586,7 +1586,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mnwcoooh21a9da",
         "productLink": "https://shopee.com.br/product/1345043704/22693513091",
         "offerLink": "https://s.shopee.com.br/9pdNGgey2O"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "20499592472",
@@ -2218,8 +2219,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mnz5ipg57t3539",
         "productLink": "https://shopee.com.br/product/1634545368/23398908978",
         "offerLink": "https://s.shopee.com.br/20uVwENbSV"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "9212570285",
@@ -4564,35 +4564,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/53f59459dfc3354c7e77164c41c2a782",
         "productLink": "https://shopee.com.br/product/769957349/18737701536",
         "offerLink": "https://s.shopee.com.br/3LPtWmBdSZ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22594316058",
-      "name": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
-      "price": 22.99,
-      "original_price": 69.67,
-      "discount": 67.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
-      "link": "https://s.shopee.com.br/5VUOlvWuhL",
-      "rating": "4.8",
-      "sales": 47,
-      "shop": "ATACADO PESCA E CIA",
-      "category": "chumbada",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22594316058,
-        "productName": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
-        "price": "22.99",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.07",
-        "sales": 47,
-        "ratingStar": "4.8",
-        "shopName": "ATACADO PESCA E CIA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
-        "productLink": "https://shopee.com.br/product/1595150949/22594316058",
-        "offerLink": "https://s.shopee.com.br/5VUOlvWuhL"
       },
       "_last_price": null
     },
@@ -10341,8 +10312,8 @@
     {
       "id": "22499197888",
       "name": "KIT CAPILAR MIX DE SILICONE SOUL 3 itens - SHAMPOO TURBO - CONDICIONADOR TURBO E MÁSCARA CAPILAR",
-      "price": 26.89,
-      "original_price": 59.76,
+      "price": 26.9,
+      "original_price": 59.78,
       "discount": 55.0,
       "commission": 0.11,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mr91da96uccn1a",
@@ -10355,7 +10326,7 @@
       "_item": {
         "itemId": 22499197888,
         "productName": "KIT CAPILAR MIX DE SILICONE SOUL 3 itens - SHAMPOO TURBO - CONDICIONADOR TURBO E MÁSCARA CAPILAR",
-        "price": "26.89",
+        "price": "26.9",
         "priceDiscountRate": 55,
         "commissionRate": "0.11",
         "sales": 2055,
@@ -16023,35 +15994,6 @@
       "_last_price": null
     },
     {
-      "id": "23294401619",
-      "name": "TV Inteligente Adaptador 300M Sem Fio USB Repetidor Wifi",
-      "price": 36.9,
-      "original_price": 69.62,
-      "discount": 47.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meu3eug7708z8a",
-      "link": "https://s.shopee.com.br/5fnoItXjPl",
-      "rating": "4.8",
-      "sales": 212,
-      "shop": "BAZAR MIXGO",
-      "category": "roteador wifi",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23294401619,
-        "productName": "TV Inteligente Adaptador 300M Sem Fio USB Repetidor Wifi",
-        "price": "36.9",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.13",
-        "sales": 212,
-        "ratingStar": "4.8",
-        "shopName": "BAZAR MIXGO",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meu3eug7708z8a",
-        "productLink": "https://shopee.com.br/product/675695527/23294401619",
-        "offerLink": "https://s.shopee.com.br/5fnoItXjPl"
-      },
-      "_last_price": null
-    },
-    {
       "id": "41365763294",
       "name": "Teclado Mecânico Gamer Teclado Computador Cinza 60% Hot Swap Switch Bronw Red ABNT2 USB Titorion",
       "price": 159.9,
@@ -19097,6 +19039,35 @@
       "_last_price": null
     },
     {
+      "id": "23294401619",
+      "name": "TV Inteligente Adaptador 300M Sem Fio USB Repetidor Wifi",
+      "price": 39.9,
+      "original_price": 70.0,
+      "discount": 43.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meu3eug7708z8a",
+      "link": "https://s.shopee.com.br/5fnoItXjPl",
+      "rating": "4.8",
+      "sales": 212,
+      "shop": "BAZAR MIXGO",
+      "category": "roteador wifi",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23294401619,
+        "productName": "TV Inteligente Adaptador 300M Sem Fio USB Repetidor Wifi",
+        "price": "39.9",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.13",
+        "sales": 212,
+        "ratingStar": "4.8",
+        "shopName": "BAZAR MIXGO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meu3eug7708z8a",
+        "productLink": "https://shopee.com.br/product/675695527/23294401619",
+        "offerLink": "https://s.shopee.com.br/5fnoItXjPl"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22897779540",
       "name": "Fonte atx 230w 400w 500w para pc computador bivolt Real Silenciosa",
       "price": 51.9,
@@ -20288,8 +20259,8 @@
     {
       "id": "58203174132",
       "name": "CASA CASINHA CACHORRO - CÃES -  PETS N8 N9 - PORTES MEDIOS - GRANDES | PRONTA ENTREGA",
-      "price": 162.99,
-      "original_price": 276.25,
+      "price": 197.0,
+      "original_price": 333.9,
       "discount": 41.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mr1pal9vi6fbaf",
@@ -20302,7 +20273,7 @@
       "_item": {
         "itemId": 58203174132,
         "productName": "CASA CASINHA CACHORRO - CÃES -  PETS N8 N9 - PORTES MEDIOS - GRANDES | PRONTA ENTREGA",
-        "price": "162.99",
+        "price": "197",
         "priceDiscountRate": 41,
         "commissionRate": "0.03",
         "sales": 568,
@@ -22461,35 +22432,6 @@
       "_last_price": null
     },
     {
-      "id": "24754408104",
-      "name": "Relógio Masculino Novo Bracelete Original Conjunto De Relógios Masculinos Moda Presentes Em Aço Inoxidável",
-      "price": 14.89,
-      "original_price": 24.02,
-      "discount": 38.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rblr-lnh90qw90azw09",
-      "link": "https://s.shopee.com.br/3qMCCRwwyn",
-      "rating": "4.7",
-      "sales": 1747,
-      "shop": "Choice Oficial",
-      "category": "relogio masculino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 24754408104,
-        "productName": "Relógio Masculino Novo Bracelete Original Conjunto De Relógios Masculinos Moda Presentes Em Aço Inoxidável",
-        "price": "14.89",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.07",
-        "sales": 1747,
-        "ratingStar": "4.7",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rblr-lnh90qw90azw09",
-        "productLink": "https://shopee.com.br/product/1006215031/24754408104",
-        "offerLink": "https://s.shopee.com.br/3qMCCRwwyn"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58254131228",
       "name": "faca automática retrátil com trava  aço inox  camping pesca",
       "price": 24.9,
@@ -22515,6 +22457,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzkbkxyzt3476",
         "productLink": "https://shopee.com.br/product/1409813841/58254131228",
         "offerLink": "https://s.shopee.com.br/5q7EVOwly7"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22994315476",
+      "name": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
+      "price": 24.8,
+      "original_price": 40.0,
+      "discount": 38.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdeq1dgsz93l52",
+      "link": "https://s.shopee.com.br/70JEAdvyOV",
+      "rating": "4.8",
+      "sales": 60,
+      "shop": "CLICK & VIVA",
+      "category": "chumbada",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22994315476,
+        "productName": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
+        "price": "24.8",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.07",
+        "sales": 60,
+        "ratingStar": "4.8",
+        "shopName": "CLICK & VIVA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdeq1dgsz93l52",
+        "productLink": "https://shopee.com.br/product/1594633180/22994315476",
+        "offerLink": "https://s.shopee.com.br/70JEAdvyOV"
       },
       "_last_price": null
     },
@@ -23426,7 +23397,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-82597-mqc7sqdc4wzl2b",
       "link": "https://s.shopee.com.br/111zmq1XBK",
-      "rating": "4.9",
+      "rating": "5",
       "sales": 230,
       "shop": "MarkPet",
       "category": "racao cachorro",
@@ -23438,7 +23409,7 @@
         "priceDiscountRate": 36,
         "commissionRate": "0.03",
         "sales": 230,
-        "ratingStar": "4.9",
+        "ratingStar": "5",
         "shopName": "MarkPet",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82597-mqc7sqdc4wzl2b",
         "productLink": "https://shopee.com.br/product/1777808991/58263775797",
@@ -28986,6 +28957,35 @@
       "_last_price": null
     },
     {
+      "id": "24754408104",
+      "name": "Relógio Masculino Novo Bracelete Original Conjunto De Relógios Masculinos Moda Presentes Em Aço Inoxidável",
+      "price": 17.89,
+      "original_price": 23.85,
+      "discount": 25.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rblr-lnh90qw90azw09",
+      "link": "https://s.shopee.com.br/3qMCCRwwyn",
+      "rating": "4.7",
+      "sales": 1747,
+      "shop": "Choice Oficial",
+      "category": "relogio masculino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 24754408104,
+        "productName": "Relógio Masculino Novo Bracelete Original Conjunto De Relógios Masculinos Moda Presentes Em Aço Inoxidável",
+        "price": "17.89",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.07",
+        "sales": 1747,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rblr-lnh90qw90azw09",
+        "productLink": "https://shopee.com.br/product/1006215031/24754408104",
+        "offerLink": "https://s.shopee.com.br/3qMCCRwwyn"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58259862503",
       "name": "Kit 10 Isca Artificial Camarão Artificial Silicone com Anzol",
       "price": 14.99,
@@ -32607,6 +32607,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb5cgpue0m8f54",
         "productLink": "https://shopee.com.br/product/320275364/6957639501",
         "offerLink": "https://s.shopee.com.br/20uVwK3NIJ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23798386277",
+      "name": "Colete Wave Jogá  Cores 110Kg 130Kg 150 Kg Flutuação Diversão Pesca Jetski Segurança",
+      "price": 157.25,
+      "original_price": 185.0,
+      "discount": 15.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mo3xu8ysj4zld4",
+      "link": "https://s.shopee.com.br/6L3XDf5S08",
+      "rating": "4.9",
+      "sales": 2,
+      "shop": "Pesca Animal",
+      "category": "salva vidas pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23798386277,
+        "productName": "Colete Wave Jogá  Cores 110Kg 130Kg 150 Kg Flutuação Diversão Pesca Jetski Segurança",
+        "price": "157.25",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.03",
+        "sales": 2,
+        "ratingStar": "4.9",
+        "shopName": "Pesca Animal",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mo3xu8ysj4zld4",
+        "productLink": "https://shopee.com.br/product/673159124/23798386277",
+        "offerLink": "https://s.shopee.com.br/6L3XDf5S08"
       },
       "_last_price": null
     },
