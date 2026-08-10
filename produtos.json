@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T18:15:39.317761+00:00",
+  "updated_at": "2026-08-10T18:34:40.619336+00:00",
   "total": 1131,
   "products": [
     {
@@ -637,6 +637,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mmi9yl6sf3ls65",
         "productLink": "https://shopee.com.br/product/1198407784/23497594302",
         "offerLink": "https://s.shopee.com.br/BSrkvFleQ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "57911938287",
+      "name": "Fonte ATX MSI 650W MAG 2.4 PCIE 80 Plus Bronze 306-7ZPAX39-HH9",
+      "price": 279.0,
+      "original_price": 1641.18,
+      "discount": 83.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
+      "link": "https://s.shopee.com.br/1gHfXYdgea",
+      "rating": "5",
+      "sales": 692,
+      "shop": "TNTinfoLoja",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57911938287,
+        "productName": "Fonte ATX MSI 650W MAG 2.4 PCIE 80 Plus Bronze 306-7ZPAX39-HH9",
+        "price": "279",
+        "priceDiscountRate": 83,
+        "commissionRate": "0.03",
+        "sales": 692,
+        "ratingStar": "5",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
+        "productLink": "https://shopee.com.br/product/344381236/57911938287",
+        "offerLink": "https://s.shopee.com.br/1gHfXYdgea"
       },
       "_last_price": null
     },
@@ -1302,7 +1331,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyp5enbirpg574",
         "productLink": "https://shopee.com.br/product/443105265/23897691943",
         "offerLink": "https://s.shopee.com.br/80Bj5JYg8q"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22492388439",
@@ -1732,35 +1762,6 @@
         "productLink": "https://shopee.com.br/product/483938660/23799125316",
         "offerLink": "https://s.shopee.com.br/6VMvIR3gkK"
       }
-    },
-    {
-      "id": "58263600194",
-      "name": "Fonte ATX 500W Knup KP-522 Bivolt 110V/220V Para PC Com Cabo",
-      "price": 119.9,
-      "original_price": 499.58,
-      "discount": 76.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mq6ni6tbrldu26",
-      "link": "https://s.shopee.com.br/8AVBsDtLly",
-      "rating": "4.7",
-      "sales": 21,
-      "shop": "SuperSegDT",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58263600194,
-        "productName": "Fonte ATX 500W Knup KP-522 Bivolt 110V/220V Para PC Com Cabo",
-        "price": "119.9",
-        "priceDiscountRate": 76,
-        "commissionRate": "0.03",
-        "sales": 21,
-        "ratingStar": "4.7",
-        "shopName": "SuperSegDT",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mq6ni6tbrldu26",
-        "productLink": "https://shopee.com.br/product/1757937031/58263600194",
-        "offerLink": "https://s.shopee.com.br/8AVBsDtLly"
-      },
-      "_last_price": null
     },
     {
       "id": "20398528613",
@@ -3868,8 +3869,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra1a-mbjbbhgogn4q6c",
         "productLink": "https://shopee.com.br/product/1398716274/23494180407",
         "offerLink": "https://s.shopee.com.br/5ArXi80WS9"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "40856507262",
@@ -6536,6 +6536,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mrbmz3bfev4539",
         "productLink": "https://shopee.com.br/product/1447668497/22398374434",
         "offerLink": "https://s.shopee.com.br/8AV9HUxLMU"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "46162754465",
+      "name": "Fonte Cooler Master ATX 3.1 750W MWE Gold 750 V3 PFC Ativo 80 Plus Gold Sem/Cabo",
+      "price": 419.0,
+      "original_price": 1102.63,
+      "discount": 62.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824i5-mputbkgbcg759a",
+      "link": "https://s.shopee.com.br/50Y7VgQztQ",
+      "rating": "4.4",
+      "sales": 56,
+      "shop": "TNTinfoLoja",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 46162754465,
+        "productName": "Fonte Cooler Master ATX 3.1 750W MWE Gold 750 V3 PFC Ativo 80 Plus Gold Sem/Cabo",
+        "price": "419",
+        "priceDiscountRate": 62,
+        "commissionRate": "0.03",
+        "sales": 56,
+        "ratingStar": "4.4",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i5-mputbkgbcg759a",
+        "productLink": "https://shopee.com.br/product/344381236/46162754465",
+        "offerLink": "https://s.shopee.com.br/50Y7VgQztQ"
       },
       "_last_price": null
     },
@@ -9411,6 +9440,35 @@
       "_last_price": null
     },
     {
+      "id": "58212984375",
+      "name": "Cabo De Força Bipolar Tripolar ATX 1,5m Cabo Energia Monitor Fonte Computador Eletrónicos",
+      "price": 9.99,
+      "original_price": 22.7,
+      "discount": 56.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mpsb7eaiklj4a7",
+      "link": "https://s.shopee.com.br/1BLOwdfafZ",
+      "rating": "4.9",
+      "sales": 107,
+      "shop": "Tropical | Varejo | Atacado",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58212984375,
+        "productName": "Cabo De Força Bipolar Tripolar ATX 1,5m Cabo Energia Monitor Fonte Computador Eletrónicos",
+        "price": "9.99",
+        "priceDiscountRate": 56,
+        "commissionRate": "0.03",
+        "sales": 107,
+        "ratingStar": "4.9",
+        "shopName": "Tropical | Varejo | Atacado",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mpsb7eaiklj4a7",
+        "productLink": "https://shopee.com.br/product/452150155/58212984375",
+        "offerLink": "https://s.shopee.com.br/1BLOwdfafZ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "56504789067",
       "name": "Percabonato Perfumado Com Sabão em Pó 2kg 1kg",
       "price": 16.98,
@@ -10426,35 +10484,6 @@
       "_last_price": null
     },
     {
-      "id": "22098743002",
-      "name": "Tênis Unissex Skatista Casual Academia - Rosa, Cinza, Preto, Branco - 34 ao 43 - Resistente e confortável",
-      "price": 89.99,
-      "original_price": 199.98,
-      "discount": 55.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbphb37ke34p6f",
-      "link": "https://s.shopee.com.br/8AV9HcY2nt",
-      "rating": "4.9",
-      "sales": 3771,
-      "shop": "Orion Spolier",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22098743002,
-        "productName": "Tênis Unissex Skatista Casual Academia - Rosa, Cinza, Preto, Branco - 34 ao 43 - Resistente e confortável",
-        "price": "89.99",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.07",
-        "sales": 3771,
-        "ratingStar": "4.9",
-        "shopName": "Orion Spolier",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbphb37ke34p6f",
-        "productLink": "https://shopee.com.br/product/1186786093/22098743002",
-        "offerLink": "https://s.shopee.com.br/8AV9HcY2nt"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58255958592",
       "name": "Tênis Feminino Casual Blogueira Confortável e Estiloso Envio Rápido",
       "price": 49.89,
@@ -10625,6 +10654,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mmqtorx784jl5d",
         "productLink": "https://shopee.com.br/product/1412882242/58207485901",
         "offerLink": "https://s.shopee.com.br/6fgM8ZHR9l"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23799033529",
+      "name": "Fonte de Alimentação ATX 350W Real Silenciosa para PC com Cabo de Força Fortrek Knup KP-522",
+      "price": 64.96,
+      "original_price": 141.22,
+      "discount": 54.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfzf7uvntlacfc",
+      "link": "https://s.shopee.com.br/70JDy8wmxB",
+      "rating": "4.8",
+      "sales": 34,
+      "shop": "Ankco Shop",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23799033529,
+        "productName": "Fonte de Alimentação ATX 350W Real Silenciosa para PC com Cabo de Força Fortrek Knup KP-522",
+        "price": "64.96",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.07",
+        "sales": 34,
+        "ratingStar": "4.8",
+        "shopName": "Ankco Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfzf7uvntlacfc",
+        "productLink": "https://shopee.com.br/product/717396632/23799033529",
+        "offerLink": "https://s.shopee.com.br/70JDy8wmxB"
       },
       "_last_price": null
     },
@@ -11321,35 +11379,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkb1enn2l6v54e",
         "productLink": "https://shopee.com.br/product/359164659/58204629642",
         "offerLink": "https://s.shopee.com.br/W5kEBmCNJ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22994652008",
-      "name": "Fonte de Alimentação ATX 350W ou 500W Real Silenciosa para PC com Cabo de Força Fortrek Knup",
-      "price": 65.96,
-      "original_price": 140.34,
-      "discount": 53.0,
-      "commission": 0.06,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-821dw-mggwxuclnw9660",
-      "link": "https://s.shopee.com.br/8fRST8rRl9",
-      "rating": "5",
-      "sales": 21,
-      "shop": "NEZHA SHOP",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22994652008,
-        "productName": "Fonte de Alimentação ATX 350W ou 500W Real Silenciosa para PC com Cabo de Força Fortrek Knup",
-        "price": "65.96",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.06",
-        "sales": 21,
-        "ratingStar": "5",
-        "shopName": "NEZHA SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821dw-mggwxuclnw9660",
-        "productLink": "https://shopee.com.br/product/397374716/22994652008",
-        "offerLink": "https://s.shopee.com.br/8fRST8rRl9"
       },
       "_last_price": null
     },
@@ -13210,6 +13239,35 @@
       "_last_price": null
     },
     {
+      "id": "23894064438",
+      "name": "Fonte ATX 230W Bivolt Silenciosa para PC Desktop Escritório e Automação Comercial + Cabo de Energia",
+      "price": 49.9,
+      "original_price": 99.8,
+      "discount": 50.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjjze7avo4jq51",
+      "link": "https://s.shopee.com.br/3LPtWcXLHG",
+      "rating": "5",
+      "sales": 44,
+      "shop": "MixMania BR",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23894064438,
+        "productName": "Fonte ATX 230W Bivolt Silenciosa para PC Desktop Escritório e Automação Comercial + Cabo de Energia",
+        "price": "49.9",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.07",
+        "sales": 44,
+        "ratingStar": "5",
+        "shopName": "MixMania BR",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjjze7avo4jq51",
+        "productLink": "https://shopee.com.br/product/1447668497/23894064438",
+        "offerLink": "https://s.shopee.com.br/3LPtWcXLHG"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18298028063",
       "name": "Kit Dispenser Organizador Lavanderia 2,3 litros 1,5 Litros Acrílico (AMACIANTE, SABÃO EM PÓ)",
       "price": 32.45,
@@ -13496,35 +13554,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260n-ml4ey8056v45bd",
         "productLink": "https://shopee.com.br/product/1377920727/23799355108",
         "offerLink": "https://s.shopee.com.br/9V0Ws0v3Ek"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58259431409",
-      "name": "Whey Protein  3kg - Suplemento Alimentar Proteíco em Pó - Preparo Rápido - Academia e Fitness",
-      "price": 148.99,
-      "original_price": 297.98,
-      "discount": 50.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mnep977nekuc45",
-      "link": "https://s.shopee.com.br/111ykOj4tZ",
-      "rating": "4.8",
-      "sales": 882,
-      "shop": "azelsuplementos",
-      "category": "whey protein",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58259431409,
-        "productName": "Whey Protein  3kg - Suplemento Alimentar Proteíco em Pó - Preparo Rápido - Academia e Fitness",
-        "price": "148.99",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.03",
-        "sales": 882,
-        "ratingStar": "4.8",
-        "shopName": "azelsuplementos",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mnep977nekuc45",
-        "productLink": "https://shopee.com.br/product/1782930483/58259431409",
-        "offerLink": "https://s.shopee.com.br/111ykOj4tZ"
       },
       "_last_price": null
     },
@@ -14030,7 +14059,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-81zwl-mik0itb4iha8d8",
       "link": "https://s.shopee.com.br/80Bj5MkjcX",
-      "rating": "5",
+      "rating": "4.8",
       "sales": 70,
       "shop": "sanbin.br",
       "category": "colete salva vidas",
@@ -14042,7 +14071,7 @@
         "priceDiscountRate": 50,
         "commissionRate": "0.03",
         "sales": 70,
-        "ratingStar": "5",
+        "ratingStar": "4.8",
         "shopName": "sanbin.br",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zwl-mik0itb4iha8d8",
         "productLink": "https://shopee.com.br/product/1556486620/50003451685",
@@ -14482,6 +14511,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwyhw95lcpsiee",
         "productLink": "https://shopee.com.br/product/659727139/22397611141",
         "offerLink": "https://s.shopee.com.br/1BLOwhQm9Q"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58253165856",
+      "name": "Whey Protein  1kg - Suplemento Alimentar Proteíco em Pó - Preparo Rápido - Academia e Fitness",
+      "price": 59.8,
+      "original_price": 117.25,
+      "discount": 49.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820me-mrm4zh6y5l3b73",
+      "link": "https://s.shopee.com.br/AKZgTaL5mt",
+      "rating": "4.8",
+      "sales": 988,
+      "shop": "Carbon - Sports and Fitness",
+      "category": "whey protein",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58253165856,
+        "productName": "Whey Protein  1kg - Suplemento Alimentar Proteíco em Pó - Preparo Rápido - Academia e Fitness",
+        "price": "59.8",
+        "priceDiscountRate": 49,
+        "commissionRate": "0.07",
+        "sales": 988,
+        "ratingStar": "4.8",
+        "shopName": "Carbon - Sports and Fitness",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mrm4zh6y5l3b73",
+        "productLink": "https://shopee.com.br/product/964196467/58253165856",
+        "offerLink": "https://s.shopee.com.br/AKZgTaL5mt"
       },
       "_last_price": null
     },
@@ -15120,6 +15178,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mofwnibhd7gl70",
         "productLink": "https://shopee.com.br/product/393634986/3580493544",
         "offerLink": "https://s.shopee.com.br/5LAxuI887D"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58200187594",
+      "name": "Fonte Alimentação Pc Atx 350W Real Silenciosa com Cabo de Força Nova KP-517 Cinza Com Cabo",
+      "price": 64.96,
+      "original_price": 124.92,
+      "discount": 48.0,
+      "commission": 0.06,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-821fx-mggwxncc2yoec0",
+      "link": "https://s.shopee.com.br/7Kw4MkvWHD",
+      "rating": "4.9",
+      "sales": 49,
+      "shop": "NEZHA SHOP",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58200187594,
+        "productName": "Fonte Alimentação Pc Atx 350W Real Silenciosa com Cabo de Força Nova KP-517 Cinza Com Cabo",
+        "price": "64.96",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.06",
+        "sales": 49,
+        "ratingStar": "4.9",
+        "shopName": "NEZHA SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821fx-mggwxncc2yoec0",
+        "productLink": "https://shopee.com.br/product/397374716/58200187594",
+        "offerLink": "https://s.shopee.com.br/7Kw4MkvWHD"
       },
       "_last_price": null
     },
@@ -19387,35 +19474,6 @@
       "_last_price": null
     },
     {
-      "id": "58250511096",
-      "name": "Adaptador 180 Graus de Energia  8 Pinos para Placa de Vídeo GPU Conector Angulado para Fonte ATX  Cable Management",
-      "price": 25.99,
-      "original_price": 44.81,
-      "discount": 42.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mq58t3o5mj9db9",
-      "link": "https://s.shopee.com.br/9ANj43pXkC",
-      "rating": "4.5",
-      "sales": 19,
-      "shop": "LexRocks Infinity",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58250511096,
-        "productName": "Adaptador 180 Graus de Energia  8 Pinos para Placa de Vídeo GPU Conector Angulado para Fonte ATX  Cable Management",
-        "price": "25.99",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.03",
-        "sales": 19,
-        "ratingStar": "4.5",
-        "shopName": "LexRocks Infinity",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mq58t3o5mj9db9",
-        "productLink": "https://shopee.com.br/product/1145739576/58250511096",
-        "offerLink": "https://s.shopee.com.br/9ANj43pXkC"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22398897653",
       "name": "Kit Coala Laundry 3 Amaciantes - Chá Branco 1L",
       "price": 39.99,
@@ -20485,35 +20543,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mlnydq7fecxw56",
         "productLink": "https://shopee.com.br/product/599201107/22897779540",
         "offerLink": "https://s.shopee.com.br/4qEhJNRdER"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58250766884",
-      "name": "Rig Frame Suporte Placa Mãe CPU GPU e Fonte ATX Open Frame Bancada de Testes para PC Gamer Original",
-      "price": 39.9,
-      "original_price": 66.5,
-      "discount": 40.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mr60fkkbtwcl28",
-      "link": "https://s.shopee.com.br/8V82Gps560",
-      "rating": "4.6",
-      "sales": 27,
-      "shop": "FORNECEDOR TECH 3D",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58250766884,
-        "productName": "Rig Frame Suporte Placa Mãe CPU GPU e Fonte ATX Open Frame Bancada de Testes para PC Gamer Original",
-        "price": "39.9",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.13",
-        "sales": 27,
-        "ratingStar": "4.6",
-        "shopName": "FORNECEDOR TECH 3D",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mr60fkkbtwcl28",
-        "productLink": "https://shopee.com.br/product/1561460961/58250766884",
-        "offerLink": "https://s.shopee.com.br/8V82Gps560"
       },
       "_last_price": null
     },
@@ -21794,35 +21823,6 @@
       "_last_price": null
     },
     {
-      "id": "22998349138",
-      "name": "Fonte atx Seasonic 300W 80 Plus",
-      "price": 75.0,
-      "original_price": 120.97,
-      "discount": 38.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7pbe9d0oriae7",
-      "link": "https://s.shopee.com.br/8Koc4WsiQz",
-      "rating": "4.9",
-      "sales": 27,
-      "shop": "Lírio variedades",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22998349138,
-        "productName": "Fonte atx Seasonic 300W 80 Plus",
-        "price": "75",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.03",
-        "sales": 27,
-        "ratingStar": "4.9",
-        "shopName": "Lírio variedades",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7pbe9d0oriae7",
-        "productLink": "https://shopee.com.br/product/965583949/22998349138",
-        "offerLink": "https://s.shopee.com.br/8Koc4WsiQz"
-      },
-      "_last_price": null
-    },
-    {
       "id": "21299677651",
       "name": "BB CreamBase/Corretivo com Esponja com Formato de Cogumelo Base Clareador Maquiagem Creme Clareador Cor Marfim e Natural",
       "price": 27.66,
@@ -22722,6 +22722,35 @@
       "_last_price": null
     },
     {
+      "id": "22895975988",
+      "name": "Tênis Feminino casual confortável e leve para trabalho e lazer barato lançamento 2023",
+      "price": 37.9,
+      "original_price": 60.16,
+      "discount": 37.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-li3p8dqyzbzz7b",
+      "link": "https://s.shopee.com.br/5LAxuPipYa",
+      "rating": "4.8",
+      "sales": 2558,
+      "shop": "R.SHOESS",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22895975988,
+        "productName": "Tênis Feminino casual confortável e leve para trabalho e lazer barato lançamento 2023",
+        "price": "37.9",
+        "priceDiscountRate": 37,
+        "commissionRate": "0.13",
+        "sales": 2558,
+        "ratingStar": "4.8",
+        "shopName": "R.SHOESS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li3p8dqyzbzz7b",
+        "productLink": "https://shopee.com.br/product/426736090/22895975988",
+        "offerLink": "https://s.shopee.com.br/5LAxuPipYa"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22293624070",
       "name": "Mochila feminina Impermeável Luxo Couro Sintetico Grande, Moderna, Faculdade/Trabalho 2026",
       "price": 28.35,
@@ -23617,35 +23646,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262n-mkatw0ojynt448",
         "productLink": "https://shopee.com.br/product/1586952569/58204621954",
         "offerLink": "https://s.shopee.com.br/W5i9azgRr"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "41360062714",
-      "name": "Vara Telescópica Bamboo Strong Green Jaú Pesca de 1,80, 2,40m 3,00m 3,90m, 4,20m e 5,40m Pesca",
-      "price": 23.99,
-      "original_price": 37.48,
-      "discount": 36.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxq-mcknjtool2mr2d",
-      "link": "https://s.shopee.com.br/6pzlhEbZbR",
-      "rating": "4.8",
-      "sales": 123,
-      "shop": "JAUPESCA",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41360062714,
-        "productName": "Vara Telescópica Bamboo Strong Green Jaú Pesca de 1,80, 2,40m 3,00m 3,90m, 4,20m e 5,40m Pesca",
-        "price": "23.99",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.07",
-        "sales": 123,
-        "ratingStar": "4.8",
-        "shopName": "JAUPESCA",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxq-mcknjtool2mr2d",
-        "productLink": "https://shopee.com.br/product/954428278/41360062714",
-        "offerLink": "https://s.shopee.com.br/6pzlhEbZbR"
       },
       "_last_price": null
     },
@@ -27681,35 +27681,6 @@
       "_last_price": null
     },
     {
-      "id": "18498284404",
-      "name": "Fonte ATX 600W Tronos TRS/6350-SMT 24 Pinos Real – Alta Performance e Estabilidade",
-      "price": 130.65,
-      "original_price": 178.97,
-      "discount": 27.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbnuspwqlx2f8e",
-      "link": "https://s.shopee.com.br/7psLTbucS4",
-      "rating": "4.5",
-      "sales": 6,
-      "shop": "BESTBYBRASILGOLD",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18498284404,
-        "productName": "Fonte ATX 600W Tronos TRS/6350-SMT 24 Pinos Real – Alta Performance e Estabilidade",
-        "price": "130.65",
-        "priceDiscountRate": 27,
-        "commissionRate": "0.03",
-        "sales": 6,
-        "ratingStar": "4.5",
-        "shopName": "BESTBYBRASILGOLD",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbnuspwqlx2f8e",
-        "productLink": "https://shopee.com.br/product/1494297971/18498284404",
-        "offerLink": "https://s.shopee.com.br/7psLTbucS4"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22294282376",
       "name": "Dispenser Porta Detergente e Sabão Líquido com Suporte para Esponja Cozinha Compacto 500ml",
       "price": 16.8,
@@ -27938,35 +27909,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820mb-mqy3crbeg4cm59",
         "productLink": "https://shopee.com.br/product/1036192295/23199462739",
         "offerLink": "https://s.shopee.com.br/AKZfwGAlQ1"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "7758873696",
-      "name": "Fonte De Alimentação Atx Pc 750w Reais Gamer Super Silenciosa Bivolt + Cabo Energia Inmetro",
-      "price": 236.0,
-      "original_price": 318.92,
-      "discount": 26.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/a94b45cd2bbded3f5c8b6d788443149e",
-      "link": "https://s.shopee.com.br/70JEU4xn8r",
-      "rating": "4.9",
-      "sales": 13,
-      "shop": "Igkstore Comércio Eletrônico",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 7758873696,
-        "productName": "Fonte De Alimentação Atx Pc 750w Reais Gamer Super Silenciosa Bivolt + Cabo Energia Inmetro",
-        "price": "236",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.03",
-        "sales": 13,
-        "ratingStar": "4.9",
-        "shopName": "Igkstore Comércio Eletrônico",
-        "imageUrl": "https://cf.shopee.com.br/file/a94b45cd2bbded3f5c8b6d788443149e",
-        "productLink": "https://shopee.com.br/product/326424981/7758873696",
-        "offerLink": "https://s.shopee.com.br/70JEU4xn8r"
       },
       "_last_price": null
     },
@@ -29856,35 +29798,6 @@
       "_last_price": null
     },
     {
-      "id": "58204730418",
-      "name": "Fonte De Alimentação Atx Computador Pc Amd Intel 500w / 350W Bivolt  Aitek ATF-500 / ATF-350",
-      "price": 119.0,
-      "original_price": 150.63,
-      "discount": 21.0,
-      "commission": 0.05,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkcn09l6frpc3e",
-      "link": "https://s.shopee.com.br/904IrkqB5B",
-      "rating": "4.7",
-      "sales": 22,
-      "shop": "Lay Store Acessorios 2025",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58204730418,
-        "productName": "Fonte De Alimentação Atx Computador Pc Amd Intel 500w / 350W Bivolt  Aitek ATF-500 / ATF-350",
-        "price": "119",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.05",
-        "sales": 22,
-        "ratingStar": "4.7",
-        "shopName": "Lay Store Acessorios 2025",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkcn09l6frpc3e",
-        "productLink": "https://shopee.com.br/product/1618995852/58204730418",
-        "offerLink": "https://s.shopee.com.br/904IrkqB5B"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23796239641",
       "name": "Lava Roupas Liquido Urca Lavanda - 3L",
       "price": 19.9,
@@ -30929,35 +30842,6 @@
       "_last_price": null
     },
     {
-      "id": "23806708202",
-      "name": "Testador de Fonte de Alimentação Digital LCD 20 e 24 Pinos Atx Dex AT-01",
-      "price": 64.8,
-      "original_price": 80.0,
-      "discount": 19.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-22110-7wbt6cx8c7jv69",
-      "link": "https://s.shopee.com.br/80Blfutz6x",
-      "rating": "4.9",
-      "sales": 29,
-      "shop": "DC Shop Oficial",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23806708202,
-        "productName": "Testador de Fonte de Alimentação Digital LCD 20 e 24 Pinos Atx Dex AT-01",
-        "price": "64.8",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.03",
-        "sales": 29,
-        "ratingStar": "4.9",
-        "shopName": "DC Shop Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22110-7wbt6cx8c7jv69",
-        "productLink": "https://shopee.com.br/product/436699824/23806708202",
-        "offerLink": "https://s.shopee.com.br/80Blfutz6x"
-      },
-      "_last_price": null
-    },
-    {
       "id": "21297416198",
       "name": "Álcool Em Gel Higienizante Giovanna Baby Classic Rosa 500Ml",
       "price": 19.98,
@@ -31335,6 +31219,35 @@
       "_last_price": null
     },
     {
+      "id": "12823128886",
+      "name": "Creatina Monohidratada Integralmedica 60 cápsulas",
+      "price": 22.13,
+      "original_price": 26.99,
+      "discount": 18.0,
+      "commission": 0.18,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7renj-m2ckuwis1x9y28",
+      "link": "https://s.shopee.com.br/5fnoIyiuYj",
+      "rating": "4.9",
+      "sales": 1612,
+      "shop": "Integralmedica",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 12823128886,
+        "productName": "Creatina Monohidratada Integralmedica 60 cápsulas",
+        "price": "22.13",
+        "priceDiscountRate": 18,
+        "commissionRate": "0.18",
+        "sales": 1612,
+        "ratingStar": "4.9",
+        "shopName": "Integralmedica",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7renj-m2ckuwis1x9y28",
+        "productLink": "https://shopee.com.br/product/544014438/12823128886",
+        "offerLink": "https://s.shopee.com.br/5fnoIyiuYj"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21399703901",
       "name": "Kit Power Tube Elastico Musculação Crossfit pilates yoga fitness 11 Itens Funcional. - ZOEX",
       "price": 24.5,
@@ -31567,6 +31480,35 @@
       "_last_price": null
     },
     {
+      "id": "41360062714",
+      "name": "Vara Telescópica Bamboo Strong Green Jaú Pesca de 1,80, 2,40m 3,00m 3,90m, 4,20m e 5,40m Pesca",
+      "price": 37.23,
+      "original_price": 45.4,
+      "discount": 18.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxq-mcknjtool2mr2d",
+      "link": "https://s.shopee.com.br/6pzlhEbZbR",
+      "rating": "4.8",
+      "sales": 123,
+      "shop": "JAUPESCA",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41360062714,
+        "productName": "Vara Telescópica Bamboo Strong Green Jaú Pesca de 1,80, 2,40m 3,00m 3,90m, 4,20m e 5,40m Pesca",
+        "price": "37.23",
+        "priceDiscountRate": 18,
+        "commissionRate": "0.07",
+        "sales": 123,
+        "ratingStar": "4.8",
+        "shopName": "JAUPESCA",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxq-mcknjtool2mr2d",
+        "productLink": "https://shopee.com.br/product/954428278/41360062714",
+        "offerLink": "https://s.shopee.com.br/6pzlhEbZbR"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58254699445",
       "name": "Flutuador de Pesca Luminoso - Ideal para Pescadores Apaixonados",
       "price": 15.19,
@@ -31766,6 +31708,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mrk3wi4x7tvrfe",
         "productLink": "https://shopee.com.br/product/347988064/23697731904",
         "offerLink": "https://s.shopee.com.br/40faJuXenj"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23197376436",
+      "name": "Coleira World Dug's 17g Antipulgas para Cães - 56cm",
+      "price": 10.98,
+      "original_price": 13.23,
+      "discount": 17.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2oom1rsw242",
+      "link": "https://s.shopee.com.br/4fvH7ALNHU",
+      "rating": "4.9",
+      "sales": 2639,
+      "shop": "mypetone",
+      "category": "coleira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23197376436,
+        "productName": "Coleira World Dug's 17g Antipulgas para Cães - 56cm",
+        "price": "10.98",
+        "priceDiscountRate": 17,
+        "commissionRate": "0.11",
+        "sales": 2639,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2oom1rsw242",
+        "productLink": "https://shopee.com.br/product/290073877/23197376436",
+        "offerLink": "https://s.shopee.com.br/4fvH7ALNHU"
       },
       "_last_price": null
     },
@@ -32694,6 +32665,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb5cgpue0m8f54",
         "productLink": "https://shopee.com.br/product/320275364/6957639501",
         "offerLink": "https://s.shopee.com.br/20uVwK3NIJ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23798386277",
+      "name": "Colete Wave Jogá  Cores 110Kg 130Kg 150 Kg Flutuação Diversão Pesca Jetski Segurança",
+      "price": 157.25,
+      "original_price": 185.0,
+      "discount": 15.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mo3xu8ysj4zld4",
+      "link": "https://s.shopee.com.br/6L3XDf5S08",
+      "rating": "4.9",
+      "sales": 2,
+      "shop": "Pesca Animal",
+      "category": "salva vidas pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23798386277,
+        "productName": "Colete Wave Jogá  Cores 110Kg 130Kg 150 Kg Flutuação Diversão Pesca Jetski Segurança",
+        "price": "157.25",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.03",
+        "sales": 2,
+        "ratingStar": "4.9",
+        "shopName": "Pesca Animal",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mo3xu8ysj4zld4",
+        "productLink": "https://shopee.com.br/product/673159124/23798386277",
+        "offerLink": "https://s.shopee.com.br/6L3XDf5S08"
       },
       "_last_price": null
     },
