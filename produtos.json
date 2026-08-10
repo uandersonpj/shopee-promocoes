@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T18:34:40.619336+00:00",
-  "total": 1131,
+  "updated_at": "2026-08-10T18:53:44.640367+00:00",
+  "total": 1130,
   "products": [
     {
       "id": "23698808886",
@@ -1360,7 +1360,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm5-lln14dkqwcs917",
         "productLink": "https://shopee.com.br/product/504210070/22492388439",
         "offerLink": "https://s.shopee.com.br/2qTcvtdCLo"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22733755777",
@@ -4568,6 +4569,35 @@
       "_last_price": null
     },
     {
+      "id": "22594316058",
+      "name": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
+      "price": 22.99,
+      "original_price": 69.67,
+      "discount": 67.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
+      "link": "https://s.shopee.com.br/5VUOlvWuhL",
+      "rating": "4.8",
+      "sales": 47,
+      "shop": "ATACADO PESCA E CIA",
+      "category": "chumbada",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22594316058,
+        "productName": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
+        "price": "22.99",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.07",
+        "sales": 47,
+        "ratingStar": "4.8",
+        "shopName": "ATACADO PESCA E CIA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
+        "productLink": "https://shopee.com.br/product/1595150949/22594316058",
+        "offerLink": "https://s.shopee.com.br/5VUOlvWuhL"
+      },
+      "_last_price": null
+    },
+    {
       "id": "49602967544",
       "name": "Armadilha De Pesca LOVUR , Gaiola Com Corrente De Ferro Design Dobrável , Flutuador De Espuma , Peixe Peixinho De 4 Tama",
       "price": 53.02,
@@ -4796,8 +4826,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mj9nvm63moee73",
         "productLink": "https://shopee.com.br/product/1613783173/51004391053",
         "offerLink": "https://s.shopee.com.br/8V7zgBpiun"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23294180222",
@@ -7410,35 +7439,6 @@
       "_last_price": null
     },
     {
-      "id": "23394342239",
-      "name": "Teclado Mecanico TGT Sherman V3 C1, Rainbow, ABNT2, Switch Marrom, Preto, TGT-SHRC-BR01",
-      "price": 90.09,
-      "original_price": 225.22,
-      "discount": 60.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mqeqor4n0f7k82",
-      "link": "https://s.shopee.com.br/6fgNZWOir9",
-      "rating": "4.9",
-      "sales": 1902,
-      "shop": "Pichau",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23394342239,
-        "productName": "Teclado Mecanico TGT Sherman V3 C1, Rainbow, ABNT2, Switch Marrom, Preto, TGT-SHRC-BR01",
-        "price": "90.09",
-        "priceDiscountRate": 60,
-        "commissionRate": "0.03",
-        "sales": 1902,
-        "ratingStar": "4.9",
-        "shopName": "Pichau",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mqeqor4n0f7k82",
-        "productLink": "https://shopee.com.br/product/627750190/23394342239",
-        "offerLink": "https://s.shopee.com.br/6fgNZWOir9"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22194727361",
       "name": "Mouse Pad Gamer Personalizado Grande RGB Anime Heróis Exclusivo 80x30cm Confortável e Preciso !",
       "price": 15.96,
@@ -9005,6 +9005,35 @@
       "_last_price": null
     },
     {
+      "id": "45562032588",
+      "name": "Chaveiro Anti Estresse Teclado Mecânico Teclas Fidget Sensorial Clicker Qualidade",
+      "price": 12.99,
+      "original_price": 30.21,
+      "discount": 57.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mpcfv5asp72d3a",
+      "link": "https://s.shopee.com.br/1gHhcKhl0e",
+      "rating": "4.8",
+      "sales": 162,
+      "shop": "DVMIX",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 45562032588,
+        "productName": "Chaveiro Anti Estresse Teclado Mecânico Teclas Fidget Sensorial Clicker Qualidade",
+        "price": "12.99",
+        "priceDiscountRate": 57,
+        "commissionRate": "0.03",
+        "sales": 162,
+        "ratingStar": "4.8",
+        "shopName": "DVMIX",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mpcfv5asp72d3a",
+        "productLink": "https://shopee.com.br/product/1077830096/45562032588",
+        "offerLink": "https://s.shopee.com.br/1gHhcKhl0e"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22893962049",
       "name": "MousePad Grande 90x40 Desk Pad Couro Gamer Office",
       "price": 12.9,
@@ -9088,6 +9117,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mn1uzb42hx4yd8",
         "productLink": "https://shopee.com.br/product/1547995492/22198797147",
         "offerLink": "https://s.shopee.com.br/6L3VZflug2"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23397982095",
+      "name": "Expositor de Perfumes Cosméticos 3 Andares Multiuso Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza",
+      "price": 29.99,
+      "original_price": 69.74,
+      "discount": 57.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1qfaspn0ejuf9",
+      "link": "https://s.shopee.com.br/LmKaVHdru",
+      "rating": "5",
+      "sales": 3117,
+      "shop": "CASA RIOCHIQUE",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23397982095,
+        "productName": "Expositor de Perfumes Cosméticos 3 Andares Multiuso Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza",
+        "price": "29.99",
+        "priceDiscountRate": 57,
+        "commissionRate": "0.08",
+        "sales": 3117,
+        "ratingStar": "5",
+        "shopName": "CASA RIOCHIQUE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1qfaspn0ejuf9",
+        "productLink": "https://shopee.com.br/product/1103934359/23397982095",
+        "offerLink": "https://s.shopee.com.br/LmKaVHdru"
       },
       "_last_price": null
     },
@@ -10196,8 +10254,8 @@
     {
       "id": "42574800387",
       "name": "Kit Lavanderia Dispenser Mantimentos, Detergente, Amaciante e Produtos de Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha",
-      "price": 31.15,
-      "original_price": 69.22,
+      "price": 31.9,
+      "original_price": 70.89,
       "discount": 55.0,
       "commission": 0.1,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfy2okarbrpgf7",
@@ -10210,7 +10268,7 @@
       "_item": {
         "itemId": 42574800387,
         "productName": "Kit Lavanderia Dispenser Mantimentos, Detergente, Amaciante e Produtos de Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha",
-        "price": "31.15",
+        "price": "31.9",
         "priceDiscountRate": 55,
         "commissionRate": "0.1",
         "sales": 1086,
@@ -11727,6 +11785,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh56v1mbfpxcf7",
         "productLink": "https://shopee.com.br/product/1641676028/19198335914",
         "offerLink": "https://s.shopee.com.br/3qMA7kLmts"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23698804974",
+      "name": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
+      "price": 10.99,
+      "original_price": 22.9,
+      "discount": 52.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdc45e0lyosh2d",
+      "link": "https://s.shopee.com.br/BSrklofq9",
+      "rating": "4.9",
+      "sales": 9240,
+      "shop": "PAPEL.PAPELARIA",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23698804974,
+        "productName": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
+        "price": "10.99",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.08",
+        "sales": 9240,
+        "ratingStar": "4.9",
+        "shopName": "PAPEL.PAPELARIA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdc45e0lyosh2d",
+        "productLink": "https://shopee.com.br/product/1046010418/23698804974",
+        "offerLink": "https://s.shopee.com.br/BSrklofq9"
       },
       "_last_price": null
     },
@@ -16690,35 +16777,6 @@
       "_last_price": null
     },
     {
-      "id": "23698804974",
-      "name": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
-      "price": 10.99,
-      "original_price": 20.35,
-      "discount": 46.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdc45e0lyosh2d",
-      "link": "https://s.shopee.com.br/BSrklofq9",
-      "rating": "4.9",
-      "sales": 9240,
-      "shop": "PAPEL.PAPELARIA",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23698804974,
-        "productName": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
-        "price": "10.99",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.08",
-        "sales": 9240,
-        "ratingStar": "4.9",
-        "shopName": "PAPEL.PAPELARIA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdc45e0lyosh2d",
-        "productLink": "https://shopee.com.br/product/1046010418/23698804974",
-        "offerLink": "https://s.shopee.com.br/BSrklofq9"
-      },
-      "_last_price": null
-    },
-    {
       "id": "21299368624",
       "name": "Caderno 20 Matérias Universitário Capa Dura Com Preto Rosa Escolar Credeal",
       "price": 19.99,
@@ -20025,35 +20083,6 @@
       "_last_price": null
     },
     {
-      "id": "58262381524",
-      "name": "Kit 3 Perfumes Masculinos Malbec Nacional 100ml",
-      "price": 32.9,
-      "original_price": 55.76,
-      "discount": 41.0,
-      "commission": 0.16,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823qo-mpd38wcx998s13",
-      "link": "https://s.shopee.com.br/4VbquojHu4",
-      "rating": "3.9",
-      "sales": 1203,
-      "shop": "Manola Perfumaria",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58262381524,
-        "productName": "Kit 3 Perfumes Masculinos Malbec Nacional 100ml",
-        "price": "32.9",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.16",
-        "sales": 1203,
-        "ratingStar": "3.9",
-        "shopName": "Manola Perfumaria",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qo-mpd38wcx998s13",
-        "productLink": "https://shopee.com.br/product/1528288174/58262381524",
-        "offerLink": "https://s.shopee.com.br/4VbquojHu4"
-      },
-      "_last_price": null
-    },
-    {
       "id": "25689606519",
       "name": "CALÇA Sumikko fralda Ajustável total max M/G/XG 100 unidade Baby",
       "price": 129.0,
@@ -22312,35 +22341,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzkbkxyzt3476",
         "productLink": "https://shopee.com.br/product/1409813841/58254131228",
         "offerLink": "https://s.shopee.com.br/5q7EVOwly7"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22994315476",
-      "name": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
-      "price": 24.8,
-      "original_price": 40.0,
-      "discount": 38.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdeq1dgsz93l52",
-      "link": "https://s.shopee.com.br/70JEAdvyOV",
-      "rating": "4.8",
-      "sales": 60,
-      "shop": "CLICK & VIVA",
-      "category": "chumbada",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22994315476,
-        "productName": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
-        "price": "24.8",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.07",
-        "sales": 60,
-        "ratingStar": "4.8",
-        "shopName": "CLICK & VIVA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdeq1dgsz93l52",
-        "productLink": "https://shopee.com.br/product/1594633180/22994315476",
-        "offerLink": "https://s.shopee.com.br/70JEAdvyOV"
       },
       "_last_price": null
     },
@@ -24636,35 +24636,6 @@
       "_last_price": null
     },
     {
-      "id": "23092864059",
-      "name": "Ração Whiskas 10Kg Ração Gato Castrado Adulto 1+ Sabor Carne Ração para Gatos Castrados 10kg",
-      "price": 141.99,
-      "original_price": 215.14,
-      "discount": 34.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rce1-ltb3ak2s3bptf9",
-      "link": "https://s.shopee.com.br/80BlYBBxTz",
-      "rating": "5",
-      "sales": 1175,
-      "shop": "Marcinho PET",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23092864059,
-        "productName": "Ração Whiskas 10Kg Ração Gato Castrado Adulto 1+ Sabor Carne Ração para Gatos Castrados 10kg",
-        "price": "141.99",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.03",
-        "sales": 1175,
-        "ratingStar": "5",
-        "shopName": "Marcinho PET",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rce1-ltb3ak2s3bptf9",
-        "productLink": "https://shopee.com.br/product/1194006916/23092864059",
-        "offerLink": "https://s.shopee.com.br/80BlYBBxTz"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58208582003",
       "name": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
       "price": 47.9,
@@ -26691,6 +26662,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rasn-man7dwuzomle57",
         "productLink": "https://shopee.com.br/product/1194006916/19699443228",
         "offerLink": "https://s.shopee.com.br/2LXMKrhveW"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23394548748",
+      "name": "Ração Úmida para Gatos Adultos Castrados Gourmet Sabor Carne 70G Golden",
+      "price": 2.79,
+      "original_price": 3.99,
+      "discount": 30.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82581-mg5kg5f074so75",
+      "link": "https://s.shopee.com.br/6L3T6BOFaS",
+      "rating": "4.9",
+      "sales": 1148,
+      "shop": "Chegô",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23394548748,
+        "productName": "Ração Úmida para Gatos Adultos Castrados Gourmet Sabor Carne 70G Golden",
+        "price": "2.79",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.03",
+        "sales": 1148,
+        "ratingStar": "4.9",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82581-mg5kg5f074so75",
+        "productLink": "https://shopee.com.br/product/1248266601/23394548748",
+        "offerLink": "https://s.shopee.com.br/6L3T6BOFaS"
       },
       "_last_price": null
     },
@@ -31708,35 +31708,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mrk3wi4x7tvrfe",
         "productLink": "https://shopee.com.br/product/347988064/23697731904",
         "offerLink": "https://s.shopee.com.br/40faJuXenj"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23197376436",
-      "name": "Coleira World Dug's 17g Antipulgas para Cães - 56cm",
-      "price": 10.98,
-      "original_price": 13.23,
-      "discount": 17.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2oom1rsw242",
-      "link": "https://s.shopee.com.br/4fvH7ALNHU",
-      "rating": "4.9",
-      "sales": 2639,
-      "shop": "mypetone",
-      "category": "coleira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23197376436,
-        "productName": "Coleira World Dug's 17g Antipulgas para Cães - 56cm",
-        "price": "10.98",
-        "priceDiscountRate": 17,
-        "commissionRate": "0.11",
-        "sales": 2639,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2oom1rsw242",
-        "productLink": "https://shopee.com.br/product/290073877/23197376436",
-        "offerLink": "https://s.shopee.com.br/4fvH7ALNHU"
       },
       "_last_price": null
     },
