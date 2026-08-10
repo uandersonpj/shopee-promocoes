@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T15:24:33.259349+00:00",
+  "updated_at": "2026-08-10T15:43:32.069321+00:00",
   "total": 1128,
   "products": [
     {
@@ -1812,8 +1812,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1xeanm14pt61d",
         "productLink": "https://shopee.com.br/product/1017646777/22198016021",
         "offerLink": "https://s.shopee.com.br/AAGDfEahz5"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22998670251",
@@ -2810,7 +2809,7 @@
       "commission": 0.14,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mmk79eamdjwn8a",
       "link": "https://s.shopee.com.br/6VMvIegVFQ",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 84,
       "shop": "GuardaBem",
       "category": "luva pesca",
@@ -2822,7 +2821,7 @@
         "priceDiscountRate": 71,
         "commissionRate": "0.14",
         "sales": 84,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "GuardaBem",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmk79eamdjwn8a",
         "productLink": "https://shopee.com.br/product/1624940780/58258104110",
@@ -4566,35 +4565,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/53f59459dfc3354c7e77164c41c2a782",
         "productLink": "https://shopee.com.br/product/769957349/18737701536",
         "offerLink": "https://s.shopee.com.br/3LPtWmBdSZ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22594316058",
-      "name": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
-      "price": 22.99,
-      "original_price": 69.67,
-      "discount": 67.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
-      "link": "https://s.shopee.com.br/5VUOlvWuhL",
-      "rating": "4.8",
-      "sales": 47,
-      "shop": "ATACADO PESCA E CIA",
-      "category": "chumbada",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22594316058,
-        "productName": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
-        "price": "22.99",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.07",
-        "sales": 47,
-        "ratingStar": "4.8",
-        "shopName": "ATACADO PESCA E CIA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
-        "productLink": "https://shopee.com.br/product/1595150949/22594316058",
-        "offerLink": "https://s.shopee.com.br/5VUOlvWuhL"
       },
       "_last_price": null
     },
@@ -10256,8 +10226,8 @@
     {
       "id": "42574800387",
       "name": "Kit Lavanderia Dispenser Mantimentos, Detergente, Amaciante e Produtos de Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha",
-      "price": 30.55,
-      "original_price": 67.89,
+      "price": 31.15,
+      "original_price": 69.22,
       "discount": 55.0,
       "commission": 0.1,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfy2okarbrpgf7",
@@ -10270,7 +10240,7 @@
       "_item": {
         "itemId": 42574800387,
         "productName": "Kit Lavanderia Dispenser Mantimentos, Detergente, Amaciante e Produtos de Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha",
-        "price": "30.55",
+        "price": "31.15",
         "priceDiscountRate": 55,
         "commissionRate": "0.1",
         "sales": 1086,
@@ -17854,8 +17824,8 @@
     {
       "id": "41132780075",
       "name": "Kit 3 Pote Hermético 1,5 L C/ Bico Dosador Porta Sabão em Pó/Sabão Líquido/Amaciante Compacto Lavanderia Organizador",
-      "price": 47.3,
-      "original_price": 86.0,
+      "price": 47.31,
+      "original_price": 86.02,
       "discount": 45.0,
       "commission": 0.12,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
@@ -17868,7 +17838,7 @@
       "_item": {
         "itemId": 41132780075,
         "productName": "Kit 3 Pote Hermético 1,5 L C/ Bico Dosador Porta Sabão em Pó/Sabão Líquido/Amaciante Compacto Lavanderia Organizador",
-        "price": "47.3",
+        "price": "47.31",
         "priceDiscountRate": 45,
         "commissionRate": "0.12",
         "sales": 133,
@@ -22521,6 +22491,35 @@
       "_last_price": null
     },
     {
+      "id": "22994315476",
+      "name": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
+      "price": 24.8,
+      "original_price": 40.0,
+      "discount": 38.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdeq1dgsz93l52",
+      "link": "https://s.shopee.com.br/70JEAdvyOV",
+      "rating": "4.8",
+      "sales": 60,
+      "shop": "CLICK & VIVA",
+      "category": "chumbada",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22994315476,
+        "productName": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
+        "price": "24.8",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.07",
+        "sales": 60,
+        "ratingStar": "4.8",
+        "shopName": "CLICK & VIVA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdeq1dgsz93l52",
+        "productLink": "https://shopee.com.br/product/1594633180/22994315476",
+        "offerLink": "https://s.shopee.com.br/70JEAdvyOV"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58264670703",
       "name": "Suporte Para Vara de Pesca Emborrachado 35cm Super Reforçado Piratamba Para Pesqueiro",
       "price": 33.99,
@@ -26612,8 +26611,8 @@
     {
       "id": "22397902815",
       "name": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
-      "price": 27.98,
-      "original_price": 39.97,
+      "price": 27.99,
+      "original_price": 39.99,
       "discount": 30.0,
       "commission": 0.1,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
@@ -26626,7 +26625,7 @@
       "_item": {
         "itemId": 22397902815,
         "productName": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
-        "price": "27.98",
+        "price": "27.99",
         "priceDiscountRate": 30,
         "commissionRate": "0.1",
         "sales": 4225,
