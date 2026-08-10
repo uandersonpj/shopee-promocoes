@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T17:18:37.353793+00:00",
+  "updated_at": "2026-08-10T17:37:35.695817+00:00",
   "total": 1129,
   "products": [
     {
@@ -956,7 +956,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902",
         "productLink": "https://shopee.com.br/product/415175805/20199713818",
         "offerLink": "https://s.shopee.com.br/LmHx5aA5j"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19097999326",
@@ -2711,8 +2712,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9sn5nirw2exdd",
         "productLink": "https://shopee.com.br/product/385342152/22298024808",
         "offerLink": "https://s.shopee.com.br/6L3V6E1tnH"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "54850610196",
@@ -4564,6 +4564,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/53f59459dfc3354c7e77164c41c2a782",
         "productLink": "https://shopee.com.br/product/769957349/18737701536",
         "offerLink": "https://s.shopee.com.br/3LPtWmBdSZ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22594316058",
+      "name": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
+      "price": 22.99,
+      "original_price": 69.67,
+      "discount": 67.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
+      "link": "https://s.shopee.com.br/5VUOlvWuhL",
+      "rating": "4.8",
+      "sales": 47,
+      "shop": "ATACADO PESCA E CIA",
+      "category": "chumbada",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22594316058,
+        "productName": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
+        "price": "22.99",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.07",
+        "sales": 47,
+        "ratingStar": "4.8",
+        "shopName": "ATACADO PESCA E CIA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
+        "productLink": "https://shopee.com.br/product/1595150949/22594316058",
+        "offerLink": "https://s.shopee.com.br/5VUOlvWuhL"
       },
       "_last_price": null
     },
@@ -10687,35 +10716,6 @@
       "_last_price": null
     },
     {
-      "id": "58255566499",
-      "name": "Cartao de Memoria 128Gb Micro SD ultra 100MB/s para celular e Câmera Wi-fi  Drone Celular Tablet Notebook",
-      "price": 23.9,
-      "original_price": 51.96,
-      "discount": 54.0,
-      "commission": 0.1,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mquzyaxgeznnc2",
-      "link": "https://s.shopee.com.br/W5i9NnPAF",
-      "rating": "4.7",
-      "sales": 8259,
-      "shop": "VMSOLUTIONS",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58255566499,
-        "productName": "Cartao de Memoria 128Gb Micro SD ultra 100MB/s para celular e Câmera Wi-fi  Drone Celular Tablet Notebook",
-        "price": "23.9",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.1",
-        "sales": 8259,
-        "ratingStar": "4.7",
-        "shopName": "VMSOLUTIONS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mquzyaxgeznnc2",
-        "productLink": "https://shopee.com.br/product/1598954512/58255566499",
-        "offerLink": "https://s.shopee.com.br/W5i9NnPAF"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58207485901",
       "name": "Repetidor WiFi Profissional 2800m 6 Antenas Roteador Amplificador de Sinal Modem 300Mbps",
       "price": 52.98,
@@ -11814,6 +11814,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh56v1mbfpxcf7",
         "productLink": "https://shopee.com.br/product/1641676028/19198335914",
         "offerLink": "https://s.shopee.com.br/3qMA7kLmts"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23698804974",
+      "name": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
+      "price": 10.99,
+      "original_price": 22.9,
+      "discount": 52.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdc45e0lyosh2d",
+      "link": "https://s.shopee.com.br/BSrklofq9",
+      "rating": "4.9",
+      "sales": 9240,
+      "shop": "PAPEL.PAPELARIA",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23698804974,
+        "productName": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
+        "price": "10.99",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.08",
+        "sales": 9240,
+        "ratingStar": "4.9",
+        "shopName": "PAPEL.PAPELARIA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdc45e0lyosh2d",
+        "productLink": "https://shopee.com.br/product/1046010418/23698804974",
+        "offerLink": "https://s.shopee.com.br/BSrklofq9"
       },
       "_last_price": null
     },
@@ -14105,6 +14134,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m41pjicftjcl4d",
         "productLink": "https://shopee.com.br/product/472673093/21097992401",
         "offerLink": "https://s.shopee.com.br/50Y7Vqecpn"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "44423564731",
+      "name": "Boia Infantil Colete Flutuador Premium Com Bracadeira De Segurança 1 a 7 Anos NÃO FURA AcquaFun",
+      "price": 39.99,
+      "original_price": 79.98,
+      "discount": 50.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztg-mko5we3e3e2pbf",
+      "link": "https://s.shopee.com.br/5VUO6luFgm",
+      "rating": "4.9",
+      "sales": 445,
+      "shop": "Tuka Brinquedos & Presentes",
+      "category": "colete salva vidas",
+      "source": "shopee",
+      "_item": {
+        "itemId": 44423564731,
+        "productName": "Boia Infantil Colete Flutuador Premium Com Bracadeira De Segurança 1 a 7 Anos NÃO FURA AcquaFun",
+        "price": "39.99",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.11",
+        "sales": 445,
+        "ratingStar": "4.9",
+        "shopName": "Tuka Brinquedos & Presentes",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztg-mko5we3e3e2pbf",
+        "productLink": "https://shopee.com.br/product/476143858/44423564731",
+        "offerLink": "https://s.shopee.com.br/5VUO6luFgm"
       },
       "_last_price": null
     },
@@ -16632,6 +16690,35 @@
       "_last_price": null
     },
     {
+      "id": "20552135222",
+      "name": "Colete Salva Vidas Flutuador Infantil AcquaFun My Little Crab 100% Bóia Fabricado no Brasil",
+      "price": 39.99,
+      "original_price": 75.45,
+      "discount": 47.0,
+      "commission": 0.12,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-22110-7iadgl4rohjvad",
+      "link": "https://s.shopee.com.br/6fgLUupoJt",
+      "rating": "4.9",
+      "sales": 486,
+      "shop": "Tuka Brinquedos & Presentes",
+      "category": "colete salva vidas",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20552135222,
+        "productName": "Colete Salva Vidas Flutuador Infantil AcquaFun My Little Crab 100% Bóia Fabricado no Brasil",
+        "price": "39.99",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.12",
+        "sales": 486,
+        "ratingStar": "4.9",
+        "shopName": "Tuka Brinquedos & Presentes",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22110-7iadgl4rohjvad",
+        "productLink": "https://shopee.com.br/product/476143858/20552135222",
+        "offerLink": "https://s.shopee.com.br/6fgLUupoJt"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23599290240",
       "name": "Boia Infantil Colete Salva Vidas Colete Inflavel Colete Flutuante Natação Piscina Praia Rios Lagos",
       "price": 16.9,
@@ -16715,35 +16802,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvev-ljz3n4oodeonf7",
         "productLink": "https://shopee.com.br/product/504210070/23196489107",
         "offerLink": "https://s.shopee.com.br/80BjjFt6Nt"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23698804974",
-      "name": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
-      "price": 10.99,
-      "original_price": 20.35,
-      "discount": 46.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdc45e0lyosh2d",
-      "link": "https://s.shopee.com.br/BSrklofq9",
-      "rating": "4.9",
-      "sales": 9240,
-      "shop": "PAPEL.PAPELARIA",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23698804974,
-        "productName": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
-        "price": "10.99",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.08",
-        "sales": 9240,
-        "ratingStar": "4.9",
-        "shopName": "PAPEL.PAPELARIA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdc45e0lyosh2d",
-        "productLink": "https://shopee.com.br/product/1046010418/23698804974",
-        "offerLink": "https://s.shopee.com.br/BSrklofq9"
       },
       "_last_price": null
     },
@@ -21272,64 +21330,6 @@
       "_last_price": null
     },
     {
-      "id": "20552135222",
-      "name": "Colete Salva Vidas Flutuador Infantil AcquaFun My Little Crab 100% Bóia Fabricado no Brasil",
-      "price": 44.99,
-      "original_price": 74.98,
-      "discount": 40.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-22110-7iadgl4rohjvad",
-      "link": "https://s.shopee.com.br/6fgLUupoJt",
-      "rating": "4.9",
-      "sales": 486,
-      "shop": "Tuka Brinquedos & Presentes",
-      "category": "colete salva vidas",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20552135222,
-        "productName": "Colete Salva Vidas Flutuador Infantil AcquaFun My Little Crab 100% Bóia Fabricado no Brasil",
-        "price": "44.99",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.12",
-        "sales": 486,
-        "ratingStar": "4.9",
-        "shopName": "Tuka Brinquedos & Presentes",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22110-7iadgl4rohjvad",
-        "productLink": "https://shopee.com.br/product/476143858/20552135222",
-        "offerLink": "https://s.shopee.com.br/6fgLUupoJt"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "44423564731",
-      "name": "Boia Infantil Colete Flutuador Premium Com Bracadeira De Segurança 1 a 7 Anos NÃO FURA AcquaFun",
-      "price": 47.99,
-      "original_price": 79.98,
-      "discount": 40.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztg-mko5we3e3e2pbf",
-      "link": "https://s.shopee.com.br/5VUO6luFgm",
-      "rating": "4.9",
-      "sales": 445,
-      "shop": "Tuka Brinquedos & Presentes",
-      "category": "colete salva vidas",
-      "source": "shopee",
-      "_item": {
-        "itemId": 44423564731,
-        "productName": "Boia Infantil Colete Flutuador Premium Com Bracadeira De Segurança 1 a 7 Anos NÃO FURA AcquaFun",
-        "price": "47.99",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.11",
-        "sales": 445,
-        "ratingStar": "4.9",
-        "shopName": "Tuka Brinquedos & Presentes",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztg-mko5we3e3e2pbf",
-        "productLink": "https://shopee.com.br/product/476143858/44423564731",
-        "offerLink": "https://s.shopee.com.br/5VUO6luFgm"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58202675314",
       "name": "Boonie Chapéu Balaclava Terno De Proteção Solar Boné De Pesca Respirável Caça Ao Ar Livre Largo Pro",
       "price": 35.99,
@@ -22428,35 +22428,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzkbkxyzt3476",
         "productLink": "https://shopee.com.br/product/1409813841/58254131228",
         "offerLink": "https://s.shopee.com.br/5q7EVOwly7"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22994315476",
-      "name": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
-      "price": 24.8,
-      "original_price": 40.0,
-      "discount": 38.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdeq1dgsz93l52",
-      "link": "https://s.shopee.com.br/70JEAdvyOV",
-      "rating": "4.8",
-      "sales": 60,
-      "shop": "CLICK & VIVA",
-      "category": "chumbada",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22994315476,
-        "productName": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
-        "price": "24.8",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.07",
-        "sales": 60,
-        "ratingStar": "4.8",
-        "shopName": "CLICK & VIVA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdeq1dgsz93l52",
-        "productLink": "https://shopee.com.br/product/1594633180/22994315476",
-        "offerLink": "https://s.shopee.com.br/70JEAdvyOV"
       },
       "_last_price": null
     },
@@ -31563,6 +31534,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mqougklreigzee",
         "productLink": "https://shopee.com.br/product/375688601/23997314491",
         "offerLink": "https://s.shopee.com.br/40faK3YHeh"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20759160783",
+      "name": "Teclado Usb Padrão ABNT2 Brasileiro Super Macio Notebook Pc Computador",
+      "price": 24.9,
+      "original_price": 30.0,
+      "discount": 17.0,
+      "commission": 0.06,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mopjxmujv7r933",
+      "link": "https://s.shopee.com.br/7fYtMyOTKt",
+      "rating": "4.9",
+      "sales": 2947,
+      "shop": "KEPEL SUPRIMENTOS",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20759160783,
+        "productName": "Teclado Usb Padrão ABNT2 Brasileiro Super Macio Notebook Pc Computador",
+        "price": "24.9",
+        "priceDiscountRate": 17,
+        "commissionRate": "0.06",
+        "sales": 2947,
+        "ratingStar": "4.9",
+        "shopName": "KEPEL SUPRIMENTOS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mopjxmujv7r933",
+        "productLink": "https://shopee.com.br/product/683934771/20759160783",
+        "offerLink": "https://s.shopee.com.br/7fYtMyOTKt"
       },
       "_last_price": null
     },
