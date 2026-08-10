@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T20:47:41.114841+00:00",
+  "updated_at": "2026-08-10T21:06:44.653962+00:00",
   "total": 1134,
   "products": [
     {
@@ -984,7 +984,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-ml7p0maii51ie2",
         "productLink": "https://shopee.com.br/product/1258087913/19097999326",
         "offerLink": "https://s.shopee.com.br/9fJx4HmQQR"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58210234177",
@@ -6218,8 +6219,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mrfsbx0x4uf979",
         "productLink": "https://shopee.com.br/product/1571276714/58259386900",
         "offerLink": "https://s.shopee.com.br/8fRPsVJonO"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23594943408",
@@ -9233,6 +9233,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0tam4r99mo21",
         "productLink": "https://shopee.com.br/product/347988064/23698734800",
         "offerLink": "https://s.shopee.com.br/9Kh6fiUx7b"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22298882024",
+      "name": "Kit 2 Comedouro Inox Caes Gatos Antiderrapante Cachorro Alimentação Pote Tigela Ração Pet Comedor",
+      "price": 13.99,
+      "original_price": 32.53,
+      "discount": 57.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mqowmslbsmirfd",
+      "link": "https://s.shopee.com.br/50Y8AtkVsl",
+      "rating": "4.7",
+      "sales": 520,
+      "shop": "Miana Pet",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22298882024,
+        "productName": "Kit 2 Comedouro Inox Caes Gatos Antiderrapante Cachorro Alimentação Pote Tigela Ração Pet Comedor",
+        "price": "13.99",
+        "priceDiscountRate": 57,
+        "commissionRate": "0.07",
+        "sales": 520,
+        "ratingStar": "4.7",
+        "shopName": "Miana Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mqowmslbsmirfd",
+        "productLink": "https://shopee.com.br/product/1396794386/22298882024",
+        "offerLink": "https://s.shopee.com.br/50Y8AtkVsl"
       },
       "_last_price": null
     },
@@ -18808,8 +18837,8 @@
     {
       "id": "40265722427",
       "name": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
-      "price": 7.7,
-      "original_price": 13.75,
+      "price": 10.35,
+      "original_price": 18.48,
       "discount": 44.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
@@ -18822,7 +18851,7 @@
       "_item": {
         "itemId": 40265722427,
         "productName": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
-        "price": "7.7",
+        "price": "10.35",
         "priceDiscountRate": 44,
         "commissionRate": "0.03",
         "sales": 342,
@@ -19614,35 +19643,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zuo-ml2ht5dx1xc3ed",
         "productLink": "https://shopee.com.br/product/1177903362/23898809317",
         "offerLink": "https://s.shopee.com.br/2qTcvi3pzL"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23597371285",
-      "name": "Shampoo Antiparasitário World Veterinária Dug's para Cães - 500ml",
-      "price": 10.65,
-      "original_price": 18.36,
-      "discount": 42.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mqddeln57gg1a1",
-      "link": "https://s.shopee.com.br/40faz0pStd",
-      "rating": "4.9",
-      "sales": 3309,
-      "shop": "mypetone",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23597371285,
-        "productName": "Shampoo Antiparasitário World Veterinária Dug's para Cães - 500ml",
-        "price": "10.65",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.11",
-        "sales": 3309,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mqddeln57gg1a1",
-        "productLink": "https://shopee.com.br/product/290073877/23597371285",
-        "offerLink": "https://s.shopee.com.br/40faz0pStd"
       },
       "_last_price": null
     },
@@ -23098,6 +23098,35 @@
       "_last_price": null
     },
     {
+      "id": "21897728259",
+      "name": "Shampoo com Cera de carnaúba pH Neutro para Lavagem de Carro e Moto Xampu Automotivo",
+      "price": 19.99,
+      "original_price": 31.23,
+      "discount": 36.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mqnhnkgkscua7d",
+      "link": "https://s.shopee.com.br/5q7GmL0G9h",
+      "rating": "4.8",
+      "sales": 2170,
+      "shop": "BUENO ESTETICA AUTO",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21897728259,
+        "productName": "Shampoo com Cera de carnaúba pH Neutro para Lavagem de Carro e Moto Xampu Automotivo",
+        "price": "19.99",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 2170,
+        "ratingStar": "4.8",
+        "shopName": "BUENO ESTETICA AUTO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mqnhnkgkscua7d",
+        "productLink": "https://shopee.com.br/product/1091428082/21897728259",
+        "offerLink": "https://s.shopee.com.br/5q7GmL0G9h"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22898980977",
       "name": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
       "price": 68.6,
@@ -24631,35 +24660,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhvn7hbeslxd29",
         "productLink": "https://shopee.com.br/product/573384304/56002637177",
         "offerLink": "https://s.shopee.com.br/7Kw2I2uAHm"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22494696420",
-      "name": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
-      "price": 28.49,
-      "original_price": 43.17,
-      "discount": 34.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3zupa92neo67",
-      "link": "https://s.shopee.com.br/111ykPn0M8",
-      "rating": "4.9",
-      "sales": 900,
-      "shop": "Chegô",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22494696420,
-        "productName": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
-        "price": "28.49",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.03",
-        "sales": 900,
-        "ratingStar": "4.9",
-        "shopName": "Chegô",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3zupa92neo67",
-        "productLink": "https://shopee.com.br/product/1248266601/22494696420",
-        "offerLink": "https://s.shopee.com.br/111ykPn0M8"
       },
       "_last_price": null
     },
