@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T16:59:34.618152+00:00",
+  "updated_at": "2026-08-10T17:18:37.353793+00:00",
   "total": 1129,
   "products": [
     {
@@ -666,7 +666,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
         "productLink": "https://shopee.com.br/product/344381236/57911938287",
         "offerLink": "https://s.shopee.com.br/1gHfXYdgea"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "55508691646",
@@ -2454,6 +2455,35 @@
       "_last_price": null
     },
     {
+      "id": "58251069728",
+      "name": "Passaguá Para Pesca Retrátil Dobrável Alumínio 1,75 Metros",
+      "price": 28.49,
+      "original_price": 101.75,
+      "discount": 72.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8226r-mhj966enugw06c",
+      "link": "https://s.shopee.com.br/9V0Ws9VD94",
+      "rating": "4.8",
+      "sales": 658,
+      "shop": "WS Diario",
+      "category": "rede de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58251069728,
+        "productName": "Passaguá Para Pesca Retrátil Dobrável Alumínio 1,75 Metros",
+        "price": "28.49",
+        "priceDiscountRate": 72,
+        "commissionRate": "0.03",
+        "sales": 658,
+        "ratingStar": "4.8",
+        "shopName": "WS Diario",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8226r-mhj966enugw06c",
+        "productLink": "https://shopee.com.br/product/698887220/58251069728",
+        "offerLink": "https://s.shopee.com.br/9V0Ws9VD94"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22294903006",
       "name": "1.70m Passaguá Para Pesca Cabo Retrátil Alumínio Dobrável Passagua Cesto Peixe",
       "price": 27.39,
@@ -2710,8 +2740,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mlffathukzr9f4",
         "productLink": "https://shopee.com.br/product/1232299933/54850610196",
         "offerLink": "https://s.shopee.com.br/5ArXi5sjlP"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22793679889",
@@ -3202,35 +3231,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820m4-mnkc728pehag67",
         "productLink": "https://shopee.com.br/product/372103398/23199448516",
         "offerLink": "https://s.shopee.com.br/9Kh6fpjRrM"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58251069728",
-      "name": "Passaguá Para Pesca Retrátil Dobrável Alumínio 1,75 Metros",
-      "price": 29.99,
-      "original_price": 99.97,
-      "discount": 70.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8226r-mhj966enugw06c",
-      "link": "https://s.shopee.com.br/9V0Ws9VD94",
-      "rating": "4.8",
-      "sales": 658,
-      "shop": "WS Diario",
-      "category": "rede de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58251069728,
-        "productName": "Passaguá Para Pesca Retrátil Dobrável Alumínio 1,75 Metros",
-        "price": "29.99",
-        "priceDiscountRate": 70,
-        "commissionRate": "0.03",
-        "sales": 658,
-        "ratingStar": "4.8",
-        "shopName": "WS Diario",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8226r-mhj966enugw06c",
-        "productLink": "https://shopee.com.br/product/698887220/58251069728",
-        "offerLink": "https://s.shopee.com.br/9V0Ws9VD94"
       },
       "_last_price": null
     },
@@ -4858,6 +4858,35 @@
       "_last_price": null
     },
     {
+      "id": "22095032045",
+      "name": "Caixa De Pesca Grande Capacidade 24/28 Grade Acessórios Artes Gancho Isca À Prova D'água Armazenamento",
+      "price": 17.09,
+      "original_price": 50.26,
+      "discount": 66.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823pf-moy4j7lpdjb5d4",
+      "link": "https://s.shopee.com.br/2LXMoSohq2",
+      "rating": "4.8",
+      "sales": 429,
+      "shop": "WS Diario",
+      "category": "isca pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22095032045,
+        "productName": "Caixa De Pesca Grande Capacidade 24/28 Grade Acessórios Artes Gancho Isca À Prova D'água Armazenamento",
+        "price": "17.09",
+        "priceDiscountRate": 66,
+        "commissionRate": "0.03",
+        "sales": 429,
+        "ratingStar": "4.8",
+        "shopName": "WS Diario",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pf-moy4j7lpdjb5d4",
+        "productLink": "https://shopee.com.br/product/698887220/22095032045",
+        "offerLink": "https://s.shopee.com.br/2LXMoSohq2"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58208583352",
       "name": "Boné De Beisebol Com Óculos De Sol Falsos , Proteção Solar , Verão , Macio Para Corrida , Caminhada , Pesca Vários cores",
       "price": 19.97,
@@ -5902,31 +5931,31 @@
       "_last_price": null
     },
     {
-      "id": "22095032045",
-      "name": "Caixa De Pesca Grande Capacidade 24/28 Grade Acessórios Artes Gancho Isca À Prova D'água Armazenamento",
-      "price": 17.99,
-      "original_price": 49.97,
+      "id": "23394426187",
+      "name": "Sambura de Arame Galvanizado para Manutenção de Iscas Vivas - Ideal para Pesca Esportiva",
+      "price": 28.49,
+      "original_price": 79.14,
       "discount": 64.0,
       "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823pf-moy4j7lpdjb5d4",
-      "link": "https://s.shopee.com.br/2LXMoSohq2",
-      "rating": "4.8",
-      "sales": 429,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbml-m5lv13aw49rf84",
+      "link": "https://s.shopee.com.br/LmHxJ46kO",
+      "rating": "4.9",
+      "sales": 356,
       "shop": "WS Diario",
       "category": "isca pesca",
       "source": "shopee",
       "_item": {
-        "itemId": 22095032045,
-        "productName": "Caixa De Pesca Grande Capacidade 24/28 Grade Acessórios Artes Gancho Isca À Prova D'água Armazenamento",
-        "price": "17.99",
+        "itemId": 23394426187,
+        "productName": "Sambura de Arame Galvanizado para Manutenção de Iscas Vivas - Ideal para Pesca Esportiva",
+        "price": "28.49",
         "priceDiscountRate": 64,
         "commissionRate": "0.03",
-        "sales": 429,
-        "ratingStar": "4.8",
+        "sales": 356,
+        "ratingStar": "4.9",
         "shopName": "WS Diario",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pf-moy4j7lpdjb5d4",
-        "productLink": "https://shopee.com.br/product/698887220/22095032045",
-        "offerLink": "https://s.shopee.com.br/2LXMoSohq2"
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbml-m5lv13aw49rf84",
+        "productLink": "https://shopee.com.br/product/698887220/23394426187",
+        "offerLink": "https://s.shopee.com.br/LmHxJ46kO"
       },
       "_last_price": null
     },
@@ -6246,35 +6275,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-moj6y9k3bm6l25",
         "productLink": "https://shopee.com.br/product/1500993597/41809393497",
         "offerLink": "https://s.shopee.com.br/4VbqutlbDx"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23394426187",
-      "name": "Sambura de Arame Galvanizado para Manutenção de Iscas Vivas - Ideal para Pesca Esportiva",
-      "price": 29.99,
-      "original_price": 81.05,
-      "discount": 63.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbml-m5lv13aw49rf84",
-      "link": "https://s.shopee.com.br/LmHxJ46kO",
-      "rating": "4.9",
-      "sales": 356,
-      "shop": "WS Diario",
-      "category": "isca pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23394426187,
-        "productName": "Sambura de Arame Galvanizado para Manutenção de Iscas Vivas - Ideal para Pesca Esportiva",
-        "price": "29.99",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.03",
-        "sales": 356,
-        "ratingStar": "4.9",
-        "shopName": "WS Diario",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbml-m5lv13aw49rf84",
-        "productLink": "https://shopee.com.br/product/698887220/23394426187",
-        "offerLink": "https://s.shopee.com.br/LmHxJ46kO"
       },
       "_last_price": null
     },
@@ -8659,8 +8659,8 @@
     {
       "id": "22694463642",
       "name": "Forma Air Fryer 50/100/150/200/250 Descartável Antiaderente Redonda Forro De Papel Vegetal",
-      "price": 13.98,
-      "original_price": 33.29,
+      "price": 13.99,
+      "original_price": 33.31,
       "discount": 58.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfa2zn43hdz96b",
@@ -8673,7 +8673,7 @@
       "_item": {
         "itemId": 22694463642,
         "productName": "Forma Air Fryer 50/100/150/200/250 Descartável Antiaderente Redonda Forro De Papel Vegetal",
-        "price": "13.98",
+        "price": "13.99",
         "priceDiscountRate": 58,
         "commissionRate": "0.03",
         "sales": 2100,
@@ -9616,8 +9616,8 @@
     {
       "id": "58207705974",
       "name": "Kit 5 Suportes de Banheiro Alto Adesivo Organizador de Parede Sabonete Shampoo Condicionador e Papel",
-      "price": 34.55,
-      "original_price": 78.52,
+      "price": 34.4,
+      "original_price": 78.18,
       "discount": 56.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mrlntyv5exvo3f",
@@ -9630,7 +9630,7 @@
       "_item": {
         "itemId": 58207705974,
         "productName": "Kit 5 Suportes de Banheiro Alto Adesivo Organizador de Parede Sabonete Shampoo Condicionador e Papel",
-        "price": "34.55",
+        "price": "34.4",
         "priceDiscountRate": 56,
         "commissionRate": "0.03",
         "sales": 4472,
@@ -10629,35 +10629,6 @@
       "_last_price": null
     },
     {
-      "id": "24823630470",
-      "name": "Óculos De Sol Retangulares Retrô Sem Aro – Design Vintage Unissex Para Festivais De Moda E Música De Rua",
-      "price": 11.95,
-      "original_price": 26.56,
-      "discount": 55.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823of-mp4mkbkbx62qd9",
-      "link": "https://s.shopee.com.br/80Bj5KLDH1",
-      "rating": "4.8",
-      "sales": 3178,
-      "shop": "Choice Oficial",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 24823630470,
-        "productName": "Óculos De Sol Retangulares Retrô Sem Aro – Design Vintage Unissex Para Festivais De Moda E Música De Rua",
-        "price": "11.95",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.07",
-        "sales": 3178,
-        "ratingStar": "4.8",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823of-mp4mkbkbx62qd9",
-        "productLink": "https://shopee.com.br/product/1006215031/24823630470",
-        "offerLink": "https://s.shopee.com.br/80Bj5KLDH1"
-      },
-      "_last_price": null
-    },
-    {
       "id": "25614629818",
       "name": "Boné De Beisebol Masculino Camuflado Com Caveira , Chapéu Tático Para Pesca E Caminhada Ao Ar Livre O Verão",
       "price": 20.97,
@@ -11008,8 +10979,8 @@
     {
       "id": "44001553177",
       "name": "Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda Pet Xixi Cão Pequeno Médio",
-      "price": 19.96,
-      "original_price": 43.39,
+      "price": 19.88,
+      "original_price": 43.22,
       "discount": 54.0,
       "commission": 0.105,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdku7kp1k6vldd",
@@ -11022,7 +10993,7 @@
       "_item": {
         "itemId": 44001553177,
         "productName": "Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda Pet Xixi Cão Pequeno Médio",
-        "price": "19.96",
+        "price": "19.88",
         "priceDiscountRate": 54,
         "commissionRate": "0.105",
         "sales": 4425,
@@ -11205,6 +11176,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824hz-mpj8tt3gjlkx51",
         "productLink": "https://shopee.com.br/product/1468415010/22094228144",
         "offerLink": "https://s.shopee.com.br/gP8LqDrdT"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "24823630470",
+      "name": "Óculos De Sol Retangulares Retrô Sem Aro – Design Vintage Unissex Para Festivais De Moda E Música De Rua",
+      "price": 12.27,
+      "original_price": 26.67,
+      "discount": 54.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823of-mp4mkbkbx62qd9",
+      "link": "https://s.shopee.com.br/80Bj5KLDH1",
+      "rating": "4.8",
+      "sales": 3178,
+      "shop": "Choice Oficial",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 24823630470,
+        "productName": "Óculos De Sol Retangulares Retrô Sem Aro – Design Vintage Unissex Para Festivais De Moda E Música De Rua",
+        "price": "12.27",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.07",
+        "sales": 3178,
+        "ratingStar": "4.8",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823of-mp4mkbkbx62qd9",
+        "productLink": "https://shopee.com.br/product/1006215031/24823630470",
+        "offerLink": "https://s.shopee.com.br/80Bj5KLDH1"
       },
       "_last_price": null
     },
@@ -15269,35 +15269,6 @@
       "_last_price": null
     },
     {
-      "id": "22794061718",
-      "name": "Dispensers Lavanderia 1,5L e 2,3L - Amaciante, Sabão em Pó, Sabão Líquido, Tira Manchas kit/individ",
-      "price": 46.88,
-      "original_price": 90.15,
-      "discount": 48.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mrj5yd09nxtw88",
-      "link": "https://s.shopee.com.br/19RYUxEOg",
-      "rating": "5",
-      "sales": 627,
-      "shop": "Quero Um de Cada",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22794061718,
-        "productName": "Dispensers Lavanderia 1,5L e 2,3L - Amaciante, Sabão em Pó, Sabão Líquido, Tira Manchas kit/individ",
-        "price": "46.88",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.03",
-        "sales": 627,
-        "ratingStar": "5",
-        "shopName": "Quero Um de Cada",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mrj5yd09nxtw88",
-        "productLink": "https://shopee.com.br/product/349322996/22794061718",
-        "offerLink": "https://s.shopee.com.br/19RYUxEOg"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23994033378",
       "name": "Pano de Limpeza de Microfibra Reutilizável 25cm x 25cm, Alta Absorção, Fácil de Limpar, Pacote de 5/10",
       "price": 11.9,
@@ -16054,8 +16025,8 @@
     {
       "id": "23897962057",
       "name": "Fonte TGT Enfield, 500W, ATX Bivolt, Preto, TGT-EFD-BK01",
-      "price": 122.05,
-      "original_price": 230.28,
+      "price": 121.66,
+      "original_price": 229.55,
       "discount": 47.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mqeqor4n38cgdb",
@@ -16068,7 +16039,7 @@
       "_item": {
         "itemId": 23897962057,
         "productName": "Fonte TGT Enfield, 500W, ATX Bivolt, Preto, TGT-EFD-BK01",
-        "price": "122.05",
+        "price": "121.66",
         "priceDiscountRate": 47,
         "commissionRate": "0.03",
         "sales": 1017,
@@ -17655,7 +17626,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mr240gwo90qv3b",
       "link": "https://s.shopee.com.br/AKZeWagAQS",
-      "rating": "4.9",
+      "rating": "4.5",
       "sales": 11,
       "shop": "andrezhou478",
       "category": "ssd nvme",
@@ -17667,7 +17638,7 @@
         "priceDiscountRate": 45,
         "commissionRate": "0.03",
         "sales": 11,
-        "ratingStar": "4.9",
+        "ratingStar": "4.5",
         "shopName": "andrezhou478",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mr240gwo90qv3b",
         "productLink": "https://shopee.com.br/product/1526867853/58264975173",
@@ -18749,35 +18720,6 @@
       "_last_price": null
     },
     {
-      "id": "15844569608",
-      "name": "Panela de Pressao Litros Polida Fortlar -P- LAM - Escolha o Tamanho ideal",
-      "price": 50.34,
-      "original_price": 89.89,
-      "discount": 44.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m80w2hgi8a9da0",
-      "link": "https://s.shopee.com.br/4fvJPZrknZ",
-      "rating": "4.9",
-      "sales": 490,
-      "shop": "Marilar Presentes",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 15844569608,
-        "productName": "Panela de Pressao Litros Polida Fortlar -P- LAM - Escolha o Tamanho ideal",
-        "price": "50.34",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.08",
-        "sales": 490,
-        "ratingStar": "4.9",
-        "shopName": "Marilar Presentes",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m80w2hgi8a9da0",
-        "productLink": "https://shopee.com.br/product/663505037/15844569608",
-        "offerLink": "https://s.shopee.com.br/4fvJPZrknZ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23594325190",
       "name": "Tênis casual Feminino Coração Leve e Confortável Dia dia",
       "price": 27.95,
@@ -19064,35 +19006,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meu3eug7708z8a",
         "productLink": "https://shopee.com.br/product/675695527/23294401619",
         "offerLink": "https://s.shopee.com.br/5fnoItXjPl"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22897779540",
-      "name": "Fonte atx 230w 400w 500w para pc computador bivolt Real Silenciosa",
-      "price": 51.9,
-      "original_price": 91.05,
-      "discount": 43.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mlnydq7fecxw56",
-      "link": "https://s.shopee.com.br/4qEhJNRdER",
-      "rating": "4.9",
-      "sales": 74,
-      "shop": "PHB INFO",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22897779540,
-        "productName": "Fonte atx 230w 400w 500w para pc computador bivolt Real Silenciosa",
-        "price": "51.9",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.03",
-        "sales": 74,
-        "ratingStar": "4.9",
-        "shopName": "PHB INFO",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mlnydq7fecxw56",
-        "productLink": "https://shopee.com.br/product/599201107/22897779540",
-        "offerLink": "https://s.shopee.com.br/4qEhJNRdER"
       },
       "_last_price": null
     },
@@ -19996,6 +19909,35 @@
       "_last_price": null
     },
     {
+      "id": "22794061718",
+      "name": "Dispensers Lavanderia 1,5L e 2,3L - Amaciante, Sabão em Pó, Sabão Líquido, Tira Manchas kit/individ",
+      "price": 48.8,
+      "original_price": 82.71,
+      "discount": 41.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mrj5yd09nxtw88",
+      "link": "https://s.shopee.com.br/19RYUxEOg",
+      "rating": "5",
+      "sales": 627,
+      "shop": "Quero Um de Cada",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22794061718,
+        "productName": "Dispensers Lavanderia 1,5L e 2,3L - Amaciante, Sabão em Pó, Sabão Líquido, Tira Manchas kit/individ",
+        "price": "48.8",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.03",
+        "sales": 627,
+        "ratingStar": "5",
+        "shopName": "Quero Um de Cada",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mrj5yd09nxtw88",
+        "productLink": "https://shopee.com.br/product/349322996/22794061718",
+        "offerLink": "https://s.shopee.com.br/19RYUxEOg"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23697709910",
       "name": "Porta Detergente Sabão Dispenser 2 em 1 Com Suporte Para Bucha Esponja e Rodo",
       "price": 11.8,
@@ -20659,6 +20601,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mqqx1gayxog225",
         "productLink": "https://shopee.com.br/product/956346509/19698315816",
         "offerLink": "https://s.shopee.com.br/30n5P53FhZ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22897779540",
+      "name": "Fonte atx 230w 400w 500w para pc computador bivolt Real Silenciosa",
+      "price": 52.9,
+      "original_price": 88.17,
+      "discount": 40.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mlnydq7fecxw56",
+      "link": "https://s.shopee.com.br/4qEhJNRdER",
+      "rating": "4.9",
+      "sales": 74,
+      "shop": "PHB INFO",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22897779540,
+        "productName": "Fonte atx 230w 400w 500w para pc computador bivolt Real Silenciosa",
+        "price": "52.9",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 74,
+        "ratingStar": "4.9",
+        "shopName": "PHB INFO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mlnydq7fecxw56",
+        "productLink": "https://shopee.com.br/product/599201107/22897779540",
+        "offerLink": "https://s.shopee.com.br/4qEhJNRdER"
       },
       "_last_price": null
     },
@@ -25920,7 +25891,7 @@
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mptds7r37k0331",
       "link": "https://s.shopee.com.br/4fvH7AudmG",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 1620,
       "shop": "WL OUTLET HOME",
       "category": "cafeteira",
@@ -25932,7 +25903,7 @@
         "priceDiscountRate": 32,
         "commissionRate": "0.08",
         "sales": 1620,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "WL OUTLET HOME",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mptds7r37k0331",
         "productLink": "https://shopee.com.br/product/621325478/54262669579",
@@ -30461,6 +30432,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mpcphejk4eth7f",
         "productLink": "https://shopee.com.br/product/429439423/40881634244",
         "offerLink": "https://s.shopee.com.br/1LerQ8XARu"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19975160032",
+      "name": "Panela De Pressão Fechamento Externo Antiaderente 4,5L Nacional",
+      "price": 148.9,
+      "original_price": 186.12,
+      "discount": 20.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mo9nab0ho2klbf",
+      "link": "https://s.shopee.com.br/60QehdOpay",
+      "rating": "4.8",
+      "sales": 778,
+      "shop": "Alumínio Nacional",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19975160032,
+        "productName": "Panela De Pressão Fechamento Externo Antiaderente 4,5L Nacional",
+        "price": "148.9",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.03",
+        "sales": 778,
+        "ratingStar": "4.8",
+        "shopName": "Alumínio Nacional",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mo9nab0ho2klbf",
+        "productLink": "https://shopee.com.br/product/359066629/19975160032",
+        "offerLink": "https://s.shopee.com.br/60QehdOpay"
       },
       "_last_price": null
     },
