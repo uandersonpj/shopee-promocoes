@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T23:21:15.273942+00:00",
-  "total": 1134,
+  "updated_at": "2026-08-10T23:40:13.651051+00:00",
+  "total": 1136,
   "products": [
     {
       "id": "23698808886",
@@ -85,8 +85,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mpf8btxmai2u62",
         "productLink": "https://shopee.com.br/product/1739671384/58210104632",
         "offerLink": "https://s.shopee.com.br/70JCMtjNKE"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "24683837124",
@@ -3244,7 +3243,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
         "productLink": "https://shopee.com.br/product/1368232097/58207198817",
         "offerLink": "https://s.shopee.com.br/AUt43yNc9r"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23199448516",
@@ -6255,6 +6255,35 @@
       }
     },
     {
+      "id": "23594943408",
+      "name": "Casa Casinha Plastica De Cachorro Cães N6 Desmontável",
+      "price": 80.9,
+      "original_price": 218.65,
+      "discount": 63.0,
+      "commission": 0.1,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8262h-mkwp40kg1mh3e5",
+      "link": "https://s.shopee.com.br/2gACjUFrEL",
+      "rating": "4.7",
+      "sales": 624,
+      "shop": "Rapidex Pet",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23594943408,
+        "productName": "Casa Casinha Plastica De Cachorro Cães N6 Desmontável",
+        "price": "80.9",
+        "priceDiscountRate": 63,
+        "commissionRate": "0.1",
+        "sales": 624,
+        "ratingStar": "4.7",
+        "shopName": "Rapidex Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262h-mkwp40kg1mh3e5",
+        "productLink": "https://shopee.com.br/product/1291547401/23594943408",
+        "offerLink": "https://s.shopee.com.br/2gACjUFrEL"
+      },
+      "_last_price": null
+    },
+    {
       "id": "41357615567",
       "name": "Óculos De Sol Fotochromáticos Retro Quadrados Com Proteção Uv E Estrutura Leve, Ideais Para Praia, Ciclismo E viagens",
       "price": 6.88,
@@ -8660,35 +8689,6 @@
       "_last_price": null
     },
     {
-      "id": "23198395301",
-      "name": "Cama Para Cachorro GG Grande Médio Casinha Caminha Pet Colchonete Impermeável",
-      "price": 16.98,
-      "original_price": 40.43,
-      "discount": 58.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8m0682fehld2c",
-      "link": "https://s.shopee.com.br/1gHiTMiQkC",
-      "rating": "4.8",
-      "sales": 329,
-      "shop": "GTRBSHOP",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23198395301,
-        "productName": "Cama Para Cachorro GG Grande Médio Casinha Caminha Pet Colchonete Impermeável",
-        "price": "16.98",
-        "priceDiscountRate": 58,
-        "commissionRate": "0.07",
-        "sales": 329,
-        "ratingStar": "4.8",
-        "shopName": "GTRBSHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8m0682fehld2c",
-        "productLink": "https://shopee.com.br/product/1329464417/23198395301",
-        "offerLink": "https://s.shopee.com.br/1gHiTMiQkC"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22694463642",
       "name": "Forma Air Fryer 50/100/150/200/250 Descartável Antiaderente Redonda Forro De Papel Vegetal",
       "price": 13.99,
@@ -10540,6 +10540,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22110-pn9iow3uebkv79",
         "productLink": "https://shopee.com.br/product/403649711/42672846488",
         "offerLink": "https://s.shopee.com.br/9zwnSwk0s2"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22893070383",
+      "name": "Cama Caminha Toca Casinha Iglu para Cachorro e Gato Suede Premium - Vários Tamanhos e Cores",
+      "price": 38.9,
+      "original_price": 86.44,
+      "discount": 55.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mmc8icmglxc4d7",
+      "link": "https://s.shopee.com.br/3B6Vcnc0Um",
+      "rating": "4.8",
+      "sales": 258,
+      "shop": "BinhoPets",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22893070383,
+        "productName": "Cama Caminha Toca Casinha Iglu para Cachorro e Gato Suede Premium - Vários Tamanhos e Cores",
+        "price": "38.9",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.11",
+        "sales": 258,
+        "ratingStar": "4.8",
+        "shopName": "BinhoPets",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mmc8icmglxc4d7",
+        "productLink": "https://shopee.com.br/product/744168154/22893070383",
+        "offerLink": "https://s.shopee.com.br/3B6Vcnc0Um"
       },
       "_last_price": null
     },
@@ -12775,35 +12804,6 @@
       }
     },
     {
-      "id": "22894901719",
-      "name": "Casa Casinha Plastica De Cachorro Cães N6 Desmontável",
-      "price": 104.93,
-      "original_price": 214.14,
-      "discount": 51.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8262m-mmbtq7thrsw2d4",
-      "link": "https://s.shopee.com.br/3LPtWiDJsP",
-      "rating": "4.8",
-      "sales": 962,
-      "shop": "NextStorepet",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22894901719,
-        "productName": "Casa Casinha Plastica De Cachorro Cães N6 Desmontável",
-        "price": "104.93",
-        "priceDiscountRate": 51,
-        "commissionRate": "0.03",
-        "sales": 962,
-        "ratingStar": "4.8",
-        "shopName": "NextStorepet",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262m-mmbtq7thrsw2d4",
-        "productLink": "https://shopee.com.br/product/1181326183/22894901719",
-        "offerLink": "https://s.shopee.com.br/3LPtWiDJsP"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22894848502",
       "name": "Coador de Café Aço Inox P/M/G Reutilizável Filtro Permanente Sem Papel (Camada Dupla)",
       "price": 21.98,
@@ -13641,35 +13641,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mnng0umvc0e975",
         "productLink": "https://shopee.com.br/product/1593899060/58208327100",
         "offerLink": "https://s.shopee.com.br/7Kw2I2cZB1"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22898474433",
-      "name": "Cama De Cachorro Grande Caminha Pet Colchonete Impermeável Coberta Manta",
-      "price": 14.98,
-      "original_price": 29.96,
-      "discount": 50.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjjx2v69e5fq13",
-      "link": "https://s.shopee.com.br/BSugbo8mp",
-      "rating": "4.8",
-      "sales": 539,
-      "shop": "GTRBSHOP",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22898474433,
-        "productName": "Cama De Cachorro Grande Caminha Pet Colchonete Impermeável Coberta Manta",
-        "price": "14.98",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.07",
-        "sales": 539,
-        "ratingStar": "4.8",
-        "shopName": "GTRBSHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjjx2v69e5fq13",
-        "productLink": "https://shopee.com.br/product/1329464417/22898474433",
-        "offerLink": "https://s.shopee.com.br/BSugbo8mp"
       },
       "_last_price": null
     },
@@ -20227,35 +20198,6 @@
       "_last_price": null
     },
     {
-      "id": "54006288355",
-      "name": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N 9",
-      "price": 199.99,
-      "original_price": 338.97,
-      "discount": 41.0,
-      "commission": 0.14,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mr79ijb85yx0d3",
-      "link": "https://s.shopee.com.br/qibTplbR1",
-      "rating": "4.8",
-      "sales": 413,
-      "shop": "Pet Charm",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 54006288355,
-        "productName": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N 9",
-        "price": "199.99",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.14",
-        "sales": 413,
-        "ratingStar": "4.8",
-        "shopName": "Pet Charm",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mr79ijb85yx0d3",
-        "productLink": "https://shopee.com.br/product/908280603/54006288355",
-        "offerLink": "https://s.shopee.com.br/qibTplbR1"
-      },
-      "_last_price": null
-    },
-    {
       "id": "51862897293",
       "name": "Cafeteira de Vidro Borossilicato Com Tampa e Filtro 600ml Conjunto Passador De Café  Jarro Vidro V60 P/ Cozinha",
       "price": 57.9,
@@ -23156,35 +23098,6 @@
       "_last_price": null
     },
     {
-      "id": "18098210626",
-      "name": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
-      "price": 8.87,
-      "original_price": 13.86,
-      "discount": 36.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rff2-m95cllpltuw9dc",
-      "link": "https://s.shopee.com.br/4VbrZvnYsk",
-      "rating": "4.9",
-      "sales": 3470,
-      "shop": "mypetone",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18098210626,
-        "productName": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
-        "price": "8.87",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.11",
-        "sales": 3470,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rff2-m95cllpltuw9dc",
-        "productLink": "https://shopee.com.br/product/290073877/18098210626",
-        "offerLink": "https://s.shopee.com.br/4VbrZvnYsk"
-      },
-      "_last_price": null
-    },
-    {
       "id": "21897728259",
       "name": "Shampoo com Cera de carnaúba pH Neutro para Lavagem de Carro e Moto Xampu Automotivo",
       "price": 19.99,
@@ -25360,6 +25273,64 @@
       "_last_price": null
     },
     {
+      "id": "23499514126",
+      "name": "Casa Casinha Plástica Para Cachorro N6 N7 N8 N9 Porte Médio e Grande Extra Grande Big",
+      "price": 94.9,
+      "original_price": 141.64,
+      "discount": 33.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mqx8v9r6c4job4",
+      "link": "https://s.shopee.com.br/4fvH7A8FAn",
+      "rating": "4.6",
+      "sales": 790,
+      "shop": "MOLDPET",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23499514126,
+        "productName": "Casa Casinha Plástica Para Cachorro N6 N7 N8 N9 Porte Médio e Grande Extra Grande Big",
+        "price": "94.9",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.08",
+        "sales": 790,
+        "ratingStar": "4.6",
+        "shopName": "MOLDPET",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mqx8v9r6c4job4",
+        "productLink": "https://shopee.com.br/product/353873361/23499514126",
+        "offerLink": "https://s.shopee.com.br/4fvH7A8FAn"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23499429725",
+      "name": "Casinha Pet Cachorro N2 + Caminha Pequenas Raças Casa Cães Gatos Conforto",
+      "price": 33.44,
+      "original_price": 49.91,
+      "discount": 33.0,
+      "commission": 0.09,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv53biwar72n67",
+      "link": "https://s.shopee.com.br/4Az0WFA9Bk",
+      "rating": "4.6",
+      "sales": 866,
+      "shop": "veonvoimport",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23499429725,
+        "productName": "Casinha Pet Cachorro N2 + Caminha Pequenas Raças Casa Cães Gatos Conforto",
+        "price": "33.44",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.09",
+        "sales": 866,
+        "ratingStar": "4.6",
+        "shopName": "veonvoimport",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv53biwar72n67",
+        "productLink": "https://shopee.com.br/product/1477680057/23499429725",
+        "offerLink": "https://s.shopee.com.br/4Az0WFA9Bk"
+      },
+      "_last_price": null
+    },
+    {
       "id": "10764754425",
       "name": "Liquidificador 3 velocidades 550W Power Turbo Power - L-99-FR - Mondial",
       "price": 117.47,
@@ -26752,6 +26723,35 @@
       "_last_price": null
     },
     {
+      "id": "58204164407",
+      "name": "Caminha Iglu  P para Gatos e Cachorros Pequenos Cama Pet Casinha Toca Pelúcia Macia Confortável",
+      "price": 69.9,
+      "original_price": 99.86,
+      "discount": 30.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzoso9j2j2844",
+      "link": "https://s.shopee.com.br/2qTcvnFDtM",
+      "rating": "4.9",
+      "sales": 1336,
+      "shop": "BILD STORE",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58204164407,
+        "productName": "Caminha Iglu  P para Gatos e Cachorros Pequenos Cama Pet Casinha Toca Pelúcia Macia Confortável",
+        "price": "69.9",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.03",
+        "sales": 1336,
+        "ratingStar": "4.9",
+        "shopName": "BILD STORE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzoso9j2j2844",
+        "productLink": "https://shopee.com.br/product/370003517/58204164407",
+        "offerLink": "https://s.shopee.com.br/2qTcvnFDtM"
+      },
+      "_last_price": null
+    },
+    {
       "id": "43419108256",
       "name": "Coleira Peitoral Cachorro E Gato, Conjunto De Guia + Coleira Colete Para Pet Pequenos E Médios",
       "price": 13.99,
@@ -27531,6 +27531,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mobx7hnycrgjc0",
         "productLink": "https://shopee.com.br/product/1509105042/19398297649",
         "offerLink": "https://s.shopee.com.br/9V0Ws2Ge6d"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58212410802",
+      "name": "Submarino Amarelo Decoração, Casinha Flutuante Para Peixes Aquário Refúgio",
+      "price": 14.3,
+      "original_price": 19.86,
+      "discount": 28.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mpdxe15jsikl77",
+      "link": "https://s.shopee.com.br/60Qehc3ATB",
+      "rating": "4.9",
+      "sales": 559,
+      "shop": "LIPPIN",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58212410802,
+        "productName": "Submarino Amarelo Decoração, Casinha Flutuante Para Peixes Aquário Refúgio",
+        "price": "14.3",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.03",
+        "sales": 559,
+        "ratingStar": "4.9",
+        "shopName": "LIPPIN",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mpdxe15jsikl77",
+        "productLink": "https://shopee.com.br/product/1820538709/58212410802",
+        "offerLink": "https://s.shopee.com.br/60Qehc3ATB"
       },
       "_last_price": null
     },
@@ -28372,6 +28401,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4f-m7pqiw99z9nr22",
         "productLink": "https://shopee.com.br/product/410663728/23898339097",
         "offerLink": "https://s.shopee.com.br/4VbrOHopPh"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18098210626",
+      "name": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
+      "price": 8.87,
+      "original_price": 11.83,
+      "discount": 25.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rff2-m95cllpltuw9dc",
+      "link": "https://s.shopee.com.br/4VbrZvnYsk",
+      "rating": "4.9",
+      "sales": 3470,
+      "shop": "mypetone",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18098210626,
+        "productName": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
+        "price": "8.87",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.11",
+        "sales": 3470,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rff2-m95cllpltuw9dc",
+        "productLink": "https://shopee.com.br/product/290073877/18098210626",
+        "offerLink": "https://s.shopee.com.br/4VbrZvnYsk"
       },
       "_last_price": null
     },
@@ -30406,35 +30464,6 @@
       "_last_price": null
     },
     {
-      "id": "22594148344",
-      "name": "Casinha Cachorro Plástica Desmontável N8 Grande Porte Grande",
-      "price": 197.0,
-      "original_price": 246.25,
-      "discount": 20.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mr1pal9vdypz31",
-      "link": "https://s.shopee.com.br/5fnoJ04R9D",
-      "rating": "4.8",
-      "sales": 592,
-      "shop": "De AZ casa",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22594148344,
-        "productName": "Casinha Cachorro Plástica Desmontável N8 Grande Porte Grande",
-        "price": "197",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.03",
-        "sales": 592,
-        "ratingStar": "4.8",
-        "shopName": "De AZ casa",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mr1pal9vdypz31",
-        "productLink": "https://shopee.com.br/product/1246701013/22594148344",
-        "offerLink": "https://s.shopee.com.br/5fnoJ04R9D"
-      },
-      "_last_price": null
-    },
-    {
       "id": "40881634244",
       "name": "Forma Airfryer Descartável Papel Antiaderente Redonda Quadrada 50 100 200 250 Unidades",
       "price": 12.89,
@@ -31330,6 +31359,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4946jqt4u693f",
         "productLink": "https://shopee.com.br/product/446247790/9787295031",
         "offerLink": "https://s.shopee.com.br/2VqmX9dMqi"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "12823128886",
+      "name": "Creatina Monohidratada Integralmedica 60 cápsulas",
+      "price": 22.13,
+      "original_price": 26.99,
+      "discount": 18.0,
+      "commission": 0.18,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7renj-m2ckuwis1x9y28",
+      "link": "https://s.shopee.com.br/5fnoIyiuYj",
+      "rating": "4.9",
+      "sales": 1603,
+      "shop": "Integralmedica",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 12823128886,
+        "productName": "Creatina Monohidratada Integralmedica 60 cápsulas",
+        "price": "22.13",
+        "priceDiscountRate": 18,
+        "commissionRate": "0.18",
+        "sales": 1603,
+        "ratingStar": "4.9",
+        "shopName": "Integralmedica",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7renj-m2ckuwis1x9y28",
+        "productLink": "https://shopee.com.br/product/544014438/12823128886",
+        "offerLink": "https://s.shopee.com.br/5fnoIyiuYj"
       },
       "_last_price": null
     },
