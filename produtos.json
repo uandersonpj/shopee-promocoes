@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T14:46:01.551342+00:00",
-  "total": 1128,
+  "updated_at": "2026-08-10T15:05:28.216002+00:00",
+  "total": 1126,
   "products": [
     {
       "id": "23698808886",
@@ -982,8 +982,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-ml7p0maii51ie2",
         "productLink": "https://shopee.com.br/product/1258087913/19097999326",
         "offerLink": "https://s.shopee.com.br/9fJx4HmQQR"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58210234177",
@@ -1762,8 +1761,8 @@
     {
       "id": "20398528613",
       "name": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
-      "price": 11.89,
-      "original_price": 49.54,
+      "price": 11.99,
+      "original_price": 49.96,
       "discount": 76.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mmvxxzgnnoqsff",
@@ -1776,7 +1775,7 @@
       "_item": {
         "itemId": 20398528613,
         "productName": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
-        "price": "11.89",
+        "price": "11.99",
         "priceDiscountRate": 76,
         "commissionRate": "0.03",
         "sales": 6855,
@@ -4572,6 +4571,35 @@
       "_last_price": null
     },
     {
+      "id": "22594316058",
+      "name": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
+      "price": 22.99,
+      "original_price": 69.67,
+      "discount": 67.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
+      "link": "https://s.shopee.com.br/5VUOlvWuhL",
+      "rating": "4.8",
+      "sales": 47,
+      "shop": "ATACADO PESCA E CIA",
+      "category": "chumbada",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22594316058,
+        "productName": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
+        "price": "22.99",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.07",
+        "sales": 47,
+        "ratingStar": "4.8",
+        "shopName": "ATACADO PESCA E CIA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
+        "productLink": "https://shopee.com.br/product/1595150949/22594316058",
+        "offerLink": "https://s.shopee.com.br/5VUOlvWuhL"
+      },
+      "_last_price": null
+    },
+    {
       "id": "49602967544",
       "name": "Armadilha De Pesca LOVUR , Gaiola Com Corrente De Ferro Design Dobrável , Flutuador De Espuma , Peixe Peixinho De 4 Tama",
       "price": 53.02,
@@ -4742,35 +4770,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mju1knjp0ykh49",
         "productLink": "https://shopee.com.br/product/1553175352/22994820028",
         "offerLink": "https://s.shopee.com.br/1BLPbo0Fe2"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "43404734335",
-      "name": "Retinol Firmador Levantamento | Suave Nutritivo Anti-rugas Anti-envelhecimento Precoce|Hidratação no Frio|Oferta Limitad",
-      "price": 20.9,
-      "original_price": 61.47,
-      "discount": 66.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mo3qwcihcohu1f",
-      "link": "https://s.shopee.com.br/2LXMKpZruD",
-      "rating": "4.8",
-      "sales": 4261,
-      "shop": "Preferred HYGYL..br",
-      "category": "creme facial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 43404734335,
-        "productName": "Retinol Firmador Levantamento | Suave Nutritivo Anti-rugas Anti-envelhecimento Precoce|Hidratação no Frio|Oferta Limitad",
-        "price": "20.9",
-        "priceDiscountRate": 66,
-        "commissionRate": "0.07",
-        "sales": 4261,
-        "ratingStar": "4.8",
-        "shopName": "Preferred HYGYL..br",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mo3qwcihcohu1f",
-        "productLink": "https://shopee.com.br/product/1500791820/43404734335",
-        "offerLink": "https://s.shopee.com.br/2LXMKpZruD"
       },
       "_last_price": null
     },
@@ -6001,7 +6000,7 @@
       "commission": 0.13,
       "image": "https://cf.shopee.com.br/file/br-11134207-820le-mqd2wnfxecjm4f",
       "link": "https://s.shopee.com.br/9zwnT4TJ87",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 855,
       "shop": "SPOETRY LUCK Locais",
       "category": "rede de pesca",
@@ -6013,7 +6012,7 @@
         "priceDiscountRate": 64,
         "commissionRate": "0.13",
         "sales": 855,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "SPOETRY LUCK Locais",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mqd2wnfxecjm4f",
         "productLink": "https://shopee.com.br/product/1639558656/58203113742",
@@ -7062,6 +7061,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820nu-mnebqsks0i6849",
         "productLink": "https://shopee.com.br/product/1765095638/58209396052",
         "offerLink": "https://s.shopee.com.br/3qMA7ZLtso"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "43404734335",
+      "name": "Retinol Firmador Levantamento | Suave Nutritivo Anti-rugas Anti-envelhecimento Precoce|Hidratação no Frio|Oferta Limitad",
+      "price": 23.99,
+      "original_price": 61.51,
+      "discount": 61.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mo3qwcihcohu1f",
+      "link": "https://s.shopee.com.br/2LXMKpZruD",
+      "rating": "4.8",
+      "sales": 4261,
+      "shop": "Preferred HYGYL..br",
+      "category": "creme facial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 43404734335,
+        "productName": "Retinol Firmador Levantamento | Suave Nutritivo Anti-rugas Anti-envelhecimento Precoce|Hidratação no Frio|Oferta Limitad",
+        "price": "23.99",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.07",
+        "sales": 4261,
+        "ratingStar": "4.8",
+        "shopName": "Preferred HYGYL..br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mo3qwcihcohu1f",
+        "productLink": "https://shopee.com.br/product/1500791820/43404734335",
+        "offerLink": "https://s.shopee.com.br/2LXMKpZruD"
       },
       "_last_price": null
     },
@@ -11818,35 +11846,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh56v1mbfpxcf7",
         "productLink": "https://shopee.com.br/product/1641676028/19198335914",
         "offerLink": "https://s.shopee.com.br/3qMA7kLmts"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23698804974",
-      "name": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
-      "price": 10.99,
-      "original_price": 22.9,
-      "discount": 52.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdc45e0lyosh2d",
-      "link": "https://s.shopee.com.br/BSrklofq9",
-      "rating": "4.9",
-      "sales": 9240,
-      "shop": "PAPEL.PAPELARIA",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23698804974,
-        "productName": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
-        "price": "10.99",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.08",
-        "sales": 9240,
-        "ratingStar": "4.9",
-        "shopName": "PAPEL.PAPELARIA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdc45e0lyosh2d",
-        "productLink": "https://shopee.com.br/product/1046010418/23698804974",
-        "offerLink": "https://s.shopee.com.br/BSrklofq9"
       },
       "_last_price": null
     },
@@ -16810,6 +16809,35 @@
       "_last_price": null
     },
     {
+      "id": "23698804974",
+      "name": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
+      "price": 10.99,
+      "original_price": 20.35,
+      "discount": 46.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdc45e0lyosh2d",
+      "link": "https://s.shopee.com.br/BSrklofq9",
+      "rating": "4.9",
+      "sales": 9240,
+      "shop": "PAPEL.PAPELARIA",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23698804974,
+        "productName": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
+        "price": "10.99",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.08",
+        "sales": 9240,
+        "ratingStar": "4.9",
+        "shopName": "PAPEL.PAPELARIA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdc45e0lyosh2d",
+        "productLink": "https://shopee.com.br/product/1046010418/23698804974",
+        "offerLink": "https://s.shopee.com.br/BSrklofq9"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21299368624",
       "name": "Caderno 20 Matérias Universitário Capa Dura Com Preto Rosa Escolar Credeal",
       "price": 19.99,
@@ -20087,35 +20115,6 @@
       "_last_price": null
     },
     {
-      "id": "58204282495",
-      "name": "Trio Esponjas Maquiagem Macrilan EP26 Para Base Pó e Corretivo Preta",
-      "price": 18.87,
-      "original_price": 31.98,
-      "discount": 41.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1u3qdjfymae6",
-      "link": "https://s.shopee.com.br/3B6TKKtdkQ",
-      "rating": "5",
-      "sales": 2136,
-      "shop": "PRIME COMPLETA COMERCIO E SERVICOS ",
-      "category": "esponja",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58204282495,
-        "productName": "Trio Esponjas Maquiagem Macrilan EP26 Para Base Pó e Corretivo Preta",
-        "price": "18.87",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.07",
-        "sales": 2136,
-        "ratingStar": "5",
-        "shopName": "PRIME COMPLETA COMERCIO E SERVICOS ",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1u3qdjfymae6",
-        "productLink": "https://shopee.com.br/product/1087950389/58204282495",
-        "offerLink": "https://s.shopee.com.br/3B6TKKtdkQ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18999566083",
       "name": "Gancho Adesivo Inox Porta Esponja Bucha Suporte de Pia Parede Cozinha Premium",
       "price": 5.89,
@@ -20783,6 +20782,35 @@
       "_last_price": null
     },
     {
+      "id": "58204282495",
+      "name": "Trio Esponjas Maquiagem Macrilan EP26 Para Base Pó e Corretivo Preta",
+      "price": 19.2,
+      "original_price": 32.0,
+      "discount": 40.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1u3qdjfymae6",
+      "link": "https://s.shopee.com.br/3B6TKKtdkQ",
+      "rating": "5",
+      "sales": 2136,
+      "shop": "PRIME COMPLETA COMERCIO E SERVICOS ",
+      "category": "esponja",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58204282495,
+        "productName": "Trio Esponjas Maquiagem Macrilan EP26 Para Base Pó e Corretivo Preta",
+        "price": "19.2",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.07",
+        "sales": 2136,
+        "ratingStar": "5",
+        "shopName": "PRIME COMPLETA COMERCIO E SERVICOS ",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1u3qdjfymae6",
+        "productLink": "https://shopee.com.br/product/1087950389/58204282495",
+        "offerLink": "https://s.shopee.com.br/3B6TKKtdkQ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58201422912",
       "name": "Kit 5 Panos de Chão Microfibra 70x60cm Furo para Rodo Limpeza",
       "price": 29.99,
@@ -21255,7 +21283,7 @@
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rfg7-m3nns1rislrb02",
       "link": "https://s.shopee.com.br/2qTcvprwbX",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 774,
       "shop": "JAUPESCA",
       "category": "vara de pesca",
@@ -21267,7 +21295,7 @@
         "priceDiscountRate": 40,
         "commissionRate": "0.07",
         "sales": 774,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "JAUPESCA",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg7-m3nns1rislrb02",
         "productLink": "https://shopee.com.br/product/954428278/21997920517",
@@ -22490,35 +22518,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzkbkxyzt3476",
         "productLink": "https://shopee.com.br/product/1409813841/58254131228",
         "offerLink": "https://s.shopee.com.br/5q7EVOwly7"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22994315476",
-      "name": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
-      "price": 24.8,
-      "original_price": 40.0,
-      "discount": 38.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdeq1dgsz93l52",
-      "link": "https://s.shopee.com.br/70JEAdvyOV",
-      "rating": "4.8",
-      "sales": 60,
-      "shop": "CLICK & VIVA",
-      "category": "chumbada",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22994315476,
-        "productName": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
-        "price": "24.8",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.07",
-        "sales": 60,
-        "ratingStar": "4.8",
-        "shopName": "CLICK & VIVA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdeq1dgsz93l52",
-        "productLink": "https://shopee.com.br/product/1594633180/22994315476",
-        "offerLink": "https://s.shopee.com.br/70JEAdvyOV"
       },
       "_last_price": null
     },
@@ -24230,35 +24229,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b7-mg5iq6d437d8c0",
         "productLink": "https://shopee.com.br/product/1248266601/19698336562",
         "offerLink": "https://s.shopee.com.br/111ykQ4fkF"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58212964423",
-      "name": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
-      "price": 19.49,
-      "original_price": 29.98,
-      "discount": 35.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mps4sxsev75s38",
-      "link": "https://s.shopee.com.br/7Kw2I6Nkd5",
-      "rating": "4.8",
-      "sales": 1484,
-      "shop": "DG.SHOP",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58212964423,
-        "productName": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
-        "price": "19.49",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.03",
-        "sales": 1484,
-        "ratingStar": "4.8",
-        "shopName": "DG.SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mps4sxsev75s38",
-        "productLink": "https://shopee.com.br/product/1288270424/58212964423",
-        "offerLink": "https://s.shopee.com.br/7Kw2I6Nkd5"
       },
       "_last_price": null
     },
@@ -32582,35 +32552,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb5cgpue0m8f54",
         "productLink": "https://shopee.com.br/product/320275364/6957639501",
         "offerLink": "https://s.shopee.com.br/20uVwK3NIJ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23798386277",
-      "name": "Colete Wave Jogá  Cores 110Kg 130Kg 150 Kg Flutuação Diversão Pesca Jetski Segurança",
-      "price": 157.25,
-      "original_price": 185.0,
-      "discount": 15.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mo3xu8ysj4zld4",
-      "link": "https://s.shopee.com.br/6L3XDf5S08",
-      "rating": "4.9",
-      "sales": 2,
-      "shop": "Pesca Animal",
-      "category": "salva vidas pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23798386277,
-        "productName": "Colete Wave Jogá  Cores 110Kg 130Kg 150 Kg Flutuação Diversão Pesca Jetski Segurança",
-        "price": "157.25",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.03",
-        "sales": 2,
-        "ratingStar": "4.9",
-        "shopName": "Pesca Animal",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mo3xu8ysj4zld4",
-        "productLink": "https://shopee.com.br/product/673159124/23798386277",
-        "offerLink": "https://s.shopee.com.br/6L3XDf5S08"
       },
       "_last_price": null
     },
