@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T15:56:19.482160+00:00",
-  "total": 1135,
+  "updated_at": "2026-08-11T16:15:45.943071+00:00",
+  "total": 1134,
   "products": [
     {
       "id": "23698808886",
@@ -463,7 +463,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134275-7rdxw-mdfucal40l6y57",
         "productLink": "https://shopee.com.br/product/236693678/26539956454",
         "offerLink": "https://s.shopee.com.br/30n38AmEtb"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "24360408071",
@@ -1008,8 +1009,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-ml7p0maii51ie2",
         "productLink": "https://shopee.com.br/product/1258087913/19097999326",
         "offerLink": "https://s.shopee.com.br/9fJx4HmQQR"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "53604373378",
@@ -1239,6 +1239,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmajzmcmll3a15",
         "productLink": "https://shopee.com.br/product/1553099932/23394267693",
         "offerLink": "https://s.shopee.com.br/6fgLyHke08"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21997150349",
+      "name": "Kit 6 Forma de Silicone para Fritadeira Air Fryer com Alça Antiaderente Cozinha",
+      "price": 14.49,
+      "original_price": 69.0,
+      "discount": 79.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
+      "link": "https://s.shopee.com.br/AAGDfHIAll",
+      "rating": "4.6",
+      "sales": 11914,
+      "shop": "MVO COMÉRCIO DE VARIEDADES",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21997150349,
+        "productName": "Kit 6 Forma de Silicone para Fritadeira Air Fryer com Alça Antiaderente Cozinha",
+        "price": "14.49",
+        "priceDiscountRate": 79,
+        "commissionRate": "0.03",
+        "sales": 11914,
+        "ratingStar": "4.6",
+        "shopName": "MVO COMÉRCIO DE VARIEDADES",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
+        "productLink": "https://shopee.com.br/product/972031390/21997150349",
+        "offerLink": "https://s.shopee.com.br/AAGDfHIAll"
       },
       "_last_price": null
     },
@@ -8396,35 +8425,6 @@
       "_last_price": null
     },
     {
-      "id": "23394445493",
-      "name": "KIT 50/100/150/200 Formas Assadeira Papel Manteiga Descartável Para Air fryer Sem Sujeira Leo Store BR Leo Store BR",
-      "price": 13.99,
-      "original_price": 33.31,
-      "discount": 58.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfcy0le48qh189",
-      "link": "https://s.shopee.com.br/19VadJnvh",
-      "rating": "4.8",
-      "sales": 1951,
-      "shop": "Win  ",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23394445493,
-        "productName": "KIT 50/100/150/200 Formas Assadeira Papel Manteiga Descartável Para Air fryer Sem Sujeira Leo Store BR Leo Store BR",
-        "price": "13.99",
-        "priceDiscountRate": 58,
-        "commissionRate": "0.03",
-        "sales": 1951,
-        "ratingStar": "4.8",
-        "shopName": "Win  ",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfcy0le48qh189",
-        "productLink": "https://shopee.com.br/product/405617888/23394445493",
-        "offerLink": "https://s.shopee.com.br/19VadJnvh"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22999454687",
       "name": "Mini Liquidificador Portátil 400ml 6 Lâminas Recarregável USB Mixer Suco Shake",
       "price": 32.9,
@@ -14515,35 +14515,6 @@
       "_last_price": null
     },
     {
-      "id": "45054396139",
-      "name": "Ração úmida Friskies Sabores Variados para Gatos 15x85 g",
-      "price": 40.9,
-      "original_price": 80.2,
-      "discount": 49.0,
-      "commission": 0.21,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
-      "link": "https://s.shopee.com.br/3VjJj0v9fQ",
-      "rating": "5",
-      "sales": 7622,
-      "shop": "LeluPets",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45054396139,
-        "productName": "Ração úmida Friskies Sabores Variados para Gatos 15x85 g",
-        "price": "40.9",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.21",
-        "sales": 7622,
-        "ratingStar": "5",
-        "shopName": "LeluPets",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
-        "productLink": "https://shopee.com.br/product/293152127/45054396139",
-        "offerLink": "https://s.shopee.com.br/3VjJj0v9fQ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "57650069638",
       "name": "Coleira De Gato Tag e plaquinha de identificação com nome e telefone Anti Enforcamento",
       "price": 18.31,
@@ -16168,31 +16139,31 @@
       "_last_price": null
     },
     {
-      "id": "21298318080",
+      "id": "58200774701",
       "name": "Spray Limpa Air Fryer Alto Poder De Limpeza, Dissolve A Gordura Limpeza Sem Esforço 250ml 1, 2 ou 3",
       "price": 19.99,
       "original_price": 37.72,
       "discount": 47.0,
-      "commission": 0.09,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfmy36zv2rr913",
-      "link": "https://s.shopee.com.br/BSvmwJAai",
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134224-81z1k-mha3lkgidyx047",
+      "link": "https://s.shopee.com.br/80BlzhHqJ4",
       "rating": "4.7",
-      "sales": 2082,
-      "shop": "Marca Texto e Papel Fotográfico",
+      "sales": 1763,
+      "shop": "PAPEL.PAPELARIA",
       "category": "air fryer",
       "source": "shopee",
       "_item": {
-        "itemId": 21298318080,
+        "itemId": 58200774701,
         "productName": "Spray Limpa Air Fryer Alto Poder De Limpeza, Dissolve A Gordura Limpeza Sem Esforço 250ml 1, 2 ou 3",
         "price": "19.99",
         "priceDiscountRate": 47,
-        "commissionRate": "0.09",
-        "sales": 2082,
+        "commissionRate": "0.08",
+        "sales": 1763,
         "ratingStar": "4.7",
-        "shopName": "Marca Texto e Papel Fotográfico",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfmy36zv2rr913",
-        "productLink": "https://shopee.com.br/product/967211054/21298318080",
-        "offerLink": "https://s.shopee.com.br/BSvmwJAai"
+        "shopName": "PAPEL.PAPELARIA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134224-81z1k-mha3lkgidyx047",
+        "productLink": "https://shopee.com.br/product/1046010418/58200774701",
+        "offerLink": "https://s.shopee.com.br/80BlzhHqJ4"
       },
       "_last_price": null
     },
@@ -17533,8 +17504,8 @@
     {
       "id": "41132780075",
       "name": "Kit 3 Pote Hermético 1,5 L C/ Bico Dosador Porta Sabão em Pó/Sabão Líquido/Amaciante Compacto Lavanderia Organizador",
-      "price": 47.3,
-      "original_price": 86.0,
+      "price": 47.31,
+      "original_price": 86.02,
       "discount": 45.0,
       "commission": 0.12,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
@@ -17547,7 +17518,7 @@
       "_item": {
         "itemId": 41132780075,
         "productName": "Kit 3 Pote Hermético 1,5 L C/ Bico Dosador Porta Sabão em Pó/Sabão Líquido/Amaciante Compacto Lavanderia Organizador",
-        "price": "47.3",
+        "price": "47.31",
         "priceDiscountRate": 45,
         "commissionRate": "0.12",
         "sales": 147,
@@ -19882,8 +19853,8 @@
     {
       "id": "22794061718",
       "name": "Dispensers Lavanderia 1,5L e 2,3L - Amaciante, Sabão em Pó, Sabão Líquido, Tira Manchas kit/individ",
-      "price": 48.8,
-      "original_price": 82.71,
+      "price": 48.9,
+      "original_price": 82.88,
       "discount": 41.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mrj5yd09nxtw88",
@@ -19896,7 +19867,7 @@
       "_item": {
         "itemId": 22794061718,
         "productName": "Dispensers Lavanderia 1,5L e 2,3L - Amaciante, Sabão em Pó, Sabão Líquido, Tira Manchas kit/individ",
-        "price": "48.8",
+        "price": "48.9",
         "priceDiscountRate": 41,
         "commissionRate": "0.03",
         "sales": 608,
@@ -31770,35 +31741,6 @@
       "_last_price": null
     },
     {
-      "id": "21299208174",
-      "name": "Air Fryer Philco 4,4L Antiaderente Redstone 1500W PFR15PI",
-      "price": 289.9,
-      "original_price": 349.28,
-      "discount": 17.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825as-mr67r4hszv2fe8",
-      "link": "https://s.shopee.com.br/AAGGZg9auZ",
-      "rating": "5",
-      "sales": 1608,
-      "shop": "Philco Oficial",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21299208174,
-        "productName": "Air Fryer Philco 4,4L Antiaderente Redstone 1500W PFR15PI",
-        "price": "289.9",
-        "priceDiscountRate": 17,
-        "commissionRate": "0.03",
-        "sales": 1608,
-        "ratingStar": "5",
-        "shopName": "Philco Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825as-mr67r4hszv2fe8",
-        "productLink": "https://shopee.com.br/product/811034337/21299208174",
-        "offerLink": "https://s.shopee.com.br/AAGGZg9auZ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "21745736877",
       "name": "Kit Pesca Completo 1 Vara 1,70m + 1 Molinete + Itens",
       "price": 64.99,
@@ -32636,6 +32578,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mp3t5spg1berbf",
         "productLink": "https://shopee.com.br/product/1107585845/58255902115",
         "offerLink": "https://s.shopee.com.br/9KhAMIGyPf"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "13613839850",
+      "name": "Lava Roupas Liquido Baby Soft Max Performance Azul - 3l",
+      "price": 27.9,
+      "original_price": 32.82,
+      "discount": 15.0,
+      "commission": 0.16,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5kdrubq70jp86",
+      "link": "https://s.shopee.com.br/8AVCy9LPmY",
+      "rating": "4.9",
+      "sales": 2118,
+      "shop": "Casa de Gê",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 13613839850,
+        "productName": "Lava Roupas Liquido Baby Soft Max Performance Azul - 3l",
+        "price": "27.9",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.16",
+        "sales": 2118,
+        "ratingStar": "4.9",
+        "shopName": "Casa de Gê",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5kdrubq70jp86",
+        "productLink": "https://shopee.com.br/product/534023108/13613839850",
+        "offerLink": "https://s.shopee.com.br/8AVCy9LPmY"
       },
       "_last_price": null
     },
