@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T18:32:25.601292+00:00",
+  "updated_at": "2026-08-11T18:51:42.572912+00:00",
   "total": 1130,
   "products": [
     {
@@ -956,7 +956,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902",
         "productLink": "https://shopee.com.br/product/415175805/20199713818",
         "offerLink": "https://s.shopee.com.br/LmHx5aA5j"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19097999326",
@@ -2682,8 +2683,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9sn5nirw2exdd",
         "productLink": "https://shopee.com.br/product/385342152/22298024808",
         "offerLink": "https://s.shopee.com.br/6L3V6E1tnH"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "54850610196",
@@ -3852,7 +3852,7 @@
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825b8-mq36i3xnt34c85",
       "link": "https://s.shopee.com.br/6VMvIaUqnV",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 364,
       "shop": "Value Choice",
       "category": "linha de pesca",
@@ -3864,7 +3864,7 @@
         "priceDiscountRate": 68,
         "commissionRate": "0.07",
         "sales": 364,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Value Choice",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b8-mq36i3xnt34c85",
         "productLink": "https://shopee.com.br/product/230709939/26538918731",
@@ -7439,31 +7439,31 @@
       "_last_price": null
     },
     {
-      "id": "22895122179",
+      "id": "22799618638",
       "name": "Itens Treino Em Casa Completo Elásticos Extensores + 5 Mini Bands Fitness Musculação Exercícios Yoga Fisioterapia",
       "price": 13.89,
       "original_price": 34.73,
       "discount": 60.0,
       "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82586-mqq0gk8airymbc",
-      "link": "https://s.shopee.com.br/8AV9Ha8SCB",
-      "rating": "4.9",
-      "sales": 1302,
-      "shop": "Loja Geral Breeze",
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825ak-mr2mf79003yaa5",
+      "link": "https://s.shopee.com.br/904GkcIfxk",
+      "rating": "4.8",
+      "sales": 169,
+      "shop": "Uma Nova Vida",
       "category": "elastico musculacao",
       "source": "shopee",
       "_item": {
-        "itemId": 22895122179,
+        "itemId": 22799618638,
         "productName": "Itens Treino Em Casa Completo Elásticos Extensores + 5 Mini Bands Fitness Musculação Exercícios Yoga Fisioterapia",
         "price": "13.89",
         "priceDiscountRate": 60,
         "commissionRate": "0.03",
-        "sales": 1302,
-        "ratingStar": "4.9",
-        "shopName": "Loja Geral Breeze",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82586-mqq0gk8airymbc",
-        "productLink": "https://shopee.com.br/product/1774410633/22895122179",
-        "offerLink": "https://s.shopee.com.br/8AV9Ha8SCB"
+        "sales": 169,
+        "ratingStar": "4.8",
+        "shopName": "Uma Nova Vida",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ak-mr2mf79003yaa5",
+        "productLink": "https://shopee.com.br/product/1741533420/22799618638",
+        "offerLink": "https://s.shopee.com.br/904GkcIfxk"
       },
       "_last_price": null
     },
@@ -13160,7 +13160,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mqktvchw232b9c",
       "link": "https://s.shopee.com.br/7AceMl4rMA",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 265,
       "shop": "maranata#shop",
       "category": "amaciante",
@@ -13172,7 +13172,7 @@
         "priceDiscountRate": 50,
         "commissionRate": "0.03",
         "sales": 265,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "maranata#shop",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mqktvchw232b9c",
         "productLink": "https://shopee.com.br/product/885435015/58214125481",
@@ -21303,8 +21303,8 @@
     {
       "id": "22594448627",
       "name": "Esponja Bucha De Silicone Com Porta Sabão Escova Para Banho",
-      "price": 10.48,
-      "original_price": 17.18,
+      "price": 10.49,
+      "original_price": 17.2,
       "discount": 39.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-824gs-mf325zrxkfew1f",
@@ -21317,7 +21317,7 @@
       "_item": {
         "itemId": 22594448627,
         "productName": "Esponja Bucha De Silicone Com Porta Sabão Escova Para Banho",
-        "price": "10.48",
+        "price": "10.49",
         "priceDiscountRate": 39,
         "commissionRate": "0.03",
         "sales": 6892,
@@ -28928,35 +28928,6 @@
       "_last_price": null
     },
     {
-      "id": "23097466419",
-      "name": "Detergente Enzimatico Zymedet Gold 5 Enzimas 1L - Prolink",
-      "price": 28.99,
-      "original_price": 38.14,
-      "discount": 24.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-luawk6vrw1gg3c",
-      "link": "https://s.shopee.com.br/50Y7zCmvOi",
-      "rating": "4.9",
-      "sales": 995,
-      "shop": "GV Diamond dental Company",
-      "category": "desinfetante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23097466419,
-        "productName": "Detergente Enzimatico Zymedet Gold 5 Enzimas 1L - Prolink",
-        "price": "28.99",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.03",
-        "sales": 995,
-        "ratingStar": "4.9",
-        "shopName": "GV Diamond dental Company",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-luawk6vrw1gg3c",
-        "productLink": "https://shopee.com.br/product/439543954/23097466419",
-        "offerLink": "https://s.shopee.com.br/50Y7zCmvOi"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22798349444",
       "name": "Detergente Enzimático 1L + 100 Envelope Para Esterilização 9x23cm Kit manicure",
       "price": 59.8,
@@ -29330,6 +29301,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258e-mqehxire4zr507",
         "productLink": "https://shopee.com.br/product/1006215031/45707967320",
         "offerLink": "https://s.shopee.com.br/3VjNPXZep3"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23097466419",
+      "name": "Detergente Enzimatico Zymedet Gold 5 Enzimas 1L - Prolink",
+      "price": 29.24,
+      "original_price": 37.97,
+      "discount": 23.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-luawk6vrw1gg3c",
+      "link": "https://s.shopee.com.br/50Y7zCmvOi",
+      "rating": "4.9",
+      "sales": 995,
+      "shop": "GV Diamond dental Company",
+      "category": "desinfetante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23097466419,
+        "productName": "Detergente Enzimatico Zymedet Gold 5 Enzimas 1L - Prolink",
+        "price": "29.24",
+        "priceDiscountRate": 23,
+        "commissionRate": "0.03",
+        "sales": 995,
+        "ratingStar": "4.9",
+        "shopName": "GV Diamond dental Company",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-luawk6vrw1gg3c",
+        "productLink": "https://shopee.com.br/product/439543954/23097466419",
+        "offerLink": "https://s.shopee.com.br/50Y7zCmvOi"
       },
       "_last_price": null
     },
