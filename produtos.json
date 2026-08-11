@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T00:37:32.753707+00:00",
+  "updated_at": "2026-08-11T00:56:47.884993+00:00",
   "total": 1137,
   "products": [
     {
@@ -314,8 +314,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rf-mp4mojkbcr9o19",
         "productLink": "https://shopee.com.br/product/1006215031/43258408741",
         "offerLink": "https://s.shopee.com.br/5ArXtiN8wR"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "40723848736",
@@ -818,7 +817,7 @@
       "commission": 0.13,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mmimeaq4koav45",
       "link": "https://s.shopee.com.br/6fgLUxfruR",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 119,
       "shop": "Fit Pico",
       "category": "luva pesca",
@@ -830,7 +829,7 @@
         "priceDiscountRate": 82,
         "commissionRate": "0.13",
         "sales": 119,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Fit Pico",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mmimeaq4koav45",
         "productLink": "https://shopee.com.br/product/1748172680/58258026087",
@@ -1646,35 +1645,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmgwyk55dxjb9c",
         "productLink": "https://shopee.com.br/product/1345043704/22497773735",
         "offerLink": "https://s.shopee.com.br/LmHxEF8JR"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "42931642321",
-      "name": "Placa de Video GeForce NVIDIA PNY RTX5060TI 8GB OC GDDR7 VCG5060T8DFXPB1-O",
-      "price": 2899.0,
-      "original_price": 12079.17,
-      "discount": 76.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823oc-mpcmkv5yn56z8d",
-      "link": "https://s.shopee.com.br/2BDw8SGG2E",
-      "rating": "4.9",
-      "sales": 171,
-      "shop": "TNTinfoLoja",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42931642321,
-        "productName": "Placa de Video GeForce NVIDIA PNY RTX5060TI 8GB OC GDDR7 VCG5060T8DFXPB1-O",
-        "price": "2899",
-        "priceDiscountRate": 76,
-        "commissionRate": "0.03",
-        "sales": 171,
-        "ratingStar": "4.9",
-        "shopName": "TNTinfoLoja",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823oc-mpcmkv5yn56z8d",
-        "productLink": "https://shopee.com.br/product/344381236/42931642321",
-        "offerLink": "https://s.shopee.com.br/2BDw8SGG2E"
       },
       "_last_price": null
     },
@@ -5472,7 +5442,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r5-motkngj2m9kyf8",
         "productLink": "https://shopee.com.br/product/1620515295/22694449078",
         "offerLink": "https://s.shopee.com.br/7Kw4aVgvpC"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "17570976729",
@@ -6488,6 +6459,35 @@
       "_last_price": null
     },
     {
+      "id": "54508269503",
+      "name": "Suporte Ajustável para Placa de Vídeo GPU Ajustável Nvidia e Radeon Universal",
+      "price": 10.0,
+      "original_price": 26.32,
+      "discount": 62.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mmp5np90xmh0b8",
+      "link": "https://s.shopee.com.br/50YAXv71cc",
+      "rating": "4.9",
+      "sales": 116,
+      "shop": "A Amarela Store",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 54508269503,
+        "productName": "Suporte Ajustável para Placa de Vídeo GPU Ajustável Nvidia e Radeon Universal",
+        "price": "10",
+        "priceDiscountRate": 62,
+        "commissionRate": "0.03",
+        "sales": 116,
+        "ratingStar": "4.9",
+        "shopName": "A Amarela Store",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mmp5np90xmh0b8",
+        "productLink": "https://shopee.com.br/product/236042798/54508269503",
+        "offerLink": "https://s.shopee.com.br/50YAXv71cc"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23392949484",
       "name": "Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão Com Instrução de Voz",
       "price": 37.99,
@@ -7387,35 +7387,6 @@
       "_last_price": null
     },
     {
-      "id": "22998559271",
-      "name": "Suporte Ajustável Vertical Para Placa de Video GPU HD PC Colorido",
-      "price": 10.0,
-      "original_price": 25.0,
-      "discount": 60.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mag2ra9rqjynce",
-      "link": "https://s.shopee.com.br/W5i9OMbPo",
-      "rating": "4.9",
-      "sales": 654,
-      "shop": "BelladeLuccastore",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22998559271,
-        "productName": "Suporte Ajustável Vertical Para Placa de Video GPU HD PC Colorido",
-        "price": "10",
-        "priceDiscountRate": 60,
-        "commissionRate": "0.03",
-        "sales": 654,
-        "ratingStar": "4.9",
-        "shopName": "BelladeLuccastore",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mag2ra9rqjynce",
-        "productLink": "https://shopee.com.br/product/987020544/22998559271",
-        "offerLink": "https://s.shopee.com.br/W5i9OMbPo"
-      },
-      "_last_price": null
-    },
-    {
       "id": "47709897714",
       "name": "Suporte Universal Fixo Para Televisão e Monitor Smart TV LED LCD 4K Parede Painel 10 a 100 Polegadas",
       "price": 12.09,
@@ -7470,6 +7441,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdy3-lzz9htfiwbq2dc",
         "productLink": "https://shopee.com.br/product/478697224/20297809121",
         "offerLink": "https://s.shopee.com.br/5VUOliOlEM"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23394342239",
+      "name": "Teclado Mecanico TGT Sherman V3 C1, Rainbow, ABNT2, Switch Marrom, Preto, TGT-SHRC-BR01",
+      "price": 90.09,
+      "original_price": 225.22,
+      "discount": 60.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mqeqor4n0f7k82",
+      "link": "https://s.shopee.com.br/6fgNZWOir9",
+      "rating": "4.9",
+      "sales": 1879,
+      "shop": "Pichau",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23394342239,
+        "productName": "Teclado Mecanico TGT Sherman V3 C1, Rainbow, ABNT2, Switch Marrom, Preto, TGT-SHRC-BR01",
+        "price": "90.09",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.03",
+        "sales": 1879,
+        "ratingStar": "4.9",
+        "shopName": "Pichau",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mqeqor4n0f7k82",
+        "productLink": "https://shopee.com.br/product/627750190/23394342239",
+        "offerLink": "https://s.shopee.com.br/6fgNZWOir9"
       },
       "_last_price": null
     },
@@ -8458,6 +8458,35 @@
       "_last_price": null
     },
     {
+      "id": "23998329987",
+      "name": "Placa Captura Video 4k Hdmi Usb 3.0",
+      "price": 79.0,
+      "original_price": 188.1,
+      "discount": 58.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7jwwqkk00qa9b",
+      "link": "https://s.shopee.com.br/40fdM5ApeK",
+      "rating": "4.9",
+      "sales": 123,
+      "shop": "PENTONCABOS",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23998329987,
+        "productName": "Placa Captura Video 4k Hdmi Usb 3.0",
+        "price": "79",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.11",
+        "sales": 123,
+        "ratingStar": "4.9",
+        "shopName": "PENTONCABOS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7jwwqkk00qa9b",
+        "productLink": "https://shopee.com.br/product/687992685/23998329987",
+        "offerLink": "https://s.shopee.com.br/40fdM5ApeK"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21699672982",
       "name": "Teclado e Mouse Kit Gamer semi mecanico RGB LED USB ABNT2 Profissional para PC Notebook",
       "price": 49.9,
@@ -8547,8 +8576,8 @@
     {
       "id": "25338080323",
       "name": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-      "price": 55.0,
-      "original_price": 130.95,
+      "price": 149.0,
+      "original_price": 354.76,
       "discount": 58.0,
       "commission": 0.2,
       "image": "https://cf.shopee.com.br/file/sg-11134207-823pa-mpa7rmkjv3t9e6",
@@ -8561,7 +8590,7 @@
       "_item": {
         "itemId": 25338080323,
         "productName": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-        "price": "55",
+        "price": "149",
         "priceDiscountRate": 58,
         "commissionRate": "0.2",
         "sales": 3491,
@@ -9038,35 +9067,6 @@
       "_last_price": null
     },
     {
-      "id": "45562032588",
-      "name": "Chaveiro Anti Estresse Teclado Mecânico Teclas Fidget Sensorial Clicker Qualidade",
-      "price": 12.99,
-      "original_price": 30.21,
-      "discount": 57.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mpcfv5asp72d3a",
-      "link": "https://s.shopee.com.br/1gHhcKhl0e",
-      "rating": "4.8",
-      "sales": 164,
-      "shop": "DVMIX",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45562032588,
-        "productName": "Chaveiro Anti Estresse Teclado Mecânico Teclas Fidget Sensorial Clicker Qualidade",
-        "price": "12.99",
-        "priceDiscountRate": 57,
-        "commissionRate": "0.03",
-        "sales": 164,
-        "ratingStar": "4.8",
-        "shopName": "DVMIX",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mpcfv5asp72d3a",
-        "productLink": "https://shopee.com.br/product/1077830096/45562032588",
-        "offerLink": "https://s.shopee.com.br/1gHhcKhl0e"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22893962049",
       "name": "MousePad Grande 90x40 Desk Pad Couro Gamer Office",
       "price": 12.9,
@@ -9266,6 +9266,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0tam4r99mo21",
         "productLink": "https://shopee.com.br/product/347988064/23698734800",
         "offerLink": "https://s.shopee.com.br/9Kh6fiUx7b"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22298882024",
+      "name": "Kit 2 Comedouro Inox Caes Gatos Antiderrapante Cachorro Alimentação Pote Tigela Ração Pet Comedor",
+      "price": 13.99,
+      "original_price": 32.53,
+      "discount": 57.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mqowmslbsmirfd",
+      "link": "https://s.shopee.com.br/50Y8AtkVsl",
+      "rating": "4.7",
+      "sales": 520,
+      "shop": "Miana Pet",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22298882024,
+        "productName": "Kit 2 Comedouro Inox Caes Gatos Antiderrapante Cachorro Alimentação Pote Tigela Ração Pet Comedor",
+        "price": "13.99",
+        "priceDiscountRate": 57,
+        "commissionRate": "0.07",
+        "sales": 520,
+        "ratingStar": "4.7",
+        "shopName": "Miana Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mqowmslbsmirfd",
+        "productLink": "https://shopee.com.br/product/1396794386/22298882024",
+        "offerLink": "https://s.shopee.com.br/50Y8AtkVsl"
       },
       "_last_price": null
     },
@@ -10227,35 +10256,6 @@
       "_last_price": null
     },
     {
-      "id": "23393395960",
-      "name": "Thermal Pad Térmico 1/2/3mm Para PS4, PS3, PS2, PS1, XBOX, Processador, Memória RAM, Placa de Vídeo",
-      "price": 10.5,
-      "original_price": 23.33,
-      "discount": 55.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyaushhh43q14",
-      "link": "https://s.shopee.com.br/2VqmX4EzMG",
-      "rating": "4.7",
-      "sales": 327,
-      "shop": "MAKING CASH",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23393395960,
-        "productName": "Thermal Pad Térmico 1/2/3mm Para PS4, PS3, PS2, PS1, XBOX, Processador, Memória RAM, Placa de Vídeo",
-        "price": "10.5",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.12",
-        "sales": 327,
-        "ratingStar": "4.7",
-        "shopName": "MAKING CASH",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyaushhh43q14",
-        "productLink": "https://shopee.com.br/product/234308900/23393395960",
-        "offerLink": "https://s.shopee.com.br/2VqmX4EzMG"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22992915236",
       "name": "Dispenser Organizador de Lavanderia 1,5L / 2,3 Acrílico Porta Amaciante Sabão em pó Sabonete Liquido",
       "price": 36.31,
@@ -10570,35 +10570,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259i-mewk4muxgd8i0f",
         "productLink": "https://shopee.com.br/product/1603106316/23798917221",
         "offerLink": "https://s.shopee.com.br/2LXMKtL7ex"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22098743002",
-      "name": "Tênis Unissex Skatista Casual Academia - Rosa, Cinza, Preto, Branco - 34 ao 43 - Resistente e confortável",
-      "price": 89.99,
-      "original_price": 199.98,
-      "discount": 55.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbphb37ke34p6f",
-      "link": "https://s.shopee.com.br/8AV9HcY2nt",
-      "rating": "4.9",
-      "sales": 3666,
-      "shop": "Orion Spolier",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22098743002,
-        "productName": "Tênis Unissex Skatista Casual Academia - Rosa, Cinza, Preto, Branco - 34 ao 43 - Resistente e confortável",
-        "price": "89.99",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.07",
-        "sales": 3666,
-        "ratingStar": "4.9",
-        "shopName": "Orion Spolier",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbphb37ke34p6f",
-        "productLink": "https://shopee.com.br/product/1186786093/22098743002",
-        "offerLink": "https://s.shopee.com.br/8AV9HcY2nt"
       },
       "_last_price": null
     },
@@ -12516,6 +12487,35 @@
       "_last_price": null
     },
     {
+      "id": "21998128832",
+      "name": "Suporte Ajustável Vertical para GPU Placa de Vídeo Anti Sag Universal para Gabinete PC Gamer",
+      "price": 7.49,
+      "original_price": 15.29,
+      "discount": 51.0,
+      "commission": 0.15,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825zr-mklbm2prptdx7f",
+      "link": "https://s.shopee.com.br/4qEkLc7exZ",
+      "rating": "4.8",
+      "sales": 112,
+      "shop": "MEGA1",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21998128832,
+        "productName": "Suporte Ajustável Vertical para GPU Placa de Vídeo Anti Sag Universal para Gabinete PC Gamer",
+        "price": "7.49",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.15",
+        "sales": 112,
+        "ratingStar": "4.8",
+        "shopName": "MEGA1",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zr-mklbm2prptdx7f",
+        "productLink": "https://shopee.com.br/product/664761873/21998128832",
+        "offerLink": "https://s.shopee.com.br/4qEkLc7exZ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23899175305",
       "name": "Lava Roupas Sabão em Pó com Percabonato Perfumado",
       "price": 19.97,
@@ -13062,6 +13062,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg8mdyb8amf868",
         "productLink": "https://shopee.com.br/product/440843436/20753602955",
         "offerLink": "https://s.shopee.com.br/4fvH736jxz"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58262995010",
+      "name": "Suporte para Placa de Vídeo Deadpool Exclusivo – GPU Ajustável Gamer Universal",
+      "price": 14.95,
+      "original_price": 29.9,
+      "discount": 50.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mpschi0yy2o0c3",
+      "link": "https://s.shopee.com.br/5LB0kgL4n7",
+      "rating": "4.9",
+      "sales": 108,
+      "shop": "Funciona Bem Utilidades",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58262995010,
+        "productName": "Suporte para Placa de Vídeo Deadpool Exclusivo – GPU Ajustável Gamer Universal",
+        "price": "14.95",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 108,
+        "ratingStar": "4.9",
+        "shopName": "Funciona Bem Utilidades",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mpschi0yy2o0c3",
+        "productLink": "https://shopee.com.br/product/1555847007/58262995010",
+        "offerLink": "https://s.shopee.com.br/5LB0kgL4n7"
       },
       "_last_price": null
     },
@@ -16082,35 +16111,6 @@
       "_last_price": null
     },
     {
-      "id": "56511310186",
-      "name": "Kit 3 Potes Herméticos 2L Para Lavanderia Com Vedação P/ Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
-      "price": 53.01,
-      "original_price": 100.02,
-      "discount": 47.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mosc7lrooo3n52",
-      "link": "https://s.shopee.com.br/4LIQiSy7wS",
-      "rating": "4.9",
-      "sales": 2895,
-      "shop": "CampvendasMulticoisas",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 56511310186,
-        "productName": "Kit 3 Potes Herméticos 2L Para Lavanderia Com Vedação P/ Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
-        "price": "53.01",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.12",
-        "sales": 2895,
-        "ratingStar": "4.9",
-        "shopName": "CampvendasMulticoisas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mosc7lrooo3n52",
-        "productLink": "https://shopee.com.br/product/1627792845/56511310186",
-        "offerLink": "https://s.shopee.com.br/4LIQiSy7wS"
-      },
-      "_last_price": null
-    },
-    {
       "id": "51961303157",
       "name": "Kit 3 a 10 Potes Herméticos 2L Para Lavanderia Com Vedação Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
       "price": 53.01,
@@ -16136,6 +16136,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mosjxda5lmva37",
         "productLink": "https://shopee.com.br/product/1627792845/51961303157",
         "offerLink": "https://s.shopee.com.br/111ykLAoi8"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "56511310186",
+      "name": "Kit 3 Potes Herméticos 2L Para Lavanderia Com Vedação P/ Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
+      "price": 53.01,
+      "original_price": 100.02,
+      "discount": 47.0,
+      "commission": 0.12,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mosc7lrooo3n52",
+      "link": "https://s.shopee.com.br/4LIQiSy7wS",
+      "rating": "4.9",
+      "sales": 2895,
+      "shop": "CampvendasMulticoisas",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 56511310186,
+        "productName": "Kit 3 Potes Herméticos 2L Para Lavanderia Com Vedação P/ Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
+        "price": "53.01",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.12",
+        "sales": 2895,
+        "ratingStar": "4.9",
+        "shopName": "CampvendasMulticoisas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mosc7lrooo3n52",
+        "productLink": "https://shopee.com.br/product/1627792845/56511310186",
+        "offerLink": "https://s.shopee.com.br/4LIQiSy7wS"
       },
       "_last_price": null
     },
@@ -19677,6 +19706,35 @@
       "_last_price": null
     },
     {
+      "id": "23597371285",
+      "name": "Shampoo Antiparasitário World Veterinária Dug's para Cães - 500ml",
+      "price": 10.65,
+      "original_price": 18.36,
+      "discount": 42.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mqddeln57gg1a1",
+      "link": "https://s.shopee.com.br/40faz0pStd",
+      "rating": "4.9",
+      "sales": 3309,
+      "shop": "mypetone",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23597371285,
+        "productName": "Shampoo Antiparasitário World Veterinária Dug's para Cães - 500ml",
+        "price": "10.65",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.11",
+        "sales": 3309,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mqddeln57gg1a1",
+        "productLink": "https://shopee.com.br/product/290073877/23597371285",
+        "offerLink": "https://s.shopee.com.br/40faz0pStd"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58211387990",
       "name": "Perfume Árabe Masculino Asad Bourbon Eau De Parfum 100ML",
       "price": 115.98,
@@ -20456,35 +20514,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/c09f0fbd455b065b796fbedfb3c45cf1",
         "productLink": "https://shopee.com.br/product/504210070/10928841452",
         "offerLink": "https://s.shopee.com.br/LmHxJZ70X"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22395013875",
-      "name": "Suporte para Placa de Vídeo GPU Ajustável Nvidia e Radeon Universal Cores Branco & Preto",
-      "price": 11.99,
-      "original_price": 19.98,
-      "discount": 40.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mpausqremvpcc7",
-      "link": "https://s.shopee.com.br/3VjJiuBBKc",
-      "rating": "4.9",
-      "sales": 263,
-      "shop": "Legacy 3D Storee",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22395013875,
-        "productName": "Suporte para Placa de Vídeo GPU Ajustável Nvidia e Radeon Universal Cores Branco & Preto",
-        "price": "11.99",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.08",
-        "sales": 263,
-        "ratingStar": "4.9",
-        "shopName": "Legacy 3D Storee",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mpausqremvpcc7",
-        "productLink": "https://shopee.com.br/product/1848916283/22395013875",
-        "offerLink": "https://s.shopee.com.br/3VjJiuBBKc"
       },
       "_last_price": null
     },
@@ -21707,35 +21736,6 @@
       "_last_price": null
     },
     {
-      "id": "23493418176",
-      "name": "Kit 3 Panos de Chão Microfibra 70x60cm Furo para Rodo Dupla Camada",
-      "price": 21.99,
-      "original_price": 36.05,
-      "discount": 39.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8262v-ml180252vj0gcc",
-      "link": "https://s.shopee.com.br/5VUO6dFYUv",
-      "rating": "4.8",
-      "sales": 3597,
-      "shop": "Power Fibra 2",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23493418176,
-        "productName": "Kit 3 Panos de Chão Microfibra 70x60cm Furo para Rodo Dupla Camada",
-        "price": "21.99",
-        "priceDiscountRate": 39,
-        "commissionRate": "0.08",
-        "sales": 3597,
-        "ratingStar": "4.8",
-        "shopName": "Power Fibra 2",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262v-ml180252vj0gcc",
-        "productLink": "https://shopee.com.br/product/335170333/23493418176",
-        "offerLink": "https://s.shopee.com.br/5VUO6dFYUv"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23997504841",
       "name": "Kit 10 Pano de Chão Grande de Microfibra 50x60cm",
       "price": 43.99,
@@ -22896,6 +22896,35 @@
       "_last_price": null
     },
     {
+      "id": "22895975988",
+      "name": "Tênis Feminino casual confortável e leve para trabalho e lazer barato lançamento 2023",
+      "price": 37.9,
+      "original_price": 60.16,
+      "discount": 37.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-li3p8dqyzbzz7b",
+      "link": "https://s.shopee.com.br/5LAxuPipYa",
+      "rating": "4.8",
+      "sales": 2534,
+      "shop": "R.SHOESS",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22895975988,
+        "productName": "Tênis Feminino casual confortável e leve para trabalho e lazer barato lançamento 2023",
+        "price": "37.9",
+        "priceDiscountRate": 37,
+        "commissionRate": "0.13",
+        "sales": 2534,
+        "ratingStar": "4.8",
+        "shopName": "R.SHOESS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li3p8dqyzbzz7b",
+        "productLink": "https://shopee.com.br/product/426736090/22895975988",
+        "offerLink": "https://s.shopee.com.br/5LAxuPipYa"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22293624070",
       "name": "Mochila feminina Impermeável Luxo Couro Sintetico Grande, Moderna, Faculdade/Trabalho 2026",
       "price": 28.35,
@@ -23153,35 +23182,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mriqddxnod8n6f",
         "productLink": "https://shopee.com.br/product/408653169/23615780781",
         "offerLink": "https://s.shopee.com.br/2qTcvjPhue"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21897728259",
-      "name": "Shampoo com Cera de carnaúba pH Neutro para Lavagem de Carro e Moto Xampu Automotivo",
-      "price": 19.99,
-      "original_price": 31.23,
-      "discount": 36.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mqnhnkgkscua7d",
-      "link": "https://s.shopee.com.br/5q7GmL0G9h",
-      "rating": "4.8",
-      "sales": 2170,
-      "shop": "BUENO ESTETICA AUTO",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21897728259,
-        "productName": "Shampoo com Cera de carnaúba pH Neutro para Lavagem de Carro e Moto Xampu Automotivo",
-        "price": "19.99",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.03",
-        "sales": 2170,
-        "ratingStar": "4.8",
-        "shopName": "BUENO ESTETICA AUTO",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mqnhnkgkscua7d",
-        "productLink": "https://shopee.com.br/product/1091428082/21897728259",
-        "offerLink": "https://s.shopee.com.br/5q7GmL0G9h"
       },
       "_last_price": null
     },
@@ -24665,35 +24665,6 @@
       "_last_price": null
     },
     {
-      "id": "22494696420",
-      "name": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
-      "price": 28.49,
-      "original_price": 43.17,
-      "discount": 34.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3zupa92neo67",
-      "link": "https://s.shopee.com.br/111ykPn0M8",
-      "rating": "4.9",
-      "sales": 900,
-      "shop": "Chegô",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22494696420,
-        "productName": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
-        "price": "28.49",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.03",
-        "sales": 900,
-        "ratingStar": "4.9",
-        "shopName": "Chegô",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3zupa92neo67",
-        "productLink": "https://shopee.com.br/product/1248266601/22494696420",
-        "offerLink": "https://s.shopee.com.br/111ykPn0M8"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58254463290",
       "name": "Ração Special Dog Ultralife Performance 20kg Cães Adultos Carne e Frango Premium Alta Nutrição",
       "price": 171.9,
@@ -25125,6 +25096,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mnelfbq3bablef",
         "productLink": "https://shopee.com.br/product/323786292/58208932216",
         "offerLink": "https://s.shopee.com.br/2VqobreaJl"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58206237985",
+      "name": "Kit 3 a 10 Potes Herméticos 2L Dispenser Organizador Lavanderia Para Sabão em Pó Detergente Amaciante",
+      "price": 49.89,
+      "original_price": 74.46,
+      "discount": 33.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mrlojlsb4cn8e5",
+      "link": "https://s.shopee.com.br/7VFVWXjZMy",
+      "rating": "4.9",
+      "sales": 219,
+      "shop": "LANO ECOM",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58206237985,
+        "productName": "Kit 3 a 10 Potes Herméticos 2L Dispenser Organizador Lavanderia Para Sabão em Pó Detergente Amaciante",
+        "price": "49.89",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.03",
+        "sales": 219,
+        "ratingStar": "4.9",
+        "shopName": "LANO ECOM",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mrlojlsb4cn8e5",
+        "productLink": "https://shopee.com.br/product/1536563744/58206237985",
+        "offerLink": "https://s.shopee.com.br/7VFVWXjZMy"
       },
       "_last_price": null
     },
@@ -27420,35 +27420,6 @@
       "_last_price": null
     },
     {
-      "id": "58250224504",
-      "name": "Placa de Vídeo Biostar AMD Radeon RX 580 2048SP, 8GB, GDDR5, 256 Bit, VA5815RF82",
-      "price": 924.99,
-      "original_price": 1284.71,
-      "discount": 28.0,
-      "commission": 0.06,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-821en-mgi9xqxveqdldd",
-      "link": "https://s.shopee.com.br/1gHfXXIA3B",
-      "rating": "4.9",
-      "sales": 227,
-      "shop": "Terabyte ",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58250224504,
-        "productName": "Placa de Vídeo Biostar AMD Radeon RX 580 2048SP, 8GB, GDDR5, 256 Bit, VA5815RF82",
-        "price": "924.99",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.06",
-        "sales": 227,
-        "ratingStar": "4.9",
-        "shopName": "Terabyte ",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821en-mgi9xqxveqdldd",
-        "productLink": "https://shopee.com.br/product/1552226494/58250224504",
-        "offerLink": "https://s.shopee.com.br/1gHfXXIA3B"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22994696891",
       "name": "Repetidor de Sinal Wi-Fi Roteador Wireless 2.4G Sem Fio 4 Antenas Longo Alcance Potente Fácil Instalação",
       "price": 64.9,
@@ -27735,6 +27706,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mlp37yq2ldza90",
         "productLink": "https://shopee.com.br/product/763085885/45557096111",
         "offerLink": "https://s.shopee.com.br/8KoZTznFtK"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22799024930",
+      "name": "Pasta Térmica Prata GD900 4,8W/MK Computadores Placas de video video games 1g 3g 7g 15g e 30g",
+      "price": 11.3,
+      "original_price": 15.48,
+      "discount": 27.0,
+      "commission": 0.14,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mnn02h22dxc2e2",
+      "link": "https://s.shopee.com.br/4Az3YOACJN",
+      "rating": "4.9",
+      "sales": 120,
+      "shop": "Lupa Eletronicos",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22799024930,
+        "productName": "Pasta Térmica Prata GD900 4,8W/MK Computadores Placas de video video games 1g 3g 7g 15g e 30g",
+        "price": "11.3",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.14",
+        "sales": 120,
+        "ratingStar": "4.9",
+        "shopName": "Lupa Eletronicos",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mnn02h22dxc2e2",
+        "productLink": "https://shopee.com.br/product/1494295469/22799024930",
+        "offerLink": "https://s.shopee.com.br/4Az3YOACJN"
       },
       "_last_price": null
     },
@@ -28489,6 +28489,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4f-m7pqiw99z9nr22",
         "productLink": "https://shopee.com.br/product/410663728/23898339097",
         "offerLink": "https://s.shopee.com.br/4VbrOHopPh"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23493418176",
+      "name": "Kit 3 Panos de Chão Microfibra 70x60cm Furo para Rodo Dupla Camada",
+      "price": 26.99,
+      "original_price": 35.99,
+      "discount": 25.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8262v-ml180252vj0gcc",
+      "link": "https://s.shopee.com.br/5VUO6dFYUv",
+      "rating": "4.8",
+      "sales": 3597,
+      "shop": "Power Fibra 2",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23493418176,
+        "productName": "Kit 3 Panos de Chão Microfibra 70x60cm Furo para Rodo Dupla Camada",
+        "price": "26.99",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.08",
+        "sales": 3597,
+        "ratingStar": "4.8",
+        "shopName": "Power Fibra 2",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262v-ml180252vj0gcc",
+        "productLink": "https://shopee.com.br/product/335170333/23493418176",
+        "offerLink": "https://s.shopee.com.br/5VUO6dFYUv"
       },
       "_last_price": null
     },
@@ -29711,6 +29740,35 @@
       "_last_price": null
     },
     {
+      "id": "23993119525",
+      "name": "Placa De Vídeo Pcyes Edge Rx 550 4gb 128bit Gamer",
+      "price": 607.11,
+      "original_price": 778.35,
+      "discount": 22.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4b-lx7bdoheeudka9",
+      "link": "https://s.shopee.com.br/5q7HLbJAmE",
+      "rating": "4.9",
+      "sales": 71,
+      "shop": "Turum",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23993119525,
+        "productName": "Placa De Vídeo Pcyes Edge Rx 550 4gb 128bit Gamer",
+        "price": "607.11",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.03",
+        "sales": 71,
+        "ratingStar": "4.9",
+        "shopName": "Turum",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4b-lx7bdoheeudka9",
+        "productLink": "https://shopee.com.br/product/285615675/23993119525",
+        "offerLink": "https://s.shopee.com.br/5q7HLbJAmE"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22692646370",
       "name": "DESINFETANTE URCA PINHO - 500ML",
       "price": 4.29,
@@ -30349,35 +30407,6 @@
       "_last_price": null
     },
     {
-      "id": "58201941320",
-      "name": "Placa De Vídeo GTX 550 Ti 2GB GDDR5 128Bits HDMI VGA DVI PCI-E Recondicionada",
-      "price": 399.99,
-      "original_price": 499.99,
-      "discount": 20.0,
-      "commission": 0.09,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mpqtfqbbug3ne7",
-      "link": "https://s.shopee.com.br/3g2jvDAXzd",
-      "rating": "4.9",
-      "sales": 181,
-      "shop": "LOX-1",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58201941320,
-        "productName": "Placa De Vídeo GTX 550 Ti 2GB GDDR5 128Bits HDMI VGA DVI PCI-E Recondicionada",
-        "price": "399.99",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.09",
-        "sales": 181,
-        "ratingStar": "4.9",
-        "shopName": "LOX-1",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mpqtfqbbug3ne7",
-        "productLink": "https://shopee.com.br/product/956346509/58201941320",
-        "offerLink": "https://s.shopee.com.br/3g2jvDAXzd"
-      },
-      "_last_price": null
-    },
-    {
       "id": "21499179442",
       "name": "Termômetro Digital G-tech Branco",
       "price": 19.99,
@@ -30954,35 +30983,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me7jrmrfqww3cd",
         "productLink": "https://shopee.com.br/product/1316730580/41054174116",
         "offerLink": "https://s.shopee.com.br/5ArXiCGiCG"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58203314751",
-      "name": "Suporte Ajustável Vertical para Placa de Vídeo GPU | Anti-Sag | Universal HD PC Gamer",
-      "price": 12.9,
-      "original_price": 15.93,
-      "discount": 19.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mqmt88f9o83m7e",
-      "link": "https://s.shopee.com.br/2gACjNEM1X",
-      "rating": "4.9",
-      "sales": 181,
-      "shop": "AL Store Home",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58203314751,
-        "productName": "Suporte Ajustável Vertical para Placa de Vídeo GPU | Anti-Sag | Universal HD PC Gamer",
-        "price": "12.9",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.03",
-        "sales": 181,
-        "ratingStar": "4.9",
-        "shopName": "AL Store Home",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mqmt88f9o83m7e",
-        "productLink": "https://shopee.com.br/product/1038039469/58203314751",
-        "offerLink": "https://s.shopee.com.br/2gACjNEM1X"
       },
       "_last_price": null
     },
@@ -31741,6 +31741,35 @@
       "_last_price": null
     },
     {
+      "id": "23498326001",
+      "name": "PC Gamer Intel - SSD + Placa de Vídeo | Garantia 12 Meses",
+      "price": 997.85,
+      "original_price": 1202.23,
+      "discount": 17.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf9t94d3k35zcf",
+      "link": "https://s.shopee.com.br/4fvK9J8IIW",
+      "rating": "4.8",
+      "sales": 28,
+      "shop": "Kureon",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498326001,
+        "productName": "PC Gamer Intel - SSD + Placa de Vídeo | Garantia 12 Meses",
+        "price": "997.85",
+        "priceDiscountRate": 17,
+        "commissionRate": "0.11",
+        "sales": 28,
+        "ratingStar": "4.8",
+        "shopName": "Kureon",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf9t94d3k35zcf",
+        "productLink": "https://shopee.com.br/product/1011629770/23498326001",
+        "offerLink": "https://s.shopee.com.br/4fvK9J8IIW"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23293825207",
       "name": "Fonte Gamer 650W Real ATX | Potência Estável, Silenciosa, Ideal para PC Gamer, Alta Performance",
       "price": 214.9,
@@ -31853,35 +31882,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mrk3wi4x7tvrfe",
         "productLink": "https://shopee.com.br/product/347988064/23697731904",
         "offerLink": "https://s.shopee.com.br/40faJuXenj"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23197376436",
-      "name": "Coleira World Dug's 17g Antipulgas para Cães - 56cm",
-      "price": 10.98,
-      "original_price": 13.23,
-      "discount": 17.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2oom1rsw242",
-      "link": "https://s.shopee.com.br/4fvH7ALNHU",
-      "rating": "4.9",
-      "sales": 2619,
-      "shop": "mypetone",
-      "category": "coleira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23197376436,
-        "productName": "Coleira World Dug's 17g Antipulgas para Cães - 56cm",
-        "price": "10.98",
-        "priceDiscountRate": 17,
-        "commissionRate": "0.11",
-        "sales": 2619,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2oom1rsw242",
-        "productLink": "https://shopee.com.br/product/290073877/23197376436",
-        "offerLink": "https://s.shopee.com.br/4fvH7ALNHU"
       },
       "_last_price": null
     },
