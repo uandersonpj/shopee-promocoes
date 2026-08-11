@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T07:52:36.531208+00:00",
+  "updated_at": "2026-08-11T08:11:43.278941+00:00",
   "total": 1136,
   "products": [
     {
@@ -92,8 +92,8 @@
     {
       "id": "24683837124",
       "name": "Conjunto De Anzol De Peixe , Aço De Alto Carbono , Anzóis Farpados Para Água Salgada , Equipamento De Pesca De Doce",
-      "price": 14.27,
-      "original_price": 129.73,
+      "price": 14.54,
+      "original_price": 132.18,
       "discount": 89.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823qq-mp4mttd95lald6",
@@ -106,7 +106,7 @@
       "_item": {
         "itemId": 24683837124,
         "productName": "Conjunto De Anzol De Peixe , Aço De Alto Carbono , Anzóis Farpados Para Água Salgada , Equipamento De Pesca De Doce",
-        "price": "14.27",
+        "price": "14.54",
         "priceDiscountRate": 89,
         "commissionRate": "0.07",
         "sales": 1446,
@@ -785,8 +785,8 @@
     {
       "id": "51250897834",
       "name": " Óculos de sol redondos pequenos para homens e mulheres, proteção UV, proteção solar, moda ao ar livre, óculos para",
-      "price": 11.68,
-      "original_price": 64.89,
+      "price": 11.77,
+      "original_price": 65.39,
       "discount": 82.0,
       "commission": 0.09,
       "image": "https://cf.shopee.com.br/file/sg-11134301-825a2-mgdcr60zrwgcdc",
@@ -799,7 +799,7 @@
       "_item": {
         "itemId": 51250897834,
         "productName": " Óculos de sol redondos pequenos para homens e mulheres, proteção UV, proteção solar, moda ao ar livre, óculos para",
-        "price": "11.68",
+        "price": "11.77",
         "priceDiscountRate": 82,
         "commissionRate": "0.09",
         "sales": 2249,
@@ -1011,7 +1011,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b5-mr8gyqsp0av57f",
         "productLink": "https://shopee.com.br/product/1006215031/53604373378",
         "offerLink": "https://s.shopee.com.br/60QgvRRDKs"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21897981294",
@@ -1561,35 +1562,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9iwo74if11e5e",
         "productLink": "https://shopee.com.br/product/1392120718/20499592472",
         "offerLink": "https://s.shopee.com.br/40fcOkwJe2"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "25074712287",
-      "name": "20 Peças Cabeça De Pesca Líderes De Linha De Aço Inoxidável Com Fivela Giratória Para Equipamento De Isca Ou Ganchos",
-      "price": 7.51,
-      "original_price": 32.65,
-      "discount": 77.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
-      "link": "https://s.shopee.com.br/8AV9HeOVPX",
-      "rating": "4.9",
-      "sales": 1211,
-      "shop": "Choice Oficial",
-      "category": "linha de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 25074712287,
-        "productName": "20 Peças Cabeça De Pesca Líderes De Linha De Aço Inoxidável Com Fivela Giratória Para Equipamento De Isca Ou Ganchos",
-        "price": "7.51",
-        "priceDiscountRate": 77,
-        "commissionRate": "0.07",
-        "sales": 1211,
-        "ratingStar": "4.9",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
-        "productLink": "https://shopee.com.br/product/1006215031/25074712287",
-        "offerLink": "https://s.shopee.com.br/8AV9HeOVPX"
       },
       "_last_price": null
     },
@@ -2377,6 +2349,35 @@
       "_last_price": null
     },
     {
+      "id": "25074712287",
+      "name": "20 Peças Cabeça De Pesca Líderes De Linha De Aço Inoxidável Com Fivela Giratória Para Equipamento De Isca Ou Ganchos",
+      "price": 9.02,
+      "original_price": 33.41,
+      "discount": 73.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
+      "link": "https://s.shopee.com.br/8AV9HeOVPX",
+      "rating": "4.9",
+      "sales": 1211,
+      "shop": "Choice Oficial",
+      "category": "linha de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 25074712287,
+        "productName": "20 Peças Cabeça De Pesca Líderes De Linha De Aço Inoxidável Com Fivela Giratória Para Equipamento De Isca Ou Ganchos",
+        "price": "9.02",
+        "priceDiscountRate": 73,
+        "commissionRate": "0.07",
+        "sales": 1211,
+        "ratingStar": "4.9",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
+        "productLink": "https://shopee.com.br/product/1006215031/25074712287",
+        "offerLink": "https://s.shopee.com.br/8AV9HeOVPX"
+      },
+      "_last_price": null
+    },
+    {
       "id": "25072829729",
       "name": "Suporte De Carregamento De Telefone De Parede Não Perfurado Para Banheiro E kit chen Minimalista , rack De Armazenamento",
       "price": 4.11,
@@ -2837,6 +2838,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr7g6pzaeed783",
         "productLink": "https://shopee.com.br/product/465639879/23397324970",
         "offerLink": "https://s.shopee.com.br/8fRPsY10Xb"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "49953222946",
+      "name": "Óculos De Sol Triangulares Retrô Com Proteção UV400 Unissex Da Moda Para Homens E Mulheres",
+      "price": 10.82,
+      "original_price": 37.31,
+      "discount": 71.0,
+      "commission": 0.12,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825a9-mr8gtwdet05dbe",
+      "link": "https://s.shopee.com.br/5q7EVLTSfo",
+      "rating": "4.9",
+      "sales": 1380,
+      "shop": "Choice Oficial",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 49953222946,
+        "productName": "Óculos De Sol Triangulares Retrô Com Proteção UV400 Unissex Da Moda Para Homens E Mulheres",
+        "price": "10.82",
+        "priceDiscountRate": 71,
+        "commissionRate": "0.12",
+        "sales": 1380,
+        "ratingStar": "4.9",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a9-mr8gtwdet05dbe",
+        "productLink": "https://shopee.com.br/product/1006215031/49953222946",
+        "offerLink": "https://s.shopee.com.br/5q7EVLTSfo"
       },
       "_last_price": null
     },
@@ -4958,35 +4988,6 @@
       "_last_price": null
     },
     {
-      "id": "22095032045",
-      "name": "Caixa De Pesca Grande Capacidade 24/28 Grade Acessórios Artes Gancho Isca À Prova D'água Armazenamento",
-      "price": 17.09,
-      "original_price": 50.26,
-      "discount": 66.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823pf-moy4j7lpdjb5d4",
-      "link": "https://s.shopee.com.br/2LXMoSohq2",
-      "rating": "4.8",
-      "sales": 419,
-      "shop": "WS Diario",
-      "category": "isca pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22095032045,
-        "productName": "Caixa De Pesca Grande Capacidade 24/28 Grade Acessórios Artes Gancho Isca À Prova D'água Armazenamento",
-        "price": "17.09",
-        "priceDiscountRate": 66,
-        "commissionRate": "0.03",
-        "sales": 419,
-        "ratingStar": "4.8",
-        "shopName": "WS Diario",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pf-moy4j7lpdjb5d4",
-        "productLink": "https://shopee.com.br/product/698887220/22095032045",
-        "offerLink": "https://s.shopee.com.br/2LXMoSohq2"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58208583352",
       "name": "Boné De Beisebol Com Óculos De Sol Falsos , Proteção Solar , Verão , Macio Para Corrida , Caminhada , Pesca Vários cores",
       "price": 19.97,
@@ -5857,35 +5858,6 @@
       "_last_price": null
     },
     {
-      "id": "24224867991",
-      "name": "Óculos De Sol Unissex À Prova De Vento Para Ciclismo – Proteção UV Grandes De Meia Armação Esportes/Condução",
-      "price": 8.67,
-      "original_price": 24.08,
-      "discount": 64.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82614-mjl7s4901ds7be",
-      "link": "https://s.shopee.com.br/8fRPsYIfvD",
-      "rating": "4.9",
-      "sales": 1782,
-      "shop": "Choice Oficial",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 24224867991,
-        "productName": "Óculos De Sol Unissex À Prova De Vento Para Ciclismo – Proteção UV Grandes De Meia Armação Esportes/Condução",
-        "price": "8.67",
-        "priceDiscountRate": 64,
-        "commissionRate": "0.07",
-        "sales": 1782,
-        "ratingStar": "4.9",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82614-mjl7s4901ds7be",
-        "productLink": "https://shopee.com.br/product/1006215031/24224867991",
-        "offerLink": "https://s.shopee.com.br/8fRPsYIfvD"
-      },
-      "_last_price": null
-    },
-    {
       "id": "40507734458",
       "name": "Óculos De Sol Redondos Retrô Moda Unissex Decoração Fotográfica Para Homens E Mulheres",
       "price": 5.11,
@@ -5911,35 +5883,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rasq-mb7ktswdhbvm1f",
         "productLink": "https://shopee.com.br/product/1006215031/40507734458",
         "offerLink": "https://s.shopee.com.br/5LAxuQVMgl"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "49953222946",
-      "name": "Óculos De Sol Triangulares Retrô Com Proteção UV400 Unissex Da Moda Para Homens E Mulheres",
-      "price": 10.82,
-      "original_price": 30.06,
-      "discount": 64.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825a9-mr8gtwdet05dbe",
-      "link": "https://s.shopee.com.br/5q7EVLTSfo",
-      "rating": "4.9",
-      "sales": 1380,
-      "shop": "Choice Oficial",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 49953222946,
-        "productName": "Óculos De Sol Triangulares Retrô Com Proteção UV400 Unissex Da Moda Para Homens E Mulheres",
-        "price": "10.82",
-        "priceDiscountRate": 64,
-        "commissionRate": "0.12",
-        "sales": 1380,
-        "ratingStar": "4.9",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a9-mr8gtwdet05dbe",
-        "productLink": "https://shopee.com.br/product/1006215031/49953222946",
-        "offerLink": "https://s.shopee.com.br/5q7EVLTSfo"
       },
       "_last_price": null
     },
@@ -8699,6 +8642,35 @@
       "_last_price": null
     },
     {
+      "id": "24224867991",
+      "name": "Óculos De Sol Unissex À Prova De Vento Para Ciclismo – Proteção UV Grandes De Meia Armação Esportes/Condução",
+      "price": 9.92,
+      "original_price": 23.62,
+      "discount": 58.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82614-mjl7s4901ds7be",
+      "link": "https://s.shopee.com.br/8fRPsYIfvD",
+      "rating": "4.9",
+      "sales": 1782,
+      "shop": "Choice Oficial",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 24224867991,
+        "productName": "Óculos De Sol Unissex À Prova De Vento Para Ciclismo – Proteção UV Grandes De Meia Armação Esportes/Condução",
+        "price": "9.92",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.07",
+        "sales": 1782,
+        "ratingStar": "4.9",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82614-mjl7s4901ds7be",
+        "productLink": "https://shopee.com.br/product/1006215031/24224867991",
+        "offerLink": "https://s.shopee.com.br/8fRPsYIfvD"
+      },
+      "_last_price": null
+    },
+    {
       "id": "27289841239",
       "name": "Conjunto De 2 Peças Inclui Vara De Pesca De Fundição Longa De 1,6/1,8/2,1 M E Carretel metal 7,2 : 1",
       "price": 36.0,
@@ -9894,7 +9866,7 @@
       "original_price": 26.16,
       "discount": 56.0,
       "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823ql-mp4mi069s35s2d",
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259o-mrr21pdkehhj30",
       "link": "https://s.shopee.com.br/8pkq4rI2aE",
       "rating": "4.9",
       "sales": 1810,
@@ -9910,7 +9882,7 @@
         "sales": 1810,
         "ratingStar": "4.9",
         "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823ql-mp4mi069s35s2d",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259o-mrr21pdkehhj30",
         "productLink": "https://shopee.com.br/product/1006215031/56654809434",
         "offerLink": "https://s.shopee.com.br/8pkq4rI2aE"
       },
@@ -10064,8 +10036,8 @@
     {
       "id": "26236796614",
       "name": "Luz Noturna Flutuador Eletrônico Pesca CR425 Bateria 5 Peças Para Substituição",
-      "price": 9.51,
-      "original_price": 21.61,
+      "price": 10.37,
+      "original_price": 23.57,
       "discount": 56.0,
       "commission": 0.16,
       "image": "https://cf.shopee.com.br/file/sg-11134301-7rff4-m9paksgtm7554a",
@@ -10078,7 +10050,7 @@
       "_item": {
         "itemId": 26236796614,
         "productName": "Luz Noturna Flutuador Eletrônico Pesca CR425 Bateria 5 Peças Para Substituição",
-        "price": "9.51",
+        "price": "10.37",
         "priceDiscountRate": 56,
         "commissionRate": "0.16",
         "sales": 49,
@@ -12324,35 +12296,6 @@
       "_last_price": null
     },
     {
-      "id": "24162454732",
-      "name": "Relógio De Quartzo Masculino Fashion-Forward : Pulseira De Nylon Durável Para Vidas Ativas",
-      "price": 6.66,
-      "original_price": 13.88,
-      "discount": 52.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7qvcv-lff99w88x5e6c4",
-      "link": "https://s.shopee.com.br/2LXMKuP7OS",
-      "rating": "4.6",
-      "sales": 2213,
-      "shop": "Choice Oficial",
-      "category": "relogio masculino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 24162454732,
-        "productName": "Relógio De Quartzo Masculino Fashion-Forward : Pulseira De Nylon Durável Para Vidas Ativas",
-        "price": "6.66",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.07",
-        "sales": 2213,
-        "ratingStar": "4.6",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvcv-lff99w88x5e6c4",
-        "productLink": "https://shopee.com.br/product/1006215031/24162454732",
-        "offerLink": "https://s.shopee.com.br/2LXMKuP7OS"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58202079450",
       "name": "Tenis Masculino + Relogio + Meia Esportivo  Academia Corrida Caminhada Super leve e Macio",
       "price": 57.56,
@@ -12900,6 +12843,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262r-mkl2wjyyx9flf8",
         "productLink": "https://shopee.com.br/product/1406964673/22894848502",
         "offerLink": "https://s.shopee.com.br/4VbqurvH7D"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "24162454732",
+      "name": "Relógio De Quartzo Masculino Fashion-Forward : Pulseira De Nylon Durável Para Vidas Ativas",
+      "price": 6.8,
+      "original_price": 13.88,
+      "discount": 51.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7qvcv-lff99w88x5e6c4",
+      "link": "https://s.shopee.com.br/2LXMKuP7OS",
+      "rating": "4.6",
+      "sales": 2213,
+      "shop": "Choice Oficial",
+      "category": "relogio masculino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 24162454732,
+        "productName": "Relógio De Quartzo Masculino Fashion-Forward : Pulseira De Nylon Durável Para Vidas Ativas",
+        "price": "6.8",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.07",
+        "sales": 2213,
+        "ratingStar": "4.6",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvcv-lff99w88x5e6c4",
+        "productLink": "https://shopee.com.br/product/1006215031/24162454732",
+        "offerLink": "https://s.shopee.com.br/2LXMKuP7OS"
       },
       "_last_price": null
     },
@@ -15833,35 +15805,6 @@
       "_last_price": null
     },
     {
-      "id": "41601446410",
-      "name": "Proteção Solar Respirável Flexível Unissex Luvas De Motocicleta Para Ciclismo Pesca Condução Atividades Ao Ar Livre",
-      "price": 11.21,
-      "original_price": 21.56,
-      "discount": 48.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823pi-mp4mu2u5xq8e68",
-      "link": "https://s.shopee.com.br/7VFSUUchDW",
-      "rating": "4.9",
-      "sales": 923,
-      "shop": "Choice Oficial",
-      "category": "luva pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41601446410,
-        "productName": "Proteção Solar Respirável Flexível Unissex Luvas De Motocicleta Para Ciclismo Pesca Condução Atividades Ao Ar Livre",
-        "price": "11.21",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.07",
-        "sales": 923,
-        "ratingStar": "4.9",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pi-mp4mu2u5xq8e68",
-        "productLink": "https://shopee.com.br/product/1006215031/41601446410",
-        "offerLink": "https://s.shopee.com.br/7VFSUUchDW"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23699007677",
       "name": "36 Etiquetas Adesivas Temperos Condimentos Mantimentos Resistente à Água Cozinha Organização Pantry 3,8x3,8",
       "price": 10.5,
@@ -16699,6 +16642,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mnm2elt70b9c20",
         "productLink": "https://shopee.com.br/product/801125047/23599290240",
         "offerLink": "https://s.shopee.com.br/7fYsgkm0IB"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "41601446410",
+      "name": "Proteção Solar Respirável Flexível Unissex Luvas De Motocicleta Para Ciclismo Pesca Condução Atividades Ao Ar Livre",
+      "price": 11.4,
+      "original_price": 21.51,
+      "discount": 47.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823pi-mp4mu2u5xq8e68",
+      "link": "https://s.shopee.com.br/7VFSUUchDW",
+      "rating": "4.9",
+      "sales": 923,
+      "shop": "Choice Oficial",
+      "category": "luva pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41601446410,
+        "productName": "Proteção Solar Respirável Flexível Unissex Luvas De Motocicleta Para Ciclismo Pesca Condução Atividades Ao Ar Livre",
+        "price": "11.4",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.07",
+        "sales": 923,
+        "ratingStar": "4.9",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pi-mp4mu2u5xq8e68",
+        "productLink": "https://shopee.com.br/product/1006215031/41601446410",
+        "offerLink": "https://s.shopee.com.br/7VFSUUchDW"
       },
       "_last_price": null
     },
@@ -18124,35 +18096,6 @@
       "_last_price": null
     },
     {
-      "id": "28905503722",
-      "name": "Caixa De Equipamento De Pesca Dupla Face , Portátil , Resistente À Pressão E A Quedas Para Armazenar Isca",
-      "price": 18.0,
-      "original_price": 32.73,
-      "discount": 45.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/sg-11134301-824j0-mpunpqiwbxtt40",
-      "link": "https://s.shopee.com.br/1gHg1ErFBq",
-      "rating": "4.7",
-      "sales": 790,
-      "shop": "Choice Oficial",
-      "category": "isca pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 28905503722,
-        "productName": "Caixa De Equipamento De Pesca Dupla Face , Portátil , Resistente À Pressão E A Quedas Para Armazenar Isca",
-        "price": "18",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.11",
-        "sales": 790,
-        "ratingStar": "4.7",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824j0-mpunpqiwbxtt40",
-        "productLink": "https://shopee.com.br/product/1006215031/28905503722",
-        "offerLink": "https://s.shopee.com.br/1gHg1ErFBq"
-      },
-      "_last_price": null
-    },
-    {
       "id": "42160394708",
       "name": "Boné de beisebol camuflado masculino, perfeito para pesca, airsoft, táticas e caminhadas, com cobertura total.",
       "price": 20.76,
@@ -19309,6 +19252,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aw-mftl47ed1zpo44",
         "productLink": "https://shopee.com.br/product/1620512848/19299897374",
         "offerLink": "https://s.shopee.com.br/4Vbquu33o5"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22095032045",
+      "name": "Caixa De Pesca Grande Capacidade 24/28 Grade Acessórios Artes Gancho Isca À Prova D'água Armazenamento",
+      "price": 17.09,
+      "original_price": 29.98,
+      "discount": 43.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823pf-moy4j7lpdjb5d4",
+      "link": "https://s.shopee.com.br/2LXMoSohq2",
+      "rating": "4.8",
+      "sales": 419,
+      "shop": "WS Diario",
+      "category": "isca pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22095032045,
+        "productName": "Caixa De Pesca Grande Capacidade 24/28 Grade Acessórios Artes Gancho Isca À Prova D'água Armazenamento",
+        "price": "17.09",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.03",
+        "sales": 419,
+        "ratingStar": "4.8",
+        "shopName": "WS Diario",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pf-moy4j7lpdjb5d4",
+        "productLink": "https://shopee.com.br/product/698887220/22095032045",
+        "offerLink": "https://s.shopee.com.br/2LXMoSohq2"
       },
       "_last_price": null
     },
@@ -25316,6 +25288,35 @@
       "_last_price": null
     },
     {
+      "id": "28905503722",
+      "name": "Caixa De Equipamento De Pesca Dupla Face , Portátil , Resistente À Pressão E A Quedas Para Armazenar Isca",
+      "price": 21.6,
+      "original_price": 32.24,
+      "discount": 33.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/sg-11134301-824j0-mpunpqiwbxtt40",
+      "link": "https://s.shopee.com.br/1gHg1ErFBq",
+      "rating": "4.7",
+      "sales": 790,
+      "shop": "Choice Oficial",
+      "category": "isca pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 28905503722,
+        "productName": "Caixa De Equipamento De Pesca Dupla Face , Portátil , Resistente À Pressão E A Quedas Para Armazenar Isca",
+        "price": "21.6",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.11",
+        "sales": 790,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824j0-mpunpqiwbxtt40",
+        "productLink": "https://shopee.com.br/product/1006215031/28905503722",
+        "offerLink": "https://s.shopee.com.br/1gHg1ErFBq"
+      },
+      "_last_price": null
+    },
+    {
       "id": "8569890556",
       "name": "Colete Salva Vidas infantil Boia 10a60 kg Três cores",
       "price": 59.56,
@@ -27023,6 +27024,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r2-mp7mdleq5s7472",
         "productLink": "https://shopee.com.br/product/1483446294/58212113005",
         "offerLink": "https://s.shopee.com.br/19S2AxaZc"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "24276224233",
+      "name": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
+      "price": 30.93,
+      "original_price": 44.19,
+      "discount": 30.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
+      "link": "https://s.shopee.com.br/9pdNGkQ9Vn",
+      "rating": "4.7",
+      "sales": 380,
+      "shop": "Choice Oficial",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 24276224233,
+        "productName": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
+        "price": "30.93",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.13",
+        "sales": 380,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
+        "productLink": "https://shopee.com.br/product/1006215031/24276224233",
+        "offerLink": "https://s.shopee.com.br/9pdNGkQ9Vn"
       },
       "_last_price": null
     },
@@ -29923,35 +29953,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b1-mqz0pmbmpz4404",
         "productLink": "https://shopee.com.br/product/1459376727/56651005420",
         "offerLink": "https://s.shopee.com.br/7psIt3lMxC"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "24276224233",
-      "name": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
-      "price": 35.55,
-      "original_price": 45.58,
-      "discount": 22.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
-      "link": "https://s.shopee.com.br/9pdNGkQ9Vn",
-      "rating": "4.7",
-      "sales": 380,
-      "shop": "Choice Oficial",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 24276224233,
-        "productName": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
-        "price": "35.55",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.13",
-        "sales": 380,
-        "ratingStar": "4.7",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
-        "productLink": "https://shopee.com.br/product/1006215031/24276224233",
-        "offerLink": "https://s.shopee.com.br/9pdNGkQ9Vn"
       },
       "_last_price": null
     },
