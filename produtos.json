@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T22:29:04.314302+00:00",
-  "total": 1130,
+  "updated_at": "2026-08-11T22:48:24.566321+00:00",
+  "total": 1127,
   "products": [
     {
       "id": "23698808886",
@@ -1767,7 +1767,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1xeanm14pt61d",
         "productLink": "https://shopee.com.br/product/1017646777/22198016021",
         "offerLink": "https://s.shopee.com.br/AAGDfEahz5"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22998670251",
@@ -7611,8 +7612,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mno6bdwtdn9cda",
         "productLink": "https://shopee.com.br/product/1512106181/29594282517",
         "offerLink": "https://s.shopee.com.br/3B6X156Q5v"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23999314273",
@@ -11413,6 +11413,35 @@
       "_last_price": null
     },
     {
+      "id": "20598270836",
+      "name": "Kit 3un Molho Especial Para Ração Cães Cremoso SALSAPETTI 250g",
+      "price": 18.99,
+      "original_price": 40.4,
+      "discount": 53.0,
+      "commission": 0.1,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcrto5965ulued",
+      "link": "https://s.shopee.com.br/20uVwFjCKU",
+      "rating": "4.9",
+      "sales": 545,
+      "shop": "Magazine Animal",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20598270836,
+        "productName": "Kit 3un Molho Especial Para Ração Cães Cremoso SALSAPETTI 250g",
+        "price": "18.99",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.1",
+        "sales": 545,
+        "ratingStar": "4.9",
+        "shopName": "Magazine Animal",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcrto5965ulued",
+        "productLink": "https://shopee.com.br/product/847641179/20598270836",
+        "offerLink": "https://s.shopee.com.br/20uVwFjCKU"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19097661270",
       "name": "Coleira Anti-Pulga Carrapato Ácaro Para Gatos Pet Cachorros",
       "price": 13.99,
@@ -14366,35 +14395,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mqce0aq551j56f",
         "productLink": "https://shopee.com.br/product/293152127/57404370857",
         "offerLink": "https://s.shopee.com.br/904GH7IY7Q"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "45054396139",
-      "name": "Ração úmida Friskies Sabores Variados para Gatos 15x85 g",
-      "price": 40.9,
-      "original_price": 80.2,
-      "discount": 49.0,
-      "commission": 0.21,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
-      "link": "https://s.shopee.com.br/3VjJj0v9fQ",
-      "rating": "5",
-      "sales": 8105,
-      "shop": "LeluPets",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45054396139,
-        "productName": "Ração úmida Friskies Sabores Variados para Gatos 15x85 g",
-        "price": "40.9",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.21",
-        "sales": 8105,
-        "ratingStar": "5",
-        "shopName": "LeluPets",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
-        "productLink": "https://shopee.com.br/product/293152127/45054396139",
-        "offerLink": "https://s.shopee.com.br/3VjJj0v9fQ"
       },
       "_last_price": null
     },
@@ -17469,6 +17469,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r3-mor0whudq1ose3",
         "productLink": "https://shopee.com.br/product/849977839/41131242539",
         "offerLink": "https://s.shopee.com.br/5VURnFVZCI"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58251490676",
+      "name": "Percarbonato de Sódio Roupa Preta Protege o Preto e Realça a Cor | removedor de mancha até 2kg",
+      "price": 35.9,
+      "original_price": 65.27,
+      "discount": 45.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mnyckham9fcx45",
+      "link": "https://s.shopee.com.br/50YBMst45T",
+      "rating": "4.9",
+      "sales": 1477,
+      "shop": "Acha Tudo + Barato",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58251490676,
+        "productName": "Percarbonato de Sódio Roupa Preta Protege o Preto e Realça a Cor | removedor de mancha até 2kg",
+        "price": "35.9",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.13",
+        "sales": 1477,
+        "ratingStar": "4.9",
+        "shopName": "Acha Tudo + Barato",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mnyckham9fcx45",
+        "productLink": "https://shopee.com.br/product/358661860/58251490676",
+        "offerLink": "https://s.shopee.com.br/50YBMst45T"
       },
       "_last_price": null
     },
@@ -22347,8 +22376,8 @@
     {
       "id": "58203174132",
       "name": "CASA CASINHA CACHORRO - CÃES -  PETS N8 N9 - PORTES MEDIOS - GRANDES | PRONTA ENTREGA",
-      "price": 219.9,
-      "original_price": 349.05,
+      "price": 197.0,
+      "original_price": 312.7,
       "discount": 37.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mr1pal9vi6fbaf",
@@ -22361,7 +22390,7 @@
       "_item": {
         "itemId": 58203174132,
         "productName": "CASA CASINHA CACHORRO - CÃES -  PETS N8 N9 - PORTES MEDIOS - GRANDES | PRONTA ENTREGA",
-        "price": "219.9",
+        "price": "197",
         "priceDiscountRate": 37,
         "commissionRate": "0.03",
         "sales": 596,
@@ -23675,35 +23704,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mr1zwjey22o459",
         "productLink": "https://shopee.com.br/product/1571276714/58209837071",
         "offerLink": "https://s.shopee.com.br/9pdNGeFNQf"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "52007121909",
-      "name": "Pedigree Sachê 100g Leve 18 un",
-      "price": 51.9,
-      "original_price": 79.85,
-      "discount": 35.0,
-      "commission": 0.1,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mr7g4dyvmdc76a",
-      "link": "https://s.shopee.com.br/2VqmXAhIJZ",
-      "rating": "5",
-      "sales": 503,
-      "shop": "Pet & Pet",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 52007121909,
-        "productName": "Pedigree Sachê 100g Leve 18 un",
-        "price": "51.9",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.1",
-        "sales": 503,
-        "ratingStar": "5",
-        "shopName": "Pet & Pet",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mr7g4dyvmdc76a",
-        "productLink": "https://shopee.com.br/product/706961933/52007121909",
-        "offerLink": "https://s.shopee.com.br/2VqmXAhIJZ"
       },
       "_last_price": null
     },
@@ -25709,35 +25709,6 @@
       "_last_price": null
     },
     {
-      "id": "23536021583",
-      "name": "Amaciante Comfort Lavanderia Pro - 7L",
-      "price": 84.99,
-      "original_price": 123.17,
-      "discount": 31.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824iv-mpy09p4p44ct54",
-      "link": "https://s.shopee.com.br/7Acd1aX4bZ",
-      "rating": "4.9",
-      "sales": 375,
-      "shop": "Braslimpo",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23536021583,
-        "productName": "Amaciante Comfort Lavanderia Pro - 7L",
-        "price": "84.99",
-        "priceDiscountRate": 31,
-        "commissionRate": "0.03",
-        "sales": 375,
-        "ratingStar": "4.9",
-        "shopName": "Braslimpo",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824iv-mpy09p4p44ct54",
-        "productLink": "https://shopee.com.br/product/946161700/23536021583",
-        "offerLink": "https://s.shopee.com.br/7Acd1aX4bZ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22091082363",
       "name": "Clorexidina Dug's Shampoo World Veterinária para Cães & Gatos - 500 mL",
       "price": 15.44,
@@ -27710,6 +27681,35 @@
       "_last_price": null
     },
     {
+      "id": "22998349138",
+      "name": "Fonte atx Seasonic 300W 80 Plus",
+      "price": 89.0,
+      "original_price": 120.27,
+      "discount": 26.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7pbe9d0oriae7",
+      "link": "https://s.shopee.com.br/4qElni3nOb",
+      "rating": "4.9",
+      "sales": 26,
+      "shop": "Lírio variedades",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22998349138,
+        "productName": "Fonte atx Seasonic 300W 80 Plus",
+        "price": "89",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.03",
+        "sales": 26,
+        "ratingStar": "4.9",
+        "shopName": "Lírio variedades",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7pbe9d0oriae7",
+        "productLink": "https://shopee.com.br/product/965583949/22998349138",
+        "offerLink": "https://s.shopee.com.br/4qElni3nOb"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58252905782",
       "name": "OMO Sabão em Pó Lava Roupas Tamanho Família 2,4 Kg",
       "price": 40.9,
@@ -29653,35 +29653,6 @@
       "_last_price": null
     },
     {
-      "id": "23799322848",
-      "name": "Kit de Roteador Deco X50(3un.) Dual Band AX3000 Mesh Wi-Fi 6,Cobre até 600m², 150 dispositivos",
-      "price": 1319.0,
-      "original_price": 1669.62,
-      "discount": 21.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke5icst998i02",
-      "link": "https://s.shopee.com.br/3qMDs6NPrk",
-      "rating": "4.9",
-      "sales": 96,
-      "shop": "TP-Link Brasil",
-      "category": "roteador wifi",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23799322848,
-        "productName": "Kit de Roteador Deco X50(3un.) Dual Band AX3000 Mesh Wi-Fi 6,Cobre até 600m², 150 dispositivos",
-        "price": "1319",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.11",
-        "sales": 96,
-        "ratingStar": "4.9",
-        "shopName": "TP-Link Brasil",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke5icst998i02",
-        "productLink": "https://shopee.com.br/product/1719323300/23799322848",
-        "offerLink": "https://s.shopee.com.br/3qMDs6NPrk"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23796239641",
       "name": "Lava Roupas Liquido Urca Lavanda - 3L",
       "price": 19.9,
@@ -29765,35 +29736,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcex-lslue7zt1z3pfc",
         "productLink": "https://shopee.com.br/product/754451852/21199212964",
         "offerLink": "https://s.shopee.com.br/8pktlNIsQc"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "13214435371",
-      "name": "Lava Roupas Liquido  Urca Azul - 3l",
-      "price": 19.9,
-      "original_price": 25.19,
-      "discount": 21.0,
-      "commission": 0.16,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40puqy992k5b8",
-      "link": "https://s.shopee.com.br/80BmlqM37X",
-      "rating": "4.9",
-      "sales": 2057,
-      "shop": "Casa de Gê",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 13214435371,
-        "productName": "Lava Roupas Liquido  Urca Azul - 3l",
-        "price": "19.9",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.16",
-        "sales": 2057,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40puqy992k5b8",
-        "productLink": "https://shopee.com.br/product/534023108/13214435371",
-        "offerLink": "https://s.shopee.com.br/80BmlqM37X"
       },
       "_last_price": null
     },
@@ -29939,35 +29881,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mrgdkfdeckckaa",
         "productLink": "https://shopee.com.br/product/347988064/22593481622",
         "offerLink": "https://s.shopee.com.br/6L3V6CgNCv"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58253906134",
-      "name": "Panela de Pressão Elétrica PPE-102 – 6L Kian Timer Ajustável Controle de Temperatura Cuba Antiaderente Preto",
-      "price": 301.99,
-      "original_price": 382.27,
-      "discount": 21.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-820mt-mncvxpksawp093",
-      "link": "https://s.shopee.com.br/1LespiDOoO",
-      "rating": "4.9",
-      "sales": 1275,
-      "shop": "Smart Choice Multistore",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58253906134,
-        "productName": "Panela de Pressão Elétrica PPE-102 – 6L Kian Timer Ajustável Controle de Temperatura Cuba Antiaderente Preto",
-        "price": "301.99",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.12",
-        "sales": 1275,
-        "ratingStar": "4.9",
-        "shopName": "Smart Choice Multistore",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820mt-mncvxpksawp093",
-        "productLink": "https://shopee.com.br/product/1200371337/58253906134",
-        "offerLink": "https://s.shopee.com.br/1LespiDOoO"
       },
       "_last_price": null
     },
@@ -31973,35 +31886,6 @@
       "_last_price": null
     },
     {
-      "id": "19697669045",
-      "name": "GABINETE OFFICE ESCRITORIO MICRO ATX PRETO SEM FONTE GB1752 HAYOM",
-      "price": 69.16,
-      "original_price": 82.33,
-      "discount": 16.0,
-      "commission": 0.1,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdzxwvwdem0w69",
-      "link": "https://s.shopee.com.br/gP8LihUgU",
-      "rating": "4.8",
-      "sales": 134,
-      "shop": "Pentamax",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19697669045,
-        "productName": "GABINETE OFFICE ESCRITORIO MICRO ATX PRETO SEM FONTE GB1752 HAYOM",
-        "price": "69.16",
-        "priceDiscountRate": 16,
-        "commissionRate": "0.1",
-        "sales": 134,
-        "ratingStar": "4.8",
-        "shopName": "Pentamax",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdzxwvwdem0w69",
-        "productLink": "https://shopee.com.br/product/752685729/19697669045",
-        "offerLink": "https://s.shopee.com.br/gP8LihUgU"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58252899562",
       "name": "Kit Etiquetas Transparentes Lavanderia Impermeáveis Organização Potes Sabão Amaciante Clean Moderno",
       "price": 13.9,
@@ -32549,6 +32433,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mq58okdu0s1tc2",
         "productLink": "https://shopee.com.br/product/1027982682/23098884809",
         "offerLink": "https://s.shopee.com.br/3VjJiwaUtx"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22593058408",
+      "name": "Ração Quatree Life 10.1Kg Ração Quatree Gatos Adultos Salmão e Arroz Ração Quatree Gatos 10Kg",
+      "price": 167.91,
+      "original_price": 197.54,
+      "discount": 15.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd72-lvt04eugw3tpbe",
+      "link": "https://s.shopee.com.br/2LXMKrzb2d",
+      "rating": "4.9",
+      "sales": 1144,
+      "shop": "Marcinho PET",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22593058408,
+        "productName": "Ração Quatree Life 10.1Kg Ração Quatree Gatos Adultos Salmão e Arroz Ração Quatree Gatos 10Kg",
+        "price": "167.91",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.03",
+        "sales": 1144,
+        "ratingStar": "4.9",
+        "shopName": "Marcinho PET",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd72-lvt04eugw3tpbe",
+        "productLink": "https://shopee.com.br/product/1194006916/22593058408",
+        "offerLink": "https://s.shopee.com.br/2LXMKrzb2d"
       },
       "_last_price": null
     },
