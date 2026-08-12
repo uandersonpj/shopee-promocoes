@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T04:57:11.387399+00:00",
+  "updated_at": "2026-08-12T05:16:03.801414+00:00",
   "total": 1131,
   "products": [
     {
@@ -13184,7 +13184,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mo6y0m3644xs31",
         "productLink": "https://shopee.com.br/product/1564593552/22394970918",
         "offerLink": "https://s.shopee.com.br/9ANlGQskMZ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19799547080",
@@ -21279,8 +21280,8 @@
     {
       "id": "41417041430",
       "name": "Placa de Vídeo MSI NVIDIA GeForce RTX 5060 SHADOW 2X OC, 8GB, GDDR7, 128 Bits - 912-V537-037",
-      "price": 2799.0,
-      "original_price": 4588.52,
+      "price": 2789.0,
+      "original_price": 4572.13,
       "discount": 39.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-824h3-me53t34yuepze5",
@@ -21293,7 +21294,7 @@
       "_item": {
         "itemId": 41417041430,
         "productName": "Placa de Vídeo MSI NVIDIA GeForce RTX 5060 SHADOW 2X OC, 8GB, GDDR7, 128 Bits - 912-V537-037",
-        "price": "2799",
+        "price": "2789",
         "priceDiscountRate": 39,
         "commissionRate": "0.03",
         "sales": 124,
@@ -27280,6 +27281,35 @@
       "_last_price": null
     },
     {
+      "id": "23697597322",
+      "name": "Petisco Para Gatos Churu 56g - Contém 4 Tubets De 14g Cada Unidade - Vários Sabores",
+      "price": 24.11,
+      "original_price": 33.96,
+      "discount": 29.0,
+      "commission": 0.18,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzrq3b4jnz1hb3",
+      "link": "https://s.shopee.com.br/6fgQHurRdd",
+      "rating": "5",
+      "sales": 3205,
+      "shop": "LeluPets",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23697597322,
+        "productName": "Petisco Para Gatos Churu 56g - Contém 4 Tubets De 14g Cada Unidade - Vários Sabores",
+        "price": "24.11",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.18",
+        "sales": 3205,
+        "ratingStar": "5",
+        "shopName": "LeluPets",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzrq3b4jnz1hb3",
+        "productLink": "https://shopee.com.br/product/293152127/23697597322",
+        "offerLink": "https://s.shopee.com.br/6fgQHurRdd"
+      },
+      "_last_price": null
+    },
+    {
       "id": "53056867747",
       "name": "Kit 24 unidades Whiskas Sachê 85g Sachê para Gatos Adultos Sabores Frango Atum Carne Alimento Úmido",
       "price": 51.9,
@@ -27943,35 +27973,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdxibc71og01ff",
         "productLink": "https://shopee.com.br/product/1360835786/22394358184",
         "offerLink": "https://s.shopee.com.br/30n7v8fskt"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23697597322",
-      "name": "Petisco Para Gatos Churu 56g - Contém 4 Tubets De 14g Cada Unidade - Vários Sabores",
-      "price": 24.9,
-      "original_price": 34.11,
-      "discount": 27.0,
-      "commission": 0.18,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzrq3b4jnz1hb3",
-      "link": "https://s.shopee.com.br/6fgQHurRdd",
-      "rating": "5",
-      "sales": 3205,
-      "shop": "LeluPets",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23697597322,
-        "productName": "Petisco Para Gatos Churu 56g - Contém 4 Tubets De 14g Cada Unidade - Vários Sabores",
-        "price": "24.9",
-        "priceDiscountRate": 27,
-        "commissionRate": "0.18",
-        "sales": 3205,
-        "ratingStar": "5",
-        "shopName": "LeluPets",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzrq3b4jnz1hb3",
-        "productLink": "https://shopee.com.br/product/293152127/23697597322",
-        "offerLink": "https://s.shopee.com.br/6fgQHurRdd"
       },
       "_last_price": null
     },
