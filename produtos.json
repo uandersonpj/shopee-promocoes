@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-12T22:52:50.831450+00:00",
-  "total": 1131,
+  "updated_at": "2026-08-12T23:11:54.510652+00:00",
+  "total": 1133,
   "products": [
     {
       "id": "23698808886",
@@ -1359,7 +1359,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm5-lln14dkqwcs917",
         "productLink": "https://shopee.com.br/product/504210070/22492388439",
         "offerLink": "https://s.shopee.com.br/9pdS3rG9vd"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22733755777",
@@ -2313,6 +2314,35 @@
       "_last_price": null
     },
     {
+      "id": "25074712287",
+      "name": "20 Peças Cabeça De Pesca Líderes De Linha De Aço Inoxidável Com Fivela Giratória Para Equipamento De Isca Ou Ganchos",
+      "price": 9.02,
+      "original_price": 33.41,
+      "discount": 73.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
+      "link": "https://s.shopee.com.br/7Acgsu9vMV",
+      "rating": "4.9",
+      "sales": 1359,
+      "shop": "Choice Oficial",
+      "category": "linha de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 25074712287,
+        "productName": "20 Peças Cabeça De Pesca Líderes De Linha De Aço Inoxidável Com Fivela Giratória Para Equipamento De Isca Ou Ganchos",
+        "price": "9.02",
+        "priceDiscountRate": 73,
+        "commissionRate": "0.07",
+        "sales": 1359,
+        "ratingStar": "4.9",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
+        "productLink": "https://shopee.com.br/product/1006215031/25074712287",
+        "offerLink": "https://s.shopee.com.br/7Acgsu9vMV"
+      },
+      "_last_price": null
+    },
+    {
       "id": "25072829729",
       "name": "Suporte De Carregamento De Telefone De Parede Não Perfurado Para Banheiro E kit chen Minimalista , rack De Armazenamento",
       "price": 4.11,
@@ -3124,8 +3154,8 @@
     {
       "id": "58207198817",
       "name": "Vara Telescópica JOKER - MARURI",
-      "price": 23.99,
-      "original_price": 79.97,
+      "price": 24.0,
+      "original_price": 80.0,
       "discount": 70.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
@@ -3138,7 +3168,7 @@
       "_item": {
         "itemId": 58207198817,
         "productName": "Vara Telescópica JOKER - MARURI",
-        "price": "23.99",
+        "price": "24",
         "priceDiscountRate": 70,
         "commissionRate": "0.03",
         "sales": 273,
@@ -4825,8 +4855,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mj9nvm63moee73",
         "productLink": "https://shopee.com.br/product/1613783173/51004391053",
         "offerLink": "https://s.shopee.com.br/1gHkKiFHc1"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23294180222",
@@ -8802,6 +8831,35 @@
       "_last_price": null
     },
     {
+      "id": "13826483495",
+      "name": "Kit Gamer Teclado Semi Mecânico + Mouse Led Chroma Rgb Iluminado Jogos Pc Usb",
+      "price": 46.99,
+      "original_price": 109.28,
+      "discount": 57.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-821ft-mgrza68fc1701d",
+      "link": "https://s.shopee.com.br/7Kw7kEbmH2",
+      "rating": "4.8",
+      "sales": 151,
+      "shop": "GOLDPLANET.SHOP",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 13826483495,
+        "productName": "Kit Gamer Teclado Semi Mecânico + Mouse Led Chroma Rgb Iluminado Jogos Pc Usb",
+        "price": "46.99",
+        "priceDiscountRate": 57,
+        "commissionRate": "0.07",
+        "sales": 151,
+        "ratingStar": "4.8",
+        "shopName": "GOLDPLANET.SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ft-mgrza68fc1701d",
+        "productLink": "https://shopee.com.br/product/484636839/13826483495",
+        "offerLink": "https://s.shopee.com.br/7Kw7kEbmH2"
+      },
+      "_last_price": null
+    },
+    {
       "id": "45562032588",
       "name": "Chaveiro Anti Estresse Teclado Mecânico Teclas Fidget Sensorial Clicker Qualidade",
       "price": 12.99,
@@ -11180,35 +11238,6 @@
       "_last_price": null
     },
     {
-      "id": "13826483495",
-      "name": "Kit Gamer Teclado Semi Mecânico + Mouse Led Chroma Rgb Iluminado Jogos Pc Usb",
-      "price": 51.99,
-      "original_price": 110.62,
-      "discount": 53.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-821ft-mgrza68fc1701d",
-      "link": "https://s.shopee.com.br/7Kw7kEbmH2",
-      "rating": "4.8",
-      "sales": 151,
-      "shop": "GOLDPLANET.SHOP",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 13826483495,
-        "productName": "Kit Gamer Teclado Semi Mecânico + Mouse Led Chroma Rgb Iluminado Jogos Pc Usb",
-        "price": "51.99",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.07",
-        "sales": 151,
-        "ratingStar": "4.8",
-        "shopName": "GOLDPLANET.SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ft-mgrza68fc1701d",
-        "productLink": "https://shopee.com.br/product/484636839/13826483495",
-        "offerLink": "https://s.shopee.com.br/7Kw7kEbmH2"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58204629642",
       "name": "Teclado Mecânico Gamer Red Switch Rayder RGB 60% Compacto Profissional ABNT2 Original Ozzix",
       "price": 139.97,
@@ -11505,7 +11534,7 @@
       "original_price": 29.77,
       "discount": 53.0,
       "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mrm2mn3yt6h38c",
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mrtdjoilxr0n34",
       "link": "https://s.shopee.com.br/2gAHWYXPEP",
       "rating": "4.8",
       "sales": 2337,
@@ -11521,7 +11550,7 @@
         "sales": 2337,
         "ratingStar": "4.8",
         "shopName": "WAVESHOOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mrm2mn3yt6h38c",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mrtdjoilxr0n34",
         "productLink": "https://shopee.com.br/product/1254143605/58209373369",
         "offerLink": "https://s.shopee.com.br/2gAHWYXPEP"
       },
@@ -12371,8 +12400,8 @@
     {
       "id": "23899175305",
       "name": "Lava Roupas Sabão em Pó com Percabonato Perfumado",
-      "price": 19.97,
-      "original_price": 40.76,
+      "price": 19.99,
+      "original_price": 40.8,
       "discount": 51.0,
       "commission": 0.13,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh7w9dwt8q9s2d",
@@ -12385,7 +12414,7 @@
       "_item": {
         "itemId": 23899175305,
         "productName": "Lava Roupas Sabão em Pó com Percabonato Perfumado",
-        "price": "19.97",
+        "price": "19.99",
         "priceDiscountRate": 51,
         "commissionRate": "0.13",
         "sales": 692,
@@ -13235,6 +13264,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-moib3dnmnpqe9b",
         "productLink": "https://shopee.com.br/product/969508885/19799547080",
         "offerLink": "https://s.shopee.com.br/8fRUfWGeIC"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "51357135187",
+      "name": "Pano de Chão Microfibra 60x80 Super Absorvente | Não Solta Fiapo e Seca Rápido",
+      "price": 26.0,
+      "original_price": 52.0,
+      "discount": 50.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825zq-mlqzqvti0xkzd5",
+      "link": "https://s.shopee.com.br/2qTj2aIdgy",
+      "rating": "4.7",
+      "sales": 604,
+      "shop": "JOIS TÊXTIL",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 51357135187,
+        "productName": "Pano de Chão Microfibra 60x80 Super Absorvente | Não Solta Fiapo e Seca Rápido",
+        "price": "26",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.13",
+        "sales": 604,
+        "ratingStar": "4.7",
+        "shopName": "JOIS TÊXTIL",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zq-mlqzqvti0xkzd5",
+        "productLink": "https://shopee.com.br/product/1562086133/51357135187",
+        "offerLink": "https://s.shopee.com.br/2qTj2aIdgy"
       },
       "_last_price": null
     },
@@ -17154,6 +17212,35 @@
       "_last_price": null
     },
     {
+      "id": "23693095393",
+      "name": "Kit 6 Formas de Silicone Para Air Fryer Reutilizável Tamanho Variado Protetor Assadeira Com Alça",
+      "price": 13.49,
+      "original_price": 24.98,
+      "discount": 46.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd6o-lwqhu99frqaf3e",
+      "link": "https://s.shopee.com.br/4LIVVdvJlv",
+      "rating": "4.7",
+      "sales": 1932,
+      "shop": "TeamW Ecommerce",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23693095393,
+        "productName": "Kit 6 Formas de Silicone Para Air Fryer Reutilizável Tamanho Variado Protetor Assadeira Com Alça",
+        "price": "13.49",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.03",
+        "sales": 1932,
+        "ratingStar": "4.7",
+        "shopName": "TeamW Ecommerce",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd6o-lwqhu99frqaf3e",
+        "productLink": "https://shopee.com.br/product/950037595/23693095393",
+        "offerLink": "https://s.shopee.com.br/4LIVVdvJlv"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23893219807",
       "name": "TOMI MITO Bolsa Mochila Grande De Ombro e Transversal Feminina De Couro PU B303",
       "price": 74.99,
@@ -20775,6 +20862,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9qxx0p1ifpe76",
         "productLink": "https://shopee.com.br/product/1087983137/18598161767",
         "offerLink": "https://s.shopee.com.br/8V84TINzgt"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22694663438",
+      "name": "Panela de Pressão Elétrica Digital 5/6 litros Preta ou Inox - kian",
+      "price": 299.87,
+      "original_price": 499.78,
+      "discount": 40.0,
+      "commission": 0.18,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk10g04dmv4317",
+      "link": "https://s.shopee.com.br/4qEm6ZkUDE",
+      "rating": "4.9",
+      "sales": 1471,
+      "shop": "QueroObra",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22694663438,
+        "productName": "Panela de Pressão Elétrica Digital 5/6 litros Preta ou Inox - kian",
+        "price": "299.87",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.18",
+        "sales": 1471,
+        "ratingStar": "4.9",
+        "shopName": "QueroObra",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk10g04dmv4317",
+        "productLink": "https://shopee.com.br/product/563110312/22694663438",
+        "offerLink": "https://s.shopee.com.br/4qEm6ZkUDE"
       },
       "_last_price": null
     },
@@ -24433,35 +24549,6 @@
       "_last_price": null
     },
     {
-      "id": "22694663438",
-      "name": "Panela de Pressão Elétrica Digital 5/6 litros Preta ou Inox - kian",
-      "price": 329.9,
-      "original_price": 499.85,
-      "discount": 34.0,
-      "commission": 0.18,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk10g04dmv4317",
-      "link": "https://s.shopee.com.br/4qEm6ZkUDE",
-      "rating": "4.9",
-      "sales": 1471,
-      "shop": "QueroObra",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22694663438,
-        "productName": "Panela de Pressão Elétrica Digital 5/6 litros Preta ou Inox - kian",
-        "price": "329.9",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.18",
-        "sales": 1471,
-        "ratingStar": "4.9",
-        "shopName": "QueroObra",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk10g04dmv4317",
-        "productLink": "https://shopee.com.br/product/563110312/22694663438",
-        "offerLink": "https://s.shopee.com.br/4qEm6ZkUDE"
-      },
-      "_last_price": null
-    },
-    {
       "id": "57008381938",
       "name": "Tênis De Corrida Profissional Ultraleve Com Placa De Carbono De Sola Completa Para Maratona , Masculino E Feminino",
       "price": 68.99,
@@ -26981,35 +27068,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1pne0rg8no10d",
         "productLink": "https://shopee.com.br/product/344396564/11327686991",
         "offerLink": "https://s.shopee.com.br/8KoeGzOd1q"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22798642389",
-      "name": "Fritadeira Sem Óleo AirFryer HQ 4,8 litros Preto HQ-AF4.8LMP",
-      "price": 198.95,
-      "original_price": 280.21,
-      "discount": 29.0,
-      "commission": 0.04,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mr0bk1tj3eo755",
-      "link": "https://s.shopee.com.br/3g2oiPxr7b",
-      "rating": "4.9",
-      "sales": 1930,
-      "shop": "Belmicro Oficial",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22798642389,
-        "productName": "Fritadeira Sem Óleo AirFryer HQ 4,8 litros Preto HQ-AF4.8LMP",
-        "price": "198.95",
-        "priceDiscountRate": 29,
-        "commissionRate": "0.04",
-        "sales": 1930,
-        "ratingStar": "4.9",
-        "shopName": "Belmicro Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mr0bk1tj3eo755",
-        "productLink": "https://shopee.com.br/product/1388709282/22798642389",
-        "offerLink": "https://s.shopee.com.br/3g2oiPxr7b"
       },
       "_last_price": null
     },
