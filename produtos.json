@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-12T00:05:49.152760+00:00",
-  "total": 1128,
+  "updated_at": "2026-08-12T00:25:18.562569+00:00",
+  "total": 1125,
   "products": [
     {
       "id": "23698808886",
@@ -1361,8 +1361,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-23030-uqmdj6cmuqov90",
         "productLink": "https://shopee.com.br/product/237278238/22733755777",
         "offerLink": "https://s.shopee.com.br/6Ak8aTT1qM"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22994403632",
@@ -2723,7 +2722,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mlffathukzr9f4",
         "productLink": "https://shopee.com.br/product/1232299933/54850610196",
         "offerLink": "https://s.shopee.com.br/5ArXi5sjlP"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22793679889",
@@ -4790,7 +4790,7 @@
       "commission": 0.23,
       "image": "https://cf.shopee.com.br/file/br-11134201-820lv-mqxcc2tl2yh320",
       "link": "https://s.shopee.com.br/6VMvITBkT5",
-      "rating": "4.4",
+      "rating": "4.5",
       "sales": 4839,
       "shop": "INFINITY COMERCIO DE VARIEDADES",
       "category": "pano microfibra",
@@ -4802,7 +4802,7 @@
         "priceDiscountRate": 66,
         "commissionRate": "0.23",
         "sales": 4839,
-        "ratingStar": "4.4",
+        "ratingStar": "4.5",
         "shopName": "INFINITY COMERCIO DE VARIEDADES",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lv-mqxcc2tl2yh320",
         "productLink": "https://shopee.com.br/product/1003085235/20298963209",
@@ -8371,6 +8371,35 @@
       "_last_price": null
     },
     {
+      "id": "27288677008",
+      "name": "Creamy Wanpy Petisco Cremoso Para Gatos 14gx50 Tubos 700g Sabor Sortidos Truly",
+      "price": 149.9,
+      "original_price": 356.9,
+      "discount": 58.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6f38f500pze7",
+      "link": "https://s.shopee.com.br/6pzpgUvFmT",
+      "rating": "5",
+      "sales": 961,
+      "shop": "Tri1Pet",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 27288677008,
+        "productName": "Creamy Wanpy Petisco Cremoso Para Gatos 14gx50 Tubos 700g Sabor Sortidos Truly",
+        "price": "149.9",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.03",
+        "sales": 961,
+        "ratingStar": "5",
+        "shopName": "Tri1Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6f38f500pze7",
+        "productLink": "https://shopee.com.br/product/532546866/27288677008",
+        "offerLink": "https://s.shopee.com.br/6pzpgUvFmT"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22694463642",
       "name": "Forma Air Fryer 50/100/150/200/250 Descartável Antiaderente Redonda Forro De Papel Vegetal",
       "price": 13.99,
@@ -10922,6 +10951,35 @@
       "_last_price": null
     },
     {
+      "id": "22094228144",
+      "name": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
+      "price": 59.99,
+      "original_price": 130.41,
+      "discount": 54.0,
+      "commission": 0.1,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824hz-mpj8tt3gjlkx51",
+      "link": "https://s.shopee.com.br/gP8LqDrdT",
+      "rating": "4.9",
+      "sales": 5127,
+      "shop": "Amy.Store",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22094228144,
+        "productName": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
+        "price": "59.99",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.1",
+        "sales": 5127,
+        "ratingStar": "4.9",
+        "shopName": "Amy.Store",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824hz-mpj8tt3gjlkx51",
+        "productLink": "https://shopee.com.br/product/1468415010/22094228144",
+        "offerLink": "https://s.shopee.com.br/gP8LqDrdT"
+      },
+      "_last_price": null
+    },
+    {
       "id": "26487009662",
       "name": "Óculos de sol retrô de bambu, estilo vintage com hastes UV400 unissex, ideal para uso diário ao ar livre.",
       "price": 8.71,
@@ -12574,35 +12632,6 @@
       "_last_price": null
     },
     {
-      "id": "22797990501",
-      "name": "Pasta Térmica Prata GD900 Para Processador, PS2, PS3, PS4, Notebook, Placa de Vídeo e PC 1G-4,8W/m·K",
-      "price": 11.68,
-      "original_price": 23.36,
-      "discount": 50.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgfjgitsxamdce",
-      "link": "https://s.shopee.com.br/8AVCFnEfoX",
-      "rating": "4.9",
-      "sales": 1160,
-      "shop": "MAKING CASH",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22797990501,
-        "productName": "Pasta Térmica Prata GD900 Para Processador, PS2, PS3, PS4, Notebook, Placa de Vídeo e PC 1G-4,8W/m·K",
-        "price": "11.68",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.11",
-        "sales": 1160,
-        "ratingStar": "4.9",
-        "shopName": "MAKING CASH",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgfjgitsxamdce",
-        "productLink": "https://shopee.com.br/product/234308900/22797990501",
-        "offerLink": "https://s.shopee.com.br/8AVCFnEfoX"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58256611329",
       "name": "Suporte Ajustável Placa de Vídeo GPU Anti-Sag Universal 2,6cm a 12cm Suporte Vertical GPU PC Gamer Pequeno Médio Grande",
       "price": 10.95,
@@ -12686,6 +12715,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg8mdyb8amf868",
         "productLink": "https://shopee.com.br/product/440843436/20753602955",
         "offerLink": "https://s.shopee.com.br/4fvH736jxz"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58262995010",
+      "name": "Suporte para Placa de Vídeo Deadpool Exclusivo – GPU Ajustável Gamer Universal",
+      "price": 14.95,
+      "original_price": 29.9,
+      "discount": 50.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mpschi0yy2o0c3",
+      "link": "https://s.shopee.com.br/4Az576PMkC",
+      "rating": "4.9",
+      "sales": 111,
+      "shop": "Funciona Bem Utilidades",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58262995010,
+        "productName": "Suporte para Placa de Vídeo Deadpool Exclusivo – GPU Ajustável Gamer Universal",
+        "price": "14.95",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 111,
+        "ratingStar": "4.9",
+        "shopName": "Funciona Bem Utilidades",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mpschi0yy2o0c3",
+        "productLink": "https://shopee.com.br/product/1555847007/58262995010",
+        "offerLink": "https://s.shopee.com.br/4Az576PMkC"
       },
       "_last_price": null
     },
@@ -13439,35 +13497,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdnyjdmxoqfl3f",
         "productLink": "https://shopee.com.br/product/311566600/20098289822",
         "offerLink": "https://s.shopee.com.br/9pdNGgRhQ7"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22094228144",
-      "name": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
-      "price": 64.99,
-      "original_price": 129.98,
-      "discount": 50.0,
-      "commission": 0.1,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824hz-mpj8tt3gjlkx51",
-      "link": "https://s.shopee.com.br/gP8LqDrdT",
-      "rating": "4.9",
-      "sales": 5127,
-      "shop": "Amy.Store",
-      "category": "bolsa feminina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22094228144,
-        "productName": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
-        "price": "64.99",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.1",
-        "sales": 5127,
-        "ratingStar": "4.9",
-        "shopName": "Amy.Store",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824hz-mpj8tt3gjlkx51",
-        "productLink": "https://shopee.com.br/product/1468415010/22094228144",
-        "offerLink": "https://s.shopee.com.br/gP8LqDrdT"
       },
       "_last_price": null
     },
@@ -14367,35 +14396,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mqce0aq551j56f",
         "productLink": "https://shopee.com.br/product/293152127/57404370857",
         "offerLink": "https://s.shopee.com.br/904GH7IY7Q"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "45054396139",
-      "name": "Ração úmida Friskies Sabores Variados para Gatos 15x85 g",
-      "price": 40.9,
-      "original_price": 80.2,
-      "discount": 49.0,
-      "commission": 0.21,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
-      "link": "https://s.shopee.com.br/3VjJj0v9fQ",
-      "rating": "5",
-      "sales": 8105,
-      "shop": "LeluPets",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45054396139,
-        "productName": "Ração úmida Friskies Sabores Variados para Gatos 15x85 g",
-        "price": "40.9",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.21",
-        "sales": 8105,
-        "ratingStar": "5",
-        "shopName": "LeluPets",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
-        "productLink": "https://shopee.com.br/product/293152127/45054396139",
-        "offerLink": "https://s.shopee.com.br/3VjJj0v9fQ"
       },
       "_last_price": null
     },
@@ -17270,35 +17270,6 @@
       "_last_price": null
     },
     {
-      "id": "22498904690",
-      "name": "Suporte para Placa de Vídeo GPU Ajustável Nvidia e Radeon Universal",
-      "price": 10.99,
-      "original_price": 19.98,
-      "discount": 45.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mein7k9tgvep4c",
-      "link": "https://s.shopee.com.br/111ykJKhOr",
-      "rating": "4.9",
-      "sales": 1309,
-      "shop": "AutoPecasReches",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22498904690,
-        "productName": "Suporte para Placa de Vídeo GPU Ajustável Nvidia e Radeon Universal",
-        "price": "10.99",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.03",
-        "sales": 1309,
-        "ratingStar": "4.9",
-        "shopName": "AutoPecasReches",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mein7k9tgvep4c",
-        "productLink": "https://shopee.com.br/product/318894435/22498904690",
-        "offerLink": "https://s.shopee.com.br/111ykJKhOr"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58200006241",
       "name": "Modem 4g Lte Wi-fi Hotspot Roteador Dongle Usb 150 Mbps Cor Branco-v2",
       "price": 60.0,
@@ -19212,35 +19183,6 @@
       "_last_price": null
     },
     {
-      "id": "58253518870",
-      "name": "Pasta Térmica Prata Para Processador PS2 PS3 PS4 Notebook Placa de Vídeo e PC GD900 Alta Performance",
-      "price": 11.99,
-      "original_price": 20.67,
-      "discount": 42.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820la-mnndy9qshtkya8",
-      "link": "https://s.shopee.com.br/gP8LhLy4p",
-      "rating": "4.9",
-      "sales": 674,
-      "shop": "Cantraiz Shop",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58253518870,
-        "productName": "Pasta Térmica Prata Para Processador PS2 PS3 PS4 Notebook Placa de Vídeo e PC GD900 Alta Performance",
-        "price": "11.99",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.11",
-        "sales": 674,
-        "ratingStar": "4.9",
-        "shopName": "Cantraiz Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mnndy9qshtkya8",
-        "productLink": "https://shopee.com.br/product/296481818/58253518870",
-        "offerLink": "https://s.shopee.com.br/gP8LhLy4p"
-      },
-      "_last_price": null
-    },
-    {
       "id": "41417041430",
       "name": "Placa de Vídeo MSI NVIDIA GeForce RTX 5060 SHADOW 2X OC, 8GB, GDDR7, 128 Bits - 912-V537-037",
       "price": 2649.0,
@@ -20484,35 +20426,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf1h1y2ry8sk12",
         "productLink": "https://shopee.com.br/product/1564337780/22194458905",
         "offerLink": "https://s.shopee.com.br/qiYY5S2pO"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23199464390",
-      "name": "Ração Para Cachorro Adulto 15KG Com Ômega 3 E 6 Sabor Carne - Envio Imediato",
-      "price": 59.99,
-      "original_price": 99.98,
-      "discount": 40.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mpy0da621gjkab",
-      "link": "https://s.shopee.com.br/2BDw8YiYzX",
-      "rating": "4.9",
-      "sales": 494,
-      "shop": "MAXURE OFICIAL",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23199464390,
-        "productName": "Ração Para Cachorro Adulto 15KG Com Ômega 3 E 6 Sabor Carne - Envio Imediato",
-        "price": "59.99",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 494,
-        "ratingStar": "4.9",
-        "shopName": "MAXURE OFICIAL",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mpy0da621gjkab",
-        "productLink": "https://shopee.com.br/product/1671926137/23199464390",
-        "offerLink": "https://s.shopee.com.br/2BDw8YiYzX"
       },
       "_last_price": null
     },
@@ -22344,6 +22257,35 @@
       "_last_price": null
     },
     {
+      "id": "23199464390",
+      "name": "Ração Para Cachorro Adulto 15KG Com Ômega 3 E 6 Sabor Carne - Envio Imediato",
+      "price": 62.99,
+      "original_price": 99.98,
+      "discount": 37.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mpy0da621gjkab",
+      "link": "https://s.shopee.com.br/2BDw8YiYzX",
+      "rating": "4.9",
+      "sales": 494,
+      "shop": "MAXURE OFICIAL",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23199464390,
+        "productName": "Ração Para Cachorro Adulto 15KG Com Ômega 3 E 6 Sabor Carne - Envio Imediato",
+        "price": "62.99",
+        "priceDiscountRate": 37,
+        "commissionRate": "0.03",
+        "sales": 494,
+        "ratingStar": "4.9",
+        "shopName": "MAXURE OFICIAL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mpy0da621gjkab",
+        "productLink": "https://shopee.com.br/product/1671926137/23199464390",
+        "offerLink": "https://s.shopee.com.br/2BDw8YiYzX"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22893283679",
       "name": "Kit 15 unid Sachê Friskies Alimento Úmido Gatos Carne Frango Atum Peixe Branco Cordeiro Salmão Peru",
       "price": 36.42,
@@ -22659,35 +22601,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra2n-mbebm15ltjrk86",
         "productLink": "https://shopee.com.br/product/627750190/23094170351",
         "offerLink": "https://s.shopee.com.br/19RYUk22Q"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "54213125687",
-      "name": "Kit 3 Sabão em Pó Lava Roupas Profissional Max Essence ARES 800g",
-      "price": 20.9,
-      "original_price": 32.66,
-      "discount": 36.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mq3f4dh837cx5b",
-      "link": "https://s.shopee.com.br/1Lep8ws9go",
-      "rating": "4.8",
-      "sales": 802,
-      "shop": "Casa em Dia Comércio Ltda",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 54213125687,
-        "productName": "Kit 3 Sabão em Pó Lava Roupas Profissional Max Essence ARES 800g",
-        "price": "20.9",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.13",
-        "sales": 802,
-        "ratingStar": "4.8",
-        "shopName": "Casa em Dia Comércio Ltda",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mq3f4dh837cx5b",
-        "productLink": "https://shopee.com.br/product/1779446004/54213125687",
-        "offerLink": "https://s.shopee.com.br/1Lep8ws9go"
       },
       "_last_price": null
     },
@@ -23355,35 +23268,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mqvbo3ll08hv26",
         "productLink": "https://shopee.com.br/product/1321488407/22894551427",
         "offerLink": "https://s.shopee.com.br/9pdNGkhXqV"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22693663474",
-      "name": "Cabo Displayport  Blindado 4k Reforçado 144Hz 1,8 Metros Pra Placa de Vídeo Console Monitor Projetor",
-      "price": 14.99,
-      "original_price": 23.06,
-      "discount": 35.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ra2n-m5al23uxhcao0b",
-      "link": "https://s.shopee.com.br/LmHx5NEkn",
-      "rating": "4.8",
-      "sales": 516,
-      "shop": "TAC ELETRÔNICOS",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22693663474,
-        "productName": "Cabo Displayport  Blindado 4k Reforçado 144Hz 1,8 Metros Pra Placa de Vídeo Console Monitor Projetor",
-        "price": "14.99",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.03",
-        "sales": 516,
-        "ratingStar": "4.8",
-        "shopName": "TAC ELETRÔNICOS",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra2n-m5al23uxhcao0b",
-        "productLink": "https://shopee.com.br/product/390654042/22693663474",
-        "offerLink": "https://s.shopee.com.br/LmHx5NEkn"
       },
       "_last_price": null
     },
@@ -27390,31 +27274,31 @@
       "_last_price": null
     },
     {
-      "id": "58250224504",
-      "name": "Placa de Vídeo Biostar AMD Radeon RX 580 2048SP, 8GB, GDDR5, 256 Bit, VA5815RF82",
-      "price": 939.99,
-      "original_price": 1287.66,
+      "id": "22799024930",
+      "name": "Pasta Térmica Prata GD900 4,8W/MK Computadores Placas de video video games 1g 3g 7g 15g e 30g",
+      "price": 11.3,
+      "original_price": 15.48,
       "discount": 27.0,
-      "commission": 0.06,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-821en-mgi9xqxveqdldd",
-      "link": "https://s.shopee.com.br/1gHfXXIA3B",
+      "commission": 0.14,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mnn02h22dxc2e2",
+      "link": "https://s.shopee.com.br/4qEluKMpOO",
       "rating": "4.9",
-      "sales": 219,
-      "shop": "Terabyte ",
+      "sales": 123,
+      "shop": "Lupa Eletronicos",
       "category": "placa de video",
       "source": "shopee",
       "_item": {
-        "itemId": 58250224504,
-        "productName": "Placa de Vídeo Biostar AMD Radeon RX 580 2048SP, 8GB, GDDR5, 256 Bit, VA5815RF82",
-        "price": "939.99",
+        "itemId": 22799024930,
+        "productName": "Pasta Térmica Prata GD900 4,8W/MK Computadores Placas de video video games 1g 3g 7g 15g e 30g",
+        "price": "11.3",
         "priceDiscountRate": 27,
-        "commissionRate": "0.06",
-        "sales": 219,
+        "commissionRate": "0.14",
+        "sales": 123,
         "ratingStar": "4.9",
-        "shopName": "Terabyte ",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821en-mgi9xqxveqdldd",
-        "productLink": "https://shopee.com.br/product/1552226494/58250224504",
-        "offerLink": "https://s.shopee.com.br/1gHfXXIA3B"
+        "shopName": "Lupa Eletronicos",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mnn02h22dxc2e2",
+        "productLink": "https://shopee.com.br/product/1494295469/22799024930",
+        "offerLink": "https://s.shopee.com.br/4qEluKMpOO"
       },
       "_last_price": null
     },
@@ -29420,6 +29304,35 @@
       "_last_price": null
     },
     {
+      "id": "58212017173",
+      "name": "Placa de Vídeo MLLSE AMD Radeon RX 580 2048SP, 8GB, GDDR5, 256 Bit",
+      "price": 889.47,
+      "original_price": 1140.35,
+      "discount": 22.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mrpw2yx3d4p1cf",
+      "link": "https://s.shopee.com.br/4LIVJPOjPH",
+      "rating": "4.9",
+      "sales": 42,
+      "shop": "UpgradeJá",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58212017173,
+        "productName": "Placa de Vídeo MLLSE AMD Radeon RX 580 2048SP, 8GB, GDDR5, 256 Bit",
+        "price": "889.47",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.03",
+        "sales": 42,
+        "ratingStar": "4.9",
+        "shopName": "UpgradeJá",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mrpw2yx3d4p1cf",
+        "productLink": "https://shopee.com.br/product/1582588553/58212017173",
+        "offerLink": "https://s.shopee.com.br/4LIVJPOjPH"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22692646370",
       "name": "DESINFETANTE URCA PINHO - 500ML",
       "price": 4.29,
@@ -29741,8 +29654,8 @@
     {
       "id": "21199212964",
       "name": "Kit Cozinha Completa: Escorredor de Louça + Lixeira 5L + Porta Detergente + Rodinho de Pia",
-      "price": 35.97,
-      "original_price": 45.53,
+      "price": 36.9,
+      "original_price": 46.71,
       "discount": 21.0,
       "commission": 0.09,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rcex-lslue7zt1z3pfc",
@@ -29755,7 +29668,7 @@
       "_item": {
         "itemId": 21199212964,
         "productName": "Kit Cozinha Completa: Escorredor de Louça + Lixeira 5L + Porta Detergente + Rodinho de Pia",
-        "price": "35.97",
+        "price": "36.9",
         "priceDiscountRate": 21,
         "commissionRate": "0.09",
         "sales": 3252,
@@ -30054,6 +29967,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mpqtfqbbug3ne7",
         "productLink": "https://shopee.com.br/product/956346509/58201941320",
         "offerLink": "https://s.shopee.com.br/3g2jvDAXzd"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58214481258",
+      "name": "Suporte Ajustável para Placa de Vídeo GPU Anti Sag Universal PC Gamer",
+      "price": 12.72,
+      "original_price": 15.9,
+      "discount": 20.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mqrpn50x8ooz65",
+      "link": "https://s.shopee.com.br/50YC6dMC3T",
+      "rating": "5",
+      "sales": 49,
+      "shop": "Universo_Criativo-3D",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58214481258,
+        "productName": "Suporte Ajustável para Placa de Vídeo GPU Anti Sag Universal PC Gamer",
+        "price": "12.72",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.03",
+        "sales": 49,
+        "ratingStar": "5",
+        "shopName": "Universo_Criativo-3D",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mqrpn50x8ooz65",
+        "productLink": "https://shopee.com.br/product/504209363/58214481258",
+        "offerLink": "https://s.shopee.com.br/50YC6dMC3T"
       },
       "_last_price": null
     },
@@ -31537,6 +31479,35 @@
       "_last_price": null
     },
     {
+      "id": "23498326001",
+      "name": "PC Gamer Intel - SSD + Placa de Vídeo | Garantia 12 Meses",
+      "price": 997.85,
+      "original_price": 1202.23,
+      "discount": 17.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf9t94d3k35zcf",
+      "link": "https://s.shopee.com.br/5ArcIwLYiU",
+      "rating": "4.8",
+      "sales": 27,
+      "shop": "Kureon",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498326001,
+        "productName": "PC Gamer Intel - SSD + Placa de Vídeo | Garantia 12 Meses",
+        "price": "997.85",
+        "priceDiscountRate": 17,
+        "commissionRate": "0.11",
+        "sales": 27,
+        "ratingStar": "4.8",
+        "shopName": "Kureon",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf9t94d3k35zcf",
+        "productLink": "https://shopee.com.br/product/1011629770/23498326001",
+        "offerLink": "https://s.shopee.com.br/5ArcIwLYiU"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23293825207",
       "name": "Fonte Gamer 650W Real ATX | Potência Estável, Silenciosa, Ideal para PC Gamer, Alta Performance",
       "price": 214.9,
@@ -31856,35 +31827,6 @@
       "_last_price": null
     },
     {
-      "id": "20797501393",
-      "name": "Pasta Térmica Gd900 30g 4,8W/MK Computadores Videogame Placas de vídeo Notebooks Console",
-      "price": 26.87,
-      "original_price": 31.99,
-      "discount": 16.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lupcap4pkm7498",
-      "link": "https://s.shopee.com.br/2LXMKlFchF",
-      "rating": "4.9",
-      "sales": 336,
-      "shop": "P.A Comercio Online",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20797501393,
-        "productName": "Pasta Térmica Gd900 30g 4,8W/MK Computadores Videogame Placas de vídeo Notebooks Console",
-        "price": "26.87",
-        "priceDiscountRate": 16,
-        "commissionRate": "0.11",
-        "sales": 336,
-        "ratingStar": "4.9",
-        "shopName": "P.A Comercio Online",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lupcap4pkm7498",
-        "productLink": "https://shopee.com.br/product/344476159/20797501393",
-        "offerLink": "https://s.shopee.com.br/2LXMKlFchF"
-      },
-      "_last_price": null
-    },
-    {
       "id": "40973563965",
       "name": "Placa de Vídeo MSI GeForce RTX 3050 Ventus 2X OC, 6GB, GDDR6, 96 bits, 912-V812",
       "price": 1349.0,
@@ -31910,35 +31852,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824g3-mfocuv0i603xfb",
         "productLink": "https://shopee.com.br/product/344381236/40973563965",
         "offerLink": "https://s.shopee.com.br/50Y7Vf5TI1"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22898171369",
-      "name": "Computador Pc Gamer Intel Core I7 3770 SSD 480GB 16gb Ram Placa de Video GT730 Monitor Led 23\" Curvo",
-      "price": 2606.81,
-      "original_price": 3103.35,
-      "discount": 16.0,
-      "commission": 0.04,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mr1mxcwtfu9y3d",
-      "link": "https://s.shopee.com.br/5ArXhy4px2",
-      "rating": "4.8",
-      "sales": 37,
-      "shop": "PRIME SHOCK",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22898171369,
-        "productName": "Computador Pc Gamer Intel Core I7 3770 SSD 480GB 16gb Ram Placa de Video GT730 Monitor Led 23\" Curvo",
-        "price": "2606.81",
-        "priceDiscountRate": 16,
-        "commissionRate": "0.04",
-        "sales": 37,
-        "ratingStar": "4.8",
-        "shopName": "PRIME SHOCK",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mr1mxcwtfu9y3d",
-        "productLink": "https://shopee.com.br/product/336169571/22898171369",
-        "offerLink": "https://s.shopee.com.br/5ArXhy4px2"
       },
       "_last_price": null
     },
