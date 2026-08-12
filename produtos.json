@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-12T17:28:37.529107+00:00",
-  "total": 1124,
+  "updated_at": "2026-08-12T17:47:40.664074+00:00",
+  "total": 1123,
   "products": [
     {
       "id": "23698808886",
@@ -460,7 +460,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pu-mp4n4y3efpc2f7",
         "productLink": "https://shopee.com.br/product/1006215031/24360408071",
         "offerLink": "https://s.shopee.com.br/AKZiehcLMh"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "56607111945",
@@ -3985,8 +3986,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpkgea3hfv2j75",
         "productLink": "https://shopee.com.br/product/1550289846/28489319549",
         "offerLink": "https://s.shopee.com.br/qidLGY2DZ"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23026990667",
@@ -10368,35 +10368,6 @@
       "_last_price": null
     },
     {
-      "id": "58256755119",
-      "name": "100% Whey Protein Gourmet Concentrado e Isolado 23g Proteína",
-      "price": 38.9,
-      "original_price": 86.44,
-      "discount": 55.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-moswnwbx3gn9c9",
-      "link": "https://s.shopee.com.br/AAGISK9erR",
-      "rating": "4.6",
-      "sales": 1089,
-      "shop": "Shopping dos Suplementos",
-      "category": "whey protein",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58256755119,
-        "productName": "100% Whey Protein Gourmet Concentrado e Isolado 23g Proteína",
-        "price": "38.9",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.03",
-        "sales": 1089,
-        "ratingStar": "4.6",
-        "shopName": "Shopping dos Suplementos",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-moswnwbx3gn9c9",
-        "productLink": "https://shopee.com.br/product/1552273518/58256755119",
-        "offerLink": "https://s.shopee.com.br/AAGISK9erR"
-      },
-      "_last_price": null
-    },
-    {
       "id": "42672846488",
       "name": "Haltere NeoPrene Protetor De Peito De Futebol Esportivo Luckysport Original",
       "price": 21.5,
@@ -14453,6 +14424,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwyhw95lcpsiee",
         "productLink": "https://shopee.com.br/product/659727139/22397611141",
         "offerLink": "https://s.shopee.com.br/2qTiHSxRl2"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58253165856",
+      "name": "Whey Protein  1kg - Suplemento Alimentar Proteíco em Pó - Preparo Rápido - Academia e Fitness",
+      "price": 59.8,
+      "original_price": 117.25,
+      "discount": 49.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820me-mrm4zh6y5l3b73",
+      "link": "https://s.shopee.com.br/9KhBSnCpYK",
+      "rating": "4.8",
+      "sales": 935,
+      "shop": "Carbon - Sports and Fitness",
+      "category": "whey protein",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58253165856,
+        "productName": "Whey Protein  1kg - Suplemento Alimentar Proteíco em Pó - Preparo Rápido - Academia e Fitness",
+        "price": "59.8",
+        "priceDiscountRate": 49,
+        "commissionRate": "0.07",
+        "sales": 935,
+        "ratingStar": "4.8",
+        "shopName": "Carbon - Sports and Fitness",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mrm4zh6y5l3b73",
+        "productLink": "https://shopee.com.br/product/964196467/58253165856",
+        "offerLink": "https://s.shopee.com.br/9KhBSnCpYK"
       },
       "_last_price": null
     },
@@ -18517,35 +18517,6 @@
       "_last_price": null
     },
     {
-      "id": "58256656956",
-      "name": "Whey Protein Gourmet 100% Concentrado e Isolado 23g Proteína 900g Pote",
-      "price": 38.9,
-      "original_price": 69.46,
-      "discount": 44.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mos9zhznd3401e",
-      "link": "https://s.shopee.com.br/1gHkKhg16b",
-      "rating": "4.7",
-      "sales": 1490,
-      "shop": "Shopping dos Suplementos",
-      "category": "whey protein",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58256656956,
-        "productName": "Whey Protein Gourmet 100% Concentrado e Isolado 23g Proteína 900g Pote",
-        "price": "38.9",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.03",
-        "sales": 1490,
-        "ratingStar": "4.7",
-        "shopName": "Shopping dos Suplementos",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mos9zhznd3401e",
-        "productLink": "https://shopee.com.br/product/1552273518/58256656956",
-        "offerLink": "https://s.shopee.com.br/1gHkKhg16b"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20497679378",
       "name": "Creatina Monohidratada Pura Refil 500g Dark Lab - Creatina 100% Pura",
       "price": 49.9,
@@ -19735,35 +19706,6 @@
       "_last_price": null
     },
     {
-      "id": "58206660891",
-      "name": "Kit 2 Whey Protein 100% Concentrado 900g Cada Pote",
-      "price": 74.9,
-      "original_price": 129.14,
-      "discount": 42.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mos9zhznbojkdc",
-      "link": "https://s.shopee.com.br/8pkursEjZ3",
-      "rating": "4.7",
-      "sales": 1427,
-      "shop": "Shopping dos Suplementos",
-      "category": "whey protein",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58206660891,
-        "productName": "Kit 2 Whey Protein 100% Concentrado 900g Cada Pote",
-        "price": "74.9",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.03",
-        "sales": 1427,
-        "ratingStar": "4.7",
-        "shopName": "Shopping dos Suplementos",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mos9zhznbojkdc",
-        "productLink": "https://shopee.com.br/product/1552273518/58206660891",
-        "offerLink": "https://s.shopee.com.br/8pkursEjZ3"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58253084394",
       "name": "Kit com 2 Creatinas Monohidratadas DUX Nutrition",
       "price": 75.29,
@@ -20746,6 +20688,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf1h1y2ry8sk12",
         "productLink": "https://shopee.com.br/product/1564337780/22194458905",
         "offerLink": "https://s.shopee.com.br/4qEmf8pphM"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23791204929",
+      "name": "Whey Protein Isolado Iso Blend Complex 2Kg - XPro Nutrition",
+      "price": 119.99,
+      "original_price": 199.98,
+      "discount": 40.0,
+      "commission": 0.06,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb3pqavbklg96",
+      "link": "https://s.shopee.com.br/2LXQqW92Le",
+      "rating": "4.8",
+      "sales": 695,
+      "shop": "Nutrafit Suplementos e Vitaminas",
+      "category": "whey protein",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23791204929,
+        "productName": "Whey Protein Isolado Iso Blend Complex 2Kg - XPro Nutrition",
+        "price": "119.99",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.06",
+        "sales": 695,
+        "ratingStar": "4.8",
+        "shopName": "Nutrafit Suplementos e Vitaminas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb3pqavbklg96",
+        "productLink": "https://shopee.com.br/product/983753255/23791204929",
+        "offerLink": "https://s.shopee.com.br/2LXQqW92Le"
       },
       "_last_price": null
     },
@@ -23273,35 +23244,6 @@
       "_last_price": null
     },
     {
-      "id": "58209897996",
-      "name": "Ração Cachorro Filhote Todas As Raças 10,1kg Sabor Carne 28g Proteína",
-      "price": 74.49,
-      "original_price": 116.39,
-      "discount": 36.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mp0u7xcolnurcf",
-      "link": "https://s.shopee.com.br/5fnt64dini",
-      "rating": "4.9",
-      "sales": 857,
-      "shop": "Petistrô",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58209897996,
-        "productName": "Ração Cachorro Filhote Todas As Raças 10,1kg Sabor Carne 28g Proteína",
-        "price": "74.49",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.03",
-        "sales": 857,
-        "ratingStar": "4.9",
-        "shopName": "Petistrô",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mp0u7xcolnurcf",
-        "productLink": "https://shopee.com.br/product/382010808/58209897996",
-        "offerLink": "https://s.shopee.com.br/5fnt64dini"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58263775797",
       "name": "Ração para Cachorro Cães Adultos Salt Pet 15kg Sabor Carne e Frango Premium Dog qualidade",
       "price": 63.49,
@@ -23849,6 +23791,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mr1zwjey22o459",
         "productLink": "https://shopee.com.br/product/1571276714/58209837071",
         "offerLink": "https://s.shopee.com.br/4Az5JJjQqG"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "52007121909",
+      "name": "Pedigree Sachê 100g Leve 18 un",
+      "price": 51.9,
+      "original_price": 79.85,
+      "discount": 35.0,
+      "commission": 0.1,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mr7g4dyvmdc76a",
+      "link": "https://s.shopee.com.br/BSxEUOunm",
+      "rating": "5",
+      "sales": 503,
+      "shop": "Pet & Pet",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 52007121909,
+        "productName": "Pedigree Sachê 100g Leve 18 un",
+        "price": "51.9",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.1",
+        "sales": 503,
+        "ratingStar": "5",
+        "shopName": "Pet & Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mr7g4dyvmdc76a",
+        "productLink": "https://shopee.com.br/product/706961933/52007121909",
+        "offerLink": "https://s.shopee.com.br/BSxEUOunm"
       },
       "_last_price": null
     },
