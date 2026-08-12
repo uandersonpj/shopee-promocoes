@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T21:16:36.882308+00:00",
+  "updated_at": "2026-08-12T21:35:35.809183+00:00",
   "total": 1130,
   "products": [
     {
@@ -1587,7 +1587,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mnwcoooh21a9da",
         "productLink": "https://shopee.com.br/product/1345043704/22693513091",
         "offerLink": "https://s.shopee.com.br/4VbvhyPHd2"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "20499592472",
@@ -2739,8 +2740,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mlffathukzr9f4",
         "productLink": "https://shopee.com.br/product/1232299933/54850610196",
         "offerLink": "https://s.shopee.com.br/4VbvhxGoqR"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22793679889",
@@ -16834,35 +16834,6 @@
       "_last_price": null
     },
     {
-      "id": "23399127477",
-      "name": "Pote Armazenador Multiuso Hermético com Copo Medidor e Trava Para Sabão em Pó, Líquido, Amaciante",
-      "price": 26.9,
-      "original_price": 49.81,
-      "discount": 46.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgdsyshzkvlxdb",
-      "link": "https://s.shopee.com.br/9ANlGQ1wxZ",
-      "rating": "4.9",
-      "sales": 386,
-      "shop": "Lemon Seleção",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23399127477,
-        "productName": "Pote Armazenador Multiuso Hermético com Copo Medidor e Trava Para Sabão em Pó, Líquido, Amaciante",
-        "price": "26.9",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.03",
-        "sales": 386,
-        "ratingStar": "4.9",
-        "shopName": "Lemon Seleção",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgdsyshzkvlxdb",
-        "productLink": "https://shopee.com.br/product/1383463294/23399127477",
-        "offerLink": "https://s.shopee.com.br/9ANlGQ1wxZ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23499364961",
       "name": "Detergente Roupa Preta Protege O Preto | Realça A Cor | Evita Desbotamento 1kg AlvejaPro Oficial",
       "price": 25.83,
@@ -16888,6 +16859,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mll99udq0ao7d0",
         "productLink": "https://shopee.com.br/product/1754933018/23499364961",
         "offerLink": "https://s.shopee.com.br/2qThimzG5R"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "45556074709",
+      "name": "Alcool Swab Sachê Lenços/Lenço Umedecido Assepsia 70% Uniqmed",
+      "price": 13.5,
+      "original_price": 25.0,
+      "discount": 46.0,
+      "commission": 0.1,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztp-mkjxo537r7ya28",
+      "link": "https://s.shopee.com.br/8fRVE8pmye",
+      "rating": "4.9",
+      "sales": 902,
+      "shop": "E&R Produtos de saúde LTDA",
+      "category": "desinfetante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 45556074709,
+        "productName": "Alcool Swab Sachê Lenços/Lenço Umedecido Assepsia 70% Uniqmed",
+        "price": "13.5",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.1",
+        "sales": 902,
+        "ratingStar": "4.9",
+        "shopName": "E&R Produtos de saúde LTDA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztp-mkjxo537r7ya28",
+        "productLink": "https://shopee.com.br/product/357422302/45556074709",
+        "offerLink": "https://s.shopee.com.br/8fRVE8pmye"
       },
       "_last_price": null
     },
@@ -19879,35 +19879,6 @@
       "_last_price": null
     },
     {
-      "id": "23697709910",
-      "name": "Porta Detergente Sabão Dispenser 2 em 1 Com Suporte Para Bucha Esponja e Rodo",
-      "price": 11.8,
-      "original_price": 20.0,
-      "discount": 41.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-ml9779qs3f9j21",
-      "link": "https://s.shopee.com.br/5fntmWAOfs",
-      "rating": "4.9",
-      "sales": 1345,
-      "shop": "Vira Lisa Decor Outlet",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23697709910,
-        "productName": "Porta Detergente Sabão Dispenser 2 em 1 Com Suporte Para Bucha Esponja e Rodo",
-        "price": "11.8",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.08",
-        "sales": 1345,
-        "ratingStar": "4.9",
-        "shopName": "Vira Lisa Decor Outlet",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-ml9779qs3f9j21",
-        "productLink": "https://shopee.com.br/product/1302608944/23697709910",
-        "offerLink": "https://s.shopee.com.br/5fntmWAOfs"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18999566083",
       "name": "Gancho Adesivo Inox Porta Esponja Bucha Suporte de Pia Parede Cozinha Premium",
       "price": 5.89,
@@ -22143,8 +22114,8 @@
     {
       "id": "29680658002",
       "name": "Óculos De Sol Com Lente Gradiente Uv400 Sem Aro Para Mulheres E Homens",
-      "price": 12.04,
-      "original_price": 19.42,
+      "price": 12.36,
+      "original_price": 19.94,
       "discount": 38.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rd6z-m793jf538svp49",
@@ -22157,7 +22128,7 @@
       "_item": {
         "itemId": 29680658002,
         "productName": "Óculos De Sol Com Lente Gradiente Uv400 Sem Aro Para Mulheres E Homens",
-        "price": "12.04",
+        "price": "12.36",
         "priceDiscountRate": 38,
         "commissionRate": "0.07",
         "sales": 2122,
@@ -26288,6 +26259,35 @@
       "_last_price": null
     },
     {
+      "id": "22199050013",
+      "name": "Pote Armazenador Multiuso Hermético com Copo Medidor e Trava Para Sabão em Pó, Líquido, Amaciante",
+      "price": 34.93,
+      "original_price": 49.9,
+      "discount": 30.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8258v-mfv8ixyuaxvx53",
+      "link": "https://s.shopee.com.br/AKZieYxVae",
+      "rating": "4.8",
+      "sales": 385,
+      "shop": "YAN--SHOP",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22199050013,
+        "productName": "Pote Armazenador Multiuso Hermético com Copo Medidor e Trava Para Sabão em Pó, Líquido, Amaciante",
+        "price": "34.93",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.03",
+        "sales": 385,
+        "ratingStar": "4.8",
+        "shopName": "YAN--SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258v-mfv8ixyuaxvx53",
+        "productLink": "https://shopee.com.br/product/1202791528/22199050013",
+        "offerLink": "https://s.shopee.com.br/AKZieYxVae"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22599385841",
       "name": "Base Amaciante Concentrada 100ml Faz 20 litros perfumada tipo Conforto / Premium RENDE MUITO",
       "price": 22.99,
@@ -29855,6 +29855,35 @@
       "_last_price": null
     },
     {
+      "id": "13214435371",
+      "name": "Lava Roupas Liquido  Urca Azul - 3l",
+      "price": 19.9,
+      "original_price": 25.19,
+      "discount": 21.0,
+      "commission": 0.16,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40puqy992k5b8",
+      "link": "https://s.shopee.com.br/80BmlqM37X",
+      "rating": "4.9",
+      "sales": 2062,
+      "shop": "Casa de Gê",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 13214435371,
+        "productName": "Lava Roupas Liquido  Urca Azul - 3l",
+        "price": "19.9",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.16",
+        "sales": 2062,
+        "ratingStar": "4.9",
+        "shopName": "Casa de Gê",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40puqy992k5b8",
+        "productLink": "https://shopee.com.br/product/534023108/13214435371",
+        "offerLink": "https://s.shopee.com.br/80BmlqM37X"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58200997840",
       "name": "60L Cesto de Roupa Bambu Dobrável – Organizador com Revestimento Interno alta capacidade GRANDE",
       "price": 62.8,
@@ -31417,35 +31446,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4946jqt4u693f",
         "productLink": "https://shopee.com.br/product/446247790/9787295031",
         "offerLink": "https://s.shopee.com.br/9ANlGUDSt9"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "12823128886",
-      "name": "Creatina Monohidratada Integralmedica 60 cápsulas",
-      "price": 22.13,
-      "original_price": 26.99,
-      "discount": 18.0,
-      "commission": 0.18,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7renj-m2ckuwis1x9y28",
-      "link": "https://s.shopee.com.br/8V84TGXfbt",
-      "rating": "4.9",
-      "sales": 1613,
-      "shop": "Integralmedica",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 12823128886,
-        "productName": "Creatina Monohidratada Integralmedica 60 cápsulas",
-        "price": "22.13",
-        "priceDiscountRate": 18,
-        "commissionRate": "0.18",
-        "sales": 1613,
-        "ratingStar": "4.9",
-        "shopName": "Integralmedica",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7renj-m2ckuwis1x9y28",
-        "productLink": "https://shopee.com.br/product/544014438/12823128886",
-        "offerLink": "https://s.shopee.com.br/8V84TGXfbt"
       },
       "_last_price": null
     },
