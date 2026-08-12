@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T18:06:37.079470+00:00",
+  "updated_at": "2026-08-12T18:25:40.094071+00:00",
   "total": 1123,
   "products": [
     {
@@ -143,7 +143,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qo-moodqvbtpo8yf2",
         "productLink": "https://shopee.com.br/product/1571156019/52011120312",
         "offerLink": "https://s.shopee.com.br/8AVE4kjVZl"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22194876933",
@@ -1034,7 +1035,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b5-mr8gyqsp0av57f",
         "productLink": "https://shopee.com.br/product/1006215031/53604373378",
         "offerLink": "https://s.shopee.com.br/60QjUeCnG6"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21897981294",
@@ -1724,8 +1726,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823oc-mpcmkv5yn56z8d",
         "productLink": "https://shopee.com.br/product/344381236/42931642321",
         "offerLink": "https://s.shopee.com.br/70JGgPJbES"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58211974133",
@@ -4360,6 +4361,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyu-mcktsj0au8xj81",
         "productLink": "https://shopee.com.br/product/1392850246/22094282340",
         "offerLink": "https://s.shopee.com.br/9fK1rRJYJy"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "40378530289",
+      "name": "Tênis Esportivo Feminino Leve Confortável Academia Caminhada Casual Antiderrapante",
+      "price": 29.9,
+      "original_price": 90.61,
+      "discount": 67.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk5en2k0d3pd40",
+      "link": "https://s.shopee.com.br/4fvLuH6qOI",
+      "rating": "4.7",
+      "sales": 2640,
+      "shop": "Style Wesser",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 40378530289,
+        "productName": "Tênis Esportivo Feminino Leve Confortável Academia Caminhada Casual Antiderrapante",
+        "price": "29.9",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.07",
+        "sales": 2640,
+        "ratingStar": "4.7",
+        "shopName": "Style Wesser",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk5en2k0d3pd40",
+        "productLink": "https://shopee.com.br/product/433494801/40378530289",
+        "offerLink": "https://s.shopee.com.br/4fvLuH6qOI"
       },
       "_last_price": null
     },
@@ -10135,35 +10165,6 @@
       "_last_price": null
     },
     {
-      "id": "42574800387",
-      "name": "Kit Lavanderia Dispenser Mantimentos, Detergente, Amaciante e Produtos de Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha",
-      "price": 31.9,
-      "original_price": 70.89,
-      "discount": 55.0,
-      "commission": 0.1,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfy2okarbrpgf7",
-      "link": "https://s.shopee.com.br/4VbvhqbFIy",
-      "rating": "4.9",
-      "sales": 1114,
-      "shop": "DSD Multi Comercio",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42574800387,
-        "productName": "Kit Lavanderia Dispenser Mantimentos, Detergente, Amaciante e Produtos de Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha",
-        "price": "31.9",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.1",
-        "sales": 1114,
-        "ratingStar": "4.9",
-        "shopName": "DSD Multi Comercio",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfy2okarbrpgf7",
-        "productLink": "https://shopee.com.br/product/572649927/42574800387",
-        "offerLink": "https://s.shopee.com.br/4VbvhqbFIy"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58210202967",
       "name": "Kit 2 Prateleiras de Canto Sem Furo Porta Shampoo E Sabonete Banheiro Adesivo Reforçado",
       "price": 19.29,
@@ -10537,35 +10538,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259i-mewk4muxgd8i0f",
         "productLink": "https://shopee.com.br/product/1603106316/23798917221",
         "offerLink": "https://s.shopee.com.br/8pkurvDWPJ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22098743002",
-      "name": "Tênis Unissex Skatista Casual Academia - Rosa, Cinza, Preto, Branco - 34 ao 43 - Resistente e confortável",
-      "price": 89.99,
-      "original_price": 199.98,
-      "discount": 55.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbphb37ke34p6f",
-      "link": "https://s.shopee.com.br/20uajNGznW",
-      "rating": "4.9",
-      "sales": 3581,
-      "shop": "Orion Spolier",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22098743002,
-        "productName": "Tênis Unissex Skatista Casual Academia - Rosa, Cinza, Preto, Branco - 34 ao 43 - Resistente e confortável",
-        "price": "89.99",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.07",
-        "sales": 3581,
-        "ratingStar": "4.9",
-        "shopName": "Orion Spolier",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbphb37ke34p6f",
-        "productLink": "https://shopee.com.br/product/1186786093/22098743002",
-        "offerLink": "https://s.shopee.com.br/20uajNGznW"
       },
       "_last_price": null
     },
@@ -11900,6 +11872,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mmij6fnxz9jcad",
         "productLink": "https://shopee.com.br/product/1748398536/57108039282",
         "offerLink": "https://s.shopee.com.br/20uZcmfMrc"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "42574800387",
+      "name": "Kit Lavanderia Dispenser Mantimentos, Detergente, Amaciante e Produtos de Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha",
+      "price": 31.9,
+      "original_price": 66.46,
+      "discount": 52.0,
+      "commission": 0.1,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfy2okarbrpgf7",
+      "link": "https://s.shopee.com.br/4VbvhqbFIy",
+      "rating": "4.9",
+      "sales": 1114,
+      "shop": "DSD Multi Comercio",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42574800387,
+        "productName": "Kit Lavanderia Dispenser Mantimentos, Detergente, Amaciante e Produtos de Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha",
+        "price": "31.9",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.1",
+        "sales": 1114,
+        "ratingStar": "4.9",
+        "shopName": "DSD Multi Comercio",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfy2okarbrpgf7",
+        "productLink": "https://shopee.com.br/product/572649927/42574800387",
+        "offerLink": "https://s.shopee.com.br/4VbvhqbFIy"
       },
       "_last_price": null
     },
