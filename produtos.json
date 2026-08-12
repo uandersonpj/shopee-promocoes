@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T21:35:35.809183+00:00",
+  "updated_at": "2026-08-12T21:54:36.021355+00:00",
   "total": 1130,
   "products": [
     {
@@ -869,7 +869,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
         "productLink": "https://shopee.com.br/product/344381236/57911938287",
         "offerLink": "https://s.shopee.com.br/9fK1rKiF1A"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "42971009476",
@@ -2711,8 +2712,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9sn5nirw2exdd",
         "productLink": "https://shopee.com.br/product/385342152/22298024808",
         "offerLink": "https://s.shopee.com.br/4LIVVdMOXX"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "54850610196",
@@ -6199,7 +6199,7 @@
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-824ij-mprnjnbdx6hbb9",
       "link": "https://s.shopee.com.br/2qThizyTWp",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 71,
       "shop": "allland.br",
       "category": "rede de pesca",
@@ -6211,7 +6211,7 @@
         "priceDiscountRate": 63,
         "commissionRate": "0.07",
         "sales": 71,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "allland.br",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ij-mprnjnbdx6hbb9",
         "productLink": "https://shopee.com.br/product/264980572/53112635208",
@@ -20459,6 +20459,35 @@
       "_last_price": null
     },
     {
+      "id": "58258909286",
+      "name": "Panos de Chão Gigante Microfibra Multiuso 60x80 Alta Absorção",
+      "price": 29.79,
+      "original_price": 49.65,
+      "discount": 40.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mqw4zznwtszo9c",
+      "link": "https://s.shopee.com.br/4LIVVZ68Xq",
+      "rating": "4.9",
+      "sales": 8473,
+      "shop": "MINAS CLEAN",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58258909286,
+        "productName": "Panos de Chão Gigante Microfibra Multiuso 60x80 Alta Absorção",
+        "price": "29.79",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 8473,
+        "ratingStar": "4.9",
+        "shopName": "MINAS CLEAN",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mqw4zznwtszo9c",
+        "productLink": "https://shopee.com.br/product/1781178701/58258909286",
+        "offerLink": "https://s.shopee.com.br/4LIVVZ68Xq"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23693404566",
       "name": "240 a 24 tiras (120 a 12 duplas) Cera Pronta Design Sobrancelhas Facial Babosa Morango Hortela Mel",
       "price": 12.9,
@@ -21673,35 +21702,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mo3lxbqmzxts4a",
         "productLink": "https://shopee.com.br/product/1788124004/58210452009",
         "offerLink": "https://s.shopee.com.br/4LIVVYofwg"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58258909286",
-      "name": "Panos de Chão Gigante Microfibra Multiuso 60x80 Alta Absorção",
-      "price": 28.92,
-      "original_price": 46.65,
-      "discount": 38.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mqw4zznwtszo9c",
-      "link": "https://s.shopee.com.br/4LIVVZ68Xq",
-      "rating": "4.9",
-      "sales": 8473,
-      "shop": "MINAS CLEAN",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58258909286,
-        "productName": "Panos de Chão Gigante Microfibra Multiuso 60x80 Alta Absorção",
-        "price": "28.92",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.03",
-        "sales": 8473,
-        "ratingStar": "4.9",
-        "shopName": "MINAS CLEAN",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mqw4zznwtszo9c",
-        "productLink": "https://shopee.com.br/product/1781178701/58258909286",
-        "offerLink": "https://s.shopee.com.br/4LIVVZ68Xq"
       },
       "_last_price": null
     },
@@ -22949,35 +22949,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mqnhnkgkscua7d",
         "productLink": "https://shopee.com.br/product/1091428082/21897728259",
         "offerLink": "https://s.shopee.com.br/4Az5rtFB3l"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22898980977",
-      "name": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
-      "price": 68.6,
-      "original_price": 107.19,
-      "discount": 36.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mm1wtgtq87408a",
-      "link": "https://s.shopee.com.br/gPD8qFZD5",
-      "rating": "4.9",
-      "sales": 10983,
-      "shop": "Principia Skincare",
-      "category": "protetor solar",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22898980977,
-        "productName": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
-        "price": "68.6",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.13",
-        "sales": 10983,
-        "ratingStar": "4.9",
-        "shopName": "Principia Skincare",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mm1wtgtq87408a",
-        "productLink": "https://shopee.com.br/product/373261329/22898980977",
-        "offerLink": "https://s.shopee.com.br/gPD8qFZD5"
       },
       "_last_price": null
     },
@@ -30344,6 +30315,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824g9-me0xvp6wggldbb",
         "productLink": "https://shopee.com.br/product/1097629818/25696679306",
         "offerLink": "https://s.shopee.com.br/AUt9PTnk3X"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22898980977",
+      "name": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
+      "price": 86.39,
+      "original_price": 107.99,
+      "discount": 20.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mm1wtgtq87408a",
+      "link": "https://s.shopee.com.br/gPD8qFZD5",
+      "rating": "4.9",
+      "sales": 10983,
+      "shop": "Principia Skincare",
+      "category": "protetor solar",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22898980977,
+        "productName": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
+        "price": "86.39",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.13",
+        "sales": 10983,
+        "ratingStar": "4.9",
+        "shopName": "Principia Skincare",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mm1wtgtq87408a",
+        "productLink": "https://shopee.com.br/product/373261329/22898980977",
+        "offerLink": "https://s.shopee.com.br/gPD8qFZD5"
       },
       "_last_price": null
     },
