@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-13T03:57:28.746058+00:00",
-  "total": 1127,
+  "updated_at": "2026-08-13T04:16:30.930405+00:00",
+  "total": 1126,
   "products": [
     {
       "id": "23698808886",
@@ -3187,7 +3187,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820m4-mnkc728pehag67",
         "productLink": "https://shopee.com.br/product/372103398/23199448516",
         "offerLink": "https://s.shopee.com.br/gPEiUBuec"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22693260071",
@@ -4143,6 +4144,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mpmpfi8h39j41e",
         "productLink": "https://shopee.com.br/product/984259416/58212805691",
         "offerLink": "https://s.shopee.com.br/6pzs4uVlgI"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58210374218",
+      "name": "Sabão em Pó Premium 4Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
+      "price": 9.99,
+      "original_price": 30.27,
+      "discount": 67.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mo076ba5zi80e3",
+      "link": "https://s.shopee.com.br/2gAJ7Ggkyu",
+      "rating": "4.7",
+      "sales": 188,
+      "shop": "AudCare Química",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58210374218,
+        "productName": "Sabão em Pó Premium 4Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
+        "price": "9.99",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.03",
+        "sales": 188,
+        "ratingStar": "4.7",
+        "shopName": "AudCare Química",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mo076ba5zi80e3",
+        "productLink": "https://shopee.com.br/product/1820418238/58210374218",
+        "offerLink": "https://s.shopee.com.br/2gAJ7Ggkyu"
       },
       "_last_price": null
     },
@@ -8003,7 +8033,7 @@
       "discount": 59.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3wfdg89ffhx9a",
-      "link": "https://s.shopee.com.br/30n9Vs1xYC",
+      "link": "https://s.shopee.com.br/1qbCBcW6WX",
       "rating": "4.9",
       "sales": 865,
       "shop": "Oliveira Flex",
@@ -8020,7 +8050,7 @@
         "shopName": "Oliveira Flex",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3wfdg89ffhx9a",
         "productLink": "https://shopee.com.br/product/760173021/23398082837",
-        "offerLink": "https://s.shopee.com.br/30n9Vs1xYC"
+        "offerLink": "https://s.shopee.com.br/1qbCBcW6WX"
       },
       "_last_price": null
     },
@@ -8282,35 +8312,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mrbmz3bfho91f3",
         "productLink": "https://shopee.com.br/product/1447668497/21699672982",
         "offerLink": "https://s.shopee.com.br/4LIX6JfHkc"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58210374218",
-      "name": "Sabão em Pó Premium 4Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
-      "price": 16.99,
-      "original_price": 40.45,
-      "discount": 58.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mo076ba5zi80e3",
-      "link": "https://s.shopee.com.br/2gAJ7Ggkyu",
-      "rating": "4.7",
-      "sales": 188,
-      "shop": "AudCare Química",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58210374218,
-        "productName": "Sabão em Pó Premium 4Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
-        "price": "16.99",
-        "priceDiscountRate": 58,
-        "commissionRate": "0.03",
-        "sales": 188,
-        "ratingStar": "4.7",
-        "shopName": "AudCare Química",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mo076ba5zi80e3",
-        "productLink": "https://shopee.com.br/product/1820418238/58210374218",
-        "offerLink": "https://s.shopee.com.br/2gAJ7Ggkyu"
       },
       "_last_price": null
     },
@@ -13155,35 +13156,6 @@
       "_last_price": null
     },
     {
-      "id": "58251057210",
-      "name": "Mouse Pad Gamer Com Costura nas Bordas Vários Tamanhos Tema Anime/Abstrato e outros",
-      "price": 20.99,
-      "original_price": 41.98,
-      "discount": 50.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhc78otyam11f9",
-      "link": "https://s.shopee.com.br/2LXSie4Uu8",
-      "rating": "4.8",
-      "sales": 669,
-      "shop": "MousePadStore",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58251057210,
-        "productName": "Mouse Pad Gamer Com Costura nas Bordas Vários Tamanhos Tema Anime/Abstrato e outros",
-        "price": "20.99",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.13",
-        "sales": 669,
-        "ratingStar": "4.8",
-        "shopName": "MousePadStore",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhc78otyam11f9",
-        "productLink": "https://shopee.com.br/product/1285432434/58251057210",
-        "offerLink": "https://s.shopee.com.br/2LXSie4Uu8"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23894064438",
       "name": "Fonte ATX 230W Bivolt Silenciosa para PC Desktop Escritório e Automação Comercial + Cabo de Energia",
       "price": 49.9,
@@ -17998,6 +17970,35 @@
       "_last_price": null
     },
     {
+      "id": "58253165856",
+      "name": "Whey Protein  1kg - Suplemento Alimentar Proteíco em Pó - Preparo Rápido - Academia e Fitness",
+      "price": 64.8,
+      "original_price": 117.82,
+      "discount": 45.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mrtazn5b9edhe1",
+      "link": "https://s.shopee.com.br/1VyLn59DWt",
+      "rating": "4.8",
+      "sales": 923,
+      "shop": "Carbon - Sports and Fitness",
+      "category": "whey protein",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58253165856,
+        "productName": "Whey Protein  1kg - Suplemento Alimentar Proteíco em Pó - Preparo Rápido - Academia e Fitness",
+        "price": "64.8",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.07",
+        "sales": 923,
+        "ratingStar": "4.8",
+        "shopName": "Carbon - Sports and Fitness",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mrtazn5b9edhe1",
+        "productLink": "https://shopee.com.br/product/964196467/58253165856",
+        "offerLink": "https://s.shopee.com.br/1VyLn59DWt"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58211149676",
       "name": "tenis Unissex Old Knu Feminino Masculino Branco Preto Promoção envio imediato.",
       "price": 54.99,
@@ -22760,7 +22761,7 @@
       "discount": 36.0,
       "commission": 0.09,
       "image": "https://cf.shopee.com.br/file/sg-11134253-8259c-mr1uo10cit52f9",
-      "link": "https://s.shopee.com.br/2gAJ7G3EEA",
+      "link": "https://s.shopee.com.br/1VyLn0XNCV",
       "rating": "5",
       "sales": 616,
       "shop": "Brand Choice",
@@ -22777,7 +22778,7 @@
         "shopName": "Brand Choice",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134253-8259c-mr1uo10cit52f9",
         "productLink": "https://shopee.com.br/product/1672861664/46455963560",
-        "offerLink": "https://s.shopee.com.br/2gAJ7G3EEA"
+        "offerLink": "https://s.shopee.com.br/1VyLn0XNCV"
       },
       "_last_price": null
     },
@@ -26182,7 +26183,7 @@
       "discount": 30.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mf-morfy26i7cate5",
-      "link": "https://s.shopee.com.br/3LPzuU0gsE",
+      "link": "https://s.shopee.com.br/qiezmZuYJ",
       "rating": "4.8",
       "sales": 667,
       "shop": "Ecomix ZA",
@@ -26199,7 +26200,7 @@
         "shopName": "Ecomix ZA",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-morfy26i7cate5",
         "productLink": "https://shopee.com.br/product/1602935775/22899355117",
-        "offerLink": "https://s.shopee.com.br/3LPzuU0gsE"
+        "offerLink": "https://s.shopee.com.br/qiezmZuYJ"
       },
       "_last_price": null
     },
@@ -31014,35 +31015,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mrn5bhseahaccd",
         "productLink": "https://shopee.com.br/product/338537405/40128790649",
         "offerLink": "https://s.shopee.com.br/8pkwSfM44Y"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58211837467",
-      "name": "DOUBLE TASTY WHEY PROTEIN 100% POTE 900G (20g protein) - MAX",
-      "price": 121.99,
-      "original_price": 150.6,
-      "discount": 19.0,
-      "commission": 0.1,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mozu0cnbzz7q3f",
-      "link": "https://s.shopee.com.br/7fYz4WQVRR",
-      "rating": "4.9",
-      "sales": 928,
-      "shop": "Suplementos Mobile",
-      "category": "whey protein",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58211837467,
-        "productName": "DOUBLE TASTY WHEY PROTEIN 100% POTE 900G (20g protein) - MAX",
-        "price": "121.99",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.1",
-        "sales": 928,
-        "ratingStar": "4.9",
-        "shopName": "Suplementos Mobile",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mozu0cnbzz7q3f",
-        "productLink": "https://shopee.com.br/product/904040298/58211837467",
-        "offerLink": "https://s.shopee.com.br/7fYz4WQVRR"
       },
       "_last_price": null
     },
