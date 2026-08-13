@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-13T21:17:27.018204+00:00",
-  "total": 1129,
+  "updated_at": "2026-08-13T21:36:34.408660+00:00",
+  "total": 1128,
   "products": [
     {
       "id": "23698808886",
@@ -7912,7 +7912,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mawkl7entdq114",
       "link": "https://s.shopee.com.br/3B6ZiAAOHt",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 3325,
       "shop": "Cherrygo1.br",
       "category": "monitor",
@@ -7924,7 +7924,7 @@
         "priceDiscountRate": 59,
         "commissionRate": "0.03",
         "sales": 3325,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "Cherrygo1.br",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mawkl7entdq114",
         "productLink": "https://shopee.com.br/product/1259086167/43754234043",
@@ -20055,35 +20055,6 @@
       "_last_price": null
     },
     {
-      "id": "22698451598",
-      "name": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
-      "price": 57.99,
-      "original_price": 98.29,
-      "discount": 41.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
-      "link": "https://s.shopee.com.br/60QlYQ6i6C",
-      "rating": "4.9",
-      "sales": 258,
-      "shop": "LAMPADAECOM",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22698451598,
-        "productName": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
-        "price": "57.99",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.12",
-        "sales": 258,
-        "ratingStar": "4.9",
-        "shopName": "LAMPADAECOM",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
-        "productLink": "https://shopee.com.br/product/983665337/22698451598",
-        "offerLink": "https://s.shopee.com.br/60QlYQ6i6C"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18999566083",
       "name": "Gancho Adesivo Inox Porta Esponja Bucha Suporte de Pia Parede Cozinha Premium",
       "price": 5.89,
@@ -21447,35 +21418,6 @@
       "_last_price": null
     },
     {
-      "id": "41417041430",
-      "name": "Placa de Vídeo MSI NVIDIA GeForce RTX 5060 SHADOW 2X OC, 8GB, GDDR7, 128 Bits - 912-V537-038",
-      "price": 2799.0,
-      "original_price": 4588.52,
-      "discount": 39.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824h3-me53t34yuepze5",
-      "link": "https://s.shopee.com.br/3qMGVNqFnd",
-      "rating": "5",
-      "sales": 141,
-      "shop": "ITX-GAMER",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41417041430,
-        "productName": "Placa de Vídeo MSI NVIDIA GeForce RTX 5060 SHADOW 2X OC, 8GB, GDDR7, 128 Bits - 912-V537-038",
-        "price": "2799",
-        "priceDiscountRate": 39,
-        "commissionRate": "0.03",
-        "sales": 141,
-        "ratingStar": "5",
-        "shopName": "ITX-GAMER",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h3-me53t34yuepze5",
-        "productLink": "https://shopee.com.br/product/778397589/41417041430",
-        "offerLink": "https://s.shopee.com.br/3qMGVNqFnd"
-      },
-      "_last_price": null
-    },
-    {
       "id": "27881066513",
       "name": "Suporte Articulado de Tv e Monitor 10 até 60 Polegadas led lcd plasma",
       "price": 48.89,
@@ -21530,6 +21472,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261j-mm7vyn40pzic16",
         "productLink": "https://shopee.com.br/product/1598954691/23999402961",
         "offerLink": "https://s.shopee.com.br/4VbxIcMmEy"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22698451598",
+      "name": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
+      "price": 59.9,
+      "original_price": 98.2,
+      "discount": 39.0,
+      "commission": 0.12,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
+      "link": "https://s.shopee.com.br/60QlYQ6i6C",
+      "rating": "4.9",
+      "sales": 258,
+      "shop": "LAMPADAECOM",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22698451598,
+        "productName": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
+        "price": "59.9",
+        "priceDiscountRate": 39,
+        "commissionRate": "0.12",
+        "sales": 258,
+        "ratingStar": "4.9",
+        "shopName": "LAMPADAECOM",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
+        "productLink": "https://shopee.com.br/product/983665337/22698451598",
+        "offerLink": "https://s.shopee.com.br/60QlYQ6i6C"
       },
       "_last_price": null
     },
