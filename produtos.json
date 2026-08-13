@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-13T21:36:34.408660+00:00",
-  "total": 1128,
+  "updated_at": "2026-08-13T21:55:52.056834+00:00",
+  "total": 1126,
   "products": [
     {
       "id": "23698808886",
@@ -666,7 +666,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mmi9yl6sf3ls65",
         "productLink": "https://shopee.com.br/product/1198407784/23497594302",
         "offerLink": "https://s.shopee.com.br/2LXSimW41E"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "55508691646",
@@ -1353,8 +1354,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mr1vaho31o90f0",
         "productLink": "https://shopee.com.br/product/1246081278/45364806848",
         "offerLink": "https://s.shopee.com.br/3VjQoJeerF"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22733755777",
@@ -1989,6 +1989,35 @@
       "_last_price": null
     },
     {
+      "id": "9511754133",
+      "name": "Creatina Max Titanium 300g Pura",
+      "price": 45.0,
+      "original_price": 180.0,
+      "discount": 75.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-22100-7b7tjvynfbivb7",
+      "link": "https://s.shopee.com.br/gPEjf8km4",
+      "rating": "4.9",
+      "sales": 5577,
+      "shop": "Hard Extreme",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 9511754133,
+        "productName": "Creatina Max Titanium 300g Pura",
+        "price": "45",
+        "priceDiscountRate": 75,
+        "commissionRate": "0.11",
+        "sales": 5577,
+        "ratingStar": "4.9",
+        "shopName": "Hard Extreme",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-7b7tjvynfbivb7",
+        "productLink": "https://shopee.com.br/product/338537405/9511754133",
+        "offerLink": "https://s.shopee.com.br/gPEjf8km4"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23398852310",
       "name": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal de Ombro de Couro PU T304",
       "price": 39.99,
@@ -2101,6 +2130,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6giayorgw3v41",
         "productLink": "https://shopee.com.br/product/1258611312/28126553523",
         "offerLink": "https://s.shopee.com.br/W5oXJoGZI"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "42130479011",
+      "name": "Creatina Sabor 7Belo Max Titanium 300g Creatina 7 Belo",
+      "price": 48.99,
+      "original_price": 188.42,
+      "discount": 74.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mnn3go0t0e0x13",
+      "link": "https://s.shopee.com.br/6pzs4zlHGb",
+      "rating": "4.9",
+      "sales": 1035,
+      "shop": "Hard Extreme",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42130479011,
+        "productName": "Creatina Sabor 7Belo Max Titanium 300g Creatina 7 Belo",
+        "price": "48.99",
+        "priceDiscountRate": 74,
+        "commissionRate": "0.08",
+        "sales": 1035,
+        "ratingStar": "4.9",
+        "shopName": "Hard Extreme",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mnn3go0t0e0x13",
+        "productLink": "https://shopee.com.br/product/338537405/42130479011",
+        "offerLink": "https://s.shopee.com.br/6pzs4zlHGb"
       },
       "_last_price": null
     },
@@ -2279,35 +2337,6 @@
       "_last_price": null
     },
     {
-      "id": "9511754133",
-      "name": "Creatina Max Titanium 300g Pura",
-      "price": 48.99,
-      "original_price": 181.44,
-      "discount": 73.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-22100-7b7tjvynfbivb7",
-      "link": "https://s.shopee.com.br/gPEjf8km4",
-      "rating": "4.9",
-      "sales": 5577,
-      "shop": "Hard Extreme",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 9511754133,
-        "productName": "Creatina Max Titanium 300g Pura",
-        "price": "48.99",
-        "priceDiscountRate": 73,
-        "commissionRate": "0.11",
-        "sales": 5577,
-        "ratingStar": "4.9",
-        "shopName": "Hard Extreme",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-7b7tjvynfbivb7",
-        "productLink": "https://shopee.com.br/product/338537405/9511754133",
-        "offerLink": "https://s.shopee.com.br/gPEjf8km4"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23694958324",
       "name": "Coleira para Cães e Gatos com Sino – Ajustável, Confortável e com Trava de Segurança – Nylon",
       "price": 7.99,
@@ -2362,35 +2391,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-825a9-mriajd1gvz7w54",
         "productLink": "https://shopee.com.br/product/1006215031/25072829729",
         "offerLink": "https://s.shopee.com.br/30n9Vu5Ty7"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "42130479011",
-      "name": "Creatina Sabor 7Belo Max Titanium 300g Creatina 7 Belo",
-      "price": 52.4,
-      "original_price": 187.14,
-      "discount": 72.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mnn3go0t0e0x13",
-      "link": "https://s.shopee.com.br/6pzs4zlHGb",
-      "rating": "4.9",
-      "sales": 1035,
-      "shop": "Hard Extreme",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42130479011,
-        "productName": "Creatina Sabor 7Belo Max Titanium 300g Creatina 7 Belo",
-        "price": "52.4",
-        "priceDiscountRate": 72,
-        "commissionRate": "0.08",
-        "sales": 1035,
-        "ratingStar": "4.9",
-        "shopName": "Hard Extreme",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mnn3go0t0e0x13",
-        "productLink": "https://shopee.com.br/product/338537405/42130479011",
-        "offerLink": "https://s.shopee.com.br/6pzs4zlHGb"
       },
       "_last_price": null
     },
@@ -7639,35 +7639,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i6-mdxnx63nl3ib56",
         "productLink": "https://shopee.com.br/product/1108411379/22498859182",
         "offerLink": "https://s.shopee.com.br/8V86b4ezcv"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "52306505589",
-      "name": "Panela De Pressão Elétrica Fmaxx Kitchen Chef 4 Litros 800w Prateado 127v 60hz",
-      "price": 244.99,
-      "original_price": 612.48,
-      "discount": 60.0,
-      "commission": 0.06,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mnviv97rr0ua3f",
-      "link": "https://s.shopee.com.br/4qEoIIPydY",
-      "rating": "4.9",
-      "sales": 936,
-      "shop": "Shop.EV",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 52306505589,
-        "productName": "Panela De Pressão Elétrica Fmaxx Kitchen Chef 4 Litros 800w Prateado 127v 60hz",
-        "price": "244.99",
-        "priceDiscountRate": 60,
-        "commissionRate": "0.06",
-        "sales": 936,
-        "ratingStar": "4.9",
-        "shopName": "Shop.EV",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mnviv97rr0ua3f",
-        "productLink": "https://shopee.com.br/product/1512106181/52306505589",
-        "offerLink": "https://s.shopee.com.br/4qEoIIPydY"
       },
       "_last_price": null
     },
@@ -21536,8 +21507,8 @@
     {
       "id": "22594448627",
       "name": "Esponja Bucha De Silicone Com Porta Sabão Escova Para Banho",
-      "price": 10.48,
-      "original_price": 17.18,
+      "price": 10.49,
+      "original_price": 17.2,
       "discount": 39.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-824gs-mf325zrxkfew1f",
@@ -21550,7 +21521,7 @@
       "_item": {
         "itemId": 22594448627,
         "productName": "Esponja Bucha De Silicone Com Porta Sabão Escova Para Banho",
-        "price": "10.48",
+        "price": "10.49",
         "priceDiscountRate": 39,
         "commissionRate": "0.03",
         "sales": 7581,
@@ -25072,35 +25043,6 @@
       "_last_price": null
     },
     {
-      "id": "12237278339",
-      "name": "Liquidificador 3 velocidades 550W Turbo Power - L-99-FB - Mondial",
-      "price": 117.47,
-      "original_price": 175.33,
-      "discount": 33.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825aa-mrtlksahxxc4e3",
-      "link": "https://s.shopee.com.br/1VyMGD5dpS",
-      "rating": "4.9",
-      "sales": 3847,
-      "shop": "Dutra Máquinas",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 12237278339,
-        "productName": "Liquidificador 3 velocidades 550W Turbo Power - L-99-FB - Mondial",
-        "price": "117.47",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.03",
-        "sales": 3847,
-        "ratingStar": "4.9",
-        "shopName": "Dutra Máquinas",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aa-mrtlksahxxc4e3",
-        "productLink": "https://shopee.com.br/product/489001115/12237278339",
-        "offerLink": "https://s.shopee.com.br/1VyMGD5dpS"
-      },
-      "_last_price": null
-    },
-    {
       "id": "54302551381",
       "name": "Liquidificador Oster 127V 3,2 Litros 15 Velocidades + Pulsar - Preto",
       "price": 199.99,
@@ -25996,6 +25938,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b7-mg5iq6d437d8c0",
         "productLink": "https://shopee.com.br/product/1248266601/19698336562",
         "offerLink": "https://s.shopee.com.br/2qTjmhTkQS"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23597334946",
+      "name": "Liquidificador Britânia BLQE01 2 copos 2,6L 900W",
+      "price": 117.9,
+      "original_price": 170.87,
+      "discount": 31.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825ai-mr67pmmk81z6b0",
+      "link": "https://s.shopee.com.br/8KogZJJQj6",
+      "rating": "4.9",
+      "sales": 805,
+      "shop": "Britânia Oficial",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23597334946,
+        "productName": "Liquidificador Britânia BLQE01 2 copos 2,6L 900W",
+        "price": "117.9",
+        "priceDiscountRate": 31,
+        "commissionRate": "0.03",
+        "sales": 805,
+        "ratingStar": "4.9",
+        "shopName": "Britânia Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ai-mr67pmmk81z6b0",
+        "productLink": "https://shopee.com.br/product/811879342/23597334946",
+        "offerLink": "https://s.shopee.com.br/8KogZJJQj6"
       },
       "_last_price": null
     },
@@ -29911,35 +29882,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvfm-lj2s2shmqq5z23",
         "productLink": "https://shopee.com.br/product/534023108/23796239641",
         "offerLink": "https://s.shopee.com.br/19XwP7dBf"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22298770966",
-      "name": "Amaciante de Cutículas e Calosidade Repos + Espátula 222 Bisturi Inox",
-      "price": 14.99,
-      "original_price": 18.97,
-      "discount": 21.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6t32ri0qh3fd",
-      "link": "https://s.shopee.com.br/60Ql5OlSZ6",
-      "rating": "4.9",
-      "sales": 1558,
-      "shop": "aceppicosmeticos",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22298770966,
-        "productName": "Amaciante de Cutículas e Calosidade Repos + Espátula 222 Bisturi Inox",
-        "price": "14.99",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.07",
-        "sales": 1558,
-        "ratingStar": "4.9",
-        "shopName": "aceppicosmeticos",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6t32ri0qh3fd",
-        "productLink": "https://shopee.com.br/product/1147219225/22298770966",
-        "offerLink": "https://s.shopee.com.br/60Ql5OlSZ6"
       },
       "_last_price": null
     },
