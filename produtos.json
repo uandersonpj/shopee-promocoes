@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T04:54:40.627618+00:00",
+  "updated_at": "2026-08-13T05:13:31.817375+00:00",
   "total": 1126,
   "products": [
     {
@@ -4812,7 +4812,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mj9nvm63moee73",
         "productLink": "https://shopee.com.br/product/1613783173/51004391053",
         "offerLink": "https://s.shopee.com.br/2gAJ7LIjrV"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23294180222",
@@ -5303,7 +5304,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r5-motkngj2m9kyf8",
         "productLink": "https://shopee.com.br/product/1620515295/22694449078",
         "offerLink": "https://s.shopee.com.br/W5oXR32ND"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "17570976729",
@@ -23886,35 +23888,6 @@
       "_last_price": null
     },
     {
-      "id": "26730743902",
-      "name": "Óculos De Sol Com Recorte Oval Sem Moldura-Tons Retrô De Hip-Hop Y2K",
-      "price": 11.63,
-      "original_price": 17.89,
-      "discount": 35.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823qa-mp4m864hog0b3f",
-      "link": "https://s.shopee.com.br/5VUUUbtCro",
-      "rating": "4.8",
-      "sales": 1460,
-      "shop": "Choice Oficial",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 26730743902,
-        "productName": "Óculos De Sol Com Recorte Oval Sem Moldura-Tons Retrô De Hip-Hop Y2K",
-        "price": "11.63",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.11",
-        "sales": 1460,
-        "ratingStar": "4.8",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qa-mp4m864hog0b3f",
-        "productLink": "https://shopee.com.br/product/1006215031/26730743902",
-        "offerLink": "https://s.shopee.com.br/5VUUUbtCro"
-      },
-      "_last_price": null
-    },
-    {
       "id": "21698742354",
       "name": "Vara red fox para carretilha  ou molinete maciça FIBRA DE VIDRO 2 partes (1,35m-1,50m-1,65m-1,80m)",
       "price": 48.75,
@@ -28667,6 +28640,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zui-mkwibtz9is5c69",
         "productLink": "https://shopee.com.br/product/1233589569/58255439241",
         "offerLink": "https://s.shopee.com.br/9pdTeYUAzp"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "26730743902",
+      "name": "Óculos De Sol Com Recorte Oval Sem Moldura-Tons Retrô De Hip-Hop Y2K",
+      "price": 13.54,
+      "original_price": 18.05,
+      "discount": 25.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823qa-mp4m864hog0b3f",
+      "link": "https://s.shopee.com.br/5VUUUbtCro",
+      "rating": "4.8",
+      "sales": 1460,
+      "shop": "Choice Oficial",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 26730743902,
+        "productName": "Óculos De Sol Com Recorte Oval Sem Moldura-Tons Retrô De Hip-Hop Y2K",
+        "price": "13.54",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.11",
+        "sales": 1460,
+        "ratingStar": "4.8",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qa-mp4m864hog0b3f",
+        "productLink": "https://shopee.com.br/product/1006215031/26730743902",
+        "offerLink": "https://s.shopee.com.br/5VUUUbtCro"
       },
       "_last_price": null
     },
