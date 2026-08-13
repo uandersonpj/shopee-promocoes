@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T18:41:33.233067+00:00",
+  "updated_at": "2026-08-13T19:00:40.059682+00:00",
   "total": 1128,
   "products": [
     {
@@ -489,7 +489,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pu-mp4n4y3efpc2f7",
         "productLink": "https://shopee.com.br/product/1006215031/24360408071",
         "offerLink": "https://s.shopee.com.br/AAGK3BbROe"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "56607111945",
@@ -3927,8 +3928,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpkgea3hfv2j75",
         "productLink": "https://shopee.com.br/product/1550289846/28489319549",
         "offerLink": "https://s.shopee.com.br/2LXSioDWH5"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23026990667",
@@ -5526,6 +5526,35 @@
       "_last_price": null
     },
     {
+      "id": "20799862811",
+      "name": "Kit 10 Panos De Limpeza Microfibra alta absorção Multiuso 30x30cm",
+      "price": 17.9,
+      "original_price": 49.72,
+      "discount": 64.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mracz40ul98mbb",
+      "link": "https://s.shopee.com.br/AKZkwtwEoA",
+      "rating": "4.7",
+      "sales": 1372,
+      "shop": "Megatronic Auto Parts",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20799862811,
+        "productName": "Kit 10 Panos De Limpeza Microfibra alta absorção Multiuso 30x30cm",
+        "price": "17.9",
+        "priceDiscountRate": 64,
+        "commissionRate": "0.03",
+        "sales": 1372,
+        "ratingStar": "4.7",
+        "shopName": "Megatronic Auto Parts",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mracz40ul98mbb",
+        "productLink": "https://shopee.com.br/product/371623578/20799862811",
+        "offerLink": "https://s.shopee.com.br/AKZkwtwEoA"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23098851500",
       "name": "Kit Body Splash Dolce + Florata Red 200ml Feminino.",
       "price": 35.9,
@@ -6143,7 +6172,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mol6gkm5rfglaf",
       "link": "https://s.shopee.com.br/904Mf5Dzr6",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 464,
       "shop": "PROMO_MIXX",
       "category": "colete salva vidas",
@@ -6155,7 +6184,7 @@
         "priceDiscountRate": 63,
         "commissionRate": "0.03",
         "sales": 464,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "PROMO_MIXX",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mol6gkm5rfglaf",
         "productLink": "https://shopee.com.br/product/1631175767/58253518102",
@@ -10282,35 +10311,6 @@
       "_last_price": null
     },
     {
-      "id": "22394970918",
-      "name": "LEVE 2 PELO PREÇO DE 1 | DESINFETANTE FAZ 25 LTS CADA | LAV. FLORAL + LAVANDA GLAYDE",
-      "price": 17.9,
-      "original_price": 39.78,
-      "discount": 55.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mo6y0m3644xs31",
-      "link": "https://s.shopee.com.br/AAGK3450CM",
-      "rating": "4.8",
-      "sales": 602,
-      "shop": "TudoDaDay",
-      "category": "desinfetante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22394970918,
-        "productName": "LEVE 2 PELO PREÇO DE 1 | DESINFETANTE FAZ 25 LTS CADA | LAV. FLORAL + LAVANDA GLAYDE",
-        "price": "17.9",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.03",
-        "sales": 602,
-        "ratingStar": "4.8",
-        "shopName": "TudoDaDay",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mo6y0m3644xs31",
-        "productLink": "https://shopee.com.br/product/1564593552/22394970918",
-        "offerLink": "https://s.shopee.com.br/AAGK3450CM"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58210202967",
       "name": "Kit 2 Prateleiras de Canto Sem Furo Porta Shampoo E Sabonete Banheiro Adesivo Reforçado",
       "price": 19.29,
@@ -13352,6 +13352,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mqcxe0w8ffgi61",
         "productLink": "https://shopee.com.br/product/1779380294/47813015691",
         "offerLink": "https://s.shopee.com.br/9zwuJnD4rO"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22394970918",
+      "name": "LEVE 2 PELO PREÇO DE 1 | DESINFETANTE FAZ 25 LTS CADA | LAV. FLORAL + LAVANDA GLAYDE",
+      "price": 19.99,
+      "original_price": 39.98,
+      "discount": 50.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mo6y0m3644xs31",
+      "link": "https://s.shopee.com.br/AAGK3450CM",
+      "rating": "4.8",
+      "sales": 602,
+      "shop": "TudoDaDay",
+      "category": "desinfetante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22394970918,
+        "productName": "LEVE 2 PELO PREÇO DE 1 | DESINFETANTE FAZ 25 LTS CADA | LAV. FLORAL + LAVANDA GLAYDE",
+        "price": "19.99",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 602,
+        "ratingStar": "4.8",
+        "shopName": "TudoDaDay",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mo6y0m3644xs31",
+        "productLink": "https://shopee.com.br/product/1564593552/22394970918",
+        "offerLink": "https://s.shopee.com.br/AAGK3450CM"
       },
       "_last_price": null
     },
@@ -24463,35 +24492,6 @@
       "_last_price": null
     },
     {
-      "id": "22794170349",
-      "name": "Protetor Solar Facial Clareador  Hidrabene FPS 70 Toque Seco Antissinais Clareia a pele 50g",
-      "price": 38.95,
-      "original_price": 59.02,
-      "discount": 34.0,
-      "commission": 0.075,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ra3u-mbe7m8ziioae62",
-      "link": "https://s.shopee.com.br/5LB4ID4myd",
-      "rating": "4.9",
-      "sales": 2080,
-      "shop": "Esthik ",
-      "category": "protetor solar",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22794170349,
-        "productName": "Protetor Solar Facial Clareador  Hidrabene FPS 70 Toque Seco Antissinais Clareia a pele 50g",
-        "price": "38.95",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.075",
-        "sales": 2080,
-        "ratingStar": "4.9",
-        "shopName": "Esthik ",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra3u-mbe7m8ziioae62",
-        "productLink": "https://shopee.com.br/product/314834922/22794170349",
-        "offerLink": "https://s.shopee.com.br/5LB4ID4myd"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22894246754",
       "name": "BODY SPLASH MASCULINO BARBARIUS 200ML - PRIMACIAL PERFUME AMADEIRADO",
       "price": 45.9,
@@ -25188,6 +25188,35 @@
       "_last_price": null
     },
     {
+      "id": "12237278339",
+      "name": "Liquidificador 3 velocidades 550W Turbo Power - L-99-FB - Mondial",
+      "price": 117.47,
+      "original_price": 175.33,
+      "discount": 33.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825aa-mrtlksahxxc4e3",
+      "link": "https://s.shopee.com.br/1VyMGD5dpS",
+      "rating": "4.9",
+      "sales": 3751,
+      "shop": "Dutra Máquinas",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 12237278339,
+        "productName": "Liquidificador 3 velocidades 550W Turbo Power - L-99-FB - Mondial",
+        "price": "117.47",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.03",
+        "sales": 3751,
+        "ratingStar": "4.9",
+        "shopName": "Dutra Máquinas",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aa-mrtlksahxxc4e3",
+        "productLink": "https://shopee.com.br/product/489001115/12237278339",
+        "offerLink": "https://s.shopee.com.br/1VyMGD5dpS"
+      },
+      "_last_price": null
+    },
+    {
       "id": "54302551381",
       "name": "Liquidificador Oster 127V 3,2 Litros 15 Velocidades + Pulsar - Preto",
       "price": 199.99,
@@ -25503,6 +25532,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260h-mjgay09l6cxs6a",
         "productLink": "https://shopee.com.br/product/290598330/50454626337",
         "offerLink": "https://s.shopee.com.br/7AcjB5Q684"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22794170349",
+      "name": "Protetor Solar Facial Clareador  Hidrabene FPS 70 Toque Seco Antissinais Clareia a pele 50g",
+      "price": 39.96,
+      "original_price": 58.76,
+      "discount": 32.0,
+      "commission": 0.075,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ra3u-mbe7m8ziioae62",
+      "link": "https://s.shopee.com.br/5LB4ID4myd",
+      "rating": "4.9",
+      "sales": 2080,
+      "shop": "Esthik ",
+      "category": "protetor solar",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22794170349,
+        "productName": "Protetor Solar Facial Clareador  Hidrabene FPS 70 Toque Seco Antissinais Clareia a pele 50g",
+        "price": "39.96",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.075",
+        "sales": 2080,
+        "ratingStar": "4.9",
+        "shopName": "Esthik ",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra3u-mbe7m8ziioae62",
+        "productLink": "https://shopee.com.br/product/314834922/22794170349",
+        "offerLink": "https://s.shopee.com.br/5LB4ID4myd"
       },
       "_last_price": null
     },
@@ -26058,35 +26116,6 @@
       "_last_price": null
     },
     {
-      "id": "23597334946",
-      "name": "Liquidificador Britânia BLQE01 2 copos 2,6L 900W",
-      "price": 117.9,
-      "original_price": 170.87,
-      "discount": 31.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825ai-mr67pmmk81z6b0",
-      "link": "https://s.shopee.com.br/8KogZJJQj6",
-      "rating": "4.9",
-      "sales": 820,
-      "shop": "Britânia Oficial",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23597334946,
-        "productName": "Liquidificador Britânia BLQE01 2 copos 2,6L 900W",
-        "price": "117.9",
-        "priceDiscountRate": 31,
-        "commissionRate": "0.03",
-        "sales": 820,
-        "ratingStar": "4.9",
-        "shopName": "Britânia Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ai-mr67pmmk81z6b0",
-        "productLink": "https://shopee.com.br/product/811879342/23597334946",
-        "offerLink": "https://s.shopee.com.br/8KogZJJQj6"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20997919456",
       "name": "Jogo de Panelas Teflon Munique 11 Pçs com Panela de Pressão fechamento externo de 2.5L",
       "price": 274.01,
@@ -26470,7 +26499,7 @@
       "original_price": 100.0,
       "discount": 30.0,
       "commission": 0.16,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825zq-mkcnt2h0ni87b9",
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825ah-mrujponlvdoi10",
       "link": "https://s.shopee.com.br/5q7LMBf8JL",
       "rating": "4.8",
       "sales": 876,
@@ -26486,7 +26515,7 @@
         "sales": 876,
         "ratingStar": "4.8",
         "shopName": "LINDU 2025",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zq-mkcnt2h0ni87b9",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ah-mrujponlvdoi10",
         "productLink": "https://shopee.com.br/product/1609042341/58204723156",
         "offerLink": "https://s.shopee.com.br/5q7LMBf8JL"
       },
@@ -29422,35 +29451,6 @@
       "_last_price": null
     },
     {
-      "id": "22498217448",
-      "name": "1 / 2 / 3 ou 5  Luva de Microfibra lavagem automotiva",
-      "price": 9.99,
-      "original_price": 12.97,
-      "discount": 23.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mq6896wieuipd5",
-      "link": "https://s.shopee.com.br/1gHmrVmKBM",
-      "rating": "4.3",
-      "sales": 1297,
-      "shop": "UNIFAST_SP",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22498217448,
-        "productName": "1 / 2 / 3 ou 5  Luva de Microfibra lavagem automotiva",
-        "price": "9.99",
-        "priceDiscountRate": 23,
-        "commissionRate": "0.08",
-        "sales": 1297,
-        "ratingStar": "4.3",
-        "shopName": "UNIFAST_SP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mq6896wieuipd5",
-        "productLink": "https://shopee.com.br/product/388202560/22498217448",
-        "offerLink": "https://s.shopee.com.br/1gHmrVmKBM"
-      },
-      "_last_price": null
-    },
-    {
       "id": "4679503295",
       "name": "Pasta de Amendoim com Chocolate com Whey Protein 1,005 Kg",
       "price": 26.87,
@@ -31307,6 +31307,35 @@
       "_last_price": null
     },
     {
+      "id": "58255902115",
+      "name": "Base Sabão Líquido Faz 20L – Kit Blend Concentrado 2 Frascos – Fácil de Fazer",
+      "price": 59.99,
+      "original_price": 73.16,
+      "discount": 18.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820li-mp3t5spg1berbf",
+      "link": "https://s.shopee.com.br/1gHmOTinlR",
+      "rating": "4.9",
+      "sales": 5002,
+      "shop": "Mercado das Essências",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58255902115,
+        "productName": "Base Sabão Líquido Faz 20L – Kit Blend Concentrado 2 Frascos – Fácil de Fazer",
+        "price": "59.99",
+        "priceDiscountRate": 18,
+        "commissionRate": "0.03",
+        "sales": 5002,
+        "ratingStar": "4.9",
+        "shopName": "Mercado das Essências",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mp3t5spg1berbf",
+        "productLink": "https://shopee.com.br/product/1107585845/58255902115",
+        "offerLink": "https://s.shopee.com.br/1gHmOTinlR"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21199212964",
       "name": "Kit Cozinha Completa: Escorredor de Louça + Lixeira 5L + Porta Detergente + Rodinho de Pia",
       "price": 36.9,
@@ -32434,35 +32463,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnddp09ufn4fe5",
         "productLink": "https://shopee.com.br/product/534023108/19748645144",
         "offerLink": "https://s.shopee.com.br/4Az6u1sRHx"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58255902115",
-      "name": "Base Sabão Líquido Faz 20L – Kit Blend Concentrado 2 Frascos – Fácil de Fazer",
-      "price": 61.99,
-      "original_price": 72.93,
-      "discount": 15.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820li-mp3t5spg1berbf",
-      "link": "https://s.shopee.com.br/1gHmOTinlR",
-      "rating": "4.9",
-      "sales": 5002,
-      "shop": "Mercado das Essências",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58255902115,
-        "productName": "Base Sabão Líquido Faz 20L – Kit Blend Concentrado 2 Frascos – Fácil de Fazer",
-        "price": "61.99",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.03",
-        "sales": 5002,
-        "ratingStar": "4.9",
-        "shopName": "Mercado das Essências",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mp3t5spg1berbf",
-        "productLink": "https://shopee.com.br/product/1107585845/58255902115",
-        "offerLink": "https://s.shopee.com.br/1gHmOTinlR"
       },
       "_last_price": null
     },
