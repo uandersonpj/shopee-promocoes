@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-13T22:15:06.054919+00:00",
-  "total": 1125,
+  "updated_at": "2026-08-13T22:34:25.577685+00:00",
+  "total": 1128,
   "products": [
     {
       "id": "23698808886",
@@ -1615,7 +1615,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mnwcoooh21a9da",
         "productLink": "https://shopee.com.br/product/1345043704/22693513091",
         "offerLink": "https://s.shopee.com.br/20ucKAXKhC"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "20499592472",
@@ -1673,35 +1674,6 @@
         "productLink": "https://shopee.com.br/product/1006215031/47000945292",
         "offerLink": "https://s.shopee.com.br/8AVFeG5h9x"
       }
-    },
-    {
-      "id": "22497773735",
-      "name": "Mochila Vlagem Feminina Masculinas Multifuncional Reforçada Impermeável Expansível Mochila Notebook Antifurto USB",
-      "price": 119.98,
-      "original_price": 499.92,
-      "discount": 76.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mmgwyk55dxjb9c",
-      "link": "https://s.shopee.com.br/1VyLjFZEi3",
-      "rating": "5",
-      "sales": 5209,
-      "shop": "Romantic Crown 02",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22497773735,
-        "productName": "Mochila Vlagem Feminina Masculinas Multifuncional Reforçada Impermeável Expansível Mochila Notebook Antifurto USB",
-        "price": "119.98",
-        "priceDiscountRate": 76,
-        "commissionRate": "0.08",
-        "sales": 5209,
-        "ratingStar": "5",
-        "shopName": "Romantic Crown 02",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmgwyk55dxjb9c",
-        "productLink": "https://shopee.com.br/product/1345043704/22497773735",
-        "offerLink": "https://s.shopee.com.br/1VyLjFZEi3"
-      },
-      "_last_price": null
     },
     {
       "id": "42931642321",
@@ -1843,6 +1815,35 @@
         "productLink": "https://shopee.com.br/product/1017646777/22198016021",
         "offerLink": "https://s.shopee.com.br/50YDtc1OKj"
       }
+    },
+    {
+      "id": "22497773735",
+      "name": "Mochila Vlagem Feminina Masculinas Multifuncional Reforçada Impermeável Expansível Mochila Notebook Antifurto USB",
+      "price": 119.98,
+      "original_price": 499.92,
+      "discount": 76.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mmgwyk55dxjb9c",
+      "link": "https://s.shopee.com.br/1VyLjFZEi3",
+      "rating": "5",
+      "sales": 5209,
+      "shop": "Romantic Crown 02",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22497773735,
+        "productName": "Mochila Vlagem Feminina Masculinas Multifuncional Reforçada Impermeável Expansível Mochila Notebook Antifurto USB",
+        "price": "119.98",
+        "priceDiscountRate": 76,
+        "commissionRate": "0.08",
+        "sales": 5209,
+        "ratingStar": "5",
+        "shopName": "Romantic Crown 02",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmgwyk55dxjb9c",
+        "productLink": "https://shopee.com.br/product/1345043704/22497773735",
+        "offerLink": "https://s.shopee.com.br/1VyLjFZEi3"
+      },
+      "_last_price": null
     },
     {
       "id": "22998670251",
@@ -2305,8 +2306,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mnz5ipg57t3539",
         "productLink": "https://shopee.com.br/product/1634545368/23398908978",
         "offerLink": "https://s.shopee.com.br/5VUUxZgOzF"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "9212570285",
@@ -2798,6 +2798,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmk79eamdjwn8a",
         "productLink": "https://shopee.com.br/product/1624940780/58258104110",
         "offerLink": "https://s.shopee.com.br/8fRWFDgNJv"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58256593299",
+      "name": "Ventoinha para Computador 120mm RGB Refrigeração Gabinete Gamer 1200RPM Preto/Branco",
+      "price": 25.89,
+      "original_price": 86.3,
+      "discount": 70.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mlme9lxkvxms6d",
+      "link": "https://s.shopee.com.br/7Kw9x5bry0",
+      "rating": "4.8",
+      "sales": 1975,
+      "shop": "Super Vida_BR",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58256593299,
+        "productName": "Ventoinha para Computador 120mm RGB Refrigeração Gabinete Gamer 1200RPM Preto/Branco",
+        "price": "25.89",
+        "priceDiscountRate": 70,
+        "commissionRate": "0.13",
+        "sales": 1975,
+        "ratingStar": "4.8",
+        "shopName": "Super Vida_BR",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mlme9lxkvxms6d",
+        "productLink": "https://shopee.com.br/product/1660170092/58256593299",
+        "offerLink": "https://s.shopee.com.br/7Kw9x5bry0"
       },
       "_last_price": null
     },
@@ -7883,7 +7912,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mawkl7entdq114",
       "link": "https://s.shopee.com.br/3B6ZiAAOHt",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 3325,
       "shop": "Cherrygo1.br",
       "category": "monitor",
@@ -7895,7 +7924,7 @@
         "priceDiscountRate": 59,
         "commissionRate": "0.03",
         "sales": 3325,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Cherrygo1.br",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mawkl7entdq114",
         "productLink": "https://shopee.com.br/product/1259086167/43754234043",
@@ -11790,6 +11819,35 @@
       "_last_price": null
     },
     {
+      "id": "23198950047",
+      "name": "Mochila Grande Reforçada Impermeável Notebook Masculina Feminina Escola Trabalho",
+      "price": 36.07,
+      "original_price": 75.15,
+      "discount": 52.0,
+      "commission": 0.06,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824h7-mpl0gkmwesjyea",
+      "link": "https://s.shopee.com.br/5q7KtDIjvF",
+      "rating": "4.2",
+      "sales": 2299,
+      "shop": "KCR__SHOP",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23198950047,
+        "productName": "Mochila Grande Reforçada Impermeável Notebook Masculina Feminina Escola Trabalho",
+        "price": "36.07",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.06",
+        "sales": 2299,
+        "ratingStar": "4.2",
+        "shopName": "KCR__SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h7-mpl0gkmwesjyea",
+        "productLink": "https://shopee.com.br/product/1629595611/23198950047",
+        "offerLink": "https://s.shopee.com.br/5q7KtDIjvF"
+      },
+      "_last_price": null
+    },
+    {
       "id": "57108039282",
       "name": "Teclado Gamer Mecânico 61 Teclas RGB Compacto Com Fio USB-C Cabo Removível-Promoção",
       "price": 90.99,
@@ -12109,35 +12167,6 @@
       "_last_price": null
     },
     {
-      "id": "23198950047",
-      "name": "Mochila Grande Reforçada Impermeável Notebook Masculina Feminina Escola Trabalho",
-      "price": 36.07,
-      "original_price": 75.15,
-      "discount": 52.0,
-      "commission": 0.06,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824h7-mpl0gkmwesjyea",
-      "link": "https://s.shopee.com.br/5q7KtDIjvF",
-      "rating": "4.2",
-      "sales": 2299,
-      "shop": "KCR__SHOP",
-      "category": "bolsa feminina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23198950047,
-        "productName": "Mochila Grande Reforçada Impermeável Notebook Masculina Feminina Escola Trabalho",
-        "price": "36.07",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.06",
-        "sales": 2299,
-        "ratingStar": "4.2",
-        "shopName": "KCR__SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h7-mpl0gkmwesjyea",
-        "productLink": "https://shopee.com.br/product/1629595611/23198950047",
-        "offerLink": "https://s.shopee.com.br/5q7KtDIjvF"
-      },
-      "_last_price": null
-    },
-    {
       "id": "24162454732",
       "name": "Relógio De Quartzo Masculino Fashion-Forward : Pulseira De Nylon Durável Para Vidas Ativas",
       "price": 6.71,
@@ -12337,35 +12366,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mqfvq77ehzimc5",
         "productLink": "https://shopee.com.br/product/1480010654/41666830739",
         "offerLink": "https://s.shopee.com.br/3LPztNk1c8"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23596569225",
-      "name": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
-      "price": 48.5,
-      "original_price": 98.98,
-      "discount": 51.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
-      "link": "https://s.shopee.com.br/9V0dFx4mTr",
-      "rating": "4.8",
-      "sales": 2775,
-      "shop": "ME MERCADO",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23596569225,
-        "productName": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
-        "price": "48.5",
-        "priceDiscountRate": 51,
-        "commissionRate": "0.07",
-        "sales": 2775,
-        "ratingStar": "4.8",
-        "shopName": "ME MERCADO",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
-        "productLink": "https://shopee.com.br/product/392239188/23596569225",
-        "offerLink": "https://s.shopee.com.br/9V0dFx4mTr"
       },
       "_last_price": null
     },
@@ -12631,6 +12631,35 @@
       "_last_price": null
     },
     {
+      "id": "23596569225",
+      "name": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
+      "price": 48.5,
+      "original_price": 98.98,
+      "discount": 51.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
+      "link": "https://s.shopee.com.br/9V0dFx4mTr",
+      "rating": "4.8",
+      "sales": 2775,
+      "shop": "ME MERCADO",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23596569225,
+        "productName": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
+        "price": "48.5",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.07",
+        "sales": 2775,
+        "ratingStar": "4.8",
+        "shopName": "ME MERCADO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
+        "productLink": "https://shopee.com.br/product/392239188/23596569225",
+        "offerLink": "https://s.shopee.com.br/9V0dFx4mTr"
+      },
+      "_last_price": null
+    },
+    {
       "id": "25614629818",
       "name": "Boné De Beisebol Masculino Camuflado Com Caveira , Chapéu Tático Para Pesca E Caminhada Ao Ar Livre O Verão",
       "price": 24.36,
@@ -12743,6 +12772,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mljzudnhshdw7f",
         "productLink": "https://shopee.com.br/product/1658947107/22799125551",
         "offerLink": "https://s.shopee.com.br/30n9VqKITw"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "43108735992",
+      "name": "Papel Offset Opaline Liso 180g Branco Diplomata Kit 200, 100 ou 50 Folhas Masterprint",
+      "price": 11.97,
+      "original_price": 23.94,
+      "discount": 50.0,
+      "commission": 0.14,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbfn2mbuo7lk14",
+      "link": "https://s.shopee.com.br/9KhDzXKTkv",
+      "rating": "5",
+      "sales": 2952,
+      "shop": "Draw Papelaria",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 43108735992,
+        "productName": "Papel Offset Opaline Liso 180g Branco Diplomata Kit 200, 100 ou 50 Folhas Masterprint",
+        "price": "11.97",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.14",
+        "sales": 2952,
+        "ratingStar": "5",
+        "shopName": "Draw Papelaria",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbfn2mbuo7lk14",
+        "productLink": "https://shopee.com.br/product/999239250/43108735992",
+        "offerLink": "https://s.shopee.com.br/9KhDzXKTkv"
       },
       "_last_price": null
     },
@@ -14864,35 +14922,6 @@
       "_last_price": null
     },
     {
-      "id": "22893843635",
-      "name": "Papel Fotográfico Adesivo 130G Glossy 100 Folhas A4 MASTERPRINT (PAPEL ADESIVO)",
-      "price": 13.99,
-      "original_price": 26.9,
-      "discount": 48.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7jsf5ww63le2e",
-      "link": "https://s.shopee.com.br/2gAJ7ELZ9u",
-      "rating": "4.9",
-      "sales": 5367,
-      "shop": "Papel fotografico e Papelaria",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22893843635,
-        "productName": "Papel Fotográfico Adesivo 130G Glossy 100 Folhas A4 MASTERPRINT (PAPEL ADESIVO)",
-        "price": "13.99",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.08",
-        "sales": 5367,
-        "ratingStar": "4.9",
-        "shopName": "Papel fotografico e Papelaria",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7jsf5ww63le2e",
-        "productLink": "https://shopee.com.br/product/761647073/22893843635",
-        "offerLink": "https://s.shopee.com.br/2gAJ7ELZ9u"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23194308436",
       "name": "Papel Fotográfico Adesivo 130G A4 Glossy 20 a 100 Folhas MASTERPRINT (PAPEL ADESIVO)",
       "price": 12.99,
@@ -15850,35 +15879,6 @@
       "_last_price": null
     },
     {
-      "id": "23994163881",
-      "name": "Polaseal Plastico Para Plastificacão 100 Folhas Com Brilho Plastificar",
-      "price": 17.36,
-      "original_price": 32.75,
-      "discount": 47.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbdarz2rm7ztf9",
-      "link": "https://s.shopee.com.br/7Kw9NK59Jv",
-      "rating": "4.9",
-      "sales": 2526,
-      "shop": "Papel fotografico e Papelaria",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23994163881,
-        "productName": "Polaseal Plastico Para Plastificacão 100 Folhas Com Brilho Plastificar",
-        "price": "17.36",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.08",
-        "sales": 2526,
-        "ratingStar": "4.9",
-        "shopName": "Papel fotografico e Papelaria",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbdarz2rm7ztf9",
-        "productLink": "https://shopee.com.br/product/761647073/23994163881",
-        "offerLink": "https://s.shopee.com.br/7Kw9NK59Jv"
-      },
-      "_last_price": null
-    },
-    {
       "id": "51212554668",
       "name": "Ataque SHARK X68HE Teclado Mecânico Magnético RGB 8K E-Sports De Eixo 0.01mm RT Precisão 128K Taxa De Verificação",
       "price": 266.06,
@@ -16658,35 +16658,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pi-mp4mu2u5xq8e68",
         "productLink": "https://shopee.com.br/product/1006215031/41601446410",
         "offerLink": "https://s.shopee.com.br/8Kofqbhdzl"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21299368624",
-      "name": "Caderno 20 Matérias Universitário Capa Dura Com Preto Rosa Escolar Credeal",
-      "price": 19.99,
-      "original_price": 37.02,
-      "discount": 46.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lz81fe0rg1mpd6",
-      "link": "https://s.shopee.com.br/2qTjJXKvox",
-      "rating": "4.9",
-      "sales": 4509,
-      "shop": "Papel fotografico e Papelaria",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21299368624,
-        "productName": "Caderno 20 Matérias Universitário Capa Dura Com Preto Rosa Escolar Credeal",
-        "price": "19.99",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.08",
-        "sales": 4509,
-        "ratingStar": "4.9",
-        "shopName": "Papel fotografico e Papelaria",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lz81fe0rg1mpd6",
-        "productLink": "https://shopee.com.br/product/761647073/21299368624",
-        "offerLink": "https://s.shopee.com.br/2qTjJXKvox"
       },
       "_last_price": null
     },
@@ -23129,35 +23100,6 @@
       "_last_price": null
     },
     {
-      "id": "22898980977",
-      "name": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
-      "price": 68.6,
-      "original_price": 107.19,
-      "discount": 36.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mm1wtgtq87408a",
-      "link": "https://s.shopee.com.br/8KofritMsv",
-      "rating": "4.9",
-      "sales": 11118,
-      "shop": "Principia Skincare",
-      "category": "protetor solar",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22898980977,
-        "productName": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
-        "price": "68.6",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.13",
-        "sales": 11118,
-        "ratingStar": "4.9",
-        "shopName": "Principia Skincare",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mm1wtgtq87408a",
-        "productLink": "https://shopee.com.br/product/373261329/22898980977",
-        "offerLink": "https://s.shopee.com.br/8KofritMsv"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23498778973",
       "name": "Protetor Solar Facial Hidrabene Clareador FPS 70 Antissinais Clareia a pele Toque Seco 50g Unidade ou Kit",
       "price": 39.96,
@@ -24144,6 +24086,35 @@
       "_last_price": null
     },
     {
+      "id": "15480003512",
+      "name": "Mochila Escolar Impermeável Grande 45 L Notebook 17 Resistente",
+      "price": 32.9,
+      "original_price": 49.85,
+      "discount": 34.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjke8yop9jia32",
+      "link": "https://s.shopee.com.br/9V0eBqJqPw",
+      "rating": "4.6",
+      "sales": 1800,
+      "shop": "MD2Representacoes",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 15480003512,
+        "productName": "Mochila Escolar Impermeável Grande 45 L Notebook 17 Resistente",
+        "price": "32.9",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.03",
+        "sales": 1800,
+        "ratingStar": "4.6",
+        "shopName": "MD2Representacoes",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjke8yop9jia32",
+        "productLink": "https://shopee.com.br/product/695223211/15480003512",
+        "offerLink": "https://s.shopee.com.br/9V0eBqJqPw"
+      },
+      "_last_price": null
+    },
+    {
       "id": "54208286629",
       "name": " Caixa/Enclausuramento SSD M2 10Gbps NVMe/SATA Aplicado ao Adaptador/Enclausuramento M.2 NGFF NVMe PCIe SATA,",
       "price": 35.48,
@@ -25043,6 +25014,35 @@
       "_last_price": null
     },
     {
+      "id": "12237278339",
+      "name": "Liquidificador 3 velocidades 550W Turbo Power - L-99-FB - Mondial",
+      "price": 117.47,
+      "original_price": 175.33,
+      "discount": 33.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825aa-mrtlksahxxc4e3",
+      "link": "https://s.shopee.com.br/1VyMGD5dpS",
+      "rating": "4.9",
+      "sales": 3847,
+      "shop": "Dutra Máquinas",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 12237278339,
+        "productName": "Liquidificador 3 velocidades 550W Turbo Power - L-99-FB - Mondial",
+        "price": "117.47",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.03",
+        "sales": 3847,
+        "ratingStar": "4.9",
+        "shopName": "Dutra Máquinas",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aa-mrtlksahxxc4e3",
+        "productLink": "https://shopee.com.br/product/489001115/12237278339",
+        "offerLink": "https://s.shopee.com.br/1VyMGD5dpS"
+      },
+      "_last_price": null
+    },
+    {
       "id": "54302551381",
       "name": "Liquidificador Oster 127V 3,2 Litros 15 Velocidades + Pulsar - Preto",
       "price": 199.99,
@@ -25938,35 +25938,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b7-mg5iq6d437d8c0",
         "productLink": "https://shopee.com.br/product/1248266601/19698336562",
         "offerLink": "https://s.shopee.com.br/2qTjmhTkQS"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23597334946",
-      "name": "Liquidificador Britânia BLQE01 2 copos 2,6L 900W",
-      "price": 117.9,
-      "original_price": 170.87,
-      "discount": 31.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825ai-mr67pmmk81z6b0",
-      "link": "https://s.shopee.com.br/8KogZJJQj6",
-      "rating": "4.9",
-      "sales": 805,
-      "shop": "Britânia Oficial",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23597334946,
-        "productName": "Liquidificador Britânia BLQE01 2 copos 2,6L 900W",
-        "price": "117.9",
-        "priceDiscountRate": 31,
-        "commissionRate": "0.03",
-        "sales": 805,
-        "ratingStar": "4.9",
-        "shopName": "Britânia Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ai-mr67pmmk81z6b0",
-        "productLink": "https://shopee.com.br/product/811879342/23597334946",
-        "offerLink": "https://s.shopee.com.br/8KogZJJQj6"
       },
       "_last_price": null
     },
@@ -27214,6 +27185,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mq84bvkybegz86",
         "productLink": "https://shopee.com.br/product/1305392320/58263659785",
         "offerLink": "https://s.shopee.com.br/6AkBHiKEJS"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22898980977",
+      "name": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
+      "price": 77.99,
+      "original_price": 108.32,
+      "discount": 28.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mm1wtgtq87408a",
+      "link": "https://s.shopee.com.br/8KofritMsv",
+      "rating": "4.9",
+      "sales": 11118,
+      "shop": "Principia Skincare",
+      "category": "protetor solar",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22898980977,
+        "productName": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
+        "price": "77.99",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.13",
+        "sales": 11118,
+        "ratingStar": "4.9",
+        "shopName": "Principia Skincare",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mm1wtgtq87408a",
+        "productLink": "https://shopee.com.br/product/373261329/22898980977",
+        "offerLink": "https://s.shopee.com.br/8KofritMsv"
       },
       "_last_price": null
     },
@@ -28755,6 +28755,35 @@
       "_last_price": null
     },
     {
+      "id": "22397976540",
+      "name": "ADESIVO TRANSPARENTE PERSONALIZADO COM SUA LOGO | VINIL À PROVA D’ÁGUA | ETIQUETA ADESIVA PREMIUM + BRINDE",
+      "price": 9.87,
+      "original_price": 12.99,
+      "discount": 24.0,
+      "commission": 0.21,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mo6t2hopabyc42",
+      "link": "https://s.shopee.com.br/9pdUaSIZk2",
+      "rating": "4.6",
+      "sales": 2369,
+      "shop": "Gargomixadesivos",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22397976540,
+        "productName": "ADESIVO TRANSPARENTE PERSONALIZADO COM SUA LOGO | VINIL À PROVA D’ÁGUA | ETIQUETA ADESIVA PREMIUM + BRINDE",
+        "price": "9.87",
+        "priceDiscountRate": 24,
+        "commissionRate": "0.21",
+        "sales": 2369,
+        "ratingStar": "4.6",
+        "shopName": "Gargomixadesivos",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mo6t2hopabyc42",
+        "productLink": "https://shopee.com.br/product/1212983254/22397976540",
+        "offerLink": "https://s.shopee.com.br/9pdUaSIZk2"
+      },
+      "_last_price": null
+    },
+    {
       "id": "57060412908",
       "name": "Mouse Gamer Leve Attack Shark X11 SE com Três Modos, Vida Útil dos Botões HUANO de 20 Milhões, Sensor PAW3311, 63g,",
       "price": 104.7,
@@ -29360,6 +29389,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4f-m7pqiw99z9nr22",
         "productLink": "https://shopee.com.br/product/410663728/23898339097",
         "offerLink": "https://s.shopee.com.br/8V8640BLa4"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22498217448",
+      "name": "1 / 2 / 3 ou 5  Luva de Microfibra lavagem automotiva",
+      "price": 9.99,
+      "original_price": 12.97,
+      "discount": 23.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mq6896wieuipd5",
+      "link": "https://s.shopee.com.br/1gHmrVmKBM",
+      "rating": "4.3",
+      "sales": 1281,
+      "shop": "UNIFAST_SP",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22498217448,
+        "productName": "1 / 2 / 3 ou 5  Luva de Microfibra lavagem automotiva",
+        "price": "9.99",
+        "priceDiscountRate": 23,
+        "commissionRate": "0.08",
+        "sales": 1281,
+        "ratingStar": "4.3",
+        "shopName": "UNIFAST_SP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mq6896wieuipd5",
+        "productLink": "https://shopee.com.br/product/388202560/22498217448",
+        "offerLink": "https://s.shopee.com.br/1gHmrVmKBM"
       },
       "_last_price": null
     },
@@ -31535,6 +31593,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mqougklreigzee",
         "productLink": "https://shopee.com.br/product/375688601/23997314491",
         "offerLink": "https://s.shopee.com.br/5LB4H5g4UH"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20759160783",
+      "name": "Teclado Usb Padrão ABNT2 Brasileiro Super Macio Notebook Pc Computador",
+      "price": 24.9,
+      "original_price": 30.0,
+      "discount": 17.0,
+      "commission": 0.06,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mopjxmujv7r933",
+      "link": "https://s.shopee.com.br/9fK4O9JD51",
+      "rating": "4.9",
+      "sales": 2853,
+      "shop": "KEPEL SUPRIMENTOS",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20759160783,
+        "productName": "Teclado Usb Padrão ABNT2 Brasileiro Super Macio Notebook Pc Computador",
+        "price": "24.9",
+        "priceDiscountRate": 17,
+        "commissionRate": "0.06",
+        "sales": 2853,
+        "ratingStar": "4.9",
+        "shopName": "KEPEL SUPRIMENTOS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mopjxmujv7r933",
+        "productLink": "https://shopee.com.br/product/683934771/20759160783",
+        "offerLink": "https://s.shopee.com.br/9fK4O9JD51"
       },
       "_last_price": null
     },
