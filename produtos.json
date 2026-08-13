@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-13T20:58:10.822114+00:00",
-  "total": 1127,
+  "updated_at": "2026-08-13T21:17:27.018204+00:00",
+  "total": 1129,
   "products": [
     {
       "id": "23698808886",
@@ -1841,8 +1841,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1xeanm14pt61d",
         "productLink": "https://shopee.com.br/product/1017646777/22198016021",
         "offerLink": "https://s.shopee.com.br/50YDtc1OKj"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22998670251",
@@ -2479,7 +2478,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8226r-mhj966enugw06c",
         "productLink": "https://shopee.com.br/product/698887220/58251069728",
         "offerLink": "https://s.shopee.com.br/2qTjITyaPe"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22294903006",
@@ -6549,7 +6549,7 @@
       "commission": 0.13,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mpnppwqseqypd8",
       "link": "https://s.shopee.com.br/20ucr83jod",
-      "rating": "4.7",
+      "rating": "4.8",
       "sales": 2915,
       "shop": "MF Baby e Home",
       "category": "liquidificador",
@@ -6561,7 +6561,7 @@
         "priceDiscountRate": 62,
         "commissionRate": "0.13",
         "sales": 2915,
-        "ratingStar": "4.7",
+        "ratingStar": "4.8",
         "shopName": "MF Baby e Home",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mpnppwqseqypd8",
         "productLink": "https://shopee.com.br/product/1556592577/52607420187",
@@ -12888,6 +12888,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg8mdyb8amf868",
         "productLink": "https://shopee.com.br/product/440843436/20753602955",
         "offerLink": "https://s.shopee.com.br/8fRWjJ5y57"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58262995010",
+      "name": "Suporte para Placa de Vídeo Deadpool Exclusivo – GPU Ajustável Gamer Universal",
+      "price": 14.95,
+      "original_price": 29.9,
+      "discount": 50.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mpschi0yy2o0c3",
+      "link": "https://s.shopee.com.br/904N7v4hPD",
+      "rating": "4.8",
+      "sales": 110,
+      "shop": "Funciona Bem Utilidades",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58262995010,
+        "productName": "Suporte para Placa de Vídeo Deadpool Exclusivo – GPU Ajustável Gamer Universal",
+        "price": "14.95",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 110,
+        "ratingStar": "4.8",
+        "shopName": "Funciona Bem Utilidades",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mpschi0yy2o0c3",
+        "productLink": "https://shopee.com.br/product/1555847007/58262995010",
+        "offerLink": "https://s.shopee.com.br/904N7v4hPD"
       },
       "_last_price": null
     },
@@ -21414,6 +21443,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824in-mea3mrj8hpmv40",
         "productLink": "https://shopee.com.br/product/1552226494/22494219157",
         "offerLink": "https://s.shopee.com.br/1LevzpKksT"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "41417041430",
+      "name": "Placa de Vídeo MSI NVIDIA GeForce RTX 5060 SHADOW 2X OC, 8GB, GDDR7, 128 Bits - 912-V537-038",
+      "price": 2799.0,
+      "original_price": 4588.52,
+      "discount": 39.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824h3-me53t34yuepze5",
+      "link": "https://s.shopee.com.br/3qMGVNqFnd",
+      "rating": "5",
+      "sales": 141,
+      "shop": "ITX-GAMER",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41417041430,
+        "productName": "Placa de Vídeo MSI NVIDIA GeForce RTX 5060 SHADOW 2X OC, 8GB, GDDR7, 128 Bits - 912-V537-038",
+        "price": "2799",
+        "priceDiscountRate": 39,
+        "commissionRate": "0.03",
+        "sales": 141,
+        "ratingStar": "5",
+        "shopName": "ITX-GAMER",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h3-me53t34yuepze5",
+        "productLink": "https://shopee.com.br/product/778397589/41417041430",
+        "offerLink": "https://s.shopee.com.br/3qMGVNqFnd"
       },
       "_last_price": null
     },
