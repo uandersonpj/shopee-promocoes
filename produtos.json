@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T18:22:19.979219+00:00",
+  "updated_at": "2026-08-13T18:41:33.233067+00:00",
   "total": 1128,
   "products": [
     {
@@ -432,7 +432,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyoeedt37dlhb3",
         "productLink": "https://shopee.com.br/product/394192376/21897733919",
         "offerLink": "https://s.shopee.com.br/4LIX6OunKs"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "26539956454",
@@ -1238,6 +1239,35 @@
       "_last_price": null
     },
     {
+      "id": "21997150349",
+      "name": "Kit 6 Forma de Silicone para Fritadeira Air Fryer com Alça Antiaderente Cozinha",
+      "price": 14.49,
+      "original_price": 69.0,
+      "discount": 79.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
+      "link": "https://s.shopee.com.br/70JIHKjd3u",
+      "rating": "4.6",
+      "sales": 12023,
+      "shop": "MVO COMÉRCIO DE VARIEDADES",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21997150349,
+        "productName": "Kit 6 Forma de Silicone para Fritadeira Air Fryer com Alça Antiaderente Cozinha",
+        "price": "14.49",
+        "priceDiscountRate": 79,
+        "commissionRate": "0.03",
+        "sales": 12023,
+        "ratingStar": "4.6",
+        "shopName": "MVO COMÉRCIO DE VARIEDADES",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
+        "productLink": "https://shopee.com.br/product/972031390/21997150349",
+        "offerLink": "https://s.shopee.com.br/70JIHKjd3u"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23897691943",
       "name": "Tênis Feminino Meia Calce Fácil Slip On Leve Flexível Confortável Caminhada Academia Casual",
       "price": 24.9,
@@ -1320,8 +1350,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm5-lln14dkqwcs917",
         "productLink": "https://shopee.com.br/product/504210070/22492388439",
         "offerLink": "https://s.shopee.com.br/60Ql4IUvob"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "45364806848",
@@ -4110,7 +4139,7 @@
       "price": 9.99,
       "original_price": 30.27,
       "discount": 67.0,
-      "commission": 0.03,
+      "commission": 0.13,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mru3cfk5766dd2",
       "link": "https://s.shopee.com.br/2gAJ7Ggkyu",
       "rating": "4.7",
@@ -4123,7 +4152,7 @@
         "productName": "Sabão em Pó Premium 1Kg 2Kg 3Kg 4Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
         "price": "9.99",
         "priceDiscountRate": 67,
-        "commissionRate": "0.03",
+        "commissionRate": "0.13",
         "sales": 188,
         "ratingStar": "4.7",
         "shopName": "AudCare Química",
@@ -7970,7 +7999,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mawkl7entdq114",
       "link": "https://s.shopee.com.br/3B6ZiAAOHt",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 3263,
       "shop": "Cherrygo1.br",
       "category": "monitor",
@@ -7982,7 +8011,7 @@
         "priceDiscountRate": 59,
         "commissionRate": "0.03",
         "sales": 3263,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "Cherrygo1.br",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mawkl7entdq114",
         "productLink": "https://shopee.com.br/product/1259086167/43754234043",
@@ -8538,35 +8567,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfa2zn43hdz96b",
         "productLink": "https://shopee.com.br/product/405617888/22694463642",
         "offerLink": "https://s.shopee.com.br/9pdTeXYqJj"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23394445493",
-      "name": "KIT 50/100/150/200 Formas Assadeira Papel Manteiga Descartável Para Air fryer Sem Sujeira Leo Store BR Leo Store BR",
-      "price": 13.99,
-      "original_price": 33.31,
-      "discount": 58.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfcy0le48qh189",
-      "link": "https://s.shopee.com.br/5VUVHNuW0z",
-      "rating": "4.8",
-      "sales": 1918,
-      "shop": "Win  ",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23394445493,
-        "productName": "KIT 50/100/150/200 Formas Assadeira Papel Manteiga Descartável Para Air fryer Sem Sujeira Leo Store BR Leo Store BR",
-        "price": "13.99",
-        "priceDiscountRate": 58,
-        "commissionRate": "0.03",
-        "sales": 1918,
-        "ratingStar": "4.8",
-        "shopName": "Win  ",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfcy0le48qh189",
-        "productLink": "https://shopee.com.br/product/405617888/23394445493",
-        "offerLink": "https://s.shopee.com.br/5VUVHNuW0z"
       },
       "_last_price": null
     },
