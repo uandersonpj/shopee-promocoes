@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-13T21:55:52.056834+00:00",
-  "total": 1126,
+  "updated_at": "2026-08-13T22:15:06.054919+00:00",
+  "total": 1125,
   "products": [
     {
       "id": "23698808886",
@@ -840,7 +840,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwywmwdl0qvce",
         "productLink": "https://shopee.com.br/product/1298416721/23399029450",
         "offerLink": "https://s.shopee.com.br/2Vqsv8ck2z"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58258026087",
@@ -1359,8 +1360,8 @@
     {
       "id": "22733755777",
       "name": "30Pcs/Pack Forte Descontaminação Pastilhas De Lavanderia/Poderosa Limpeza De Roupa Papel Detergente Para De Folhas",
-      "price": 13.87,
-      "original_price": 63.05,
+      "price": 13.99,
+      "original_price": 63.59,
       "discount": 78.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-23030-uqmdj6cmuqov90",
@@ -1373,7 +1374,7 @@
       "_item": {
         "itemId": 22733755777,
         "productName": "30Pcs/Pack Forte Descontaminação Pastilhas De Lavanderia/Poderosa Limpeza De Roupa Papel Detergente Para De Folhas",
-        "price": "13.87",
+        "price": "13.99",
         "priceDiscountRate": 78,
         "commissionRate": "0.07",
         "sales": 879,
@@ -4275,8 +4276,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ip-mptky1r9yfin49",
         "productLink": "https://shopee.com.br/product/1107644568/22193849980",
         "offerLink": "https://s.shopee.com.br/6fgRsfHWEg"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22099483975",
@@ -6027,7 +6027,7 @@
       "commission": 0.09,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-moj6y9k3bm6l25",
       "link": "https://s.shopee.com.br/qiew2SQvg",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 496,
       "shop": "sougayilanglocal3.br",
       "category": "vara de pesca",
@@ -6039,7 +6039,7 @@
         "priceDiscountRate": 63,
         "commissionRate": "0.09",
         "sales": 496,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "sougayilanglocal3.br",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-moj6y9k3bm6l25",
         "productLink": "https://shopee.com.br/product/1500993597/41809393497",
@@ -29360,35 +29360,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4f-m7pqiw99z9nr22",
         "productLink": "https://shopee.com.br/product/410663728/23898339097",
         "offerLink": "https://s.shopee.com.br/8V8640BLa4"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22498217448",
-      "name": "1 / 2 / 3 ou 5  Luva de Microfibra lavagem automotiva",
-      "price": 9.99,
-      "original_price": 12.97,
-      "discount": 23.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mq6896wieuipd5",
-      "link": "https://s.shopee.com.br/1gHmrVmKBM",
-      "rating": "4.3",
-      "sales": 1281,
-      "shop": "UNIFAST_SP",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22498217448,
-        "productName": "1 / 2 / 3 ou 5  Luva de Microfibra lavagem automotiva",
-        "price": "9.99",
-        "priceDiscountRate": 23,
-        "commissionRate": "0.08",
-        "sales": 1281,
-        "ratingStar": "4.3",
-        "shopName": "UNIFAST_SP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mq6896wieuipd5",
-        "productLink": "https://shopee.com.br/product/388202560/22498217448",
-        "offerLink": "https://s.shopee.com.br/1gHmrVmKBM"
       },
       "_last_price": null
     },
