@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-13T20:38:04.339831+00:00",
-  "total": 1131,
+  "updated_at": "2026-08-13T20:58:10.822114+00:00",
+  "total": 1127,
   "products": [
     {
       "id": "23698808886",
@@ -550,7 +550,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260c-mlw5gdmlji8493",
         "productLink": "https://shopee.com.br/product/1459307687/52905774499",
         "offerLink": "https://s.shopee.com.br/3g2qJDVirE"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "43479061221",
@@ -1066,8 +1067,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
         "productLink": "https://shopee.com.br/product/1266325318/21897981294",
         "offerLink": "https://s.shopee.com.br/3VjQ6qlAmD"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23294866358",
@@ -3234,34 +3234,6 @@
         "offerLink": "https://s.shopee.com.br/1125px07SL"
       },
       "_last_price": null
-    },
-    {
-      "id": "54261362044",
-      "name": "Dissipador SSD M.2 2280 NVMe Delta-CN510 ARGB 5V 3 Pinos Aura Sync",
-      "price": 40.99,
-      "original_price": 132.23,
-      "discount": 69.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mou0986n2qyt11",
-      "link": "https://s.shopee.com.br/3VjQZoCVTY",
-      "rating": "4.9",
-      "sales": 334,
-      "shop": "Belin Life ",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 54261362044,
-        "productName": "Dissipador SSD M.2 2280 NVMe Delta-CN510 ARGB 5V 3 Pinos Aura Sync",
-        "price": "40.99",
-        "priceDiscountRate": 69,
-        "commissionRate": "0.07",
-        "sales": 334,
-        "ratingStar": "4.9",
-        "shopName": "Belin Life ",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mou0986n2qyt11",
-        "productLink": "https://shopee.com.br/product/1232299933/54261362044",
-        "offerLink": "https://s.shopee.com.br/3VjQZoCVTY"
-      }
     },
     {
       "id": "22499056874",
@@ -6540,35 +6512,6 @@
       "_last_price": null
     },
     {
-      "id": "58262984697",
-      "name": "Elástico Extensor Fitness com Pedal Treino em Casa Academia Exercícios Musculação Abdominal",
-      "price": 16.99,
-      "original_price": 44.71,
-      "discount": 62.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mps2mssz2j29f3",
-      "link": "https://s.shopee.com.br/BSy8kjmoW",
-      "rating": "4.7",
-      "sales": 368,
-      "shop": "AURA-MIX",
-      "category": "elastico musculacao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58262984697,
-        "productName": "Elástico Extensor Fitness com Pedal Treino em Casa Academia Exercícios Musculação Abdominal",
-        "price": "16.99",
-        "priceDiscountRate": 62,
-        "commissionRate": "0.03",
-        "sales": 368,
-        "ratingStar": "4.7",
-        "shopName": "AURA-MIX",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mps2mssz2j29f3",
-        "productLink": "https://shopee.com.br/product/1784500999/58262984697",
-        "offerLink": "https://s.shopee.com.br/BSy8kjmoW"
-      },
-      "_last_price": null
-    },
-    {
       "id": "26892990345",
       "name": "moedor multifuncional de café grão sementes e especiarias elétrico inox portátil 110v/220v com 4 lâminas cafeteiras",
       "price": 33.99,
@@ -7969,7 +7912,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mawkl7entdq114",
       "link": "https://s.shopee.com.br/3B6ZiAAOHt",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 3325,
       "shop": "Cherrygo1.br",
       "category": "monitor",
@@ -7981,7 +7924,7 @@
         "priceDiscountRate": 59,
         "commissionRate": "0.03",
         "sales": 3325,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Cherrygo1.br",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mawkl7entdq114",
         "productLink": "https://shopee.com.br/product/1259086167/43754234043",
@@ -12945,35 +12888,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg8mdyb8amf868",
         "productLink": "https://shopee.com.br/product/440843436/20753602955",
         "offerLink": "https://s.shopee.com.br/8fRWjJ5y57"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58262995010",
-      "name": "Suporte para Placa de Vídeo Deadpool Exclusivo – GPU Ajustável Gamer Universal",
-      "price": 14.95,
-      "original_price": 29.9,
-      "discount": 50.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mpschi0yy2o0c3",
-      "link": "https://s.shopee.com.br/904N7v4hPD",
-      "rating": "4.8",
-      "sales": 110,
-      "shop": "Funciona Bem Utilidades",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58262995010,
-        "productName": "Suporte para Placa de Vídeo Deadpool Exclusivo – GPU Ajustável Gamer Universal",
-        "price": "14.95",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.03",
-        "sales": 110,
-        "ratingStar": "4.8",
-        "shopName": "Funciona Bem Utilidades",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mpschi0yy2o0c3",
-        "productLink": "https://shopee.com.br/product/1555847007/58262995010",
-        "offerLink": "https://s.shopee.com.br/904N7v4hPD"
       },
       "_last_price": null
     },
@@ -19737,8 +19651,8 @@
     {
       "id": "22794061718",
       "name": "Dispensers Lavanderia 1,5L e 2,3L - Amaciante, Sabão em Pó, Sabão Líquido, Tira Manchas kit/individ",
-      "price": 48.99,
-      "original_price": 84.47,
+      "price": 47.9,
+      "original_price": 82.59,
       "discount": 42.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mrj5yd09nxtw88",
@@ -19751,7 +19665,7 @@
       "_item": {
         "itemId": 22794061718,
         "productName": "Dispensers Lavanderia 1,5L e 2,3L - Amaciante, Sabão em Pó, Sabão Líquido, Tira Manchas kit/individ",
-        "price": "48.99",
+        "price": "47.9",
         "priceDiscountRate": 42,
         "commissionRate": "0.03",
         "sales": 591,
@@ -21500,35 +21414,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824in-mea3mrj8hpmv40",
         "productLink": "https://shopee.com.br/product/1552226494/22494219157",
         "offerLink": "https://s.shopee.com.br/1LevzpKksT"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "41417041430",
-      "name": "Placa de Vídeo MSI NVIDIA GeForce RTX 5060 SHADOW 2X OC, 8GB, GDDR7, 128 Bits - 912-V537-038",
-      "price": 2799.0,
-      "original_price": 4588.52,
-      "discount": 39.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824h3-me53t34yuepze5",
-      "link": "https://s.shopee.com.br/3qMGVNqFnd",
-      "rating": "5",
-      "sales": 141,
-      "shop": "ITX-GAMER",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41417041430,
-        "productName": "Placa de Vídeo MSI NVIDIA GeForce RTX 5060 SHADOW 2X OC, 8GB, GDDR7, 128 Bits - 912-V537-038",
-        "price": "2799",
-        "priceDiscountRate": 39,
-        "commissionRate": "0.03",
-        "sales": 141,
-        "ratingStar": "5",
-        "shopName": "ITX-GAMER",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h3-me53t34yuepze5",
-        "productLink": "https://shopee.com.br/product/778397589/41417041430",
-        "offerLink": "https://s.shopee.com.br/3qMGVNqFnd"
       },
       "_last_price": null
     },
@@ -25158,6 +25043,35 @@
       "_last_price": null
     },
     {
+      "id": "12237278339",
+      "name": "Liquidificador 3 velocidades 550W Turbo Power - L-99-FB - Mondial",
+      "price": 117.47,
+      "original_price": 175.33,
+      "discount": 33.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825aa-mrtlksahxxc4e3",
+      "link": "https://s.shopee.com.br/1VyMGD5dpS",
+      "rating": "4.9",
+      "sales": 3847,
+      "shop": "Dutra Máquinas",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 12237278339,
+        "productName": "Liquidificador 3 velocidades 550W Turbo Power - L-99-FB - Mondial",
+        "price": "117.47",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.03",
+        "sales": 3847,
+        "ratingStar": "4.9",
+        "shopName": "Dutra Máquinas",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aa-mrtlksahxxc4e3",
+        "productLink": "https://shopee.com.br/product/489001115/12237278339",
+        "offerLink": "https://s.shopee.com.br/1VyMGD5dpS"
+      },
+      "_last_price": null
+    },
+    {
       "id": "54302551381",
       "name": "Liquidificador Oster 127V 3,2 Litros 15 Velocidades + Pulsar - Preto",
       "price": 199.99,
@@ -26053,35 +25967,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b7-mg5iq6d437d8c0",
         "productLink": "https://shopee.com.br/product/1248266601/19698336562",
         "offerLink": "https://s.shopee.com.br/2qTjmhTkQS"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23597334946",
-      "name": "Liquidificador Britânia BLQE01 2 copos 2,6L 900W",
-      "price": 117.9,
-      "original_price": 170.87,
-      "discount": 31.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825ai-mr67pmmk81z6b0",
-      "link": "https://s.shopee.com.br/8KogZJJQj6",
-      "rating": "4.9",
-      "sales": 805,
-      "shop": "Britânia Oficial",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23597334946,
-        "productName": "Liquidificador Britânia BLQE01 2 copos 2,6L 900W",
-        "price": "117.9",
-        "priceDiscountRate": 31,
-        "commissionRate": "0.03",
-        "sales": 805,
-        "ratingStar": "4.9",
-        "shopName": "Britânia Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ai-mr67pmmk81z6b0",
-        "productLink": "https://shopee.com.br/product/811879342/23597334946",
-        "offerLink": "https://s.shopee.com.br/8KogZJJQj6"
       },
       "_last_price": null
     },
