@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-13T16:46:55.014101+00:00",
-  "total": 1128,
+  "updated_at": "2026-08-13T17:06:00.262592+00:00",
+  "total": 1130,
   "products": [
     {
       "id": "23698808886",
@@ -343,7 +343,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mnb6ge4ki9dt70",
         "productLink": "https://shopee.com.br/product/407760070/49603251115",
         "offerLink": "https://s.shopee.com.br/1LevWr2YU3"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23394516221",
@@ -856,8 +857,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
         "productLink": "https://shopee.com.br/product/344381236/57911938287",
         "offerLink": "https://s.shopee.com.br/1qbC7jNrW6"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "42971009476",
@@ -5097,7 +5097,7 @@
       "original_price": 85.69,
       "discount": 65.0,
       "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134211-820lk-mnhohirkcb9eaf",
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mrc27xzb6txjec",
       "link": "https://s.shopee.com.br/8V8642AXVt",
       "rating": "4.8",
       "sales": 3420,
@@ -5113,7 +5113,7 @@
         "sales": 3420,
         "ratingStar": "4.8",
         "shopName": "Lulu Secrets",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-820lk-mnhohirkcb9eaf",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mrc27xzb6txjec",
         "productLink": "https://shopee.com.br/product/1650905473/58210748022",
         "offerLink": "https://s.shopee.com.br/8V8642AXVt"
       },
@@ -8515,8 +8515,8 @@
     {
       "id": "23394445493",
       "name": "KIT 50/100/150/200 Formas Assadeira Papel Manteiga Descartável Para Air fryer Sem Sujeira Leo Store BR Leo Store BR",
-      "price": 13.98,
-      "original_price": 33.29,
+      "price": 13.99,
+      "original_price": 33.31,
       "discount": 58.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfcy0le48qh189",
@@ -8529,7 +8529,7 @@
       "_item": {
         "itemId": 23394445493,
         "productName": "KIT 50/100/150/200 Formas Assadeira Papel Manteiga Descartável Para Air fryer Sem Sujeira Leo Store BR Leo Store BR",
-        "price": "13.98",
+        "price": "13.99",
         "priceDiscountRate": 58,
         "commissionRate": "0.03",
         "sales": 1918,
@@ -14922,6 +14922,35 @@
       "_last_price": null
     },
     {
+      "id": "58213966289",
+      "name": "Canivete Aço Preto Faca de cozinha para frutas Para Cozinha Pesca Camping Sobrevivência",
+      "price": 22.9,
+      "original_price": 44.9,
+      "discount": 49.0,
+      "commission": 0.1,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mqznt7zxsb2cd9",
+      "link": "https://s.shopee.com.br/1VyMQputmZ",
+      "rating": "4.9",
+      "sales": 321,
+      "shop": "Panda Max Brasil",
+      "category": "kit pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58213966289,
+        "productName": "Canivete Aço Preto Faca de cozinha para frutas Para Cozinha Pesca Camping Sobrevivência",
+        "price": "22.9",
+        "priceDiscountRate": 49,
+        "commissionRate": "0.1",
+        "sales": 321,
+        "ratingStar": "4.9",
+        "shopName": "Panda Max Brasil",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mqznt7zxsb2cd9",
+        "productLink": "https://shopee.com.br/product/290908815/58213966289",
+        "offerLink": "https://s.shopee.com.br/1VyMQputmZ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22893843635",
       "name": "Papel Fotográfico Adesivo 130G Glossy 100 Folhas A4 MASTERPRINT (PAPEL ADESIVO)",
       "price": 13.99,
@@ -18866,6 +18895,35 @@
       "_last_price": null
     },
     {
+      "id": "58210507230",
+      "name": "30 CM Faca Esportiva Rambo Com Bússola Tática Com Bainha de Nylon Caça Pesca Camping Churrasco Trilha",
+      "price": 28.9,
+      "original_price": 51.61,
+      "discount": 44.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mo4pepoe3w8y6d",
+      "link": "https://s.shopee.com.br/7fYzzOWAJu",
+      "rating": "4.9",
+      "sales": 413,
+      "shop": "BLINKVERSE",
+      "category": "kit pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58210507230,
+        "productName": "30 CM Faca Esportiva Rambo Com Bússola Tática Com Bainha de Nylon Caça Pesca Camping Churrasco Trilha",
+        "price": "28.9",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.03",
+        "sales": 413,
+        "ratingStar": "4.9",
+        "shopName": "BLINKVERSE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mo4pepoe3w8y6d",
+        "productLink": "https://shopee.com.br/product/1761544515/58210507230",
+        "offerLink": "https://s.shopee.com.br/7fYzzOWAJu"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58254191315",
       "name": "Estojo Organizador De Pesca Dupla Face Maleta Para Iscas E Acessórios 12/14 Divisórias",
       "price": 27.9,
@@ -22491,6 +22549,35 @@
       "_last_price": null
     },
     {
+      "id": "58254131228",
+      "name": "faca automática retrátil com trava  aço inox  camping pesca",
+      "price": 24.9,
+      "original_price": 40.16,
+      "discount": 38.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzkbkxyzt3476",
+      "link": "https://s.shopee.com.br/7VFZn5Wner",
+      "rating": "4.9",
+      "sales": 557,
+      "shop": "B&R COMERCIO LTDA",
+      "category": "kit pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58254131228,
+        "productName": "faca automática retrátil com trava  aço inox  camping pesca",
+        "price": "24.9",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.03",
+        "sales": 557,
+        "ratingStar": "4.9",
+        "shopName": "B&R COMERCIO LTDA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzkbkxyzt3476",
+        "productLink": "https://shopee.com.br/product/1409813841/58254131228",
+        "offerLink": "https://s.shopee.com.br/7VFZn5Wner"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22499515313",
       "name": "Aparelho Medidor De Pressão Arterial Digital De Braço",
       "price": 35.99,
@@ -24260,35 +24347,6 @@
       "_last_price": null
     },
     {
-      "id": "52713250521",
-      "name": "Canivete Aço Preto Faca de cozinha para frutas Para Cozinha Pesca Camping Sobrevivência",
-      "price": 22.98,
-      "original_price": 35.35,
-      "discount": 35.0,
-      "commission": 0.1,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mq6146me2fbj23",
-      "link": "https://s.shopee.com.br/70JIG7nno9",
-      "rating": "4.9",
-      "sales": 546,
-      "shop": "petgo0.br",
-      "category": "kit pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 52713250521,
-        "productName": "Canivete Aço Preto Faca de cozinha para frutas Para Cozinha Pesca Camping Sobrevivência",
-        "price": "22.98",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.1",
-        "sales": 546,
-        "ratingStar": "4.9",
-        "shopName": "petgo0.br",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mq6146me2fbj23",
-        "productLink": "https://shopee.com.br/product/1509457234/52713250521",
-        "offerLink": "https://s.shopee.com.br/70JIG7nno9"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23998205183",
       "name": "Chumbada de Pesca Pacote 1 Kg Oliva/Balão para Praia",
       "price": 33.52,
@@ -24633,35 +24691,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mmhj8xiw7fuo26",
         "productLink": "https://shopee.com.br/product/327707556/58254463290",
         "offerLink": "https://s.shopee.com.br/5fnugrgW1S"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23092864059",
-      "name": "Ração Whiskas 10Kg Ração Gato Castrado Adulto 1+ Sabor Carne Ração para Gatos Castrados 10kg",
-      "price": 141.99,
-      "original_price": 215.14,
-      "discount": 34.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rce1-ltb3ak2s3bptf9",
-      "link": "https://s.shopee.com.br/BSyA48KcX",
-      "rating": "5",
-      "sales": 1157,
-      "shop": "Marcinho PET",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23092864059,
-        "productName": "Ração Whiskas 10Kg Ração Gato Castrado Adulto 1+ Sabor Carne Ração para Gatos Castrados 10kg",
-        "price": "141.99",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.03",
-        "sales": 1157,
-        "ratingStar": "5",
-        "shopName": "Marcinho PET",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rce1-ltb3ak2s3bptf9",
-        "productLink": "https://shopee.com.br/product/1194006916/23092864059",
-        "offerLink": "https://s.shopee.com.br/BSyA48KcX"
       },
       "_last_price": null
     },
@@ -27856,6 +27885,35 @@
       "_last_price": null
     },
     {
+      "id": "23092864059",
+      "name": "Ração Whiskas 10Kg Ração Gato Castrado Adulto 1+ Sabor Carne Ração para Gatos Castrados 10kg",
+      "price": 156.7,
+      "original_price": 214.66,
+      "discount": 27.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rce1-ltb3ak2s3bptf9",
+      "link": "https://s.shopee.com.br/BSyA48KcX",
+      "rating": "5",
+      "sales": 1157,
+      "shop": "Marcinho PET",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23092864059,
+        "productName": "Ração Whiskas 10Kg Ração Gato Castrado Adulto 1+ Sabor Carne Ração para Gatos Castrados 10kg",
+        "price": "156.7",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.03",
+        "sales": 1157,
+        "ratingStar": "5",
+        "shopName": "Marcinho PET",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rce1-ltb3ak2s3bptf9",
+        "productLink": "https://shopee.com.br/product/1194006916/23092864059",
+        "offerLink": "https://s.shopee.com.br/BSyA48KcX"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19597106871",
       "name": "Kit 6 Cesto Em Silicone Antiaderente Air Fryer Reutilizável Protetor Microondas Panela Forno Cesta",
       "price": 14.48,
@@ -30003,7 +30061,7 @@
     },
     {
       "id": "58200997840",
-      "name": "60L Cesto de Roupa Bambu Dobrável – Organizador com Revestimento Interno alta capacidade GRANDE",
+      "name": "Cesto de Roupa suja Bambu 60 LITROS Dobrável Organizador com Revestimento Interno alta capacidade GRANDE",
       "price": 62.8,
       "original_price": 79.49,
       "discount": 21.0,
@@ -30017,7 +30075,7 @@
       "source": "shopee",
       "_item": {
         "itemId": 58200997840,
-        "productName": "60L Cesto de Roupa Bambu Dobrável – Organizador com Revestimento Interno alta capacidade GRANDE",
+        "productName": "Cesto de Roupa suja Bambu 60 LITROS Dobrável Organizador com Revestimento Interno alta capacidade GRANDE",
         "price": "62.8",
         "priceDiscountRate": 21,
         "commissionRate": "0.03",
