@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T08:28:35.088710+00:00",
+  "updated_at": "2026-08-13T08:47:28.231385+00:00",
   "total": 1127,
   "products": [
     {
@@ -4150,35 +4150,6 @@
       "_last_price": null
     },
     {
-      "id": "58210374218",
-      "name": "Sabão em Pó Premium 4Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
-      "price": 9.99,
-      "original_price": 30.27,
-      "discount": 67.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mo076ba5zi80e3",
-      "link": "https://s.shopee.com.br/2gAJ7Ggkyu",
-      "rating": "4.7",
-      "sales": 188,
-      "shop": "AudCare Química",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58210374218,
-        "productName": "Sabão em Pó Premium 4Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
-        "price": "9.99",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.03",
-        "sales": 188,
-        "ratingStar": "4.7",
-        "shopName": "AudCare Química",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mo076ba5zi80e3",
-        "productLink": "https://shopee.com.br/product/1820418238/58210374218",
-        "offerLink": "https://s.shopee.com.br/2gAJ7Ggkyu"
-      },
-      "_last_price": null
-    },
-    {
       "id": "19498730086",
       "name": "Kit 2 Aço inoxidável Suporte Porta Esponja para bucha de pia Prateleira de cozinha",
       "price": 6.0,
@@ -8322,6 +8293,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mrbmz3bfho91f3",
         "productLink": "https://shopee.com.br/product/1447668497/21699672982",
         "offerLink": "https://s.shopee.com.br/4LIX6JfHkc"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58210374218",
+      "name": "Sabão em Pó Premium 4Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
+      "price": 16.99,
+      "original_price": 40.45,
+      "discount": 58.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mo076ba5zi80e3",
+      "link": "https://s.shopee.com.br/2gAJ7Ggkyu",
+      "rating": "4.7",
+      "sales": 188,
+      "shop": "AudCare Química",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58210374218,
+        "productName": "Sabão em Pó Premium 4Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
+        "price": "16.99",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.03",
+        "sales": 188,
+        "ratingStar": "4.7",
+        "shopName": "AudCare Química",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mo076ba5zi80e3",
+        "productLink": "https://shopee.com.br/product/1820418238/58210374218",
+        "offerLink": "https://s.shopee.com.br/2gAJ7Ggkyu"
       },
       "_last_price": null
     },
@@ -18878,7 +18878,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260l-mk0matpd6cxt68",
         "productLink": "https://shopee.com.br/product/1592831479/58254191315",
         "offerLink": "https://s.shopee.com.br/8AVFeIVHk4"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58206416694",
@@ -22218,8 +22219,8 @@
     {
       "id": "29680658002",
       "name": "Óculos De Sol Com Lente Gradiente Uv400 Sem Aro Para Mulheres E Homens",
-      "price": 12.36,
-      "original_price": 19.94,
+      "price": 12.04,
+      "original_price": 19.42,
       "discount": 38.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rd6z-m793jf538svp49",
@@ -22232,7 +22233,7 @@
       "_item": {
         "itemId": 29680658002,
         "productName": "Óculos De Sol Com Lente Gradiente Uv400 Sem Aro Para Mulheres E Homens",
-        "price": "12.36",
+        "price": "12.04",
         "priceDiscountRate": 38,
         "commissionRate": "0.07",
         "sales": 2122,
