@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T12:49:39.878921+00:00",
-  "total": 1137,
+  "updated_at": "2026-08-14T13:08:53.605501+00:00",
+  "total": 1139,
   "products": [
     {
       "id": "23698808886",
@@ -171,37 +171,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82628-mkjt9yqn25mt3b",
         "productLink": "https://shopee.com.br/product/1719334016/22194876933",
         "offerLink": "https://s.shopee.com.br/9ANmq8eTIy"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22194876950",
-      "name": "Luvas Masculinas De Ciclismo Com Dois Dedos Vazamento – Protetor Solar De Secagem Rápida Respirável Para Pesca/Motocicle",
-      "price": 5.99,
-      "original_price": 49.92,
-      "discount": 88.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825zy-mkjta30g8s1vfe",
-      "link": "https://s.shopee.com.br/4fvOCgmA1D",
-      "rating": "4.5",
-      "sales": 28,
-      "shop": "PARIS04",
-      "category": "luva pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22194876950,
-        "productName": "Luvas Masculinas De Ciclismo Com Dois Dedos Vazamento – Protetor Solar De Secagem Rápida Respirável Para Pesca/Motocicle",
-        "price": "5.99",
-        "priceDiscountRate": 88,
-        "commissionRate": "0.03",
-        "sales": 28,
-        "ratingStar": "4.5",
-        "shopName": "PARIS04",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zy-mkjta30g8s1vfe",
-        "productLink": "https://shopee.com.br/product/1719334016/22194876950",
-        "offerLink": "https://s.shopee.com.br/4fvOCgmA1D"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "52255058387",
@@ -1420,6 +1390,35 @@
       "_last_price": null
     },
     {
+      "id": "58261933291",
+      "name": "Móbile Colorido para Carrinho de Bebê Berço e Bebê Conforto com Chocalhos Brinquedo Infantil 42cm",
+      "price": 19.99,
+      "original_price": 90.86,
+      "discount": 78.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mp21h8cy5w5i1c",
+      "link": "https://s.shopee.com.br/7AckiwVsTQ",
+      "rating": "4.9",
+      "sales": 542,
+      "shop": "SoParaBebes",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58261933291,
+        "productName": "Móbile Colorido para Carrinho de Bebê Berço e Bebê Conforto com Chocalhos Brinquedo Infantil 42cm",
+        "price": "19.99",
+        "priceDiscountRate": 78,
+        "commissionRate": "0.03",
+        "sales": 542,
+        "ratingStar": "4.9",
+        "shopName": "SoParaBebes",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mp21h8cy5w5i1c",
+        "productLink": "https://shopee.com.br/product/1567204121/58261933291",
+        "offerLink": "https://s.shopee.com.br/7AckiwVsTQ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21498310169",
       "name": "Liquidificador Mondial Turbo 1200w 3L Inox L-1200 Preto 110V",
       "price": 173.9,
@@ -1489,7 +1488,7 @@
       "rating": "4.8",
       "sales": 307,
       "shop": "VanFishing Isca Pesca.br",
-      "category": "isca artificial",
+      "category": "anzol",
       "source": "shopee",
       "_item": {
         "itemId": 18705418573,
@@ -5334,6 +5333,35 @@
       "_last_price": null
     },
     {
+      "id": "22797770364",
+      "name": "Vara de Pesca Telescópica 1.8-3.6M Super Dura Ultra Leve Longo Alcance Profissional para Molinete Praia Mar Rio Lago",
+      "price": 26.8,
+      "original_price": 76.57,
+      "discount": 65.0,
+      "commission": 0.12,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcdx-ltmivw9kdxo22a",
+      "link": "https://s.shopee.com.br/4VbxHWfaFb",
+      "rating": "4.8",
+      "sales": 72,
+      "shop": "warm11.br",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22797770364,
+        "productName": "Vara de Pesca Telescópica 1.8-3.6M Super Dura Ultra Leve Longo Alcance Profissional para Molinete Praia Mar Rio Lago",
+        "price": "26.8",
+        "priceDiscountRate": 65,
+        "commissionRate": "0.12",
+        "sales": 72,
+        "ratingStar": "4.8",
+        "shopName": "warm11.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdx-ltmivw9kdxo22a",
+        "productLink": "https://shopee.com.br/product/1171921876/22797770364",
+        "offerLink": "https://s.shopee.com.br/4VbxHWfaFb"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22694449078",
       "name": "Carretel Molinete De Pesca Rolamento De Esferas Carretel",
       "price": 41.99,
@@ -5968,35 +5996,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a9-mr8gtwdet05dbe",
         "productLink": "https://shopee.com.br/product/1006215031/49953222946",
         "offerLink": "https://s.shopee.com.br/9ANmrLfFQM"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "41357615567",
-      "name": "Óculos De Sol Fotochromáticos Retro Quadrados Com Proteção Uv E Estrutura Leve, Ideais Para Praia, Ciclismo E viagens",
-      "price": 6.88,
-      "original_price": 18.59,
-      "discount": 63.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134301-7rffe-m9jv6vrrei7d7f",
-      "link": "https://s.shopee.com.br/904Mf2fslL",
-      "rating": "4.8",
-      "sales": 1489,
-      "shop": "Choice Oficial",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41357615567,
-        "productName": "Óculos De Sol Fotochromáticos Retro Quadrados Com Proteção Uv E Estrutura Leve, Ideais Para Praia, Ciclismo E viagens",
-        "price": "6.88",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.07",
-        "sales": 1489,
-        "ratingStar": "4.8",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rffe-m9jv6vrrei7d7f",
-        "productLink": "https://shopee.com.br/product/1006215031/41357615567",
-        "offerLink": "https://s.shopee.com.br/904Mf2fslL"
       },
       "_last_price": null
     },
@@ -7545,7 +7544,7 @@
       "discount": 60.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825ak-mr2mf79003yaa5",
-      "link": "https://s.shopee.com.br/4Az6u6UYhA",
+      "link": "https://s.shopee.com.br/30nBlIuPSU",
       "rating": "4.8",
       "sales": 281,
       "shop": "Uma Nova Vida",
@@ -7562,7 +7561,7 @@
         "shopName": "Uma Nova Vida",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ak-mr2mf79003yaa5",
         "productLink": "https://shopee.com.br/product/1741533420/22799618638",
-        "offerLink": "https://s.shopee.com.br/4Az6u6UYhA"
+        "offerLink": "https://s.shopee.com.br/30nBlIuPSU"
       },
       "_last_price": null
     },
@@ -7574,7 +7573,7 @@
       "discount": 60.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-82597-mqoghws4vbi8de",
-      "link": "https://s.shopee.com.br/2gALC7IcCO",
+      "link": "https://s.shopee.com.br/1LexmF0kqG",
       "rating": "4.8",
       "sales": 73,
       "shop": "Uma Nova Vida",
@@ -7591,7 +7590,7 @@
         "shopName": "Uma Nova Vida",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82597-mqoghws4vbi8de",
         "productLink": "https://shopee.com.br/product/1741533420/58214286460",
-        "offerLink": "https://s.shopee.com.br/2gALC7IcCO"
+        "offerLink": "https://s.shopee.com.br/1LexmF0kqG"
       },
       "_last_price": null
     },
@@ -8288,6 +8287,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mrbmz3bfho91f3",
         "productLink": "https://shopee.com.br/product/1447668497/21699672982",
         "offerLink": "https://s.shopee.com.br/4VbxlfCQ8t"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "47214406847",
+      "name": "Kit 4 Potes Hermético 1,5 L Com Bico Dosador Medidor Porta Sabão em Pó /Sabão Líquido/ Amaciante Lavanderia Organizador",
+      "price": 60.39,
+      "original_price": 143.79,
+      "discount": 58.0,
+      "commission": 0.12,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mqysjc3ln0nb37",
+      "link": "https://s.shopee.com.br/9zww65IJ9M",
+      "rating": "4.8",
+      "sales": 199,
+      "shop": "CampvendasMulticoisas",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 47214406847,
+        "productName": "Kit 4 Potes Hermético 1,5 L Com Bico Dosador Medidor Porta Sabão em Pó /Sabão Líquido/ Amaciante Lavanderia Organizador",
+        "price": "60.39",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.12",
+        "sales": 199,
+        "ratingStar": "4.8",
+        "shopName": "CampvendasMulticoisas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqysjc3ln0nb37",
+        "productLink": "https://shopee.com.br/product/1627792845/47214406847",
+        "offerLink": "https://s.shopee.com.br/9zww65IJ9M"
       },
       "_last_price": null
     },
@@ -9365,35 +9393,6 @@
       "_last_price": null
     },
     {
-      "id": "27405690825",
-      "name": "Ganchos De Pesca De Aço De Alto Carbono-Tamanhos Mistos 2 #-3/0 Minhoca Afiados Para Isca De Manivela/Chumbo",
-      "price": 14.22,
-      "original_price": 33.07,
-      "discount": 57.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/sg-11134301-824g1-mejuzbkvd1j4fa",
-      "link": "https://s.shopee.com.br/2Vqsv83org",
-      "rating": "4.9",
-      "sales": 193,
-      "shop": "Choice Oficial",
-      "category": "anzol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 27405690825,
-        "productName": "Ganchos De Pesca De Aço De Alto Carbono-Tamanhos Mistos 2 #-3/0 Minhoca Afiados Para Isca De Manivela/Chumbo",
-        "price": "14.22",
-        "priceDiscountRate": 57,
-        "commissionRate": "0.11",
-        "sales": 193,
-        "ratingStar": "4.9",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824g1-mejuzbkvd1j4fa",
-        "productLink": "https://shopee.com.br/product/1006215031/27405690825",
-        "offerLink": "https://s.shopee.com.br/2Vqsv83org"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58255737985",
       "name": "Canivete Dobrável de Aço Inoxidável Com Alta Resistencia Pesca Camping Caminhada - BW7275",
       "price": 12.9,
@@ -9767,35 +9766,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259w-mqqmzvap1nuo57",
         "productLink": "https://shopee.com.br/product/260477274/18399505319",
         "offerLink": "https://s.shopee.com.br/3g2qJBWShv"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23499408719",
-      "name": "Brinquedo Interativo Pato Dispensador de Ração | Alimentador Tigela Lenta Divertida Para Cães e Gatos Petiscos e Ração",
-      "price": 31.99,
-      "original_price": 72.7,
-      "discount": 56.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8262h-mm6frq5whbep96",
-      "link": "https://s.shopee.com.br/5VUWZKPDp9",
-      "rating": "4.9",
-      "sales": 729,
-      "shop": "kuboo",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23499408719,
-        "productName": "Brinquedo Interativo Pato Dispensador de Ração | Alimentador Tigela Lenta Divertida Para Cães e Gatos Petiscos e Ração",
-        "price": "31.99",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.03",
-        "sales": 729,
-        "ratingStar": "4.9",
-        "shopName": "kuboo",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262h-mm6frq5whbep96",
-        "productLink": "https://shopee.com.br/product/1157995564/23499408719",
-        "offerLink": "https://s.shopee.com.br/5VUWZKPDp9"
       },
       "_last_price": null
     },
@@ -11539,6 +11509,35 @@
       "_last_price": null
     },
     {
+      "id": "20598270836",
+      "name": "Kit 3un Molho Especial Para Ração Cães Cremoso SALSAPETTI 250g",
+      "price": 18.99,
+      "original_price": 40.4,
+      "discount": 53.0,
+      "commission": 0.1,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcrto5965ulued",
+      "link": "https://s.shopee.com.br/8fRWkjIkVp",
+      "rating": "4.9",
+      "sales": 592,
+      "shop": "Magazine Animal",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20598270836,
+        "productName": "Kit 3un Molho Especial Para Ração Cães Cremoso SALSAPETTI 250g",
+        "price": "18.99",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.1",
+        "sales": 592,
+        "ratingStar": "4.9",
+        "shopName": "Magazine Animal",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcrto5965ulued",
+        "productLink": "https://shopee.com.br/product/847641179/20598270836",
+        "offerLink": "https://s.shopee.com.br/8fRWkjIkVp"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19097661270",
       "name": "Coleira Anti-Pulga Carrapato Ácaro Para Gatos Pet Cachorros",
       "price": 13.99,
@@ -12010,7 +12009,7 @@
       "discount": 52.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-81zw7-mmrhln0n5g5h36",
-      "link": "https://s.shopee.com.br/5Are5wQkfK",
+      "link": "https://s.shopee.com.br/2gALMgvg8O",
       "rating": "4.8",
       "sales": 718,
       "shop": "J & Y Store",
@@ -12027,7 +12026,7 @@
         "shopName": "J & Y Store",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zw7-mmrhln0n5g5h36",
         "productLink": "https://shopee.com.br/product/734783929/22099456041",
-        "offerLink": "https://s.shopee.com.br/5Are5wQkfK"
+        "offerLink": "https://s.shopee.com.br/2gALMgvg8O"
       },
       "_last_price": null
     },
@@ -12039,7 +12038,7 @@
       "discount": 52.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxtrwh5co6gv6b",
-      "link": "https://s.shopee.com.br/5ArgAi967r",
+      "link": "https://s.shopee.com.br/1gHoAqzUAM",
       "rating": "4.6",
       "sales": 233,
       "shop": "Ponto Certo Lingerie",
@@ -12056,7 +12055,7 @@
         "shopName": "Ponto Certo Lingerie",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxtrwh5co6gv6b",
         "productLink": "https://shopee.com.br/product/378555563/18597631235",
-        "offerLink": "https://s.shopee.com.br/5ArgAi967r"
+        "offerLink": "https://s.shopee.com.br/1gHoAqzUAM"
       },
       "_last_price": null
     },
@@ -12301,7 +12300,7 @@
       "commission": 0.13,
       "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md4hll4oyux787",
       "link": "https://s.shopee.com.br/7fYz3LTWos",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 292,
       "shop": "YJ Fishing Tackle Shop",
       "category": "vara telescopica",
@@ -12313,7 +12312,7 @@
         "priceDiscountRate": 52,
         "commissionRate": "0.13",
         "sales": 292,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "YJ Fishing Tackle Shop",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md4hll4oyux787",
         "productLink": "https://shopee.com.br/product/1550289846/41661864285",
@@ -13627,6 +13626,35 @@
       "_last_price": null
     },
     {
+      "id": "58210915793",
+      "name": "Elástico Extensor Treino Fitness em 8 EVA Academia Casa Musculação",
+      "price": 4.9,
+      "original_price": 9.8,
+      "discount": 50.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lq-moec3ep4b1fq2e",
+      "link": "https://s.shopee.com.br/4qEpwfnQjl",
+      "rating": "4.9",
+      "sales": 847,
+      "shop": "ATM_Comércios",
+      "category": "elastico musculacao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58210915793,
+        "productName": "Elástico Extensor Treino Fitness em 8 EVA Academia Casa Musculação",
+        "price": "4.9",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 847,
+        "ratingStar": "4.9",
+        "shopName": "ATM_Comércios",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-moec3ep4b1fq2e",
+        "productLink": "https://shopee.com.br/product/1551711304/58210915793",
+        "offerLink": "https://s.shopee.com.br/4qEpwfnQjl"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23592875532",
       "name": "1/2/3 Formas de Silicone Quadrada 16x16cm Assadeira Air Fryer e Forno Forma para Fritadeira Elétrica com Alça",
       "price": 10.0,
@@ -14352,6 +14380,35 @@
       "_last_price": null
     },
     {
+      "id": "44857845287",
+      "name": "Maleta mais Estojo completo com acessorios para pesca esportiva Lazer",
+      "price": 49.9,
+      "original_price": 99.8,
+      "discount": 50.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mmc1719mj3t359",
+      "link": "https://s.shopee.com.br/gPGzA8Jpc",
+      "rating": "4.6",
+      "sales": 56,
+      "shop": "Loja Sao Miguel Multicoisas",
+      "category": "estojo pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 44857845287,
+        "productName": "Maleta mais Estojo completo com acessorios para pesca esportiva Lazer",
+        "price": "49.9",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.07",
+        "sales": 56,
+        "ratingStar": "4.6",
+        "shopName": "Loja Sao Miguel Multicoisas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mmc1719mj3t359",
+        "productLink": "https://shopee.com.br/product/375688601/44857845287",
+        "offerLink": "https://s.shopee.com.br/gPGzA8Jpc"
+      },
+      "_last_price": null
+    },
+    {
       "id": "24453469246",
       "name": "Novas Luvas de Pesca Luminosa com Lanterna led Luvas de Pesca Noturna de Reparo de Emergência Luvas de Iluminação de Pesca Noturna Luvas à prova",
       "price": 11.9,
@@ -14522,35 +14579,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823ql-mp4n9e861de548",
         "productLink": "https://shopee.com.br/product/1006215031/27436941034",
         "offerLink": "https://s.shopee.com.br/7AciTaFcDl"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22397611141",
-      "name": "Velocipide Kendy Motoca Infantil C/ Empurrador Proteção Bebe e Criança Carrinho de Passeio Kemotoca Triciclo",
-      "price": 94.9,
-      "original_price": 186.08,
-      "discount": 49.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwyhw95lcpsiee",
-      "link": "https://s.shopee.com.br/9V0dFsxb6a",
-      "rating": "4.8",
-      "sales": 891,
-      "shop": "Big_ecommerce",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22397611141,
-        "productName": "Velocipide Kendy Motoca Infantil C/ Empurrador Proteção Bebe e Criança Carrinho de Passeio Kemotoca Triciclo",
-        "price": "94.9",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.13",
-        "sales": 891,
-        "ratingStar": "4.8",
-        "shopName": "Big_ecommerce",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwyhw95lcpsiee",
-        "productLink": "https://shopee.com.br/product/659727139/22397611141",
-        "offerLink": "https://s.shopee.com.br/9V0dFsxb6a"
       },
       "_last_price": null
     },
@@ -14811,6 +14839,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98p-ll9k0xrw95jfef",
         "productLink": "https://shopee.com.br/product/324642050/20597347457",
         "offerLink": "https://s.shopee.com.br/11258KsfZp"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "27736492717",
+      "name": "Óculos De Sol Masculinos Retrô Quadrados De Meia Armação – Templos Leves De Grãos De Madeira Com Proteção UV Para Ativid",
+      "price": 10.86,
+      "original_price": 21.29,
+      "discount": 49.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvm-mcao0jdc5j89bc",
+      "link": "https://s.shopee.com.br/3qMIktTLcs",
+      "rating": "4.8",
+      "sales": 1485,
+      "shop": "Choice Oficial",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 27736492717,
+        "productName": "Óculos De Sol Masculinos Retrô Quadrados De Meia Armação – Templos Leves De Grãos De Madeira Com Proteção UV Para Ativid",
+        "price": "10.86",
+        "priceDiscountRate": 49,
+        "commissionRate": "0.07",
+        "sales": 1485,
+        "ratingStar": "4.8",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvm-mcao0jdc5j89bc",
+        "productLink": "https://shopee.com.br/product/1006215031/27736492717",
+        "offerLink": "https://s.shopee.com.br/3qMIktTLcs"
       },
       "_last_price": null
     },
@@ -16004,6 +16061,35 @@
       "_last_price": null
     },
     {
+      "id": "58257109953",
+      "name": "Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência  Alta Fixação Projeção Duradoura",
+      "price": 31.9,
+      "original_price": 60.19,
+      "discount": 47.0,
+      "commission": 0.14,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mly50552czcw50",
+      "link": "https://s.shopee.com.br/6L3bU3aO22",
+      "rating": "4",
+      "sales": 3003,
+      "shop": "PH imports ",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58257109953,
+        "productName": "Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência  Alta Fixação Projeção Duradoura",
+        "price": "31.9",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.14",
+        "sales": 3003,
+        "ratingStar": "4",
+        "shopName": "PH imports ",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mly50552czcw50",
+        "productLink": "https://shopee.com.br/product/1190360737/58257109953",
+        "offerLink": "https://s.shopee.com.br/6L3bU3aO22"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18097691606",
       "name": "Toalha de Banho Fralda Soft com Capuz para Bebê  OU  Kit com 2, 3 ou 4 Toalhas",
       "price": 31.99,
@@ -17055,7 +17141,7 @@
       "discount": 46.0,
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5wdujp1f0s2e8",
-      "link": "https://s.shopee.com.br/4fvNV1SegD",
+      "link": "https://s.shopee.com.br/50YG8ymnOo",
       "rating": "4.8",
       "sales": 812,
       "shop": "Novelty Department Store",
@@ -17072,7 +17158,7 @@
         "shopName": "Novelty Department Store",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5wdujp1f0s2e8",
         "productLink": "https://shopee.com.br/product/1087983137/21299595089",
-        "offerLink": "https://s.shopee.com.br/4fvNV1SegD"
+        "offerLink": "https://s.shopee.com.br/50YG8ymnOo"
       },
       "_last_price": null
     },
@@ -17084,7 +17170,7 @@
       "discount": 46.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6a0k5fpr80g5a",
-      "link": "https://s.shopee.com.br/qievyhFSa",
+      "link": "https://s.shopee.com.br/3g2sYWrs6g",
       "rating": "4.8",
       "sales": 513,
       "shop": "jvch21my_o",
@@ -17101,7 +17187,7 @@
         "shopName": "jvch21my_o",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6a0k5fpr80g5a",
         "productLink": "https://shopee.com.br/product/1097148583/22998207816",
-        "offerLink": "https://s.shopee.com.br/qievyhFSa"
+        "offerLink": "https://s.shopee.com.br/3g2sYWrs6g"
       },
       "_last_price": null
     },
@@ -17113,7 +17199,7 @@
       "discount": 46.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsl7js3appnoae",
-      "link": "https://s.shopee.com.br/1BLVKafymg",
+      "link": "https://s.shopee.com.br/3qMIkprElj",
       "rating": "4.6",
       "sales": 303,
       "shop": "Lais Lingerie NF",
@@ -17130,7 +17216,7 @@
         "shopName": "Lais Lingerie NF",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsl7js3appnoae",
         "productLink": "https://shopee.com.br/product/895667372/23697370365",
-        "offerLink": "https://s.shopee.com.br/1BLVKafymg"
+        "offerLink": "https://s.shopee.com.br/3qMIkprElj"
       },
       "_last_price": null
     },
@@ -19084,7 +19170,7 @@
       "discount": 43.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820la-ml6kasbn8s9026",
-      "link": "https://s.shopee.com.br/4qEopHZzGS",
+      "link": "https://s.shopee.com.br/70JKWdWVoP",
       "rating": "4.9",
       "sales": 646,
       "shop": "Casa SoL.",
@@ -19101,7 +19187,7 @@
         "shopName": "Casa SoL.",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-ml6kasbn8s9026",
         "productLink": "https://shopee.com.br/product/659215083/20561325544",
-        "offerLink": "https://s.shopee.com.br/4qEopHZzGS"
+        "offerLink": "https://s.shopee.com.br/70JKWdWVoP"
       },
       "_last_price": null
     },
@@ -19744,35 +19830,6 @@
       "_last_price": null
     },
     {
-      "id": "23597371285",
-      "name": "Shampoo Antiparasitário World Veterinária Dug's para Cães - 500ml",
-      "price": 10.65,
-      "original_price": 18.36,
-      "discount": 42.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mqddeln57gg1a1",
-      "link": "https://s.shopee.com.br/3B6bmzUuru",
-      "rating": "4.9",
-      "sales": 3314,
-      "shop": "mypetone",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23597371285,
-        "productName": "Shampoo Antiparasitário World Veterinária Dug's para Cães - 500ml",
-        "price": "10.65",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.11",
-        "sales": 3314,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mqddeln57gg1a1",
-        "productLink": "https://shopee.com.br/product/290073877/23597371285",
-        "offerLink": "https://s.shopee.com.br/3B6bmzUuru"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58211387990",
       "name": "Perfume Árabe Masculino Asad Bourbon Eau De Parfum 100ML",
       "price": 115.98,
@@ -19976,35 +20033,6 @@
       "_last_price": null
     },
     {
-      "id": "23992747038",
-      "name": "36 Etiquetas para Potes de Condimentos Temperos Mantimentos 3,8x3,8cm",
-      "price": 11.5,
-      "original_price": 19.49,
-      "discount": 41.0,
-      "commission": 0.14,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7cz6del7s8i9c",
-      "link": "https://s.shopee.com.br/3VjQ6lIOT9",
-      "rating": "4.7",
-      "sales": 3524,
-      "shop": "Casa do Condi",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23992747038,
-        "productName": "36 Etiquetas para Potes de Condimentos Temperos Mantimentos 3,8x3,8cm",
-        "price": "11.5",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.14",
-        "sales": 3524,
-        "ratingStar": "4.7",
-        "shopName": "Casa do Condi",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7cz6del7s8i9c",
-        "productLink": "https://shopee.com.br/product/1082769865/23992747038",
-        "offerLink": "https://s.shopee.com.br/3VjQ6lIOT9"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58204437244",
       "name": "Etiquetas Adesivas 3x3, 4x4 ou 5x5cm Personalizados Com Recorte",
       "price": 12.59,
@@ -20030,6 +20058,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mlzbvg8xfzt360",
         "productLink": "https://shopee.com.br/product/239610877/58204437244",
         "offerLink": "https://s.shopee.com.br/1gHlvOPNBo"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23992747038",
+      "name": "36 Etiquetas para Potes de Condimentos Temperos Mantimentos 3,8x3,8cm",
+      "price": 11.5,
+      "original_price": 19.49,
+      "discount": 41.0,
+      "commission": 0.14,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7cz6del7s8i9c",
+      "link": "https://s.shopee.com.br/3VjQ6lIOT9",
+      "rating": "4.7",
+      "sales": 3524,
+      "shop": "Casa do Condi",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23992747038,
+        "productName": "36 Etiquetas para Potes de Condimentos Temperos Mantimentos 3,8x3,8cm",
+        "price": "11.5",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.14",
+        "sales": 3524,
+        "ratingStar": "4.7",
+        "shopName": "Casa do Condi",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7cz6del7s8i9c",
+        "productLink": "https://shopee.com.br/product/1082769865/23992747038",
+        "offerLink": "https://s.shopee.com.br/3VjQ6lIOT9"
       },
       "_last_price": null
     },
@@ -20556,35 +20613,6 @@
       "_last_price": null
     },
     {
-      "id": "58250766884",
-      "name": "Rig Frame Suporte Placa Mãe CPU GPU e Fonte ATX Open Frame Bancada de Testes para PC Gamer Original",
-      "price": 39.9,
-      "original_price": 66.5,
-      "discount": 40.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mr60fkkbtwcl28",
-      "link": "https://s.shopee.com.br/8pkyXLSYjc",
-      "rating": "4.6",
-      "sales": 25,
-      "shop": "FORNECEDOR TECH 3D",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58250766884,
-        "productName": "Rig Frame Suporte Placa Mãe CPU GPU e Fonte ATX Open Frame Bancada de Testes para PC Gamer Original",
-        "price": "39.9",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.13",
-        "sales": 25,
-        "ratingStar": "4.6",
-        "shopName": "FORNECEDOR TECH 3D",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mr60fkkbtwcl28",
-        "productLink": "https://shopee.com.br/product/1561460961/58250766884",
-        "offerLink": "https://s.shopee.com.br/8pkyXLSYjc"
-      },
-      "_last_price": null
-    },
-    {
       "id": "57310981122",
       "name": "Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Arroz Feijão Sabão Em Pó Amaciante Produtos Limpeza",
       "price": 59.61,
@@ -20592,7 +20620,7 @@
       "discount": 40.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mpol3c90f3lu86",
-      "link": "https://s.shopee.com.br/3g2r0ce1WI",
+      "link": "https://s.shopee.com.br/AAGMIOHfoP",
       "rating": "4.9",
       "sales": 219,
       "shop": "shopmultiprime",
@@ -20609,7 +20637,7 @@
         "shopName": "shopmultiprime",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mpol3c90f3lu86",
         "productLink": "https://shopee.com.br/product/1327572074/57310981122",
-        "offerLink": "https://s.shopee.com.br/3g2r0ce1WI"
+        "offerLink": "https://s.shopee.com.br/AAGMIOHfoP"
       },
       "_last_price": null
     },
@@ -21579,7 +21607,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-82622-mlqhnya4zehb31",
       "link": "https://s.shopee.com.br/9fK3S9OZaI",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 3768,
       "shop": "LUCKY BAZAR",
       "category": "esponja",
@@ -21591,7 +21619,7 @@
         "priceDiscountRate": 39,
         "commissionRate": "0.03",
         "sales": 3768,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "LUCKY BAZAR",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82622-mlqhnya4zehb31",
         "productLink": "https://shopee.com.br/product/375201738/22299409946",
@@ -22071,7 +22099,7 @@
       "discount": 38.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/br-11134207-820le-mpb361rjh5a8c1",
-      "link": "https://s.shopee.com.br/2qTlOQHyrR",
+      "link": "https://s.shopee.com.br/20ueZSyDUS",
       "rating": "4.9",
       "sales": 396,
       "shop": "PVB STORE",
@@ -22088,7 +22116,7 @@
         "shopName": "PVB STORE",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mpb361rjh5a8c1",
         "productLink": "https://shopee.com.br/product/1627886455/58252717058",
-        "offerLink": "https://s.shopee.com.br/2qTlOQHyrR"
+        "offerLink": "https://s.shopee.com.br/20ueZSyDUS"
       },
       "_last_price": null
     },
@@ -22100,7 +22128,7 @@
       "discount": 38.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7qvey-liuwv3fapitr32",
-      "link": "https://s.shopee.com.br/7AckYO1U4Q",
+      "link": "https://s.shopee.com.br/gPGz13ICK",
       "rating": "4.7",
       "sales": 134,
       "shop": "VFAUOSIT",
@@ -22117,7 +22145,7 @@
         "shopName": "VFAUOSIT",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvey-liuwv3fapitr32",
         "productLink": "https://shopee.com.br/product/1028625564/23996193892",
-        "offerLink": "https://s.shopee.com.br/7AckYO1U4Q"
+        "offerLink": "https://s.shopee.com.br/gPGz13ICK"
       },
       "_last_price": null
     },
@@ -23195,6 +23223,35 @@
       "_last_price": null
     },
     {
+      "id": "21897728259",
+      "name": "Shampoo com Cera de carnaúba pH Neutro para Lavagem de Carro e Moto Xampu Automotivo",
+      "price": 19.99,
+      "original_price": 31.23,
+      "discount": 36.0,
+      "commission": 0.06,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mqnhnkgkscua7d",
+      "link": "https://s.shopee.com.br/50YDtaX8RF",
+      "rating": "4.8",
+      "sales": 2484,
+      "shop": "BUENO ESTETICA AUTO",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21897728259,
+        "productName": "Shampoo com Cera de carnaúba pH Neutro para Lavagem de Carro e Moto Xampu Automotivo",
+        "price": "19.99",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.06",
+        "sales": 2484,
+        "ratingStar": "4.8",
+        "shopName": "BUENO ESTETICA AUTO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mqnhnkgkscua7d",
+        "productLink": "https://shopee.com.br/product/1091428082/21897728259",
+        "offerLink": "https://s.shopee.com.br/50YDtaX8RF"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23498778973",
       "name": "Protetor Solar Facial Hidrabene Clareador FPS 70 Antissinais Clareia a pele Toque Seco 50g Unidade ou Kit",
       "price": 38.95,
@@ -23347,7 +23404,7 @@
       "discount": 36.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8261o-mlw3fa8lips3f5",
-      "link": "https://s.shopee.com.br/3g2sNxEoAg",
+      "link": "https://s.shopee.com.br/W5qmi3vXH",
       "rating": "4.8",
       "sales": 238,
       "shop": "FUTURO LEGAL",
@@ -23364,7 +23421,7 @@
         "shopName": "FUTURO LEGAL",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261o-mlw3fa8lips3f5",
         "productLink": "https://shopee.com.br/product/1553020055/58206997101",
-        "offerLink": "https://s.shopee.com.br/3g2sNxEoAg"
+        "offerLink": "https://s.shopee.com.br/W5qmi3vXH"
       },
       "_last_price": null
     },
@@ -23862,6 +23919,35 @@
       "_last_price": null
     },
     {
+      "id": "22599569280",
+      "name": "Desinfetante Mega Bak 500ml Uso Geral",
+      "price": 1.95,
+      "original_price": 3.0,
+      "discount": 35.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mqmbfuizf8jl57",
+      "link": "https://s.shopee.com.br/2VqvAJgKXK",
+      "rating": "5",
+      "sales": 0,
+      "shop": "New Harmony Outlet",
+      "category": "desinfetante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22599569280,
+        "productName": "Desinfetante Mega Bak 500ml Uso Geral",
+        "price": "1.95",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.11",
+        "sales": 0,
+        "ratingStar": "5",
+        "shopName": "New Harmony Outlet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqmbfuizf8jl57",
+        "productLink": "https://shopee.com.br/product/1699982631/22599569280",
+        "offerLink": "https://s.shopee.com.br/2VqvAJgKXK"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58261879854",
       "name": "Rolo Pano De Microfibra 20 Peças Destacável Toalha Limpeza Reutilizável Lavar Louça Multiuso Utensílios Cozinha",
       "price": 19.49,
@@ -24322,6 +24408,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/f496dad7998fbb3bcb30654fb01306c3",
         "productLink": "https://shopee.com.br/product/462858978/10119932334",
         "offerLink": "https://s.shopee.com.br/3g2qI0doYR"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "25905382336",
+      "name": "Shimano Luvas De Pesca De Ciclismo Ao Ar Livre Para Homens Anti-Derrapante De Meio Dedo Resistentes Desgaste Choque Fino",
+      "price": 34.45,
+      "original_price": 53.0,
+      "discount": 35.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbk5-lmycy0atupjkfb",
+      "link": "https://s.shopee.com.br/70JKU9orMS",
+      "rating": "4.5",
+      "sales": 29,
+      "shop": "DAIWAsports.br",
+      "category": "luva pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 25905382336,
+        "productName": "Shimano Luvas De Pesca De Ciclismo Ao Ar Livre Para Homens Anti-Derrapante De Meio Dedo Resistentes Desgaste Choque Fino",
+        "price": "34.45",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.03",
+        "sales": 29,
+        "ratingStar": "4.5",
+        "shopName": "DAIWAsports.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbk5-lmycy0atupjkfb",
+        "productLink": "https://shopee.com.br/product/1092940378/25905382336",
+        "offerLink": "https://s.shopee.com.br/70JKU9orMS"
       },
       "_last_price": null
     },
@@ -25196,6 +25311,35 @@
       "_last_price": null
     },
     {
+      "id": "20997919456",
+      "name": "Jogo de Panelas Teflon Munique 11 Pçs com Panela de Pressão fechamento externo de 2.5L",
+      "price": 269.9,
+      "original_price": 402.84,
+      "discount": 33.0,
+      "commission": 0.09,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdx9-m0uhupvpbqlh8d",
+      "link": "https://s.shopee.com.br/7fYz4ZcQOC",
+      "rating": "4.7",
+      "sales": 2766,
+      "shop": "Global Alumínios",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20997919456,
+        "productName": "Jogo de Panelas Teflon Munique 11 Pçs com Panela de Pressão fechamento externo de 2.5L",
+        "price": "269.9",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.09",
+        "sales": 2766,
+        "ratingStar": "4.7",
+        "shopName": "Global Alumínios",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx9-m0uhupvpbqlh8d",
+        "productLink": "https://shopee.com.br/product/583326427/20997919456",
+        "offerLink": "https://s.shopee.com.br/7fYz4ZcQOC"
+      },
+      "_last_price": null
+    },
+    {
       "id": "43050553955",
       "name": "Relógio De Quartzo De Luxo Para Homens Luminoso À Prova D'água Pulseira De Aço Inoxidável Presente De Aniversário",
       "price": 33.62,
@@ -25511,35 +25655,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9z9h64d4hy88",
         "productLink": "https://shopee.com.br/product/1587862023/22394797894",
         "offerLink": "https://s.shopee.com.br/7psPzeTQRa"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "45104154361",
-      "name": "* 4 Unidades Haltere Antiderrapante Porca Hexagonal Coleiras Spinlock Haste",
-      "price": 18.13,
-      "original_price": 26.66,
-      "discount": 32.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4e-m6nn8a9m83zd6c",
-      "link": "https://s.shopee.com.br/9V0dFtsj0C",
-      "rating": "5",
-      "sales": 10,
-      "shop": "siamstyle.br",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45104154361,
-        "productName": "* 4 Unidades Haltere Antiderrapante Porca Hexagonal Coleiras Spinlock Haste",
-        "price": "18.13",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.11",
-        "sales": 10,
-        "ratingStar": "5",
-        "shopName": "siamstyle.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4e-m6nn8a9m83zd6c",
-        "productLink": "https://shopee.com.br/product/1502312481/45104154361",
-        "offerLink": "https://s.shopee.com.br/9V0dFtsj0C"
       },
       "_last_price": null
     },
@@ -25899,7 +26014,7 @@
       "discount": 31.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrgaaq700kkkd2",
-      "link": "https://s.shopee.com.br/3LQ1zLG4qa",
+      "link": "https://s.shopee.com.br/2VqvANwJTb",
       "rating": "4.7",
       "sales": 112,
       "shop": "lcetech491",
@@ -25916,7 +26031,7 @@
         "shopName": "lcetech491",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrgaaq700kkkd2",
         "productLink": "https://shopee.com.br/product/1068081167/22497339634",
-        "offerLink": "https://s.shopee.com.br/3LQ1zLG4qa"
+        "offerLink": "https://s.shopee.com.br/2VqvANwJTb"
       },
       "_last_price": null
     },
@@ -25928,7 +26043,7 @@
       "discount": 31.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-820oj-mo08chl2zfnmc5",
-      "link": "https://s.shopee.com.br/6pzu9m2kkK",
+      "link": "https://s.shopee.com.br/BT0O65CDB",
       "rating": "4.9",
       "sales": 91,
       "shop": "GRACA E ESTILO",
@@ -25945,7 +26060,7 @@
         "shopName": "GRACA E ESTILO",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820oj-mo08chl2zfnmc5",
         "productLink": "https://shopee.com.br/product/1587872888/58260375316",
-        "offerLink": "https://s.shopee.com.br/6pzu9m2kkK"
+        "offerLink": "https://s.shopee.com.br/BT0O65CDB"
       },
       "_last_price": null
     },
@@ -26033,35 +26148,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ai-mr67pmmk81z6b0",
         "productLink": "https://shopee.com.br/product/811879342/23597334946",
         "offerLink": "https://s.shopee.com.br/8KogZJJQj6"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20997919456",
-      "name": "Jogo de Panelas Teflon Munique 11 Pçs com Panela de Pressão fechamento externo de 2.5L",
-      "price": 274.01,
-      "original_price": 397.12,
-      "discount": 31.0,
-      "commission": 0.09,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdx9-m0uhupvpbqlh8d",
-      "link": "https://s.shopee.com.br/7fYz4ZcQOC",
-      "rating": "4.7",
-      "sales": 2766,
-      "shop": "Global Alumínios",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20997919456,
-        "productName": "Jogo de Panelas Teflon Munique 11 Pçs com Panela de Pressão fechamento externo de 2.5L",
-        "price": "274.01",
-        "priceDiscountRate": 31,
-        "commissionRate": "0.09",
-        "sales": 2766,
-        "ratingStar": "4.7",
-        "shopName": "Global Alumínios",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx9-m0uhupvpbqlh8d",
-        "productLink": "https://shopee.com.br/product/583326427/20997919456",
-        "offerLink": "https://s.shopee.com.br/7fYz4ZcQOC"
       },
       "_last_price": null
     },
@@ -27400,6 +27486,35 @@
       "_last_price": null
     },
     {
+      "id": "22299071731",
+      "name": "Ração Úmida para Gatos Adultos Sabor Atum Gourmet 70G Golden",
+      "price": 2.89,
+      "original_price": 4.01,
+      "discount": 28.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825b9-mg5kdxhwvw2605",
+      "link": "https://s.shopee.com.br/3VjQZvRD4e",
+      "rating": "5",
+      "sales": 1477,
+      "shop": "Chegô",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22299071731,
+        "productName": "Ração Úmida para Gatos Adultos Sabor Atum Gourmet 70G Golden",
+        "price": "2.89",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.03",
+        "sales": 1477,
+        "ratingStar": "5",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b9-mg5kdxhwvw2605",
+        "productLink": "https://shopee.com.br/product/1248266601/22299071731",
+        "offerLink": "https://s.shopee.com.br/3VjQZvRD4e"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58212410802",
       "name": "Submarino Amarelo Decoração, Casinha Flutuante Para Peixes Aquário Refúgio",
       "price": 14.3,
@@ -27719,35 +27834,6 @@
       "_last_price": null
     },
     {
-      "id": "22394358184",
-      "name": "Perfume Colônia Cebolinha Deo Jequiti Turma Da Mônica 25ml",
-      "price": 23.9,
-      "original_price": 32.74,
-      "discount": 27.0,
-      "commission": 0.06,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdxibc71og01ff",
-      "link": "https://s.shopee.com.br/7VFYsCVwf7",
-      "rating": "4.9",
-      "sales": 3504,
-      "shop": "JR Magazines",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22394358184,
-        "productName": "Perfume Colônia Cebolinha Deo Jequiti Turma Da Mônica 25ml",
-        "price": "23.9",
-        "priceDiscountRate": 27,
-        "commissionRate": "0.06",
-        "sales": 3504,
-        "ratingStar": "4.9",
-        "shopName": "JR Magazines",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdxibc71og01ff",
-        "productLink": "https://shopee.com.br/product/1360835786/22394358184",
-        "offerLink": "https://s.shopee.com.br/7VFYsCVwf7"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22494696420",
       "name": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
       "price": 31.49,
@@ -27918,64 +28004,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820mb-mqy3crbeg4cm59",
         "productLink": "https://shopee.com.br/product/1036192295/23199462739",
         "offerLink": "https://s.shopee.com.br/5AreYt9smx"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58252905782",
-      "name": "OMO Sabão em Pó Lava Roupas Tamanho Família 2,4 Kg",
-      "price": 40.9,
-      "original_price": 55.27,
-      "discount": 26.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8261c-mjrdubk6ikub91",
-      "link": "https://s.shopee.com.br/gPEjaoN2q",
-      "rating": "4.9",
-      "sales": 334,
-      "shop": "Lass Varejista",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58252905782,
-        "productName": "OMO Sabão em Pó Lava Roupas Tamanho Família 2,4 Kg",
-        "price": "40.9",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.03",
-        "sales": 334,
-        "ratingStar": "4.9",
-        "shopName": "Lass Varejista",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261c-mjrdubk6ikub91",
-        "productLink": "https://shopee.com.br/product/1081995300/58252905782",
-        "offerLink": "https://s.shopee.com.br/gPEjaoN2q"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22798349444",
-      "name": "Detergente Enzimático 1L + 100 Envelope Para Esterilização 9x23cm Kit manicure",
-      "price": 58.3,
-      "original_price": 78.78,
-      "discount": 26.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd64-m7pqk73ffr5pcb",
-      "link": "https://s.shopee.com.br/9ANmrE8oEG",
-      "rating": "5",
-      "sales": 424,
-      "shop": "ML Seller Express",
-      "category": "desinfetante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22798349444,
-        "productName": "Detergente Enzimático 1L + 100 Envelope Para Esterilização 9x23cm Kit manicure",
-        "price": "58.3",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.03",
-        "sales": 424,
-        "ratingStar": "5",
-        "shopName": "ML Seller Express",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd64-m7pqk73ffr5pcb",
-        "productLink": "https://shopee.com.br/product/410663728/22798349444",
-        "offerLink": "https://s.shopee.com.br/9ANmrE8oEG"
       },
       "_last_price": null
     },
@@ -28567,7 +28595,7 @@
       "discount": 25.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxw-md3c5jpfxvw701",
-      "link": "https://s.shopee.com.br/50YFyP9jSo",
+      "link": "https://s.shopee.com.br/1qbEN9yqpP",
       "rating": "4.8",
       "sales": 551,
       "shop": "MundoClickWk",
@@ -28584,7 +28612,7 @@
         "shopName": "MundoClickWk",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxw-md3c5jpfxvw701",
         "productLink": "https://shopee.com.br/product/1588488173/23594290351",
-        "offerLink": "https://s.shopee.com.br/50YFyP9jSo"
+        "offerLink": "https://s.shopee.com.br/1qbEN9yqpP"
       },
       "_last_price": null
     },
@@ -29060,7 +29088,7 @@
       "discount": 24.0,
       "commission": 0.17,
       "image": "https://cf.shopee.com.br/file/sg-11134201-822ws-moemnbyetgr17b",
-      "link": "https://s.shopee.com.br/40fghnVC29",
+      "link": "https://s.shopee.com.br/3B6bxbtm7X",
       "rating": "4.8",
       "sales": 516,
       "shop": "THE POINTT",
@@ -29077,7 +29105,7 @@
         "shopName": "THE POINTT",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822ws-moemnbyetgr17b",
         "productLink": "https://shopee.com.br/product/375329375/58210926152",
-        "offerLink": "https://s.shopee.com.br/40fghnVC29"
+        "offerLink": "https://s.shopee.com.br/3B6bxbtm7X"
       },
       "_last_price": null
     },
@@ -30184,6 +30212,35 @@
       "_last_price": null
     },
     {
+      "id": "23892742244",
+      "name": "Fritadeira Elétrica Sem Óleo Air Fryer 5.5L Gaabor Jumbo Family 1400w 127V ou 220V Vintage",
+      "price": 259.0,
+      "original_price": 327.85,
+      "discount": 21.0,
+      "commission": 0.06,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mm0ux58zbojq7e",
+      "link": "https://s.shopee.com.br/4Az7eHvRbx",
+      "rating": "4.9",
+      "sales": 1877,
+      "shop": "Gaabor oficial",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23892742244,
+        "productName": "Fritadeira Elétrica Sem Óleo Air Fryer 5.5L Gaabor Jumbo Family 1400w 127V ou 220V Vintage",
+        "price": "259",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.06",
+        "sales": 1877,
+        "ratingStar": "4.9",
+        "shopName": "Gaabor oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mm0ux58zbojq7e",
+        "productLink": "https://shopee.com.br/product/968827688/23892742244",
+        "offerLink": "https://s.shopee.com.br/4Az7eHvRbx"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58253906134",
       "name": "Panela de Pressão Elétrica PPE-102 – 6L Kian Timer Ajustável Controle de Temperatura Cuba Antiaderente Preto",
       "price": 301.99,
@@ -30539,7 +30596,7 @@
       "discount": 20.0,
       "commission": 0.12,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbnxvzb56v8nfb",
-      "link": "https://s.shopee.com.br/3VjSBeFRVd",
+      "link": "https://s.shopee.com.br/19aBn5pY8",
       "rating": "5",
       "sales": 190,
       "shop": "CROSS - SPORTSFITNESS",
@@ -30556,7 +30613,7 @@
         "shopName": "CROSS - SPORTSFITNESS",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbnxvzb56v8nfb",
         "productLink": "https://shopee.com.br/product/1178845158/21397621746",
-        "offerLink": "https://s.shopee.com.br/3VjSBeFRVd"
+        "offerLink": "https://s.shopee.com.br/19aBn5pY8"
       },
       "_last_price": null
     },
@@ -31228,6 +31285,35 @@
       "_last_price": null
     },
     {
+      "id": "58261911959",
+      "name": "Comedouro Elevado Pet Inox Cachorro Gato Bebedouro Tigela Ração Água Antivômito Premium",
+      "price": 32.4,
+      "original_price": 40.0,
+      "discount": 19.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mp18dhjxhy4l91",
+      "link": "https://s.shopee.com.br/50YEMgLV1r",
+      "rating": "4.9",
+      "sales": 1680,
+      "shop": "BelladeLuccastore",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58261911959,
+        "productName": "Comedouro Elevado Pet Inox Cachorro Gato Bebedouro Tigela Ração Água Antivômito Premium",
+        "price": "32.4",
+        "priceDiscountRate": 19,
+        "commissionRate": "0.03",
+        "sales": 1680,
+        "ratingStar": "4.9",
+        "shopName": "BelladeLuccastore",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mp18dhjxhy4l91",
+        "productLink": "https://shopee.com.br/product/987020544/58261911959",
+        "offerLink": "https://s.shopee.com.br/50YEMgLV1r"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58258988827",
       "name": "Formas Suiça para Bolo?Pudim N. 18 / 16 e 14 Air Fryer 3,5",
       "price": 12.95,
@@ -31547,6 +31633,35 @@
       "_last_price": null
     },
     {
+      "id": "12823128886",
+      "name": "Creatina Monohidratada Integralmedica 60 cápsulas",
+      "price": 22.13,
+      "original_price": 26.99,
+      "discount": 18.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7renj-m2ckuwis1x9y28",
+      "link": "https://s.shopee.com.br/4qEnhJstK1",
+      "rating": "4.9",
+      "sales": 1610,
+      "shop": "Integralmedica",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 12823128886,
+        "productName": "Creatina Monohidratada Integralmedica 60 cápsulas",
+        "price": "22.13",
+        "priceDiscountRate": 18,
+        "commissionRate": "0.03",
+        "sales": 1610,
+        "ratingStar": "4.9",
+        "shopName": "Integralmedica",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7renj-m2ckuwis1x9y28",
+        "productLink": "https://shopee.com.br/product/544014438/12823128886",
+        "offerLink": "https://s.shopee.com.br/4qEnhJstK1"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21399703901",
       "name": "Kit Power Tube Elastico Musculação Crossfit pilates yoga fitness 11 Itens Funcional. - ZOEX",
       "price": 24.5,
@@ -31554,7 +31669,7 @@
       "discount": 18.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-822xi-mo72sr1wyivcd4",
-      "link": "https://s.shopee.com.br/4qEnhKS1LE",
+      "link": "https://s.shopee.com.br/5ArgLHmA3r",
       "rating": "4.8",
       "sales": 798,
       "shop": "ZOZO COM.",
@@ -31571,7 +31686,7 @@
         "shopName": "ZOZO COM.",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xi-mo72sr1wyivcd4",
         "productLink": "https://shopee.com.br/product/1361502995/21399703901",
-        "offerLink": "https://s.shopee.com.br/4qEnhKS1LE"
+        "offerLink": "https://s.shopee.com.br/5ArgLHmA3r"
       },
       "_last_price": null
     },
@@ -31601,35 +31716,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m67cbhbc6hmaf0",
         "productLink": "https://shopee.com.br/product/398944029/14604313620",
         "offerLink": "https://s.shopee.com.br/7AciTcanyd"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "19096920765",
-      "name": "Papel Descartável Air Fryer Antiaderente Para Cozimento 50 Unidades",
-      "price": 15.09,
-      "original_price": 18.4,
-      "discount": 18.0,
-      "commission": 0.15,
-      "image": "https://cf.shopee.com.br/file/br-11134201-820m8-mqxc3riutq85fd",
-      "link": "https://s.shopee.com.br/8AVFfTfBhV",
-      "rating": "4.7",
-      "sales": 1592,
-      "shop": "MUKI Store | BR",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19096920765,
-        "productName": "Papel Descartável Air Fryer Antiaderente Para Cozimento 50 Unidades",
-        "price": "15.09",
-        "priceDiscountRate": 18,
-        "commissionRate": "0.15",
-        "sales": 1592,
-        "ratingStar": "4.7",
-        "shopName": "MUKI Store | BR",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m8-mqxc3riutq85fd",
-        "productLink": "https://shopee.com.br/product/344855473/19096920765",
-        "offerLink": "https://s.shopee.com.br/8AVFfTfBhV"
       },
       "_last_price": null
     },
@@ -32040,35 +32126,6 @@
       "_last_price": null
     },
     {
-      "id": "19798036530",
-      "name": "Vara Albatroz Missouri 2,10m / 1,80m / 1,65m 15-40lbs 2p Carretilha",
-      "price": 69.0,
-      "original_price": 83.13,
-      "discount": 17.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6lq8c9marlzb9",
-      "link": "https://s.shopee.com.br/1gHmd5iHH7",
-      "rating": "4.9",
-      "sales": 102,
-      "shop": "DPS PESCA02",
-      "category": "carretilha pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19798036530,
-        "productName": "Vara Albatroz Missouri 2,10m / 1,80m / 1,65m 15-40lbs 2p Carretilha",
-        "price": "69",
-        "priceDiscountRate": 17,
-        "commissionRate": "0.03",
-        "sales": 102,
-        "ratingStar": "4.9",
-        "shopName": "DPS PESCA02",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6lq8c9marlzb9",
-        "productLink": "https://shopee.com.br/product/821160002/19798036530",
-        "offerLink": "https://s.shopee.com.br/1gHmd5iHH7"
-      },
-      "_last_price": null
-    },
-    {
       "id": "9570518567",
       "name": "Liw 100 Peças Bolas Ovais Iscas Pesca Luminosas Flutuador Flutuante Marítima A @ Edge",
       "price": 12.3,
@@ -32384,6 +32441,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-moeelft3d5hia5",
         "productLink": "https://shopee.com.br/product/1509105042/23898806674",
         "offerLink": "https://s.shopee.com.br/6L3bx8GQJz"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19096920765",
+      "name": "Papel Descartável Air Fryer Antiaderente Para Cozimento 50 Unidades",
+      "price": 15.44,
+      "original_price": 18.38,
+      "discount": 16.0,
+      "commission": 0.15,
+      "image": "https://cf.shopee.com.br/file/br-11134201-820m8-mqxc3riutq85fd",
+      "link": "https://s.shopee.com.br/8AVFfTfBhV",
+      "rating": "4.7",
+      "sales": 1592,
+      "shop": "MUKI Store | BR",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19096920765,
+        "productName": "Papel Descartável Air Fryer Antiaderente Para Cozimento 50 Unidades",
+        "price": "15.44",
+        "priceDiscountRate": 16,
+        "commissionRate": "0.15",
+        "sales": 1592,
+        "ratingStar": "4.7",
+        "shopName": "MUKI Store | BR",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m8-mqxc3riutq85fd",
+        "productLink": "https://shopee.com.br/product/344855473/19096920765",
+        "offerLink": "https://s.shopee.com.br/8AVFfTfBhV"
       },
       "_last_price": null
     },
@@ -32761,35 +32847,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mq58okdu0s1tc2",
         "productLink": "https://shopee.com.br/product/1027982682/23098884809",
         "offerLink": "https://s.shopee.com.br/7fYz4TEWGb"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58261911959",
-      "name": "Comedouro Elevado Pet Inox Cachorro Gato Bebedouro Tigela Ração Água Antivômito Premium",
-      "price": 34.0,
-      "original_price": 40.0,
-      "discount": 15.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mp18dhjxhy4l91",
-      "link": "https://s.shopee.com.br/50YEMgLV1r",
-      "rating": "4.9",
-      "sales": 1680,
-      "shop": "BelladeLuccastore",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58261911959,
-        "productName": "Comedouro Elevado Pet Inox Cachorro Gato Bebedouro Tigela Ração Água Antivômito Premium",
-        "price": "34",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.03",
-        "sales": 1680,
-        "ratingStar": "4.9",
-        "shopName": "BelladeLuccastore",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mp18dhjxhy4l91",
-        "productLink": "https://shopee.com.br/product/987020544/58261911959",
-        "offerLink": "https://s.shopee.com.br/50YEMgLV1r"
       },
       "_last_price": null
     },
