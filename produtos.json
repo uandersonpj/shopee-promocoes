@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T02:30:56.092502+00:00",
-  "total": 1121,
+  "updated_at": "2026-08-14T02:50:06.480107+00:00",
+  "total": 1128,
   "products": [
     {
       "id": "23698808886",
@@ -1070,7 +1070,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
         "productLink": "https://shopee.com.br/product/1266325318/21897981294",
         "offerLink": "https://s.shopee.com.br/3VjQ6qlAmD"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23294866358",
@@ -4932,7 +4933,7 @@
       "rating": "4.7",
       "sales": 445,
       "shop": "MvM Lojas",
-      "category": "kit pesca",
+      "category": "caixa de pesca",
       "source": "shopee",
       "_item": {
         "itemId": 19397504534,
@@ -5379,6 +5380,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23010-3e61q98mrdmv4d",
         "productLink": "https://shopee.com.br/product/436682589/18371229433",
         "offerLink": "https://s.shopee.com.br/30n9W3JRgh"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22691886601",
+      "name": "Maleta Caixa de Ferramentas Plástica Grande Completa Alta Organizadora Resistente Eletricistas Pesca Durável",
+      "price": 22.9,
+      "original_price": 65.43,
+      "discount": 65.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljm6gl8zhmw6e8",
+      "link": "https://s.shopee.com.br/40fhAwiwvR",
+      "rating": "4.8",
+      "sales": 317,
+      "shop": "MvM Lojas",
+      "category": "caixa de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22691886601,
+        "productName": "Maleta Caixa de Ferramentas Plástica Grande Completa Alta Organizadora Resistente Eletricistas Pesca Durável",
+        "price": "22.9",
+        "priceDiscountRate": 65,
+        "commissionRate": "0.03",
+        "sales": 317,
+        "ratingStar": "4.8",
+        "shopName": "MvM Lojas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljm6gl8zhmw6e8",
+        "productLink": "https://shopee.com.br/product/392271277/22691886601",
+        "offerLink": "https://s.shopee.com.br/40fhAwiwvR"
       },
       "_last_price": null
     },
@@ -8480,8 +8510,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf1fwz0aygw718",
         "productLink": "https://shopee.com.br/product/1494146725/23893776085",
         "offerLink": "https://s.shopee.com.br/7VFYsEZXIj"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23198395301",
@@ -8538,6 +8567,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfa2zn43hdz96b",
         "productLink": "https://shopee.com.br/product/405617888/22694463642",
         "offerLink": "https://s.shopee.com.br/9pdTeXYqJj"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23394445493",
+      "name": "KIT 50/100/150/200 Formas Assadeira Papel Manteiga Descartável Para Air fryer Sem Sujeira Leo Store BR Leo Store BR",
+      "price": 13.99,
+      "original_price": 33.31,
+      "discount": 58.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfcy0le48qh189",
+      "link": "https://s.shopee.com.br/5VUVHNuW0z",
+      "rating": "4.8",
+      "sales": 1926,
+      "shop": "Win  ",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23394445493,
+        "productName": "KIT 50/100/150/200 Formas Assadeira Papel Manteiga Descartável Para Air fryer Sem Sujeira Leo Store BR Leo Store BR",
+        "price": "13.99",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.03",
+        "sales": 1926,
+        "ratingStar": "4.8",
+        "shopName": "Win  ",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfcy0le48qh189",
+        "productLink": "https://shopee.com.br/product/405617888/23394445493",
+        "offerLink": "https://s.shopee.com.br/5VUVHNuW0z"
       },
       "_last_price": null
     },
@@ -12717,6 +12775,35 @@
       "_last_price": null
     },
     {
+      "id": "18554808191",
+      "name": "Caixa de Ferramentas 18.3\" Reforçada Tática Fecho Metal Maleta Organizadora para Ferramentas e Pesca",
+      "price": 21.99,
+      "original_price": 44.88,
+      "discount": 51.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mqxnch3hzkli5c",
+      "link": "https://s.shopee.com.br/8V862s4QU3",
+      "rating": "4.9",
+      "sales": 703,
+      "shop": "MPATACADISTA",
+      "category": "caixa de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18554808191,
+        "productName": "Caixa de Ferramentas 18.3\" Reforçada Tática Fecho Metal Maleta Organizadora para Ferramentas e Pesca",
+        "price": "21.99",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.03",
+        "sales": 703,
+        "ratingStar": "4.9",
+        "shopName": "MPATACADISTA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mqxnch3hzkli5c",
+        "productLink": "https://shopee.com.br/product/882785833/18554808191",
+        "offerLink": "https://s.shopee.com.br/8V862s4QU3"
+      },
+      "_last_price": null
+    },
+    {
       "id": "29806177637",
       "name": "Feijão Espacial De Pesca SKEC 600Pcs Tackle Oval Stopper Rubber Fishing Line Stops Fly Flutuador",
       "price": 20.2,
@@ -13479,7 +13566,7 @@
       "commission": 0.17,
       "image": "https://cf.shopee.com.br/file/br-11134207-820le-mofyfq9j6x3a09",
       "link": "https://s.shopee.com.br/4LIX6Ni05C",
-      "rating": "4.4",
+      "rating": "4.5",
       "sales": 6844,
       "shop": "PH imports ",
       "category": "perfume",
@@ -13491,7 +13578,7 @@
         "priceDiscountRate": 50,
         "commissionRate": "0.17",
         "sales": 6844,
-        "ratingStar": "4.4",
+        "ratingStar": "4.5",
         "shopName": "PH imports ",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mofyfq9j6x3a09",
         "productLink": "https://shopee.com.br/product/1190360737/58210999230",
@@ -14047,6 +14134,64 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-miz8ntjd4dtz81",
         "productLink": "https://shopee.com.br/product/1511719344/28793897984",
         "offerLink": "https://s.shopee.com.br/904Mdmbuy1"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "13964236047",
+      "name": "Organizador Caixa Plastica Com divisórias Para organizar Bijuterias Acessórios De Pesca Costura E Remédios 3 Andares",
+      "price": 20.0,
+      "original_price": 40.0,
+      "discount": 50.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqy8vp94s1u66",
+      "link": "https://s.shopee.com.br/80BpRx6KUu",
+      "rating": "4.8",
+      "sales": 1549,
+      "shop": "top_oneshopp",
+      "category": "caixa de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 13964236047,
+        "productName": "Organizador Caixa Plastica Com divisórias Para organizar Bijuterias Acessórios De Pesca Costura E Remédios 3 Andares",
+        "price": "20",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.13",
+        "sales": 1549,
+        "ratingStar": "4.8",
+        "shopName": "top_oneshopp",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqy8vp94s1u66",
+        "productLink": "https://shopee.com.br/product/441081894/13964236047",
+        "offerLink": "https://s.shopee.com.br/80BpRx6KUu"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19403621266",
+      "name": "100 Pçs/Caixa Cascos De Aço Carbono Isca De Peixe Jig Pesca Círculo Acessórios Da Carpa Equipamentos De Engrenagem Face Com Perfurado",
+      "price": 11.0,
+      "original_price": 22.0,
+      "discount": 50.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/1f2d37be391f345f756d41a3f6a0d150",
+      "link": "https://s.shopee.com.br/50YEMmf8tj",
+      "rating": "4.6",
+      "sales": 192,
+      "shop": "NYAYEO Vida ao ar livre",
+      "category": "caixa de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19403621266,
+        "productName": "100 Pçs/Caixa Cascos De Aço Carbono Isca De Peixe Jig Pesca Círculo Acessórios Da Carpa Equipamentos De Engrenagem Face Com Perfurado",
+        "price": "11",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.07",
+        "sales": 192,
+        "ratingStar": "4.6",
+        "shopName": "NYAYEO Vida ao ar livre",
+        "imageUrl": "https://cf.shopee.com.br/file/1f2d37be391f345f756d41a3f6a0d150",
+        "productLink": "https://shopee.com.br/product/654851978/19403621266",
+        "offerLink": "https://s.shopee.com.br/50YEMmf8tj"
       },
       "_last_price": null
     },
@@ -16570,35 +16715,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mnm2elt70b9c20",
         "productLink": "https://shopee.com.br/product/801125047/23599290240",
         "offerLink": "https://s.shopee.com.br/9KhD3hCjB8"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "41601446410",
-      "name": "Proteção Solar Respirável Flexível Unissex Luvas De Motocicleta Para Ciclismo Pesca Condução Atividades Ao Ar Livre",
-      "price": 11.4,
-      "original_price": 21.51,
-      "discount": 47.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823pi-mp4mu2u5xq8e68",
-      "link": "https://s.shopee.com.br/8Kofqbhdzl",
-      "rating": "4.9",
-      "sales": 929,
-      "shop": "Choice Oficial",
-      "category": "luva pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41601446410,
-        "productName": "Proteção Solar Respirável Flexível Unissex Luvas De Motocicleta Para Ciclismo Pesca Condução Atividades Ao Ar Livre",
-        "price": "11.4",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.07",
-        "sales": 929,
-        "ratingStar": "4.9",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pi-mp4mu2u5xq8e68",
-        "productLink": "https://shopee.com.br/product/1006215031/41601446410",
-        "offerLink": "https://s.shopee.com.br/8Kofqbhdzl"
       },
       "_last_price": null
     },
@@ -23534,6 +23650,35 @@
       "_last_price": null
     },
     {
+      "id": "23794908443",
+      "name": "Proteção Solar Respirável Flexível Unissex Luvas De Motocicleta Para Ciclismo Pesca Condução Atividades Ao Ar Livre",
+      "price": 15.99,
+      "original_price": 24.98,
+      "discount": 36.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8262o-mlz0zg7p5og089",
+      "link": "https://s.shopee.com.br/70JIG9mihd",
+      "rating": "4.8",
+      "sales": 92,
+      "shop": "megarabazar",
+      "category": "luva pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23794908443,
+        "productName": "Proteção Solar Respirável Flexível Unissex Luvas De Motocicleta Para Ciclismo Pesca Condução Atividades Ao Ar Livre",
+        "price": "15.99",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 92,
+        "ratingStar": "4.8",
+        "shopName": "megarabazar",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262o-mlz0zg7p5og089",
+        "productLink": "https://shopee.com.br/product/1197213308/23794908443",
+        "offerLink": "https://s.shopee.com.br/70JIG9mihd"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22693663474",
       "name": "Cabo Displayport  Blindado 4k Reforçado 144Hz 1,8 Metros Pra Placa de Vídeo Console Monitor Projetor",
       "price": 14.99,
@@ -26550,6 +26695,35 @@
       "_last_price": null
     },
     {
+      "id": "58212113005",
+      "name": "Caixa de pesca, uma caixa econômica e prática com vários compartimentos para guardar ferramentas de pesca e multiuso.",
+      "price": 19.99,
+      "original_price": 28.56,
+      "discount": 30.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823r2-mp7mdleq5s7472",
+      "link": "https://s.shopee.com.br/1125bQuN0p",
+      "rating": "4.6",
+      "sales": 319,
+      "shop": "LIFEECOMERCIO",
+      "category": "caixa de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58212113005,
+        "productName": "Caixa de pesca, uma caixa econômica e prática com vários compartimentos para guardar ferramentas de pesca e multiuso.",
+        "price": "19.99",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.03",
+        "sales": 319,
+        "ratingStar": "4.6",
+        "shopName": "LIFEECOMERCIO",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r2-mp7mdleq5s7472",
+        "productLink": "https://shopee.com.br/product/1483446294/58212113005",
+        "offerLink": "https://s.shopee.com.br/1125bQuN0p"
+      },
+      "_last_price": null
+    },
+    {
       "id": "24276224233",
       "name": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
       "price": 30.93,
@@ -26836,6 +27010,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82634-mmc1kw2fhatd63",
         "productLink": "https://shopee.com.br/product/1608214292/23294549994",
         "offerLink": "https://s.shopee.com.br/5LB4pFr33a"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22799192789",
+      "name": "Caixa Organizadora Plástica Tampa Transparente Divisórias Multiuso Ferramentas Parafusos Pesca Artesanato Costura",
+      "price": 15.99,
+      "original_price": 22.52,
+      "discount": 29.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-moy45ntnzime5d",
+      "link": "https://s.shopee.com.br/4qEoATfmEe",
+      "rating": "4.8",
+      "sales": 294,
+      "shop": "Plasticos Independencia",
+      "category": "caixa de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22799192789,
+        "productName": "Caixa Organizadora Plástica Tampa Transparente Divisórias Multiuso Ferramentas Parafusos Pesca Artesanato Costura",
+        "price": "15.99",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.13",
+        "sales": 294,
+        "ratingStar": "4.8",
+        "shopName": "Plasticos Independencia",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-moy45ntnzime5d",
+        "productLink": "https://shopee.com.br/product/511507233/22799192789",
+        "offerLink": "https://s.shopee.com.br/4qEoATfmEe"
       },
       "_last_price": null
     },
@@ -28257,35 +28460,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-moqu1irn41l149",
         "productLink": "https://shopee.com.br/product/1257233492/22093098156",
         "offerLink": "https://s.shopee.com.br/60QlYUeUyG"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20561325544",
-      "name": "CAPA DE CARRINHO  | COLCHONETE DE CARRINHO  | PROTETOR PARA BEBÊ  | UNIVERSAL  |  CORES",
-      "price": 44.9,
-      "original_price": 59.87,
-      "discount": 25.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820la-ml6kasbn8s9026",
-      "link": "https://s.shopee.com.br/4qEopHZzGS",
-      "rating": "4.9",
-      "sales": 646,
-      "shop": "Casa SoL.",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20561325544,
-        "productName": "CAPA DE CARRINHO  | COLCHONETE DE CARRINHO  | PROTETOR PARA BEBÊ  | UNIVERSAL  |  CORES",
-        "price": "44.9",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.03",
-        "sales": 646,
-        "ratingStar": "4.9",
-        "shopName": "Casa SoL.",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-ml6kasbn8s9026",
-        "productLink": "https://shopee.com.br/product/659215083/20561325544",
-        "offerLink": "https://s.shopee.com.br/4qEopHZzGS"
       },
       "_last_price": null
     },
@@ -30871,6 +31045,35 @@
       "_last_price": null
     },
     {
+      "id": "52704618775",
+      "name": "Caixa Organizadora Plástico 13 Divisórias Transparente Multiuso Tampa e Trava Pesca Remédios Costura",
+      "price": 27.99,
+      "original_price": 34.56,
+      "discount": 19.0,
+      "commission": 0.18,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfx1m3yqt4x3c",
+      "link": "https://s.shopee.com.br/LmOoCwuMd",
+      "rating": "4.9",
+      "sales": 418,
+      "shop": "All Útil",
+      "category": "caixa de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 52704618775,
+        "productName": "Caixa Organizadora Plástico 13 Divisórias Transparente Multiuso Tampa e Trava Pesca Remédios Costura",
+        "price": "27.99",
+        "priceDiscountRate": 19,
+        "commissionRate": "0.18",
+        "sales": 418,
+        "ratingStar": "4.9",
+        "shopName": "All Útil",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfx1m3yqt4x3c",
+        "productLink": "https://shopee.com.br/product/400733933/52704618775",
+        "offerLink": "https://s.shopee.com.br/LmOoCwuMd"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18799237450",
       "name": "Kit de Pesca Premium Estojo Com Chumbadas Caixa com Divisórias Pesos Variados Chumbo De Pesca Pescaria Pesqueiro Pratico",
       "price": 37.9,
@@ -32437,6 +32640,35 @@
       "_last_price": null
     },
     {
+      "id": "5194735016",
+      "name": "Maleta Pesca, Maleta Organizadora, Maleta Multiuso para Pesca, Maleta Ferramentas, Maleta Maquiagem",
+      "price": 50.0,
+      "original_price": 58.82,
+      "discount": 15.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/6957d7f1eeae7179942a3652b8456111",
+      "link": "https://s.shopee.com.br/4Az7NFiJaS",
+      "rating": "4.8",
+      "sales": 336,
+      "shop": "Porto Pesca",
+      "category": "caixa de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 5194735016,
+        "productName": "Maleta Pesca, Maleta Organizadora, Maleta Multiuso para Pesca, Maleta Ferramentas, Maleta Maquiagem",
+        "price": "50",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.03",
+        "sales": 336,
+        "ratingStar": "4.8",
+        "shopName": "Porto Pesca",
+        "imageUrl": "https://cf.shopee.com.br/file/6957d7f1eeae7179942a3652b8456111",
+        "productLink": "https://shopee.com.br/product/433887507/5194735016",
+        "offerLink": "https://s.shopee.com.br/4Az7NFiJaS"
+      },
+      "_last_price": null
+    },
+    {
       "id": "27139400639",
       "name": "RGN 1/5/10Pcs Promoção Conjunto De Flutuadores De Pesca Tamanho Misto Cor Espuma Bóia Bobber Para Acessórios Equipamento",
       "price": 10.7,
@@ -32462,35 +32694,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvp-mcvh91w1vpieb3",
         "productLink": "https://shopee.com.br/product/280615069/27139400639",
         "offerLink": "https://s.shopee.com.br/7VFYr3PDm0"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "5194735016",
-      "name": "Maleta Pesca, Maleta Organizadora, Maleta Multiuso para Pesca, Maleta Ferramentas, Maleta Maquiagem",
-      "price": 50.0,
-      "original_price": 58.82,
-      "discount": 15.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/6957d7f1eeae7179942a3652b8456111",
-      "link": "https://s.shopee.com.br/4Az7NFiJaS",
-      "rating": "4.8",
-      "sales": 336,
-      "shop": "Porto Pesca",
-      "category": "estojo pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 5194735016,
-        "productName": "Maleta Pesca, Maleta Organizadora, Maleta Multiuso para Pesca, Maleta Ferramentas, Maleta Maquiagem",
-        "price": "50",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.03",
-        "sales": 336,
-        "ratingStar": "4.8",
-        "shopName": "Porto Pesca",
-        "imageUrl": "https://cf.shopee.com.br/file/6957d7f1eeae7179942a3652b8456111",
-        "productLink": "https://shopee.com.br/product/433887507/5194735016",
-        "offerLink": "https://s.shopee.com.br/4Az7NFiJaS"
       },
       "_last_price": null
     }
