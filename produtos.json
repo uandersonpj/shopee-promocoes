@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T22:11:32.577671+00:00",
+  "updated_at": "2026-08-14T22:30:58.684541+00:00",
   "total": 1126,
   "products": [
     {
@@ -376,7 +376,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134275-7rdxw-mdfucal40l6y57",
         "productLink": "https://shopee.com.br/product/236693678/26539956454",
         "offerLink": "https://s.shopee.com.br/11258NR3k7"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "24360408071",
@@ -732,7 +733,7 @@
       "commission": 0.13,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mmimeaq4koav45",
       "link": "https://s.shopee.com.br/8pkwRWfjyw",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 145,
       "shop": "Fit Pico",
       "category": "luva pesca",
@@ -744,7 +745,7 @@
         "priceDiscountRate": 82,
         "commissionRate": "0.13",
         "sales": 145,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "Fit Pico",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mmimeaq4koav45",
         "productLink": "https://shopee.com.br/product/1748172680/58258026087",
@@ -1668,8 +1669,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgf3dycxebr838",
         "productLink": "https://shopee.com.br/product/483938660/23799125316",
         "offerLink": "https://s.shopee.com.br/5Are5qti9R"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "20398528613",
@@ -14779,8 +14779,8 @@
     {
       "id": "48857230908",
       "name": "Vara de pesca telescópica, suave e ultraleve, ideal para diversas situações, com comprimentos de 2,4 m e 3,6 m",
-      "price": 19.8,
-      "original_price": 38.82,
+      "price": 19.77,
+      "original_price": 38.76,
       "discount": 49.0,
       "commission": 0.11,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsuws7bcgznad",
@@ -14793,7 +14793,7 @@
       "_item": {
         "itemId": 48857230908,
         "productName": "Vara de pesca telescópica, suave e ultraleve, ideal para diversas situações, com comprimentos de 2,4 m e 3,6 m",
-        "price": "19.8",
+        "price": "19.77",
         "priceDiscountRate": 49,
         "commissionRate": "0.11",
         "sales": 1535,
@@ -24521,35 +24521,6 @@
       "_last_price": null
     },
     {
-      "id": "22794170349",
-      "name": "Protetor Solar Facial Clareador  Hidrabene FPS 70 Toque Seco Antissinais Clareia a pele 50g",
-      "price": 38.95,
-      "original_price": 59.02,
-      "discount": 34.0,
-      "commission": 0.075,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ra3u-mbe7m8ziioae62",
-      "link": "https://s.shopee.com.br/5LB4ID4myd",
-      "rating": "4.9",
-      "sales": 2152,
-      "shop": "Esthik ",
-      "category": "protetor solar",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22794170349,
-        "productName": "Protetor Solar Facial Clareador  Hidrabene FPS 70 Toque Seco Antissinais Clareia a pele 50g",
-        "price": "38.95",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.075",
-        "sales": 2152,
-        "ratingStar": "4.9",
-        "shopName": "Esthik ",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra3u-mbe7m8ziioae62",
-        "productLink": "https://shopee.com.br/product/314834922/22794170349",
-        "offerLink": "https://s.shopee.com.br/5LB4ID4myd"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22894246754",
       "name": "BODY SPLASH MASCULINO BARBARIUS 200ML - PRIMACIAL PERFUME AMADEIRADO",
       "price": 45.9,
@@ -25474,6 +25445,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mmq2ro9e330g46",
         "productLink": "https://shopee.com.br/product/1747088962/22799427951",
         "offerLink": "https://s.shopee.com.br/AUtARgLOtP"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22794170349",
+      "name": "Protetor Solar Facial Clareador  Hidrabene FPS 70 Toque Seco Antissinais Clareia a pele 50g",
+      "price": 39.96,
+      "original_price": 58.76,
+      "discount": 32.0,
+      "commission": 0.075,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ra3u-mbe7m8ziioae62",
+      "link": "https://s.shopee.com.br/5LB4ID4myd",
+      "rating": "4.9",
+      "sales": 2152,
+      "shop": "Esthik ",
+      "category": "protetor solar",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22794170349,
+        "productName": "Protetor Solar Facial Clareador  Hidrabene FPS 70 Toque Seco Antissinais Clareia a pele 50g",
+        "price": "39.96",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.075",
+        "sales": 2152,
+        "ratingStar": "4.9",
+        "shopName": "Esthik ",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra3u-mbe7m8ziioae62",
+        "productLink": "https://shopee.com.br/product/314834922/22794170349",
+        "offerLink": "https://s.shopee.com.br/5LB4ID4myd"
       },
       "_last_price": null
     },
