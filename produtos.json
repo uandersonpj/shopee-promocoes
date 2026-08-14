@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T03:28:31.339109+00:00",
-  "total": 1132,
+  "updated_at": "2026-08-14T03:47:28.737785+00:00",
+  "total": 1133,
   "products": [
     {
       "id": "23698808886",
@@ -1389,7 +1389,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mr1vaho31o90f0",
         "productLink": "https://shopee.com.br/product/1246081278/45364806848",
         "offerLink": "https://s.shopee.com.br/3VjQoJeerF"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22733755777",
@@ -9705,8 +9706,8 @@
     {
       "id": "58207705974",
       "name": "Kit 5 Suportes de Banheiro Alto Adesivo Organizador de Parede Sabonete Shampoo Condicionador e Papel",
-      "price": 34.55,
-      "original_price": 78.52,
+      "price": 34.4,
+      "original_price": 78.18,
       "discount": 56.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mrlntyv5exvo3f",
@@ -9719,7 +9720,7 @@
       "_item": {
         "itemId": 58207705974,
         "productName": "Kit 5 Suportes de Banheiro Alto Adesivo Organizador de Parede Sabonete Shampoo Condicionador e Papel",
-        "price": "34.55",
+        "price": "34.4",
         "priceDiscountRate": 56,
         "commissionRate": "0.03",
         "sales": 4434,
@@ -17503,35 +17504,6 @@
       "_last_price": null
     },
     {
-      "id": "27975909779",
-      "name": "COURTNEY Protetor De 2 Dedos Equipamento De Pesca Polegar E Dedo Indicador Luva Antiderrapante Luvas De Dois",
-      "price": 13.24,
-      "original_price": 24.52,
-      "discount": 46.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcf4-m6557zaj3un276",
-      "link": "https://s.shopee.com.br/BSyqQ3I9G",
-      "rating": "4.8",
-      "sales": 27,
-      "shop": "courtney.br",
-      "category": "luva pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 27975909779,
-        "productName": "COURTNEY Protetor De 2 Dedos Equipamento De Pesca Polegar E Dedo Indicador Luva Antiderrapante Luvas De Dois",
-        "price": "13.24",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.03",
-        "sales": 27,
-        "ratingStar": "4.8",
-        "shopName": "courtney.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcf4-m6557zaj3un276",
-        "productLink": "https://shopee.com.br/product/432187243/27975909779",
-        "offerLink": "https://s.shopee.com.br/BSyqQ3I9G"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18597752657",
       "name": "Adaptador Bluetooth 5.0 USB Transmissor Áudio Sem Fio para Notebook e Carros",
       "price": 12.99,
@@ -17731,6 +17703,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258e-mqehxire4zr507",
         "productLink": "https://shopee.com.br/product/1006215031/45707967320",
         "offerLink": "https://s.shopee.com.br/4LIXZMD3Tq"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22598826303",
+      "name": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
+      "price": 61.0,
+      "original_price": 110.91,
+      "discount": 45.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
+      "link": "https://s.shopee.com.br/6AkBHgpu7X",
+      "rating": "4.8",
+      "sales": 1379,
+      "shop": "Traxen",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22598826303,
+        "productName": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
+        "price": "61",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 1379,
+        "ratingStar": "4.8",
+        "shopName": "Traxen",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
+        "productLink": "https://shopee.com.br/product/786353833/22598826303",
+        "offerLink": "https://s.shopee.com.br/6AkBHgpu7X"
       },
       "_last_price": null
     },
@@ -18398,35 +18399,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
         "productLink": "https://shopee.com.br/product/786353833/23694320738",
         "offerLink": "https://s.shopee.com.br/60Ql5NqXSU"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22598826303",
-      "name": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
-      "price": 61.0,
-      "original_price": 108.93,
-      "discount": 44.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
-      "link": "https://s.shopee.com.br/6AkBHgpu7X",
-      "rating": "4.8",
-      "sales": 1379,
-      "shop": "Traxen",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22598826303,
-        "productName": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
-        "price": "61",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.03",
-        "sales": 1379,
-        "ratingStar": "4.8",
-        "shopName": "Traxen",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
-        "productLink": "https://shopee.com.br/product/786353833/22598826303",
-        "offerLink": "https://s.shopee.com.br/6AkBHgpu7X"
       },
       "_last_price": null
     },
@@ -19620,6 +19592,35 @@
       "_last_price": null
     },
     {
+      "id": "27975909779",
+      "name": "COURTNEY Protetor De 2 Dedos Equipamento De Pesca Polegar E Dedo Indicador Luva Antiderrapante Luvas De Dois",
+      "price": 14.04,
+      "original_price": 24.63,
+      "discount": 43.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcf4-m6557zaj3un276",
+      "link": "https://s.shopee.com.br/BSyqQ3I9G",
+      "rating": "4.8",
+      "sales": 27,
+      "shop": "courtney.br",
+      "category": "luva pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 27975909779,
+        "productName": "COURTNEY Protetor De 2 Dedos Equipamento De Pesca Polegar E Dedo Indicador Luva Antiderrapante Luvas De Dois",
+        "price": "14.04",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.03",
+        "sales": 27,
+        "ratingStar": "4.8",
+        "shopName": "courtney.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcf4-m6557zaj3un276",
+        "productLink": "https://shopee.com.br/product/432187243/27975909779",
+        "offerLink": "https://s.shopee.com.br/BSyqQ3I9G"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23192083562",
       "name": "Papel Offset Opaline Liso 100 Folhas 180g A4 Branco Diplomata Masterprint",
       "price": 22.99,
@@ -20405,8 +20406,8 @@
     {
       "id": "18898304916",
       "name": "Panela Pressão - 4,5 litros - Antiaderente - Cores: Cereja e Preto - Média",
-      "price": 79.99,
-      "original_price": 135.58,
+      "price": 79.59,
+      "original_price": 134.9,
       "discount": 41.0,
       "commission": 0.18,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekk44ym8mwx48",
@@ -20419,7 +20420,7 @@
       "_item": {
         "itemId": 18898304916,
         "productName": "Panela Pressão - 4,5 litros - Antiaderente - Cores: Cereja e Preto - Média",
-        "price": "79.99",
+        "price": "79.59",
         "priceDiscountRate": 41,
         "commissionRate": "0.18",
         "sales": 821,
@@ -20660,6 +20661,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mr60fkkbtwcl28",
         "productLink": "https://shopee.com.br/product/1561460961/58250766884",
         "offerLink": "https://s.shopee.com.br/80BqBtqXb4"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "57310981122",
+      "name": "Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Arroz Feijão Sabão Em Pó Amaciante Produtos Limpeza",
+      "price": 59.61,
+      "original_price": 99.35,
+      "discount": 40.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mpol3c90f3lu86",
+      "link": "https://s.shopee.com.br/3g2r0ce1WI",
+      "rating": "4.9",
+      "sales": 219,
+      "shop": "shopmultiprime",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57310981122,
+        "productName": "Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Arroz Feijão Sabão Em Pó Amaciante Produtos Limpeza",
+        "price": "59.61",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 219,
+        "ratingStar": "4.9",
+        "shopName": "shopmultiprime",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mpol3c90f3lu86",
+        "productLink": "https://shopee.com.br/product/1327572074/57310981122",
+        "offerLink": "https://s.shopee.com.br/3g2r0ce1WI"
       },
       "_last_price": null
     },
