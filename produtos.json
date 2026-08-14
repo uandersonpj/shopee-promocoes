@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T20:34:49.682681+00:00",
-  "total": 1128,
+  "updated_at": "2026-08-14T20:54:09.050358+00:00",
+  "total": 1127,
   "products": [
     {
       "id": "23698808886",
@@ -889,7 +889,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b5-mr8gyqsp0av57f",
         "productLink": "https://shopee.com.br/product/1006215031/53604373378",
         "offerLink": "https://s.shopee.com.br/60Ql5RK3ac"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21897981294",
@@ -1123,34 +1124,6 @@
       "_last_price": null
     },
     {
-      "id": "25391678999",
-      "name": "UGREEN M2 SSD Case M . 2 NVMe SATA Adaptador De Gabinete 10 Gbps USB 3.2 Gen2 C Externo Suporta Teclas E & B",
-      "price": 81.9,
-      "original_price": 390.0,
-      "discount": 79.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lzop7krz80iq1e",
-      "link": "https://s.shopee.com.br/20ueybJxLd",
-      "rating": "5",
-      "sales": 37,
-      "shop": "Ugreen Official Shop",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 25391678999,
-        "productName": "UGREEN M2 SSD Case M . 2 NVMe SATA Adaptador De Gabinete 10 Gbps USB 3.2 Gen2 C Externo Suporta Teclas E & B",
-        "price": "81.9",
-        "priceDiscountRate": 79,
-        "commissionRate": "0.03",
-        "sales": 37,
-        "ratingStar": "5",
-        "shopName": "Ugreen Official Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lzop7krz80iq1e",
-        "productLink": "https://shopee.com.br/product/218996205/25391678999",
-        "offerLink": "https://s.shopee.com.br/20ueybJxLd"
-      }
-    },
-    {
       "id": "23394267693",
       "name": "Shampoo Escurecedor Cabelos Brancos Tonalizante Colored 300ml Efeito 100% Natural Super Resultado",
       "price": 14.99,
@@ -1262,8 +1235,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm5-lln14dkqwcs917",
         "productLink": "https://shopee.com.br/product/504210070/22492388439",
         "offerLink": "https://s.shopee.com.br/60Ql4IUvob"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "45364806848",
