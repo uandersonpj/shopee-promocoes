@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T22:30:58.684541+00:00",
-  "total": 1126,
+  "updated_at": "2026-08-14T22:50:14.333627+00:00",
+  "total": 1127,
   "products": [
     {
       "id": "23698808886",
@@ -893,8 +893,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-ml7p0maii51ie2",
         "productLink": "https://shopee.com.br/product/1258087913/19097999326",
         "offerLink": "https://s.shopee.com.br/6VN1gKs9s7"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "53604373378",
@@ -2508,7 +2507,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8226r-mhj966enugw06c",
         "productLink": "https://shopee.com.br/product/698887220/58251069728",
         "offerLink": "https://s.shopee.com.br/2qTjITyaPe"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22294903006",
@@ -8194,6 +8194,35 @@
       "_last_price": null
     },
     {
+      "id": "54358077814",
+      "name": "Placa de Vídeo NVIDIA GeForce PALIT RTX5060 8GB  INFINITY 2 OC GDDR7 - 0120111-01",
+      "price": 2549.0,
+      "original_price": 6069.05,
+      "discount": 58.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-81zvt-mn4mo8abeaki18",
+      "link": "https://s.shopee.com.br/2gAJ7EuhAU",
+      "rating": "5",
+      "sales": 118,
+      "shop": "TNTinfoLoja",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 54358077814,
+        "productName": "Placa de Vídeo NVIDIA GeForce PALIT RTX5060 8GB  INFINITY 2 OC GDDR7 - 0120111-01",
+        "price": "2549",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.03",
+        "sales": 118,
+        "ratingStar": "5",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvt-mn4mo8abeaki18",
+        "productLink": "https://shopee.com.br/product/344381236/54358077814",
+        "offerLink": "https://s.shopee.com.br/2gAJ7EuhAU"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21699672982",
       "name": "Teclado e Mouse Kit Gamer semi mecanico RGB LED USB ABNT2 Profissional para PC Notebook",
       "price": 49.9,
@@ -11015,7 +11044,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-824i0-mpmcje4scyyqd6",
       "link": "https://s.shopee.com.br/9pdTdJYkHM",
-      "rating": "4.6",
+      "rating": "4.7",
       "sales": 86,
       "shop": "Rei das Mantas",
       "category": "boné pesca",
@@ -11027,7 +11056,7 @@
         "priceDiscountRate": 54,
         "commissionRate": "0.03",
         "sales": 86,
-        "ratingStar": "4.6",
+        "ratingStar": "4.7",
         "shopName": "Rei das Mantas",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i0-mpmcje4scyyqd6",
         "productLink": "https://shopee.com.br/product/879395969/58212763278",
