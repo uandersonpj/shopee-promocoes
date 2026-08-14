@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T07:19:09.475790+00:00",
+  "updated_at": "2026-08-14T07:38:02.729046+00:00",
   "total": 1133,
   "products": [
     {
@@ -7625,7 +7625,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqdi4h8b6wao80",
         "productLink": "https://shopee.com.br/product/1397772996/29842873054",
         "offerLink": "https://s.shopee.com.br/8AVFfRObQU"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22895122179",
@@ -21257,8 +21258,8 @@
     {
       "id": "22897703144",
       "name": "vara de pesca Joyfox  Vara Molinete1,8m + Carretel Molinete Dc7000 12+1 Rolamentos",
-      "price": 109.0,
-      "original_price": 181.67,
+      "price": 119.0,
+      "original_price": 198.33,
       "discount": 40.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m81eurdcjlzl56",
@@ -21271,7 +21272,7 @@
       "_item": {
         "itemId": 22897703144,
         "productName": "vara de pesca Joyfox  Vara Molinete1,8m + Carretel Molinete Dc7000 12+1 Rolamentos",
-        "price": "109",
+        "price": "119",
         "priceDiscountRate": 40,
         "commissionRate": "0.07",
         "sales": 402,
