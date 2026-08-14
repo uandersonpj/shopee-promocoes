@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T17:59:33.903888+00:00",
-  "total": 1125,
+  "updated_at": "2026-08-14T18:18:41.963523+00:00",
+  "total": 1126,
   "products": [
     {
       "id": "23698808886",
@@ -57,7 +57,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mpf8btxmai2u62",
         "productLink": "https://shopee.com.br/product/1739671384/58210104632",
         "offerLink": "https://s.shopee.com.br/8KofriKRfY"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "24683837124",
@@ -628,35 +629,6 @@
       "_last_price": null
     },
     {
-      "id": "42053293183",
-      "name": "5-1 Pcs Vara Eletrônica Float Stick-De Pesca Rápida Portátil-Flutuador Removível LED Noturna Leve-Equipamento Acessórios",
-      "price": 9.09,
-      "original_price": 53.47,
-      "discount": 83.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rav6-mam6kr3ta2ci84",
-      "link": "https://s.shopee.com.br/4LIZfqVz7I",
-      "rating": "4.8",
-      "sales": 8,
-      "shop": "AllVerse Shop",
-      "category": "flutuador pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42053293183,
-        "productName": "5-1 Pcs Vara Eletrônica Float Stick-De Pesca Rápida Portátil-Flutuador Removível LED Noturna Leve-Equipamento Acessórios",
-        "price": "9.09",
-        "priceDiscountRate": 83,
-        "commissionRate": "0.07",
-        "sales": 8,
-        "ratingStar": "4.8",
-        "shopName": "AllVerse Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rav6-mam6kr3ta2ci84",
-        "productLink": "https://shopee.com.br/product/207581659/42053293183",
-        "offerLink": "https://s.shopee.com.br/4LIZfqVz7I"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23219268297",
       "name": "Creatina Integral medica Monohidratada PURA 300g",
       "price": 42.99,
@@ -740,8 +712,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwywmwdl0qvce",
         "productLink": "https://shopee.com.br/product/1298416721/23399029450",
         "offerLink": "https://s.shopee.com.br/2Vqsv8ck2z"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58258026087",
@@ -2307,35 +2278,6 @@
       "_last_price": null
     },
     {
-      "id": "9212570285",
-      "name": "Creatina Suplemento Monohidratada em Pó 100% Pura Importada - Soldiers Nutrition",
-      "price": 24.9,
-      "original_price": 92.22,
-      "discount": 73.0,
-      "commission": 0.18,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mpwm1rqctatfc5",
-      "link": "https://s.shopee.com.br/BSy8kAemv",
-      "rating": "4.9",
-      "sales": 28706,
-      "shop": "Soldiers Nutrition",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 9212570285,
-        "productName": "Creatina Suplemento Monohidratada em Pó 100% Pura Importada - Soldiers Nutrition",
-        "price": "24.9",
-        "priceDiscountRate": 73,
-        "commissionRate": "0.18",
-        "sales": 28706,
-        "ratingStar": "4.9",
-        "shopName": "Soldiers Nutrition",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpwm1rqctatfc5",
-        "productLink": "https://shopee.com.br/product/347988064/9212570285",
-        "offerLink": "https://s.shopee.com.br/BSy8kAemv"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23694958324",
       "name": "Coleira para Cães e Gatos com Sino – Ajustável, Confortável e com Trava de Segurança – Nylon",
       "price": 7.99,
@@ -2390,6 +2332,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-825a9-mriajd1gvz7w54",
         "productLink": "https://shopee.com.br/product/1006215031/25072829729",
         "offerLink": "https://s.shopee.com.br/30n9Vu5Ty7"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "9212570285",
+      "name": "Creatina Suplemento Monohidratada em Pó 100% Pura Importada - Soldiers Nutrition",
+      "price": 24.9,
+      "original_price": 88.93,
+      "discount": 72.0,
+      "commission": 0.18,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mpwm1rqctatfc5",
+      "link": "https://s.shopee.com.br/BSy8kAemv",
+      "rating": "4.9",
+      "sales": 28706,
+      "shop": "Soldiers Nutrition",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 9212570285,
+        "productName": "Creatina Suplemento Monohidratada em Pó 100% Pura Importada - Soldiers Nutrition",
+        "price": "24.9",
+        "priceDiscountRate": 72,
+        "commissionRate": "0.18",
+        "sales": 28706,
+        "ratingStar": "4.9",
+        "shopName": "Soldiers Nutrition",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpwm1rqctatfc5",
+        "productLink": "https://shopee.com.br/product/347988064/9212570285",
+        "offerLink": "https://s.shopee.com.br/BSy8kAemv"
       },
       "_last_price": null
     },
@@ -7940,7 +7911,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mawkl7entdq114",
       "link": "https://s.shopee.com.br/3B6ZiAAOHt",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 3325,
       "shop": "Cherrygo1.br",
       "category": "monitor",
@@ -7952,7 +7923,7 @@
         "priceDiscountRate": 59,
         "commissionRate": "0.03",
         "sales": 3325,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Cherrygo1.br",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mawkl7entdq114",
         "productLink": "https://shopee.com.br/product/1259086167/43754234043",
@@ -14254,6 +14225,35 @@
       "_last_price": null
     },
     {
+      "id": "19403621266",
+      "name": "100 Pçs/Caixa Cascos De Aço Carbono Isca De Peixe Jig Pesca Círculo Acessórios Da Carpa Equipamentos De Engrenagem Face Com Perfurado",
+      "price": 11.0,
+      "original_price": 22.0,
+      "discount": 50.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/1f2d37be391f345f756d41a3f6a0d150",
+      "link": "https://s.shopee.com.br/50YEMmf8tj",
+      "rating": "4.6",
+      "sales": 192,
+      "shop": "NYAYEO Vida ao ar livre",
+      "category": "caixa de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19403621266,
+        "productName": "100 Pçs/Caixa Cascos De Aço Carbono Isca De Peixe Jig Pesca Círculo Acessórios Da Carpa Equipamentos De Engrenagem Face Com Perfurado",
+        "price": "11",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.07",
+        "sales": 192,
+        "ratingStar": "4.6",
+        "shopName": "NYAYEO Vida ao ar livre",
+        "imageUrl": "https://cf.shopee.com.br/file/1f2d37be391f345f756d41a3f6a0d150",
+        "productLink": "https://shopee.com.br/product/654851978/19403621266",
+        "offerLink": "https://s.shopee.com.br/50YEMmf8tj"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23697466250",
       "name": "Canivete Esportivo Automático Caça Pesca 22cm",
       "price": 19.99,
@@ -17875,6 +17875,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
         "productLink": "https://shopee.com.br/product/1627792845/54764399038",
         "offerLink": "https://s.shopee.com.br/LmOKypdik"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "41131242539",
+      "name": "Kit Pia Cozinha Organizador Completo Luxo Lixeira 5L Porta Detergente Porta Esponja Rodinho Moderno",
+      "price": 22.9,
+      "original_price": 41.64,
+      "discount": 45.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823r3-mor0whudq1ose3",
+      "link": "https://s.shopee.com.br/5q7MxrHRoh",
+      "rating": "4.8",
+      "sales": 1669,
+      "shop": "Win.Commerce",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41131242539,
+        "productName": "Kit Pia Cozinha Organizador Completo Luxo Lixeira 5L Porta Detergente Porta Esponja Rodinho Moderno",
+        "price": "22.9",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 1669,
+        "ratingStar": "4.8",
+        "shopName": "Win.Commerce",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r3-mor0whudq1ose3",
+        "productLink": "https://shopee.com.br/product/849977839/41131242539",
+        "offerLink": "https://s.shopee.com.br/5q7MxrHRoh"
       },
       "_last_price": null
     },
@@ -22171,35 +22200,6 @@
       "_last_price": null
     },
     {
-      "id": "7278628761",
-      "name": "Whey Protein Concentrado 1kg 100% Importado Soldiers Nutrition Suplemento Proteína Muscular",
-      "price": 149.9,
-      "original_price": 241.77,
-      "discount": 38.0,
-      "commission": 0.18,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcau46lb0eej3e",
-      "link": "https://s.shopee.com.br/9pdTeVIG2e",
-      "rating": "4.9",
-      "sales": 2544,
-      "shop": "Soldiers Nutrition",
-      "category": "whey protein",
-      "source": "shopee",
-      "_item": {
-        "itemId": 7278628761,
-        "productName": "Whey Protein Concentrado 1kg 100% Importado Soldiers Nutrition Suplemento Proteína Muscular",
-        "price": "149.9",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.18",
-        "sales": 2544,
-        "ratingStar": "4.9",
-        "shopName": "Soldiers Nutrition",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcau46lb0eej3e",
-        "productLink": "https://shopee.com.br/product/347988064/7278628761",
-        "offerLink": "https://s.shopee.com.br/9pdTeVIG2e"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58252717058",
       "name": "kit 3 Mini Band Everlast Faixa Elástica Treino Glúteos Pernas Academia Pilates Musculação Fitness Fisio Resistência",
       "price": 48.9,
@@ -24554,7 +24554,7 @@
       "price": 19.61,
       "original_price": 29.71,
       "discount": 34.0,
-      "commission": 0.06,
+      "commission": 0.1,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rd3n-lw5vik3i483va6",
       "link": "https://s.shopee.com.br/6VN1gM0Lbk",
       "rating": "4.9",
@@ -24567,7 +24567,7 @@
         "productName": "Protetor Solar Facial Acnezil FPS 30 Oil Control 60g",
         "price": "19.61",
         "priceDiscountRate": 34,
-        "commissionRate": "0.06",
+        "commissionRate": "0.1",
         "sales": 2686,
         "ratingStar": "4.9",
         "shopName": "Droga Clara",
@@ -26126,7 +26126,7 @@
       "rating": "4.6",
       "sales": 178,
       "shop": "Max Pescas",
-      "category": "caixa de pesca",
+      "category": "chumbada",
       "source": "shopee",
       "_item": {
         "itemId": 3166644344,
@@ -26430,6 +26430,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mlh2u5rxe9dwae",
         "productLink": "https://shopee.com.br/product/440437058/22999369333",
         "offerLink": "https://s.shopee.com.br/7fYzXYY9ak"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "7278628761",
+      "name": "Whey Protein Concentrado 1kg 100% Importado Soldiers Nutrition Suplemento Proteína Muscular",
+      "price": 168.9,
+      "original_price": 241.29,
+      "discount": 30.0,
+      "commission": 0.18,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcau46lb0eej3e",
+      "link": "https://s.shopee.com.br/9pdTeVIG2e",
+      "rating": "4.9",
+      "sales": 2544,
+      "shop": "Soldiers Nutrition",
+      "category": "whey protein",
+      "source": "shopee",
+      "_item": {
+        "itemId": 7278628761,
+        "productName": "Whey Protein Concentrado 1kg 100% Importado Soldiers Nutrition Suplemento Proteína Muscular",
+        "price": "168.9",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.18",
+        "sales": 2544,
+        "ratingStar": "4.9",
+        "shopName": "Soldiers Nutrition",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcau46lb0eej3e",
+        "productLink": "https://shopee.com.br/product/347988064/7278628761",
+        "offerLink": "https://s.shopee.com.br/9pdTeVIG2e"
       },
       "_last_price": null
     },
@@ -27445,6 +27474,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mlp37yq2ldza90",
         "productLink": "https://shopee.com.br/product/763085885/45557096111",
         "offerLink": "https://s.shopee.com.br/8V862si5lI"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "17737293427",
+      "name": "150 Pcs De Borracha multicolor Stopper Para Feijão Espaço Oval Forma Boias Fixas Bobber Flutuador Paradas De Pesca Equipamento",
+      "price": 10.97,
+      "original_price": 15.24,
+      "discount": 28.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/afbd3d1df9bae694ce7993202bf5f515",
+      "link": "https://s.shopee.com.br/80Brjwa52Z",
+      "rating": "4.8",
+      "sales": 15,
+      "shop": "Rompin Sports.BR",
+      "category": "flutuador pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 17737293427,
+        "productName": "150 Pcs De Borracha multicolor Stopper Para Feijão Espaço Oval Forma Boias Fixas Bobber Flutuador Paradas De Pesca Equipamento",
+        "price": "10.97",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.03",
+        "sales": 15,
+        "ratingStar": "4.8",
+        "shopName": "Rompin Sports.BR",
+        "imageUrl": "https://cf.shopee.com.br/file/afbd3d1df9bae694ce7993202bf5f515",
+        "productLink": "https://shopee.com.br/product/264725321/17737293427",
+        "offerLink": "https://s.shopee.com.br/80Brjwa52Z"
       },
       "_last_price": null
     },
@@ -32375,35 +32433,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnddp09ufn4fe5",
         "productLink": "https://shopee.com.br/product/534023108/19748645144",
         "offerLink": "https://s.shopee.com.br/7psRa4bS8b"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "13613839850",
-      "name": "Lava Roupas Liquido Baby Soft Max Performance Azul - 3l",
-      "price": 27.9,
-      "original_price": 32.82,
-      "discount": 15.0,
-      "commission": 0.16,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5kdrubq70jp86",
-      "link": "https://s.shopee.com.br/2BE2zOgtkc",
-      "rating": "4.9",
-      "sales": 2390,
-      "shop": "Casa de Gê",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 13613839850,
-        "productName": "Lava Roupas Liquido Baby Soft Max Performance Azul - 3l",
-        "price": "27.9",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.16",
-        "sales": 2390,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5kdrubq70jp86",
-        "productLink": "https://shopee.com.br/product/534023108/13613839850",
-        "offerLink": "https://s.shopee.com.br/2BE2zOgtkc"
       },
       "_last_price": null
     },
