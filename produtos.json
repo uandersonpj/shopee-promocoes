@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T22:50:14.333627+00:00",
-  "total": 1127,
+  "updated_at": "2026-08-14T23:09:26.366326+00:00",
+  "total": 1126,
   "products": [
     {
       "id": "23698808886",
@@ -463,7 +463,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260c-mlw5gdmlji8493",
         "productLink": "https://shopee.com.br/product/1459307687/52905774499",
         "offerLink": "https://s.shopee.com.br/3g2qJDVirE"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "43479061221",
@@ -733,7 +734,7 @@
       "commission": 0.13,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mmimeaq4koav45",
       "link": "https://s.shopee.com.br/8pkwRWfjyw",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 145,
       "shop": "Fit Pico",
       "category": "luva pesca",
@@ -745,7 +746,7 @@
         "priceDiscountRate": 82,
         "commissionRate": "0.13",
         "sales": 145,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Fit Pico",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mmimeaq4koav45",
         "productLink": "https://shopee.com.br/product/1748172680/58258026087",
@@ -950,8 +951,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
         "productLink": "https://shopee.com.br/product/1266325318/21897981294",
         "offerLink": "https://s.shopee.com.br/3VjQ6qlAmD"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23294866358",
@@ -5904,6 +5904,35 @@
       "_last_price": null
     },
     {
+      "id": "41357615567",
+      "name": "Óculos De Sol Fotochromáticos Retro Quadrados Com Proteção Uv E Estrutura Leve, Ideais Para Praia, Ciclismo E viagens",
+      "price": 6.88,
+      "original_price": 18.59,
+      "discount": 63.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134301-7rffe-m9jv6vrrei7d7f",
+      "link": "https://s.shopee.com.br/904Mf2fslL",
+      "rating": "4.8",
+      "sales": 1491,
+      "shop": "Choice Oficial",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41357615567,
+        "productName": "Óculos De Sol Fotochromáticos Retro Quadrados Com Proteção Uv E Estrutura Leve, Ideais Para Praia, Ciclismo E viagens",
+        "price": "6.88",
+        "priceDiscountRate": 63,
+        "commissionRate": "0.07",
+        "sales": 1491,
+        "ratingStar": "4.8",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rffe-m9jv6vrrei7d7f",
+        "productLink": "https://shopee.com.br/product/1006215031/41357615567",
+        "offerLink": "https://s.shopee.com.br/904Mf2fslL"
+      },
+      "_last_price": null
+    },
+    {
       "id": "41809393497",
       "name": "Sougayilang Baitcasting Fishing Combo Carretel De Relação De Engrenagem De Alta Velocidade 7.2 : 1 + Vara De Fibra De Ca",
       "price": 101.2,
@@ -6341,8 +6370,8 @@
     {
       "id": "23993522162",
       "name": "Creatina Monohidratada Pura 1kg, 500g, 700g e  300g Refil - FTW",
-      "price": 45.9,
-      "original_price": 120.79,
+      "price": 64.9,
+      "original_price": 170.79,
       "discount": 62.0,
       "commission": 0.26,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf8fj8snacck60",
@@ -6355,7 +6384,7 @@
       "_item": {
         "itemId": 23993522162,
         "productName": "Creatina Monohidratada Pura 1kg, 500g, 700g e  300g Refil - FTW",
-        "price": "45.9",
+        "price": "64.9",
         "priceDiscountRate": 62,
         "commissionRate": "0.26",
         "sales": 1523,
@@ -7320,6 +7349,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mma5n89qc4jsfb",
         "productLink": "https://shopee.com.br/product/1470360375/27738491163",
         "offerLink": "https://s.shopee.com.br/4qEnhFYVaH"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22398897653",
+      "name": "Kit Coala Laundry 3 Amaciantes - Chá Branco 1L",
+      "price": 27.58,
+      "original_price": 68.95,
+      "discount": 60.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81zu4-mks9boy67bib69",
+      "link": "https://s.shopee.com.br/7Kw8fqgNrE",
+      "rating": "4.9",
+      "sales": 3424,
+      "shop": "Coala Essências Oficial",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22398897653,
+        "productName": "Kit Coala Laundry 3 Amaciantes - Chá Branco 1L",
+        "price": "27.58",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.13",
+        "sales": 3424,
+        "ratingStar": "4.9",
+        "shopName": "Coala Essências Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu4-mks9boy67bib69",
+        "productLink": "https://shopee.com.br/product/1177903362/22398897653",
+        "offerLink": "https://s.shopee.com.br/7Kw8fqgNrE"
       },
       "_last_price": null
     },
@@ -12233,7 +12291,7 @@
       "commission": 0.13,
       "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md4hll4oyux787",
       "link": "https://s.shopee.com.br/7fYz3LTWos",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 294,
       "shop": "YJ Fishing Tackle Shop",
       "category": "vara telescopica",
@@ -12245,7 +12303,7 @@
         "priceDiscountRate": 52,
         "commissionRate": "0.13",
         "sales": 294,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "YJ Fishing Tackle Shop",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md4hll4oyux787",
         "productLink": "https://shopee.com.br/product/1550289846/41661864285",
@@ -14773,35 +14831,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98p-llapzzxcekp7e0",
         "productLink": "https://shopee.com.br/product/763032428/21978586884",
         "offerLink": "https://s.shopee.com.br/8V86478aVV"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "27736492717",
-      "name": "Óculos De Sol Masculinos Retrô Quadrados De Meia Armação – Templos Leves De Grãos De Madeira Com Proteção UV Para Ativid",
-      "price": 10.86,
-      "original_price": 21.29,
-      "discount": 49.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvm-mcao0jdc5j89bc",
-      "link": "https://s.shopee.com.br/3qMIktTLcs",
-      "rating": "4.8",
-      "sales": 1481,
-      "shop": "Choice Oficial",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 27736492717,
-        "productName": "Óculos De Sol Masculinos Retrô Quadrados De Meia Armação – Templos Leves De Grãos De Madeira Com Proteção UV Para Ativid",
-        "price": "10.86",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.07",
-        "sales": 1481,
-        "ratingStar": "4.8",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvm-mcao0jdc5j89bc",
-        "productLink": "https://shopee.com.br/product/1006215031/27736492717",
-        "offerLink": "https://s.shopee.com.br/3qMIktTLcs"
       },
       "_last_price": null
     },
@@ -19703,35 +19732,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mrj5yd09nxtw88",
         "productLink": "https://shopee.com.br/product/349322996/22794061718",
         "offerLink": "https://s.shopee.com.br/1LevWolpgm"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22398897653",
-      "name": "Kit Coala Laundry 3 Amaciantes - Chá Branco 1L",
-      "price": 39.99,
-      "original_price": 68.95,
-      "discount": 42.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81zu4-mks9boy67bib69",
-      "link": "https://s.shopee.com.br/7Kw8fqgNrE",
-      "rating": "4.9",
-      "sales": 3424,
-      "shop": "Coala Essências Oficial",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22398897653,
-        "productName": "Kit Coala Laundry 3 Amaciantes - Chá Branco 1L",
-        "price": "39.99",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.13",
-        "sales": 3424,
-        "ratingStar": "4.9",
-        "shopName": "Coala Essências Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu4-mks9boy67bib69",
-        "productLink": "https://shopee.com.br/product/1177903362/22398897653",
-        "offerLink": "https://s.shopee.com.br/7Kw8fqgNrE"
       },
       "_last_price": null
     },
@@ -26145,6 +26145,35 @@
       "_last_price": null
     },
     {
+      "id": "40004443645",
+      "name": "Placa de Vídeo NVIDIA GeForce MSI RTX5060 8GB GDDR7 128BITS SHADOW 2X OC - 912-V537-037",
+      "price": 2510.07,
+      "original_price": 3585.81,
+      "discount": 30.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxk-mdqd16pct8kk29",
+      "link": "https://s.shopee.com.br/1qbC7hxrrB",
+      "rating": "4.9",
+      "sales": 222,
+      "shop": "TNTinfoLoja",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 40004443645,
+        "productName": "Placa de Vídeo NVIDIA GeForce MSI RTX5060 8GB GDDR7 128BITS SHADOW 2X OC - 912-V537-037",
+        "price": "2510.07",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.03",
+        "sales": 222,
+        "ratingStar": "4.9",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxk-mdqd16pct8kk29",
+        "productLink": "https://shopee.com.br/product/344381236/40004443645",
+        "offerLink": "https://s.shopee.com.br/1qbC7hxrrB"
+      },
+      "_last_price": null
+    },
+    {
       "id": "43078858558",
       "name": "Kit Mobilador Gamer Completo Teclado RGB Mouse Gamer Mouse Pad Hub USB C Tripé Celular Free Fire",
       "price": 52.89,
@@ -27450,35 +27479,6 @@
       "_last_price": null
     },
     {
-      "id": "19399334207",
-      "name": "SSD M.2 NVMe 2280 KNUP SpeedRam PCIe 3.0 128GB 256GB 512GB Para PC Notebook 3D NAND",
-      "price": 219.99,
-      "original_price": 301.36,
-      "discount": 27.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mr21kjtx3i8477",
-      "link": "https://s.shopee.com.br/4LIXnoY6He",
-      "rating": "4.9",
-      "sales": 20,
-      "shop": "andrezhou479",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19399334207,
-        "productName": "SSD M.2 NVMe 2280 KNUP SpeedRam PCIe 3.0 128GB 256GB 512GB Para PC Notebook 3D NAND",
-        "price": "219.99",
-        "priceDiscountRate": 27,
-        "commissionRate": "0.03",
-        "sales": 20,
-        "ratingStar": "4.9",
-        "shopName": "andrezhou479",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mr21kjtx3i8477",
-        "productLink": "https://shopee.com.br/product/1147822326/19399334207",
-        "offerLink": "https://s.shopee.com.br/4LIXnoY6He"
-      },
-      "_last_price": null
-    },
-    {
       "id": "57060412908",
       "name": "Mouse Gamer Leve Attack Shark X11 SE com Três Modos, Vida Útil dos Botões HUANO de 20 Milhões, Sensor PAW3311, 63g,",
       "price": 99.71,
@@ -28113,35 +28113,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7reph-m81n33b5b2qf35",
         "productLink": "https://shopee.com.br/product/935991633/43560768226",
         "offerLink": "https://s.shopee.com.br/LmP2j2eoH"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "40004443645",
-      "name": "Placa de Vídeo NVIDIA GeForce MSI RTX5060 8GB GDDR7 128BITS SHADOW 2X OC - 912-V537-037",
-      "price": 2699.0,
-      "original_price": 3598.67,
-      "discount": 25.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxk-mdqd16pct8kk29",
-      "link": "https://s.shopee.com.br/1qbC7hxrrB",
-      "rating": "4.9",
-      "sales": 222,
-      "shop": "TNTinfoLoja",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40004443645,
-        "productName": "Placa de Vídeo NVIDIA GeForce MSI RTX5060 8GB GDDR7 128BITS SHADOW 2X OC - 912-V537-037",
-        "price": "2699",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.03",
-        "sales": 222,
-        "ratingStar": "4.9",
-        "shopName": "TNTinfoLoja",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxk-mdqd16pct8kk29",
-        "productLink": "https://shopee.com.br/product/344381236/40004443645",
-        "offerLink": "https://s.shopee.com.br/1qbC7hxrrB"
       },
       "_last_price": null
     },
@@ -29041,6 +29012,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxz-m08rn05paasuf1",
         "productLink": "https://shopee.com.br/product/1218728182/23497638085",
         "offerLink": "https://s.shopee.com.br/8fRWGTFGX4"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19399334207",
+      "name": "SSD M.2 NVMe 2280 KNUP SpeedRam PCIe 3.0 128GB 256GB 512GB Para PC Notebook 3D NAND",
+      "price": 229.99,
+      "original_price": 298.69,
+      "discount": 23.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mr21kjtx3i8477",
+      "link": "https://s.shopee.com.br/4LIXnoY6He",
+      "rating": "4.9",
+      "sales": 20,
+      "shop": "andrezhou479",
+      "category": "ssd nvme",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19399334207,
+        "productName": "SSD M.2 NVMe 2280 KNUP SpeedRam PCIe 3.0 128GB 256GB 512GB Para PC Notebook 3D NAND",
+        "price": "229.99",
+        "priceDiscountRate": 23,
+        "commissionRate": "0.03",
+        "sales": 20,
+        "ratingStar": "4.9",
+        "shopName": "andrezhou479",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mr21kjtx3i8477",
+        "productLink": "https://shopee.com.br/product/1147822326/19399334207",
+        "offerLink": "https://s.shopee.com.br/4LIXnoY6He"
       },
       "_last_price": null
     },
@@ -31278,35 +31278,6 @@
       "_last_price": null
     },
     {
-      "id": "12823128886",
-      "name": "Creatina Monohidratada Integralmedica 60 cápsulas",
-      "price": 22.13,
-      "original_price": 26.99,
-      "discount": 18.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7renj-m2ckuwis1x9y28",
-      "link": "https://s.shopee.com.br/4qEnhJstK1",
-      "rating": "4.9",
-      "sales": 1637,
-      "shop": "Integralmedica",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 12823128886,
-        "productName": "Creatina Monohidratada Integralmedica 60 cápsulas",
-        "price": "22.13",
-        "priceDiscountRate": 18,
-        "commissionRate": "0.03",
-        "sales": 1637,
-        "ratingStar": "4.9",
-        "shopName": "Integralmedica",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7renj-m2ckuwis1x9y28",
-        "productLink": "https://shopee.com.br/product/544014438/12823128886",
-        "offerLink": "https://s.shopee.com.br/4qEnhJstK1"
-      },
-      "_last_price": null
-    },
-    {
       "id": "21399703901",
       "name": "Kit Power Tube Elastico Musculação Crossfit pilates yoga fitness 11 Itens Funcional. - ZOEX",
       "price": 24.5,
@@ -31315,7 +31286,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-822xi-mo72sr1wyivcd4",
       "link": "https://s.shopee.com.br/5ArgLHmA3r",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 820,
       "shop": "ZOZO COM.",
       "category": "elastico musculacao",
@@ -31327,7 +31298,7 @@
         "priceDiscountRate": 18,
         "commissionRate": "0.03",
         "sales": 820,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "ZOZO COM.",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xi-mo72sr1wyivcd4",
         "productLink": "https://shopee.com.br/product/1361502995/21399703901",
