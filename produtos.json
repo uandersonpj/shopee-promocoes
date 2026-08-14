@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T20:54:09.050358+00:00",
-  "total": 1127,
+  "updated_at": "2026-08-14T21:13:30.638074+00:00",
+  "total": 1126,
   "products": [
     {
       "id": "23698808886",
@@ -114,7 +114,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qo-moodqvbtpo8yf2",
         "productLink": "https://shopee.com.br/product/1571156019/52011120312",
         "offerLink": "https://s.shopee.com.br/2gAJ7QlRrQ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "13792180691",
@@ -2450,8 +2451,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
         "productLink": "https://shopee.com.br/product/1006215031/25074712287",
         "offerLink": "https://s.shopee.com.br/1127D85Gxq"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "40113665806",
@@ -3638,35 +3638,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zte-mmiy7u0wlgqw8c",
         "productLink": "https://shopee.com.br/product/391739739/20299250319",
         "offerLink": "https://s.shopee.com.br/2qTjJYBexr"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20197677108",
-      "name": "Monitor digital de pressão arterial de braço totalmente automático",
-      "price": 38.99,
-      "original_price": 121.84,
-      "discount": 68.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m9amh0ddee9sc4",
-      "link": "https://s.shopee.com.br/qievsJH1f",
-      "rating": "4.8",
-      "sales": 2376,
-      "shop": "Ming.store",
-      "category": "monitor",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20197677108,
-        "productName": "Monitor digital de pressão arterial de braço totalmente automático",
-        "price": "38.99",
-        "priceDiscountRate": 68,
-        "commissionRate": "0.03",
-        "sales": 2376,
-        "ratingStar": "4.8",
-        "shopName": "Ming.store",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m9amh0ddee9sc4",
-        "productLink": "https://shopee.com.br/product/526625785/20197677108",
-        "offerLink": "https://s.shopee.com.br/qievsJH1f"
       },
       "_last_price": null
     },
@@ -5900,35 +5871,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a9-mr8gtwdet05dbe",
         "productLink": "https://shopee.com.br/product/1006215031/49953222946",
         "offerLink": "https://s.shopee.com.br/9ANmrLfFQM"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "41357615567",
-      "name": "Óculos De Sol Fotochromáticos Retro Quadrados Com Proteção Uv E Estrutura Leve, Ideais Para Praia, Ciclismo E viagens",
-      "price": 6.88,
-      "original_price": 18.59,
-      "discount": 63.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134301-7rffe-m9jv6vrrei7d7f",
-      "link": "https://s.shopee.com.br/904Mf2fslL",
-      "rating": "4.8",
-      "sales": 1491,
-      "shop": "Choice Oficial",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41357615567,
-        "productName": "Óculos De Sol Fotochromáticos Retro Quadrados Com Proteção Uv E Estrutura Leve, Ideais Para Praia, Ciclismo E viagens",
-        "price": "6.88",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.07",
-        "sales": 1491,
-        "ratingStar": "4.8",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rffe-m9jv6vrrei7d7f",
-        "productLink": "https://shopee.com.br/product/1006215031/41357615567",
-        "offerLink": "https://s.shopee.com.br/904Mf2fslL"
       },
       "_last_price": null
     },
@@ -14778,6 +14720,35 @@
       "_last_price": null
     },
     {
+      "id": "27736492717",
+      "name": "Óculos De Sol Masculinos Retrô Quadrados De Meia Armação – Templos Leves De Grãos De Madeira Com Proteção UV Para Ativid",
+      "price": 10.86,
+      "original_price": 21.29,
+      "discount": 49.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvm-mcao0jdc5j89bc",
+      "link": "https://s.shopee.com.br/3qMIktTLcs",
+      "rating": "4.8",
+      "sales": 1481,
+      "shop": "Choice Oficial",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 27736492717,
+        "productName": "Óculos De Sol Masculinos Retrô Quadrados De Meia Armação – Templos Leves De Grãos De Madeira Com Proteção UV Para Ativid",
+        "price": "10.86",
+        "priceDiscountRate": 49,
+        "commissionRate": "0.07",
+        "sales": 1481,
+        "ratingStar": "4.8",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvm-mcao0jdc5j89bc",
+        "productLink": "https://shopee.com.br/product/1006215031/27736492717",
+        "offerLink": "https://s.shopee.com.br/3qMIktTLcs"
+      },
+      "_last_price": null
+    },
+    {
       "id": "48857230908",
       "name": "Vara de pesca telescópica, suave e ultraleve, ideal para diversas situações, com comprimentos de 2,4 m e 3,6 m",
       "price": 19.77,
@@ -22120,7 +22091,7 @@
       "price": 17.49,
       "original_price": 28.21,
       "discount": 38.0,
-      "commission": 0.07,
+      "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7qvey-liuwv3fapitr32",
       "link": "https://s.shopee.com.br/gPGz13ICK",
       "rating": "4.7",
@@ -22133,7 +22104,7 @@
         "productName": "Elástico Treino Extensor Exercício Em Casa Fitness Musculação com Apoio para os Pés",
         "price": "17.49",
         "priceDiscountRate": 38,
-        "commissionRate": "0.07",
+        "commissionRate": "0.03",
         "sales": 135,
         "ratingStar": "4.7",
         "shopName": "VFAUOSIT",
