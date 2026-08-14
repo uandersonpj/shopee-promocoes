@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T04:25:08.724430+00:00",
-  "total": 1133,
+  "updated_at": "2026-08-14T04:44:06.624123+00:00",
+  "total": 1134,
   "products": [
     {
       "id": "23698808886",
@@ -2752,7 +2752,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mlffathukzr9f4",
         "productLink": "https://shopee.com.br/product/1232299933/54850610196",
         "offerLink": "https://s.shopee.com.br/5LB4IH7i6x"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22793679889",
@@ -8574,6 +8575,35 @@
       "_last_price": null
     },
     {
+      "id": "23394445493",
+      "name": "KIT 50/100/150/200 Formas Assadeira Papel Manteiga Descartável Para Air fryer Sem Sujeira Leo Store BR Leo Store BR",
+      "price": 13.98,
+      "original_price": 33.29,
+      "discount": 58.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfcy0le48qh189",
+      "link": "https://s.shopee.com.br/5VUVHNuW0z",
+      "rating": "4.8",
+      "sales": 1926,
+      "shop": "Win  ",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23394445493,
+        "productName": "KIT 50/100/150/200 Formas Assadeira Papel Manteiga Descartável Para Air fryer Sem Sujeira Leo Store BR Leo Store BR",
+        "price": "13.98",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.03",
+        "sales": 1926,
+        "ratingStar": "4.8",
+        "shopName": "Win  ",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfcy0le48qh189",
+        "productLink": "https://shopee.com.br/product/405617888/23394445493",
+        "offerLink": "https://s.shopee.com.br/5VUVHNuW0z"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22999454687",
       "name": "Mini Liquidificador Portátil 400ml 6 Lâminas Recarregável USB Mixer Suco Shake",
       "price": 32.9,
@@ -10745,35 +10775,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mosdi0wi3sat12",
         "productLink": "https://shopee.com.br/product/1627792845/47811321649",
         "offerLink": "https://s.shopee.com.br/5fnugmmjF8"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "29343102973",
-      "name": "Dispenser  Lavanderia Mantimentos Cerais Detergente/Produtos Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha Flow <OU>",
-      "price": 31.15,
-      "original_price": 67.72,
-      "discount": 54.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
-      "link": "https://s.shopee.com.br/LmOo1nsTJ",
-      "rating": "4.9",
-      "sales": 2623,
-      "shop": "GP HOME",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 29343102973,
-        "productName": "Dispenser  Lavanderia Mantimentos Cerais Detergente/Produtos Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha Flow <OU>",
-        "price": "31.15",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.11",
-        "sales": 2623,
-        "ratingStar": "4.9",
-        "shopName": "GP HOME",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
-        "productLink": "https://shopee.com.br/product/1270189717/29343102973",
-        "offerLink": "https://s.shopee.com.br/LmOo1nsTJ"
       },
       "_last_price": null
     },
@@ -13354,6 +13355,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mq6ls0reurcz92",
         "productLink": "https://shopee.com.br/product/316557325/22992915236",
         "offerLink": "https://s.shopee.com.br/3qMGVPthxz"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "29343102973",
+      "name": "Dispenser  Lavanderia Mantimentos Cerais Detergente/Produtos Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha Flow <OU>",
+      "price": 31.15,
+      "original_price": 62.3,
+      "discount": 50.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
+      "link": "https://s.shopee.com.br/LmOo1nsTJ",
+      "rating": "4.9",
+      "sales": 2623,
+      "shop": "GP HOME",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 29343102973,
+        "productName": "Dispenser  Lavanderia Mantimentos Cerais Detergente/Produtos Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha Flow <OU>",
+        "price": "31.15",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.11",
+        "sales": 2623,
+        "ratingStar": "4.9",
+        "shopName": "GP HOME",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
+        "productLink": "https://shopee.com.br/product/1270189717/29343102973",
+        "offerLink": "https://s.shopee.com.br/LmOo1nsTJ"
       },
       "_last_price": null
     },
@@ -26814,6 +26844,35 @@
       "_last_price": null
     },
     {
+      "id": "24276224233",
+      "name": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
+      "price": 30.93,
+      "original_price": 44.19,
+      "discount": 30.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
+      "link": "https://s.shopee.com.br/BSyp1h6xW",
+      "rating": "4.7",
+      "sales": 321,
+      "shop": "Choice Oficial",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 24276224233,
+        "productName": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
+        "price": "30.93",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.13",
+        "sales": 321,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
+        "productLink": "https://shopee.com.br/product/1006215031/24276224233",
+        "offerLink": "https://s.shopee.com.br/BSyp1h6xW"
+      },
+      "_last_price": null
+    },
+    {
       "id": "3956922823",
       "name": "Kit de Pesca Completo Com Estojo Organizador Anzóis Chumbadas Boias Giradores Linha Pescaria",
       "price": 34.9,
@@ -29913,35 +29972,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b1-mqz0pmbmpz4404",
         "productLink": "https://shopee.com.br/product/1459376727/56651005420",
         "offerLink": "https://s.shopee.com.br/8pkwSmEdC7"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "24276224233",
-      "name": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
-      "price": 37.04,
-      "original_price": 47.49,
-      "discount": 22.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
-      "link": "https://s.shopee.com.br/BSyp1h6xW",
-      "rating": "4.7",
-      "sales": 321,
-      "shop": "Choice Oficial",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 24276224233,
-        "productName": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
-        "price": "37.04",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.13",
-        "sales": 321,
-        "ratingStar": "4.7",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
-        "productLink": "https://shopee.com.br/product/1006215031/24276224233",
-        "offerLink": "https://s.shopee.com.br/BSyp1h6xW"
       },
       "_last_price": null
     },
