@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T17:21:04.921407+00:00",
+  "updated_at": "2026-08-14T17:40:18.846256+00:00",
   "total": 1126,
   "products": [
     {
@@ -28,7 +28,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvk-mdc4nq55wpuu08",
         "productLink": "https://shopee.com.br/product/627750190/23698808886",
         "offerLink": "https://s.shopee.com.br/2qTjmbIlWP"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58210104632",
@@ -1346,8 +1347,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mp2w11sr13ph39",
         "productLink": "https://shopee.com.br/product/959010869/58210234177",
         "offerLink": "https://s.shopee.com.br/19YduZZmD"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58261933291",
@@ -11789,35 +11789,6 @@
       "_last_price": null
     },
     {
-      "id": "29343102973",
-      "name": "Dispenser Lavanderia Mantimentos, Cerais Detergente/Produtos Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha Flow <OU>",
-      "price": 31.15,
-      "original_price": 64.9,
-      "discount": 52.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
-      "link": "https://s.shopee.com.br/LmOo1nsTJ",
-      "rating": "4.9",
-      "sales": 2623,
-      "shop": "GP HOME",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 29343102973,
-        "productName": "Dispenser Lavanderia Mantimentos, Cerais Detergente/Produtos Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha Flow <OU>",
-        "price": "31.15",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.11",
-        "sales": 2623,
-        "ratingStar": "4.9",
-        "shopName": "GP HOME",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
-        "productLink": "https://shopee.com.br/product/1270189717/29343102973",
-        "offerLink": "https://s.shopee.com.br/LmOo1nsTJ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "42574800387",
       "name": "Dispenser Lavanderia Mantimentos, Detergente, Amaciante e Produtos de Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha",
       "price": 35.35,
@@ -13264,6 +13235,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mq6ls0reurcz92",
         "productLink": "https://shopee.com.br/product/316557325/22992915236",
         "offerLink": "https://s.shopee.com.br/7VFbBScioZ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "29343102973",
+      "name": "Dispenser Lavanderia Mantimentos, Cerais Detergente/Produtos Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha Flow <OU>",
+      "price": 31.15,
+      "original_price": 62.3,
+      "discount": 50.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
+      "link": "https://s.shopee.com.br/LmOo1nsTJ",
+      "rating": "4.9",
+      "sales": 2623,
+      "shop": "GP HOME",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 29343102973,
+        "productName": "Dispenser Lavanderia Mantimentos, Cerais Detergente/Produtos Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha Flow <OU>",
+        "price": "31.15",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.11",
+        "sales": 2623,
+        "ratingStar": "4.9",
+        "shopName": "GP HOME",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
+        "productLink": "https://shopee.com.br/product/1270189717/29343102973",
+        "offerLink": "https://s.shopee.com.br/LmOo1nsTJ"
       },
       "_last_price": null
     },
@@ -18838,8 +18838,8 @@
     {
       "id": "29580380931",
       "name": "Vara De Pesca Ultraleve De Fibra De Alto Carbono UL De 1.5M/1.68M/1.8M-Fiação E Fundição De Ponta Sólida Para Em Água Do",
-      "price": 38.67,
-      "original_price": 69.05,
+      "price": 38.76,
+      "original_price": 69.21,
       "discount": 44.0,
       "commission": 0.11,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxw-mcanhemu1c1j5a",
@@ -18852,7 +18852,7 @@
       "_item": {
         "itemId": 29580380931,
         "productName": "Vara De Pesca Ultraleve De Fibra De Alto Carbono UL De 1.5M/1.68M/1.8M-Fiação E Fundição De Ponta Sólida Para Em Água Do",
-        "price": "38.67",
+        "price": "38.76",
         "priceDiscountRate": 44,
         "commissionRate": "0.11",
         "sales": 1805,
