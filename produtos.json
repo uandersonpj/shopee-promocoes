@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T05:22:59.090912+00:00",
-  "total": 1132,
+  "updated_at": "2026-08-14T05:42:05.523113+00:00",
+  "total": 1133,
   "products": [
     {
       "id": "23698808886",
@@ -3187,7 +3187,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820m4-mnkc728pehag67",
         "productLink": "https://shopee.com.br/product/372103398/23199448516",
         "offerLink": "https://s.shopee.com.br/gPEiUBuec"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22693260071",
@@ -25073,6 +25074,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mrt0d7d4g4qv29",
         "productLink": "https://shopee.com.br/product/392233183/22893636064",
         "offerLink": "https://s.shopee.com.br/8V86lX3DWd"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23498288258",
+      "name": "Kit 10 Peças Lavagem Automotiva Esponja + Escova de Pneu + Flanela + Aplicador de Cera + Luva Microfibra + Kit Pincel",
+      "price": 39.9,
+      "original_price": 59.55,
+      "discount": 33.0,
+      "commission": 0.1,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mggic6znnj7o28",
+      "link": "https://s.shopee.com.br/LmP2WYJ6J",
+      "rating": "4.9",
+      "sales": 1502,
+      "shop": "Vooma",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498288258,
+        "productName": "Kit 10 Peças Lavagem Automotiva Esponja + Escova de Pneu + Flanela + Aplicador de Cera + Luva Microfibra + Kit Pincel",
+        "price": "39.9",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.1",
+        "sales": 1502,
+        "ratingStar": "4.9",
+        "shopName": "Vooma",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mggic6znnj7o28",
+        "productLink": "https://shopee.com.br/product/313176132/23498288258",
+        "offerLink": "https://s.shopee.com.br/LmP2WYJ6J"
       },
       "_last_price": null
     },
