@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T06:27:27.022871+00:00",
+  "updated_at": "2026-08-15T06:46:19.366498+00:00",
   "total": 1131,
   "products": [
     {
@@ -1389,7 +1389,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mp21h8cy5w5i1c",
         "productLink": "https://shopee.com.br/product/1567204121/58261933291",
         "offerLink": "https://s.shopee.com.br/7AckiwVsTQ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21498310169",
@@ -5993,6 +5994,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a9-mr8gtwdet05dbe",
         "productLink": "https://shopee.com.br/product/1006215031/49953222946",
         "offerLink": "https://s.shopee.com.br/9ANmrLfFQM"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "41357615567",
+      "name": "Óculos De Sol Fotochromáticos Retro Quadrados Com Proteção Uv E Estrutura Leve, Ideais Para Praia, Ciclismo E viagens",
+      "price": 6.88,
+      "original_price": 18.59,
+      "discount": 63.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134301-7rffe-m9jv6vrrei7d7f",
+      "link": "https://s.shopee.com.br/904Mf2fslL",
+      "rating": "4.8",
+      "sales": 1491,
+      "shop": "Choice Oficial",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41357615567,
+        "productName": "Óculos De Sol Fotochromáticos Retro Quadrados Com Proteção Uv E Estrutura Leve, Ideais Para Praia, Ciclismo E viagens",
+        "price": "6.88",
+        "priceDiscountRate": 63,
+        "commissionRate": "0.07",
+        "sales": 1491,
+        "ratingStar": "4.8",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rffe-m9jv6vrrei7d7f",
+        "productLink": "https://shopee.com.br/product/1006215031/41357615567",
+        "offerLink": "https://s.shopee.com.br/904Mf2fslL"
       },
       "_last_price": null
     },
@@ -14900,35 +14930,6 @@
       "_last_price": null
     },
     {
-      "id": "27736492717",
-      "name": "Óculos De Sol Masculinos Retrô Quadrados De Meia Armação – Templos Leves De Grãos De Madeira Com Proteção UV Para Ativid",
-      "price": 10.86,
-      "original_price": 21.29,
-      "discount": 49.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvm-mcao0jdc5j89bc",
-      "link": "https://s.shopee.com.br/3qMIktTLcs",
-      "rating": "4.8",
-      "sales": 1481,
-      "shop": "Choice Oficial",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 27736492717,
-        "productName": "Óculos De Sol Masculinos Retrô Quadrados De Meia Armação – Templos Leves De Grãos De Madeira Com Proteção UV Para Ativid",
-        "price": "10.86",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.07",
-        "sales": 1481,
-        "ratingStar": "4.8",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvm-mcao0jdc5j89bc",
-        "productLink": "https://shopee.com.br/product/1006215031/27736492717",
-        "offerLink": "https://s.shopee.com.br/3qMIktTLcs"
-      },
-      "_last_price": null
-    },
-    {
       "id": "48857230908",
       "name": "Vara de pesca telescópica, suave e ultraleve, ideal para diversas situações, com comprimentos de 2,4 m e 3,6 m",
       "price": 19.77,
@@ -18467,6 +18468,35 @@
       "_last_price": null
     },
     {
+      "id": "27154919067",
+      "name": "Luvas De Proteção Solar EUCA , Fina UV Elásticas De Verão Resistentes Ao Escorregamento De Ciclismo Pesca",
+      "price": 20.99,
+      "original_price": 38.16,
+      "discount": 45.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxf-lxj3u3wqepqid1",
+      "link": "https://s.shopee.com.br/qifde0knK",
+      "rating": "4.9",
+      "sales": 36,
+      "shop": "eucafashion.br",
+      "category": "luva pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 27154919067,
+        "productName": "Luvas De Proteção Solar EUCA , Fina UV Elásticas De Verão Resistentes Ao Escorregamento De Ciclismo Pesca",
+        "price": "20.99",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 36,
+        "ratingStar": "4.9",
+        "shopName": "eucafashion.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxf-lxj3u3wqepqid1",
+        "productLink": "https://shopee.com.br/product/242919818/27154919067",
+        "offerLink": "https://s.shopee.com.br/qifde0knK"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58256029412",
       "name": "Adesivos Personalizados 4x4 cm - 1000 unidades, 500, 300 ou 200 unidades - Com sua logo ou arte",
       "price": 18.49,
@@ -20116,35 +20146,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5tyxgjeaxz9d5",
         "productLink": "https://shopee.com.br/product/375051668/22793684140",
         "offerLink": "https://s.shopee.com.br/1qbC7rG5pw"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "27154919067",
-      "name": "Luvas De Proteção Solar EUCA , Fina UV Elásticas De Verão Resistentes Ao Escorregamento De Ciclismo Pesca",
-      "price": 22.21,
-      "original_price": 38.29,
-      "discount": 42.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxf-lxj3u3wqepqid1",
-      "link": "https://s.shopee.com.br/qifde0knK",
-      "rating": "4.9",
-      "sales": 36,
-      "shop": "eucafashion.br",
-      "category": "luva pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 27154919067,
-        "productName": "Luvas De Proteção Solar EUCA , Fina UV Elásticas De Verão Resistentes Ao Escorregamento De Ciclismo Pesca",
-        "price": "22.21",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.03",
-        "sales": 36,
-        "ratingStar": "4.9",
-        "shopName": "eucafashion.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxf-lxj3u3wqepqid1",
-        "productLink": "https://shopee.com.br/product/242919818/27154919067",
-        "offerLink": "https://s.shopee.com.br/qifde0knK"
       },
       "_last_price": null
     },
