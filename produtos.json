@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T00:25:47.899585+00:00",
+  "updated_at": "2026-08-15T00:45:16.407952+00:00",
   "total": 1123,
   "products": [
     {
@@ -753,7 +753,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
         "productLink": "https://shopee.com.br/product/344381236/57911938287",
         "offerLink": "https://s.shopee.com.br/1qbC7jNrW6"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "42971009476",
@@ -1383,8 +1384,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mp21h8cy5w5i1c",
         "productLink": "https://shopee.com.br/product/1567204121/58261933291",
         "offerLink": "https://s.shopee.com.br/7AckiwVsTQ"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "21498310169",
@@ -2861,6 +2861,35 @@
       "_last_price": null
     },
     {
+      "id": "42631642316",
+      "name": "Placa de Video GeForce NVIDIA PALIT RTX5060 WHITE OC 8GB GDDR7 NE75060U19P1-GB2063M",
+      "price": 2659.0,
+      "original_price": 8863.33,
+      "discount": 70.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823r1-mpcmkgaieh3411",
+      "link": "https://s.shopee.com.br/4LIZWKJFsC",
+      "rating": "5",
+      "sales": 18,
+      "shop": "TNTinfoLoja",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42631642316,
+        "productName": "Placa de Video GeForce NVIDIA PALIT RTX5060 WHITE OC 8GB GDDR7 NE75060U19P1-GB2063M",
+        "price": "2659",
+        "priceDiscountRate": 70,
+        "commissionRate": "0.03",
+        "sales": 18,
+        "ratingStar": "5",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r1-mpcmkgaieh3411",
+        "productLink": "https://shopee.com.br/product/344381236/42631642316",
+        "offerLink": "https://s.shopee.com.br/4LIZWKJFsC"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21798030664",
       "name": "Teclado Gamer/ Escritório Com Fio RGB LED Iluminado  Com 68 Teclados Mecânicos",
       "price": 89.0,
@@ -2973,35 +3002,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9sn5nirw2exdd",
         "productLink": "https://shopee.com.br/product/385342152/22298024808",
         "offerLink": "https://s.shopee.com.br/60Ql5UEVvW"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20399896346",
-      "name": "High Quality Non-Toxic Reusable Pour Over Coffee Filter Stainless Steel Coffee Tea Filter--Immediate",
-      "price": 23.88,
-      "original_price": 79.6,
-      "discount": 70.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824i9-mfra08dv9dl91a",
-      "link": "https://s.shopee.com.br/6AkBHo4XQ2",
-      "rating": "4.7",
-      "sales": 2182,
-      "shop": "FLMAX",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20399896346,
-        "productName": "High Quality Non-Toxic Reusable Pour Over Coffee Filter Stainless Steel Coffee Tea Filter--Immediate",
-        "price": "23.88",
-        "priceDiscountRate": 70,
-        "commissionRate": "0.13",
-        "sales": 2182,
-        "ratingStar": "4.7",
-        "shopName": "FLMAX",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i9-mfra08dv9dl91a",
-        "productLink": "https://shopee.com.br/product/1643589827/20399896346",
-        "offerLink": "https://s.shopee.com.br/6AkBHo4XQ2"
       },
       "_last_price": null
     },
@@ -6543,6 +6543,35 @@
       "_last_price": null
     },
     {
+      "id": "58257695734",
+      "name": "Bolsa Feminina Lunna Luxo Com Metais Dourado Elegante Moderna De Ombro",
+      "price": 29.99,
+      "original_price": 78.92,
+      "discount": 62.0,
+      "commission": 0.09,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mmamfdafgb9ifb",
+      "link": "https://s.shopee.com.br/4fvPr3IgHD",
+      "rating": "4.8",
+      "sales": 1907,
+      "shop": "S.A_BAGS.OFICIAL",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58257695734,
+        "productName": "Bolsa Feminina Lunna Luxo Com Metais Dourado Elegante Moderna De Ombro",
+        "price": "29.99",
+        "priceDiscountRate": 62,
+        "commissionRate": "0.09",
+        "sales": 1907,
+        "ratingStar": "4.8",
+        "shopName": "S.A_BAGS.OFICIAL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mmamfdafgb9ifb",
+        "productLink": "https://shopee.com.br/product/1063157101/58257695734",
+        "offerLink": "https://s.shopee.com.br/4fvPr3IgHD"
+      },
+      "_last_price": null
+    },
+    {
       "id": "43508355535",
       "name": "(Apenas Cinza) Óculos De Sol Gradientes Retangulares Sem Aro – Tons De Proteção UV Da Moda Para Festas E Viagens Ao Ar L",
       "price": 5.94,
@@ -6661,8 +6690,8 @@
     {
       "id": "25338080323",
       "name": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-      "price": 55.0,
-      "original_price": 141.03,
+      "price": 135.99,
+      "original_price": 348.69,
       "discount": 61.0,
       "commission": 0.2,
       "image": "https://cf.shopee.com.br/file/sg-11134207-823pa-mpa7rmkjv3t9e6",
@@ -6675,7 +6704,7 @@
       "_item": {
         "itemId": 25338080323,
         "productName": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-        "price": "55",
+        "price": "135.99",
         "priceDiscountRate": 61,
         "commissionRate": "0.2",
         "sales": 3901,
@@ -26668,6 +26697,35 @@
       "_last_price": null
     },
     {
+      "id": "24276224233",
+      "name": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
+      "price": 30.93,
+      "original_price": 44.19,
+      "discount": 30.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
+      "link": "https://s.shopee.com.br/BSyp1h6xW",
+      "rating": "4.7",
+      "sales": 305,
+      "shop": "Choice Oficial",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 24276224233,
+        "productName": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
+        "price": "30.93",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.13",
+        "sales": 305,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
+        "productLink": "https://shopee.com.br/product/1006215031/24276224233",
+        "offerLink": "https://s.shopee.com.br/BSyp1h6xW"
+      },
+      "_last_price": null
+    },
+    {
       "id": "3956922823",
       "name": "Kit de Pesca Completo Com Estojo Organizador Anzóis Chumbadas Boias Giradores Linha Pescaria",
       "price": 34.9,
@@ -27592,35 +27650,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-7qukw-leq0pw6u1hbf19",
         "productLink": "https://shopee.com.br/product/607566210/23033984620",
         "offerLink": "https://s.shopee.com.br/8V864AFts5"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58250224504",
-      "name": "Placa de Vídeo Biostar AMD Radeon RX 580 2048SP, 8GB, GDDR5, 256 Bit, VA5815RF82",
-      "price": 959.99,
-      "original_price": 1297.28,
-      "discount": 26.0,
-      "commission": 0.06,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-821en-mgi9xqxveqdldd",
-      "link": "https://s.shopee.com.br/5Are5plB61",
-      "rating": "4.9",
-      "sales": 198,
-      "shop": "Terabyte ",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58250224504,
-        "productName": "Placa de Vídeo Biostar AMD Radeon RX 580 2048SP, 8GB, GDDR5, 256 Bit, VA5815RF82",
-        "price": "959.99",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.06",
-        "sales": 198,
-        "ratingStar": "4.9",
-        "shopName": "Terabyte ",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821en-mgi9xqxveqdldd",
-        "productLink": "https://shopee.com.br/product/1552226494/58250224504",
-        "offerLink": "https://s.shopee.com.br/5Are5plB61"
       },
       "_last_price": null
     },
@@ -29216,35 +29245,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mng43m9ed3b8f7",
         "productLink": "https://shopee.com.br/product/1788857478/58259413705",
         "offerLink": "https://s.shopee.com.br/4VbzxP5Bkz"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "24276224233",
-      "name": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
-      "price": 36.46,
-      "original_price": 47.35,
-      "discount": 23.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
-      "link": "https://s.shopee.com.br/BSyp1h6xW",
-      "rating": "4.7",
-      "sales": 305,
-      "shop": "Choice Oficial",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 24276224233,
-        "productName": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
-        "price": "36.46",
-        "priceDiscountRate": 23,
-        "commissionRate": "0.13",
-        "sales": 305,
-        "ratingStar": "4.7",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
-        "productLink": "https://shopee.com.br/product/1006215031/24276224233",
-        "offerLink": "https://s.shopee.com.br/BSyp1h6xW"
       },
       "_last_price": null
     },
