@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T04:53:10.671633+00:00",
+  "updated_at": "2026-08-15T05:12:00.827187+00:00",
   "total": 1132,
   "products": [
     {
@@ -1764,7 +1764,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1xeanm14pt61d",
         "productLink": "https://shopee.com.br/product/1017646777/22198016021",
         "offerLink": "https://s.shopee.com.br/50YDtc1OKj"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22998670251",
@@ -26845,35 +26846,6 @@
       "_last_price": null
     },
     {
-      "id": "24276224233",
-      "name": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
-      "price": 30.93,
-      "original_price": 44.19,
-      "discount": 30.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
-      "link": "https://s.shopee.com.br/BSyp1h6xW",
-      "rating": "4.7",
-      "sales": 305,
-      "shop": "Choice Oficial",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 24276224233,
-        "productName": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
-        "price": "30.93",
-        "priceDiscountRate": 30,
-        "commissionRate": "0.13",
-        "sales": 305,
-        "ratingStar": "4.7",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
-        "productLink": "https://shopee.com.br/product/1006215031/24276224233",
-        "offerLink": "https://s.shopee.com.br/BSyp1h6xW"
-      },
-      "_last_price": null
-    },
-    {
       "id": "3956922823",
       "name": "Kit de Pesca Completo Com Estojo Organizador Anzóis Chumbadas Boias Giradores Linha Pescaria",
       "price": 34.9,
@@ -29194,6 +29166,35 @@
       "_last_price": null
     },
     {
+      "id": "58254853253",
+      "name": "Kit Coala Completo The Queen",
+      "price": 119.9,
+      "original_price": 155.71,
+      "discount": 23.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkfuuqvdw3r722",
+      "link": "https://s.shopee.com.br/4qEq9wBUK2",
+      "rating": "4.9",
+      "sales": 621,
+      "shop": "Coala Essências Oficial",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58254853253,
+        "productName": "Kit Coala Completo The Queen",
+        "price": "119.9",
+        "priceDiscountRate": 23,
+        "commissionRate": "0.13",
+        "sales": 621,
+        "ratingStar": "4.9",
+        "shopName": "Coala Essências Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkfuuqvdw3r722",
+        "productLink": "https://shopee.com.br/product/1177903362/58254853253",
+        "offerLink": "https://s.shopee.com.br/4qEq9wBUK2"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23097466419",
       "name": "Detergente Enzimatico Zymedet Gold 5 Enzimas 1L - Prolink",
       "price": 29.24,
@@ -29422,6 +29423,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mng43m9ed3b8f7",
         "productLink": "https://shopee.com.br/product/1788857478/58259413705",
         "offerLink": "https://s.shopee.com.br/4VbzxP5Bkz"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "24276224233",
+      "name": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
+      "price": 36.46,
+      "original_price": 47.35,
+      "discount": 23.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
+      "link": "https://s.shopee.com.br/BSyp1h6xW",
+      "rating": "4.7",
+      "sales": 305,
+      "shop": "Choice Oficial",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 24276224233,
+        "productName": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
+        "price": "36.46",
+        "priceDiscountRate": 23,
+        "commissionRate": "0.13",
+        "sales": 305,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
+        "productLink": "https://shopee.com.br/product/1006215031/24276224233",
+        "offerLink": "https://s.shopee.com.br/BSyp1h6xW"
       },
       "_last_price": null
     },
@@ -31336,35 +31366,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1n7p6463nq79",
         "productLink": "https://shopee.com.br/product/1362302335/58254046357",
         "offerLink": "https://s.shopee.com.br/3VjQZpGEAT"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "10951188066",
-      "name": "Amaciante Urca Brisa Azul - 5l",
-      "price": 19.9,
-      "original_price": 24.27,
-      "discount": 18.0,
-      "commission": 0.16,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40g08sd675t69",
-      "link": "https://s.shopee.com.br/3LPzuWuwQV",
-      "rating": "4.9",
-      "sales": 1756,
-      "shop": "Casa de Gê",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 10951188066,
-        "productName": "Amaciante Urca Brisa Azul - 5l",
-        "price": "19.9",
-        "priceDiscountRate": 18,
-        "commissionRate": "0.16",
-        "sales": 1756,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40g08sd675t69",
-        "productLink": "https://shopee.com.br/product/534023108/10951188066",
-        "offerLink": "https://s.shopee.com.br/3LPzuWuwQV"
       },
       "_last_price": null
     },
