@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T03:37:38.694595+00:00",
+  "updated_at": "2026-08-15T03:56:33.868702+00:00",
   "total": 1130,
   "products": [
     {
@@ -1704,7 +1704,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mp313r3vzcatce",
         "productLink": "https://shopee.com.br/product/1848916283/58211974133",
         "offerLink": "https://s.shopee.com.br/2qTjJYT7co"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23799125316",
@@ -17880,6 +17881,35 @@
       "_last_price": null
     },
     {
+      "id": "22598826303",
+      "name": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
+      "price": 61.0,
+      "original_price": 110.91,
+      "discount": 45.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
+      "link": "https://s.shopee.com.br/6AkBHgpu7X",
+      "rating": "4.8",
+      "sales": 1391,
+      "shop": "Traxen",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22598826303,
+        "productName": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
+        "price": "61",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 1391,
+        "ratingStar": "4.8",
+        "shopName": "Traxen",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
+        "productLink": "https://shopee.com.br/product/786353833/22598826303",
+        "offerLink": "https://s.shopee.com.br/6AkBHgpu7X"
+      },
+      "_last_price": null
+    },
+    {
       "id": "41132780075",
       "name": "Kit 3 Pote Hermético 1,5 L C/ Bico Dosador Porta Sabão em Pó/Sabão Líquido/Amaciante Compacto Lavanderia Organizador",
       "price": 47.3,
@@ -18572,35 +18602,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
         "productLink": "https://shopee.com.br/product/786353833/23694320738",
         "offerLink": "https://s.shopee.com.br/60Ql5NqXSU"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22598826303",
-      "name": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
-      "price": 61.0,
-      "original_price": 108.93,
-      "discount": 44.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
-      "link": "https://s.shopee.com.br/6AkBHgpu7X",
-      "rating": "4.8",
-      "sales": 1391,
-      "shop": "Traxen",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22598826303,
-        "productName": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
-        "price": "61",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.03",
-        "sales": 1391,
-        "ratingStar": "4.8",
-        "shopName": "Traxen",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
-        "productLink": "https://shopee.com.br/product/786353833/22598826303",
-        "offerLink": "https://s.shopee.com.br/6AkBHgpu7X"
       },
       "_last_price": null
     },
@@ -29103,6 +29104,35 @@
       "_last_price": null
     },
     {
+      "id": "58254853253",
+      "name": "Kit Coala Completo The Queen",
+      "price": 119.9,
+      "original_price": 155.71,
+      "discount": 23.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkfuuqvdw3r722",
+      "link": "https://s.shopee.com.br/4qEq9wBUK2",
+      "rating": "4.9",
+      "sales": 621,
+      "shop": "Coala Essências Oficial",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58254853253,
+        "productName": "Kit Coala Completo The Queen",
+        "price": "119.9",
+        "priceDiscountRate": 23,
+        "commissionRate": "0.13",
+        "sales": 621,
+        "ratingStar": "4.9",
+        "shopName": "Coala Essências Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkfuuqvdw3r722",
+        "productLink": "https://shopee.com.br/product/1177903362/58254853253",
+        "offerLink": "https://s.shopee.com.br/4qEq9wBUK2"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23097466419",
       "name": "Detergente Enzimatico Zymedet Gold 5 Enzimas 1L - Prolink",
       "price": 29.24,
@@ -31274,35 +31304,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1n7p6463nq79",
         "productLink": "https://shopee.com.br/product/1362302335/58254046357",
         "offerLink": "https://s.shopee.com.br/3VjQZpGEAT"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "10951188066",
-      "name": "Amaciante Urca Brisa Azul - 5l",
-      "price": 19.9,
-      "original_price": 24.27,
-      "discount": 18.0,
-      "commission": 0.16,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40g08sd675t69",
-      "link": "https://s.shopee.com.br/3LPzuWuwQV",
-      "rating": "4.9",
-      "sales": 1756,
-      "shop": "Casa de Gê",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 10951188066,
-        "productName": "Amaciante Urca Brisa Azul - 5l",
-        "price": "19.9",
-        "priceDiscountRate": 18,
-        "commissionRate": "0.16",
-        "sales": 1756,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40g08sd675t69",
-        "productLink": "https://shopee.com.br/product/534023108/10951188066",
-        "offerLink": "https://s.shopee.com.br/3LPzuWuwQV"
       },
       "_last_price": null
     },
