@@ -43,12 +43,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://uandersonpj.github.io/shopee-promocoes/?categoria=monitor</loc>
-    <lastmod>2026-08-15</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://uandersonpj.github.io/shopee-promocoes/?categoria=pano%20microfibra</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>hourly</changefreq>
@@ -73,7 +67,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://uandersonpj.github.io/shopee-promocoes/?categoria=notebook</loc>
+    <loc>https://uandersonpj.github.io/shopee-promocoes/?categoria=monitor</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
@@ -104,6 +98,12 @@
   </url>
   <url>
     <loc>https://uandersonpj.github.io/shopee-promocoes/?categoria=racao%20cachorro</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://uandersonpj.github.io/shopee-promocoes/?categoria=notebook</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
@@ -247,6 +247,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://uandersonpj.github.io/shopee-promocoes/?categoria=ssd%20nvme</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://uandersonpj.github.io/shopee-promocoes/?categoria=detergente</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>hourly</changefreq>
@@ -265,25 +271,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://uandersonpj.github.io/shopee-promocoes/?categoria=linha%20de%20pesca</loc>
-    <lastmod>2026-08-15</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://uandersonpj.github.io/shopee-promocoes/?categoria=rede%20de%20pesca</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://uandersonpj.github.io/shopee-promocoes/?categoria=ssd%20nvme</loc>
+    <loc>https://uandersonpj.github.io/shopee-promocoes/?categoria=fonte%20atx</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://uandersonpj.github.io/shopee-promocoes/?categoria=fonte%20atx</loc>
+    <loc>https://uandersonpj.github.io/shopee-promocoes/?categoria=linha%20de%20pesca</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
