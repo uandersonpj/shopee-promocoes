@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T04:34:21.513326+00:00",
+  "updated_at": "2026-08-15T04:53:10.671633+00:00",
   "total": 1132,
   "products": [
     {
@@ -954,7 +954,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
         "productLink": "https://shopee.com.br/product/1266325318/21897981294",
         "offerLink": "https://s.shopee.com.br/3VjQ6qlAmD"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23294866358",
@@ -26844,6 +26845,35 @@
       "_last_price": null
     },
     {
+      "id": "24276224233",
+      "name": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
+      "price": 30.93,
+      "original_price": 44.19,
+      "discount": 30.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
+      "link": "https://s.shopee.com.br/BSyp1h6xW",
+      "rating": "4.7",
+      "sales": 305,
+      "shop": "Choice Oficial",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 24276224233,
+        "productName": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
+        "price": "30.93",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.13",
+        "sales": 305,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
+        "productLink": "https://shopee.com.br/product/1006215031/24276224233",
+        "offerLink": "https://s.shopee.com.br/BSyp1h6xW"
+      },
+      "_last_price": null
+    },
+    {
       "id": "3956922823",
       "name": "Kit de Pesca Completo Com Estojo Organizador Anzóis Chumbadas Boias Giradores Linha Pescaria",
       "price": 34.9,
@@ -29392,35 +29422,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mng43m9ed3b8f7",
         "productLink": "https://shopee.com.br/product/1788857478/58259413705",
         "offerLink": "https://s.shopee.com.br/4VbzxP5Bkz"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "24276224233",
-      "name": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
-      "price": 36.46,
-      "original_price": 47.35,
-      "discount": 23.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
-      "link": "https://s.shopee.com.br/BSyp1h6xW",
-      "rating": "4.7",
-      "sales": 305,
-      "shop": "Choice Oficial",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 24276224233,
-        "productName": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
-        "price": "36.46",
-        "priceDiscountRate": 23,
-        "commissionRate": "0.13",
-        "sales": 305,
-        "ratingStar": "4.7",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
-        "productLink": "https://shopee.com.br/product/1006215031/24276224233",
-        "offerLink": "https://s.shopee.com.br/BSyp1h6xW"
       },
       "_last_price": null
     },
