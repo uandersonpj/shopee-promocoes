@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T01:04:14.681147+00:00",
-  "total": 1123,
+  "updated_at": "2026-08-15T01:23:13.830198+00:00",
+  "total": 1122,
   "products": [
     {
       "id": "23698808886",
@@ -1012,7 +1012,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
         "productLink": "https://shopee.com.br/product/972031390/21997150349",
         "offerLink": "https://s.shopee.com.br/70JIHKjd3u"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58251235467",
@@ -1615,6 +1616,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmgwyk55dxjb9c",
         "productLink": "https://shopee.com.br/product/1345043704/22497773735",
         "offerLink": "https://s.shopee.com.br/1VyLjFZEi3"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "42931642321",
+      "name": "Placa de Video GeForce NVIDIA PNY RTX5060TI 8GB OC GDDR7 VCG5060T8DFXPB1-O",
+      "price": 2899.0,
+      "original_price": 12079.17,
+      "discount": 76.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823oc-mpcmkv5yn56z8d",
+      "link": "https://s.shopee.com.br/3g2qJ4qt8a",
+      "rating": "4.9",
+      "sales": 210,
+      "shop": "TNTinfoLoja",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42931642321,
+        "productName": "Placa de Video GeForce NVIDIA PNY RTX5060TI 8GB OC GDDR7 VCG5060T8DFXPB1-O",
+        "price": "2899",
+        "priceDiscountRate": 76,
+        "commissionRate": "0.03",
+        "sales": 210,
+        "ratingStar": "4.9",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823oc-mpcmkv5yn56z8d",
+        "productLink": "https://shopee.com.br/product/344381236/42931642321",
+        "offerLink": "https://s.shopee.com.br/3g2qJ4qt8a"
       },
       "_last_price": null
     },
@@ -2861,35 +2891,6 @@
       "_last_price": null
     },
     {
-      "id": "42631642316",
-      "name": "Placa de Video GeForce NVIDIA PALIT RTX5060 WHITE OC 8GB GDDR7 NE75060U19P1-GB2063M",
-      "price": 2659.0,
-      "original_price": 8863.33,
-      "discount": 70.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823r1-mpcmkgaieh3411",
-      "link": "https://s.shopee.com.br/4LIZWKJFsC",
-      "rating": "5",
-      "sales": 18,
-      "shop": "TNTinfoLoja",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42631642316,
-        "productName": "Placa de Video GeForce NVIDIA PALIT RTX5060 WHITE OC 8GB GDDR7 NE75060U19P1-GB2063M",
-        "price": "2659",
-        "priceDiscountRate": 70,
-        "commissionRate": "0.03",
-        "sales": 18,
-        "ratingStar": "5",
-        "shopName": "TNTinfoLoja",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r1-mpcmkgaieh3411",
-        "productLink": "https://shopee.com.br/product/344381236/42631642316",
-        "offerLink": "https://s.shopee.com.br/4LIZWKJFsC"
-      },
-      "_last_price": null
-    },
-    {
       "id": "21798030664",
       "name": "Teclado Gamer/ Escritório Com Fio RGB LED Iluminado  Com 68 Teclados Mecânicos",
       "price": 89.0,
@@ -3002,8 +3003,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9sn5nirw2exdd",
         "productLink": "https://shopee.com.br/product/385342152/22298024808",
         "offerLink": "https://s.shopee.com.br/60Ql5UEVvW"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23093824562",
@@ -6601,35 +6601,6 @@
       "_last_price": null
     },
     {
-      "id": "58257695734",
-      "name": "Bolsa Feminina Lunna Luxo Com Metais Dourado Elegante Moderna De Ombro",
-      "price": 29.99,
-      "original_price": 78.92,
-      "discount": 62.0,
-      "commission": 0.09,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mmamfdafgb9ifb",
-      "link": "https://s.shopee.com.br/4fvPr3IgHD",
-      "rating": "4.8",
-      "sales": 1907,
-      "shop": "S.A_BAGS.OFICIAL",
-      "category": "bolsa feminina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58257695734,
-        "productName": "Bolsa Feminina Lunna Luxo Com Metais Dourado Elegante Moderna De Ombro",
-        "price": "29.99",
-        "priceDiscountRate": 62,
-        "commissionRate": "0.09",
-        "sales": 1907,
-        "ratingStar": "4.8",
-        "shopName": "S.A_BAGS.OFICIAL",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mmamfdafgb9ifb",
-        "productLink": "https://shopee.com.br/product/1063157101/58257695734",
-        "offerLink": "https://s.shopee.com.br/4fvPr3IgHD"
-      },
-      "_last_price": null
-    },
-    {
       "id": "43508355535",
       "name": "(Apenas Cinza) Óculos De Sol Gradientes Retangulares Sem Aro – Tons De Proteção UV Da Moda Para Festas E Viagens Ao Ar L",
       "price": 5.94,
@@ -8253,6 +8224,35 @@
       "_last_price": null
     },
     {
+      "id": "54358077814",
+      "name": "Placa de Vídeo NVIDIA GeForce PALIT RTX5060 8GB  INFINITY 2 OC GDDR7 - 0120111-01",
+      "price": 2549.0,
+      "original_price": 6069.05,
+      "discount": 58.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-81zvt-mn4mo8abeaki18",
+      "link": "https://s.shopee.com.br/2gAJ7EuhAU",
+      "rating": "5",
+      "sales": 118,
+      "shop": "TNTinfoLoja",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 54358077814,
+        "productName": "Placa de Vídeo NVIDIA GeForce PALIT RTX5060 8GB  INFINITY 2 OC GDDR7 - 0120111-01",
+        "price": "2549",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.03",
+        "sales": 118,
+        "ratingStar": "5",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvt-mn4mo8abeaki18",
+        "productLink": "https://shopee.com.br/product/344381236/54358077814",
+        "offerLink": "https://s.shopee.com.br/2gAJ7EuhAU"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21699672982",
       "name": "Teclado e Mouse Kit Gamer semi mecanico RGB LED USB ABNT2 Profissional para PC Notebook",
       "price": 49.9,
@@ -8742,35 +8742,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b7-mg5o18qgkgem55",
         "productLink": "https://shopee.com.br/product/1480594679/22594566643",
         "offerLink": "https://s.shopee.com.br/50YDsRdgEc"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23994933674",
-      "name": "Canivete dobrável de aço inoxidável para chaveiro Caça Pesca  promoção Resiste",
-      "price": 12.7,
-      "original_price": 30.24,
-      "discount": 58.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-820n2-mnc09ygnfbpd8b",
-      "link": "https://s.shopee.com.br/9pdTdKd13Q",
-      "rating": "4.9",
-      "sales": 1299,
-      "shop": "ilumibras shop",
-      "category": "kit pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23994933674,
-        "productName": "Canivete dobrável de aço inoxidável para chaveiro Caça Pesca  promoção Resiste",
-        "price": "12.7",
-        "priceDiscountRate": 58,
-        "commissionRate": "0.12",
-        "sales": 1299,
-        "ratingStar": "4.9",
-        "shopName": "ilumibras shop",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820n2-mnc09ygnfbpd8b",
-        "productLink": "https://shopee.com.br/product/1179518791/23994933674",
-        "offerLink": "https://s.shopee.com.br/9pdTdKd13Q"
       },
       "_last_price": null
     },
@@ -9380,6 +9351,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk0gs1xemhhe9c",
         "productLink": "https://shopee.com.br/product/1045152671/20797619594",
         "offerLink": "https://s.shopee.com.br/8V8648Gz1i"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23994933674",
+      "name": "Canivete dobrável de aço inoxidável para chaveiro Caça Pesca  promoção Resiste",
+      "price": 12.99,
+      "original_price": 30.21,
+      "discount": 57.0,
+      "commission": 0.12,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-820n2-mnc09ygnfbpd8b",
+      "link": "https://s.shopee.com.br/9pdTdKd13Q",
+      "rating": "4.9",
+      "sales": 1299,
+      "shop": "ilumibras shop",
+      "category": "kit pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23994933674,
+        "productName": "Canivete dobrável de aço inoxidável para chaveiro Caça Pesca  promoção Resiste",
+        "price": "12.99",
+        "priceDiscountRate": 57,
+        "commissionRate": "0.12",
+        "sales": 1299,
+        "ratingStar": "4.9",
+        "shopName": "ilumibras shop",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820n2-mnc09ygnfbpd8b",
+        "productLink": "https://shopee.com.br/product/1179518791/23994933674",
+        "offerLink": "https://s.shopee.com.br/9pdTdKd13Q"
       },
       "_last_price": null
     },
@@ -26697,35 +26697,6 @@
       "_last_price": null
     },
     {
-      "id": "24276224233",
-      "name": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
-      "price": 30.93,
-      "original_price": 44.19,
-      "discount": 30.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
-      "link": "https://s.shopee.com.br/BSyp1h6xW",
-      "rating": "4.7",
-      "sales": 305,
-      "shop": "Choice Oficial",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 24276224233,
-        "productName": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
-        "price": "30.93",
-        "priceDiscountRate": 30,
-        "commissionRate": "0.13",
-        "sales": 305,
-        "ratingStar": "4.7",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
-        "productLink": "https://shopee.com.br/product/1006215031/24276224233",
-        "offerLink": "https://s.shopee.com.br/BSyp1h6xW"
-      },
-      "_last_price": null
-    },
-    {
       "id": "3956922823",
       "name": "Kit de Pesca Completo Com Estojo Organizador Anzóis Chumbadas Boias Giradores Linha Pescaria",
       "price": 34.9,
@@ -29249,6 +29220,35 @@
       "_last_price": null
     },
     {
+      "id": "24276224233",
+      "name": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
+      "price": 36.46,
+      "original_price": 47.35,
+      "discount": 23.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
+      "link": "https://s.shopee.com.br/BSyp1h6xW",
+      "rating": "4.7",
+      "sales": 305,
+      "shop": "Choice Oficial",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 24276224233,
+        "productName": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
+        "price": "36.46",
+        "priceDiscountRate": 23,
+        "commissionRate": "0.13",
+        "sales": 305,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
+        "productLink": "https://shopee.com.br/product/1006215031/24276224233",
+        "offerLink": "https://s.shopee.com.br/BSyp1h6xW"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20175540165",
       "name": "1 par Luva Alongar Manga Proteção Solar UV Do Braço Esportivo De Pesca De Corrida Ciclismo Capa Fria De Gelo",
       "price": 26.99,
@@ -31362,35 +31362,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/9daa2aae51f2e304e2695acc0a876687",
         "productLink": "https://shopee.com.br/product/352135917/9554353018",
         "offerLink": "https://s.shopee.com.br/BSy8qUEQq"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "41360062714",
-      "name": "Vara Telescópica Bamboo Strong Green Jaú Pesca de 1,80, 2,40m 3,00m 3,90m, 4,20m e 5,40m Pesca",
-      "price": 37.23,
-      "original_price": 45.4,
-      "discount": 18.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxq-mcknjtool2mr2d",
-      "link": "https://s.shopee.com.br/5Are4kd2tf",
-      "rating": "4.8",
-      "sales": 134,
-      "shop": "JAUPESCA",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41360062714,
-        "productName": "Vara Telescópica Bamboo Strong Green Jaú Pesca de 1,80, 2,40m 3,00m 3,90m, 4,20m e 5,40m Pesca",
-        "price": "37.23",
-        "priceDiscountRate": 18,
-        "commissionRate": "0.07",
-        "sales": 134,
-        "ratingStar": "4.8",
-        "shopName": "JAUPESCA",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxq-mcknjtool2mr2d",
-        "productLink": "https://shopee.com.br/product/954428278/41360062714",
-        "offerLink": "https://s.shopee.com.br/5Are4kd2tf"
       },
       "_last_price": null
     },
