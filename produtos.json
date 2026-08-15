@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T20:47:26.252949+00:00",
-  "total": 1125,
+  "updated_at": "2026-08-15T21:06:33.170947+00:00",
+  "total": 1126,
   "products": [
     {
       "id": "23698808886",
@@ -229,7 +229,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1zzq6l901gfa2",
         "productLink": "https://shopee.com.br/product/322874822/23797686527",
         "offerLink": "https://s.shopee.com.br/70JIHMVpOf"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "40723848736",
@@ -315,6 +316,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mnb6ge4ki9dt70",
         "productLink": "https://shopee.com.br/product/407760070/49603251115",
         "offerLink": "https://s.shopee.com.br/6L3dYoafMa"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23394516221",
+      "name": "Kit Completo Maca Power Máscara 500 g + condicionador 1L + Shampoo 1L + Óleo Maca Power 50ml",
+      "price": 49.0,
+      "original_price": 350.0,
+      "discount": 86.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mn36griqvj0k25",
+      "link": "https://s.shopee.com.br/AAGNhKeWtW",
+      "rating": "4.7",
+      "sales": 594,
+      "shop": "Karseell Oficial",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23394516221,
+        "productName": "Kit Completo Maca Power Máscara 500 g + condicionador 1L + Shampoo 1L + Óleo Maca Power 50ml",
+        "price": "49",
+        "priceDiscountRate": 86,
+        "commissionRate": "0.03",
+        "sales": 594,
+        "ratingStar": "4.7",
+        "shopName": "Karseell Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mn36griqvj0k25",
+        "productLink": "https://shopee.com.br/product/1573183881/23394516221",
+        "offerLink": "https://s.shopee.com.br/AAGNhKeWtW"
       },
       "_last_price": null
     },
@@ -1000,8 +1030,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhmr1gnvzv9dbd",
         "productLink": "https://shopee.com.br/product/1142080977/58251235467",
         "offerLink": "https://s.shopee.com.br/AUtARlWIxn"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22793541683",
@@ -9638,35 +9667,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9elqqn7nixzee",
         "productLink": "https://shopee.com.br/product/1535794969/22698842534",
         "offerLink": "https://s.shopee.com.br/5fnugnvKYs"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58207705974",
-      "name": "Kit 5 Suportes de Banheiro Alto Adesivo Organizador de Parede Sabonete Shampoo Condicionador e Papel",
-      "price": 34.99,
-      "original_price": 79.52,
-      "discount": 56.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mo5fpms2ebk0d2",
-      "link": "https://s.shopee.com.br/8V888nSPxh",
-      "rating": "4.9",
-      "sales": 4426,
-      "shop": "HELPLO",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58207705974,
-        "productName": "Kit 5 Suportes de Banheiro Alto Adesivo Organizador de Parede Sabonete Shampoo Condicionador e Papel",
-        "price": "34.99",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.03",
-        "sales": 4426,
-        "ratingStar": "4.9",
-        "shopName": "HELPLO",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mo5fpms2ebk0d2",
-        "productLink": "https://shopee.com.br/product/1298416721/58207705974",
-        "offerLink": "https://s.shopee.com.br/8V888nSPxh"
       },
       "_last_price": null
     },
@@ -19589,35 +19589,6 @@
       "_last_price": null
     },
     {
-      "id": "27154919067",
-      "name": "Luvas De Proteção Solar EUCA , Fina UV Elásticas De Verão Resistentes Ao Escorregamento De Ciclismo Pesca",
-      "price": 21.96,
-      "original_price": 38.53,
-      "discount": 43.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxf-lxj3u3wqepqid1",
-      "link": "https://s.shopee.com.br/qifde0knK",
-      "rating": "4.9",
-      "sales": 36,
-      "shop": "eucafashion.br",
-      "category": "luva pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 27154919067,
-        "productName": "Luvas De Proteção Solar EUCA , Fina UV Elásticas De Verão Resistentes Ao Escorregamento De Ciclismo Pesca",
-        "price": "21.96",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.03",
-        "sales": 36,
-        "ratingStar": "4.9",
-        "shopName": "eucafashion.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxf-lxj3u3wqepqid1",
-        "productLink": "https://shopee.com.br/product/242919818/27154919067",
-        "offerLink": "https://s.shopee.com.br/qifde0knK"
-      },
-      "_last_price": null
-    },
-    {
       "id": "27975909779",
       "name": "COURTNEY Protetor De 2 Dedos Equipamento De Pesca Polegar E Dedo Indicador Luva Antiderrapante Luvas De Dois",
       "price": 14.04,
@@ -20136,6 +20107,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5tyxgjeaxz9d5",
         "productLink": "https://shopee.com.br/product/375051668/22793684140",
         "offerLink": "https://s.shopee.com.br/1qbC7rG5pw"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "27154919067",
+      "name": "Luvas De Proteção Solar EUCA , Fina UV Elásticas De Verão Resistentes Ao Escorregamento De Ciclismo Pesca",
+      "price": 22.07,
+      "original_price": 38.05,
+      "discount": 42.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxf-lxj3u3wqepqid1",
+      "link": "https://s.shopee.com.br/qifde0knK",
+      "rating": "4.9",
+      "sales": 36,
+      "shop": "eucafashion.br",
+      "category": "luva pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 27154919067,
+        "productName": "Luvas De Proteção Solar EUCA , Fina UV Elásticas De Verão Resistentes Ao Escorregamento De Ciclismo Pesca",
+        "price": "22.07",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.03",
+        "sales": 36,
+        "ratingStar": "4.9",
+        "shopName": "eucafashion.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxf-lxj3u3wqepqid1",
+        "productLink": "https://shopee.com.br/product/242919818/27154919067",
+        "offerLink": "https://s.shopee.com.br/qifde0knK"
       },
       "_last_price": null
     },
@@ -23152,6 +23152,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mriqddxnod8n6f",
         "productLink": "https://shopee.com.br/product/408653169/23615780781",
         "offerLink": "https://s.shopee.com.br/9V0dxMzPUv"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21897728259",
+      "name": "Shampoo com Cera de carnaúba pH Neutro para Lavagem de Carro e Moto Xampu Automotivo",
+      "price": 19.99,
+      "original_price": 31.23,
+      "discount": 36.0,
+      "commission": 0.06,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mqnhnkgkscua7d",
+      "link": "https://s.shopee.com.br/50YDtaX8RF",
+      "rating": "4.8",
+      "sales": 2827,
+      "shop": "BUENO ESTETICA AUTO",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21897728259,
+        "productName": "Shampoo com Cera de carnaúba pH Neutro para Lavagem de Carro e Moto Xampu Automotivo",
+        "price": "19.99",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.06",
+        "sales": 2827,
+        "ratingStar": "4.8",
+        "shopName": "BUENO ESTETICA AUTO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mqnhnkgkscua7d",
+        "productLink": "https://shopee.com.br/product/1091428082/21897728259",
+        "offerLink": "https://s.shopee.com.br/50YDtaX8RF"
       },
       "_last_price": null
     },
