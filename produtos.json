@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T04:15:26.860508+00:00",
-  "total": 1131,
+  "updated_at": "2026-08-15T04:34:21.513326+00:00",
+  "total": 1132,
   "products": [
     {
       "id": "23698808886",
@@ -896,7 +896,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-ml7p0maii51ie2",
         "productLink": "https://shopee.com.br/product/1258087913/19097999326",
         "offerLink": "https://s.shopee.com.br/6VN1gKs9s7"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "53604373378",
@@ -28554,6 +28555,35 @@
       "_last_price": null
     },
     {
+      "id": "23394548748",
+      "name": "Ração Úmida para Gatos Adultos Castrados Gourmet Sabor Carne 70G Golden",
+      "price": 2.99,
+      "original_price": 3.99,
+      "discount": 25.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82581-mg5kg5f074so75",
+      "link": "https://s.shopee.com.br/3g2qmEQZjj",
+      "rating": "4.9",
+      "sales": 1148,
+      "shop": "Chegô",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23394548748,
+        "productName": "Ração Úmida para Gatos Adultos Castrados Gourmet Sabor Carne 70G Golden",
+        "price": "2.99",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.03",
+        "sales": 1148,
+        "ratingStar": "4.9",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82581-mg5kg5f074so75",
+        "productLink": "https://shopee.com.br/product/1248266601/23394548748",
+        "offerLink": "https://s.shopee.com.br/3g2qmEQZjj"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22799500311",
       "name": "Casinha de Gato 2 Andares Playground Rampa Arranhador Toca Felino Brinquedo Degrau Casa",
       "price": 59.9,
@@ -29130,35 +29160,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxz-m08rn05paasuf1",
         "productLink": "https://shopee.com.br/product/1218728182/23497638085",
         "offerLink": "https://s.shopee.com.br/8fRWGTFGX4"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58254853253",
-      "name": "Kit Coala Completo The Queen",
-      "price": 119.9,
-      "original_price": 155.71,
-      "discount": 23.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkfuuqvdw3r722",
-      "link": "https://s.shopee.com.br/4qEq9wBUK2",
-      "rating": "4.9",
-      "sales": 621,
-      "shop": "Coala Essências Oficial",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58254853253,
-        "productName": "Kit Coala Completo The Queen",
-        "price": "119.9",
-        "priceDiscountRate": 23,
-        "commissionRate": "0.13",
-        "sales": 621,
-        "ratingStar": "4.9",
-        "shopName": "Coala Essências Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkfuuqvdw3r722",
-        "productLink": "https://shopee.com.br/product/1177903362/58254853253",
-        "offerLink": "https://s.shopee.com.br/4qEq9wBUK2"
       },
       "_last_price": null
     },
@@ -31334,6 +31335,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1n7p6463nq79",
         "productLink": "https://shopee.com.br/product/1362302335/58254046357",
         "offerLink": "https://s.shopee.com.br/3VjQZpGEAT"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "10951188066",
+      "name": "Amaciante Urca Brisa Azul - 5l",
+      "price": 19.9,
+      "original_price": 24.27,
+      "discount": 18.0,
+      "commission": 0.16,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40g08sd675t69",
+      "link": "https://s.shopee.com.br/3LPzuWuwQV",
+      "rating": "4.9",
+      "sales": 1756,
+      "shop": "Casa de Gê",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 10951188066,
+        "productName": "Amaciante Urca Brisa Azul - 5l",
+        "price": "19.9",
+        "priceDiscountRate": 18,
+        "commissionRate": "0.16",
+        "sales": 1756,
+        "ratingStar": "4.9",
+        "shopName": "Casa de Gê",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40g08sd675t69",
+        "productLink": "https://shopee.com.br/product/534023108/10951188066",
+        "offerLink": "https://s.shopee.com.br/3LPzuWuwQV"
       },
       "_last_price": null
     },
