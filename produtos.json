@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T03:18:48.916622+00:00",
+  "updated_at": "2026-08-15T03:37:38.694595+00:00",
   "total": 1130,
   "products": [
     {
@@ -7204,7 +7204,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mag2ra9rqjynce",
         "productLink": "https://shopee.com.br/product/987020544/22998559271",
         "offerLink": "https://s.shopee.com.br/1gHlvOyVC8"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "47709897714",
@@ -17328,6 +17329,35 @@
       "_last_price": null
     },
     {
+      "id": "23494691778",
+      "name": "Liquidificador 1.5 Litros Turbo 3 Velocidades 650 W Espremedor Moedor de pó 1.5 Litros 110V ou 220V",
+      "price": 108.0,
+      "original_price": 200.0,
+      "discount": 46.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhag10hxpgcl7e",
+      "link": "https://s.shopee.com.br/5fnvDrpmNc",
+      "rating": "4.5",
+      "sales": 1064,
+      "shop": "FENG .",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23494691778,
+        "productName": "Liquidificador 1.5 Litros Turbo 3 Velocidades 650 W Espremedor Moedor de pó 1.5 Litros 110V ou 220V",
+        "price": "108",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.07",
+        "sales": 1064,
+        "ratingStar": "4.5",
+        "shopName": "FENG .",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhag10hxpgcl7e",
+        "productLink": "https://shopee.com.br/product/728534865/23494691778",
+        "offerLink": "https://s.shopee.com.br/5fnvDrpmNc"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23893219807",
       "name": "TOMI MITO Bolsa Mochila Grande De Ombro e Transversal Feminina De Couro PU B303",
       "price": 74.99,
@@ -17846,35 +17876,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258e-mqehxire4zr507",
         "productLink": "https://shopee.com.br/product/1006215031/45707967320",
         "offerLink": "https://s.shopee.com.br/4LIXZMD3Tq"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22598826303",
-      "name": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
-      "price": 61.0,
-      "original_price": 110.91,
-      "discount": 45.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
-      "link": "https://s.shopee.com.br/6AkBHgpu7X",
-      "rating": "4.8",
-      "sales": 1391,
-      "shop": "Traxen",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22598826303,
-        "productName": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
-        "price": "61",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.03",
-        "sales": 1391,
-        "ratingStar": "4.8",
-        "shopName": "Traxen",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
-        "productLink": "https://shopee.com.br/product/786353833/22598826303",
-        "offerLink": "https://s.shopee.com.br/6AkBHgpu7X"
       },
       "_last_price": null
     },
@@ -18571,6 +18572,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
         "productLink": "https://shopee.com.br/product/786353833/23694320738",
         "offerLink": "https://s.shopee.com.br/60Ql5NqXSU"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22598826303",
+      "name": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
+      "price": 61.0,
+      "original_price": 108.93,
+      "discount": 44.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
+      "link": "https://s.shopee.com.br/6AkBHgpu7X",
+      "rating": "4.8",
+      "sales": 1391,
+      "shop": "Traxen",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22598826303,
+        "productName": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
+        "price": "61",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.03",
+        "sales": 1391,
+        "ratingStar": "4.8",
+        "shopName": "Traxen",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
+        "productLink": "https://shopee.com.br/product/786353833/22598826303",
+        "offerLink": "https://s.shopee.com.br/6AkBHgpu7X"
       },
       "_last_price": null
     },
@@ -24201,6 +24231,35 @@
       "_last_price": null
     },
     {
+      "id": "22897703144",
+      "name": "vara de pesca Joyfox  Vara Molinete1,8m + Carretel Molinete Dc7000 12+1 Rolamentos",
+      "price": 109.0,
+      "original_price": 167.69,
+      "discount": 35.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m81eurdcjlzl56",
+      "link": "https://s.shopee.com.br/1VyLjGPta0",
+      "rating": "4.9",
+      "sales": 419,
+      "shop": "GYO COMERCIO LTDA",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22897703144,
+        "productName": "vara de pesca Joyfox  Vara Molinete1,8m + Carretel Molinete Dc7000 12+1 Rolamentos",
+        "price": "109",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.07",
+        "sales": 419,
+        "ratingStar": "4.9",
+        "shopName": "GYO COMERCIO LTDA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m81eurdcjlzl56",
+        "productLink": "https://shopee.com.br/product/1045152671/22897703144",
+        "offerLink": "https://s.shopee.com.br/1VyLjGPta0"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23099448490",
       "name": "Kit 10+1 20+2 30+4 Peixinhos para Pescaria Vara de Pescar Jogo de Pesca com Peixes e Varinha Brinquedo Interativo Brinca",
       "price": 20.8,
@@ -26053,35 +26112,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259p-mrwh4r6oacxy69",
         "productLink": "https://shopee.com.br/product/1608214292/58261884456",
         "offerLink": "https://s.shopee.com.br/4qEnhM9c89"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23597334946",
-      "name": "Liquidificador Britânia BLQE01 2 copos 2,6L 900W",
-      "price": 117.9,
-      "original_price": 170.87,
-      "discount": 31.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825ai-mr67pmmk81z6b0",
-      "link": "https://s.shopee.com.br/8KogZJJQj6",
-      "rating": "4.9",
-      "sales": 801,
-      "shop": "Britânia Oficial",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23597334946,
-        "productName": "Liquidificador Britânia BLQE01 2 copos 2,6L 900W",
-        "price": "117.9",
-        "priceDiscountRate": 31,
-        "commissionRate": "0.03",
-        "sales": 801,
-        "ratingStar": "4.9",
-        "shopName": "Britânia Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ai-mr67pmmk81z6b0",
-        "productLink": "https://shopee.com.br/product/811879342/23597334946",
-        "offerLink": "https://s.shopee.com.br/8KogZJJQj6"
       },
       "_last_price": null
     },
@@ -32201,35 +32231,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mibo7781e5fl55",
         "productLink": "https://shopee.com.br/product/320275364/21745736877",
         "offerLink": "https://s.shopee.com.br/1LevWxQWuz"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22897703144",
-      "name": "vara de pesca Joyfox  Vara Molinete1,8m + Carretel Molinete Dc7000 12+1 Rolamentos",
-      "price": 109.0,
-      "original_price": 129.76,
-      "discount": 16.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m81eurdcjlzl56",
-      "link": "https://s.shopee.com.br/1VyLjGPta0",
-      "rating": "4.9",
-      "sales": 419,
-      "shop": "GYO COMERCIO LTDA",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22897703144,
-        "productName": "vara de pesca Joyfox  Vara Molinete1,8m + Carretel Molinete Dc7000 12+1 Rolamentos",
-        "price": "109",
-        "priceDiscountRate": 16,
-        "commissionRate": "0.07",
-        "sales": 419,
-        "ratingStar": "4.9",
-        "shopName": "GYO COMERCIO LTDA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m81eurdcjlzl56",
-        "productLink": "https://shopee.com.br/product/1045152671/22897703144",
-        "offerLink": "https://s.shopee.com.br/1VyLjGPta0"
       },
       "_last_price": null
     },
