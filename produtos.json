@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T07:24:07.725013+00:00",
+  "updated_at": "2026-08-15T07:42:59.562065+00:00",
   "total": 1131,
   "products": [
     {
@@ -1192,8 +1192,8 @@
     {
       "id": "53602592577",
       "name": " Fita para Vara de Pesca Brilha no Escuro - Adesivos PET Autoadesivos de 1,5/2/3/4cm",
-      "price": 7.64,
-      "original_price": 36.38,
+      "price": 5.91,
+      "original_price": 28.14,
       "discount": 79.0,
       "commission": 0.11,
       "image": "https://cf.shopee.com.br/file/sg-11134201-822xr-mhzqtjjs9ix05e",
@@ -1206,7 +1206,7 @@
       "_item": {
         "itemId": 53602592577,
         "productName": " Fita para Vara de Pesca Brilha no Escuro - Adesivos PET Autoadesivos de 1,5/2/3/4cm",
-        "price": "7.64",
+        "price": "5.91",
         "priceDiscountRate": 79,
         "commissionRate": "0.11",
         "sales": 235,
@@ -3216,7 +3216,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820m4-mnkc728pehag67",
         "productLink": "https://shopee.com.br/product/372103398/23199448516",
         "offerLink": "https://s.shopee.com.br/gPEiUBuec"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22693260071",
@@ -6467,8 +6468,8 @@
     {
       "id": "23993522162",
       "name": "Creatina Monohidratada Pura 1kg, 500g, 700g e  300g Refil - FTW",
-      "price": 45.9,
-      "original_price": 120.79,
+      "price": 39.9,
+      "original_price": 105.0,
       "discount": 62.0,
       "commission": 0.26,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf8fj8snacck60",
@@ -6481,7 +6482,7 @@
       "_item": {
         "itemId": 23993522162,
         "productName": "Creatina Monohidratada Pura 1kg, 500g, 700g e  300g Refil - FTW",
-        "price": "45.9",
+        "price": "39.9",
         "priceDiscountRate": 62,
         "commissionRate": "0.26",
         "sales": 1523,
@@ -7886,6 +7887,35 @@
       "_last_price": null
     },
     {
+      "id": "58211682297",
+      "name": "Kit 4 Peças Armadilha de Camarão Dobrável 8 Entradas - Rede de Pesca Nylon 95x95cm com Isca, Cordas e Boias",
+      "price": 60.33,
+      "original_price": 150.82,
+      "discount": 60.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820me-mouuebmm19fqb6",
+      "link": "https://s.shopee.com.br/6VN2PMqb0X",
+      "rating": "4.8",
+      "sales": 127,
+      "shop": "MG Olá",
+      "category": "rede de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58211682297,
+        "productName": "Kit 4 Peças Armadilha de Camarão Dobrável 8 Entradas - Rede de Pesca Nylon 95x95cm com Isca, Cordas e Boias",
+        "price": "60.33",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.03",
+        "sales": 127,
+        "ratingStar": "4.8",
+        "shopName": "MG Olá",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mouuebmm19fqb6",
+        "productLink": "https://shopee.com.br/product/1704055093/58211682297",
+        "offerLink": "https://s.shopee.com.br/6VN2PMqb0X"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22994482073",
       "name": "KIT 1 - 2 pares Luvas de Ciclismo com Vazamento de Dois Dedos e Protetor Solar para Pesca e Retirada de Motocicletas",
       "price": 19.99,
@@ -8810,35 +8840,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820n2-mnc09ygnfbpd8b",
         "productLink": "https://shopee.com.br/product/1179518791/23994933674",
         "offerLink": "https://s.shopee.com.br/9pdTdKd13Q"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58211682297",
-      "name": "Kit 4 Peças Armadilha de Camarão Dobrável 8 Entradas - Rede de Pesca Nylon 95x95cm com Isca, Cordas e Boias",
-      "price": 62.33,
-      "original_price": 148.4,
-      "discount": 58.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820me-mouuebmm19fqb6",
-      "link": "https://s.shopee.com.br/6VN2PMqb0X",
-      "rating": "4.8",
-      "sales": 127,
-      "shop": "MG Olá",
-      "category": "rede de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58211682297,
-        "productName": "Kit 4 Peças Armadilha de Camarão Dobrável 8 Entradas - Rede de Pesca Nylon 95x95cm com Isca, Cordas e Boias",
-        "price": "62.33",
-        "priceDiscountRate": 58,
-        "commissionRate": "0.03",
-        "sales": 127,
-        "ratingStar": "4.8",
-        "shopName": "MG Olá",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mouuebmm19fqb6",
-        "productLink": "https://shopee.com.br/product/1704055093/58211682297",
-        "offerLink": "https://s.shopee.com.br/6VN2PMqb0X"
       },
       "_last_price": null
     },
@@ -19546,8 +19547,8 @@
     {
       "id": "40265722427",
       "name": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
-      "price": 10.51,
-      "original_price": 18.44,
+      "price": 7.7,
+      "original_price": 13.51,
       "discount": 43.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
@@ -19560,7 +19561,7 @@
       "_item": {
         "itemId": 40265722427,
         "productName": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
-        "price": "10.51",
+        "price": "7.7",
         "priceDiscountRate": 43,
         "commissionRate": "0.03",
         "sales": 395,
