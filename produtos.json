@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T21:25:43.928424+00:00",
+  "updated_at": "2026-08-15T21:44:56.981740+00:00",
   "total": 1126,
   "products": [
     {
@@ -1232,8 +1232,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyp5enbirpg574",
         "productLink": "https://shopee.com.br/product/443105265/23897691943",
         "offerLink": "https://s.shopee.com.br/8AVFfUryzK"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "53602592577",
@@ -1377,7 +1376,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mejts7vieltu9f",
         "productLink": "https://shopee.com.br/product/1415768873/22994403632",
         "offerLink": "https://s.shopee.com.br/9pdTeSNwFL"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58210234177",
@@ -11349,35 +11349,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mpxsgrjyul1c20",
         "productLink": "https://shopee.com.br/product/1761526936/58210997361",
         "offerLink": "https://s.shopee.com.br/3qMGVSAV1U"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20997656316",
-      "name": "Pano de Boca Kit 6 Unidades Paninho Fralda de Bebe 100% Algodão 30cmx30cm",
-      "price": 14.99,
-      "original_price": 31.89,
-      "discount": 53.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rccl-ltfjisspmlrbad",
-      "link": "https://s.shopee.com.br/11258GGcRZ",
-      "rating": "4.7",
-      "sales": 4234,
-      "shop": "EssencialBaby",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20997656316,
-        "productName": "Pano de Boca Kit 6 Unidades Paninho Fralda de Bebe 100% Algodão 30cmx30cm",
-        "price": "14.99",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.03",
-        "sales": 4234,
-        "ratingStar": "4.7",
-        "shopName": "EssencialBaby",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rccl-ltfjisspmlrbad",
-        "productLink": "https://shopee.com.br/product/378105312/20997656316",
-        "offerLink": "https://s.shopee.com.br/11258GGcRZ"
       },
       "_last_price": null
     },
@@ -28198,6 +28169,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mli7ak1thedga0",
         "productLink": "https://shopee.com.br/product/373261329/58205979239",
         "offerLink": "https://s.shopee.com.br/8pl0K2b5xj"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20997656316",
+      "name": "Pano de Boca Kit 6 Unidades Paninho Fralda de Bebe 100% Algodão 30cmx30cm",
+      "price": 14.99,
+      "original_price": 19.99,
+      "discount": 25.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rccl-ltfjisspmlrbad",
+      "link": "https://s.shopee.com.br/11258GGcRZ",
+      "rating": "4.7",
+      "sales": 4234,
+      "shop": "EssencialBaby",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20997656316,
+        "productName": "Pano de Boca Kit 6 Unidades Paninho Fralda de Bebe 100% Algodão 30cmx30cm",
+        "price": "14.99",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.03",
+        "sales": 4234,
+        "ratingStar": "4.7",
+        "shopName": "EssencialBaby",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rccl-ltfjisspmlrbad",
+        "productLink": "https://shopee.com.br/product/378105312/20997656316",
+        "offerLink": "https://s.shopee.com.br/11258GGcRZ"
       },
       "_last_price": null
     },
