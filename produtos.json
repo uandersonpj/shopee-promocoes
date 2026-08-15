@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T16:57:05.865371+00:00",
+  "updated_at": "2026-08-15T17:16:20.703888+00:00",
   "total": 1128,
   "products": [
     {
@@ -113,8 +113,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qo-moodqvbtpo8yf2",
         "productLink": "https://shopee.com.br/product/1571156019/52011120312",
         "offerLink": "https://s.shopee.com.br/2gAJ7QlRrQ"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "13792180691",
@@ -2109,35 +2108,6 @@
       "_last_price": null
     },
     {
-      "id": "23592921540",
-      "name": "Coleira Peitoral Cachorro E Gato, Conjunto De Guia + Coleira Tipo Colete Para Pet Pequenos E Médios",
-      "price": 10.08,
-      "original_price": 38.77,
-      "discount": 74.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rces-lt7f4l3vtvy980",
-      "link": "https://s.shopee.com.br/9V0dFvImub",
-      "rating": "4.9",
-      "sales": 7703,
-      "shop": "GINKGO ECOMMERCE",
-      "category": "coleira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23592921540,
-        "productName": "Coleira Peitoral Cachorro E Gato, Conjunto De Guia + Coleira Tipo Colete Para Pet Pequenos E Médios",
-        "price": "10.08",
-        "priceDiscountRate": 74,
-        "commissionRate": "0.03",
-        "sales": 7703,
-        "ratingStar": "4.9",
-        "shopName": "GINKGO ECOMMERCE",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rces-lt7f4l3vtvy980",
-        "productLink": "https://shopee.com.br/product/1049584869/23592921540",
-        "offerLink": "https://s.shopee.com.br/9V0dFvImub"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58254621747",
       "name": "Óculos de sol feminino oval retrô, padrão tartaruga, estilo moderno",
       "price": 24.43,
@@ -4052,35 +4022,6 @@
       "_last_price": null
     },
     {
-      "id": "58210374218",
-      "name": "Sabão em Pó Premium 1Kg 2Kg 3Kg 4Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
-      "price": 9.99,
-      "original_price": 30.27,
-      "discount": 67.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mrx3sgnbu0avbd",
-      "link": "https://s.shopee.com.br/2gAJ7Ggkyu",
-      "rating": "4.8",
-      "sales": 343,
-      "shop": "AudCare Química",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58210374218,
-        "productName": "Sabão em Pó Premium 1Kg 2Kg 3Kg 4Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
-        "price": "9.99",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.13",
-        "sales": 343,
-        "ratingStar": "4.8",
-        "shopName": "AudCare Química",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mrx3sgnbu0avbd",
-        "productLink": "https://shopee.com.br/product/1820418238/58210374218",
-        "offerLink": "https://s.shopee.com.br/2gAJ7Ggkyu"
-      },
-      "_last_price": null
-    },
-    {
       "id": "19498730086",
       "name": "Kit 2 Aço inoxidável Suporte Porta Esponja para bucha de pia Prateleira de cozinha",
       "price": 6.0,
@@ -4309,6 +4250,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhvxwhtg622p86",
         "productLink": "https://shopee.com.br/product/692280250/27942471714",
         "offerLink": "https://s.shopee.com.br/2qTn9kTmON"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22094282340",
+      "name": "Coleira Peitoral Cachorro E Gato, Conjunto De Guia + Coleira Tipo Colete Para Pet Pequenos E Médios",
+      "price": 13.35,
+      "original_price": 40.45,
+      "discount": 67.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdyu-mcktsj0au8xj81",
+      "link": "https://s.shopee.com.br/1VyNnzVFKg",
+      "rating": "4.9",
+      "sales": 1494,
+      "shop": "Casa Essencial_Br",
+      "category": "coleira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22094282340,
+        "productName": "Coleira Peitoral Cachorro E Gato, Conjunto De Guia + Coleira Tipo Colete Para Pet Pequenos E Médios",
+        "price": "13.35",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.03",
+        "sales": 1494,
+        "ratingStar": "4.9",
+        "shopName": "Casa Essencial_Br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyu-mcktsj0au8xj81",
+        "productLink": "https://shopee.com.br/product/1392850246/22094282340",
+        "offerLink": "https://s.shopee.com.br/1VyNnzVFKg"
       },
       "_last_price": null
     },
@@ -7412,7 +7382,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu4-mks9boy67bib69",
         "productLink": "https://shopee.com.br/product/1177903362/22398897653",
         "offerLink": "https://s.shopee.com.br/7Kw8fqgNrE"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58208352912",
@@ -8366,6 +8337,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mrbmz3bfho91f3",
         "productLink": "https://shopee.com.br/product/1447668497/21699672982",
         "offerLink": "https://s.shopee.com.br/4VbxlfCQ8t"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58210374218",
+      "name": "Sabão em Pó Premium 1Kg 2Kg 3Kg 4Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
+      "price": 16.99,
+      "original_price": 40.45,
+      "discount": 58.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mrx3sgnbu0avbd",
+      "link": "https://s.shopee.com.br/2gAJ7Ggkyu",
+      "rating": "4.7",
+      "sales": 343,
+      "shop": "AudCare Química",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58210374218,
+        "productName": "Sabão em Pó Premium 1Kg 2Kg 3Kg 4Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
+        "price": "16.99",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.13",
+        "sales": 343,
+        "ratingStar": "4.7",
+        "shopName": "AudCare Química",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mrx3sgnbu0avbd",
+        "productLink": "https://shopee.com.br/product/1820418238/58210374218",
+        "offerLink": "https://s.shopee.com.br/2gAJ7Ggkyu"
       },
       "_last_price": null
     },
@@ -13907,35 +13907,6 @@
       "_last_price": null
     },
     {
-      "id": "23897975794",
-      "name": "Adaptador De Cápsula Reutilizável Para Conversor De Café Dolce Gusto Compatível Com Genio BR",
-      "price": 44.5,
-      "original_price": 89.0,
-      "discount": 50.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1ouye3qmznse5",
-      "link": "https://s.shopee.com.br/2qTnHgXHpn",
-      "rating": "4.9",
-      "sales": 636,
-      "shop": "RELAMEX--SHOP",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23897975794,
-        "productName": "Adaptador De Cápsula Reutilizável Para Conversor De Café Dolce Gusto Compatível Com Genio BR",
-        "price": "44.5",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.11",
-        "sales": 636,
-        "ratingStar": "4.9",
-        "shopName": "RELAMEX--SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1ouye3qmznse5",
-        "productLink": "https://shopee.com.br/product/766258772/23897975794",
-        "offerLink": "https://s.shopee.com.br/2qTnHgXHpn"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22998383507",
       "name": "Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais Vendida Do Brasil",
       "price": 57.9,
@@ -19011,8 +18982,8 @@
     {
       "id": "29580380931",
       "name": "Vara De Pesca Ultraleve De Fibra De Alto Carbono UL De 1.5M/1.68M/1.8M-Fiação E Fundição De Ponta Sólida Para Em Água Do",
-      "price": 38.76,
-      "original_price": 69.21,
+      "price": 39.17,
+      "original_price": 69.95,
       "discount": 44.0,
       "commission": 0.11,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxw-mcanhemu1c1j5a",
@@ -19025,7 +18996,7 @@
       "_item": {
         "itemId": 29580380931,
         "productName": "Vara De Pesca Ultraleve De Fibra De Alto Carbono UL De 1.5M/1.68M/1.8M-Fiação E Fundição De Ponta Sólida Para Em Água Do",
-        "price": "38.76",
+        "price": "39.17",
         "priceDiscountRate": 44,
         "commissionRate": "0.11",
         "sales": 1730,
@@ -24811,8 +24782,8 @@
     {
       "id": "28905503722",
       "name": "Caixa De Equipamento De Pesca Dupla Face , Portátil , Resistente À Pressão E A Quedas Para Armazenar Isca",
-      "price": 20.07,
-      "original_price": 30.41,
+      "price": 20.2,
+      "original_price": 30.61,
       "discount": 34.0,
       "commission": 0.11,
       "image": "https://cf.shopee.com.br/file/sg-11134301-824j0-mpunpqiwbxtt40",
@@ -24825,7 +24796,7 @@
       "_item": {
         "itemId": 28905503722,
         "productName": "Caixa De Equipamento De Pesca Dupla Face , Portátil , Resistente À Pressão E A Quedas Para Armazenar Isca",
-        "price": "20.07",
+        "price": "20.2",
         "priceDiscountRate": 34,
         "commissionRate": "0.11",
         "sales": 702,
@@ -31272,6 +31243,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4946jqt4u693f",
         "productLink": "https://shopee.com.br/product/446247790/9787295031",
         "offerLink": "https://s.shopee.com.br/70JKM4B7Dt"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "12823128886",
+      "name": "Creatina Monohidratada Integralmedica 60 cápsulas",
+      "price": 22.13,
+      "original_price": 26.99,
+      "discount": 18.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7renj-m2ckuwis1x9y28",
+      "link": "https://s.shopee.com.br/4qEnhJstK1",
+      "rating": "4.9",
+      "sales": 1637,
+      "shop": "Integralmedica",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 12823128886,
+        "productName": "Creatina Monohidratada Integralmedica 60 cápsulas",
+        "price": "22.13",
+        "priceDiscountRate": 18,
+        "commissionRate": "0.03",
+        "sales": 1637,
+        "ratingStar": "4.9",
+        "shopName": "Integralmedica",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7renj-m2ckuwis1x9y28",
+        "productLink": "https://shopee.com.br/product/544014438/12823128886",
+        "offerLink": "https://s.shopee.com.br/4qEnhJstK1"
       },
       "_last_price": null
     },
