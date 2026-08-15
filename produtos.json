@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T06:46:19.366498+00:00",
+  "updated_at": "2026-08-15T07:05:12.487909+00:00",
   "total": 1131,
   "products": [
     {
@@ -2810,7 +2810,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mlffathukzr9f4",
         "productLink": "https://shopee.com.br/product/1232299933/54850610196",
         "offerLink": "https://s.shopee.com.br/5LB4IH7i6x"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22793679889",
@@ -6464,8 +6465,8 @@
     {
       "id": "23993522162",
       "name": "Creatina Monohidratada Pura 1kg, 500g, 700g e  300g Refil - FTW",
-      "price": 64.9,
-      "original_price": 170.79,
+      "price": 45.9,
+      "original_price": 120.79,
       "discount": 62.0,
       "commission": 0.26,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf8fj8snacck60",
@@ -6478,7 +6479,7 @@
       "_item": {
         "itemId": 23993522162,
         "productName": "Creatina Monohidratada Pura 1kg, 500g, 700g e  300g Refil - FTW",
-        "price": "64.9",
+        "price": "45.9",
         "priceDiscountRate": 62,
         "commissionRate": "0.26",
         "sales": 1523,
@@ -6806,6 +6807,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhg9ou384h6q88",
         "productLink": "https://shopee.com.br/product/1074010065/58251125731",
         "offerLink": "https://s.shopee.com.br/4Az7bicDKA"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23596569225",
+      "name": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
+      "price": 38.99,
+      "original_price": 99.97,
+      "discount": 61.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
+      "link": "https://s.shopee.com.br/9V0dFx4mTr",
+      "rating": "4.8",
+      "sales": 2825,
+      "shop": "ME MERCADO",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23596569225,
+        "productName": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
+        "price": "38.99",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.07",
+        "sales": 2825,
+        "ratingStar": "4.8",
+        "shopName": "ME MERCADO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
+        "productLink": "https://shopee.com.br/product/392239188/23596569225",
+        "offerLink": "https://s.shopee.com.br/9V0dFx4mTr"
       },
       "_last_price": null
     },
@@ -12403,35 +12433,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rff4-m9paksgtm7554a",
         "productLink": "https://shopee.com.br/product/1006215031/26236796614",
         "offerLink": "https://s.shopee.com.br/6L3bSuTf8h"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23596569225",
-      "name": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
-      "price": 48.99,
-      "original_price": 99.98,
-      "discount": 51.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
-      "link": "https://s.shopee.com.br/9V0dFx4mTr",
-      "rating": "4.8",
-      "sales": 2825,
-      "shop": "ME MERCADO",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23596569225,
-        "productName": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
-        "price": "48.99",
-        "priceDiscountRate": 51,
-        "commissionRate": "0.07",
-        "sales": 2825,
-        "ratingStar": "4.8",
-        "shopName": "ME MERCADO",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
-        "productLink": "https://shopee.com.br/product/392239188/23596569225",
-        "offerLink": "https://s.shopee.com.br/9V0dFx4mTr"
       },
       "_last_price": null
     },
