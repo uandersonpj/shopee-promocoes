@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T08:39:48.868029+00:00",
-  "total": 1131,
+  "updated_at": "2026-08-15T08:58:41.744464+00:00",
+  "total": 1130,
   "products": [
     {
       "id": "23698808886",
@@ -5305,7 +5305,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r5-motkngj2m9kyf8",
         "productLink": "https://shopee.com.br/product/1620515295/22694449078",
         "offerLink": "https://s.shopee.com.br/W5oXR32ND"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "17570976729",
@@ -8291,35 +8292,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-meqn8htfql1j4d",
         "productLink": "https://shopee.com.br/product/1541645210/26489577805",
         "offerLink": "https://s.shopee.com.br/1qbCpOhdw8"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20144035408",
-      "name": "MARVER 100PCS Flutuadores Ovais De Pesca Contas Noturnas Nova Luz Luminosa Mar De Plástico",
-      "price": 11.95,
-      "original_price": 29.15,
-      "discount": 59.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134201-820ln-mqxkb1vg60hw7a",
-      "link": "https://s.shopee.com.br/30n9UmgLuF",
-      "rating": "4.5",
-      "sales": 13,
-      "shop": "maxqueen.br",
-      "category": "flutuador pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20144035408,
-        "productName": "MARVER 100PCS Flutuadores Ovais De Pesca Contas Noturnas Nova Luz Luminosa Mar De Plástico",
-        "price": "11.95",
-        "priceDiscountRate": 59,
-        "commissionRate": "0.03",
-        "sales": 13,
-        "ratingStar": "4.5",
-        "shopName": "maxqueen.br",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mqxkb1vg60hw7a",
-        "productLink": "https://shopee.com.br/product/427548129/20144035408",
-        "offerLink": "https://s.shopee.com.br/30n9UmgLuF"
       },
       "_last_price": null
     },
@@ -16821,6 +16793,35 @@
       "_last_price": null
     },
     {
+      "id": "40265722427",
+      "name": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
+      "price": 7.7,
+      "original_price": 14.53,
+      "discount": 47.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
+      "link": "https://s.shopee.com.br/6AkBHrY7kn",
+      "rating": "5",
+      "sales": 395,
+      "shop": "br.FashLoop",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 40265722427,
+        "productName": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
+        "price": "7.7",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.03",
+        "sales": 395,
+        "ratingStar": "5",
+        "shopName": "br.FashLoop",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
+        "productLink": "https://shopee.com.br/product/1603567416/40265722427",
+        "offerLink": "https://s.shopee.com.br/6AkBHrY7kn"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20552135222",
       "name": "Colete Salva Vidas Flutuador Infantil AcquaFun My Little Crab 100% Bóia Fabricado no Brasil",
       "price": 39.99,
@@ -19572,35 +19573,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aw-mftl47ed1zpo44",
         "productLink": "https://shopee.com.br/product/1620512848/19299897374",
         "offerLink": "https://s.shopee.com.br/9zwtqtBGyn"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "40265722427",
-      "name": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
-      "price": 7.7,
-      "original_price": 13.51,
-      "discount": 43.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
-      "link": "https://s.shopee.com.br/6AkBHrY7kn",
-      "rating": "5",
-      "sales": 395,
-      "shop": "br.FashLoop",
-      "category": "isca artificial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40265722427,
-        "productName": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
-        "price": "7.7",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.03",
-        "sales": 395,
-        "ratingStar": "5",
-        "shopName": "br.FashLoop",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
-        "productLink": "https://shopee.com.br/product/1603567416/40265722427",
-        "offerLink": "https://s.shopee.com.br/6AkBHrY7kn"
       },
       "_last_price": null
     },
