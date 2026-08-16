@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T00:19:02.055131+00:00",
-  "total": 1124,
+  "updated_at": "2026-08-16T00:38:09.377000+00:00",
+  "total": 1126,
   "products": [
     {
       "id": "23698808886",
@@ -492,7 +492,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260c-mlw5gdmlji8493",
         "productLink": "https://shopee.com.br/product/1459307687/52905774499",
         "offerLink": "https://s.shopee.com.br/3g2qJDVirE"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "43479061221",
@@ -1751,8 +1752,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1xeanm14pt61d",
         "productLink": "https://shopee.com.br/product/1017646777/22198016021",
         "offerLink": "https://s.shopee.com.br/50YDtc1OKj"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22998670251",
@@ -7496,31 +7496,31 @@
       "_last_price": null
     },
     {
-      "id": "58214286460",
+      "id": "58264274396",
       "name": "Kit 18 Itens Faixas Elásticas Fitness Extensor Musculação Treino em Casa Yoga Pilates Academia",
-      "price": 49.89,
-      "original_price": 124.72,
+      "price": 49.99,
+      "original_price": 124.97,
       "discount": 60.0,
       "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82597-mqoghws4vbi8de",
-      "link": "https://s.shopee.com.br/1LexmF0kqG",
-      "rating": "4.9",
-      "sales": 126,
-      "shop": "Uma Nova Vida",
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8258q-mqr2kbhxxaf4cf",
+      "link": "https://s.shopee.com.br/3LQ29ut8ma",
+      "rating": "4.8",
+      "sales": 351,
+      "shop": "Loja Geral Breeze",
       "category": "elastico musculacao",
       "source": "shopee",
       "_item": {
-        "itemId": 58214286460,
+        "itemId": 58264274396,
         "productName": "Kit 18 Itens Faixas Elásticas Fitness Extensor Musculação Treino em Casa Yoga Pilates Academia",
-        "price": "49.89",
+        "price": "49.99",
         "priceDiscountRate": 60,
         "commissionRate": "0.03",
-        "sales": 126,
-        "ratingStar": "4.9",
-        "shopName": "Uma Nova Vida",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82597-mqoghws4vbi8de",
-        "productLink": "https://shopee.com.br/product/1741533420/58214286460",
-        "offerLink": "https://s.shopee.com.br/1LexmF0kqG"
+        "sales": 351,
+        "ratingStar": "4.8",
+        "shopName": "Loja Geral Breeze",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258q-mqr2kbhxxaf4cf",
+        "productLink": "https://shopee.com.br/product/1774410633/58264274396",
+        "offerLink": "https://s.shopee.com.br/3LQ29ut8ma"
       },
       "_last_price": null
     },
@@ -11535,7 +11535,7 @@
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8260t-mjl7s49a0z5tdc",
       "link": "https://s.shopee.com.br/8fRWGQPU15",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 2523,
       "shop": "Choice Oficial",
       "category": "relogio masculino",
@@ -11547,7 +11547,7 @@
         "priceDiscountRate": 53,
         "commissionRate": "0.07",
         "sales": 2523,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "Choice Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260t-mjl7s49a0z5tdc",
         "productLink": "https://shopee.com.br/product/1006215031/26385084513",
@@ -23129,8 +23129,8 @@
     {
       "id": "23498778973",
       "name": "Protetor Solar Facial Hidrabene Clareador FPS 70 Antissinais Clareia a pele Toque Seco 50g Unidade ou Kit",
-      "price": 60.99,
-      "original_price": 95.3,
+      "price": 39.96,
+      "original_price": 62.44,
       "discount": 36.0,
       "commission": 0.075,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwt-mcuquxfbz03yae",
@@ -23143,7 +23143,7 @@
       "_item": {
         "itemId": 23498778973,
         "productName": "Protetor Solar Facial Hidrabene Clareador FPS 70 Antissinais Clareia a pele Toque Seco 50g Unidade ou Kit",
-        "price": "60.99",
+        "price": "39.96",
         "priceDiscountRate": 36,
         "commissionRate": "0.075",
         "sales": 4767,
@@ -23796,8 +23796,8 @@
     {
       "id": "22194194490",
       "name": "Hidrabene Protetor Solar Facial Clareador FPS 70 Antissinais Toque Seco 50g Unidade ou Kit Clareia Pele Antiacne UVA",
-      "price": 59.97,
-      "original_price": 92.26,
+      "price": 39.97,
+      "original_price": 61.49,
       "discount": 35.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbe6ehxfkwwf71",
@@ -23810,7 +23810,7 @@
       "_item": {
         "itemId": 22194194490,
         "productName": "Hidrabene Protetor Solar Facial Clareador FPS 70 Antissinais Toque Seco 50g Unidade ou Kit Clareia Pele Antiacne UVA",
-        "price": "59.97",
+        "price": "39.97",
         "priceDiscountRate": 35,
         "commissionRate": "0.07",
         "sales": 2044,
@@ -25012,6 +25012,35 @@
       "_last_price": null
     },
     {
+      "id": "21999760821",
+      "name": "Hidrabene Protetor Solar Facial Clareador FPS 70 Toque Seco Antissinais Clareia a pele 50g",
+      "price": 39.97,
+      "original_price": 59.66,
+      "discount": 33.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mau43p4jpk3d01",
+      "link": "https://s.shopee.com.br/7psPGnvGts",
+      "rating": "4.9",
+      "sales": 5226,
+      "shop": "Unix Cosméticos",
+      "category": "protetor solar",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21999760821,
+        "productName": "Hidrabene Protetor Solar Facial Clareador FPS 70 Toque Seco Antissinais Clareia a pele 50g",
+        "price": "39.97",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.07",
+        "sales": 5226,
+        "ratingStar": "4.9",
+        "shopName": "Unix Cosméticos",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mau43p4jpk3d01",
+        "productLink": "https://shopee.com.br/product/314839768/21999760821",
+        "offerLink": "https://s.shopee.com.br/7psPGnvGts"
+      },
+      "_last_price": null
+    },
+    {
       "id": "3583616499",
       "name": "Carrinho Camaro Amarelo Vira Robô Transformers Bate Volta",
       "price": 30.76,
@@ -25501,6 +25530,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mmq2ro9e330g46",
         "productLink": "https://shopee.com.br/product/1747088962/22799427951",
         "offerLink": "https://s.shopee.com.br/AUtARgLOtP"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22794170349",
+      "name": "Protetor Solar Facial Clareador  Hidrabene FPS 70 Toque Seco Antissinais Clareia a pele 50g",
+      "price": 39.96,
+      "original_price": 58.76,
+      "discount": 32.0,
+      "commission": 0.075,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ra3u-mbe7m8ziioae62",
+      "link": "https://s.shopee.com.br/5LB4ID4myd",
+      "rating": "4.9",
+      "sales": 2221,
+      "shop": "Esthik ",
+      "category": "protetor solar",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22794170349,
+        "productName": "Protetor Solar Facial Clareador  Hidrabene FPS 70 Toque Seco Antissinais Clareia a pele 50g",
+        "price": "39.96",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.075",
+        "sales": 2221,
+        "ratingStar": "4.9",
+        "shopName": "Esthik ",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra3u-mbe7m8ziioae62",
+        "productLink": "https://shopee.com.br/product/314834922/22794170349",
+        "offerLink": "https://s.shopee.com.br/5LB4ID4myd"
       },
       "_last_price": null
     },
