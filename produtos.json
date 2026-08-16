@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T00:38:09.377000+00:00",
+  "updated_at": "2026-08-16T00:57:20.350073+00:00",
   "total": 1126,
   "products": [
     {
@@ -1381,7 +1381,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mp2w11sr13ph39",
         "productLink": "https://shopee.com.br/product/959010869/58210234177",
         "offerLink": "https://s.shopee.com.br/19YduZZmD"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58261933291",
@@ -2424,8 +2425,8 @@
     {
       "id": "25074712287",
       "name": "20 Peças Cabeça De Pesca Líderes De Linha De Aço Inoxidável Com Fivela Giratória Para Equipamento De Isca Ou Ganchos",
-      "price": 9.34,
-      "original_price": 33.36,
+      "price": 9.21,
+      "original_price": 32.89,
       "discount": 72.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
@@ -2438,7 +2439,7 @@
       "_item": {
         "itemId": 25074712287,
         "productName": "20 Peças Cabeça De Pesca Líderes De Linha De Aço Inoxidável Com Fivela Giratória Para Equipamento De Isca Ou Ganchos",
-        "price": "9.34",
+        "price": "9.21",
         "priceDiscountRate": 72,
         "commissionRate": "0.07",
         "sales": 1571,
@@ -11535,7 +11536,7 @@
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8260t-mjl7s49a0z5tdc",
       "link": "https://s.shopee.com.br/8fRWGQPU15",
-      "rating": "4.7",
+      "rating": "4.8",
       "sales": 2523,
       "shop": "Choice Oficial",
       "category": "relogio masculino",
@@ -11547,7 +11548,7 @@
         "priceDiscountRate": 53,
         "commissionRate": "0.07",
         "sales": 2523,
-        "ratingStar": "4.7",
+        "ratingStar": "4.8",
         "shopName": "Choice Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260t-mjl7s49a0z5tdc",
         "productLink": "https://shopee.com.br/product/1006215031/26385084513",
@@ -27630,7 +27631,7 @@
       "commission": 0.06,
       "image": "https://cf.shopee.com.br/file/br-11134207-820le-mo9nab0ho2klbf",
       "link": "https://s.shopee.com.br/6fgRsjgEPy",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 2241,
       "shop": "Alumínio Nacional",
       "category": "panela pressao",
@@ -27642,7 +27643,7 @@
         "priceDiscountRate": 27,
         "commissionRate": "0.06",
         "sales": 2241,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "Alumínio Nacional",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mo9nab0ho2klbf",
         "productLink": "https://shopee.com.br/product/359066629/19975160032",
