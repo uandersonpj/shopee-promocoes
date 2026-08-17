@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T16:38:51.115724+00:00",
+  "updated_at": "2026-08-17T16:58:12.648632+00:00",
   "total": 1128,
   "products": [
     {
@@ -1684,8 +1684,8 @@
     {
       "id": "20398528613",
       "name": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
-      "price": 11.89,
-      "original_price": 49.54,
+      "price": 11.97,
+      "original_price": 49.88,
       "discount": 76.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mmvxxzgnnoqsff",
@@ -1698,7 +1698,7 @@
       "_item": {
         "itemId": 20398528613,
         "productName": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
-        "price": "11.89",
+        "price": "11.97",
         "priceDiscountRate": 76,
         "commissionRate": "0.07",
         "sales": 7099,
@@ -3882,6 +3882,35 @@
       "_last_price": null
     },
     {
+      "id": "58210374218",
+      "name": "Sabão em Pó Premium 1Kg 2Kg 3Kg 4Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
+      "price": 9.99,
+      "original_price": 30.27,
+      "discount": 67.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mrx3sgnbu0avbd",
+      "link": "https://s.shopee.com.br/30nFm3GjMO",
+      "rating": "4.7",
+      "sales": 588,
+      "shop": "AudCare Química",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58210374218,
+        "productName": "Sabão em Pó Premium 1Kg 2Kg 3Kg 4Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
+        "price": "9.99",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.13",
+        "sales": 588,
+        "ratingStar": "4.7",
+        "shopName": "AudCare Química",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mrx3sgnbu0avbd",
+        "productLink": "https://shopee.com.br/product/1820418238/58210374218",
+        "offerLink": "https://s.shopee.com.br/30nFm3GjMO"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19498730086",
       "name": "Kit 2 Aço inoxidável Suporte Porta Esponja para bucha de pia Prateleira de cozinha",
       "price": 6.0,
@@ -4399,8 +4428,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
         "productLink": "https://shopee.com.br/product/1595150949/22594316058",
         "offerLink": "https://s.shopee.com.br/9zx0772Yi5"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22697748403",
@@ -7992,35 +8020,6 @@
       "_last_price": null
     },
     {
-      "id": "58210374218",
-      "name": "Sabão em Pó Premium 1Kg 2Kg 3Kg 4Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
-      "price": 16.99,
-      "original_price": 40.45,
-      "discount": 58.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mrx3sgnbu0avbd",
-      "link": "https://s.shopee.com.br/30nFm3GjMO",
-      "rating": "4.7",
-      "sales": 588,
-      "shop": "AudCare Química",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58210374218,
-        "productName": "Sabão em Pó Premium 1Kg 2Kg 3Kg 4Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
-        "price": "16.99",
-        "priceDiscountRate": 58,
-        "commissionRate": "0.13",
-        "sales": 588,
-        "ratingStar": "4.7",
-        "shopName": "AudCare Química",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mrx3sgnbu0avbd",
-        "productLink": "https://shopee.com.br/product/1820418238/58210374218",
-        "offerLink": "https://s.shopee.com.br/30nFm3GjMO"
-      },
-      "_last_price": null
-    },
-    {
       "id": "47214406847",
       "name": "Kit 4 Potes Hermético 1,5 L Com Bico Dosador Medidor Porta Sabão em Pó /Sabão Líquido/ Amaciante Lavanderia Organizador",
       "price": 60.39,
@@ -8081,8 +8080,8 @@
     {
       "id": "25338080323",
       "name": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-      "price": 149.0,
-      "original_price": 354.76,
+      "price": 55.0,
+      "original_price": 130.95,
       "discount": 58.0,
       "commission": 0.2,
       "image": "https://cf.shopee.com.br/file/sg-11134207-823pa-mpa7rmkjv3t9e6",
@@ -8095,7 +8094,7 @@
       "_item": {
         "itemId": 25338080323,
         "productName": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-        "price": "149",
+        "price": "55",
         "priceDiscountRate": 58,
         "commissionRate": "0.2",
         "sales": 3823,
@@ -9118,35 +9117,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mqowmslbsmirfd",
         "productLink": "https://shopee.com.br/product/1396794386/22298882024",
         "offerLink": "https://s.shopee.com.br/8Kom7vpwHk"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "42159232629",
-      "name": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
-      "price": 43.34,
-      "original_price": 100.79,
-      "discount": 57.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e",
-      "link": "https://s.shopee.com.br/6L3hkGfLPD",
-      "rating": "4.8",
-      "sales": 1175,
-      "shop": "Pet Tobby",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42159232629,
-        "productName": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
-        "price": "43.34",
-        "priceDiscountRate": 57,
-        "commissionRate": "0.11",
-        "sales": 1175,
-        "ratingStar": "4.8",
-        "shopName": "Pet Tobby",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e",
-        "productLink": "https://shopee.com.br/product/829646892/42159232629",
-        "offerLink": "https://s.shopee.com.br/6L3hkGfLPD"
       },
       "_last_price": null
     },
@@ -10601,6 +10571,35 @@
       "_last_price": null
     },
     {
+      "id": "21598148970",
+      "name": "Casinha Toca Cama Iglu 2 Em 1 Cachorro Cão E Gato Tam P, M e G",
+      "price": 34.9,
+      "original_price": 75.87,
+      "discount": 54.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9s01koh21heaa",
+      "link": "https://s.shopee.com.br/5LBBa1aUTk",
+      "rating": "4.9",
+      "sales": 423,
+      "shop": "Facillite",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21598148970,
+        "productName": "Casinha Toca Cama Iglu 2 Em 1 Cachorro Cão E Gato Tam P, M e G",
+        "price": "34.9",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.03",
+        "sales": 423,
+        "ratingStar": "4.9",
+        "shopName": "Facillite",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9s01koh21heaa",
+        "productLink": "https://shopee.com.br/product/1500775330/21598148970",
+        "offerLink": "https://s.shopee.com.br/5LBBa1aUTk"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58207663151",
       "name": "Kit 50 a 300 Formas Descartável Para Airfryer Antiaderente Não Suja Cozinha Fritadedira Promoção",
       "price": 10.99,
@@ -11415,8 +11414,8 @@
     {
       "id": "24823630470",
       "name": "Óculos De Sol Retangulares Retrô Sem Aro – Design Vintage Unissex Para Festivais De Moda E Música De Rua",
-      "price": 12.35,
-      "original_price": 26.28,
+      "price": 12.36,
+      "original_price": 26.3,
       "discount": 53.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823of-mp4mkbkbx62qd9",
@@ -11429,7 +11428,7 @@
       "_item": {
         "itemId": 24823630470,
         "productName": "Óculos De Sol Retangulares Retrô Sem Aro – Design Vintage Unissex Para Festivais De Moda E Música De Rua",
-        "price": "12.35",
+        "price": "12.36",
         "priceDiscountRate": 53,
         "commissionRate": "0.07",
         "sales": 3430,
@@ -11728,64 +11727,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zw7-mmrhln0n5g5h36",
         "productLink": "https://shopee.com.br/product/734783929/22099456041",
         "offerLink": "https://s.shopee.com.br/5LBAYPo5l8"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22793480756",
-      "name": "Casinha Toca Cama Iglu 2 Em 1 Cachorro Cão E Gato Tam P, M e G",
-      "price": 42.9,
-      "original_price": 89.38,
-      "discount": 52.0,
-      "commission": 0.19,
-      "image": "https://cf.shopee.com.br/file/br-11134201-820lz-mqxlxe3lrqite4",
-      "link": "https://s.shopee.com.br/5fo0x2hsl1",
-      "rating": "4.9",
-      "sales": 1705,
-      "shop": "Lili Pet - caminhas de Luxo",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22793480756,
-        "productName": "Casinha Toca Cama Iglu 2 Em 1 Cachorro Cão E Gato Tam P, M e G",
-        "price": "42.9",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.19",
-        "sales": 1705,
-        "ratingStar": "4.9",
-        "shopName": "Lili Pet - caminhas de Luxo",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lz-mqxlxe3lrqite4",
-        "productLink": "https://shopee.com.br/product/1263417212/22793480756",
-        "offerLink": "https://s.shopee.com.br/5fo0x2hsl1"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "19099777641",
-      "name": "Casinha Cachorro Grande N5 Casa Pet Com Proteção Raios UV Desmontavel Resistente",
-      "price": 79.97,
-      "original_price": 166.6,
-      "discount": 52.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma0a5ronfsxl69",
-      "link": "https://s.shopee.com.br/AUtGhvPTxO",
-      "rating": "4.8",
-      "sales": 250,
-      "shop": "pedrobstore",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19099777641,
-        "productName": "Casinha Cachorro Grande N5 Casa Pet Com Proteção Raios UV Desmontavel Resistente",
-        "price": "79.97",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 250,
-        "ratingStar": "4.8",
-        "shopName": "pedrobstore",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma0a5ronfsxl69",
-        "productLink": "https://shopee.com.br/product/344387064/19099777641",
-        "offerLink": "https://s.shopee.com.br/AUtGhvPTxO"
       },
       "_last_price": null
     },
@@ -17358,35 +17299,6 @@
       "_last_price": null
     },
     {
-      "id": "58264975173",
-      "name": "SSD Interno M.2 NVMe KNUP 128GB PCIe 3.0 Formato 2280 Para PC Notebook",
-      "price": 198.99,
-      "original_price": 361.8,
-      "discount": 45.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mr240gwo90qv3b",
-      "link": "https://s.shopee.com.br/8AVLvW28F7",
-      "rating": "4.7",
-      "sales": 27,
-      "shop": "andrezhou478",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58264975173,
-        "productName": "SSD Interno M.2 NVMe KNUP 128GB PCIe 3.0 Formato 2280 Para PC Notebook",
-        "price": "198.99",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.03",
-        "sales": 27,
-        "ratingStar": "4.7",
-        "shopName": "andrezhou478",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mr240gwo90qv3b",
-        "productLink": "https://shopee.com.br/product/1526867853/58264975173",
-        "offerLink": "https://s.shopee.com.br/8AVLvW28F7"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22498904690",
       "name": "Suporte para Placa de Vídeo GPU Ajustável Nvidia e Radeon Universal",
       "price": 10.99,
@@ -19152,6 +19064,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mmc8icmglxc4d7",
         "productLink": "https://shopee.com.br/product/744168154/22893070383",
         "offerLink": "https://s.shopee.com.br/80BvjKZ01h"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18396954115",
+      "name": "Casinha Plástica Cachorro N4 e N5 Porte Pequeno Médio Com Colchonete",
+      "price": 45.99,
+      "original_price": 80.68,
+      "discount": 43.0,
+      "commission": 0.15,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-820o0-mny8r876yeipf3",
+      "link": "https://s.shopee.com.br/6L3ilrWgRu",
+      "rating": "4.6",
+      "sales": 319,
+      "shop": "ModuaDistribuidora_",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18396954115,
+        "productName": "Casinha Plástica Cachorro N4 e N5 Porte Pequeno Médio Com Colchonete",
+        "price": "45.99",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.15",
+        "sales": 319,
+        "ratingStar": "4.6",
+        "shopName": "ModuaDistribuidora_",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820o0-mny8r876yeipf3",
+        "productLink": "https://shopee.com.br/product/988543100/18396954115",
+        "offerLink": "https://s.shopee.com.br/6L3ilrWgRu"
       },
       "_last_price": null
     },
@@ -21478,8 +21419,8 @@
     {
       "id": "41417041430",
       "name": "Placa de Vídeo MSI NVIDIA GeForce RTX 5060 SHADOW 2X OC, 8GB, GDDR7, 128 Bits - 912-V537-038",
-      "price": 2789.0,
-      "original_price": 4572.13,
+      "price": 2799.0,
+      "original_price": 4588.52,
       "discount": 39.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-824h3-me53t34yuepze5",
@@ -21492,7 +21433,7 @@
       "_item": {
         "itemId": 41417041430,
         "productName": "Placa de Vídeo MSI NVIDIA GeForce RTX 5060 SHADOW 2X OC, 8GB, GDDR7, 128 Bits - 912-V537-038",
-        "price": "2789",
+        "price": "2799",
         "priceDiscountRate": 39,
         "commissionRate": "0.03",
         "sales": 193,
@@ -21675,6 +21616,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262v-ml180252vj0gcc",
         "productLink": "https://shopee.com.br/product/335170333/23493418176",
         "offerLink": "https://s.shopee.com.br/6VN7wVkvlz"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21697803481",
+      "name": "Casa Casinha Plástica Para Cachorro N6 N7 N8 N9 Porte Médio e Grande Extra Grande Big",
+      "price": 101.99,
+      "original_price": 167.2,
+      "discount": 39.0,
+      "commission": 0.1,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820la-mofqx2lqjfnqd9",
+      "link": "https://s.shopee.com.br/6AkHXxfyk8",
+      "rating": "4.7",
+      "sales": 959,
+      "shop": "Rapidex Pet",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21697803481,
+        "productName": "Casa Casinha Plástica Para Cachorro N6 N7 N8 N9 Porte Médio e Grande Extra Grande Big",
+        "price": "101.99",
+        "priceDiscountRate": 39,
+        "commissionRate": "0.1",
+        "sales": 959,
+        "ratingStar": "4.7",
+        "shopName": "Rapidex Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mofqx2lqjfnqd9",
+        "productLink": "https://shopee.com.br/product/1291547401/21697803481",
+        "offerLink": "https://s.shopee.com.br/6AkHXxfyk8"
       },
       "_last_price": null
     },
@@ -22922,6 +22892,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823p5-mosr0eth89ou3c",
         "productLink": "https://shopee.com.br/product/1691112742/58261588791",
         "offerLink": "https://s.shopee.com.br/2BE9YAepMB"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58264975173",
+      "name": "SSD Interno M.2 NVMe KNUP 128GB PCIe 3.0 Formato 2280 Para PC Notebook",
+      "price": 229.99,
+      "original_price": 359.36,
+      "discount": 36.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mr240gwo90qv3b",
+      "link": "https://s.shopee.com.br/8AVLvW28F7",
+      "rating": "4.7",
+      "sales": 27,
+      "shop": "andrezhou478",
+      "category": "ssd nvme",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58264975173,
+        "productName": "SSD Interno M.2 NVMe KNUP 128GB PCIe 3.0 Formato 2280 Para PC Notebook",
+        "price": "229.99",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 27,
+        "ratingStar": "4.7",
+        "shopName": "andrezhou478",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mr240gwo90qv3b",
+        "productLink": "https://shopee.com.br/product/1526867853/58264975173",
+        "offerLink": "https://s.shopee.com.br/8AVLvW28F7"
       },
       "_last_price": null
     },
@@ -24521,6 +24520,35 @@
       "_last_price": null
     },
     {
+      "id": "58208582003",
+      "name": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
+      "price": 47.9,
+      "original_price": 72.58,
+      "discount": 34.0,
+      "commission": 0.14,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-81zvq-mmvvas3b8av966",
+      "link": "https://s.shopee.com.br/6pzyLBdROK",
+      "rating": "4.8",
+      "sales": 1123,
+      "shop": "MATILHA STORE",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58208582003,
+        "productName": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
+        "price": "47.9",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.14",
+        "sales": 1123,
+        "ratingStar": "4.8",
+        "shopName": "MATILHA STORE",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvq-mmvvas3b8av966",
+        "productLink": "https://shopee.com.br/product/406376010/58208582003",
+        "offerLink": "https://s.shopee.com.br/6pzyLBdROK"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18998141405",
       "name": "Panela de Pressão Alegrete 4,5 L Fechamento Externo Diversas Cores Teflon Anti-Anderente",
       "price": 143.9,
@@ -25010,35 +25038,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc9rpzgvcfe3ae",
         "productLink": "https://shopee.com.br/product/1501485889/19599842993",
         "offerLink": "https://s.shopee.com.br/1Lf1n4YBbr"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23499514126",
-      "name": "Casa Casinha Plástica Para Cachorro N6 N7 N8 N9 Porte Médio e Grande Extra Grande Big",
-      "price": 94.9,
-      "original_price": 141.64,
-      "discount": 33.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mqx8v9r6c4job4",
-      "link": "https://s.shopee.com.br/9V0jW5THz6",
-      "rating": "4.6",
-      "sales": 634,
-      "shop": "MOLDPET",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23499514126,
-        "productName": "Casa Casinha Plástica Para Cachorro N6 N7 N8 N9 Porte Médio e Grande Extra Grande Big",
-        "price": "94.9",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.08",
-        "sales": 634,
-        "ratingStar": "4.6",
-        "shopName": "MOLDPET",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mqx8v9r6c4job4",
-        "productLink": "https://shopee.com.br/product/353873361/23499514126",
-        "offerLink": "https://s.shopee.com.br/9V0jW5THz6"
       },
       "_last_price": null
     },
@@ -25567,8 +25566,8 @@
     {
       "id": "54262669579",
       "name": "Cafeteira Prensa Francesa em Vidro e Inox Praticidade Coagem Rapida Filtro Removivel",
-      "price": 25.99,
-      "original_price": 38.22,
+      "price": 18.9,
+      "original_price": 27.79,
       "discount": 32.0,
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mptds7r37k0331",
@@ -25581,7 +25580,7 @@
       "_item": {
         "itemId": 54262669579,
         "productName": "Cafeteira Prensa Francesa em Vidro e Inox Praticidade Coagem Rapida Filtro Removivel",
-        "price": "25.99",
+        "price": "18.9",
         "priceDiscountRate": 32,
         "commissionRate": "0.08",
         "sales": 2037,
@@ -26344,6 +26343,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rasn-man7dwuzomle57",
         "productLink": "https://shopee.com.br/product/1194006916/19699443228",
         "offerLink": "https://s.shopee.com.br/7VFf8Ot6yh"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "24090972375",
+      "name": "Casinha De Cachorro N 4 Para Cachorro Pequeno e Médio Porte - Unishop",
+      "price": 59.99,
+      "original_price": 85.7,
+      "discount": 30.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbxv2xlwp4133e",
+      "link": "https://s.shopee.com.br/6VN8yAW36x",
+      "rating": "4.8",
+      "sales": 369,
+      "shop": "PlastiBatista",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 24090972375,
+        "productName": "Casinha De Cachorro N 4 Para Cachorro Pequeno e Médio Porte - Unishop",
+        "price": "59.99",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.03",
+        "sales": 369,
+        "ratingStar": "4.8",
+        "shopName": "PlastiBatista",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbxv2xlwp4133e",
+        "productLink": "https://shopee.com.br/product/385342152/24090972375",
+        "offerLink": "https://s.shopee.com.br/6VN8yAW36x"
       },
       "_last_price": null
     },
@@ -27214,35 +27242,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1plzu4dymmgae",
         "productLink": "https://shopee.com.br/product/398944029/22202389512",
         "offerLink": "https://s.shopee.com.br/80BvjK8o51"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58212410802",
-      "name": "Submarino Amarelo Decoração, Casinha Flutuante Para Peixes Aquário Refúgio",
-      "price": 14.3,
-      "original_price": 19.86,
-      "discount": 28.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mpdxe15jsikl77",
-      "link": "https://s.shopee.com.br/9ANt7TUYf0",
-      "rating": "4.9",
-      "sales": 543,
-      "shop": "LIPPIN",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58212410802,
-        "productName": "Submarino Amarelo Decoração, Casinha Flutuante Para Peixes Aquário Refúgio",
-        "price": "14.3",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.03",
-        "sales": 543,
-        "ratingStar": "4.9",
-        "shopName": "LIPPIN",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mpdxe15jsikl77",
-        "productLink": "https://shopee.com.br/product/1820538709/58212410802",
-        "offerLink": "https://s.shopee.com.br/9ANt7TUYf0"
       },
       "_last_price": null
     },
