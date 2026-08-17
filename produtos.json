@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T20:10:24.519904+00:00",
+  "updated_at": "2026-08-17T20:29:34.689442+00:00",
   "total": 1127,
   "products": [
     {
@@ -573,7 +573,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztv-mkxv99sdo0746a",
         "productLink": "https://shopee.com.br/product/1063922972/40278819201",
         "offerLink": "https://s.shopee.com.br/9KhJyz9yje"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23497594302",
@@ -2497,7 +2498,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134201-820lp-mqyin0g0guth55",
       "link": "https://s.shopee.com.br/8fRdBXHxwQ",
-      "rating": "4.9",
+      "rating": "5",
       "sales": 215,
       "shop": "unicornfashionstore.br",
       "category": "teclado mecanico",
@@ -2509,7 +2510,7 @@
         "priceDiscountRate": 71,
         "commissionRate": "0.03",
         "sales": 215,
-        "ratingStar": "4.9",
+        "ratingStar": "5",
         "shopName": "unicornfashionstore.br",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lp-mqyin0g0guth55",
         "productLink": "https://shopee.com.br/product/235321669/52557307480",
@@ -2804,8 +2805,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mejts7vieltu9f",
         "productLink": "https://shopee.com.br/product/1415768873/22994403632",
         "offerLink": "https://s.shopee.com.br/50YK9kHRYv"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "21460781354",
@@ -6352,7 +6352,7 @@
       "commission": 0.13,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mpnppwqseqypd8",
       "link": "https://s.shopee.com.br/9ANt7UqI26",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 3033,
       "shop": "MF Baby e Home",
       "category": "liquidificador",
@@ -6364,7 +6364,7 @@
         "priceDiscountRate": 62,
         "commissionRate": "0.13",
         "sales": 3033,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "MF Baby e Home",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mpnppwqseqypd8",
         "productLink": "https://shopee.com.br/product/1556592577/52607420187",
@@ -10892,35 +10892,6 @@
       "_last_price": null
     },
     {
-      "id": "23093825328",
-      "name": "Kit Gamer RGB Teclado Semi Mecanico Mouse RGB Mousepad LED Headphone Fone Gamer Setup PC Completo",
-      "price": 62.98,
-      "original_price": 134.0,
-      "discount": 53.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mm7sz7luyfb81a",
-      "link": "https://s.shopee.com.br/5LBAYKLJUc",
-      "rating": "4.7",
-      "sales": 321,
-      "shop": "VL_Store",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23093825328,
-        "productName": "Kit Gamer RGB Teclado Semi Mecanico Mouse RGB Mousepad LED Headphone Fone Gamer Setup PC Completo",
-        "price": "62.98",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.12",
-        "sales": 321,
-        "ratingStar": "4.7",
-        "shopName": "VL_Store",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mm7sz7luyfb81a",
-        "productLink": "https://shopee.com.br/product/1129899846/23093825328",
-        "offerLink": "https://s.shopee.com.br/5LBAYKLJUc"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58204629642",
       "name": "Teclado Mecânico Gamer Red Switch Rayder RGB 60% Compacto Profissional ABNT2 Original Ozzix",
       "price": 139.97,
@@ -15046,7 +15017,7 @@
       "image": "https://cf.shopee.com.br/file/sg-11134201-821fx-mggwxncc2yoec0",
       "link": "https://s.shopee.com.br/7VFf8Ji07y",
       "rating": "4.9",
-      "sales": 55,
+      "sales": 53,
       "shop": "NEZHA SHOP",
       "category": "fonte atx",
       "source": "shopee",
@@ -15056,7 +15027,7 @@
         "price": "64.96",
         "priceDiscountRate": 48,
         "commissionRate": "0.06",
-        "sales": 55,
+        "sales": 53,
         "ratingStar": "4.9",
         "shopName": "NEZHA SHOP",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821fx-mggwxncc2yoec0",
@@ -17502,6 +17473,35 @@
       "_last_price": null
     },
     {
+      "id": "41131242539",
+      "name": "Kit Pia Cozinha Organizador Completo Luxo Lixeira 5L Porta Detergente Porta Esponja Rodinho Moderno",
+      "price": 22.9,
+      "original_price": 41.64,
+      "discount": 45.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823r3-mor0whudq1ose3",
+      "link": "https://s.shopee.com.br/2qTqcgaUy2",
+      "rating": "4.8",
+      "sales": 1543,
+      "shop": "Win.Commerce",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41131242539,
+        "productName": "Kit Pia Cozinha Organizador Completo Luxo Lixeira 5L Porta Detergente Porta Esponja Rodinho Moderno",
+        "price": "22.9",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 1543,
+        "ratingStar": "4.8",
+        "shopName": "Win.Commerce",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r3-mor0whudq1ose3",
+        "productLink": "https://shopee.com.br/product/849977839/41131242539",
+        "offerLink": "https://s.shopee.com.br/2qTqcgaUy2"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21998001825",
       "name": "Esponja de banho lava costa Silicone anti bacteriano cores sortido",
       "price": 10.99,
@@ -19879,35 +19879,6 @@
       "_last_price": null
     },
     {
-      "id": "22698451598",
-      "name": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
-      "price": 57.99,
-      "original_price": 98.29,
-      "discount": 41.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
-      "link": "https://s.shopee.com.br/9ANtmSG3vV",
-      "rating": "4.9",
-      "sales": 270,
-      "shop": "LAMPADAECOM",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22698451598,
-        "productName": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
-        "price": "57.99",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.12",
-        "sales": 270,
-        "ratingStar": "4.9",
-        "shopName": "LAMPADAECOM",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
-        "productLink": "https://shopee.com.br/product/983665337/22698451598",
-        "offerLink": "https://s.shopee.com.br/9ANtmSG3vV"
-      },
-      "_last_price": null
-    },
-    {
       "id": "57159028091",
       "name": "Base Amaciante Concentrada 250ml Faz até 50 litros perfumada tipo DOWNYEX RENDE MUITO",
       "price": 17.69,
@@ -21499,6 +21470,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261j-mm7vyn40pzic16",
         "productLink": "https://shopee.com.br/product/1598954691/23999402961",
         "offerLink": "https://s.shopee.com.br/8pl2ikqFk4"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22698451598",
+      "name": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
+      "price": 59.9,
+      "original_price": 98.2,
+      "discount": 39.0,
+      "commission": 0.12,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
+      "link": "https://s.shopee.com.br/9ANtmSG3vV",
+      "rating": "4.9",
+      "sales": 270,
+      "shop": "LAMPADAECOM",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22698451598,
+        "productName": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
+        "price": "59.9",
+        "priceDiscountRate": 39,
+        "commissionRate": "0.12",
+        "sales": 270,
+        "ratingStar": "4.9",
+        "shopName": "LAMPADAECOM",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
+        "productLink": "https://shopee.com.br/product/983665337/22698451598",
+        "offerLink": "https://s.shopee.com.br/9ANtmSG3vV"
       },
       "_last_price": null
     },
@@ -23542,7 +23542,7 @@
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m62mppxtxh9u86",
       "link": "https://s.shopee.com.br/8AVLvgoxWI",
       "rating": "4.8",
-      "sales": 155,
+      "sales": 149,
       "shop": "Ideal.mix",
       "category": "carretilha pesca",
       "source": "shopee",
@@ -23552,7 +23552,7 @@
         "price": "44.99",
         "priceDiscountRate": 36,
         "commissionRate": "0.03",
-        "sales": 155,
+        "sales": 149,
         "ratingStar": "4.8",
         "shopName": "Ideal.mix",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m62mppxtxh9u86",
@@ -27370,7 +27370,7 @@
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvq-mdl8z1k4xiokab",
       "link": "https://s.shopee.com.br/70JOXOju8n",
       "rating": "4.9",
-      "sales": 64,
+      "sales": 61,
       "shop": "D.J Imports",
       "category": "fonte atx",
       "source": "shopee",
@@ -27380,7 +27380,7 @@
         "price": "10.89",
         "priceDiscountRate": 27,
         "commissionRate": "0.03",
-        "sales": 64,
+        "sales": 61,
         "ratingStar": "4.9",
         "shopName": "D.J Imports",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvq-mdl8z1k4xiokab",
@@ -28604,35 +28604,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mo6t2hopabyc42",
         "productLink": "https://shopee.com.br/product/1212983254/22397976540",
         "offerLink": "https://s.shopee.com.br/4AzDx9n1nl"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "11051183096",
-      "name": "Lava Roupas Liquido Urca Azul - 5l",
-      "price": 29.9,
-      "original_price": 39.34,
-      "discount": 24.0,
-      "commission": 0.16,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mp0x9oqly9z768",
-      "link": "https://s.shopee.com.br/BT4Or0iNG",
-      "rating": "4.9",
-      "sales": 2227,
-      "shop": "Casa de Gê",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 11051183096,
-        "productName": "Lava Roupas Liquido Urca Azul - 5l",
-        "price": "29.9",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.16",
-        "sales": 2227,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mp0x9oqly9z768",
-        "productLink": "https://shopee.com.br/product/534023108/11051183096",
-        "offerLink": "https://s.shopee.com.br/BT4Or0iNG"
       },
       "_last_price": null
     },
@@ -30112,6 +30083,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mpcyqre3uv45e3",
         "productLink": "https://shopee.com.br/product/1538521690/53812069361",
         "offerLink": "https://s.shopee.com.br/904Sv3pcP9"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23093825328",
+      "name": "Kit Gamer RGB Teclado Semi Mecanico Mouse RGB Mousepad LED Headphone Fone Gamer Setup PC Completo",
+      "price": 62.98,
+      "original_price": 78.72,
+      "discount": 20.0,
+      "commission": 0.12,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mm7sz7luyfb81a",
+      "link": "https://s.shopee.com.br/5LBAYKLJUc",
+      "rating": "4.7",
+      "sales": 321,
+      "shop": "VL_Store",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23093825328,
+        "productName": "Kit Gamer RGB Teclado Semi Mecanico Mouse RGB Mousepad LED Headphone Fone Gamer Setup PC Completo",
+        "price": "62.98",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.12",
+        "sales": 321,
+        "ratingStar": "4.7",
+        "shopName": "VL_Store",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mm7sz7luyfb81a",
+        "productLink": "https://shopee.com.br/product/1129899846/23093825328",
+        "offerLink": "https://s.shopee.com.br/5LBAYKLJUc"
       },
       "_last_price": null
     },
