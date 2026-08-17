@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T20:29:34.689442+00:00",
-  "total": 1127,
+  "updated_at": "2026-08-17T20:48:59.240553+00:00",
+  "total": 1124,
   "products": [
     {
       "id": "23698808886",
@@ -400,8 +400,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyoeedt37dlhb3",
         "productLink": "https://shopee.com.br/product/394192376/21897733919",
         "offerLink": "https://s.shopee.com.br/9KhJJkznvo"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "26539956454",
@@ -4717,7 +4716,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lpeqenr9v2ol5b",
         "productLink": "https://shopee.com.br/product/392271277/19397504534",
         "offerLink": "https://s.shopee.com.br/6pzyLI1YJ2"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "26653666612",
@@ -9247,7 +9247,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mn0vov749xxccb",
       "link": "https://s.shopee.com.br/8Kom7zoKBJ",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 111,
       "shop": "HI SPORTS",
       "category": "carretilha pesca",
@@ -9259,7 +9259,7 @@
         "priceDiscountRate": 57,
         "commissionRate": "0.03",
         "sales": 111,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "HI SPORTS",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mn0vov749xxccb",
         "productLink": "https://shopee.com.br/product/1687489154/58208794622",
@@ -10082,8 +10082,8 @@
     {
       "id": "58257784255",
       "name": "Protetor Solar Para-brisa Carro Quebra Sol Portatil Uv Painel Universal",
-      "price": 17.66,
-      "original_price": 39.24,
+      "price": 17.68,
+      "original_price": 39.29,
       "discount": 55.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mmbt77rtd1xifa",
@@ -10096,7 +10096,7 @@
       "_item": {
         "itemId": 58257784255,
         "productName": "Protetor Solar Para-brisa Carro Quebra Sol Portatil Uv Painel Universal",
-        "price": "17.66",
+        "price": "17.68",
         "priceDiscountRate": 55,
         "commissionRate": "0.03",
         "sales": 2189,
@@ -11439,35 +11439,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mmij6fnxz9jcad",
         "productLink": "https://shopee.com.br/product/1748398536/57108039282",
         "offerLink": "https://s.shopee.com.br/5q7R9FJPTh"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "29343102973",
-      "name": "Dispenser Lavanderia Mantimentos, Cerais Detergente/Produtos Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha Flow <OU>",
-      "price": 31.15,
-      "original_price": 64.9,
-      "discount": 52.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
-      "link": "https://s.shopee.com.br/qilC4yB1S",
-      "rating": "4.9",
-      "sales": 2501,
-      "shop": "GP HOME",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 29343102973,
-        "productName": "Dispenser Lavanderia Mantimentos, Cerais Detergente/Produtos Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha Flow <OU>",
-        "price": "31.15",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.11",
-        "sales": 2501,
-        "ratingStar": "4.9",
-        "shopName": "GP HOME",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
-        "productLink": "https://shopee.com.br/product/1270189717/29343102973",
-        "offerLink": "https://s.shopee.com.br/qilC4yB1S"
       },
       "_last_price": null
     },
@@ -13005,6 +12976,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mq6ls0reurcz92",
         "productLink": "https://shopee.com.br/product/316557325/22992915236",
         "offerLink": "https://s.shopee.com.br/1VyRzIdu0w"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "29343102973",
+      "name": "Dispenser Lavanderia Mantimentos, Cerais Detergente/Produtos Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha Flow <OU>",
+      "price": 31.15,
+      "original_price": 62.3,
+      "discount": 50.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
+      "link": "https://s.shopee.com.br/qilC4yB1S",
+      "rating": "4.9",
+      "sales": 2501,
+      "shop": "GP HOME",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 29343102973,
+        "productName": "Dispenser Lavanderia Mantimentos, Cerais Detergente/Produtos Limpeza 1,5L (19,5cm) / 2,3L (23cm) Linha Flow <OU>",
+        "price": "31.15",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.11",
+        "sales": 2501,
+        "ratingStar": "4.9",
+        "shopName": "GP HOME",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
+        "productLink": "https://shopee.com.br/product/1270189717/29343102973",
+        "offerLink": "https://s.shopee.com.br/qilC4yB1S"
       },
       "_last_price": null
     },
@@ -27796,35 +27796,6 @@
       "_last_price": null
     },
     {
-      "id": "22794193064",
-      "name": "Air Fryer Rosa Britânia 5,5L Cesto Pinkstone 1500W BAFE53",
-      "price": 297.9,
-      "original_price": 402.57,
-      "discount": 26.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825aq-mr7pa45qkn4ca6",
-      "link": "https://s.shopee.com.br/5fo1hQHX1W",
-      "rating": "5",
-      "sales": 1646,
-      "shop": "Britânia Oficial",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22794193064,
-        "productName": "Air Fryer Rosa Britânia 5,5L Cesto Pinkstone 1500W BAFE53",
-        "price": "297.9",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.03",
-        "sales": 1646,
-        "ratingStar": "5",
-        "shopName": "Britânia Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aq-mr7pa45qkn4ca6",
-        "productLink": "https://shopee.com.br/product/811879342/22794193064",
-        "offerLink": "https://s.shopee.com.br/5fo1hQHX1W"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23493067013",
       "name": "Jogo de Panelas Antiaderente Teflon  Mônaco 10 Peças Panela de Pressão Fechamento Externo 2.5L",
       "price": 244.9,
@@ -28372,6 +28343,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx3-mdl9srqwsudw3e",
         "productLink": "https://shopee.com.br/product/1545872929/23898553736",
         "offerLink": "https://s.shopee.com.br/8KomsK7Nbm"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22794193064",
+      "name": "Air Fryer Rosa Britânia 5,5L Cesto Pinkstone 1500W BAFE53",
+      "price": 299.9,
+      "original_price": 399.87,
+      "discount": 25.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825aq-mr7pa45qkn4ca6",
+      "link": "https://s.shopee.com.br/5fo1hQHX1W",
+      "rating": "5",
+      "sales": 1646,
+      "shop": "Britânia Oficial",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22794193064,
+        "productName": "Air Fryer Rosa Britânia 5,5L Cesto Pinkstone 1500W BAFE53",
+        "price": "299.9",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.03",
+        "sales": 1646,
+        "ratingStar": "5",
+        "shopName": "Britânia Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aq-mr7pa45qkn4ca6",
+        "productLink": "https://shopee.com.br/product/811879342/22794193064",
+        "offerLink": "https://s.shopee.com.br/5fo1hQHX1W"
       },
       "_last_price": null
     },
@@ -29333,35 +29333,6 @@
       "_last_price": null
     },
     {
-      "id": "23294299174",
-      "name": "Panela de Pressão Elétrica Philco 4L 14 funções PPPE04A",
-      "price": 297.9,
-      "original_price": 381.92,
-      "discount": 22.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8258o-mr79bvetieps55",
-      "link": "https://s.shopee.com.br/AKZqVe3aJO",
-      "rating": "4.9",
-      "sales": 1377,
-      "shop": "Philco Oficial",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23294299174,
-        "productName": "Panela de Pressão Elétrica Philco 4L 14 funções PPPE04A",
-        "price": "297.9",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.03",
-        "sales": 1377,
-        "ratingStar": "4.9",
-        "shopName": "Philco Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258o-mr79bvetieps55",
-        "productLink": "https://shopee.com.br/product/811034337/23294299174",
-        "offerLink": "https://s.shopee.com.br/AKZqVe3aJO"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20698436405",
       "name": "Tênis feminino lançamento novidade leve confortável casual plataforma top!",
       "price": 49.9,
@@ -30319,35 +30290,6 @@
       "_last_price": null
     },
     {
-      "id": "22692893174",
-      "name": "Cafeteira Philco 1L Jarra Térmica 30 Cafezinhos 700W PCFE02",
-      "price": 198.9,
-      "original_price": 248.62,
-      "discount": 20.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825at-mr79c2jo6h3b23",
-      "link": "https://s.shopee.com.br/2LXYyvyZEh",
-      "rating": "4.9",
-      "sales": 1062,
-      "shop": "Philco Oficial",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22692893174,
-        "productName": "Cafeteira Philco 1L Jarra Térmica 30 Cafezinhos 700W PCFE02",
-        "price": "198.9",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.03",
-        "sales": 1062,
-        "ratingStar": "4.9",
-        "shopName": "Philco Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825at-mr79c2jo6h3b23",
-        "productLink": "https://shopee.com.br/product/811034337/22692893174",
-        "offerLink": "https://s.shopee.com.br/2LXYyvyZEh"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22798180508",
       "name": "Tênis Sapatênis Casual Feminino Lançamento Detalhe Coração Moda Básico",
       "price": 28.0,
@@ -30646,7 +30588,7 @@
       "commission": 0.1,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjun99aei8zq2a",
       "link": "https://s.shopee.com.br/5VUbPwfxrX",
-      "rating": "4.5",
+      "rating": "4.6",
       "sales": 110,
       "shop": "Max Pescas",
       "category": "chumbada",
@@ -30658,7 +30600,7 @@
         "priceDiscountRate": 20,
         "commissionRate": "0.1",
         "sales": 110,
-        "ratingStar": "4.5",
+        "ratingStar": "4.6",
         "shopName": "Max Pescas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjun99aei8zq2a",
         "productLink": "https://shopee.com.br/product/291545650/58203972338",
@@ -31102,35 +31044,6 @@
       "_last_price": null
     },
     {
-      "id": "52704618775",
-      "name": "Caixa Organizadora Plástico 13 Divisórias Transparente Multiuso Tampa e Trava Pesca Remédios Costura",
-      "price": 27.99,
-      "original_price": 34.56,
-      "discount": 19.0,
-      "commission": 0.18,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfx1m3yqt4x3c",
-      "link": "https://s.shopee.com.br/W5undqStb",
-      "rating": "4.9",
-      "sales": 408,
-      "shop": "All Útil",
-      "category": "caixa de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 52704618775,
-        "productName": "Caixa Organizadora Plástico 13 Divisórias Transparente Multiuso Tampa e Trava Pesca Remédios Costura",
-        "price": "27.99",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.18",
-        "sales": 408,
-        "ratingStar": "4.9",
-        "shopName": "All Útil",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjfx1m3yqt4x3c",
-        "productLink": "https://shopee.com.br/product/400733933/52704618775",
-        "offerLink": "https://s.shopee.com.br/W5undqStb"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18799237450",
       "name": "Kit de Pesca Premium Estojo Com Chumbadas Caixa com Divisórias Pesos Variados Chumbo De Pesca Pescaria Pesqueiro Pratico",
       "price": 37.9,
@@ -31313,7 +31226,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-822xi-mo72sr1wyivcd4",
       "link": "https://s.shopee.com.br/5q7R9KmBkD",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 811,
       "shop": "ZOZO COM.",
       "category": "elastico musculacao",
@@ -31325,7 +31238,7 @@
         "priceDiscountRate": 18,
         "commissionRate": "0.03",
         "sales": 811,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "ZOZO COM.",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xi-mo72sr1wyivcd4",
         "productLink": "https://shopee.com.br/product/1361502995/21399703901",
