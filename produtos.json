@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T01:18:54.899556+00:00",
-  "total": 1125,
+  "updated_at": "2026-08-18T01:38:08.394152+00:00",
+  "total": 1124,
   "products": [
     {
       "id": "23698808886",
@@ -258,7 +258,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1zzq6l901gfa2",
         "productLink": "https://shopee.com.br/product/322874822/23797686527",
         "offerLink": "https://s.shopee.com.br/gPKztV72L"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "40723848736",
@@ -1058,8 +1059,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
         "productLink": "https://shopee.com.br/product/972031390/21997150349",
         "offerLink": "https://s.shopee.com.br/8pl2isIDth"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58251235467",
@@ -30924,35 +30924,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mm1wtgtq87408a",
         "productLink": "https://shopee.com.br/product/373261329/22898980977",
         "offerLink": "https://s.shopee.com.br/4Vc3YqesBD"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23093406328",
-      "name": "Principia Kit 2 Protetores Solares Facial PS-01 FPS 60",
-      "price": 87.47,
-      "original_price": 107.99,
-      "discount": 19.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m12tbtk56c2be4",
-      "link": "https://s.shopee.com.br/904UTlenih",
-      "rating": "4.9",
-      "sales": 1192,
-      "shop": "Principia Skincare",
-      "category": "protetor solar",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23093406328,
-        "productName": "Principia Kit 2 Protetores Solares Facial PS-01 FPS 60",
-        "price": "87.47",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.03",
-        "sales": 1192,
-        "ratingStar": "4.9",
-        "shopName": "Principia Skincare",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m12tbtk56c2be4",
-        "productLink": "https://shopee.com.br/product/373261329/23093406328",
-        "offerLink": "https://s.shopee.com.br/904UTlenih"
       },
       "_last_price": null
     },
