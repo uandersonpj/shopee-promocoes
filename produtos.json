@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T07:41:48.872242+00:00",
+  "updated_at": "2026-08-18T08:00:53.897836+00:00",
   "total": 1124,
   "products": [
     {
@@ -1159,7 +1159,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lzop7krz80iq1e",
         "productLink": "https://shopee.com.br/product/218996205/25391678999",
         "offerLink": "https://s.shopee.com.br/LmUb7Vx8s"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23394267693",
@@ -29149,8 +29150,8 @@
     {
       "id": "58263263481",
       "name": "Kit 10 Panos de Chão Microfibra 50x75cm Furo para Rodo Dupla Camada",
-      "price": 19.9,
-      "original_price": 25.84,
+      "price": 19.99,
+      "original_price": 25.96,
       "discount": 23.0,
       "commission": 0.18,
       "image": "https://cf.shopee.com.br/file/sg-11134201-824jh-mpxv5dbuz5dt7e",
@@ -29163,7 +29164,7 @@
       "_item": {
         "itemId": 58263263481,
         "productName": "Kit 10 Panos de Chão Microfibra 50x75cm Furo para Rodo Dupla Camada",
-        "price": "19.9",
+        "price": "19.99",
         "priceDiscountRate": 23,
         "commissionRate": "0.18",
         "sales": 570,
