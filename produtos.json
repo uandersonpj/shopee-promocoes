@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T00:59:30.498565+00:00",
+  "updated_at": "2026-08-18T01:18:54.899556+00:00",
   "total": 1125,
   "products": [
     {
@@ -171,7 +171,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82628-mkjt9yqn25mt3b",
         "productLink": "https://shopee.com.br/product/1719334016/22194876933",
         "offerLink": "https://s.shopee.com.br/9fKANbhq3S"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "52255058387",
@@ -914,8 +915,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902",
         "productLink": "https://shopee.com.br/product/415175805/20199713818",
         "offerLink": "https://s.shopee.com.br/3LQ6AdtroT"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "19097999326",
@@ -1932,8 +1932,8 @@
     {
       "id": "46712193198",
       "name": "Anzol Auto Flip Fisgada Automático Aço Carbono Alta Resistência Pesca em Água Salgada Doce Marítima",
-      "price": 11.98,
-      "original_price": 47.92,
+      "price": 11.99,
+      "original_price": 47.96,
       "discount": 75.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-824jj-mpfvxsk51ibm93",
@@ -1946,7 +1946,7 @@
       "_item": {
         "itemId": 46712193198,
         "productName": "Anzol Auto Flip Fisgada Automático Aço Carbono Alta Resistência Pesca em Água Salgada Doce Marítima",
-        "price": "11.98",
+        "price": "11.99",
         "priceDiscountRate": 75,
         "commissionRate": "0.03",
         "sales": 358,
@@ -2459,7 +2459,7 @@
       "commission": 0.13,
       "image": "https://cf.shopee.com.br/file/br-11134207-820li-mld09ma1wt1j25",
       "link": "https://s.shopee.com.br/1qbJ3C3GQr",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 139,
       "shop": "Fit Pico",
       "category": "rede de pesca",
@@ -2471,7 +2471,7 @@
         "priceDiscountRate": 72,
         "commissionRate": "0.13",
         "sales": 139,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "Fit Pico",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mld09ma1wt1j25",
         "productLink": "https://shopee.com.br/product/1748172680/22294903006",
@@ -9990,6 +9990,35 @@
       "_last_price": null
     },
     {
+      "id": "23198696676",
+      "name": "Kit 10 Panos de Copa de Microfibra 35x55 toalha de Prato Luxo",
+      "price": 38.9,
+      "original_price": 86.44,
+      "discount": 55.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-820li-mnvqaq9w8g75ec",
+      "link": "https://s.shopee.com.br/7VFf8Lh7kH",
+      "rating": "4.8",
+      "sales": 1988,
+      "shop": "Bela Luna Ltda.",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23198696676,
+        "productName": "Kit 10 Panos de Copa de Microfibra 35x55 toalha de Prato Luxo",
+        "price": "38.9",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.03",
+        "sales": 1988,
+        "ratingStar": "4.8",
+        "shopName": "Bela Luna Ltda.",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820li-mnvqaq9w8g75ec",
+        "productLink": "https://shopee.com.br/product/1577690442/23198696676",
+        "offerLink": "https://s.shopee.com.br/7VFf8Lh7kH"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58210202967",
       "name": "Kit 2 Prateleiras de Canto Sem Furo Porta Shampoo E Sabonete Banheiro Adesivo Reforçado",
       "price": 19.29,
@@ -14949,6 +14978,35 @@
       "_last_price": null
     },
     {
+      "id": "58210369811",
+      "name": "Sabão em Pó Premium 3Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
+      "price": 30.99,
+      "original_price": 59.6,
+      "discount": 48.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mnzxdhovt9fk27",
+      "link": "https://s.shopee.com.br/8Komuqs55d",
+      "rating": "4.7",
+      "sales": 244,
+      "shop": "AudCare Química",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58210369811,
+        "productName": "Sabão em Pó Premium 3Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
+        "price": "30.99",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.13",
+        "sales": 244,
+        "ratingStar": "4.7",
+        "shopName": "AudCare Química",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mnzxdhovt9fk27",
+        "productLink": "https://shopee.com.br/product/1820418238/58210369811",
+        "offerLink": "https://s.shopee.com.br/8Komuqs55d"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22098174379",
       "name": "Kit 10 ou 5 Pano De Prato Microfibra SECA MAIS Absorvente",
       "price": 20.89,
@@ -17410,6 +17468,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mck45f2lr6khb7",
         "productLink": "https://shopee.com.br/product/287703953/22094256738",
         "offerLink": "https://s.shopee.com.br/8pl2imBz8I"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "41131242539",
+      "name": "Kit Pia Cozinha Organizador Completo Luxo Lixeira 5L Porta Detergente Porta Esponja Rodinho Moderno",
+      "price": 22.9,
+      "original_price": 41.64,
+      "discount": 45.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823r3-mor0whudq1ose3",
+      "link": "https://s.shopee.com.br/2qTqcgaUy2",
+      "rating": "4.8",
+      "sales": 1543,
+      "shop": "Win.Commerce",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41131242539,
+        "productName": "Kit Pia Cozinha Organizador Completo Luxo Lixeira 5L Porta Detergente Porta Esponja Rodinho Moderno",
+        "price": "22.9",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 1543,
+        "ratingStar": "4.8",
+        "shopName": "Win.Commerce",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r3-mor0whudq1ose3",
+        "productLink": "https://shopee.com.br/product/849977839/41131242539",
+        "offerLink": "https://s.shopee.com.br/2qTqcgaUy2"
       },
       "_last_price": null
     },
@@ -28579,35 +28666,6 @@
       "_last_price": null
     },
     {
-      "id": "11051183096",
-      "name": "Lava Roupas Liquido Urca Azul - 5l",
-      "price": 29.9,
-      "original_price": 39.34,
-      "discount": 24.0,
-      "commission": 0.16,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mp0x9oqly9z768",
-      "link": "https://s.shopee.com.br/BT4Or0iNG",
-      "rating": "4.9",
-      "sales": 2227,
-      "shop": "Casa de Gê",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 11051183096,
-        "productName": "Lava Roupas Liquido Urca Azul - 5l",
-        "price": "29.9",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.16",
-        "sales": 2227,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mp0x9oqly9z768",
-        "productLink": "https://shopee.com.br/product/534023108/11051183096",
-        "offerLink": "https://s.shopee.com.br/BT4Or0iNG"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23097466419",
       "name": "Detergente Enzimatico Zymedet Gold 5 Enzimas 1L - Prolink",
       "price": 28.94,
@@ -29010,35 +29068,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4f-m7pqiw99z9nr22",
         "productLink": "https://shopee.com.br/product/410663728/23898339097",
         "offerLink": "https://s.shopee.com.br/2LXYyq9zqL"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58263263481",
-      "name": "Kit 10 Panos de Chão Microfibra 50x75cm Furo para Rodo Dupla Camada",
-      "price": 19.99,
-      "original_price": 25.96,
-      "discount": 23.0,
-      "commission": 0.18,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824jh-mpxv5dbuz5dt7e",
-      "link": "https://s.shopee.com.br/9fKAVKYzxU",
-      "rating": "4.2",
-      "sales": 570,
-      "shop": "AMÁVI",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58263263481,
-        "productName": "Kit 10 Panos de Chão Microfibra 50x75cm Furo para Rodo Dupla Camada",
-        "price": "19.99",
-        "priceDiscountRate": 23,
-        "commissionRate": "0.18",
-        "sales": 570,
-        "ratingStar": "4.2",
-        "shopName": "AMÁVI",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824jh-mpxv5dbuz5dt7e",
-        "productLink": "https://shopee.com.br/product/1665304899/58263263481",
-        "offerLink": "https://s.shopee.com.br/9fKAVKYzxU"
       },
       "_last_price": null
     },
@@ -31073,35 +31102,6 @@
       "_last_price": null
     },
     {
-      "id": "58258988827",
-      "name": "Formas Suiça para Bolo?Pudim N. 18 / 16 e 14 Air Fryer 3,5",
-      "price": 12.95,
-      "original_price": 15.99,
-      "discount": 19.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mn35kosak2kh10",
-      "link": "https://s.shopee.com.br/70JOXVPCco",
-      "rating": "4.8",
-      "sales": 1787,
-      "shop": "De Assis Utilidades",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58258988827,
-        "productName": "Formas Suiça para Bolo?Pudim N. 18 / 16 e 14 Air Fryer 3,5",
-        "price": "12.95",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.03",
-        "sales": 1787,
-        "ratingStar": "4.8",
-        "shopName": "De Assis Utilidades",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mn35kosak2kh10",
-        "productLink": "https://shopee.com.br/product/1456505255/58258988827",
-        "offerLink": "https://s.shopee.com.br/70JOXVPCco"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22597014373",
       "name": "Kit 5 Iscas Artificial Soft Bait Tucunaré Traira Corvina",
       "price": 24.97,
@@ -31972,35 +31972,6 @@
       "_last_price": null
     },
     {
-      "id": "21697724997",
-      "name": "Ração BioCare Premium Especial - Power Training - Frango & Carne 15kg",
-      "price": 125.9,
-      "original_price": 149.88,
-      "discount": 16.0,
-      "commission": 0.2,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd5v-lwos6o6571h0fa",
-      "link": "https://s.shopee.com.br/9pdZugkEEv",
-      "rating": "4.9",
-      "sales": 948,
-      "shop": "Pet E-commerce Distribuidora ",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21697724997,
-        "productName": "Ração BioCare Premium Especial - Power Training - Frango & Carne 15kg",
-        "price": "125.9",
-        "priceDiscountRate": 16,
-        "commissionRate": "0.2",
-        "sales": 948,
-        "ratingStar": "4.9",
-        "shopName": "Pet E-commerce Distribuidora ",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd5v-lwos6o6571h0fa",
-        "productLink": "https://shopee.com.br/product/773791314/21697724997",
-        "offerLink": "https://s.shopee.com.br/9pdZugkEEv"
-      },
-      "_last_price": null
-    },
-    {
       "id": "21799298322",
       "name": "Ração BioCare Premium Especial Filhote - Power Training - Frango & Carne 15kg",
       "price": 125.9,
@@ -32055,6 +32026,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-moeelft3d5hia5",
         "productLink": "https://shopee.com.br/product/1509105042/23898806674",
         "offerLink": "https://s.shopee.com.br/9ANt7T4Mi8"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20199206047",
+      "name": "Air Fryer Britânia 4,2L Dura Mais 1500W BFR38",
+      "price": 209.9,
+      "original_price": 249.88,
+      "discount": 16.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8258n-mr7pa4agaz2a74",
+      "link": "https://s.shopee.com.br/9KhK4A3ZZo",
+      "rating": "4.9",
+      "sales": 11183,
+      "shop": "Britânia Oficial",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20199206047,
+        "productName": "Air Fryer Britânia 4,2L Dura Mais 1500W BFR38",
+        "price": "209.9",
+        "priceDiscountRate": 16,
+        "commissionRate": "0.03",
+        "sales": 11183,
+        "ratingStar": "4.9",
+        "shopName": "Britânia Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258n-mr7pa4agaz2a74",
+        "productLink": "https://shopee.com.br/product/811879342/20199206047",
+        "offerLink": "https://s.shopee.com.br/9KhK4A3ZZo"
       },
       "_last_price": null
     },
