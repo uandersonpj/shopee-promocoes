@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T15:46:15.546535+00:00",
-  "total": 1129,
+  "updated_at": "2026-08-22T16:05:33.100050+00:00",
+  "total": 1130,
   "products": [
     {
       "id": "23698808886",
@@ -430,6 +430,34 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ii-mpt2ir6ihrm701",
         "productLink": "https://shopee.com.br/product/1006215031/56607111945",
         "offerLink": "https://s.shopee.com.br/5q7WlVqx6b"
+      }
+    },
+    {
+      "id": "52905774499",
+      "name": "Espremedor Elétrico de Frutas Automático | Laranja, Limão e Outras Frutas | Suco Natural Rápido | Design Premium",
+      "price": 48.99,
+      "original_price": 306.19,
+      "discount": 84.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8260c-mlw5gdmlji8493",
+      "link": "https://s.shopee.com.br/gPQbwlq6W",
+      "rating": "4.7",
+      "sales": 7974,
+      "shop": "Link&LinkShop_Brasil",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 52905774499,
+        "productName": "Espremedor Elétrico de Frutas Automático | Laranja, Limão e Outras Frutas | Suco Natural Rápido | Design Premium",
+        "price": "48.99",
+        "priceDiscountRate": 84,
+        "commissionRate": "0.03",
+        "sales": 7974,
+        "ratingStar": "4.7",
+        "shopName": "Link&LinkShop_Brasil",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260c-mlw5gdmlji8493",
+        "productLink": "https://shopee.com.br/product/1459307687/52905774499",
+        "offerLink": "https://s.shopee.com.br/gPQbwlq6W"
       }
     },
     {
@@ -1016,7 +1044,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-82628-mkjt9yqn25mt3b",
       "link": "https://s.shopee.com.br/8pl8L4ieP0",
-      "rating": "4.7",
+      "rating": "4.8",
       "sales": 261,
       "shop": "PARIS04",
       "category": "luva pesca",
@@ -1028,7 +1056,7 @@
         "priceDiscountRate": 80,
         "commissionRate": "0.03",
         "sales": 261,
-        "ratingStar": "4.7",
+        "ratingStar": "4.8",
         "shopName": "PARIS04",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82628-mkjt9yqn25mt3b",
         "productLink": "https://shopee.com.br/product/1719334016/22194876933",
@@ -1149,8 +1177,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyp5enbirpg574",
         "productLink": "https://shopee.com.br/product/443105265/23897691943",
         "offerLink": "https://s.shopee.com.br/LmaDLM1yC"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "53602592577",
@@ -2711,7 +2738,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mejts7vieltu9f",
         "productLink": "https://shopee.com.br/product/1415768873/22994403632",
         "offerLink": "https://s.shopee.com.br/9zx5j0er2J"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21460781354",
@@ -5815,6 +5843,35 @@
       "_last_price": null
     },
     {
+      "id": "41357615567",
+      "name": "Óculos De Sol Fotochromáticos Retro Quadrados Com Proteção Uv E Estrutura Leve, Ideais Para Praia, Ciclismo E viagens",
+      "price": 6.88,
+      "original_price": 18.59,
+      "discount": 63.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134301-7rffe-m9jv6vrrei7d7f",
+      "link": "https://s.shopee.com.br/904YXHkN47",
+      "rating": "4.8",
+      "sales": 1584,
+      "shop": "Choice Oficial",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41357615567,
+        "productName": "Óculos De Sol Fotochromáticos Retro Quadrados Com Proteção Uv E Estrutura Leve, Ideais Para Praia, Ciclismo E viagens",
+        "price": "6.88",
+        "priceDiscountRate": 63,
+        "commissionRate": "0.07",
+        "sales": 1584,
+        "ratingStar": "4.8",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rffe-m9jv6vrrei7d7f",
+        "productLink": "https://shopee.com.br/product/1006215031/41357615567",
+        "offerLink": "https://s.shopee.com.br/904YXHkN47"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23394426187",
       "name": "Sambura de Arame Galvanizado para Manutenção de Iscas Vivas - Ideal para Pesca Esportiva",
       "price": 29.99,
@@ -6826,35 +6883,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xg-mo8sbownkrnl63",
         "productLink": "https://shopee.com.br/product/1459307687/26892990345",
         "offerLink": "https://s.shopee.com.br/40fu7LKPUH"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23494069000",
-      "name": "607 Óculos De Sol Hexagonais Feminino Vintage Masculino Moda quadrados Oculos",
-      "price": 12.86,
-      "original_price": 32.97,
-      "discount": 61.0,
-      "commission": 0.15,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rasz-malhwjljk9cy5f",
-      "link": "https://s.shopee.com.br/8AVUisDqsY",
-      "rating": "4.9",
-      "sales": 1253,
-      "shop": "K&L SHOP",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23494069000,
-        "productName": "607 Óculos De Sol Hexagonais Feminino Vintage Masculino Moda quadrados Oculos",
-        "price": "12.86",
-        "priceDiscountRate": 61,
-        "commissionRate": "0.15",
-        "sales": 1253,
-        "ratingStar": "4.9",
-        "shopName": "K&L SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rasz-malhwjljk9cy5f",
-        "productLink": "https://shopee.com.br/product/1550915634/23494069000",
-        "offerLink": "https://s.shopee.com.br/8AVUisDqsY"
       },
       "_last_price": null
     },
@@ -8280,6 +8308,35 @@
       "_last_price": null
     },
     {
+      "id": "27288677008",
+      "name": "Creamy Wanpy Petisco Cremoso Para Gatos 14gx50 Tubos 700g Sabor Sortidos Truly",
+      "price": 149.9,
+      "original_price": 356.9,
+      "discount": 58.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6f38f500pze7",
+      "link": "https://s.shopee.com.br/Lmcc5aixR",
+      "rating": "5",
+      "sales": 1221,
+      "shop": "Tri1Pet",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 27288677008,
+        "productName": "Creamy Wanpy Petisco Cremoso Para Gatos 14gx50 Tubos 700g Sabor Sortidos Truly",
+        "price": "149.9",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.03",
+        "sales": 1221,
+        "ratingStar": "5",
+        "shopName": "Tri1Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6f38f500pze7",
+        "productLink": "https://shopee.com.br/product/532546866/27288677008",
+        "offerLink": "https://s.shopee.com.br/Lmcc5aixR"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23198395301",
       "name": "Cama Para Cachorro GG Grande Médio Casinha Caminha Pet Colchonete Impermeável",
       "price": 16.68,
@@ -8392,35 +8449,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqy7j7hfu7foe4",
         "productLink": "https://shopee.com.br/product/807597901/23497309877",
         "offerLink": "https://s.shopee.com.br/1BLhCrjw5f"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22999454687",
-      "name": "Mini Liquidificador Portátil 400ml 6 Lâminas Recarregável USB Mixer Suco Shake",
-      "price": 32.9,
-      "original_price": 78.33,
-      "discount": 58.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82621-mlh3gn4xczk470",
-      "link": "https://s.shopee.com.br/6q03xHOMb8",
-      "rating": "4.4",
-      "sales": 1396,
-      "shop": "Lemon Seleção",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22999454687,
-        "productName": "Mini Liquidificador Portátil 400ml 6 Lâminas Recarregável USB Mixer Suco Shake",
-        "price": "32.9",
-        "priceDiscountRate": 58,
-        "commissionRate": "0.03",
-        "sales": 1396,
-        "ratingStar": "4.4",
-        "shopName": "Lemon Seleção",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82621-mlh3gn4xczk470",
-        "productLink": "https://shopee.com.br/product/1383463294/22999454687",
-        "offerLink": "https://s.shopee.com.br/6q03xHOMb8"
       },
       "_last_price": null
     },
@@ -20700,7 +20728,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l7-ml6s9s6u0fev86",
       "link": "https://s.shopee.com.br/2BEGkhx5KU",
-      "rating": "4.9",
+      "rating": "5",
       "sales": 55,
       "shop": "Beauty maquiagem",
       "category": "ssd nvme",
@@ -20712,7 +20740,7 @@
         "priceDiscountRate": 39,
         "commissionRate": "0.03",
         "sales": 55,
-        "ratingStar": "4.9",
+        "ratingStar": "5",
         "shopName": "Beauty maquiagem",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-ml6s9s6u0fev86",
         "productLink": "https://shopee.com.br/product/1226205210/58205921489",
@@ -24752,35 +24780,6 @@
       "_last_price": null
     },
     {
-      "id": "25721342244",
-      "name": "Relógio Esportivo Digital Masculino À Prova D'água Silicone Pulseira Leve De Pulso Ao Ar Livre Presente",
-      "price": 8.43,
-      "original_price": 12.58,
-      "discount": 33.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823r8-mp4n5zizxs7f75",
-      "link": "https://s.shopee.com.br/4LIiyhkXPL",
-      "rating": "4.7",
-      "sales": 8458,
-      "shop": "Choice Oficial",
-      "category": "relogio masculino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 25721342244,
-        "productName": "Relógio Esportivo Digital Masculino À Prova D'água Silicone Pulseira Leve De Pulso Ao Ar Livre Presente",
-        "price": "8.43",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.11",
-        "sales": 8458,
-        "ratingStar": "4.7",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r8-mp4n5zizxs7f75",
-        "productLink": "https://shopee.com.br/product/1006215031/25721342244",
-        "offerLink": "https://s.shopee.com.br/4LIiyhkXPL"
-      },
-      "_last_price": null
-    },
-    {
       "id": "27240642031",
       "name": "Óculos De Sol Retrô De Feixe Duplo , Armação Grande , Proteção UV , Lentes Oceânicas , Moda Minimalista , Unissex",
       "price": 5.76,
@@ -26546,6 +26545,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1pne0rg8no10d",
         "productLink": "https://shopee.com.br/product/344396564/11327686991",
         "offerLink": "https://s.shopee.com.br/50YS6jGKPT"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "25721342244",
+      "name": "Relógio Esportivo Digital Masculino À Prova D'água Silicone Pulseira Leve De Pulso Ao Ar Livre Presente",
+      "price": 8.43,
+      "original_price": 11.87,
+      "discount": 29.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823r8-mp4n5zizxs7f75",
+      "link": "https://s.shopee.com.br/4LIiyhkXPL",
+      "rating": "4.7",
+      "sales": 8458,
+      "shop": "Choice Oficial",
+      "category": "relogio masculino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 25721342244,
+        "productName": "Relógio Esportivo Digital Masculino À Prova D'água Silicone Pulseira Leve De Pulso Ao Ar Livre Presente",
+        "price": "8.43",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.11",
+        "sales": 8458,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r8-mp4n5zizxs7f75",
+        "productLink": "https://shopee.com.br/product/1006215031/25721342244",
+        "offerLink": "https://s.shopee.com.br/4LIiyhkXPL"
       },
       "_last_price": null
     },
