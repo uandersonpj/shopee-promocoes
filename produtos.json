@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T17:23:06.606759+00:00",
-  "total": 1132,
+  "updated_at": "2026-08-22T17:42:19.522705+00:00",
+  "total": 1133,
   "products": [
     {
       "id": "23698808886",
@@ -260,7 +260,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qq-mp4mttd95lald6",
         "productLink": "https://shopee.com.br/product/1006215031/24683837124",
         "offerLink": "https://s.shopee.com.br/4Vc9B2W2Bi"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "40723848736",
@@ -432,34 +433,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ii-mpt2ir6ihrm701",
         "productLink": "https://shopee.com.br/product/1006215031/56607111945",
         "offerLink": "https://s.shopee.com.br/5q7WlVqx6b"
-      }
-    },
-    {
-      "id": "52905774499",
-      "name": "Espremedor Elétrico de Frutas Automático | Laranja, Limão e Outras Frutas | Suco Natural Rápido | Design Premium",
-      "price": 48.99,
-      "original_price": 306.19,
-      "discount": 84.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8260c-mlw5gdmlji8493",
-      "link": "https://s.shopee.com.br/gPQbwlq6W",
-      "rating": "4.7",
-      "sales": 7974,
-      "shop": "Link&LinkShop_Brasil",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 52905774499,
-        "productName": "Espremedor Elétrico de Frutas Automático | Laranja, Limão e Outras Frutas | Suco Natural Rápido | Design Premium",
-        "price": "48.99",
-        "priceDiscountRate": 84,
-        "commissionRate": "0.03",
-        "sales": 7974,
-        "ratingStar": "4.7",
-        "shopName": "Link&LinkShop_Brasil",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260c-mlw5gdmlji8493",
-        "productLink": "https://shopee.com.br/product/1459307687/52905774499",
-        "offerLink": "https://s.shopee.com.br/gPQbwlq6W"
       }
     },
     {
@@ -8482,6 +8455,35 @@
       "_last_price": null
     },
     {
+      "id": "22999454687",
+      "name": "Mini Liquidificador Portátil 400ml 6 Lâminas Recarregável USB Mixer Suco Shake",
+      "price": 32.9,
+      "original_price": 78.33,
+      "discount": 58.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82621-mlh3gn4xczk470",
+      "link": "https://s.shopee.com.br/6q03xHOMb8",
+      "rating": "4.4",
+      "sales": 1396,
+      "shop": "Lemon Seleção",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22999454687,
+        "productName": "Mini Liquidificador Portátil 400ml 6 Lâminas Recarregável USB Mixer Suco Shake",
+        "price": "32.9",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.03",
+        "sales": 1396,
+        "ratingStar": "4.4",
+        "shopName": "Lemon Seleção",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82621-mlh3gn4xczk470",
+        "productLink": "https://shopee.com.br/product/1383463294/22999454687",
+        "offerLink": "https://s.shopee.com.br/6q03xHOMb8"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22897302252",
       "name": "1000 Peças Bolsa Elástico De Cabelo Feminino Descartável Multicolorido(Monica Fashion)",
       "price": 4.99,
@@ -9290,8 +9292,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mpxse4gzgv0i91",
         "productLink": "https://shopee.com.br/product/1607476642/22995022125",
         "offerLink": "https://s.shopee.com.br/7fZAwgbU2N"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22898917063",
@@ -10135,31 +10136,31 @@
       "_last_price": null
     },
     {
-      "id": "58264274396",
+      "id": "58214286460",
       "name": "Kit 18 Itens Faixas Elásticas Fitness Extensor Musculação Treino em Casa Yoga Pilates Academia",
       "price": 55.99,
       "original_price": 124.42,
       "discount": 55.0,
       "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8258q-mqr2kbhxxaf4cf",
-      "link": "https://s.shopee.com.br/5q7WlPXEwK",
-      "rating": "4.8",
-      "sales": 577,
-      "shop": "Loja Geral Breeze",
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82597-mqoghws4vbi8de",
+      "link": "https://s.shopee.com.br/5LBGAUZ8xH",
+      "rating": "4.9",
+      "sales": 345,
+      "shop": "Uma Nova Vida",
       "category": "elastico musculacao",
       "source": "shopee",
       "_item": {
-        "itemId": 58264274396,
+        "itemId": 58214286460,
         "productName": "Kit 18 Itens Faixas Elásticas Fitness Extensor Musculação Treino em Casa Yoga Pilates Academia",
         "price": "55.99",
         "priceDiscountRate": 55,
         "commissionRate": "0.03",
-        "sales": 577,
-        "ratingStar": "4.8",
-        "shopName": "Loja Geral Breeze",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258q-mqr2kbhxxaf4cf",
-        "productLink": "https://shopee.com.br/product/1774410633/58264274396",
-        "offerLink": "https://s.shopee.com.br/5q7WlPXEwK"
+        "sales": 345,
+        "ratingStar": "4.9",
+        "shopName": "Uma Nova Vida",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82597-mqoghws4vbi8de",
+        "productLink": "https://shopee.com.br/product/1741533420/58214286460",
+        "offerLink": "https://s.shopee.com.br/5LBGAUZ8xH"
       },
       "_last_price": null
     },
@@ -14371,8 +14372,8 @@
     {
       "id": "48857230908",
       "name": "Vara de pesca telescópica, suave e ultraleve, ideal para diversas situações, com comprimentos de 2,4 m e 3,6 m",
-      "price": 19.77,
-      "original_price": 38.76,
+      "price": 19.8,
+      "original_price": 38.82,
       "discount": 49.0,
       "commission": 0.11,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsuws7bcgznad",
@@ -14385,7 +14386,7 @@
       "_item": {
         "itemId": 48857230908,
         "productName": "Vara de pesca telescópica, suave e ultraleve, ideal para diversas situações, com comprimentos de 2,4 m e 3,6 m",
-        "price": "19.77",
+        "price": "19.8",
         "priceDiscountRate": 49,
         "commissionRate": "0.11",
         "sales": 1642,
@@ -17584,6 +17585,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-molilwsui7er94",
         "productLink": "https://shopee.com.br/product/1527568519/46408341183",
         "offerLink": "https://s.shopee.com.br/8AVT4xrx33"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18732428907",
+      "name": "Faixa Elastica Joelho Agachamento Joelheira P/ Musculacao",
+      "price": 27.5,
+      "original_price": 50.0,
+      "discount": 45.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-livkd8picj3k12",
+      "link": "https://s.shopee.com.br/6VNF7EeAo4",
+      "rating": "4.9",
+      "sales": 143,
+      "shop": "Imperialoutletbr",
+      "category": "elastico musculacao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18732428907,
+        "productName": "Faixa Elastica Joelho Agachamento Joelheira P/ Musculacao",
+        "price": "27.5",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.13",
+        "sales": 143,
+        "ratingStar": "4.9",
+        "shopName": "Imperialoutletbr",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-livkd8picj3k12",
+        "productLink": "https://shopee.com.br/product/291873592/18732428907",
+        "offerLink": "https://s.shopee.com.br/6VNF7EeAo4"
       },
       "_last_price": null
     },
@@ -21996,6 +22026,35 @@
       "_last_price": null
     },
     {
+      "id": "22298574308",
+      "name": "Kit Pia Color Lixeira 4,8L Com Rodinho Porta Detergente Cozinha Area Gourmet",
+      "price": 16.99,
+      "original_price": 26.97,
+      "discount": 37.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mq1xsj149ddsf0",
+      "link": "https://s.shopee.com.br/2gAWWnai3i",
+      "rating": "4.8",
+      "sales": 1421,
+      "shop": "Decoraki",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22298574308,
+        "productName": "Kit Pia Color Lixeira 4,8L Com Rodinho Porta Detergente Cozinha Area Gourmet",
+        "price": "16.99",
+        "priceDiscountRate": 37,
+        "commissionRate": "0.08",
+        "sales": 1421,
+        "ratingStar": "4.8",
+        "shopName": "Decoraki",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mq1xsj149ddsf0",
+        "productLink": "https://shopee.com.br/product/1542782932/22298574308",
+        "offerLink": "https://s.shopee.com.br/2gAWWnai3i"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58261879854",
       "name": "Rolo Pano De Microfibra 20 Peças Destacável Toalha Limpeza Reutilizável Lavar Louça Multiuso Utensílios Cozinha",
       "price": 19.49,
@@ -23997,35 +24056,6 @@
       "_last_price": null
     },
     {
-      "id": "22298574308",
-      "name": "Kit Pia Color Lixeira 4,8L Com Rodinho Porta Detergente Cozinha Area Gourmet",
-      "price": 17.99,
-      "original_price": 27.26,
-      "discount": 34.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mq1xsj149ddsf0",
-      "link": "https://s.shopee.com.br/2gAWWnai3i",
-      "rating": "4.8",
-      "sales": 1421,
-      "shop": "Decoraki",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22298574308,
-        "productName": "Kit Pia Color Lixeira 4,8L Com Rodinho Porta Detergente Cozinha Area Gourmet",
-        "price": "17.99",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.08",
-        "sales": 1421,
-        "ratingStar": "4.8",
-        "shopName": "Decoraki",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mq1xsj149ddsf0",
-        "productLink": "https://shopee.com.br/product/1542782932/22298574308",
-        "offerLink": "https://s.shopee.com.br/2gAWWnai3i"
-      },
-      "_last_price": null
-    },
-    {
       "id": "49061198035",
       "name": "Desinfetante Super Concentrado Herbal Pet Eliminador Odor Quaternario Amonia +15 1L - Rende Muito",
       "price": 26.5,
@@ -24695,8 +24725,8 @@
     {
       "id": "54262669579",
       "name": "Cafeteira Prensa Francesa em Vidro e Inox Praticidade Coagem Rapida Filtro Removivel",
-      "price": 18.9,
-      "original_price": 28.21,
+      "price": 25.5,
+      "original_price": 38.06,
       "discount": 33.0,
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mptds7r37k0331",
@@ -24709,7 +24739,7 @@
       "_item": {
         "itemId": 54262669579,
         "productName": "Cafeteira Prensa Francesa em Vidro e Inox Praticidade Coagem Rapida Filtro Removivel",
-        "price": "18.9",
+        "price": "25.5",
         "priceDiscountRate": 33,
         "commissionRate": "0.08",
         "sales": 2088,
