@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T18:20:44.786108+00:00",
+  "updated_at": "2026-08-22T18:40:07.232541+00:00",
   "total": 1132,
   "products": [
     {
@@ -865,8 +865,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
         "productLink": "https://shopee.com.br/product/1266325318/21897981294",
         "offerLink": "https://s.shopee.com.br/60QyeP6U5C"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23294866358",
@@ -2423,7 +2422,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mld09ma1wt1j25",
         "productLink": "https://shopee.com.br/product/1748172680/22294903006",
         "offerLink": "https://s.shopee.com.br/1qbO0C0puv"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "52557307480",
@@ -4599,35 +4599,6 @@
       "_last_price": null
     },
     {
-      "id": "58208583352",
-      "name": "Boné De Beisebol Com Óculos De Sol Falsos , Proteção Solar , Verão , Macio Para Corrida , Caminhada , Pesca Vários cores",
-      "price": 19.97,
-      "original_price": 58.74,
-      "discount": 66.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mmvvx9h1getec5",
-      "link": "https://s.shopee.com.br/4VcCY4jSjL",
-      "rating": "4.8",
-      "sales": 58,
-      "shop": "Sunny.Store",
-      "category": "boné pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58208583352,
-        "productName": "Boné De Beisebol Com Óculos De Sol Falsos , Proteção Solar , Verão , Macio Para Corrida , Caminhada , Pesca Vários cores",
-        "price": "19.97",
-        "priceDiscountRate": 66,
-        "commissionRate": "0.03",
-        "sales": 58,
-        "ratingStar": "4.8",
-        "shopName": "Sunny.Store",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmvvx9h1getec5",
-        "productLink": "https://shopee.com.br/product/1267873709/58208583352",
-        "offerLink": "https://s.shopee.com.br/4VcCY4jSjL"
-      },
-      "_last_price": null
-    },
-    {
       "id": "19397504534",
       "name": "Kit 2 Maleta Caixa de Ferramentas Plástica Grande Completa Organizadora Resistente Eletricista Pesca",
       "price": 20.9,
@@ -5874,35 +5845,6 @@
       "_last_price": null
     },
     {
-      "id": "41357615567",
-      "name": "Óculos De Sol Fotochromáticos Retro Quadrados Com Proteção Uv E Estrutura Leve, Ideais Para Praia, Ciclismo E viagens",
-      "price": 6.88,
-      "original_price": 18.59,
-      "discount": 63.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134301-7rffe-m9jv6vrrei7d7f",
-      "link": "https://s.shopee.com.br/904YXHkN47",
-      "rating": "4.8",
-      "sales": 1584,
-      "shop": "Choice Oficial",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41357615567,
-        "productName": "Óculos De Sol Fotochromáticos Retro Quadrados Com Proteção Uv E Estrutura Leve, Ideais Para Praia, Ciclismo E viagens",
-        "price": "6.88",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.07",
-        "sales": 1584,
-        "ratingStar": "4.8",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rffe-m9jv6vrrei7d7f",
-        "productLink": "https://shopee.com.br/product/1006215031/41357615567",
-        "offerLink": "https://s.shopee.com.br/904YXHkN47"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23394426187",
       "name": "Sambura de Arame Galvanizado para Manutenção de Iscas Vivas - Ideal para Pesca Esportiva",
       "price": 29.99,
@@ -6885,6 +6827,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xg-mo8sbownkrnl63",
         "productLink": "https://shopee.com.br/product/1459307687/26892990345",
         "offerLink": "https://s.shopee.com.br/40fu7LKPUH"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23494069000",
+      "name": "607 Óculos De Sol Hexagonais Feminino Vintage Masculino Moda quadrados Oculos",
+      "price": 12.86,
+      "original_price": 32.97,
+      "discount": 61.0,
+      "commission": 0.15,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rasz-malhwjljk9cy5f",
+      "link": "https://s.shopee.com.br/8AVUisDqsY",
+      "rating": "4.9",
+      "sales": 1253,
+      "shop": "K&L SHOP",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23494069000,
+        "productName": "607 Óculos De Sol Hexagonais Feminino Vintage Masculino Moda quadrados Oculos",
+        "price": "12.86",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.15",
+        "sales": 1253,
+        "ratingStar": "4.9",
+        "shopName": "K&L SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rasz-malhwjljk9cy5f",
+        "productLink": "https://shopee.com.br/product/1550915634/23494069000",
+        "offerLink": "https://s.shopee.com.br/8AVUisDqsY"
       },
       "_last_price": null
     },
@@ -11059,6 +11030,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rccl-ltfjisspmlrbad",
         "productLink": "https://shopee.com.br/product/378105312/20997656316",
         "offerLink": "https://s.shopee.com.br/5LBGAT9Hsj"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23992941253",
+      "name": "Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Algodão Grande Macias Estampadas",
+      "price": 27.99,
+      "original_price": 59.55,
+      "discount": 53.0,
+      "commission": 0.06,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcdr-ltomtv6ucsfla9",
+      "link": "https://s.shopee.com.br/4fvcddbpMz",
+      "rating": "4.4",
+      "sales": 1371,
+      "shop": "EssencialBaby",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23992941253,
+        "productName": "Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Algodão Grande Macias Estampadas",
+        "price": "27.99",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.06",
+        "sales": 1371,
+        "ratingStar": "4.4",
+        "shopName": "EssencialBaby",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdr-ltomtv6ucsfla9",
+        "productLink": "https://shopee.com.br/product/378105312/23992941253",
+        "offerLink": "https://s.shopee.com.br/4fvcddbpMz"
       },
       "_last_price": null
     },
@@ -23011,35 +23011,6 @@
       "_last_price": null
     },
     {
-      "id": "51608731933",
-      "name": "Panela de Pressão 4,5L Com Visor Fechamento Interno Antiaderente MTA CORES",
-      "price": 146.99,
-      "original_price": 229.67,
-      "discount": 36.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mmzwzno3ooaqb2",
-      "link": "https://s.shopee.com.br/LmaDL4ZKj",
-      "rating": "4.9",
-      "sales": 736,
-      "shop": "BUMPER MAGAZINE",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 51608731933,
-        "productName": "Panela de Pressão 4,5L Com Visor Fechamento Interno Antiaderente MTA CORES",
-        "price": "146.99",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.03",
-        "sales": 736,
-        "ratingStar": "4.9",
-        "shopName": "BUMPER MAGAZINE",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mmzwzno3ooaqb2",
-        "productLink": "https://shopee.com.br/product/342086228/51608731933",
-        "offerLink": "https://s.shopee.com.br/LmaDL4ZKj"
-      },
-      "_last_price": null
-    },
-    {
       "id": "24162454732",
       "name": "Relógio De Quartzo Masculino Fashion-Forward : Pulseira De Nylon Durável Para Vidas Ativas",
       "price": 8.97,
@@ -23616,6 +23587,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mpy256tvd34209",
         "productLink": "https://shopee.com.br/product/838022405/51862897293",
         "offerLink": "https://s.shopee.com.br/4qF16sHEnU"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "51608731933",
+      "name": "Panela de Pressão 4,5L Com Visor Fechamento Interno Antiaderente MTA CORES",
+      "price": 149.99,
+      "original_price": 230.75,
+      "discount": 35.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mmzwzno3ooaqb2",
+      "link": "https://s.shopee.com.br/LmaDL4ZKj",
+      "rating": "4.9",
+      "sales": 736,
+      "shop": "BUMPER MAGAZINE",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 51608731933,
+        "productName": "Panela de Pressão 4,5L Com Visor Fechamento Interno Antiaderente MTA CORES",
+        "price": "149.99",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.03",
+        "sales": 736,
+        "ratingStar": "4.9",
+        "shopName": "BUMPER MAGAZINE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mmzwzno3ooaqb2",
+        "productLink": "https://shopee.com.br/product/342086228/51608731933",
+        "offerLink": "https://s.shopee.com.br/LmaDL4ZKj"
       },
       "_last_price": null
     },
