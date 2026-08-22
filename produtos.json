@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T10:39:09.302191+00:00",
-  "total": 1133,
+  "updated_at": "2026-08-22T10:58:23.495489+00:00",
+  "total": 1134,
   "products": [
     {
       "id": "23698808886",
@@ -462,8 +462,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824g6-mpj3pav00f0gc0",
         "productLink": "https://shopee.com.br/product/1006215031/43479061221",
         "offerLink": "https://s.shopee.com.br/2Vr4nL97Fy"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "43258408741",
@@ -8233,6 +8232,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf1fwz0aygw718",
         "productLink": "https://shopee.com.br/product/1494146725/23893776085",
         "offerLink": "https://s.shopee.com.br/7fZDujPoR9"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "27288677008",
+      "name": "Creamy Wanpy Petisco Cremoso Para Gatos 14gx50 Tubos 700g Sabor Sortidos Truly",
+      "price": 149.9,
+      "original_price": 356.9,
+      "discount": 58.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6f38f500pze7",
+      "link": "https://s.shopee.com.br/Lmcc5aixR",
+      "rating": "5",
+      "sales": 1221,
+      "shop": "Tri1Pet",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 27288677008,
+        "productName": "Creamy Wanpy Petisco Cremoso Para Gatos 14gx50 Tubos 700g Sabor Sortidos Truly",
+        "price": "149.9",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.03",
+        "sales": 1221,
+        "ratingStar": "5",
+        "shopName": "Tri1Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6f38f500pze7",
+        "productLink": "https://shopee.com.br/product/532546866/27288677008",
+        "offerLink": "https://s.shopee.com.br/Lmcc5aixR"
       },
       "_last_price": null
     },
