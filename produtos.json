@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T11:36:43.283815+00:00",
+  "updated_at": "2026-08-22T11:56:02.346150+00:00",
   "total": 1135,
   "products": [
     {
@@ -230,8 +230,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qq-mp4mttd95lald6",
         "productLink": "https://shopee.com.br/product/1006215031/24683837124",
         "offerLink": "https://s.shopee.com.br/4Vc9B2W2Bi"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "40723848736",
@@ -25404,8 +25403,8 @@
     {
       "id": "23194783176",
       "name": "Kit 4 Perfumes Masculinos Árabes 100ml",
-      "price": 67.9,
-      "original_price": 99.85,
+      "price": 67.99,
+      "original_price": 99.99,
       "discount": 32.0,
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9z9h64k5c640",
@@ -25418,7 +25417,7 @@
       "_item": {
         "itemId": 23194783176,
         "productName": "Kit 4 Perfumes Masculinos Árabes 100ml",
-        "price": "67.9",
+        "price": "67.99",
         "priceDiscountRate": 32,
         "commissionRate": "0.08",
         "sales": 3056,
