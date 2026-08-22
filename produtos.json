@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T16:05:33.100050+00:00",
-  "total": 1130,
+  "updated_at": "2026-08-22T16:24:53.268617+00:00",
+  "total": 1129,
   "products": [
     {
       "id": "23698808886",
@@ -374,7 +374,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyoeedt37dlhb3",
         "productLink": "https://shopee.com.br/product/394192376/21897733919",
         "offerLink": "https://s.shopee.com.br/6fgfICxf5c"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "26539956454",
@@ -430,34 +431,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ii-mpt2ir6ihrm701",
         "productLink": "https://shopee.com.br/product/1006215031/56607111945",
         "offerLink": "https://s.shopee.com.br/5q7WlVqx6b"
-      }
-    },
-    {
-      "id": "52905774499",
-      "name": "Espremedor Elétrico de Frutas Automático | Laranja, Limão e Outras Frutas | Suco Natural Rápido | Design Premium",
-      "price": 48.99,
-      "original_price": 306.19,
-      "discount": 84.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8260c-mlw5gdmlji8493",
-      "link": "https://s.shopee.com.br/gPQbwlq6W",
-      "rating": "4.7",
-      "sales": 7974,
-      "shop": "Link&LinkShop_Brasil",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 52905774499,
-        "productName": "Espremedor Elétrico de Frutas Automático | Laranja, Limão e Outras Frutas | Suco Natural Rápido | Design Premium",
-        "price": "48.99",
-        "priceDiscountRate": 84,
-        "commissionRate": "0.03",
-        "sales": 7974,
-        "ratingStar": "4.7",
-        "shopName": "Link&LinkShop_Brasil",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260c-mlw5gdmlji8493",
-        "productLink": "https://shopee.com.br/product/1459307687/52905774499",
-        "offerLink": "https://s.shopee.com.br/gPQbwlq6W"
       }
     },
     {
@@ -1234,8 +1207,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm5-lln14dkqwcs917",
         "productLink": "https://shopee.com.br/product/504210070/22492388439",
         "offerLink": "https://s.shopee.com.br/3g32BYc7V4"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "45364806848",
@@ -5843,35 +5815,6 @@
       "_last_price": null
     },
     {
-      "id": "41357615567",
-      "name": "Óculos De Sol Fotochromáticos Retro Quadrados Com Proteção Uv E Estrutura Leve, Ideais Para Praia, Ciclismo E viagens",
-      "price": 6.88,
-      "original_price": 18.59,
-      "discount": 63.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134301-7rffe-m9jv6vrrei7d7f",
-      "link": "https://s.shopee.com.br/904YXHkN47",
-      "rating": "4.8",
-      "sales": 1584,
-      "shop": "Choice Oficial",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41357615567,
-        "productName": "Óculos De Sol Fotochromáticos Retro Quadrados Com Proteção Uv E Estrutura Leve, Ideais Para Praia, Ciclismo E viagens",
-        "price": "6.88",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.07",
-        "sales": 1584,
-        "ratingStar": "4.8",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rffe-m9jv6vrrei7d7f",
-        "productLink": "https://shopee.com.br/product/1006215031/41357615567",
-        "offerLink": "https://s.shopee.com.br/904YXHkN47"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23394426187",
       "name": "Sambura de Arame Galvanizado para Manutenção de Iscas Vivas - Ideal para Pesca Esportiva",
       "price": 29.99,
@@ -6883,6 +6826,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xg-mo8sbownkrnl63",
         "productLink": "https://shopee.com.br/product/1459307687/26892990345",
         "offerLink": "https://s.shopee.com.br/40fu7LKPUH"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23494069000",
+      "name": "607 Óculos De Sol Hexagonais Feminino Vintage Masculino Moda quadrados Oculos",
+      "price": 12.86,
+      "original_price": 32.97,
+      "discount": 61.0,
+      "commission": 0.15,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rasz-malhwjljk9cy5f",
+      "link": "https://s.shopee.com.br/8AVUisDqsY",
+      "rating": "4.9",
+      "sales": 1253,
+      "shop": "K&L SHOP",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23494069000,
+        "productName": "607 Óculos De Sol Hexagonais Feminino Vintage Masculino Moda quadrados Oculos",
+        "price": "12.86",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.15",
+        "sales": 1253,
+        "ratingStar": "4.9",
+        "shopName": "K&L SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rasz-malhwjljk9cy5f",
+        "productLink": "https://shopee.com.br/product/1550915634/23494069000",
+        "offerLink": "https://s.shopee.com.br/8AVUisDqsY"
       },
       "_last_price": null
     },
@@ -8308,35 +8280,6 @@
       "_last_price": null
     },
     {
-      "id": "27288677008",
-      "name": "Creamy Wanpy Petisco Cremoso Para Gatos 14gx50 Tubos 700g Sabor Sortidos Truly",
-      "price": 149.9,
-      "original_price": 356.9,
-      "discount": 58.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6f38f500pze7",
-      "link": "https://s.shopee.com.br/Lmcc5aixR",
-      "rating": "5",
-      "sales": 1221,
-      "shop": "Tri1Pet",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 27288677008,
-        "productName": "Creamy Wanpy Petisco Cremoso Para Gatos 14gx50 Tubos 700g Sabor Sortidos Truly",
-        "price": "149.9",
-        "priceDiscountRate": 58,
-        "commissionRate": "0.03",
-        "sales": 1221,
-        "ratingStar": "5",
-        "shopName": "Tri1Pet",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6f38f500pze7",
-        "productLink": "https://shopee.com.br/product/532546866/27288677008",
-        "offerLink": "https://s.shopee.com.br/Lmcc5aixR"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23198395301",
       "name": "Cama Para Cachorro GG Grande Médio Casinha Caminha Pet Colchonete Impermeável",
       "price": 16.68,
@@ -8449,6 +8392,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqy7j7hfu7foe4",
         "productLink": "https://shopee.com.br/product/807597901/23497309877",
         "offerLink": "https://s.shopee.com.br/1BLhCrjw5f"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22999454687",
+      "name": "Mini Liquidificador Portátil 400ml 6 Lâminas Recarregável USB Mixer Suco Shake",
+      "price": 32.9,
+      "original_price": 78.33,
+      "discount": 58.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82621-mlh3gn4xczk470",
+      "link": "https://s.shopee.com.br/6q03xHOMb8",
+      "rating": "4.4",
+      "sales": 1396,
+      "shop": "Lemon Seleção",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22999454687,
+        "productName": "Mini Liquidificador Portátil 400ml 6 Lâminas Recarregável USB Mixer Suco Shake",
+        "price": "32.9",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.03",
+        "sales": 1396,
+        "ratingStar": "4.4",
+        "shopName": "Lemon Seleção",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82621-mlh3gn4xczk470",
+        "productLink": "https://shopee.com.br/product/1383463294/22999454687",
+        "offerLink": "https://s.shopee.com.br/6q03xHOMb8"
       },
       "_last_price": null
     },
@@ -10334,6 +10306,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b7-mg5o18qgkgem55",
         "productLink": "https://shopee.com.br/product/1480594679/22594566643",
         "offerLink": "https://s.shopee.com.br/7KwKYHKRJa"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22694408785",
+      "name": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
+      "price": 879.99,
+      "original_price": 1913.02,
+      "discount": 54.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mr97xwjossn825",
+      "link": "https://s.shopee.com.br/5q7a6z8Mmx",
+      "rating": "4.9",
+      "sales": 16,
+      "shop": "LOX-1",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22694408785,
+        "productName": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
+        "price": "879.99",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.11",
+        "sales": 16,
+        "ratingStar": "4.9",
+        "shopName": "LOX-1",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mr97xwjossn825",
+        "productLink": "https://shopee.com.br/product/956346509/22694408785",
+        "offerLink": "https://s.shopee.com.br/5q7a6z8Mmx"
       },
       "_last_price": null
     },
@@ -12596,35 +12597,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg8mdyb8amf868",
         "productLink": "https://shopee.com.br/product/440843436/20753602955",
         "offerLink": "https://s.shopee.com.br/3VjdXc5YIX"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58262995010",
-      "name": "Suporte para Placa de Vídeo Deadpool Exclusivo – GPU Ajustável Gamer Universal",
-      "price": 14.95,
-      "original_price": 29.9,
-      "discount": 50.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mpschi0yy2o0c3",
-      "link": "https://s.shopee.com.br/70JVi2sECI",
-      "rating": "4.8",
-      "sales": 130,
-      "shop": "Funciona Bem Utilidades",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58262995010,
-        "productName": "Suporte para Placa de Vídeo Deadpool Exclusivo – GPU Ajustável Gamer Universal",
-        "price": "14.95",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.03",
-        "sales": 130,
-        "ratingStar": "4.8",
-        "shopName": "Funciona Bem Utilidades",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mpschi0yy2o0c3",
-        "productLink": "https://shopee.com.br/product/1555847007/58262995010",
-        "offerLink": "https://s.shopee.com.br/70JVi2sECI"
       },
       "_last_price": null
     },
@@ -19444,6 +19416,35 @@
       "_last_price": null
     },
     {
+      "id": "58262280031",
+      "name": "Placa de Vídeo Gamer Ninja NVIDIA GeForce GTX 1660 Super Ronin, 6GB GDDR6 192bit GN-PV-NVGTX1660S6D6",
+      "price": 1304.99,
+      "original_price": 2211.85,
+      "discount": 41.0,
+      "commission": 0.06,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823qf-mpbbl1kk4mq4dd",
+      "link": "https://s.shopee.com.br/2BEFvqQ165",
+      "rating": "4.9",
+      "sales": 47,
+      "shop": "Terabyte ",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58262280031,
+        "productName": "Placa de Vídeo Gamer Ninja NVIDIA GeForce GTX 1660 Super Ronin, 6GB GDDR6 192bit GN-PV-NVGTX1660S6D6",
+        "price": "1304.99",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.06",
+        "sales": 47,
+        "ratingStar": "4.9",
+        "shopName": "Terabyte ",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qf-mpbbl1kk4mq4dd",
+        "productLink": "https://shopee.com.br/product/1552226494/58262280031",
+        "offerLink": "https://s.shopee.com.br/2BEFvqQ165"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58204282495",
       "name": "Trio Esponjas Maquiagem Macrilan EP26 Para Base Pó e Corretivo Preta",
       "price": 18.87,
@@ -19759,6 +19760,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgo8hndm5ukn6e",
         "productLink": "https://shopee.com.br/product/1680935964/58258111675",
         "offerLink": "https://s.shopee.com.br/8V8HwCLW2j"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22395013875",
+      "name": "Suporte para Placa de Vídeo GPU Ajustável Nvidia e Radeon Universal Cores Branco & Preto",
+      "price": 11.99,
+      "original_price": 19.98,
+      "discount": 40.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mpausqremvpcc7",
+      "link": "https://s.shopee.com.br/6q0730Mf7D",
+      "rating": "4.9",
+      "sales": 217,
+      "shop": "Legacy 3D Storee",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22395013875,
+        "productName": "Suporte para Placa de Vídeo GPU Ajustável Nvidia e Radeon Universal Cores Branco & Preto",
+        "price": "11.99",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.08",
+        "sales": 217,
+        "ratingStar": "4.9",
+        "shopName": "Legacy 3D Storee",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mpausqremvpcc7",
+        "productLink": "https://shopee.com.br/product/1848916283/22395013875",
+        "offerLink": "https://s.shopee.com.br/6q0730Mf7D"
       },
       "_last_price": null
     },
@@ -23765,35 +23795,6 @@
       "_last_price": null
     },
     {
-      "id": "41417041430",
-      "name": "Placa de Vídeo MSI NVIDIA GeForce RTX 5060 SHADOW 2X OC, 8GB, GDDR7, 128 Bits - 912-V537-038",
-      "price": 2999.0,
-      "original_price": 4543.94,
-      "discount": 34.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824h3-me53t34yuepze5",
-      "link": "https://s.shopee.com.br/4AzKKq30wT",
-      "rating": "5",
-      "sales": 338,
-      "shop": "ITX-GAMER",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41417041430,
-        "productName": "Placa de Vídeo MSI NVIDIA GeForce RTX 5060 SHADOW 2X OC, 8GB, GDDR7, 128 Bits - 912-V537-038",
-        "price": "2999",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.03",
-        "sales": 338,
-        "ratingStar": "5",
-        "shopName": "ITX-GAMER",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h3-me53t34yuepze5",
-        "productLink": "https://shopee.com.br/product/778397589/41417041430",
-        "offerLink": "https://s.shopee.com.br/4AzKKq30wT"
-      },
-      "_last_price": null
-    },
-    {
       "id": "40981574452",
       "name": "GABINETE EXECUTIVO OFFICE ATX e MICRO ATX/MINI ATX PRETO SEM FONTE BT01 BROTHERSS",
       "price": 66.0,
@@ -27763,35 +27764,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7reph-m81n33b5b2qf35",
         "productLink": "https://shopee.com.br/product/935991633/43560768226",
         "offerLink": "https://s.shopee.com.br/9pdh4BmF1e"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "40004443645",
-      "name": "Placa de Vídeo NVIDIA GeForce MSI RTX5060 8GB GDDR7 128BITS SHADOW 2X OC - 912-V537-037",
-      "price": 2699.0,
-      "original_price": 3598.67,
-      "discount": 25.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxk-mdqd16pct8kk29",
-      "link": "https://s.shopee.com.br/112IZ1F4Mo",
-      "rating": "4.9",
-      "sales": 441,
-      "shop": "TNTinfoLoja",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40004443645,
-        "productName": "Placa de Vídeo NVIDIA GeForce MSI RTX5060 8GB GDDR7 128BITS SHADOW 2X OC - 912-V537-037",
-        "price": "2699",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.03",
-        "sales": 441,
-        "ratingStar": "4.9",
-        "shopName": "TNTinfoLoja",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxk-mdqd16pct8kk29",
-        "productLink": "https://shopee.com.br/product/344381236/40004443645",
-        "offerLink": "https://s.shopee.com.br/112IZ1F4Mo"
       },
       "_last_price": null
     },
@@ -31914,35 +31886,6 @@
       "_last_price": null
     },
     {
-      "id": "40973563965",
-      "name": "Placa de Vídeo MSI GeForce RTX 3050 Ventus 2X OC, 6GB, GDDR6, 96 bits, 912-V812",
-      "price": 1351.0,
-      "original_price": 1608.33,
-      "discount": 16.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824g3-mfocuv0i603xfb",
-      "link": "https://s.shopee.com.br/3qMTwE4Hcd",
-      "rating": "4.9",
-      "sales": 102,
-      "shop": "TNTinfoLoja",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40973563965,
-        "productName": "Placa de Vídeo MSI GeForce RTX 3050 Ventus 2X OC, 6GB, GDDR6, 96 bits, 912-V812",
-        "price": "1351",
-        "priceDiscountRate": 16,
-        "commissionRate": "0.03",
-        "sales": 102,
-        "ratingStar": "4.9",
-        "shopName": "TNTinfoLoja",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824g3-mfocuv0i603xfb",
-        "productLink": "https://shopee.com.br/product/344381236/40973563965",
-        "offerLink": "https://s.shopee.com.br/3qMTwE4Hcd"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23693885927",
       "name": "Repetidor Wifi Kp-3007 Expansor De Sinal Sem Fio Roteador",
       "price": 33.5,
@@ -32287,6 +32230,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98s-llqf31v92ckr45",
         "productLink": "https://shopee.com.br/product/472168397/22296602711",
         "offerLink": "https://s.shopee.com.br/2BEEOnzZEx"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22198879944",
+      "name": "Placa De Video 4gb Gtx 550ti Ddr5 128 bit vga dvi hdmi Revenger Nvidia Nova Lacrado Para Computador Gabinete Dia a Dia",
+      "price": 413.7,
+      "original_price": 486.71,
+      "discount": 15.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mqg9jn8cbfnnb7",
+      "link": "https://s.shopee.com.br/20upjXQeR2",
+      "rating": "4.8",
+      "sales": 61,
+      "shop": "Tá Bom",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22198879944,
+        "productName": "Placa De Video 4gb Gtx 550ti Ddr5 128 bit vga dvi hdmi Revenger Nvidia Nova Lacrado Para Computador Gabinete Dia a Dia",
+        "price": "413.7",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.03",
+        "sales": 61,
+        "ratingStar": "4.8",
+        "shopName": "Tá Bom",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mqg9jn8cbfnnb7",
+        "productLink": "https://shopee.com.br/product/1531028944/22198879944",
+        "offerLink": "https://s.shopee.com.br/20upjXQeR2"
       },
       "_last_price": null
     },
