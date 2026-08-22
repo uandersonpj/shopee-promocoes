@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T18:40:07.232541+00:00",
-  "total": 1132,
+  "updated_at": "2026-08-22T18:59:23.743843+00:00",
+  "total": 1133,
   "products": [
     {
       "id": "23698808886",
@@ -463,7 +463,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260c-mlw5gdmlji8493",
         "productLink": "https://shopee.com.br/product/1459307687/52905774499",
         "offerLink": "https://s.shopee.com.br/gPQbwlq6W"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "43479061221",
@@ -1726,8 +1727,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1xeanm14pt61d",
         "productLink": "https://shopee.com.br/product/1017646777/22198016021",
         "offerLink": "https://s.shopee.com.br/2Vr4nGK4dW"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "42068096428",
@@ -4512,6 +4512,35 @@
       "_last_price": null
     },
     {
+      "id": "19497292376",
+      "name": "10/20/30 Peças Pano De Limpeza Alta Qualidade Pano Super Absorvente Microfibra Para Toalha De Limpeza Limpar De Cozinha",
+      "price": 13.59,
+      "original_price": 39.97,
+      "discount": 66.0,
+      "commission": 0.19,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mm8hwqyum41z6a",
+      "link": "https://s.shopee.com.br/5ArtMUhy4H",
+      "rating": "4.6",
+      "sales": 1327,
+      "shop": "REAL MO",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19497292376,
+        "productName": "10/20/30 Peças Pano De Limpeza Alta Qualidade Pano Super Absorvente Microfibra Para Toalha De Limpeza Limpar De Cozinha",
+        "price": "13.59",
+        "priceDiscountRate": 66,
+        "commissionRate": "0.19",
+        "sales": 1327,
+        "ratingStar": "4.6",
+        "shopName": "REAL MO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mm8hwqyum41z6a",
+        "productLink": "https://shopee.com.br/product/807581166/19497292376",
+        "offerLink": "https://s.shopee.com.br/5ArtMUhy4H"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22994820028",
       "name": "Suporte Organizador de Parede Adesivo Alta Resistência para Shampoo Banheiro e Cozinha",
       "price": 11.98,
@@ -4595,6 +4624,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra1y-mbikdnlkoa3e0e",
         "productLink": "https://shopee.com.br/product/1541927562/23294180222",
         "offerLink": "https://s.shopee.com.br/8fRkTTJpaT"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58208583352",
+      "name": "Boné De Beisebol Com Óculos De Sol Falsos , Proteção Solar , Verão , Macio Para Corrida , Caminhada , Pesca Vários cores",
+      "price": 19.97,
+      "original_price": 58.74,
+      "discount": 66.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mmvvx9h1getec5",
+      "link": "https://s.shopee.com.br/4VcCY4jSjL",
+      "rating": "4.8",
+      "sales": 58,
+      "shop": "Sunny.Store",
+      "category": "boné pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58208583352,
+        "productName": "Boné De Beisebol Com Óculos De Sol Falsos , Proteção Solar , Verão , Macio Para Corrida , Caminhada , Pesca Vários cores",
+        "price": "19.97",
+        "priceDiscountRate": 66,
+        "commissionRate": "0.03",
+        "sales": 58,
+        "ratingStar": "4.8",
+        "shopName": "Sunny.Store",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmvvx9h1getec5",
+        "productLink": "https://shopee.com.br/product/1267873709/58208583352",
+        "offerLink": "https://s.shopee.com.br/4VcCY4jSjL"
       },
       "_last_price": null
     },
@@ -25855,8 +25913,8 @@
     {
       "id": "22397902815",
       "name": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
-      "price": 27.98,
-      "original_price": 39.97,
+      "price": 27.99,
+      "original_price": 39.99,
       "discount": 30.0,
       "commission": 0.1,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
@@ -25869,7 +25927,7 @@
       "_item": {
         "itemId": 22397902815,
         "productName": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
-        "price": "27.98",
+        "price": "27.99",
         "priceDiscountRate": 30,
         "commissionRate": "0.1",
         "sales": 3688,
@@ -30837,35 +30895,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mp3t5spg1berbf",
         "productLink": "https://shopee.com.br/product/1107585845/58255902115",
         "offerLink": "https://s.shopee.com.br/7KwM5NIwaP"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21099859263",
-      "name": "Limpador de óculos/limpador de óculos portátil ultramacio multifuncional/pano de microfibra/escova macia de limpeza",
-      "price": 7.68,
-      "original_price": 9.48,
-      "discount": 19.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdyq149xuwarff",
-      "link": "https://s.shopee.com.br/4LIkVscguB",
-      "rating": "4.8",
-      "sales": 1511,
-      "shop": "relogios lucky",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21099859263,
-        "productName": "Limpador de óculos/limpador de óculos portátil ultramacio multifuncional/pano de microfibra/escova macia de limpeza",
-        "price": "7.68",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.12",
-        "sales": 1511,
-        "ratingStar": "4.8",
-        "shopName": "relogios lucky",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdyq149xuwarff",
-        "productLink": "https://shopee.com.br/product/1115776530/21099859263",
-        "offerLink": "https://s.shopee.com.br/4LIkVscguB"
       },
       "_last_price": null
     },
