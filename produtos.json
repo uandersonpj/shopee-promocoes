@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T07:48:10.685885+00:00",
+  "updated_at": "2026-08-22T08:07:03.188812+00:00",
   "total": 1134,
   "products": [
     {
@@ -173,7 +173,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820om-mnut0voeky6e18",
         "productLink": "https://shopee.com.br/product/1573183881/58210111062",
         "offerLink": "https://s.shopee.com.br/112IXlOeCa"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23797686527",
@@ -721,7 +722,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mmimeaq4koav45",
         "productLink": "https://shopee.com.br/product/1748172680/58258026087",
         "offerLink": "https://s.shopee.com.br/7AcuM0ozmi"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "42971009476",
@@ -8090,35 +8092,6 @@
       "_last_price": null
     },
     {
-      "id": "23399028531",
-      "name": "Kit Limpeza 20 em 1 Teclado Mecânico, Fone de Ouvido, Celular – Escova e Extrator de Teclas",
-      "price": 24.78,
-      "original_price": 59.0,
-      "discount": 58.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8257y-mfwknofdwavdf4",
-      "link": "https://s.shopee.com.br/2Vr79L4LkY",
-      "rating": "4.8",
-      "sales": 184,
-      "shop": "MaisClickStore",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23399028531,
-        "productName": "Kit Limpeza 20 em 1 Teclado Mecânico, Fone de Ouvido, Celular – Escova e Extrator de Teclas",
-        "price": "24.78",
-        "priceDiscountRate": 58,
-        "commissionRate": "0.03",
-        "sales": 184,
-        "ratingStar": "4.8",
-        "shopName": "MaisClickStore",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257y-mfwknofdwavdf4",
-        "productLink": "https://shopee.com.br/product/1607577276/23399028531",
-        "offerLink": "https://s.shopee.com.br/2Vr79L4LkY"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23592798319",
       "name": "Caixa Saco Organizador Cobertor Casaco Guarda Roupa Ecológico Anti-Poeira Umidade Insetos Multiuso",
       "price": 13.99,
@@ -9391,6 +9364,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvq-lygm4gdp8dis3d",
         "productLink": "https://shopee.com.br/product/390307022/23197677281",
         "offerLink": "https://s.shopee.com.br/3LQBmj5JjK"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23891917173",
+      "name": "Kit Teclado Semi Mecânico + Mouse Gamer 3200dpi Rgb Led M300",
+      "price": 47.88,
+      "original_price": 108.82,
+      "discount": 56.0,
+      "commission": 0.04,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lo8gdpc8okvdbd",
+      "link": "https://s.shopee.com.br/7KwM6fhkur",
+      "rating": "4.6",
+      "sales": 1,
+      "shop": "ALFA MERCEARIA.BR",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23891917173,
+        "productName": "Kit Teclado Semi Mecânico + Mouse Gamer 3200dpi Rgb Led M300",
+        "price": "47.88",
+        "priceDiscountRate": 56,
+        "commissionRate": "0.04",
+        "sales": 1,
+        "ratingStar": "4.6",
+        "shopName": "ALFA MERCEARIA.BR",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lo8gdpc8okvdbd",
+        "productLink": "https://shopee.com.br/product/362859393/23891917173",
+        "offerLink": "https://s.shopee.com.br/7KwM6fhkur"
       },
       "_last_price": null
     },
