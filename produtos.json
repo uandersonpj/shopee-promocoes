@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-23T02:13:23.168840+00:00",
-  "total": 1130,
+  "updated_at": "2026-08-23T02:32:38.824042+00:00",
+  "total": 1131,
   "products": [
     {
       "id": "23698808886",
@@ -3416,7 +3416,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260z-mlfoobx6680869",
         "productLink": "https://shopee.com.br/product/794850458/58206269989",
         "offerLink": "https://s.shopee.com.br/1BLik8VCEw"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "42806494664",
@@ -6780,34 +6781,6 @@
       "_last_price": null
     },
     {
-      "id": "58265836602",
-      "name": "Elástico Extensor Pedal Fitness Musculação Pilates Treinamento Funcional",
-      "price": 15.5,
-      "original_price": 39.74,
-      "discount": 61.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8258f-mrnbx4w3e8zqf1",
-      "link": "https://s.shopee.com.br/6L3nMKVKvV",
-      "rating": "4.8",
-      "sales": 149,
-      "shop": "FS Fit",
-      "category": "elastico musculacao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58265836602,
-        "productName": "Elástico Extensor Pedal Fitness Musculação Pilates Treinamento Funcional",
-        "price": "15.5",
-        "priceDiscountRate": 61,
-        "commissionRate": "0.03",
-        "sales": 149,
-        "ratingStar": "4.8",
-        "shopName": "FS Fit",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258f-mrnbx4w3e8zqf1",
-        "productLink": "https://shopee.com.br/product/1912999973/58265836602",
-        "offerLink": "https://s.shopee.com.br/6L3nMKVKvV"
-      }
-    },
-    {
       "id": "21897495054",
       "name": "Coleira Cães Antipulgas E Carrapatos Dugs 56cm World",
       "price": 11.15,
@@ -7907,6 +7880,34 @@
       "_last_price": null
     },
     {
+      "id": "58265836602",
+      "name": "Elástico Extensor Pedal Fitness Musculação Pilates Treinamento Funcional",
+      "price": 16.5,
+      "original_price": 40.24,
+      "discount": 59.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8258f-mrnbx4w3e8zqf1",
+      "link": "https://s.shopee.com.br/6L3nMKVKvV",
+      "rating": "4.8",
+      "sales": 149,
+      "shop": "FS Fit",
+      "category": "elastico musculacao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58265836602,
+        "productName": "Elástico Extensor Pedal Fitness Musculação Pilates Treinamento Funcional",
+        "price": "16.5",
+        "priceDiscountRate": 59,
+        "commissionRate": "0.03",
+        "sales": 149,
+        "ratingStar": "4.8",
+        "shopName": "FS Fit",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258f-mrnbx4w3e8zqf1",
+        "productLink": "https://shopee.com.br/product/1912999973/58265836602",
+        "offerLink": "https://s.shopee.com.br/6L3nMKVKvV"
+      }
+    },
+    {
       "id": "18597631235",
       "name": "Kit Top Academia Musculação Para Fitness Casual Praia Treino C/ Elástico",
       "price": 16.18,
@@ -8337,8 +8338,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6f38f500pze7",
         "productLink": "https://shopee.com.br/product/532546866/27288677008",
         "offerLink": "https://s.shopee.com.br/Lmcc5aixR"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23198395301",
@@ -28577,6 +28577,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-luawk6vrw1gg3c",
         "productLink": "https://shopee.com.br/product/439543954/23097466419",
         "offerLink": "https://s.shopee.com.br/9AO16w2V9y"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23392628735",
+      "name": "Desinfetante Herbal Vet Bactericida Concentrado 1L Herbalvet",
+      "price": 94.19,
+      "original_price": 123.93,
+      "discount": 24.0,
+      "commission": 0.18,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7glk3gm59yq3b",
+      "link": "https://s.shopee.com.br/W60PXxd0c",
+      "rating": "5",
+      "sales": 596,
+      "shop": "MANADA ANIMAL",
+      "category": "desinfetante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23392628735,
+        "productName": "Desinfetante Herbal Vet Bactericida Concentrado 1L Herbalvet",
+        "price": "94.19",
+        "priceDiscountRate": 24,
+        "commissionRate": "0.18",
+        "sales": 596,
+        "ratingStar": "5",
+        "shopName": "MANADA ANIMAL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7glk3gm59yq3b",
+        "productLink": "https://shopee.com.br/product/450664666/23392628735",
+        "offerLink": "https://s.shopee.com.br/W60PXxd0c"
       },
       "_last_price": null
     },
