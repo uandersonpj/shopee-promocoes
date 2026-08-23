@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T23:48:50.156522+00:00",
-  "total": 1131,
+  "updated_at": "2026-08-23T00:08:05.371151+00:00",
+  "total": 1132,
   "products": [
     {
       "id": "23698808886",
@@ -1098,7 +1098,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98r-llp2niz8vuwnb6",
         "productLink": "https://shopee.com.br/product/406098813/23696895359",
         "offerLink": "https://s.shopee.com.br/112H0TUiRF"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23394267693",
@@ -4597,6 +4598,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra1y-mbikdnlkoa3e0e",
         "productLink": "https://shopee.com.br/product/1541927562/23294180222",
         "offerLink": "https://s.shopee.com.br/8fRkTTJpaT"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58208583352",
+      "name": "Boné De Beisebol Com Óculos De Sol Falsos , Proteção Solar , Verão , Macio Para Corrida , Caminhada , Pesca Vários cores",
+      "price": 19.97,
+      "original_price": 58.74,
+      "discount": 66.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mmvvx9h1getec5",
+      "link": "https://s.shopee.com.br/4VcCY4jSjL",
+      "rating": "4.8",
+      "sales": 60,
+      "shop": "Sunny.Store",
+      "category": "boné pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58208583352,
+        "productName": "Boné De Beisebol Com Óculos De Sol Falsos , Proteção Solar , Verão , Macio Para Corrida , Caminhada , Pesca Vários cores",
+        "price": "19.97",
+        "priceDiscountRate": 66,
+        "commissionRate": "0.03",
+        "sales": 60,
+        "ratingStar": "4.8",
+        "shopName": "Sunny.Store",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmvvx9h1getec5",
+        "productLink": "https://shopee.com.br/product/1267873709/58208583352",
+        "offerLink": "https://s.shopee.com.br/4VcCY4jSjL"
       },
       "_last_price": null
     },
@@ -9245,7 +9275,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mri40ykoz47834",
       "link": "https://s.shopee.com.br/7VFniK2GZy",
-      "rating": "4.7",
+      "rating": "4.6",
       "sales": 47,
       "shop": "TUDO_AQUI.br",
       "category": "roteador wifi",
@@ -9257,7 +9287,7 @@
         "priceDiscountRate": 56,
         "commissionRate": "0.03",
         "sales": 47,
-        "ratingStar": "4.7",
+        "ratingStar": "4.6",
         "shopName": "TUDO_AQUI.br",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mri40ykoz47834",
         "productLink": "https://shopee.com.br/product/1378634963/54865439084",
@@ -11524,8 +11554,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfy2okarbrpgf7",
         "productLink": "https://shopee.com.br/product/572649927/42574800387",
         "offerLink": "https://s.shopee.com.br/1Lf8xfHFqR"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23615780781",
@@ -15385,35 +15414,6 @@
       "_last_price": null
     },
     {
-      "id": "23294401619",
-      "name": "TV Inteligente Adaptador 300M Sem Fio USB Repetidor Wifi",
-      "price": 36.9,
-      "original_price": 69.62,
-      "discount": 47.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meu3eug7708z8a",
-      "link": "https://s.shopee.com.br/7fZDud1dEz",
-      "rating": "4.8",
-      "sales": 193,
-      "shop": "BAZAR MIXGO",
-      "category": "roteador wifi",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23294401619,
-        "productName": "TV Inteligente Adaptador 300M Sem Fio USB Repetidor Wifi",
-        "price": "36.9",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.13",
-        "sales": 193,
-        "ratingStar": "4.8",
-        "shopName": "BAZAR MIXGO",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meu3eug7708z8a",
-        "productLink": "https://shopee.com.br/product/675695527/23294401619",
-        "offerLink": "https://s.shopee.com.br/7fZDud1dEz"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58257429517",
       "name": "Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 1200MBPS Click",
       "price": 52.99,
@@ -18426,6 +18426,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824hn-mph61me3g83y8f",
         "productLink": "https://shopee.com.br/product/1630938913/58212490237",
         "offerLink": "https://s.shopee.com.br/AAGVvH62L5"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23294401619",
+      "name": "TV Inteligente Adaptador 300M Sem Fio USB Repetidor Wifi",
+      "price": 39.9,
+      "original_price": 70.0,
+      "discount": 43.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meu3eug7708z8a",
+      "link": "https://s.shopee.com.br/7fZDud1dEz",
+      "rating": "4.8",
+      "sales": 193,
+      "shop": "BAZAR MIXGO",
+      "category": "roteador wifi",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23294401619,
+        "productName": "TV Inteligente Adaptador 300M Sem Fio USB Repetidor Wifi",
+        "price": "39.9",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.13",
+        "sales": 193,
+        "ratingStar": "4.8",
+        "shopName": "BAZAR MIXGO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meu3eug7708z8a",
+        "productLink": "https://shopee.com.br/product/675695527/23294401619",
+        "offerLink": "https://s.shopee.com.br/7fZDud1dEz"
       },
       "_last_price": null
     },
@@ -23617,35 +23646,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mpy256tvd34209",
         "productLink": "https://shopee.com.br/product/838022405/51862897293",
         "offerLink": "https://s.shopee.com.br/4qF16sHEnU"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "27279362752",
-      "name": "Cafeteira Elétrica Elgin Coffe Break 15 Xícaras Preta",
-      "price": 84.9,
-      "original_price": 130.62,
-      "discount": 35.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825a8-mrx69cgmtdl43b",
-      "link": "https://s.shopee.com.br/gPS9DX6Fp",
-      "rating": "4.9",
-      "sales": 720,
-      "shop": "BUMPER MAGAZINE",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 27279362752,
-        "productName": "Cafeteira Elétrica Elgin Coffe Break 15 Xícaras Preta",
-        "price": "84.9",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.07",
-        "sales": 720,
-        "ratingStar": "4.9",
-        "shopName": "BUMPER MAGAZINE",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a8-mrx69cgmtdl43b",
-        "productLink": "https://shopee.com.br/product/342086228/27279362752",
-        "offerLink": "https://s.shopee.com.br/gPS9DX6Fp"
       },
       "_last_price": null
     },
@@ -29968,6 +29968,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258i-mr79c3jrklc63e",
         "productLink": "https://shopee.com.br/product/811034337/22792891006",
         "offerLink": "https://s.shopee.com.br/1gHxnmQ9rv"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23094669018",
+      "name": "Cafeteira Nescafé Dolce Gusto Mini Me Vermelha e Preta 110v",
+      "price": 455.44,
+      "original_price": 576.51,
+      "discount": 21.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8262a-mj5pj0ni4j5x95",
+      "link": "https://s.shopee.com.br/9V0sOZeHYK",
+      "rating": "4.9",
+      "sales": 313,
+      "shop": "Nescafé Dolce Gusto",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23094669018,
+        "productName": "Cafeteira Nescafé Dolce Gusto Mini Me Vermelha e Preta 110v",
+        "price": "455.44",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.03",
+        "sales": 313,
+        "ratingStar": "4.9",
+        "shopName": "Nescafé Dolce Gusto",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262a-mj5pj0ni4j5x95",
+        "productLink": "https://shopee.com.br/product/1531827759/23094669018",
+        "offerLink": "https://s.shopee.com.br/9V0sOZeHYK"
       },
       "_last_price": null
     },
