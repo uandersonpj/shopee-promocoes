@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-23T00:08:05.371151+00:00",
-  "total": 1132,
+  "updated_at": "2026-08-23T00:27:31.850903+00:00",
+  "total": 1131,
   "products": [
     {
       "id": "23698808886",
@@ -838,7 +838,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
         "productLink": "https://shopee.com.br/product/1266325318/21897981294",
         "offerLink": "https://s.shopee.com.br/60QyeP6U5C"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23294866358",
@@ -2023,35 +2024,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfvb2gx4p34791",
         "productLink": "https://shopee.com.br/product/629805123/22099046331",
         "offerLink": "https://s.shopee.com.br/3LQBmlvJ0M"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "24191969006",
-      "name": "Kit De 2 Protetores Solares Buba Para Carros",
-      "price": 15.8,
-      "original_price": 58.52,
-      "discount": 73.0,
-      "commission": 0.1,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6qb314947x8e6",
-      "link": "https://s.shopee.com.br/3qMVLe65KD",
-      "rating": "4.6",
-      "sales": 2320,
-      "shop": "CASA_NO.1.br",
-      "category": "protetor solar",
-      "source": "shopee",
-      "_item": {
-        "itemId": 24191969006,
-        "productName": "Kit De 2 Protetores Solares Buba Para Carros",
-        "price": "15.8",
-        "priceDiscountRate": 73,
-        "commissionRate": "0.1",
-        "sales": 2320,
-        "ratingStar": "4.6",
-        "shopName": "CASA_NO.1.br",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6qb314947x8e6",
-        "productLink": "https://shopee.com.br/product/1389142964/24191969006",
-        "offerLink": "https://s.shopee.com.br/3qMVLe65KD"
       },
       "_last_price": null
     },
@@ -3792,35 +3764,6 @@
       "_last_price": null
     },
     {
-      "id": "58210369811",
-      "name": "Sabão em Pó Premium 3Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
-      "price": 9.99,
-      "original_price": 30.27,
-      "discount": 67.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mnzxdhovt9fk27",
-      "link": "https://s.shopee.com.br/1BLik2BYM6",
-      "rating": "4.7",
-      "sales": 273,
-      "shop": "AudCare Química",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58210369811,
-        "productName": "Sabão em Pó Premium 3Kg Concentrado Lava Roupas Limpeza Profunda Remove Manchas Perfume Duradouro",
-        "price": "9.99",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.13",
-        "sales": 273,
-        "ratingStar": "4.7",
-        "shopName": "AudCare Química",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mnzxdhovt9fk27",
-        "productLink": "https://shopee.com.br/product/1820418238/58210369811",
-        "offerLink": "https://s.shopee.com.br/1BLik2BYM6"
-      },
-      "_last_price": null
-    },
-    {
       "id": "19498730086",
       "name": "Kit 2 Aço inoxidável Suporte Porta Esponja para bucha de pia Prateleira de cozinha",
       "price": 6.0,
@@ -3904,6 +3847,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4et0gt4mdklca",
         "productLink": "https://shopee.com.br/product/406098813/18856357121",
         "offerLink": "https://s.shopee.com.br/6L3ousoc3S"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19599702993",
+      "name": "Óleo Ativador Parafina  de Bronze Urucum 120ml Marquinha De Fita Biquíni - L&Beauty",
+      "price": 12.9,
+      "original_price": 39.09,
+      "discount": 67.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8vcfpy3qqrm91",
+      "link": "https://s.shopee.com.br/AUtOg67k3g",
+      "rating": "4.8",
+      "sales": 1514,
+      "shop": "RB IMPORTS_RJ",
+      "category": "protetor solar",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19599702993,
+        "productName": "Óleo Ativador Parafina  de Bronze Urucum 120ml Marquinha De Fita Biquíni - L&Beauty",
+        "price": "12.9",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.03",
+        "sales": 1514,
+        "ratingStar": "4.8",
+        "shopName": "RB IMPORTS_RJ",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8vcfpy3qqrm91",
+        "productLink": "https://shopee.com.br/product/1279944913/19599702993",
+        "offerLink": "https://s.shopee.com.br/AUtOg67k3g"
       },
       "_last_price": null
     },
@@ -8335,8 +8307,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf1fwz0aygw718",
         "productLink": "https://shopee.com.br/product/1494146725/23893776085",
         "offerLink": "https://s.shopee.com.br/7fZDujPoR9"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "27288677008",
@@ -27014,35 +26985,6 @@
       "_last_price": null
     },
     {
-      "id": "23995007004",
-      "name": "Mini Liquidificador Portátil 450ml com Display Digital e 8 Lâminas 3 Velocidades",
-      "price": 42.9,
-      "original_price": 59.58,
-      "discount": 28.0,
-      "commission": 0.09,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mpugss6pvvuq78",
-      "link": "https://s.shopee.com.br/6VNDYfPdH6",
-      "rating": "4.8",
-      "sales": 1129,
-      "shop": "Aola Shop ",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23995007004,
-        "productName": "Mini Liquidificador Portátil 450ml com Display Digital e 8 Lâminas 3 Velocidades",
-        "price": "42.9",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.09",
-        "sales": 1129,
-        "ratingStar": "4.8",
-        "shopName": "Aola Shop ",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mpugss6pvvuq78",
-        "productLink": "https://shopee.com.br/product/1067971921/23995007004",
-        "offerLink": "https://s.shopee.com.br/6VNDYfPdH6"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58208305021",
       "name": "Panela De Pressao 4,5 litros Antiaderente Kit Convencional Tampa Vidro",
       "price": 129.8,
@@ -27445,6 +27387,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mnp4nu9pryf625",
         "productLink": "https://shopee.com.br/product/1552460828/58209955451",
         "offerLink": "https://s.shopee.com.br/8pl8KwysKF"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23995007004",
+      "name": "Mini Liquidificador Portátil 450ml com Display Digital e 8 Lâminas 3 Velocidades",
+      "price": 42.9,
+      "original_price": 58.77,
+      "discount": 27.0,
+      "commission": 0.09,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mpugss6pvvuq78",
+      "link": "https://s.shopee.com.br/6VNDYfPdH6",
+      "rating": "4.8",
+      "sales": 1129,
+      "shop": "Aola Shop ",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23995007004,
+        "productName": "Mini Liquidificador Portátil 450ml com Display Digital e 8 Lâminas 3 Velocidades",
+        "price": "42.9",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.09",
+        "sales": 1129,
+        "ratingStar": "4.8",
+        "shopName": "Aola Shop ",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mpugss6pvvuq78",
+        "productLink": "https://shopee.com.br/product/1067971921/23995007004",
+        "offerLink": "https://s.shopee.com.br/6VNDYfPdH6"
       },
       "_last_price": null
     },
