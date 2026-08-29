@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-29T11:36:45.437218+00:00",
-  "total": 1096,
+  "updated_at": "2026-08-29T11:55:36.514904+00:00",
+  "total": 1113,
   "products": [
     {
       "id": "52011120312",
@@ -126,11 +126,11 @@
       "discount": 87.0,
       "commission": 0.15,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mn35aptzvev454",
-      "link": "https://s.shopee.com.br/gPeo1MYzX",
+      "link": "https://s.shopee.com.br/4fvnafJ17v",
       "rating": "4.7",
       "sales": 3755,
       "shop": "Maca Power",
-      "category": "condicionador",
+      "category": "shampoo",
       "source": "shopee",
       "_item": {
         "itemId": 47656268388,
@@ -143,7 +143,7 @@
         "shopName": "Maca Power",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mn35aptzvev454",
         "productLink": "https://shopee.com.br/product/1179613076/47656268388",
-        "offerLink": "https://s.shopee.com.br/gPeo1MYzX"
+        "offerLink": "https://s.shopee.com.br/4fvnafJ17v"
       },
       "_last_price": null
     },
@@ -246,7 +246,7 @@
       "rating": "4.6",
       "sales": 24755,
       "shop": "Karseell Oficial ",
-      "category": "condicionador",
+      "category": "shampoo",
       "source": "shopee",
       "_item": {
         "itemId": 40723848736,
@@ -271,11 +271,11 @@
       "discount": 86.0,
       "commission": 0.17,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mnb6ge4ki9dt70",
-      "link": "https://s.shopee.com.br/40g6m99sEF",
+      "link": "https://s.shopee.com.br/3qMgb8MBoq",
       "rating": "4.7",
       "sales": 3295,
       "shop": "Maca Power",
-      "category": "condicionador",
+      "category": "shampoo",
       "source": "shopee",
       "_item": {
         "itemId": 42821781287,
@@ -288,7 +288,7 @@
         "shopName": "Maca Power",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mnb6ge4ki9dt70",
         "productLink": "https://shopee.com.br/product/1179613076/42821781287",
-        "offerLink": "https://s.shopee.com.br/40g6m99sEF"
+        "offerLink": "https://s.shopee.com.br/3qMgb8MBoq"
       },
       "_last_price": null
     },
@@ -405,8 +405,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ii-mpt2ir6ihrm701",
         "productLink": "https://shopee.com.br/product/1006215031/56607111945",
         "offerLink": "https://s.shopee.com.br/3g3GNfYNVx"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "52905774499",
@@ -503,7 +502,7 @@
       "discount": 83.0,
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mmi9yl6sf3ls65",
-      "link": "https://s.shopee.com.br/9fKTWUPWHR",
+      "link": "https://s.shopee.com.br/7pspLH6Fnk",
       "rating": "5",
       "sales": 4615,
       "shop": "Romantic Crown.02",
@@ -520,7 +519,7 @@
         "shopName": "Romantic Crown.02",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mmi9yl6sf3ls65",
         "productLink": "https://shopee.com.br/product/1198407784/23497594302",
-        "offerLink": "https://s.shopee.com.br/9fKTWUPWHR"
+        "offerLink": "https://s.shopee.com.br/7pspLH6Fnk"
       },
       "_last_price": null
     },
@@ -550,6 +549,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mr6w05iemznofe",
         "productLink": "https://shopee.com.br/product/1896341737/58265198384",
         "offerLink": "https://s.shopee.com.br/3VjqBD3Awy"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "55508691646",
+      "name": "Shampoo Tonalizante Escurecedor S/ Amônia 100% Natural Lindacolor",
+      "price": 14.99,
+      "original_price": 88.18,
+      "discount": 83.0,
+      "commission": 0.18,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mmz137ddk4cg6c",
+      "link": "https://s.shopee.com.br/4AzWzkKv8k",
+      "rating": "4.7",
+      "sales": 4503,
+      "shop": "lindaleycosmeticos",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 55508691646,
+        "productName": "Shampoo Tonalizante Escurecedor S/ Amônia 100% Natural Lindacolor",
+        "price": "14.99",
+        "priceDiscountRate": 83,
+        "commissionRate": "0.18",
+        "sales": 4503,
+        "ratingStar": "4.7",
+        "shopName": "lindaleycosmeticos",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mmz137ddk4cg6c",
+        "productLink": "https://shopee.com.br/product/1467162087/55508691646",
+        "offerLink": "https://s.shopee.com.br/4AzWzkKv8k"
       },
       "_last_price": null
     },
@@ -1402,7 +1430,7 @@
       "discount": 77.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823p5-mp4meqki2g3k68",
-      "link": "https://s.shopee.com.br/AUtaWDLy1v",
+      "link": "https://s.shopee.com.br/6AkbMGgOJr",
       "rating": "4.8",
       "sales": 1107,
       "shop": "Choice Oficial",
@@ -1419,7 +1447,7 @@
         "shopName": "Choice Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823p5-mp4meqki2g3k68",
         "productLink": "https://shopee.com.br/product/1006215031/47000945292",
-        "offerLink": "https://s.shopee.com.br/AUtaWDLy1v"
+        "offerLink": "https://s.shopee.com.br/6AkbMGgOJr"
       },
       "_last_price": null
     },
@@ -1431,7 +1459,7 @@
       "discount": 76.0,
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mmgwyk55dxjb9c",
-      "link": "https://s.shopee.com.br/5LBUMWg14V",
+      "link": "https://s.shopee.com.br/6VNRkpBKVM",
       "rating": "5",
       "sales": 5386,
       "shop": "Romantic Crown 02",
@@ -1448,7 +1476,7 @@
         "shopName": "Romantic Crown 02",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmgwyk55dxjb9c",
         "productLink": "https://shopee.com.br/product/1345043704/22497773735",
-        "offerLink": "https://s.shopee.com.br/5LBUMWg14V"
+        "offerLink": "https://s.shopee.com.br/6VNRkpBKVM"
       },
       "_last_price": null
     },
@@ -1507,35 +1535,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1xeanm14pt61d",
         "productLink": "https://shopee.com.br/product/1017646777/22198016021",
         "offerLink": "https://s.shopee.com.br/9V13KGsj2Y"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23294866358",
-      "name": "Creatina DUX 300g - 100% Pura com SELO CREAPURE Reconhecido pela ANVISA",
-      "price": 59.0,
-      "original_price": 245.83,
-      "discount": 76.0,
-      "commission": 0.17,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mldt9agkd2x0c0",
-      "link": "https://s.shopee.com.br/3LQPyx2jfx",
-      "rating": "4.9",
-      "sales": 1565,
-      "shop": "NT-Wey",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23294866358,
-        "productName": "Creatina DUX 300g - 100% Pura com SELO CREAPURE Reconhecido pela ANVISA",
-        "price": "59",
-        "priceDiscountRate": 76,
-        "commissionRate": "0.17",
-        "sales": 1565,
-        "ratingStar": "4.9",
-        "shopName": "NT-Wey",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mldt9agkd2x0c0",
-        "productLink": "https://shopee.com.br/product/1082873638/23294866358",
-        "offerLink": "https://s.shopee.com.br/3LQPyx2jfx"
       },
       "_last_price": null
     },
@@ -1685,6 +1684,35 @@
       "_last_price": null
     },
     {
+      "id": "23798836546",
+      "name": "Suporte Prateleira Porta Shampoo Organizador De Canto Com Adesivo",
+      "price": 12.58,
+      "original_price": 50.32,
+      "discount": 75.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mo8a0oxibbb83d",
+      "link": "https://s.shopee.com.br/4qFDmyINmw",
+      "rating": "4.8",
+      "sales": 4732,
+      "shop": "HEXUN SHOP",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23798836546,
+        "productName": "Suporte Prateleira Porta Shampoo Organizador De Canto Com Adesivo",
+        "price": "12.58",
+        "priceDiscountRate": 75,
+        "commissionRate": "0.03",
+        "sales": 4732,
+        "ratingStar": "4.8",
+        "shopName": "HEXUN SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mo8a0oxibbb83d",
+        "productLink": "https://shopee.com.br/product/1515741369/23798836546",
+        "offerLink": "https://s.shopee.com.br/4qFDmyINmw"
+      },
+      "_last_price": null
+    },
+    {
       "id": "9511754133",
       "name": "Creatina Max Titanium 300g Pura",
       "price": 45.0,
@@ -1801,6 +1829,35 @@
       "_last_price": null
     },
     {
+      "id": "28126553523",
+      "name": "ouro Suporte De Shampoo Prateleiras De Banheiro Sem Furo",
+      "price": 25.9,
+      "original_price": 99.62,
+      "discount": 74.0,
+      "commission": 0.06,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6giayorgw3v41",
+      "link": "https://s.shopee.com.br/2gAjCzQdBb",
+      "rating": "4.8",
+      "sales": 3697,
+      "shop": "ECOSEN",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 28126553523,
+        "productName": "ouro Suporte De Shampoo Prateleiras De Banheiro Sem Furo",
+        "price": "25.9",
+        "priceDiscountRate": 74,
+        "commissionRate": "0.06",
+        "sales": 3697,
+        "ratingStar": "4.8",
+        "shopName": "ECOSEN",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6giayorgw3v41",
+        "productLink": "https://shopee.com.br/product/1258611312/28126553523",
+        "offerLink": "https://s.shopee.com.br/2gAjCzQdBb"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58254621747",
       "name": "Óculos de sol feminino oval retrô, padrão tartaruga, estilo moderno",
       "price": 24.43,
@@ -1855,6 +1912,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfvb2gx4p34791",
         "productLink": "https://shopee.com.br/product/629805123/22099046331",
         "offerLink": "https://s.shopee.com.br/40g6m8J0d5"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "24191969006",
+      "name": "Kit De 2 Protetores Solares Buba Para Carros",
+      "price": 15.8,
+      "original_price": 58.52,
+      "discount": 73.0,
+      "commission": 0.1,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6qb314947x8e6",
+      "link": "https://s.shopee.com.br/4LIxC3tYJh",
+      "rating": "4.6",
+      "sales": 2136,
+      "shop": "CASA_NO.1.br",
+      "category": "protetor solar",
+      "source": "shopee",
+      "_item": {
+        "itemId": 24191969006,
+        "productName": "Kit De 2 Protetores Solares Buba Para Carros",
+        "price": "15.8",
+        "priceDiscountRate": 73,
+        "commissionRate": "0.1",
+        "sales": 2136,
+        "ratingStar": "4.6",
+        "shopName": "CASA_NO.1.br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6qb314947x8e6",
+        "productLink": "https://shopee.com.br/product/1389142964/24191969006",
+        "offerLink": "https://s.shopee.com.br/4LIxC3tYJh"
       },
       "_last_price": null
     },
@@ -2243,7 +2329,7 @@
       "discount": 71.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mnn2sbr4n75s68",
-      "link": "https://s.shopee.com.br/3LQPyszx41",
+      "link": "https://s.shopee.com.br/6VNRkiaQmo",
       "rating": "4.9",
       "sales": 774,
       "shop": "TG MATÉRIA PRIMA",
@@ -2260,7 +2346,7 @@
         "shopName": "TG MATÉRIA PRIMA",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mnn2sbr4n75s68",
         "productLink": "https://shopee.com.br/product/873988691/22594956407",
-        "offerLink": "https://s.shopee.com.br/3LQPyszx41"
+        "offerLink": "https://s.shopee.com.br/6VNRkiaQmo"
       },
       "_last_price": null
     },
@@ -2562,7 +2648,7 @@
       "discount": 70.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcmbtqmuebcx87",
-      "link": "https://s.shopee.com.br/7pspL8sA82",
+      "link": "https://s.shopee.com.br/6fgrx0IX5F",
       "rating": "4.8",
       "sales": 849,
       "shop": "JUNGLE.SHOP",
@@ -2579,7 +2665,7 @@
         "shopName": "JUNGLE.SHOP",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcmbtqmuebcx87",
         "productLink": "https://shopee.com.br/product/1351679961/21798030664",
-        "offerLink": "https://s.shopee.com.br/7pspL8sA82"
+        "offerLink": "https://s.shopee.com.br/6fgrx0IX5F"
       },
       "_last_price": null
     },
@@ -2794,7 +2880,7 @@
       "discount": 70.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/03e711c2830d42fe953e60337faaa57a",
-      "link": "https://s.shopee.com.br/1VylnfL22C",
+      "link": "https://s.shopee.com.br/AAGk7bNEhp",
       "rating": "4.8",
       "sales": 637,
       "shop": "tokushima01.br",
@@ -2811,7 +2897,7 @@
         "shopName": "tokushima01.br",
         "imageUrl": "https://cf.shopee.com.br/file/03e711c2830d42fe953e60337faaa57a",
         "productLink": "https://shopee.com.br/product/233660920/22696644615",
-        "offerLink": "https://s.shopee.com.br/1VylnfL22C"
+        "offerLink": "https://s.shopee.com.br/AAGk7bNEhp"
       },
       "_last_price": null
     },
@@ -3374,7 +3460,7 @@
       "discount": 68.0,
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/sg-11134201-23020-s1jr09pmaxnva4",
-      "link": "https://s.shopee.com.br/9pdtiypJ86",
+      "link": "https://s.shopee.com.br/3VjqBLmcEv",
       "rating": "4.8",
       "sales": 383,
       "shop": "YQBUY.br",
@@ -3391,7 +3477,7 @@
         "shopName": "YQBUY.br",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-23020-s1jr09pmaxnva4",
         "productLink": "https://shopee.com.br/product/754127588/23026990667",
-        "offerLink": "https://s.shopee.com.br/9pdtiypJ86"
+        "offerLink": "https://s.shopee.com.br/3VjqBLmcEv"
       },
       "_last_price": null
     },
@@ -3599,31 +3685,60 @@
       "_last_price": null
     },
     {
-      "id": "19599702993",
-      "name": "Óleo Ativador Parafina  de Bronze Urucum 120ml Marquinha De Fita Biquíni - L&Beauty",
-      "price": 12.9,
-      "original_price": 39.09,
+      "id": "18856357121",
+      "name": "Kit 2 Prateleiras Suporte Com Alto Adesivos Para Parede Banheiro Cozinha lavanderia Shampoo",
+      "price": 19.99,
+      "original_price": 60.58,
       "discount": 67.0,
       "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8vcfpy3qqrm91",
-      "link": "https://s.shopee.com.br/2LXsn5Xt1E",
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4et0gt4mdklca",
+      "link": "https://s.shopee.com.br/50YdzHHkRx",
       "rating": "4.8",
-      "sales": 1415,
-      "shop": "RB IMPORTS_RJ",
-      "category": "protetor solar",
+      "sales": 3154,
+      "shop": "bo.store",
+      "category": "shampoo",
       "source": "shopee",
       "_item": {
-        "itemId": 19599702993,
-        "productName": "Óleo Ativador Parafina  de Bronze Urucum 120ml Marquinha De Fita Biquíni - L&Beauty",
-        "price": "12.9",
+        "itemId": 18856357121,
+        "productName": "Kit 2 Prateleiras Suporte Com Alto Adesivos Para Parede Banheiro Cozinha lavanderia Shampoo",
+        "price": "19.99",
         "priceDiscountRate": 67,
         "commissionRate": "0.03",
-        "sales": 1415,
+        "sales": 3154,
         "ratingStar": "4.8",
-        "shopName": "RB IMPORTS_RJ",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8vcfpy3qqrm91",
-        "productLink": "https://shopee.com.br/product/1279944913/19599702993",
-        "offerLink": "https://s.shopee.com.br/2LXsn5Xt1E"
+        "shopName": "bo.store",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4et0gt4mdklca",
+        "productLink": "https://shopee.com.br/product/406098813/18856357121",
+        "offerLink": "https://s.shopee.com.br/50YdzHHkRx"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21599034004",
+      "name": "Suporte De Shampoo e sabonete Prateleiras De Banheiro Sem Furo",
+      "price": 24.98,
+      "original_price": 75.7,
+      "discount": 67.0,
+      "commission": 0.1,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m442zzpzz779bf",
+      "link": "https://s.shopee.com.br/1qbcDSTnsW",
+      "rating": "4.7",
+      "sales": 2670,
+      "shop": "Mude Sua Vid",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21599034004,
+        "productName": "Suporte De Shampoo e sabonete Prateleiras De Banheiro Sem Furo",
+        "price": "24.98",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.1",
+        "sales": 2670,
+        "ratingStar": "4.7",
+        "shopName": "Mude Sua Vid",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m442zzpzz779bf",
+        "productLink": "https://shopee.com.br/product/925160927/21599034004",
+        "offerLink": "https://s.shopee.com.br/1qbcDSTnsW"
       },
       "_last_price": null
     },
@@ -3780,7 +3895,7 @@
       "discount": 67.0,
       "commission": 0.13,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkc1gjt1xc606",
-      "link": "https://s.shopee.com.br/8V8W8VqFai",
+      "link": "https://s.shopee.com.br/4fvnZWL5pi",
       "rating": "4.7",
       "sales": 1201,
       "shop": "Loja DMJ",
@@ -3797,7 +3912,7 @@
         "shopName": "Loja DMJ",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkc1gjt1xc606",
         "productLink": "https://shopee.com.br/product/1362613415/42110429390",
-        "offerLink": "https://s.shopee.com.br/8V8W8VqFai"
+        "offerLink": "https://s.shopee.com.br/4fvnZWL5pi"
       },
       "_last_price": null
     },
@@ -3809,7 +3924,7 @@
       "discount": 67.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mn11dejo6hvoe3",
-      "link": "https://s.shopee.com.br/80CFXas9bf",
+      "link": "https://s.shopee.com.br/3qMgZzOGWf",
       "rating": "4.9",
       "sales": 642,
       "shop": "HI SPORTS",
@@ -3826,7 +3941,7 @@
         "shopName": "HI SPORTS",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mn11dejo6hvoe3",
         "productLink": "https://shopee.com.br/product/1687489154/22399450069",
-        "offerLink": "https://s.shopee.com.br/80CFXas9bf"
+        "offerLink": "https://s.shopee.com.br/3qMgZzOGWf"
       },
       "_last_price": null
     },
@@ -3896,7 +4011,7 @@
       "discount": 67.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-22110-wadt3ny78kjv4f",
-      "link": "https://s.shopee.com.br/8Kp5wDv1Ah",
+      "link": "https://s.shopee.com.br/7KwYkOY1SW",
       "rating": "4.9",
       "sales": 543,
       "shop": "VanFishing Isca Pesca.br",
@@ -3913,7 +4028,7 @@
         "shopName": "VanFishing Isca Pesca.br",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22110-wadt3ny78kjv4f",
         "productLink": "https://shopee.com.br/product/504210070/21660585175",
-        "offerLink": "https://s.shopee.com.br/8Kp5wDv1Ah"
+        "offerLink": "https://s.shopee.com.br/7KwYkOY1SW"
       },
       "_last_price": null
     },
@@ -3925,7 +4040,7 @@
       "discount": 67.0,
       "commission": 0.12,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mp6qthndm6m90d",
-      "link": "https://s.shopee.com.br/9AOCvkrqTu",
+      "link": "https://s.shopee.com.br/9fKTWg7P60",
       "rating": "4.9",
       "sales": 382,
       "shop": "HOSPITAL DOS ÓCULOS",
@@ -3942,7 +4057,7 @@
         "shopName": "HOSPITAL DOS ÓCULOS",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mp6qthndm6m90d",
         "productLink": "https://shopee.com.br/product/308112694/52861809126",
-        "offerLink": "https://s.shopee.com.br/9AOCvkrqTu"
+        "offerLink": "https://s.shopee.com.br/9fKTWg7P60"
       },
       "_last_price": null
     },
@@ -4179,6 +4294,35 @@
       "_last_price": null
     },
     {
+      "id": "22994820028",
+      "name": "Suporte Organizador de Parede Adesivo Alta Resistência para Shampoo Banheiro e Cozinha",
+      "price": 11.98,
+      "original_price": 35.24,
+      "discount": 66.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mju1knjp0ykh49",
+      "link": "https://s.shopee.com.br/3B6znuOjAe",
+      "rating": "4.8",
+      "sales": 4123,
+      "shop": "hogarutilidades",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22994820028,
+        "productName": "Suporte Organizador de Parede Adesivo Alta Resistência para Shampoo Banheiro e Cozinha",
+        "price": "11.98",
+        "priceDiscountRate": 66,
+        "commissionRate": "0.03",
+        "sales": 4123,
+        "ratingStar": "4.8",
+        "shopName": "hogarutilidades",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mju1knjp0ykh49",
+        "productLink": "https://shopee.com.br/product/1553175352/22994820028",
+        "offerLink": "https://s.shopee.com.br/3B6znuOjAe"
+      },
+      "_last_price": null
+    },
+    {
       "id": "51004391053",
       "name": "Haltere Ajustável Gallant Com Placas De Peso De 20Kg E Base Elite Pro",
       "price": 588.0,
@@ -4389,7 +4533,7 @@
       "discount": 66.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lpeqenr9v2ol5b",
-      "link": "https://s.shopee.com.br/4LIxAtnN2W",
+      "link": "https://s.shopee.com.br/2qU9O9S4YZ",
       "rating": "4.7",
       "sales": 605,
       "shop": "MvM Lojas",
@@ -4406,7 +4550,7 @@
         "shopName": "MvM Lojas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lpeqenr9v2ol5b",
         "productLink": "https://shopee.com.br/product/392271277/19397504534",
-        "offerLink": "https://s.shopee.com.br/4LIxAtnN2W"
+        "offerLink": "https://s.shopee.com.br/2qU9O9S4YZ"
       },
       "_last_price": null
     },
@@ -4527,6 +4671,35 @@
       "_last_price": null
     },
     {
+      "id": "58254163587",
+      "name": "Prateleira Suporte Organizador De Metal Rack De Parede Banheiro Cozinha Porta Shampoo a",
+      "price": 7.99,
+      "original_price": 22.83,
+      "discount": 65.0,
+      "commission": 0.04,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwu-md3owfmt11dsa0",
+      "link": "https://s.shopee.com.br/2LXsoNRtrh",
+      "rating": "4.8",
+      "sales": 3409,
+      "shop": "Casa Quentinho",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58254163587,
+        "productName": "Prateleira Suporte Organizador De Metal Rack De Parede Banheiro Cozinha Porta Shampoo a",
+        "price": "7.99",
+        "priceDiscountRate": 65,
+        "commissionRate": "0.04",
+        "sales": 3409,
+        "ratingStar": "4.8",
+        "shopName": "Casa Quentinho",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwu-md3owfmt11dsa0",
+        "productLink": "https://shopee.com.br/product/1005725674/58254163587",
+        "offerLink": "https://s.shopee.com.br/2LXsoNRtrh"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20299558422",
       "name": "Creatina Ultra Pote 300g - FTW",
       "price": 24.9,
@@ -4552,35 +4725,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meourptjpj4194",
         "productLink": "https://shopee.com.br/product/1397772996/20299558422",
         "offerLink": "https://s.shopee.com.br/40g6mB0CJt"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58260912434",
-      "name": "Creatina Monohidratada Hardcore Original 100% Pura Ultimas Unidades",
-      "price": 30.9,
-      "original_price": 88.29,
-      "discount": 65.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-822xd-moehlogng7bj34",
-      "link": "https://s.shopee.com.br/6fgrx4q2ue",
-      "rating": "4.8",
-      "sales": 1055,
-      "shop": "Armazem_00",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58260912434,
-        "productName": "Creatina Monohidratada Hardcore Original 100% Pura Ultimas Unidades",
-        "price": "30.9",
-        "priceDiscountRate": 65,
-        "commissionRate": "0.13",
-        "sales": 1055,
-        "ratingStar": "4.8",
-        "shopName": "Armazem_00",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xd-moehlogng7bj34",
-        "productLink": "https://shopee.com.br/product/991509912/58260912434",
-        "offerLink": "https://s.shopee.com.br/6fgrx4q2ue"
       },
       "_last_price": null
     },
@@ -4679,7 +4823,7 @@
       "discount": 65.0,
       "commission": 0.12,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rcdx-ltmivw9kdxo22a",
-      "link": "https://s.shopee.com.br/6AkbMEGavJ",
+      "link": "https://s.shopee.com.br/1gIC00F7be",
       "rating": "4.8",
       "sales": 126,
       "shop": "warm11.br",
@@ -4696,7 +4840,7 @@
         "shopName": "warm11.br",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdx-ltmivw9kdxo22a",
         "productLink": "https://shopee.com.br/product/1171921876/22797770364",
-        "offerLink": "https://s.shopee.com.br/6AkbMEGavJ"
+        "offerLink": "https://s.shopee.com.br/1gIC00F7be"
       },
       "_last_price": null
     },
@@ -4824,7 +4968,7 @@
       "discount": 65.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/6e4a8acaa254dd7a3ba783327a36a7a3",
-      "link": "https://s.shopee.com.br/9V13KN82R1",
+      "link": "https://s.shopee.com.br/3B6zmjnsup",
       "rating": "4.8",
       "sales": 284,
       "shop": "qqPesca.br",
@@ -4841,7 +4985,7 @@
         "shopName": "qqPesca.br",
         "imageUrl": "https://cf.shopee.com.br/file/6e4a8acaa254dd7a3ba783327a36a7a3",
         "productLink": "https://shopee.com.br/product/769957349/17570976729",
-        "offerLink": "https://s.shopee.com.br/9V13KN82R1"
+        "offerLink": "https://s.shopee.com.br/3B6zmjnsup"
       },
       "_last_price": null
     },
@@ -5201,7 +5345,7 @@
       "discount": 64.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rbml-m5lv13aw49rf84",
-      "link": "https://s.shopee.com.br/7pspLJW7Rf",
+      "link": "https://s.shopee.com.br/19y0xTrSc",
       "rating": "4.9",
       "sales": 376,
       "shop": "WS Diario",
@@ -5218,7 +5362,7 @@
         "shopName": "WS Diario",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbml-m5lv13aw49rf84",
         "productLink": "https://shopee.com.br/product/698887220/23394426187",
-        "offerLink": "https://s.shopee.com.br/7pspLJW7Rf"
+        "offerLink": "https://s.shopee.com.br/19y0xTrSc"
       },
       "_last_price": null
     },
@@ -6064,6 +6208,35 @@
       "_last_price": null
     },
     {
+      "id": "58200979776",
+      "name": "Kit Whey Concentrado 1kg +  Creatina Ultra Pote 300g - FTW",
+      "price": 99.9,
+      "original_price": 262.89,
+      "discount": 62.0,
+      "commission": 0.19,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhgsshvo1ekm57",
+      "link": "https://s.shopee.com.br/AKaAL79u8l",
+      "rating": "4.9",
+      "sales": 953,
+      "shop": "Loja Oficial FTW",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58200979776,
+        "productName": "Kit Whey Concentrado 1kg +  Creatina Ultra Pote 300g - FTW",
+        "price": "99.9",
+        "priceDiscountRate": 62,
+        "commissionRate": "0.19",
+        "sales": 953,
+        "ratingStar": "4.9",
+        "shopName": "Loja Oficial FTW",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhgsshvo1ekm57",
+        "productLink": "https://shopee.com.br/product/1397772996/58200979776",
+        "offerLink": "https://s.shopee.com.br/AKaAL79u8l"
+      },
+      "_last_price": null
+    },
+    {
       "id": "52607420187",
       "name": "Escova de Limpeza Multifuncional Flexível Para Garrafas Mamadeiras Liquidificador De Silicone",
       "price": 9.97,
@@ -6535,7 +6708,7 @@
       "discount": 61.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rcca-lt13vvuslr1ef1",
-      "link": "https://s.shopee.com.br/W6EbpgIh8",
+      "link": "https://s.shopee.com.br/5q7kxddjV5",
       "rating": "4.9",
       "sales": 431,
       "shop": "zhongyu.br",
@@ -6552,7 +6725,7 @@
         "shopName": "zhongyu.br",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcca-lt13vvuslr1ef1",
         "productLink": "https://shopee.com.br/product/647546523/25669672370",
-        "offerLink": "https://s.shopee.com.br/W6EbpgIh8"
+        "offerLink": "https://s.shopee.com.br/5q7kxddjV5"
       },
       "_last_price": null
     },
@@ -6912,11 +7085,11 @@
       "discount": 60.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134201-820m2-mqyn3fbk6ltxf3",
-      "link": "https://s.shopee.com.br/5As4AI5QrU",
+      "link": "https://s.shopee.com.br/3VjqCWNSUo",
       "rating": "4.6",
       "sales": 2212,
       "shop": "LABELLE COSMETICOS",
-      "category": "condicionador",
+      "category": "shampoo",
       "source": "shopee",
       "_item": {
         "itemId": 58208352912,
@@ -6929,7 +7102,7 @@
         "shopName": "LABELLE COSMETICOS",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m2-mqyn3fbk6ltxf3",
         "productLink": "https://shopee.com.br/product/958996125/58208352912",
-        "offerLink": "https://s.shopee.com.br/5As4AI5QrU"
+        "offerLink": "https://s.shopee.com.br/3VjqCWNSUo"
       },
       "_last_price": null
     },
@@ -7289,7 +7462,7 @@
       "discount": 60.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2tkcqtacqo0b",
-      "link": "https://s.shopee.com.br/7fZP92RXv7",
+      "link": "https://s.shopee.com.br/AAGk7edYRA",
       "rating": "4.6",
       "sales": 218,
       "shop": "Loja Sao Miguel Multicoisas",
@@ -7306,7 +7479,7 @@
         "shopName": "Loja Sao Miguel Multicoisas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2tkcqtacqo0b",
         "productLink": "https://shopee.com.br/product/375688601/23292991473",
-        "offerLink": "https://s.shopee.com.br/7fZP92RXv7"
+        "offerLink": "https://s.shopee.com.br/AAGk7edYRA"
       },
       "_last_price": null
     },
@@ -7405,7 +7578,7 @@
       "discount": 59.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
-      "link": "https://s.shopee.com.br/AUtaW1MLae",
+      "link": "https://s.shopee.com.br/7Ad8Y38n9g",
       "rating": "4.8",
       "sales": 3302,
       "shop": "ME MERCADO",
@@ -7422,7 +7595,7 @@
         "shopName": "ME MERCADO",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
         "productLink": "https://shopee.com.br/product/392239188/23596569225",
-        "offerLink": "https://s.shopee.com.br/AUtaW1MLae"
+        "offerLink": "https://s.shopee.com.br/7Ad8Y38n9g"
       },
       "_last_price": null
     },
@@ -7514,6 +7687,64 @@
       "_last_price": null
     },
     {
+      "id": "22894975184",
+      "name": "Kit 2 Suportes para Shampoo para Uso no Banheiro na Parede Prateleira com Auto Adesivo",
+      "price": 19.97,
+      "original_price": 48.71,
+      "discount": 59.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mor9xtvj1lvk61",
+      "link": "https://s.shopee.com.br/4LIxC3KHnl",
+      "rating": "4.8",
+      "sales": 5506,
+      "shop": "3 PAO",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22894975184,
+        "productName": "Kit 2 Suportes para Shampoo para Uso no Banheiro na Parede Prateleira com Auto Adesivo",
+        "price": "19.97",
+        "priceDiscountRate": 59,
+        "commissionRate": "0.03",
+        "sales": 5506,
+        "ratingStar": "4.8",
+        "shopName": "3 PAO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mor9xtvj1lvk61",
+        "productLink": "https://shopee.com.br/product/462426918/22894975184",
+        "offerLink": "https://s.shopee.com.br/4LIxC3KHnl"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "42358581197",
+      "name": "Suporte De Shampoo Organizador Alta qualidade Prateleiras De Banheiro Sem Furo Premium-Space Aluminium",
+      "price": 24.78,
+      "original_price": 60.44,
+      "discount": 59.0,
+      "commission": 0.06,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-moksftpzd7v3cf",
+      "link": "https://s.shopee.com.br/5As4BaH76y",
+      "rating": "4.8",
+      "sales": 5242,
+      "shop": "Loja Sem Preocupação",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42358581197,
+        "productName": "Suporte De Shampoo Organizador Alta qualidade Prateleiras De Banheiro Sem Furo Premium-Space Aluminium",
+        "price": "24.78",
+        "priceDiscountRate": 59,
+        "commissionRate": "0.06",
+        "sales": 5242,
+        "ratingStar": "4.8",
+        "shopName": "Loja Sem Preocupação",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-moksftpzd7v3cf",
+        "productLink": "https://shopee.com.br/product/1509466453/42358581197",
+        "offerLink": "https://s.shopee.com.br/5As4BaH76y"
+      },
+      "_last_price": null
+    },
+    {
       "id": "27208234219",
       "name": "Eelhoe Creme Solar Proteção De Umidade Facial Corpo Pele Protetora Cuidados Com A Summerti me Refrescante Não Gorduroso ",
       "price": 10.95,
@@ -7521,7 +7752,7 @@
       "discount": 59.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823pt-mp4n7puf2ux893",
-      "link": "https://s.shopee.com.br/5As4AIN6GX",
+      "link": "https://s.shopee.com.br/9fKTWZNUzQ",
       "rating": "4.8",
       "sales": 1844,
       "shop": "Choice Oficial",
@@ -7538,7 +7769,7 @@
         "shopName": "Choice Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pt-mp4n7puf2ux893",
         "productLink": "https://shopee.com.br/product/1006215031/27208234219",
-        "offerLink": "https://s.shopee.com.br/5As4AIN6GX"
+        "offerLink": "https://s.shopee.com.br/9fKTWZNUzQ"
       },
       "_last_price": null
     },
@@ -8154,8 +8385,8 @@
     {
       "id": "58258087449",
       "name": "Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho Café",
-      "price": 36.98,
-      "original_price": 86.0,
+      "price": 36.99,
+      "original_price": 86.02,
       "discount": 57.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mnlw9ncbyq68fe",
@@ -8168,7 +8399,7 @@
       "_item": {
         "itemId": 58258087449,
         "productName": "Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho Café",
-        "price": "36.98",
+        "price": "36.99",
         "priceDiscountRate": 57,
         "commissionRate": "0.03",
         "sales": 6580,
@@ -9174,7 +9405,7 @@
       "discount": 56.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rbm3-lmr7kt9dlf89d7",
-      "link": "https://s.shopee.com.br/8AVfjuveVc",
+      "link": "https://s.shopee.com.br/6q0I9TZvTN",
       "rating": "4.9",
       "sales": 332,
       "shop": "tokushima01.br",
@@ -9191,7 +9422,7 @@
         "shopName": "tokushima01.br",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm3-lmr7kt9dlf89d7",
         "productLink": "https://shopee.com.br/product/233660920/19894088143",
-        "offerLink": "https://s.shopee.com.br/8AVfjuveVc"
+        "offerLink": "https://s.shopee.com.br/6q0I9TZvTN"
       },
       "_last_price": null
     },
@@ -9424,6 +9655,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820li-mnvqaq9w8g75ec",
         "productLink": "https://shopee.com.br/product/1577690442/23198696676",
         "offerLink": "https://s.shopee.com.br/9V13KFFjoA"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58210202967",
+      "name": "Kit 2 Prateleiras de Canto Sem Furo Porta Shampoo E Sabonete Banheiro Adesivo Reforçado",
+      "price": 19.29,
+      "original_price": 42.87,
+      "discount": 55.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mnwxkg9plt6qf0",
+      "link": "https://s.shopee.com.br/60RBB7DwQ3",
+      "rating": "4.9",
+      "sales": 6800,
+      "shop": "BOMM FAMILIA",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58210202967,
+        "productName": "Kit 2 Prateleiras de Canto Sem Furo Porta Shampoo E Sabonete Banheiro Adesivo Reforçado",
+        "price": "19.29",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.03",
+        "sales": 6800,
+        "ratingStar": "4.9",
+        "shopName": "BOMM FAMILIA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mnwxkg9plt6qf0",
+        "productLink": "https://shopee.com.br/product/979724994/58210202967",
+        "offerLink": "https://s.shopee.com.br/60RBB7DwQ3"
       },
       "_last_price": null
     },
@@ -9812,7 +10072,7 @@
       "discount": 55.0,
       "commission": 0.11,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rdyi-mctdgy32xaoec7",
-      "link": "https://s.shopee.com.br/1BLvP3MIi6",
+      "link": "https://s.shopee.com.br/4AzWybMzqh",
       "rating": "4.8",
       "sales": 567,
       "shop": "SSR ESTRELA",
@@ -9829,7 +10089,7 @@
         "shopName": "SSR ESTRELA",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyi-mctdgy32xaoec7",
         "productLink": "https://shopee.com.br/product/1480594679/22794276330",
-        "offerLink": "https://s.shopee.com.br/1BLvP3MIi6"
+        "offerLink": "https://s.shopee.com.br/4AzWybMzqh"
       },
       "_last_price": null
     },
@@ -10062,35 +10322,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mlmms06ewtmt08",
         "productLink": "https://shopee.com.br/product/1391354759/58206612939",
         "offerLink": "https://s.shopee.com.br/30nZaK04s8"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "40578847143",
-      "name": "Kit com 2 Formas de Silicone Moldes Variados para Chocolate Gelatina Balas de Goma e Creatina",
-      "price": 22.99,
-      "original_price": 49.98,
-      "discount": 54.0,
-      "commission": 0.06,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825b1-mq7o8qhsxjbj81",
-      "link": "https://s.shopee.com.br/5VUuYvuUHZ",
-      "rating": "4.9",
-      "sales": 945,
-      "shop": "Point Mix",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40578847143,
-        "productName": "Kit com 2 Formas de Silicone Moldes Variados para Chocolate Gelatina Balas de Goma e Creatina",
-        "price": "22.99",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.06",
-        "sales": 945,
-        "ratingStar": "4.9",
-        "shopName": "Point Mix",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b1-mq7o8qhsxjbj81",
-        "productLink": "https://shopee.com.br/product/325369388/40578847143",
-        "offerLink": "https://s.shopee.com.br/5VUuYvuUHZ"
       },
       "_last_price": null
     },
@@ -10421,7 +10652,7 @@
       "discount": 53.0,
       "commission": 0.12,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mosdi0wi3sat12",
-      "link": "https://s.shopee.com.br/4qFDlduF1A",
+      "link": "https://s.shopee.com.br/40g6m7F0qG",
       "rating": "4.9",
       "sales": 1296,
       "shop": "CampvendasMulticoisas",
@@ -10438,7 +10669,7 @@
         "shopName": "CampvendasMulticoisas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mosdi0wi3sat12",
         "productLink": "https://shopee.com.br/product/1627792845/47811321649",
-        "offerLink": "https://s.shopee.com.br/4qFDlduF1A"
+        "offerLink": "https://s.shopee.com.br/40g6m7F0qG"
       },
       "_last_price": null
     },
@@ -11117,7 +11348,7 @@
       "discount": 52.0,
       "commission": 0.11,
       "image": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
-      "link": "https://s.shopee.com.br/7Ad8Xw2xPf",
+      "link": "https://s.shopee.com.br/8plMX09fv3",
       "rating": "4.9",
       "sales": 2025,
       "shop": "GP HOME",
@@ -11134,7 +11365,7 @@
         "shopName": "GP HOME",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
         "productLink": "https://shopee.com.br/product/1270189717/29343102973",
-        "offerLink": "https://s.shopee.com.br/7Ad8Xw2xPf"
+        "offerLink": "https://s.shopee.com.br/8plMX09fv3"
       },
       "_last_price": null
     },
@@ -12132,7 +12363,7 @@
       "discount": 51.0,
       "commission": 0.11,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mfjcq5qv8h7097",
-      "link": "https://s.shopee.com.br/6fgrx8xEJH",
+      "link": "https://s.shopee.com.br/qj50TZgbr",
       "rating": "4.8",
       "sales": 1497,
       "shop": "BD Boutique De Lustres",
@@ -12149,7 +12380,7 @@
         "shopName": "BD Boutique De Lustres",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mfjcq5qv8h7097",
         "productLink": "https://shopee.com.br/product/1489642227/29637365319",
-        "offerLink": "https://s.shopee.com.br/6fgrx8xEJH"
+        "offerLink": "https://s.shopee.com.br/qj50TZgbr"
       },
       "_last_price": null
     },
@@ -12161,7 +12392,7 @@
       "discount": 51.0,
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhpvz8ncokxt89",
-      "link": "https://s.shopee.com.br/5foKlJIUwI",
+      "link": "https://s.shopee.com.br/20v2OcDqvk",
       "rating": "4.8",
       "sales": 96,
       "shop": "Loja Deepl",
@@ -12178,7 +12409,7 @@
         "shopName": "Loja Deepl",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhpvz8ncokxt89",
         "productLink": "https://shopee.com.br/product/1541645210/52802387189",
-        "offerLink": "https://s.shopee.com.br/5foKlJIUwI"
+        "offerLink": "https://s.shopee.com.br/20v2OcDqvk"
       },
       "_last_price": null
     },
@@ -13350,7 +13581,7 @@
       "discount": 50.0,
       "commission": 0.12,
       "image": "https://cf.shopee.com.br/file/9e40d3db5f68c799914587853b3caf59",
-      "link": "https://s.shopee.com.br/19y0uiCi1",
+      "link": "https://s.shopee.com.br/5VUuZ1f0Az",
       "rating": "4.9",
       "sales": 614,
       "shop": "cocoai.br",
@@ -13367,7 +13598,7 @@
         "shopName": "cocoai.br",
         "imageUrl": "https://cf.shopee.com.br/file/9e40d3db5f68c799914587853b3caf59",
         "productLink": "https://shopee.com.br/product/797027700/20930844336",
-        "offerLink": "https://s.shopee.com.br/19y0uiCi1"
+        "offerLink": "https://s.shopee.com.br/5VUuZ1f0Az"
       },
       "_last_price": null
     },
@@ -13379,7 +13610,7 @@
       "discount": 50.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mdlpr6vrfi9z02",
-      "link": "https://s.shopee.com.br/AKaAJu4rkC",
+      "link": "https://s.shopee.com.br/3LQPz2nFZs",
       "rating": "4.8",
       "sales": 478,
       "shop": "qqPesca.br",
@@ -13396,7 +13627,7 @@
         "shopName": "qqPesca.br",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mdlpr6vrfi9z02",
         "productLink": "https://shopee.com.br/product/769957349/29240151086",
-        "offerLink": "https://s.shopee.com.br/AKaAJu4rkC"
+        "offerLink": "https://s.shopee.com.br/3LQPz2nFZs"
       },
       "_last_price": null
     },
@@ -13408,7 +13639,7 @@
       "discount": 50.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m41pjicftjcl4d",
-      "link": "https://s.shopee.com.br/70JiLmqkkM",
+      "link": "https://s.shopee.com.br/4VcNNCI0Tq",
       "rating": "4.9",
       "sales": 621,
       "shop": "Chest Vests",
@@ -13425,7 +13656,7 @@
         "shopName": "Chest Vests",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m41pjicftjcl4d",
         "productLink": "https://shopee.com.br/product/472673093/21097992401",
-        "offerLink": "https://s.shopee.com.br/70JiLmqkkM"
+        "offerLink": "https://s.shopee.com.br/4VcNNCI0Tq"
       },
       "_last_price": null
     },
@@ -13778,6 +14009,35 @@
       "_last_price": null
     },
     {
+      "id": "58205223096",
+      "name": "Kit com 2 Suportes para Shampoo Adesivo Para Parede Cozinha e Banheiro",
+      "price": 19.98,
+      "original_price": 39.18,
+      "discount": 49.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztd-mko7wuy13u2q40",
+      "link": "https://s.shopee.com.br/2qU9PIPzqc",
+      "rating": "4.8",
+      "sales": 4011,
+      "shop": "BOMM FAMILIA",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58205223096,
+        "productName": "Kit com 2 Suportes para Shampoo Adesivo Para Parede Cozinha e Banheiro",
+        "price": "19.98",
+        "priceDiscountRate": 49,
+        "commissionRate": "0.03",
+        "sales": 4011,
+        "ratingStar": "4.8",
+        "shopName": "BOMM FAMILIA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztd-mko7wuy13u2q40",
+        "productLink": "https://shopee.com.br/product/979724994/58205223096",
+        "offerLink": "https://s.shopee.com.br/2qU9PIPzqc"
+      },
+      "_last_price": null
+    },
+    {
       "id": "57404370857",
       "name": "Ração úmida Dog Chow Sabores Variados para Cães 15x85g ou 15x100g",
       "price": 40.9,
@@ -13959,7 +14219,7 @@
       "discount": 49.0,
       "commission": 0.11,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsuws7bcgznad",
-      "link": "https://s.shopee.com.br/6q0I9RwayI",
+      "link": "https://s.shopee.com.br/112VCmZ3Gq",
       "rating": "4.8",
       "sales": 1731,
       "shop": "BD Boutique De Lustres",
@@ -13976,7 +14236,7 @@
         "shopName": "BD Boutique De Lustres",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsuws7bcgznad",
         "productLink": "https://shopee.com.br/product/1489642227/48857230908",
-        "offerLink": "https://s.shopee.com.br/6q0I9RwayI"
+        "offerLink": "https://s.shopee.com.br/112VCmZ3Gq"
       },
       "_last_price": null
     },
@@ -14162,7 +14422,7 @@
       "discount": 48.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-824iu-mf15oqv3x6ve82",
-      "link": "https://s.shopee.com.br/5q7kxSzmBa",
+      "link": "https://s.shopee.com.br/8fRwKgAv1J",
       "rating": "4.8",
       "sales": 2212,
       "shop": "SUPER COMPRAS.SHOP",
@@ -14179,7 +14439,7 @@
         "shopName": "SUPER COMPRAS.SHOP",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824iu-mf15oqv3x6ve82",
         "productLink": "https://shopee.com.br/product/287296555/3743287858",
-        "offerLink": "https://s.shopee.com.br/5q7kxSzmBa"
+        "offerLink": "https://s.shopee.com.br/8fRwKgAv1J"
       },
       "_last_price": null
     },
@@ -15583,7 +15843,7 @@
       "discount": 47.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rbm2-loi045d6lwhte6",
-      "link": "https://s.shopee.com.br/1LfLbMLfNB",
+      "link": "https://s.shopee.com.br/AKaAJuMbMs",
       "rating": "4.8",
       "sales": 475,
       "shop": "VanFishing Isca Pesca.br",
@@ -15600,7 +15860,7 @@
         "shopName": "VanFishing Isca Pesca.br",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm2-loi045d6lwhte6",
         "productLink": "https://shopee.com.br/product/504210070/25951902122",
-        "offerLink": "https://s.shopee.com.br/1LfLbMLfNB"
+        "offerLink": "https://s.shopee.com.br/AKaAJuMbMs"
       },
       "_last_price": null
     },
@@ -16366,7 +16626,7 @@
       "discount": 46.0,
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfjd6qm9cu10ff",
-      "link": "https://s.shopee.com.br/7fZP8ytQHV",
+      "link": "https://s.shopee.com.br/W6EbraxHp",
       "rating": "4.8",
       "sales": 1096,
       "shop": "HK  STORE",
@@ -16383,7 +16643,7 @@
         "shopName": "HK  STORE",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfjd6qm9cu10ff",
         "productLink": "https://shopee.com.br/product/1267134569/19698133912",
-        "offerLink": "https://s.shopee.com.br/7fZP8ytQHV"
+        "offerLink": "https://s.shopee.com.br/W6EbraxHp"
       },
       "_last_price": null
     },
@@ -16395,7 +16655,7 @@
       "discount": 46.0,
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9h28j58zyf6c1",
-      "link": "https://s.shopee.com.br/8plMX7oyus",
+      "link": "https://s.shopee.com.br/3B6zmlQnsb",
       "rating": "4.8",
       "sales": 593,
       "shop": "HK  STORE",
@@ -16412,7 +16672,7 @@
         "shopName": "HK  STORE",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9h28j58zyf6c1",
         "productLink": "https://shopee.com.br/product/1267134569/18699721825",
-        "offerLink": "https://s.shopee.com.br/8plMX7oyus"
+        "offerLink": "https://s.shopee.com.br/3B6zmlQnsb"
       },
       "_last_price": null
     },
@@ -16424,7 +16684,7 @@
       "discount": 46.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mlnyk7d6pybr7b",
-      "link": "https://s.shopee.com.br/qj50QJR9Z",
+      "link": "https://s.shopee.com.br/5As4AQkCLl",
       "rating": "4.7",
       "sales": 412,
       "shop": "Loja Sao Miguel Multicoisas",
@@ -16441,7 +16701,7 @@
         "shopName": "Loja Sao Miguel Multicoisas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mlnyk7d6pybr7b",
         "productLink": "https://shopee.com.br/product/375688601/23192991550",
-        "offerLink": "https://s.shopee.com.br/qj50QJR9Z"
+        "offerLink": "https://s.shopee.com.br/5As4AQkCLl"
       },
       "_last_price": null
     },
@@ -16482,7 +16742,7 @@
       "discount": 46.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md4hll4oyux787",
-      "link": "https://s.shopee.com.br/8AVfjuQiVQ",
+      "link": "https://s.shopee.com.br/6L41YZxM8F",
       "rating": "4.8",
       "sales": 314,
       "shop": "YJ Fishing Tackle Shop",
@@ -16499,7 +16759,7 @@
         "shopName": "YJ Fishing Tackle Shop",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md4hll4oyux787",
         "productLink": "https://shopee.com.br/product/1550289846/41661864285",
-        "offerLink": "https://s.shopee.com.br/8AVfjuQiVQ"
+        "offerLink": "https://s.shopee.com.br/6L41YZxM8F"
       },
       "_last_price": null
     },
@@ -16790,35 +17050,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg7zwsuagikg7d",
         "productLink": "https://shopee.com.br/product/384064825/58200006241",
         "offerLink": "https://s.shopee.com.br/6VNRkgfMbo"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "45707967320",
-      "name": "Interruptores De Teclado Azul/Vermelho/Chá/Preto , Mecânico Tátil Clicky De 3 Pinos , Kit Completo De Substituição DIY",
-      "price": 36.72,
-      "original_price": 66.76,
-      "discount": 45.0,
-      "commission": 0.15,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8258e-mqehxire4zr507",
-      "link": "https://s.shopee.com.br/8fRwKfozRJ",
-      "rating": "4.9",
-      "sales": 328,
-      "shop": "Choice Oficial",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45707967320,
-        "productName": "Interruptores De Teclado Azul/Vermelho/Chá/Preto , Mecânico Tátil Clicky De 3 Pinos , Kit Completo De Substituição DIY",
-        "price": "36.72",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.15",
-        "sales": 328,
-        "ratingStar": "4.9",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258e-mqehxire4zr507",
-        "productLink": "https://shopee.com.br/product/1006215031/45707967320",
-        "offerLink": "https://s.shopee.com.br/8fRwKfozRJ"
       },
       "_last_price": null
     },
@@ -17265,7 +17496,7 @@
       "discount": 45.0,
       "commission": 0.11,
       "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mdcys2kotifw21",
-      "link": "https://s.shopee.com.br/gPeo7K4UW",
+      "link": "https://s.shopee.com.br/7Ad8Y5YenT",
       "rating": "4.8",
       "sales": 244,
       "shop": "BD Boutique De Lustres",
@@ -17282,7 +17513,7 @@
         "shopName": "BD Boutique De Lustres",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mdcys2kotifw21",
         "productLink": "https://shopee.com.br/product/1489642227/43662585077",
-        "offerLink": "https://s.shopee.com.br/gPeo7K4UW"
+        "offerLink": "https://s.shopee.com.br/7Ad8Y5YenT"
       },
       "_last_price": null
     },
@@ -17439,7 +17670,7 @@
       "discount": 44.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rbmc-llkqwkdely7o4c",
-      "link": "https://s.shopee.com.br/19y0lhIq7",
+      "link": "https://s.shopee.com.br/40g6m81Gw1",
       "rating": "4.8",
       "sales": 2132,
       "shop": "Lucky Clover",
@@ -17456,7 +17687,7 @@
         "shopName": "Lucky Clover",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbmc-llkqwkdely7o4c",
         "productLink": "https://shopee.com.br/product/663461151/22292377811",
-        "offerLink": "https://s.shopee.com.br/19y0lhIq7"
+        "offerLink": "https://s.shopee.com.br/40g6m81Gw1"
       },
       "_last_price": null
     },
@@ -17903,7 +18134,7 @@
       "discount": 43.0,
       "commission": 0.12,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
-      "link": "https://s.shopee.com.br/4LIxAiw923",
+      "link": "https://s.shopee.com.br/6AkbM66lRd",
       "rating": "4.8",
       "sales": 904,
       "shop": "CampvendasMulticoisas",
@@ -17920,7 +18151,7 @@
         "shopName": "CampvendasMulticoisas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
         "productLink": "https://shopee.com.br/product/1627792845/41132780075",
-        "offerLink": "https://s.shopee.com.br/4LIxAiw923"
+        "offerLink": "https://s.shopee.com.br/6AkbM66lRd"
       },
       "_last_price": null
     },
@@ -18095,6 +18326,64 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra1c-m548tvxdhm0wde",
         "productLink": "https://shopee.com.br/product/222975446/21998001825",
         "offerLink": "https://s.shopee.com.br/7KwYkFoaAK"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58254747729",
+      "name": "Shampoo Tonalizante Matizze Hidralise Avelã, Preto, Marsala, Loiro, Vermelho, Ruivo 100% Natural",
+      "price": 19.9,
+      "original_price": 34.91,
+      "discount": 43.0,
+      "commission": 0.1,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkfk64gbv1flf8",
+      "link": "https://s.shopee.com.br/20v2PlTAXf",
+      "rating": "4.7",
+      "sales": 3499,
+      "shop": "Royal Store Br",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58254747729,
+        "productName": "Shampoo Tonalizante Matizze Hidralise Avelã, Preto, Marsala, Loiro, Vermelho, Ruivo 100% Natural",
+        "price": "19.9",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.1",
+        "sales": 3499,
+        "ratingStar": "4.7",
+        "shopName": "Royal Store Br",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkfk64gbv1flf8",
+        "productLink": "https://shopee.com.br/product/389924031/58254747729",
+        "offerLink": "https://s.shopee.com.br/20v2PlTAXf"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23492924070",
+      "name": "Suporte de Banheiro Shampoo Para Box 3 Andares Sem Furo e Não Enferruja",
+      "price": 39.8,
+      "original_price": 69.82,
+      "discount": 43.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr1lwv154lqd01",
+      "link": "https://s.shopee.com.br/W6Ed0YsaO",
+      "rating": "4.8",
+      "sales": 2180,
+      "shop": "MAGAZINE K80",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23492924070,
+        "productName": "Suporte de Banheiro Shampoo Para Box 3 Andares Sem Furo e Não Enferruja",
+        "price": "39.8",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.03",
+        "sales": 2180,
+        "ratingStar": "4.8",
+        "shopName": "MAGAZINE K80",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr1lwv154lqd01",
+        "productLink": "https://shopee.com.br/product/1203404824/23492924070",
+        "offerLink": "https://s.shopee.com.br/W6Ed0YsaO"
       },
       "_last_price": null
     },
@@ -19085,6 +19374,35 @@
       "_last_price": null
     },
     {
+      "id": "12983316596",
+      "name": "Kit 2x Whey Protein Fusion + 2x Bcaa + 2x Creatina Pura 100% + 2x Glutamina + Shaker - Espartanos",
+      "price": 159.99,
+      "original_price": 271.17,
+      "discount": 41.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mb-msfkxqq4i7t11a",
+      "link": "https://s.shopee.com.br/8AVfl8I9XM",
+      "rating": "4.8",
+      "sales": 840,
+      "shop": "Loja do Suplemento Oficial",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 12983316596,
+        "productName": "Kit 2x Whey Protein Fusion + 2x Bcaa + 2x Creatina Pura 100% + 2x Glutamina + Shaker - Espartanos",
+        "price": "159.99",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.13",
+        "sales": 840,
+        "ratingStar": "4.8",
+        "shopName": "Loja do Suplemento Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-msfkxqq4i7t11a",
+        "productLink": "https://shopee.com.br/product/446247790/12983316596",
+        "offerLink": "https://s.shopee.com.br/8AVfl8I9XM"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23893212954",
       "name": "Cama Toca Iglu 3 em 1 para Cachorro e Gato Tamanho P M G",
       "price": 35.34,
@@ -19208,7 +19526,7 @@
       "discount": 41.0,
       "commission": 0.12,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mlxn4dp5xrt285",
-      "link": "https://s.shopee.com.br/904mjRNXoZ",
+      "link": "https://s.shopee.com.br/4fvnZVm6Mg",
       "rating": "4.7",
       "sales": 392,
       "shop": "Loja Sao Miguel Multicoisas",
@@ -19225,7 +19543,7 @@
         "shopName": "Loja Sao Miguel Multicoisas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mlxn4dp5xrt285",
         "productLink": "https://shopee.com.br/product/375688601/42620071435",
-        "offerLink": "https://s.shopee.com.br/904mjRNXoZ"
+        "offerLink": "https://s.shopee.com.br/4fvnZVm6Mg"
       },
       "_last_price": null
     },
@@ -19237,7 +19555,7 @@
       "discount": 41.0,
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/sg-11134201-81zwv-mmzqsnyyiv4232",
-      "link": "https://s.shopee.com.br/qj50Rf21E",
+      "link": "https://s.shopee.com.br/6AkbMFcSpB",
       "rating": "4.8",
       "sales": 240,
       "shop": "Ebfishing.br",
@@ -19254,7 +19572,7 @@
         "shopName": "Ebfishing.br",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zwv-mmzqsnyyiv4232",
         "productLink": "https://shopee.com.br/product/1738590340/58158722329",
-        "offerLink": "https://s.shopee.com.br/qj50Rf21E"
+        "offerLink": "https://s.shopee.com.br/6AkbMFcSpB"
       },
       "_last_price": null
     },
@@ -19991,7 +20309,7 @@
       "discount": 40.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhekmrulu29z21",
-      "link": "https://s.shopee.com.br/4AzWyYxPDw",
+      "link": "https://s.shopee.com.br/5foKlKeMq2",
       "rating": "4.8",
       "sales": 684,
       "shop": "Haishop_lampadas",
@@ -20008,7 +20326,7 @@
         "shopName": "Haishop_lampadas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhekmrulu29z21",
         "productLink": "https://shopee.com.br/product/1351555956/58200907884",
-        "offerLink": "https://s.shopee.com.br/4AzWyYxPDw"
+        "offerLink": "https://s.shopee.com.br/5foKlKeMq2"
       },
       "_last_price": null
     },
@@ -20600,7 +20918,7 @@
       "discount": 39.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rff9-m9e4mo9p3kpd4a",
-      "link": "https://s.shopee.com.br/1BLvP38pJS",
+      "link": "https://s.shopee.com.br/8V8W8WuNpi",
       "rating": "4.8",
       "sales": 541,
       "shop": "Baipeak.br",
@@ -20617,7 +20935,7 @@
         "shopName": "Baipeak.br",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rff9-m9e4mo9p3kpd4a",
         "productLink": "https://shopee.com.br/product/1206815216/26936065094",
-        "offerLink": "https://s.shopee.com.br/1BLvP38pJS"
+        "offerLink": "https://s.shopee.com.br/8V8W8WuNpi"
       },
       "_last_price": null
     },
@@ -20803,7 +21121,7 @@
       "discount": 38.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzc2jkmqooitff",
-      "link": "https://s.shopee.com.br/904mjIvygw",
+      "link": "https://s.shopee.com.br/7pspLBvHSG",
       "rating": "4.9",
       "sales": 1933,
       "shop": "Schuster Papelaria",
@@ -20820,7 +21138,7 @@
         "shopName": "Schuster Papelaria",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzc2jkmqooitff",
         "productLink": "https://shopee.com.br/product/390780728/19497788981",
-        "offerLink": "https://s.shopee.com.br/904mjIvygw"
+        "offerLink": "https://s.shopee.com.br/7pspLBvHSG"
       },
       "_last_price": null
     },
@@ -20912,6 +21230,35 @@
       "_last_price": null
     },
     {
+      "id": "22294869290",
+      "name": "1/2/3 Suporte De Shampoo Preto Organizador Alta qualidade Prateleira De Banheiro Sem Furo Premium-Space Alumínio",
+      "price": 20.99,
+      "original_price": 33.85,
+      "discount": 38.0,
+      "commission": 0.06,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mqgns0uw54w3d3",
+      "link": "https://s.shopee.com.br/1LfLcXVhtT",
+      "rating": "4.7",
+      "sales": 2574,
+      "shop": "VIVALAR SHOP",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22294869290,
+        "productName": "1/2/3 Suporte De Shampoo Preto Organizador Alta qualidade Prateleira De Banheiro Sem Furo Premium-Space Alumínio",
+        "price": "20.99",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.06",
+        "sales": 2574,
+        "ratingStar": "4.7",
+        "shopName": "VIVALAR SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mqgns0uw54w3d3",
+        "productLink": "https://shopee.com.br/product/1357069533/22294869290",
+        "offerLink": "https://s.shopee.com.br/1LfLcXVhtT"
+      },
+      "_last_price": null
+    },
+    {
       "id": "27255886931",
       "name": "DISAAR SPF 90 Protetor Solar Facial Clareador Creme De Pele Anti-Envelhecimento Controle De Óleo Hidratante 40g",
       "price": 16.0,
@@ -20919,7 +21266,7 @@
       "discount": 38.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823on-mp6g66qtr0gb15",
-      "link": "https://s.shopee.com.br/3g3GNXSoJM",
+      "link": "https://s.shopee.com.br/8Kp5w7SZhI",
       "rating": "4.9",
       "sales": 1732,
       "shop": "Choice Oficial",
@@ -20936,7 +21283,7 @@
         "shopName": "Choice Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp6g66qtr0gb15",
         "productLink": "https://shopee.com.br/product/1006215031/27255886931",
-        "offerLink": "https://s.shopee.com.br/3g3GNXSoJM"
+        "offerLink": "https://s.shopee.com.br/8Kp5w7SZhI"
       },
       "_last_price": null
     },
@@ -21267,7 +21614,7 @@
       "discount": 38.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823pf-moy4j7lpdjb5d4",
-      "link": "https://s.shopee.com.br/70JiLmZI8Q",
+      "link": "https://s.shopee.com.br/50Ydy7kpgi",
       "rating": "4.8",
       "sales": 489,
       "shop": "WS Diario",
@@ -21284,7 +21631,7 @@
         "shopName": "WS Diario",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pf-moy4j7lpdjb5d4",
         "productLink": "https://shopee.com.br/product/698887220/22095032045",
-        "offerLink": "https://s.shopee.com.br/70JiLmZI8Q"
+        "offerLink": "https://s.shopee.com.br/50Ydy7kpgi"
       },
       "_last_price": null
     },
@@ -21604,6 +21951,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mqry08dutxc354",
         "productLink": "https://shopee.com.br/product/386227221/19898980065",
         "offerLink": "https://s.shopee.com.br/1VylnXkC2s"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19699867711",
+      "name": "Nicho de Parede Sobrepor 28x40cm Banheiro Porta Shampoo Sem Obra Quarto Sala Multiuso Branco",
+      "price": 59.9,
+      "original_price": 95.08,
+      "discount": 37.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mqp420kc308z12",
+      "link": "https://s.shopee.com.br/3LQQ0DO5pn",
+      "rating": "4.9",
+      "sales": 3448,
+      "shop": "Loja Maeto",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19699867711,
+        "productName": "Nicho de Parede Sobrepor 28x40cm Banheiro Porta Shampoo Sem Obra Quarto Sala Multiuso Branco",
+        "price": "59.9",
+        "priceDiscountRate": 37,
+        "commissionRate": "0.03",
+        "sales": 3448,
+        "ratingStar": "4.9",
+        "shopName": "Loja Maeto",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mqp420kc308z12",
+        "productLink": "https://shopee.com.br/product/1512913858/19699867711",
+        "offerLink": "https://s.shopee.com.br/3LQQ0DO5pn"
       },
       "_last_price": null
     },
@@ -22155,6 +22531,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82631-ml1869y8l8u936",
         "productLink": "https://shopee.com.br/product/385874672/58201422912",
         "offerLink": "https://s.shopee.com.br/9fKTWYF6TB"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21897728259",
+      "name": "Shampoo com Cera de carnaúba pH Neutro para Lavagem de Carro e Moto Xampu Automotivo",
+      "price": 19.99,
+      "original_price": 31.23,
+      "discount": 36.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mqnhnkgkscua7d",
+      "link": "https://s.shopee.com.br/30nZbbPMVd",
+      "rating": "4.8",
+      "sales": 3899,
+      "shop": "BUENO ESTETICA AUTO",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21897728259,
+        "productName": "Shampoo com Cera de carnaúba pH Neutro para Lavagem de Carro e Moto Xampu Automotivo",
+        "price": "19.99",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 3899,
+        "ratingStar": "4.8",
+        "shopName": "BUENO ESTETICA AUTO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mqnhnkgkscua7d",
+        "productLink": "https://shopee.com.br/product/1091428082/21897728259",
+        "offerLink": "https://s.shopee.com.br/30nZbbPMVd"
       },
       "_last_price": null
     },
@@ -22851,6 +23256,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zup-mmrk4iywe1oi7c",
         "productLink": "https://shopee.com.br/product/493059579/55508351298",
         "offerLink": "https://s.shopee.com.br/60RB9ncKnh"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22894321855",
+      "name": "Prateleira Banheiro Adesiva Sem Furar Porta Shampoo Sabonete Organizador de Parede Preto",
+      "price": 17.76,
+      "original_price": 27.32,
+      "discount": 35.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdx3-mdltabvria6441",
+      "link": "https://s.shopee.com.br/2VrJ0gRGWi",
+      "rating": "4.8",
+      "sales": 1963,
+      "shop": "GCS Componentes ",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22894321855,
+        "productName": "Prateleira Banheiro Adesiva Sem Furar Porta Shampoo Sabonete Organizador de Parede Preto",
+        "price": "17.76",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.03",
+        "sales": 1963,
+        "ratingStar": "4.8",
+        "shopName": "GCS Componentes ",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx3-mdltabvria6441",
+        "productLink": "https://shopee.com.br/product/448412712/22894321855",
+        "offerLink": "https://s.shopee.com.br/2VrJ0gRGWi"
       },
       "_last_price": null
     },
@@ -23703,7 +24137,7 @@
       "discount": 33.0,
       "commission": 0.11,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mrlojlsb5r7od2",
-      "link": "https://s.shopee.com.br/4fvnZKusM9",
+      "link": "https://s.shopee.com.br/4LIxAjDkAM",
       "rating": "4.9",
       "sales": 685,
       "shop": "LANO ECOM",
@@ -23720,7 +24154,7 @@
         "shopName": "LANO ECOM",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mrlojlsb5r7od2",
         "productLink": "https://shopee.com.br/product/1536563744/58206237985",
-        "offerLink": "https://s.shopee.com.br/4fvnZKusM9"
+        "offerLink": "https://s.shopee.com.br/4LIxAjDkAM"
       },
       "_last_price": null
     },
@@ -23732,7 +24166,7 @@
       "discount": 33.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mmg50q1ihgjobd",
-      "link": "https://s.shopee.com.br/AUtaW3qGe7",
+      "link": "https://s.shopee.com.br/112VCdLIJZ",
       "rating": "4.9",
       "sales": 5769,
       "shop": "Mercado das Essências",
@@ -23749,7 +24183,7 @@
         "shopName": "Mercado das Essências",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mmg50q1ihgjobd",
         "productLink": "https://shopee.com.br/product/1107585845/22599385841",
-        "offerLink": "https://s.shopee.com.br/AUtaW3qGe7"
+        "offerLink": "https://s.shopee.com.br/112VCdLIJZ"
       },
       "_last_price": null
     },
@@ -24312,7 +24746,7 @@
       "discount": 32.0,
       "commission": 0.075,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7ra3u-mbe7m8ziioae62",
-      "link": "https://s.shopee.com.br/2qU9O0Vz0J",
+      "link": "https://s.shopee.com.br/4AzWzkuBeg",
       "rating": "4.9",
       "sales": 2290,
       "shop": "Esthik ",
@@ -24329,7 +24763,7 @@
         "shopName": "Esthik ",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra3u-mbe7m8ziioae62",
         "productLink": "https://shopee.com.br/product/314834922/22794170349",
-        "offerLink": "https://s.shopee.com.br/2qU9O0Vz0J"
+        "offerLink": "https://s.shopee.com.br/4AzWzkuBeg"
       },
       "_last_price": null
     },
@@ -24341,7 +24775,7 @@
       "discount": 32.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mqni5t3phaf47c",
-      "link": "https://s.shopee.com.br/8V8W8Sa05z",
+      "link": "https://s.shopee.com.br/1LfLbIIsmG",
       "rating": "4.8",
       "sales": 2116,
       "shop": "AQUARELA DECORAÇÕES",
@@ -24358,7 +24792,7 @@
         "shopName": "AQUARELA DECORAÇÕES",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mqni5t3phaf47c",
         "productLink": "https://shopee.com.br/product/597391186/19899866990",
-        "offerLink": "https://s.shopee.com.br/8V8W8Sa05z"
+        "offerLink": "https://s.shopee.com.br/1LfLbIIsmG"
       },
       "_last_price": null
     },
@@ -24660,7 +25094,7 @@
       "discount": 31.0,
       "commission": 0.06,
       "image": "https://cf.shopee.com.br/file/sg-11134201-820lo-mnuwutvgw0sj4e",
-      "link": "https://s.shopee.com.br/AAGk7RrXK1",
+      "link": "https://s.shopee.com.br/19y0nP6LL",
       "rating": "4.9",
       "sales": 17308,
       "shop": "Braslimpo",
@@ -24677,7 +25111,7 @@
         "shopName": "Braslimpo",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820lo-mnuwutvgw0sj4e",
         "productLink": "https://shopee.com.br/product/946161700/23136366164",
-        "offerLink": "https://s.shopee.com.br/AAGk7RrXK1"
+        "offerLink": "https://s.shopee.com.br/19y0nP6LL"
       },
       "_last_price": null
     },
@@ -24748,7 +25182,7 @@
       "commission": 0.16,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823qq-mpd39b7kwcnj4f",
       "link": "https://s.shopee.com.br/4VcNN4uMpJ",
-      "rating": "4.1",
+      "rating": "4",
       "sales": 2343,
       "shop": "Manola Perfumaria",
       "category": "perfume",
@@ -24760,7 +25194,7 @@
         "priceDiscountRate": 31,
         "commissionRate": "0.16",
         "sales": 2343,
-        "ratingStar": "4.1",
+        "ratingStar": "4",
         "shopName": "Manola Perfumaria",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qq-mpd39b7kwcnj4f",
         "productLink": "https://shopee.com.br/product/1528288174/58212379163",
@@ -24950,7 +25384,7 @@
       "discount": 31.0,
       "commission": 0.16,
       "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lh9iq50zmqie10",
-      "link": "https://s.shopee.com.br/7KwYkQSob5",
+      "link": "https://s.shopee.com.br/9zxJvLeBm9",
       "rating": "4.6",
       "sales": 215,
       "shop": "Max Pescas",
@@ -24967,7 +25401,7 @@
         "shopName": "Max Pescas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lh9iq50zmqie10",
         "productLink": "https://shopee.com.br/product/291545650/3166644344",
-        "offerLink": "https://s.shopee.com.br/7KwYkQSob5"
+        "offerLink": "https://s.shopee.com.br/9zxJvLeBm9"
       },
       "_last_price": null
     },
@@ -25675,7 +26109,7 @@
       "discount": 30.0,
       "commission": 0.14,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mqrqdfz230n45c",
-      "link": "https://s.shopee.com.br/7Ad8Y7TRw4",
+      "link": "https://s.shopee.com.br/AUtaWGcHlG",
       "rating": "4.6",
       "sales": 151,
       "shop": "Max Pescas",
@@ -25692,7 +26126,7 @@
         "shopName": "Max Pescas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mqrqdfz230n45c",
         "productLink": "https://shopee.com.br/product/291545650/3956922823",
-        "offerLink": "https://s.shopee.com.br/7Ad8Y7TRw4"
+        "offerLink": "https://s.shopee.com.br/AUtaWGcHlG"
       },
       "_last_price": null
     },
@@ -25907,7 +26341,7 @@
       "discount": 29.0,
       "commission": 0.21,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m9-msflw063fuo79a",
-      "link": "https://s.shopee.com.br/6VNRkldLMw",
+      "link": "https://s.shopee.com.br/7fZP8umEsw",
       "rating": "4.8",
       "sales": 1119,
       "shop": "Dark Lab Oficial",
@@ -25924,7 +26358,7 @@
         "shopName": "Dark Lab Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-msflw063fuo79a",
         "productLink": "https://shopee.com.br/product/1242044379/22498685992",
-        "offerLink": "https://s.shopee.com.br/6VNRkldLMw"
+        "offerLink": "https://s.shopee.com.br/7fZP8umEsw"
       },
       "_last_price": null
     },
@@ -26110,7 +26544,7 @@
       "discount": 29.0,
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwlrb4xzhfr3a",
-      "link": "https://s.shopee.com.br/AKaAJwHOVt",
+      "link": "https://s.shopee.com.br/7fZP93n4Vz",
       "rating": "4.9",
       "sales": 102,
       "shop": "CLICK & VIVA",
@@ -26127,7 +26561,7 @@
         "shopName": "CLICK & VIVA",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwlrb4xzhfr3a",
         "productLink": "https://shopee.com.br/product/1594633180/22498752326",
-        "offerLink": "https://s.shopee.com.br/AKaAJwHOVt"
+        "offerLink": "https://s.shopee.com.br/7fZP93n4Vz"
       },
       "_last_price": null
     },
@@ -26516,7 +26950,7 @@
       "discount": 27.0,
       "commission": 0.13,
       "image": "https://cf.shopee.com.br/file/br-11134207-81zto-ml5989e7ml8nf8",
-      "link": "https://s.shopee.com.br/8Kp5w4yW2k",
+      "link": "https://s.shopee.com.br/30nZaJDgG9",
       "rating": "4.9",
       "sales": 3205,
       "shop": "Coala Essências Oficial",
@@ -26533,7 +26967,7 @@
         "shopName": "Coala Essências Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zto-ml5989e7ml8nf8",
         "productLink": "https://shopee.com.br/product/1177903362/22198915719",
-        "offerLink": "https://s.shopee.com.br/8Kp5w4yW2k"
+        "offerLink": "https://s.shopee.com.br/30nZaJDgG9"
       },
       "_last_price": null
     },
@@ -27270,7 +27704,7 @@
       "discount": 25.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mitoejy7cuf53b",
-      "link": "https://s.shopee.com.br/AUtaW43KXH",
+      "link": "https://s.shopee.com.br/8V8W8OSoj0",
       "rating": "4.9",
       "sales": 1805,
       "shop": "Lume & Lume",
@@ -27287,7 +27721,7 @@
         "shopName": "Lume & Lume",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mitoejy7cuf53b",
         "productLink": "https://shopee.com.br/product/1547852317/58202494237",
-        "offerLink": "https://s.shopee.com.br/AUtaW43KXH"
+        "offerLink": "https://s.shopee.com.br/8V8W8OSoj0"
       },
       "_last_price": null
     },
@@ -27328,7 +27762,7 @@
       "discount": 25.0,
       "commission": 0.13,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh9d339f89af1c",
-      "link": "https://s.shopee.com.br/6fgrx3HODf",
+      "link": "https://s.shopee.com.br/6fgrx3Yv4c",
       "rating": "4.9",
       "sales": 4990,
       "shop": "Principia Skincare",
@@ -27345,7 +27779,7 @@
         "shopName": "Principia Skincare",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh9d339f89af1c",
         "productLink": "https://shopee.com.br/product/373261329/23394690451",
-        "offerLink": "https://s.shopee.com.br/6fgrx3HODf"
+        "offerLink": "https://s.shopee.com.br/6fgrx3Yv4c"
       },
       "_last_price": null
     },
@@ -27357,7 +27791,7 @@
       "discount": 25.0,
       "commission": 0.13,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mli7ak1thedga0",
-      "link": "https://s.shopee.com.br/6L41YRIetd",
+      "link": "https://s.shopee.com.br/7fZP8tV72q",
       "rating": "4.9",
       "sales": 2444,
       "shop": "Principia Skincare",
@@ -27374,7 +27808,7 @@
         "shopName": "Principia Skincare",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mli7ak1thedga0",
         "productLink": "https://shopee.com.br/product/373261329/58205979239",
-        "offerLink": "https://s.shopee.com.br/6L41YRIetd"
+        "offerLink": "https://s.shopee.com.br/7fZP8tV72q"
       },
       "_last_price": null
     },
@@ -27386,7 +27820,7 @@
       "discount": 25.0,
       "commission": 0.13,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mctps2qs53cib8",
-      "link": "https://s.shopee.com.br/6AkbM8JIEc",
+      "link": "https://s.shopee.com.br/7KwYkHWNio",
       "rating": "5",
       "sales": 4482,
       "shop": "Principia Skincare",
@@ -27403,7 +27837,7 @@
         "shopName": "Principia Skincare",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mctps2qs53cib8",
         "productLink": "https://shopee.com.br/product/373261329/27189338384",
-        "offerLink": "https://s.shopee.com.br/6AkbM8JIEc"
+        "offerLink": "https://s.shopee.com.br/7KwYkHWNio"
       },
       "_last_price": null
     },
@@ -27473,7 +27907,7 @@
       "discount": 25.0,
       "commission": 0.24,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawv0c8onc5fb",
-      "link": "https://s.shopee.com.br/5VUuYvh9Om",
+      "link": "https://s.shopee.com.br/7pspLDlbXz",
       "rating": "4.9",
       "sales": 1241,
       "shop": "Dark Lab Oficial",
@@ -27490,7 +27924,7 @@
         "shopName": "Dark Lab Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawv0c8onc5fb",
         "productLink": "https://shopee.com.br/product/1242044379/22392993399",
-        "offerLink": "https://s.shopee.com.br/5VUuYvh9Om"
+        "offerLink": "https://s.shopee.com.br/7pspLDlbXz"
       },
       "_last_price": null
     },
@@ -27821,7 +28255,7 @@
       "discount": 25.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134201-23010-ukscdhw5iomv2d",
-      "link": "https://s.shopee.com.br/8V8W8WPRpW",
+      "link": "https://s.shopee.com.br/9V13KOlIhs",
       "rating": "4.8",
       "sales": 316,
       "shop": "PescaShop",
@@ -27838,7 +28272,7 @@
         "shopName": "PescaShop",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23010-ukscdhw5iomv2d",
         "productLink": "https://shopee.com.br/product/361954967/21771687059",
-        "offerLink": "https://s.shopee.com.br/8V8W8WPRpW"
+        "offerLink": "https://s.shopee.com.br/9V13KOlIhs"
       },
       "_last_price": null
     },
@@ -27879,7 +28313,7 @@
       "discount": 25.0,
       "commission": 0.12,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8261t-mlgekb6c1amgd8",
-      "link": "https://s.shopee.com.br/8AVfjwqNPk",
+      "link": "https://s.shopee.com.br/7pspLLQua8",
       "rating": "4.8",
       "sales": 196,
       "shop": "MTZK Pesca",
@@ -27896,7 +28330,7 @@
         "shopName": "MTZK Pesca",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261t-mlgekb6c1amgd8",
         "productLink": "https://shopee.com.br/product/865469111/17093014377",
-        "offerLink": "https://s.shopee.com.br/8AVfjwqNPk"
+        "offerLink": "https://s.shopee.com.br/7pspLLQua8"
       },
       "_last_price": null
     },
@@ -28274,6 +28708,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhkgppoa25tu40",
         "productLink": "https://shopee.com.br/product/916176093/18670036520",
         "offerLink": "https://s.shopee.com.br/BTODFcDxn"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "45707967320",
+      "name": "Interruptores De Teclado Azul/Vermelho/Chá/Preto , Mecânico Tátil Clicky De 3 Pinos , Kit Completo De Substituição DIY",
+      "price": 51.7,
+      "original_price": 67.14,
+      "discount": 23.0,
+      "commission": 0.15,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8258e-mqehxire4zr507",
+      "link": "https://s.shopee.com.br/8fRwKfozRJ",
+      "rating": "4.9",
+      "sales": 328,
+      "shop": "Choice Oficial",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 45707967320,
+        "productName": "Interruptores De Teclado Azul/Vermelho/Chá/Preto , Mecânico Tátil Clicky De 3 Pinos , Kit Completo De Substituição DIY",
+        "price": "51.7",
+        "priceDiscountRate": 23,
+        "commissionRate": "0.15",
+        "sales": 328,
+        "ratingStar": "4.9",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258e-mqehxire4zr507",
+        "productLink": "https://shopee.com.br/product/1006215031/45707967320",
+        "offerLink": "https://s.shopee.com.br/8fRwKfozRJ"
       },
       "_last_price": null
     },
@@ -28691,7 +29154,7 @@
       "discount": 22.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98r-lluxwmqjmiiff4",
-      "link": "https://s.shopee.com.br/2LXsnCHrLT",
+      "link": "https://s.shopee.com.br/6fgrxAaYoK",
       "rating": "4.9",
       "sales": 485,
       "shop": "Tralha de Ouro",
@@ -28708,7 +29171,7 @@
         "shopName": "Tralha de Ouro",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98r-lluxwmqjmiiff4",
         "productLink": "https://shopee.com.br/product/360052108/19597387484",
-        "offerLink": "https://s.shopee.com.br/2LXsnCHrLT"
+        "offerLink": "https://s.shopee.com.br/6fgrxAaYoK"
       },
       "_last_price": null
     },
@@ -28981,7 +29444,7 @@
       "discount": 21.0,
       "commission": 0.15,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mrgdkfdeckckaa",
-      "link": "https://s.shopee.com.br/80CFXWXdK1",
+      "link": "https://s.shopee.com.br/50Ydy0wOIB",
       "rating": "4.9",
       "sales": 2330,
       "shop": "Soldiers Nutrition",
@@ -28998,7 +29461,7 @@
         "shopName": "Soldiers Nutrition",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mrgdkfdeckckaa",
         "productLink": "https://shopee.com.br/product/347988064/22593481622",
-        "offerLink": "https://s.shopee.com.br/80CFXWXdK1"
+        "offerLink": "https://s.shopee.com.br/50Ydy0wOIB"
       },
       "_last_price": null
     },
@@ -29039,7 +29502,7 @@
       "discount": 21.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mp18dhjxhy4l91",
-      "link": "https://s.shopee.com.br/8fRwKlZMl2",
+      "link": "https://s.shopee.com.br/2VrIzRERPb",
       "rating": "4.9",
       "sales": 1789,
       "shop": "BelladeLuccastore",
@@ -29056,7 +29519,7 @@
         "shopName": "BelladeLuccastore",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mp18dhjxhy4l91",
         "productLink": "https://shopee.com.br/product/987020544/58261911959",
-        "offerLink": "https://s.shopee.com.br/8fRwKlZMl2"
+        "offerLink": "https://s.shopee.com.br/2VrIzRERPb"
       },
       "_last_price": null
     },
@@ -29409,6 +29872,35 @@
       "_last_price": null
     },
     {
+      "id": "50454626337",
+      "name": "KIT ELSEVE COLÁGENO LIFTER SHAMPOO + COND + MÁSCARA - LANÇAMENTO",
+      "price": 79.9,
+      "original_price": 99.88,
+      "discount": 20.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8260h-mjgay09l6cxs6a",
+      "link": "https://s.shopee.com.br/3g3GOpMp9p",
+      "rating": "4.9",
+      "sales": 3227,
+      "shop": "MUNDO DA LELE",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 50454626337,
+        "productName": "KIT ELSEVE COLÁGENO LIFTER SHAMPOO + COND + MÁSCARA - LANÇAMENTO",
+        "price": "79.9",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.03",
+        "sales": 3227,
+        "ratingStar": "4.9",
+        "shopName": "MUNDO DA LELE",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260h-mjgay09l6cxs6a",
+        "productLink": "https://shopee.com.br/product/290598330/50454626337",
+        "offerLink": "https://s.shopee.com.br/3g3GOpMp9p"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22898980977",
       "name": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
       "price": 86.39,
@@ -29590,7 +30082,7 @@
       "discount": 20.0,
       "commission": 0.13,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-msflhqky5jicbf",
-      "link": "https://s.shopee.com.br/904mjMTpIB",
+      "link": "https://s.shopee.com.br/5As4AJvkxC",
       "rating": "4.8",
       "sales": 2552,
       "shop": "Loja do Suplemento Oficial",
@@ -29607,7 +30099,7 @@
         "shopName": "Loja do Suplemento Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-msflhqky5jicbf",
         "productLink": "https://shopee.com.br/product/446247790/9987415279",
-        "offerLink": "https://s.shopee.com.br/904mjMTpIB"
+        "offerLink": "https://s.shopee.com.br/5As4AJvkxC"
       },
       "_last_price": null
     },
@@ -29793,7 +30285,7 @@
       "discount": 20.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8260l-mlgenq30c83s21",
-      "link": "https://s.shopee.com.br/AKaAJsjGsH",
+      "link": "https://s.shopee.com.br/qj50RA5zM",
       "rating": "4.9",
       "sales": 516,
       "shop": "ApexVendas",
@@ -29810,7 +30302,7 @@
         "shopName": "ApexVendas",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260l-mlgenq30c83s21",
         "productLink": "https://shopee.com.br/product/940287081/23998761112",
-        "offerLink": "https://s.shopee.com.br/AKaAJsjGsH"
+        "offerLink": "https://s.shopee.com.br/qj50RA5zM"
       },
       "_last_price": null
     },
@@ -29996,7 +30488,7 @@
       "discount": 20.0,
       "commission": 0.1,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjun99aei8zq2a",
-      "link": "https://s.shopee.com.br/6VNRktVzI0",
+      "link": "https://s.shopee.com.br/8fRwKtjGU1",
       "rating": "4.6",
       "sales": 144,
       "shop": "Max Pescas",
@@ -30013,7 +30505,7 @@
         "shopName": "Max Pescas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjun99aei8zq2a",
         "productLink": "https://shopee.com.br/product/291545650/58203972338",
-        "offerLink": "https://s.shopee.com.br/6VNRktVzI0"
+        "offerLink": "https://s.shopee.com.br/8fRwKtjGU1"
       },
       "_last_price": null
     },
@@ -30373,7 +30865,7 @@
       "discount": 19.0,
       "commission": 0.14,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltqs9gn59ou713",
-      "link": "https://s.shopee.com.br/6fgrxCVLx1",
+      "link": "https://s.shopee.com.br/8Kp5wHkX9v",
       "rating": "4.5",
       "sales": 157,
       "shop": "Max Pescas",
@@ -30390,7 +30882,7 @@
         "shopName": "Max Pescas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltqs9gn59ou713",
         "productLink": "https://shopee.com.br/product/291545650/18799237450",
-        "offerLink": "https://s.shopee.com.br/6fgrxCVLx1"
+        "offerLink": "https://s.shopee.com.br/8Kp5wHkX9v"
       },
       "_last_price": null
     },
@@ -30431,7 +30923,7 @@
       "discount": 18.0,
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1n7p6463nq79",
-      "link": "https://s.shopee.com.br/7KwYkDu48v",
+      "link": "https://s.shopee.com.br/5foKlAML6x",
       "rating": "4.8",
       "sales": 1287,
       "shop": "RAMI STORE COM",
@@ -30448,7 +30940,7 @@
         "shopName": "RAMI STORE COM",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1n7p6463nq79",
         "productLink": "https://shopee.com.br/product/1362302335/58254046357",
-        "offerLink": "https://s.shopee.com.br/7KwYkDu48v"
+        "offerLink": "https://s.shopee.com.br/5foKlAML6x"
       },
       "_last_price": null
     },
@@ -30576,7 +31068,7 @@
       "discount": 18.0,
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mngh4d9obpxd28",
-      "link": "https://s.shopee.com.br/9pdtizOVNj",
+      "link": "https://s.shopee.com.br/1VylniO9Pn",
       "rating": "4.8",
       "sales": 1017,
       "shop": "winners_time",
@@ -30593,7 +31085,7 @@
         "shopName": "winners_time",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mngh4d9obpxd28",
         "productLink": "https://shopee.com.br/product/1259410367/58202642165",
-        "offerLink": "https://s.shopee.com.br/9pdtizOVNj"
+        "offerLink": "https://s.shopee.com.br/1VylniO9Pn"
       },
       "_last_price": null
     },
@@ -31301,7 +31793,7 @@
       "discount": 16.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mibo7781e5fl55",
-      "link": "https://s.shopee.com.br/8fRwKopcFr",
+      "link": "https://s.shopee.com.br/7pspLL92PZ",
       "rating": "4.9",
       "sales": 613,
       "shop": "Summer Pesca e Camping",
@@ -31318,7 +31810,7 @@
         "shopName": "Summer Pesca e Camping",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mibo7781e5fl55",
         "productLink": "https://shopee.com.br/product/320275364/21745736877",
-        "offerLink": "https://s.shopee.com.br/8fRwKopcFr"
+        "offerLink": "https://s.shopee.com.br/7pspLL92PZ"
       },
       "_last_price": null
     },
@@ -31330,7 +31822,7 @@
       "discount": 16.0,
       "commission": 0.13,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4s6tjuxud35f2",
-      "link": "https://s.shopee.com.br/6q0I9VUic2",
+      "link": "https://s.shopee.com.br/8V8W8ajtow",
       "rating": "4.7",
       "sales": 176,
       "shop": "NovusShop",
@@ -31347,7 +31839,7 @@
         "shopName": "NovusShop",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4s6tjuxud35f2",
         "productLink": "https://shopee.com.br/product/1093485327/22193645829",
-        "offerLink": "https://s.shopee.com.br/6q0I9VUic2"
+        "offerLink": "https://s.shopee.com.br/8V8W8ajtow"
       },
       "_last_price": null
     },
@@ -31359,7 +31851,7 @@
       "discount": 16.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mlxn4dp5mj9i81",
-      "link": "https://s.shopee.com.br/5VUuZ3ZnJu",
+      "link": "https://s.shopee.com.br/70JiLppbrn",
       "rating": "4.7",
       "sales": 115,
       "shop": "Loja Sao Miguel Multicoisas",
@@ -31376,7 +31868,7 @@
         "shopName": "Loja Sao Miguel Multicoisas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mlxn4dp5mj9i81",
         "productLink": "https://shopee.com.br/product/375688601/18371120041",
-        "offerLink": "https://s.shopee.com.br/5VUuZ3ZnJu"
+        "offerLink": "https://s.shopee.com.br/70JiLppbrn"
       },
       "_last_price": null
     },
@@ -31475,7 +31967,7 @@
       "discount": 15.0,
       "commission": 0.16,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rbll-lndnp4p8lq2q2e",
-      "link": "https://s.shopee.com.br/8V8W8Nxshn",
+      "link": "https://s.shopee.com.br/3qMgZqAVZM",
       "rating": "4.9",
       "sales": 2214,
       "shop": "Casa de Gê",
@@ -31492,7 +31984,7 @@
         "shopName": "Casa de Gê",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbll-lndnp4p8lq2q2e",
         "productLink": "https://shopee.com.br/product/534023108/11151188105",
-        "offerLink": "https://s.shopee.com.br/8V8W8Nxshn"
+        "offerLink": "https://s.shopee.com.br/3qMgZqAVZM"
       },
       "_last_price": null
     },
@@ -31504,7 +31996,7 @@
       "discount": 15.0,
       "commission": 0.15,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rbmo-lneo8slh76y975",
-      "link": "https://s.shopee.com.br/8fRwKgxFMq",
+      "link": "https://s.shopee.com.br/3g3GNXB8uL",
       "rating": "4.9",
       "sales": 2058,
       "shop": "Casa de Gê",
@@ -31521,7 +32013,7 @@
         "shopName": "Casa de Gê",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbmo-lneo8slh76y975",
         "productLink": "https://shopee.com.br/product/534023108/18998573561",
-        "offerLink": "https://s.shopee.com.br/8fRwKgxFMq"
+        "offerLink": "https://s.shopee.com.br/3g3GNXB8uL"
       },
       "_last_price": null
     },
@@ -31533,7 +32025,7 @@
       "discount": 15.0,
       "commission": 0.06,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdsw7fyi4jbl20",
-      "link": "https://s.shopee.com.br/6fgrx14rQW",
+      "link": "https://s.shopee.com.br/7VFywZwY8E",
       "rating": "4.9",
       "sales": 1737,
       "shop": "AGRONLINE loja agricola",
@@ -31550,7 +32042,7 @@
         "shopName": "AGRONLINE loja agricola",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdsw7fyi4jbl20",
         "productLink": "https://shopee.com.br/product/1494249827/18598296472",
-        "offerLink": "https://s.shopee.com.br/6fgrx14rQW"
+        "offerLink": "https://s.shopee.com.br/7VFywZwY8E"
       },
       "_last_price": null
     },
