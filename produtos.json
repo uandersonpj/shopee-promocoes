@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T01:38:52.395509+00:00",
+  "updated_at": "2026-08-30T01:57:51.935366+00:00",
   "total": 1110,
   "products": [
     {
@@ -500,7 +500,7 @@
       "price": 2.99,
       "original_price": 17.59,
       "discount": 83.0,
-      "commission": 0.13,
+      "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mr6w05iemznofe",
       "link": "https://s.shopee.com.br/3VjqBD3Awy",
       "rating": "4.9",
@@ -513,7 +513,7 @@
         "productName": "Esponjas de Maquiagem sem Látex | Ideal para Base, Corretivo e Contorno | Acabamento Natural",
         "price": "2.99",
         "priceDiscountRate": 83,
-        "commissionRate": "0.13",
+        "commissionRate": "0.03",
         "sales": 642,
         "ratingStar": "4.9",
         "shopName": "Nóviya",
@@ -4031,35 +4031,6 @@
       "_last_price": null
     },
     {
-      "id": "52861809126",
-      "name": "Kit 20/10/05 Isca Artificial Larva Bicho Da Laranja Com Anzol Pega Tilápia Lambari Piau",
-      "price": 19.9,
-      "original_price": 60.3,
-      "discount": 67.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mp6qthndm6m90d",
-      "link": "https://s.shopee.com.br/9fKTWg7P60",
-      "rating": "4.9",
-      "sales": 401,
-      "shop": "HOSPITAL DOS ÓCULOS",
-      "category": "anzol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 52861809126,
-        "productName": "Kit 20/10/05 Isca Artificial Larva Bicho Da Laranja Com Anzol Pega Tilápia Lambari Piau",
-        "price": "19.9",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.12",
-        "sales": 401,
-        "ratingStar": "4.9",
-        "shopName": "HOSPITAL DOS ÓCULOS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mp6qthndm6m90d",
-        "productLink": "https://shopee.com.br/product/308112694/52861809126",
-        "offerLink": "https://s.shopee.com.br/9fKTWg7P60"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18737701536",
       "name": "1pcs Isca Artificial De Sapo Macia Água Superior 5g 8g 13g",
       "price": 3.96,
@@ -4607,8 +4578,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m9fq67u6pdzxd0",
         "productLink": "https://shopee.com.br/product/218996205/43150138443",
         "offerLink": "https://s.shopee.com.br/4LIxAh1LuC"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23994336380",
@@ -4781,6 +4751,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pt-molhwbuqrrwsa8",
         "productLink": "https://shopee.com.br/product/794850458/23594527100",
         "offerLink": "https://s.shopee.com.br/3LQPyzJOBr"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19297147366",
+      "name": "Espremedor Elétrico Industrial Inox p/ Suco de Laranja, Limão e Frutas com Copo Incluso",
+      "price": 52.99,
+      "original_price": 151.4,
+      "discount": 65.0,
+      "commission": 0.09,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lj60650831dc5a",
+      "link": "https://s.shopee.com.br/5q7l451LWH",
+      "rating": "4.5",
+      "sales": 768,
+      "shop": "ZSZ_brasil",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19297147366,
+        "productName": "Espremedor Elétrico Industrial Inox p/ Suco de Laranja, Limão e Frutas com Copo Incluso",
+        "price": "52.99",
+        "priceDiscountRate": 65,
+        "commissionRate": "0.09",
+        "sales": 768,
+        "ratingStar": "4.5",
+        "shopName": "ZSZ_brasil",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lj60650831dc5a",
+        "productLink": "https://shopee.com.br/product/390307022/19297147366",
+        "offerLink": "https://s.shopee.com.br/5q7l451LWH"
       },
       "_last_price": null
     },
@@ -11107,6 +11106,35 @@
       "_last_price": null
     },
     {
+      "id": "23593557825",
+      "name": "Cafeteira Francesa Cremeira 350ml Inox Leite Café Chá - Bhz Store",
+      "price": 23.9,
+      "original_price": 50.85,
+      "discount": 53.0,
+      "commission": 0.22,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcgek40zxds112",
+      "link": "https://s.shopee.com.br/8Kp5wB0M3E",
+      "rating": "4.8",
+      "sales": 808,
+      "shop": "Bhz Store ltda",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23593557825,
+        "productName": "Cafeteira Francesa Cremeira 350ml Inox Leite Café Chá - Bhz Store",
+        "price": "23.9",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.22",
+        "sales": 808,
+        "ratingStar": "4.8",
+        "shopName": "Bhz Store ltda",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcgek40zxds112",
+        "productLink": "https://shopee.com.br/product/1399985810/23593557825",
+        "offerLink": "https://s.shopee.com.br/8Kp5wB0M3E"
+      },
+      "_last_price": null
+    },
+    {
       "id": "26385084513",
       "name": "Relógio De Pulso Esportivo De 50M À Prova De Choque Para Homens Com Caixa De Resina Alça Antiderrapante Presente De Verã",
       "price": 11.72,
@@ -13568,35 +13596,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1ouye3qmznse5",
         "productLink": "https://shopee.com.br/product/766258772/23897975794",
         "offerLink": "https://s.shopee.com.br/8AVfjs0zOF"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "43231611625",
-      "name": "Cafeteira Elétrica 19 Xícaras Jarra de Vidro Essential Coffee Elgin Preta",
-      "price": 99.99,
-      "original_price": 199.98,
-      "discount": 50.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82587-ms0b56e9avpc06",
-      "link": "https://s.shopee.com.br/50Ye3FSIkd",
-      "rating": "5",
-      "sales": 318,
-      "shop": "BUMPER MAGAZINE",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 43231611625,
-        "productName": "Cafeteira Elétrica 19 Xícaras Jarra de Vidro Essential Coffee Elgin Preta",
-        "price": "99.99",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.08",
-        "sales": 318,
-        "ratingStar": "5",
-        "shopName": "BUMPER MAGAZINE",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82587-ms0b56e9avpc06",
-        "productLink": "https://shopee.com.br/product/342086228/43231611625",
-        "offerLink": "https://s.shopee.com.br/50Ye3FSIkd"
       },
       "_last_price": null
     },
@@ -16874,6 +16873,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mlpndmcihe6c8e",
         "productLink": "https://shopee.com.br/product/1641676028/58256767388",
         "offerLink": "https://s.shopee.com.br/8plMX9AZn5"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "15494594377",
+      "name": "Isca Artificial 11g/15g/20g Com Colher De Metal De Pesca No Mar Rápido",
+      "price": 6.99,
+      "original_price": 12.94,
+      "discount": 46.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-22110-1xtscqbbyejvd6",
+      "link": "https://s.shopee.com.br/1BLwMC5rAX",
+      "rating": "4.9",
+      "sales": 188,
+      "shop": "zhongyu.br",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 15494594377,
+        "productName": "Isca Artificial 11g/15g/20g Com Colher De Metal De Pesca No Mar Rápido",
+        "price": "6.99",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.03",
+        "sales": 188,
+        "ratingStar": "4.9",
+        "shopName": "zhongyu.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22110-1xtscqbbyejvd6",
+        "productLink": "https://shopee.com.br/product/647546523/15494594377",
+        "offerLink": "https://s.shopee.com.br/1BLwMC5rAX"
       },
       "_last_price": null
     },
@@ -26923,7 +26951,7 @@
       "rating": "4.9",
       "sales": 208,
       "shop": "Marujo Pesca E Camping",
-      "category": "isca artificial",
+      "category": "anzol",
       "source": "shopee",
       "_item": {
         "itemId": 58213260084,
@@ -28329,35 +28357,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-ms2uixbi74ed57",
         "productLink": "https://shopee.com.br/product/993017837/19598318944",
         "offerLink": "https://s.shopee.com.br/1gIBzu00y2"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "10764754425",
-      "name": "Liquidificador 3 velocidades 550W Turbo Power - L-99-FR - Mondial",
-      "price": 117.47,
-      "original_price": 154.57,
-      "discount": 24.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8257s-msdszv0h0vetc4",
-      "link": "https://s.shopee.com.br/4LIxApSzL0",
-      "rating": "4.9",
-      "sales": 2947,
-      "shop": "Dutra Máquinas",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 10764754425,
-        "productName": "Liquidificador 3 velocidades 550W Turbo Power - L-99-FR - Mondial",
-        "price": "117.47",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.03",
-        "sales": 2947,
-        "ratingStar": "4.9",
-        "shopName": "Dutra Máquinas",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257s-msdszv0h0vetc4",
-        "productLink": "https://shopee.com.br/product/489001115/10764754425",
-        "offerLink": "https://s.shopee.com.br/4LIxApSzL0"
       },
       "_last_price": null
     },
