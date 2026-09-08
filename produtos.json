@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T23:08:17.722395+00:00",
-  "total": 1109,
+  "updated_at": "2026-09-08T23:27:12.070293+00:00",
+  "total": 1110,
   "products": [
     {
       "id": "23698808886",
@@ -368,7 +368,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mmz137ddk4cg6c",
         "productLink": "https://shopee.com.br/product/1467162087/55508691646",
         "offerLink": "https://s.shopee.com.br/4VcdQqbFkF"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "47508711420",
@@ -887,8 +888,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a7-mgfaurmyhbt701",
         "productLink": "https://shopee.com.br/product/1127030290/58200141324",
         "offerLink": "https://s.shopee.com.br/9AOSzVmXZz"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22492388439",
@@ -8826,6 +8826,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqysjc3ln0nb37",
         "productLink": "https://shopee.com.br/product/1627792845/47214406847",
         "offerLink": "https://s.shopee.com.br/8AVwBGkXIv"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58211030740",
+      "name": "DISPENSER PORTA SABÃO DETERGENTE LÍQUIDO COM BUCHA ESPONJA",
+      "price": 13.1,
+      "original_price": 29.77,
+      "discount": 56.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823r7-mogurigpiio937",
+      "link": "https://s.shopee.com.br/8pld2POteU",
+      "rating": "4.8",
+      "sales": 1119,
+      "shop": "STORM SHOP",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58211030740,
+        "productName": "DISPENSER PORTA SABÃO DETERGENTE LÍQUIDO COM BUCHA ESPONJA",
+        "price": "13.1",
+        "priceDiscountRate": 56,
+        "commissionRate": "0.07",
+        "sales": 1119,
+        "ratingStar": "4.8",
+        "shopName": "STORM SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r7-mogurigpiio937",
+        "productLink": "https://shopee.com.br/product/941242744/58211030740",
+        "offerLink": "https://s.shopee.com.br/8pld2POteU"
       },
       "_last_price": null
     },
@@ -18893,6 +18922,35 @@
       "_last_price": null
     },
     {
+      "id": "23394200396",
+      "name": "Kit Sabonete + Hidratante + Esfoliante Rhenuks 200ml Corpo e Rosto 10 fragrâncias",
+      "price": 29.98,
+      "original_price": 49.97,
+      "discount": 40.0,
+      "commission": 0.18,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mqhpurv94nb423",
+      "link": "https://s.shopee.com.br/W6UfVd12H",
+      "rating": "4.8",
+      "sales": 2217,
+      "shop": "Vitrine360",
+      "category": "creme facial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23394200396,
+        "productName": "Kit Sabonete + Hidratante + Esfoliante Rhenuks 200ml Corpo e Rosto 10 fragrâncias",
+        "price": "29.98",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.18",
+        "sales": 2217,
+        "ratingStar": "4.8",
+        "shopName": "Vitrine360",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mqhpurv94nb423",
+        "productLink": "https://shopee.com.br/product/1386679095/23394200396",
+        "offerLink": "https://s.shopee.com.br/W6UfVd12H"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23693404566",
       "name": "240 a 24 tiras (120 a 12 duplas) Cera Pronta Design Sobrancelhas Facial Babosa Morango Hortela Mel",
       "price": 12.9,
@@ -25737,6 +25795,35 @@
       "_last_price": null
     },
     {
+      "id": "58259794589",
+      "name": "Ração Gato MiaCat Todas As Raças Filhote e Adulto 27g Proteína Sem Corante",
+      "price": 70.99,
+      "original_price": 99.99,
+      "discount": 29.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mp0u7xd7ojk03d",
+      "link": "https://s.shopee.com.br/3LQg43cYqq",
+      "rating": "4.9",
+      "sales": 1601,
+      "shop": "Petistrô",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58259794589,
+        "productName": "Ração Gato MiaCat Todas As Raças Filhote e Adulto 27g Proteína Sem Corante",
+        "price": "70.99",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.08",
+        "sales": 1601,
+        "ratingStar": "4.9",
+        "shopName": "Petistrô",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mp0u7xd7ojk03d",
+        "productLink": "https://shopee.com.br/product/382010808/58259794589",
+        "offerLink": "https://s.shopee.com.br/3LQg43cYqq"
+      },
+      "_last_price": null
+    },
+    {
       "id": "11327686991",
       "name": "Peitoral de cachorro grande médio ou pequeno porte coleira guia Boxer Labrador Akita pastor pitbull",
       "price": 19.87,
@@ -26255,35 +26342,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mobx7hnycrgjc0",
         "productLink": "https://shopee.com.br/product/1509105042/19398297649",
         "offerLink": "https://s.shopee.com.br/9fKjaOGeAy"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58259794589",
-      "name": "Ração Gato MiaCat Todas As Raças Filhote e Adulto 27g Proteína Sem Corante",
-      "price": 71.99,
-      "original_price": 99.99,
-      "discount": 28.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mp0u7xd7ojk03d",
-      "link": "https://s.shopee.com.br/3LQg43cYqq",
-      "rating": "4.9",
-      "sales": 1601,
-      "shop": "Petistrô",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58259794589,
-        "productName": "Ração Gato MiaCat Todas As Raças Filhote e Adulto 27g Proteína Sem Corante",
-        "price": "71.99",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.08",
-        "sales": 1601,
-        "ratingStar": "4.9",
-        "shopName": "Petistrô",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mp0u7xd7ojk03d",
-        "productLink": "https://shopee.com.br/product/382010808/58259794589",
-        "offerLink": "https://s.shopee.com.br/3LQg43cYqq"
       },
       "_last_price": null
     },
@@ -29971,35 +30029,6 @@
       "_last_price": null
     },
     {
-      "id": "19975160032",
-      "name": "Panela De Pressão Fechamento Externo Antiaderente 4,5L Nacional",
-      "price": 149.0,
-      "original_price": 186.25,
-      "discount": 20.0,
-      "commission": 0.1,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mo9nab0ho2klbf",
-      "link": "https://s.shopee.com.br/6Akp2F7A2b",
-      "rating": "4.9",
-      "sales": 3980,
-      "shop": "Alumínio Nacional",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19975160032,
-        "productName": "Panela De Pressão Fechamento Externo Antiaderente 4,5L Nacional",
-        "price": "149",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.1",
-        "sales": 3980,
-        "ratingStar": "4.9",
-        "shopName": "Alumínio Nacional",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mo9nab0ho2klbf",
-        "productLink": "https://shopee.com.br/product/359066629/19975160032",
-        "offerLink": "https://s.shopee.com.br/6Akp2F7A2b"
-      },
-      "_last_price": null
-    },
-    {
       "id": "10834033011",
       "name": "Panela de Pressao Polida Fortlar - A - Escolha o Tamanho",
       "price": 51.6,
@@ -31131,35 +31160,6 @@
       "_last_price": null
     },
     {
-      "id": "23394200396",
-      "name": "Kit Sabonete + Hidratante + Esfoliante Rhenuks 200ml Corpo e Rosto 10 fragrâncias",
-      "price": 29.98,
-      "original_price": 36.12,
-      "discount": 17.0,
-      "commission": 0.18,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mqhpurv94nb423",
-      "link": "https://s.shopee.com.br/W6UfVd12H",
-      "rating": "4.8",
-      "sales": 2217,
-      "shop": "Vitrine360",
-      "category": "creme facial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23394200396,
-        "productName": "Kit Sabonete + Hidratante + Esfoliante Rhenuks 200ml Corpo e Rosto 10 fragrâncias",
-        "price": "29.98",
-        "priceDiscountRate": 17,
-        "commissionRate": "0.18",
-        "sales": 2217,
-        "ratingStar": "4.8",
-        "shopName": "Vitrine360",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mqhpurv94nb423",
-        "productLink": "https://shopee.com.br/product/1386679095/23394200396",
-        "offerLink": "https://s.shopee.com.br/W6UfVd12H"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23298210857",
       "name": "Perfume Touti Vip Fit Lux Todas Fragrancias Masculino Feminino Luxo Alta Fixacao",
       "price": 33.1,
@@ -32026,6 +32026,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1plzu4dymmgae",
         "productLink": "https://shopee.com.br/product/398944029/22202389512",
         "offerLink": "https://s.shopee.com.br/1qbsHIiGtP"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23999229020",
+      "name": "Grama Para Gato Mister– Auxilia na Digestão e Bola de Pelo / Fácil de Plantar",
+      "price": 12.66,
+      "original_price": 14.89,
+      "discount": 15.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mlbgryfc46x33c",
+      "link": "https://s.shopee.com.br/6Akry4K5q7",
+      "rating": "4.9",
+      "sales": 1083,
+      "shop": "miauaumix",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23999229020,
+        "productName": "Grama Para Gato Mister– Auxilia na Digestão e Bola de Pelo / Fácil de Plantar",
+        "price": "12.66",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.13",
+        "sales": 1083,
+        "ratingStar": "4.9",
+        "shopName": "miauaumix",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mlbgryfc46x33c",
+        "productLink": "https://shopee.com.br/product/1522148833/23999229020",
+        "offerLink": "https://s.shopee.com.br/6Akry4K5q7"
       },
       "_last_price": null
     },
