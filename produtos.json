@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T21:24:48.317614+00:00",
-  "total": 1124,
+  "updated_at": "2026-09-09T21:43:47.354441+00:00",
+  "total": 1123,
   "products": [
     {
       "id": "23698808886",
@@ -1100,7 +1100,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mp21h8cy5w5i1c",
         "productLink": "https://shopee.com.br/product/1567204121/58261933291",
         "offerLink": "https://s.shopee.com.br/4Azn2GFzTs"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23218022612",
@@ -4370,8 +4371,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lpeqenr9v2ol5b",
         "productLink": "https://shopee.com.br/product/392271277/19397504534",
         "offerLink": "https://s.shopee.com.br/AUtqa1jySn"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "26653666612",
@@ -4428,6 +4428,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mrm3hs9i1b0k13",
         "productLink": "https://shopee.com.br/product/1736765436/58215814488",
         "offerLink": "https://s.shopee.com.br/9fKjaJMnA1"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58253894256",
+      "name": "Comfort Boom Perfume Para Roupas Em Cristais 275g",
+      "price": 27.28,
+      "original_price": 77.94,
+      "discount": 65.0,
+      "commission": 0.09,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mrnc54pvl2pwf1",
+      "link": "https://s.shopee.com.br/6q0YNWaojQ",
+      "rating": "4.9",
+      "sales": 665,
+      "shop": "Mga Produtos",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58253894256,
+        "productName": "Comfort Boom Perfume Para Roupas Em Cristais 275g",
+        "price": "27.28",
+        "priceDiscountRate": 65,
+        "commissionRate": "0.09",
+        "sales": 665,
+        "ratingStar": "4.9",
+        "shopName": "Mga Produtos",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mrnc54pvl2pwf1",
+        "productLink": "https://shopee.com.br/product/1661742891/58253894256",
+        "offerLink": "https://s.shopee.com.br/6q0YNWaojQ"
       },
       "_last_price": null
     },
@@ -5853,35 +5882,6 @@
       "_last_price": null
     },
     {
-      "id": "58260576959",
-      "name": "Teclado Mecânico Gamer RGB 68 Teclas Eixo Vermelho USB+2.4G+BT ABNT2 TK08",
-      "price": 149.99,
-      "original_price": 394.71,
-      "discount": 62.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mos2w4d46ww35f",
-      "link": "https://s.shopee.com.br/Ln6JEYtcR",
-      "rating": "5",
-      "sales": 291,
-      "shop": "TechLar-MGS",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58260576959,
-        "productName": "Teclado Mecânico Gamer RGB 68 Teclas Eixo Vermelho USB+2.4G+BT ABNT2 TK08",
-        "price": "149.99",
-        "priceDiscountRate": 62,
-        "commissionRate": "0.13",
-        "sales": 291,
-        "ratingStar": "5",
-        "shopName": "TechLar-MGS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mos2w4d46ww35f",
-        "productLink": "https://shopee.com.br/product/1814169023/58260576959",
-        "offerLink": "https://s.shopee.com.br/Ln6JEYtcR"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22297157910",
       "name": "Kit de 6/12/24 Esponjas de Maquiagem - Perfeitas para Base, Corretivo e Contorno, Cores Vibrantes e Ecológicas",
       "price": 10.77,
@@ -6404,35 +6404,6 @@
       "_last_price": null
     },
     {
-      "id": "18899553687",
-      "name": "Kit Shampoo 1LT + Condicionador 1LT + Máscara 500g + Oleo 7ml OU 60ml - Karssellé",
-      "price": 38.99,
-      "original_price": 99.97,
-      "discount": 61.0,
-      "commission": 0.19,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mrm0k1f8sj5zd3",
-      "link": "https://s.shopee.com.br/7AdQk8T1ef",
-      "rating": "4.8",
-      "sales": 903,
-      "shop": "Crazy Beauty",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18899553687,
-        "productName": "Kit Shampoo 1LT + Condicionador 1LT + Máscara 500g + Oleo 7ml OU 60ml - Karssellé",
-        "price": "38.99",
-        "priceDiscountRate": 61,
-        "commissionRate": "0.19",
-        "sales": 903,
-        "ratingStar": "4.8",
-        "shopName": "Crazy Beauty",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mrm0k1f8sj5zd3",
-        "productLink": "https://shopee.com.br/product/569696363/18899553687",
-        "offerLink": "https://s.shopee.com.br/7AdQk8T1ef"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58205100450",
       "name": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
       "price": 38.9,
@@ -6632,35 +6603,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mrso0o76o9hjc8",
         "productLink": "https://shopee.com.br/product/1833299974/51660992141",
         "offerLink": "https://s.shopee.com.br/1Vz1rSANnQ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "25669672370",
-      "name": "Isca Artificial Whopper Popper 13g/10cm 6cm/6g Rotativa Flutuante Iscas De Pesca Top Água Atraindo peixes",
-      "price": 2.9,
-      "original_price": 7.44,
-      "discount": 61.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcca-lt13vvuslr1ef1",
-      "link": "https://s.shopee.com.br/8V8mCKEfc4",
-      "rating": "4.9",
-      "sales": 495,
-      "shop": "zhongyu.br",
-      "category": "isca artificial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 25669672370,
-        "productName": "Isca Artificial Whopper Popper 13g/10cm 6cm/6g Rotativa Flutuante Iscas De Pesca Top Água Atraindo peixes",
-        "price": "2.9",
-        "priceDiscountRate": 61,
-        "commissionRate": "0.03",
-        "sales": 495,
-        "ratingStar": "4.9",
-        "shopName": "zhongyu.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcca-lt13vvuslr1ef1",
-        "productLink": "https://shopee.com.br/product/647546523/25669672370",
-        "offerLink": "https://s.shopee.com.br/8V8mCKEfc4"
       },
       "_last_price": null
     },
@@ -8608,6 +8550,35 @@
       "_last_price": null
     },
     {
+      "id": "58260576959",
+      "name": "Teclado Mecânico Gamer RGB 68 Teclas Eixo Vermelho USB+2.4G+BT ABNT2 TK08",
+      "price": 159.99,
+      "original_price": 372.07,
+      "discount": 57.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mos2w4d46ww35f",
+      "link": "https://s.shopee.com.br/Ln6JEYtcR",
+      "rating": "5",
+      "sales": 291,
+      "shop": "TechLar-MGS",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58260576959,
+        "productName": "Teclado Mecânico Gamer RGB 68 Teclas Eixo Vermelho USB+2.4G+BT ABNT2 TK08",
+        "price": "159.99",
+        "priceDiscountRate": 57,
+        "commissionRate": "0.13",
+        "sales": 291,
+        "ratingStar": "5",
+        "shopName": "TechLar-MGS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mos2w4d46ww35f",
+        "productLink": "https://shopee.com.br/product/1814169023/58260576959",
+        "offerLink": "https://s.shopee.com.br/Ln6JEYtcR"
+      },
+      "_last_price": null
+    },
+    {
       "id": "45562032588",
       "name": "Chaveiro Anti Estresse Teclado Mecânico Teclas Fidget Sensorial Clicker Qualidade",
       "price": 12.99,
@@ -10319,35 +10290,6 @@
       "_last_price": null
     },
     {
-      "id": "22694408785",
-      "name": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
-      "price": 879.99,
-      "original_price": 1913.02,
-      "discount": 54.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mr97xwjossn825",
-      "link": "https://s.shopee.com.br/2LY8qoBeXv",
-      "rating": "4.9",
-      "sales": 114,
-      "shop": "Xuwei Digital",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22694408785,
-        "productName": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
-        "price": "879.99",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.11",
-        "sales": 114,
-        "ratingStar": "4.9",
-        "shopName": "Xuwei Digital",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mr97xwjossn825",
-        "productLink": "https://shopee.com.br/product/956346509/22694408785",
-        "offerLink": "https://s.shopee.com.br/2LY8qoBeXv"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58207485901",
       "name": "Repetidor WiFi Profissional 2800m 6 Antenas Roteador Amplificador de Sinal Modem 300Mbps",
       "price": 52.98,
@@ -10953,6 +10895,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mljzudnhshdw7f",
         "productLink": "https://shopee.com.br/product/1658947107/22799125551",
         "offerLink": "https://s.shopee.com.br/7AdOeHh9Tp"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22694408785",
+      "name": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
+      "price": 889.99,
+      "original_price": 1893.6,
+      "discount": 53.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mr97xwjossn825",
+      "link": "https://s.shopee.com.br/2LY8qoBeXv",
+      "rating": "4.9",
+      "sales": 114,
+      "shop": "Xuwei Digital",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22694408785,
+        "productName": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
+        "price": "889.99",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.11",
+        "sales": 114,
+        "ratingStar": "4.9",
+        "shopName": "Xuwei Digital",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mr97xwjossn825",
+        "productLink": "https://shopee.com.br/product/956346509/22694408785",
+        "offerLink": "https://s.shopee.com.br/2LY8qoBeXv"
       },
       "_last_price": null
     },
@@ -13273,35 +13244,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
         "productLink": "https://shopee.com.br/product/1625666693/58265081114",
         "offerLink": "https://s.shopee.com.br/9zxZywyiTS"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18098210626",
-      "name": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
-      "price": 8.87,
-      "original_price": 17.74,
-      "discount": 50.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rff2-m95cllpltuw9dc",
-      "link": "https://s.shopee.com.br/W6UfUqTrr",
-      "rating": "4.9",
-      "sales": 2802,
-      "shop": "mypetone",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18098210626,
-        "productName": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
-        "price": "8.87",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.11",
-        "sales": 2802,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rff2-m95cllpltuw9dc",
-        "productLink": "https://shopee.com.br/product/290073877/18098210626",
-        "offerLink": "https://s.shopee.com.br/W6UfUqTrr"
       },
       "_last_price": null
     },
@@ -22325,6 +22267,35 @@
       "_last_price": null
     },
     {
+      "id": "25669672370",
+      "name": "Isca Artificial Whopper Popper 13g/10cm 6cm/6g Rotativa Flutuante Iscas De Pesca Top Água Atraindo peixes",
+      "price": 7.9,
+      "original_price": 12.34,
+      "discount": 36.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcca-lt13vvuslr1ef1",
+      "link": "https://s.shopee.com.br/8V8mCKEfc4",
+      "rating": "4.9",
+      "sales": 495,
+      "shop": "zhongyu.br",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 25669672370,
+        "productName": "Isca Artificial Whopper Popper 13g/10cm 6cm/6g Rotativa Flutuante Iscas De Pesca Top Água Atraindo peixes",
+        "price": "7.9",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 495,
+        "ratingStar": "4.9",
+        "shopName": "zhongyu.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcca-lt13vvuslr1ef1",
+        "productLink": "https://shopee.com.br/product/647546523/25669672370",
+        "offerLink": "https://s.shopee.com.br/8V8mCKEfc4"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22894551427",
       "name": "Canivete Dobrável Aço Inox com Trava para Camping Pesca Churrasco Multiuso",
       "price": 22.64,
@@ -25602,6 +25573,35 @@
       "_last_price": null
     },
     {
+      "id": "14494160625",
+      "name": "Kit Shampoo + Condicionador SOS Bomba Original Salon Line 200ml",
+      "price": 19.95,
+      "original_price": 28.5,
+      "discount": 30.0,
+      "commission": 0.21,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259g-msbwy1o9n30qbe",
+      "link": "https://s.shopee.com.br/3LQg2ht20T",
+      "rating": "4.9",
+      "sales": 4116,
+      "shop": "Salon Line",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 14494160625,
+        "productName": "Kit Shampoo + Condicionador SOS Bomba Original Salon Line 200ml",
+        "price": "19.95",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.21",
+        "sales": 4116,
+        "ratingStar": "4.9",
+        "shopName": "Salon Line",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-msbwy1o9n30qbe",
+        "productLink": "https://shopee.com.br/product/616222685/14494160625",
+        "offerLink": "https://s.shopee.com.br/3LQg2ht20T"
+      },
+      "_last_price": null
+    },
+    {
       "id": "9319243207",
       "name": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
       "price": 25.9,
@@ -28212,35 +28212,6 @@
       "_last_price": null
     },
     {
-      "id": "21299208174",
-      "name": "Air Fryer Philco 4,4L Antiaderente Redstone 1500W PFR15PI",
-      "price": 261.9,
-      "original_price": 349.2,
-      "discount": 25.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825au-msk23mah9katb4",
-      "link": "https://s.shopee.com.br/6fh82CCPDg",
-      "rating": "5",
-      "sales": 1525,
-      "shop": "Philco Oficial",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21299208174,
-        "productName": "Air Fryer Philco 4,4L Antiaderente Redstone 1500W PFR15PI",
-        "price": "261.9",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.03",
-        "sales": 1525,
-        "ratingStar": "5",
-        "shopName": "Philco Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825au-msk23mah9katb4",
-        "productLink": "https://shopee.com.br/product/811034337/21299208174",
-        "offerLink": "https://s.shopee.com.br/6fh82CCPDg"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18775453273",
       "name": "Liquidificador Britânia 2,6L 900W 4 Lâminas BLQ970P Turbo",
       "price": 119.9,
@@ -28614,35 +28585,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztn-mkl0jgpjbnr623",
         "productLink": "https://shopee.com.br/product/1285432434/52606084679",
         "offerLink": "https://s.shopee.com.br/AAH0BDlxvN"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22396235066",
-      "name": "Lava Roupas Liquido Urca Lavanda - 5L",
-      "price": 29.9,
-      "original_price": 39.34,
-      "discount": 24.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7qvfx-lki79klhmzcp46",
-      "link": "https://s.shopee.com.br/9V1JUYV0qB",
-      "rating": "4.9",
-      "sales": 1109,
-      "shop": "Casa de Gê",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22396235066,
-        "productName": "Lava Roupas Liquido Urca Lavanda - 5L",
-        "price": "29.9",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.13",
-        "sales": 1109,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvfx-lki79klhmzcp46",
-        "productLink": "https://shopee.com.br/product/534023108/22396235066",
-        "offerLink": "https://s.shopee.com.br/9V1JUYV0qB"
       },
       "_last_price": null
     },
@@ -29923,6 +29865,35 @@
       "_last_price": null
     },
     {
+      "id": "57205646686",
+      "name": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
+      "price": 181.77,
+      "original_price": 230.09,
+      "discount": 21.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
+      "link": "https://s.shopee.com.br/BTg72WdNy",
+      "rating": "4.9",
+      "sales": 2027,
+      "shop": "BESTBYBRASILGOLD",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57205646686,
+        "productName": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
+        "price": "181.77",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.03",
+        "sales": 2027,
+        "ratingStar": "4.9",
+        "shopName": "BESTBYBRASILGOLD",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
+        "productLink": "https://shopee.com.br/product/1494297971/57205646686",
+        "offerLink": "https://s.shopee.com.br/BTg72WdNy"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21745736877",
       "name": "Kit Pesca Completo 1 Vara 1,70m + 1 Molinete + Itens",
       "price": 61.89,
@@ -30441,35 +30412,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-msflhqky5jicbf",
         "productLink": "https://shopee.com.br/product/446247790/9987415279",
         "offerLink": "https://s.shopee.com.br/20vISHxR7q"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22098776751",
-      "name": "Creatina Pura 300g - Black Skull",
-      "price": 35.92,
-      "original_price": 44.9,
-      "discount": 20.0,
-      "commission": 0.06,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcnp94a3cyyp7c",
-      "link": "https://s.shopee.com.br/Ln6JJb06t",
-      "rating": "4.9",
-      "sales": 930,
-      "shop": "Armazém Pura Saúde",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22098776751,
-        "productName": "Creatina Pura 300g - Black Skull",
-        "price": "35.92",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.06",
-        "sales": 930,
-        "ratingStar": "4.9",
-        "shopName": "Armazém Pura Saúde",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcnp94a3cyyp7c",
-        "productLink": "https://shopee.com.br/product/1346435001/22098776751",
-        "offerLink": "https://s.shopee.com.br/Ln6JJb06t"
       },
       "_last_price": null
     },
@@ -31224,6 +31166,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mnu1b8jsl1qc98",
         "productLink": "https://shopee.com.br/product/1492668721/22594240741",
         "offerLink": "https://s.shopee.com.br/4Azn4lsZZX"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22098776751",
+      "name": "Creatina Pura 300g - Black Skull",
+      "price": 36.99,
+      "original_price": 45.11,
+      "discount": 18.0,
+      "commission": 0.06,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcnp94a3cyyp7c",
+      "link": "https://s.shopee.com.br/Ln6JJb06t",
+      "rating": "4.9",
+      "sales": 930,
+      "shop": "Armazém Pura Saúde",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22098776751,
+        "productName": "Creatina Pura 300g - Black Skull",
+        "price": "36.99",
+        "priceDiscountRate": 18,
+        "commissionRate": "0.06",
+        "sales": 930,
+        "ratingStar": "4.9",
+        "shopName": "Armazém Pura Saúde",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcnp94a3cyyp7c",
+        "productLink": "https://shopee.com.br/product/1346435001/22098776751",
+        "offerLink": "https://s.shopee.com.br/Ln6JJb06t"
       },
       "_last_price": null
     },
