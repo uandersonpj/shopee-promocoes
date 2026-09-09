@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T03:33:27.677796+00:00",
+  "updated_at": "2026-09-09T03:52:06.309743+00:00",
   "total": 1133,
   "products": [
     {
@@ -954,7 +954,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyp5enbirpg574",
         "productLink": "https://shopee.com.br/product/443105265/23897691943",
         "offerLink": "https://s.shopee.com.br/5q812gJR9c"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58200141324",
@@ -9246,6 +9247,35 @@
       "_last_price": null
     },
     {
+      "id": "58211030740",
+      "name": "DISPENSER PORTA SABÃO DETERGENTE LÍQUIDO COM BUCHA ESPONJA",
+      "price": 13.1,
+      "original_price": 29.77,
+      "discount": 56.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823r7-mogurigpiio937",
+      "link": "https://s.shopee.com.br/8pld2POteU",
+      "rating": "4.8",
+      "sales": 1119,
+      "shop": "STORM SHOP",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58211030740,
+        "productName": "DISPENSER PORTA SABÃO DETERGENTE LÍQUIDO COM BUCHA ESPONJA",
+        "price": "13.1",
+        "priceDiscountRate": 56,
+        "commissionRate": "0.07",
+        "sales": 1119,
+        "ratingStar": "4.8",
+        "shopName": "STORM SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r7-mogurigpiio937",
+        "productLink": "https://shopee.com.br/product/941242744/58211030740",
+        "offerLink": "https://s.shopee.com.br/8pld2POteU"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22994148851",
       "name": "PROMOÇÃO FAZ 25 LITROS DE DESINFETANTE CONCENTRADO COM 500ML | VÁRIAS FRAGRÂNCIAS",
       "price": 10.19,
@@ -13248,6 +13278,35 @@
       "_last_price": null
     },
     {
+      "id": "18098210626",
+      "name": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
+      "price": 8.87,
+      "original_price": 17.74,
+      "discount": 50.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rff2-m95cllpltuw9dc",
+      "link": "https://s.shopee.com.br/W6UfUqTrr",
+      "rating": "4.9",
+      "sales": 2803,
+      "shop": "mypetone",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18098210626,
+        "productName": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
+        "price": "8.87",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.11",
+        "sales": 2803,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rff2-m95cllpltuw9dc",
+        "productLink": "https://shopee.com.br/product/290073877/18098210626",
+        "offerLink": "https://s.shopee.com.br/W6UfUqTrr"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23193620740",
       "name": "Quebrador Sol Painel Guarda Sol Proteção Solar Uv Para-brisa Carro Painel Protetor Universal",
       "price": 17.8,
@@ -14901,35 +14960,6 @@
       "_last_price": null
     },
     {
-      "id": "58211803676",
-      "name": "240Kg Carretilha De Pesca Com Marine Sports Pitching 6.2 : 1 Alta 10kg Max Molinete De Pesca Molinete Pesca Mulinete",
-      "price": 41.99,
-      "original_price": 80.75,
-      "discount": 48.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823po-moz60vl5kbgh34",
-      "link": "https://s.shopee.com.br/4LJDEe8f5P",
-      "rating": "4.8",
-      "sales": 255,
-      "shop": "JOYBELLA ",
-      "category": "carretilha pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58211803676,
-        "productName": "240Kg Carretilha De Pesca Com Marine Sports Pitching 6.2 : 1 Alta 10kg Max Molinete De Pesca Molinete Pesca Mulinete",
-        "price": "41.99",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.07",
-        "sales": 255,
-        "ratingStar": "4.8",
-        "shopName": "JOYBELLA ",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823po-moz60vl5kbgh34",
-        "productLink": "https://shopee.com.br/product/1820598106/58211803676",
-        "offerLink": "https://s.shopee.com.br/4LJDEe8f5P"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22394297488",
       "name": "Kit 2 90kg Maximum Carretel De Pesca Profissional 18 + 1BB 5 ; 2 1 De Metal Para Mão Esquerda E Direita",
       "price": 93.8,
@@ -14984,64 +15014,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262u-mld5a49ibgun9e",
         "productLink": "https://shopee.com.br/product/1541645210/28642994952",
         "offerLink": "https://s.shopee.com.br/4qFTpZ6l4W"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58261800923",
-      "name": "Carretilha Carretel Pesca Direito ou Esquerdo 19+1 Rolamentos 7.2:1",
-      "price": 41.99,
-      "original_price": 80.75,
-      "discount": 48.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823ov-moz5zk98v8cu7f",
-      "link": "https://s.shopee.com.br/4fw3dG7OPV",
-      "rating": "4.8",
-      "sales": 244,
-      "shop": "JOYBELLA ",
-      "category": "carretilha pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58261800923,
-        "productName": "Carretilha Carretel Pesca Direito ou Esquerdo 19+1 Rolamentos 7.2:1",
-        "price": "41.99",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.07",
-        "sales": 244,
-        "ratingStar": "4.8",
-        "shopName": "JOYBELLA ",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823ov-moz5zk98v8cu7f",
-        "productLink": "https://shopee.com.br/product/1820598106/58261800923",
-        "offerLink": "https://s.shopee.com.br/4fw3dG7OPV"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22794535550",
-      "name": "220Kg Carretilha De Pesca Cana De Pesca Molinete Magnético12 + 1BB Baitcasting Fishing Reel",
-      "price": 41.99,
-      "original_price": 80.75,
-      "discount": 48.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825az-mfusbpi6wufdf7",
-      "link": "https://s.shopee.com.br/6fh80vzmM4",
-      "rating": "4.8",
-      "sales": 139,
-      "shop": " HANVIK",
-      "category": "carretilha pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22794535550,
-        "productName": "220Kg Carretilha De Pesca Cana De Pesca Molinete Magnético12 + 1BB Baitcasting Fishing Reel",
-        "price": "41.99",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.07",
-        "sales": 139,
-        "ratingStar": "4.8",
-        "shopName": " HANVIK",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825az-mfusbpi6wufdf7",
-        "productLink": "https://shopee.com.br/product/1620496963/22794535550",
-        "offerLink": "https://s.shopee.com.br/6fh80vzmM4"
       },
       "_last_price": null
     },
@@ -16496,6 +16468,35 @@
       "_last_price": null
     },
     {
+      "id": "58211803676",
+      "name": "240Kg Carretilha De Pesca Com Marine Sports Pitching 6.2 : 1 Alta 10kg Max Molinete De Pesca Molinete Pesca Mulinete",
+      "price": 42.99,
+      "original_price": 79.61,
+      "discount": 46.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823po-moz60vl5kbgh34",
+      "link": "https://s.shopee.com.br/4LJDEe8f5P",
+      "rating": "4.8",
+      "sales": 255,
+      "shop": "JOYBELLA ",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58211803676,
+        "productName": "240Kg Carretilha De Pesca Com Marine Sports Pitching 6.2 : 1 Alta 10kg Max Molinete De Pesca Molinete Pesca Mulinete",
+        "price": "42.99",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.07",
+        "sales": 255,
+        "ratingStar": "4.8",
+        "shopName": "JOYBELLA ",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823po-moz60vl5kbgh34",
+        "productLink": "https://shopee.com.br/product/1820598106/58211803676",
+        "offerLink": "https://s.shopee.com.br/4LJDEe8f5P"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18699721825",
       "name": "Kit 1-4 Vara De Pesca 60-120lbs Completa Com Molinete Esportiva Ao Ar Livre Robalo Portátil Com Linha",
       "price": 39.0,
@@ -16583,6 +16584,35 @@
       "_last_price": null
     },
     {
+      "id": "58261800923",
+      "name": "Carretilha Carretel Pesca Direito ou Esquerdo 19+1 Rolamentos 7.2:1",
+      "price": 42.99,
+      "original_price": 79.61,
+      "discount": 46.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823ov-moz5zk98v8cu7f",
+      "link": "https://s.shopee.com.br/4fw3dG7OPV",
+      "rating": "4.8",
+      "sales": 244,
+      "shop": "JOYBELLA ",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58261800923,
+        "productName": "Carretilha Carretel Pesca Direito ou Esquerdo 19+1 Rolamentos 7.2:1",
+        "price": "42.99",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.07",
+        "sales": 244,
+        "ratingStar": "4.8",
+        "shopName": "JOYBELLA ",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823ov-moz5zk98v8cu7f",
+        "productLink": "https://shopee.com.br/product/1820598106/58261800923",
+        "offerLink": "https://s.shopee.com.br/4fw3dG7OPV"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23193478084",
       "name": "Kit Pesca Esportiva: Carretilha Perfil Baixo 17+1 Rolamentos Drag 10kg + Vara Carbono 1,80m Branca",
       "price": 160.55,
@@ -16608,6 +16638,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mma1oopty2vb75",
         "productLink": "https://shopee.com.br/product/1045152671/23193478084",
         "offerLink": "https://s.shopee.com.br/3LQg2oCT7N"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22794535550",
+      "name": "220Kg Carretilha De Pesca Cana De Pesca Molinete Magnético12 + 1BB Baitcasting Fishing Reel",
+      "price": 42.99,
+      "original_price": 79.61,
+      "discount": 46.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825az-mfusbpi6wufdf7",
+      "link": "https://s.shopee.com.br/6fh80vzmM4",
+      "rating": "4.8",
+      "sales": 139,
+      "shop": " HANVIK",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22794535550,
+        "productName": "220Kg Carretilha De Pesca Cana De Pesca Molinete Magnético12 + 1BB Baitcasting Fishing Reel",
+        "price": "42.99",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.07",
+        "sales": 139,
+        "ratingStar": "4.8",
+        "shopName": " HANVIK",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825az-mfusbpi6wufdf7",
+        "productLink": "https://shopee.com.br/product/1620496963/22794535550",
+        "offerLink": "https://s.shopee.com.br/6fh80vzmM4"
       },
       "_last_price": null
     },
@@ -18841,6 +18900,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
         "productLink": "https://shopee.com.br/product/786353833/22598826303",
         "offerLink": "https://s.shopee.com.br/9052n4qPI2"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23993722158",
+      "name": "Fonte Atx 700w Real 80 Plus Bronze Bivolt Automática",
+      "price": 232.0,
+      "original_price": 400.0,
+      "discount": 42.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820me-mosdcm5n2rrae2",
+      "link": "https://s.shopee.com.br/9KhtBh6fUl",
+      "rating": "4.9",
+      "sales": 38,
+      "shop": "VLC168",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23993722158,
+        "productName": "Fonte Atx 700w Real 80 Plus Bronze Bivolt Automática",
+        "price": "232",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.03",
+        "sales": 38,
+        "ratingStar": "4.9",
+        "shopName": "VLC168",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mosdcm5n2rrae2",
+        "productLink": "https://shopee.com.br/product/1477583261/23993722158",
+        "offerLink": "https://s.shopee.com.br/9KhtBh6fUl"
       },
       "_last_price": null
     },
@@ -23195,35 +23283,6 @@
       "_last_price": null
     },
     {
-      "id": "22494696420",
-      "name": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
-      "price": 28.39,
-      "original_price": 43.02,
-      "discount": 34.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3zupa92neo67",
-      "link": "https://s.shopee.com.br/5LBkdTMzcq",
-      "rating": "4.9",
-      "sales": 625,
-      "shop": "Chegô",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22494696420,
-        "productName": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
-        "price": "28.39",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.03",
-        "sales": 625,
-        "ratingStar": "4.9",
-        "shopName": "Chegô",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3zupa92neo67",
-        "productLink": "https://shopee.com.br/product/1248266601/22494696420",
-        "offerLink": "https://s.shopee.com.br/5LBkdTMzcq"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22098965747",
       "name": "casinha cama toca lglu 3 em 1 para cães e gatos tamanho P,M,G,GG fundo impermeável colchão removível linha Premium",
       "price": 32.9,
@@ -25689,35 +25748,6 @@
       "_last_price": null
     },
     {
-      "id": "14494160625",
-      "name": "Kit Shampoo + Condicionador SOS Bomba Original Salon Line 200ml",
-      "price": 19.95,
-      "original_price": 28.5,
-      "discount": 30.0,
-      "commission": 0.21,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259g-msbwy1o9n30qbe",
-      "link": "https://s.shopee.com.br/3LQg2ht20T",
-      "rating": "4.9",
-      "sales": 4198,
-      "shop": "Salon Line",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 14494160625,
-        "productName": "Kit Shampoo + Condicionador SOS Bomba Original Salon Line 200ml",
-        "price": "19.95",
-        "priceDiscountRate": 30,
-        "commissionRate": "0.21",
-        "sales": 4198,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-msbwy1o9n30qbe",
-        "productLink": "https://shopee.com.br/product/616222685/14494160625",
-        "offerLink": "https://s.shopee.com.br/3LQg2ht20T"
-      },
-      "_last_price": null
-    },
-    {
       "id": "9319243207",
       "name": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
       "price": 25.9,
@@ -26120,35 +26150,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mr23zuayoq2va0",
         "productLink": "https://shopee.com.br/product/1539159949/58264970543",
         "offerLink": "https://s.shopee.com.br/W6UfR16QI"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22093079004",
-      "name": "Fonte Atx 700w Real 80 Plus Bronze Bivolt Automática",
-      "price": 239.0,
-      "original_price": 336.62,
-      "discount": 29.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lq-moscaxa64lj7a4",
-      "link": "https://s.shopee.com.br/70JyPPFYE1",
-      "rating": "4.9",
-      "sales": 127,
-      "shop": "XL168 COM",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22093079004,
-        "productName": "Fonte Atx 700w Real 80 Plus Bronze Bivolt Automática",
-        "price": "239",
-        "priceDiscountRate": 29,
-        "commissionRate": "0.03",
-        "sales": 127,
-        "ratingStar": "4.9",
-        "shopName": "XL168 COM",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-moscaxa64lj7a4",
-        "productLink": "https://shopee.com.br/product/1225374638/22093079004",
-        "offerLink": "https://s.shopee.com.br/70JyPPFYE1"
       },
       "_last_price": null
     },
@@ -28208,6 +28209,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rasn-man7dwuzomle57",
         "productLink": "https://shopee.com.br/product/1194006916/19699443228",
         "offerLink": "https://s.shopee.com.br/6VNhoZShbZ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22494696420",
+      "name": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
+      "price": 32.29,
+      "original_price": 43.05,
+      "discount": 25.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3zupa92neo67",
+      "link": "https://s.shopee.com.br/5LBkdTMzcq",
+      "rating": "4.9",
+      "sales": 625,
+      "shop": "Chegô",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22494696420,
+        "productName": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
+        "price": "32.29",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.03",
+        "sales": 625,
+        "ratingStar": "4.9",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3zupa92neo67",
+        "productLink": "https://shopee.com.br/product/1248266601/22494696420",
+        "offerLink": "https://s.shopee.com.br/5LBkdTMzcq"
       },
       "_last_price": null
     },
@@ -30909,35 +30939,6 @@
       "_last_price": null
     },
     {
-      "id": "10323346820",
-      "name": "Boné De Pesca Trucker Aba Curva Pescador Ajustável Com Telinha",
-      "price": 27.99,
-      "original_price": 34.99,
-      "discount": 20.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mqno43vd13b504",
-      "link": "https://s.shopee.com.br/9fKk8aZkn8",
-      "rating": "4.9",
-      "sales": 66,
-      "shop": "AP12 store",
-      "category": "boné pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 10323346820,
-        "productName": "Boné De Pesca Trucker Aba Curva Pescador Ajustável Com Telinha",
-        "price": "27.99",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.03",
-        "sales": 66,
-        "ratingStar": "4.9",
-        "shopName": "AP12 store",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mqno43vd13b504",
-        "productLink": "https://shopee.com.br/product/413134736/10323346820",
-        "offerLink": "https://s.shopee.com.br/9fKk8aZkn8"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58203972338",
       "name": "Kit Chumbadas de Pesca Bola com Estojo Organizador | 60 Peças Vários Pesos Pesqueiro Rio | Oferta",
       "price": 35.9,
@@ -32388,35 +32389,6 @@
       "_last_price": null
     },
     {
-      "id": "9570518567",
-      "name": "Liw 100 Peças Bolas Ovais Iscas Pesca Luminosas Flutuador Flutuante Marítima A @ Edge",
-      "price": 12.47,
-      "original_price": 14.85,
-      "discount": 16.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/afbbd260b25ebb25f36d8e241418f01a",
-      "link": "https://s.shopee.com.br/3g3WRTjBYh",
-      "rating": "4.7",
-      "sales": 14,
-      "shop": "liweike2.br",
-      "category": "flutuador pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 9570518567,
-        "productName": "Liw 100 Peças Bolas Ovais Iscas Pesca Luminosas Flutuador Flutuante Marítima A @ Edge",
-        "price": "12.47",
-        "priceDiscountRate": 16,
-        "commissionRate": "0.07",
-        "sales": 14,
-        "ratingStar": "4.7",
-        "shopName": "liweike2.br",
-        "imageUrl": "https://cf.shopee.com.br/file/afbbd260b25ebb25f36d8e241418f01a",
-        "productLink": "https://shopee.com.br/product/288253249/9570518567",
-        "offerLink": "https://s.shopee.com.br/3g3WRTjBYh"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18998573561",
       "name": "Amaciante Ruth Care Colinho da Vovó - 1l",
       "price": 7.48,
@@ -32848,6 +32820,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mn5n7qgurf9gf0",
         "productLink": "https://shopee.com.br/product/256077772/22798299188",
         "offerLink": "https://s.shopee.com.br/40gMq4ZWNR"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "9570518567",
+      "name": "Liw 100 Peças Bolas Ovais Iscas Pesca Luminosas Flutuador Flutuante Marítima A @ Edge",
+      "price": 12.57,
+      "original_price": 14.79,
+      "discount": 15.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/afbbd260b25ebb25f36d8e241418f01a",
+      "link": "https://s.shopee.com.br/3g3WRTjBYh",
+      "rating": "4.7",
+      "sales": 14,
+      "shop": "liweike2.br",
+      "category": "flutuador pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 9570518567,
+        "productName": "Liw 100 Peças Bolas Ovais Iscas Pesca Luminosas Flutuador Flutuante Marítima A @ Edge",
+        "price": "12.57",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.07",
+        "sales": 14,
+        "ratingStar": "4.7",
+        "shopName": "liweike2.br",
+        "imageUrl": "https://cf.shopee.com.br/file/afbbd260b25ebb25f36d8e241418f01a",
+        "productLink": "https://shopee.com.br/product/288253249/9570518567",
+        "offerLink": "https://s.shopee.com.br/3g3WRTjBYh"
       },
       "_last_price": null
     }
