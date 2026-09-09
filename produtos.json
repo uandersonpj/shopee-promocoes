@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T04:29:17.531130+00:00",
-  "total": 1132,
+  "updated_at": "2026-09-09T04:47:52.735285+00:00",
+  "total": 1130,
   "products": [
     {
       "id": "23698808886",
@@ -347,7 +347,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823p5-mp4meqki2g3k68",
         "productLink": "https://shopee.com.br/product/1006215031/47000945292",
         "offerLink": "https://s.shopee.com.br/4fw3dIWz1V"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58265198384",
@@ -9481,35 +9482,6 @@
       "_last_price": null
     },
     {
-      "id": "45054396139",
-      "name": "Ração úmida Friskies Sabores Variados para Gatos 15x85 g",
-      "price": 34.9,
-      "original_price": 79.32,
-      "discount": 56.0,
-      "commission": 0.21,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
-      "link": "https://s.shopee.com.br/9fKjbhERzf",
-      "rating": "5",
-      "sales": 15767,
-      "shop": "LeluPets",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45054396139,
-        "productName": "Ração úmida Friskies Sabores Variados para Gatos 15x85 g",
-        "price": "34.9",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.21",
-        "sales": 15767,
-        "ratingStar": "5",
-        "shopName": "LeluPets",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
-        "productLink": "https://shopee.com.br/product/293152127/45054396139",
-        "offerLink": "https://s.shopee.com.br/9fKjbhERzf"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58252572971",
       "name": "Kit 12/24/36 Forminhas Silicone Cupcake Empadinha Air Fryer",
       "price": 10.99,
@@ -14121,6 +14093,35 @@
       "_last_price": null
     },
     {
+      "id": "45054396139",
+      "name": "Ração úmida Friskies Sabores Variados para Gatos 15x85 g",
+      "price": 40.9,
+      "original_price": 80.2,
+      "discount": 49.0,
+      "commission": 0.21,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
+      "link": "https://s.shopee.com.br/9fKjbhERzf",
+      "rating": "5",
+      "sales": 15767,
+      "shop": "LeluPets",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 45054396139,
+        "productName": "Ração úmida Friskies Sabores Variados para Gatos 15x85 g",
+        "price": "40.9",
+        "priceDiscountRate": 49,
+        "commissionRate": "0.21",
+        "sales": 15767,
+        "ratingStar": "5",
+        "shopName": "LeluPets",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
+        "productLink": "https://shopee.com.br/product/293152127/45054396139",
+        "offerLink": "https://s.shopee.com.br/9fKjbhERzf"
+      },
+      "_last_price": null
+    },
+    {
       "id": "57650069638",
       "name": "Coleira De Gato Tag e plaquinha de identificação com nome e telefone Anti Enforcamento",
       "price": 18.31,
@@ -16698,35 +16699,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mj58f9izsc915e",
         "productLink": "https://shopee.com.br/product/935991633/42160394708",
         "offerLink": "https://s.shopee.com.br/3Vk6F9OV5S"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "41661864285",
-      "name": "Kit 3 Varas Telescópicas Lisa / 3,60M - 40% Carbono - C.W 8-18lbs",
-      "price": 69.9,
-      "original_price": 129.44,
-      "discount": 46.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md4hll4oyux787",
-      "link": "https://s.shopee.com.br/W6Ufe4a9N",
-      "rating": "4.8",
-      "sales": 308,
-      "shop": "YJ Fishing Tackle Shop",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41661864285,
-        "productName": "Kit 3 Varas Telescópicas Lisa / 3,60M - 40% Carbono - C.W 8-18lbs",
-        "price": "69.9",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.03",
-        "sales": 308,
-        "ratingStar": "4.8",
-        "shopName": "YJ Fishing Tackle Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md4hll4oyux787",
-        "productLink": "https://shopee.com.br/product/1550289846/41661864285",
-        "offerLink": "https://s.shopee.com.br/W6Ufe4a9N"
       },
       "_last_price": null
     },
@@ -26341,7 +26313,7 @@
       "rating": "4.9",
       "sales": 95,
       "shop": "CLICK & VIVA",
-      "category": "chumbada",
+      "category": "vara telescopica",
       "source": "shopee",
       "_item": {
         "itemId": 22498752326,
@@ -26645,35 +26617,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mrruxmhgyayu5b",
         "productLink": "https://shopee.com.br/product/392233183/21598000970",
         "offerLink": "https://s.shopee.com.br/5AsKfgC7Wj"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23498778973",
-      "name": "Protetor Solar Facial Hidrabene Clareador FPS 70 Antissinais Clareia a pele Toque Seco 50g Unidade ou Kit",
-      "price": 43.97,
-      "original_price": 61.07,
-      "discount": 28.0,
-      "commission": 0.075,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwt-mcuquxfbz03yae",
-      "link": "https://s.shopee.com.br/W6UfVLU9O",
-      "rating": "4.9",
-      "sales": 3775,
-      "shop": "Esthik ",
-      "category": "protetor solar",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498778973,
-        "productName": "Protetor Solar Facial Hidrabene Clareador FPS 70 Antissinais Clareia a pele Toque Seco 50g Unidade ou Kit",
-        "price": "43.97",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.075",
-        "sales": 3775,
-        "ratingStar": "4.9",
-        "shopName": "Esthik ",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwt-mcuquxfbz03yae",
-        "productLink": "https://shopee.com.br/product/314834922/23498778973",
-        "offerLink": "https://s.shopee.com.br/W6UfVLU9O"
       },
       "_last_price": null
     },
