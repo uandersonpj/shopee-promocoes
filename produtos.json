@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T03:52:06.309743+00:00",
+  "updated_at": "2026-09-09T04:10:41.334522+00:00",
   "total": 1133,
   "products": [
     {
@@ -868,7 +868,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262f-mllw34rkbgg82a",
         "productLink": "https://shopee.com.br/product/207653029/54259002448",
         "offerLink": "https://s.shopee.com.br/20vISPpWvx"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19860785095",
@@ -13278,35 +13279,6 @@
       "_last_price": null
     },
     {
-      "id": "18098210626",
-      "name": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
-      "price": 8.87,
-      "original_price": 17.74,
-      "discount": 50.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rff2-m95cllpltuw9dc",
-      "link": "https://s.shopee.com.br/W6UfUqTrr",
-      "rating": "4.9",
-      "sales": 2803,
-      "shop": "mypetone",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18098210626,
-        "productName": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
-        "price": "8.87",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.11",
-        "sales": 2803,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rff2-m95cllpltuw9dc",
-        "productLink": "https://shopee.com.br/product/290073877/18098210626",
-        "offerLink": "https://s.shopee.com.br/W6UfUqTrr"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23193620740",
       "name": "Quebrador Sol Painel Guarda Sol Proteção Solar Uv Para-brisa Carro Painel Protetor Universal",
       "price": 17.8,
@@ -13680,35 +13652,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mlwwdr6umzno4b",
         "productLink": "https://shopee.com.br/product/1671644940/58257043096",
         "offerLink": "https://s.shopee.com.br/BTeGxTjRP"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58262952643",
-      "name": "Tenis Feminino Plataforma Couro ou Tecido Promoção Hoje, MACIO, DURADOURO, BARATO ENVIO RAPIDO",
-      "price": 44.95,
-      "original_price": 89.9,
-      "discount": 50.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mpnvhzwh0jk08a",
-      "link": "https://s.shopee.com.br/3LQg45SxDy",
-      "rating": "4.3",
-      "sales": 34,
-      "shop": "Brunao Calçados",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58262952643,
-        "productName": "Tenis Feminino Plataforma Couro ou Tecido Promoção Hoje, MACIO, DURADOURO, BARATO ENVIO RAPIDO",
-        "price": "44.95",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.03",
-        "sales": 34,
-        "ratingStar": "4.3",
-        "shopName": "Brunao Calçados",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mpnvhzwh0jk08a",
-        "productLink": "https://shopee.com.br/product/1378030163/58262952643",
-        "offerLink": "https://s.shopee.com.br/3LQg45SxDy"
       },
       "_last_price": null
     },
@@ -24588,6 +24531,35 @@
       "_last_price": null
     },
     {
+      "id": "22494696420",
+      "name": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
+      "price": 29.19,
+      "original_price": 42.93,
+      "discount": 32.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3zupa92neo67",
+      "link": "https://s.shopee.com.br/5LBkdTMzcq",
+      "rating": "4.9",
+      "sales": 625,
+      "shop": "Chegô",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22494696420,
+        "productName": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
+        "price": "29.19",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.03",
+        "sales": 625,
+        "ratingStar": "4.9",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3zupa92neo67",
+        "productLink": "https://shopee.com.br/product/1248266601/22494696420",
+        "offerLink": "https://s.shopee.com.br/5LBkdTMzcq"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23697597322",
       "name": "Petisco Para Gatos Churu 56g - Contém 4 Tubets De 14g Cada Unidade - Vários Sabores",
       "price": 22.9,
@@ -24613,35 +24585,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzrq3b4jnz1hb3",
         "productLink": "https://shopee.com.br/product/293152127/23697597322",
         "offerLink": "https://s.shopee.com.br/BTeIEocGv"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "11869643265",
-      "name": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
-      "price": 99.99,
-      "original_price": 147.04,
-      "discount": 32.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
-      "link": "https://s.shopee.com.br/W6UgqnLb1",
-      "rating": "4.9",
-      "sales": 3198,
-      "shop": "Popular Pet",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 11869643265,
-        "productName": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
-        "price": "99.99",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.03",
-        "sales": 3198,
-        "ratingStar": "4.9",
-        "shopName": "Popular Pet",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
-        "productLink": "https://shopee.com.br/product/398944029/11869643265",
-        "offerLink": "https://s.shopee.com.br/W6UgqnLb1"
       },
       "_last_price": null
     },
@@ -25748,6 +25691,35 @@
       "_last_price": null
     },
     {
+      "id": "14494160625",
+      "name": "Kit Shampoo + Condicionador SOS Bomba Original Salon Line 200ml",
+      "price": 19.95,
+      "original_price": 28.5,
+      "discount": 30.0,
+      "commission": 0.21,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259g-msbwy1o9n30qbe",
+      "link": "https://s.shopee.com.br/3LQg2ht20T",
+      "rating": "4.9",
+      "sales": 4198,
+      "shop": "Salon Line",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 14494160625,
+        "productName": "Kit Shampoo + Condicionador SOS Bomba Original Salon Line 200ml",
+        "price": "19.95",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.21",
+        "sales": 4198,
+        "ratingStar": "4.9",
+        "shopName": "Salon Line",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-msbwy1o9n30qbe",
+        "productLink": "https://shopee.com.br/product/616222685/14494160625",
+        "offerLink": "https://s.shopee.com.br/3LQg2ht20T"
+      },
+      "_last_price": null
+    },
+    {
       "id": "9319243207",
       "name": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
       "price": 25.9,
@@ -26730,6 +26702,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mrruxmhgyayu5b",
         "productLink": "https://shopee.com.br/product/392233183/21598000970",
         "offerLink": "https://s.shopee.com.br/5AsKfgC7Wj"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23498778973",
+      "name": "Protetor Solar Facial Hidrabene Clareador FPS 70 Antissinais Clareia a pele Toque Seco 50g Unidade ou Kit",
+      "price": 43.97,
+      "original_price": 61.07,
+      "discount": 28.0,
+      "commission": 0.075,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwt-mcuquxfbz03yae",
+      "link": "https://s.shopee.com.br/W6UfVLU9O",
+      "rating": "4.9",
+      "sales": 3775,
+      "shop": "Esthik ",
+      "category": "protetor solar",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498778973,
+        "productName": "Protetor Solar Facial Hidrabene Clareador FPS 70 Antissinais Clareia a pele Toque Seco 50g Unidade ou Kit",
+        "price": "43.97",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.075",
+        "sales": 3775,
+        "ratingStar": "4.9",
+        "shopName": "Esthik ",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwt-mcuquxfbz03yae",
+        "productLink": "https://shopee.com.br/product/314834922/23498778973",
+        "offerLink": "https://s.shopee.com.br/W6UfVLU9O"
       },
       "_last_price": null
     },
@@ -28213,35 +28214,6 @@
       "_last_price": null
     },
     {
-      "id": "22494696420",
-      "name": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
-      "price": 32.29,
-      "original_price": 43.05,
-      "discount": 25.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3zupa92neo67",
-      "link": "https://s.shopee.com.br/5LBkdTMzcq",
-      "rating": "4.9",
-      "sales": 625,
-      "shop": "Chegô",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22494696420,
-        "productName": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
-        "price": "32.29",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.03",
-        "sales": 625,
-        "ratingStar": "4.9",
-        "shopName": "Chegô",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3zupa92neo67",
-        "productLink": "https://shopee.com.br/product/1248266601/22494696420",
-        "offerLink": "https://s.shopee.com.br/5LBkdTMzcq"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22799500311",
       "name": "Casinha de Gato 2 Andares Playground Rampa Arranhador Toca Felino Brinquedo Degrau Casa",
       "price": 59.9,
@@ -29688,6 +29660,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfxa7no9rsam46",
         "productLink": "https://shopee.com.br/product/880893726/20698436405",
         "offerLink": "https://s.shopee.com.br/1Lfbf6uE49"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19197267729",
+      "name": "Tênis Feminino adulto plataforma casual leve e confortável na promoção lançamento",
+      "price": 49.9,
+      "original_price": 63.97,
+      "discount": 22.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrpsa6iy0bhg91",
+      "link": "https://s.shopee.com.br/9KhtBoPlpy",
+      "rating": "4.8",
+      "sales": 2327,
+      "shop": "E.calçados",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19197267729,
+        "productName": "Tênis Feminino adulto plataforma casual leve e confortável na promoção lançamento",
+        "price": "49.9",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.13",
+        "sales": 2327,
+        "ratingStar": "4.8",
+        "shopName": "E.calçados",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrpsa6iy0bhg91",
+        "productLink": "https://shopee.com.br/product/621356911/19197267729",
+        "offerLink": "https://s.shopee.com.br/9KhtBoPlpy"
       },
       "_last_price": null
     },
