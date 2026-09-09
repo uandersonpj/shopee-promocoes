@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T01:21:32.725806+00:00",
+  "updated_at": "2026-09-09T01:40:40.107189+00:00",
   "total": 1111,
   "products": [
     {
@@ -429,7 +429,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyoeedt37dlhb3",
         "productLink": "https://shopee.com.br/product/394192376/21897733919",
         "offerLink": "https://s.shopee.com.br/BTeGv4PqR"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58258026087",
@@ -1291,8 +1292,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
         "productLink": "https://shopee.com.br/product/1006215031/25074712287",
         "offerLink": "https://s.shopee.com.br/9KhtBrBUv9"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "19396856446",
@@ -5872,35 +5872,6 @@
       "_last_price": null
     },
     {
-      "id": "58205100450",
-      "name": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
-      "price": 37.96,
-      "original_price": 99.89,
-      "discount": 62.0,
-      "commission": 0.23,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-      "link": "https://s.shopee.com.br/qjL47bkMR",
-      "rating": "4.8",
-      "sales": 2317,
-      "shop": "Ela&Ela",
-      "category": "creme facial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58205100450,
-        "productName": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
-        "price": "37.96",
-        "priceDiscountRate": 62,
-        "commissionRate": "0.23",
-        "sales": 2317,
-        "ratingStar": "4.8",
-        "shopName": "Ela&Ela",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-        "productLink": "https://shopee.com.br/product/1638239765/58205100450",
-        "offerLink": "https://s.shopee.com.br/qjL47bkMR"
-      },
-      "_last_price": null
-    },
-    {
       "id": "55806745399",
       "name": "Carrinho de Controle Remoto  Esportivo Com Luz Super Rápido Veloz Abre Porta",
       "price": 45.9,
@@ -6249,6 +6220,35 @@
       "_last_price": null
     },
     {
+      "id": "58205100450",
+      "name": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
+      "price": 38.9,
+      "original_price": 99.74,
+      "discount": 61.0,
+      "commission": 0.23,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
+      "link": "https://s.shopee.com.br/qjL47bkMR",
+      "rating": "4.8",
+      "sales": 2317,
+      "shop": "Ela&Ela",
+      "category": "creme facial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58205100450,
+        "productName": "Creme Firmador com Colágeno e Q10 250ml - Firmeza, Hidratação e Rejuvenescimento",
+        "price": "38.9",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.23",
+        "sales": 2317,
+        "ratingStar": "4.8",
+        "shopName": "Ela&Ela",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
+        "productLink": "https://shopee.com.br/product/1638239765/58205100450",
+        "offerLink": "https://s.shopee.com.br/qjL47bkMR"
+      },
+      "_last_price": null
+    },
+    {
       "id": "9830388367",
       "name": "Mochila Maternidade Bolsa Mamãe Bebê Multifunção",
       "price": 27.55,
@@ -6539,6 +6539,35 @@
       "_last_price": null
     },
     {
+      "id": "18041672374",
+      "name": "Varas De Pesca Cintas De Vara Elásticas Para Suportes Com Cabo , Giratórias E Moscas",
+      "price": 6.62,
+      "original_price": 16.97,
+      "discount": 61.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/5b5410afe0de079b0e0e64b72926d686",
+      "link": "https://s.shopee.com.br/8fSDDkRNDR",
+      "rating": "4.8",
+      "sales": 9,
+      "shop": "VanFishing Isca Pesca.br",
+      "category": "suporte vara pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18041672374,
+        "productName": "Varas De Pesca Cintas De Vara Elásticas Para Suportes Com Cabo , Giratórias E Moscas",
+        "price": "6.62",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.07",
+        "sales": 9,
+        "ratingStar": "4.8",
+        "shopName": "VanFishing Isca Pesca.br",
+        "imageUrl": "https://cf.shopee.com.br/file/5b5410afe0de079b0e0e64b72926d686",
+        "productLink": "https://shopee.com.br/product/504210070/18041672374",
+        "offerLink": "https://s.shopee.com.br/8fSDDkRNDR"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23898664618",
       "name": "Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Recarregável e 150h de Bateria",
       "price": 39.69,
@@ -6564,35 +6593,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbofl4hbm2ef45",
         "productLink": "https://shopee.com.br/product/1331886707/23898664618",
         "offerLink": "https://s.shopee.com.br/6q0YFfiQ9n"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23596569225",
-      "name": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
-      "price": 39.99,
-      "original_price": 99.97,
-      "discount": 60.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
-      "link": "https://s.shopee.com.br/6VNhr3jgpl",
-      "rating": "4.8",
-      "sales": 3565,
-      "shop": "ME MERCADO",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23596569225,
-        "productName": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
-        "price": "39.99",
-        "priceDiscountRate": 60,
-        "commissionRate": "0.07",
-        "sales": 3565,
-        "ratingStar": "4.8",
-        "shopName": "ME MERCADO",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
-        "productLink": "https://shopee.com.br/product/392239188/23596569225",
-        "offerLink": "https://s.shopee.com.br/6VNhr3jgpl"
       },
       "_last_price": null
     },
@@ -7202,6 +7202,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mr6gthnbpcsn5b",
         "productLink": "https://shopee.com.br/product/1593671035/22994482073",
         "offerLink": "https://s.shopee.com.br/6L4HcOqR2f"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23596569225",
+      "name": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
+      "price": 40.99,
+      "original_price": 99.98,
+      "discount": 59.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
+      "link": "https://s.shopee.com.br/6VNhr3jgpl",
+      "rating": "4.8",
+      "sales": 3565,
+      "shop": "ME MERCADO",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23596569225,
+        "productName": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
+        "price": "40.99",
+        "priceDiscountRate": 59,
+        "commissionRate": "0.07",
+        "sales": 3565,
+        "ratingStar": "4.8",
+        "shopName": "ME MERCADO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
+        "productLink": "https://shopee.com.br/product/392239188/23596569225",
+        "offerLink": "https://s.shopee.com.br/6VNhr3jgpl"
       },
       "_last_price": null
     },
@@ -11004,35 +11033,6 @@
       "_last_price": null
     },
     {
-      "id": "19198335914",
-      "name": "Kit Sino Duplo Alarme Para Vara De Pesca Suporte Sinalizador Guizo Sininho Clipe Universal",
-      "price": 10.07,
-      "original_price": 21.43,
-      "discount": 53.0,
-      "commission": 0.09,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh56v1mbfpxcf7",
-      "link": "https://s.shopee.com.br/1gIS3odKkd",
-      "rating": "4.9",
-      "sales": 264,
-      "shop": "tiopescada",
-      "category": "suporte vara pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19198335914,
-        "productName": "Kit Sino Duplo Alarme Para Vara De Pesca Suporte Sinalizador Guizo Sininho Clipe Universal",
-        "price": "10.07",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.09",
-        "sales": 264,
-        "ratingStar": "4.9",
-        "shopName": "tiopescada",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh56v1mbfpxcf7",
-        "productLink": "https://shopee.com.br/product/1641676028/19198335914",
-        "offerLink": "https://s.shopee.com.br/1gIS3odKkd"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23698804974",
       "name": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
       "price": 10.99,
@@ -13088,35 +13088,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mlwwdr6umzno4b",
         "productLink": "https://shopee.com.br/product/1671644940/58257043096",
         "offerLink": "https://s.shopee.com.br/BTeGxTjRP"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58262952643",
-      "name": "Tenis Feminino Plataforma Couro ou Tecido Promoção Hoje, MACIO, DURADOURO, BARATO ENVIO RAPIDO",
-      "price": 44.95,
-      "original_price": 89.9,
-      "discount": 50.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mpnvhzwh0jk08a",
-      "link": "https://s.shopee.com.br/3LQg45SxDy",
-      "rating": "4.3",
-      "sales": 34,
-      "shop": "Brunao Calçados",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58262952643,
-        "productName": "Tenis Feminino Plataforma Couro ou Tecido Promoção Hoje, MACIO, DURADOURO, BARATO ENVIO RAPIDO",
-        "price": "44.95",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.03",
-        "sales": 34,
-        "ratingStar": "4.3",
-        "shopName": "Brunao Calçados",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mpnvhzwh0jk08a",
-        "productLink": "https://shopee.com.br/product/1378030163/58262952643",
-        "offerLink": "https://s.shopee.com.br/3LQg45SxDy"
       },
       "_last_price": null
     },
@@ -21241,6 +21212,35 @@
       "_last_price": null
     },
     {
+      "id": "58213132264",
+      "name": "Base Amaciante Concentrada 60ml Faz Até 20 Litros PolyAromas",
+      "price": 17.9,
+      "original_price": 27.97,
+      "discount": 36.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mpv0faokq877d2",
+      "link": "https://s.shopee.com.br/60RRNzdzQD",
+      "rating": "4.8",
+      "sales": 834,
+      "shop": "POLYAROMAS",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58213132264,
+        "productName": "Base Amaciante Concentrada 60ml Faz Até 20 Litros PolyAromas",
+        "price": "17.9",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 834,
+        "ratingStar": "4.8",
+        "shopName": "POLYAROMAS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mpv0faokq877d2",
+        "productLink": "https://shopee.com.br/product/1556613786/58213132264",
+        "offerLink": "https://s.shopee.com.br/60RRNzdzQD"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23899161746",
       "name": "Porta Detergente Rack Armazenamento De Cozinha Organizador Dispenser Sabão Aço Inox Para Pia",
       "price": 31.98,
@@ -23064,35 +23064,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6dbywlo5kslf5",
         "productLink": "https://shopee.com.br/product/596156024/23998205183",
         "offerLink": "https://s.shopee.com.br/9V1JTPbh86"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20597494947",
-      "name": "Saca Areia Fixador Âncora Suporte Guarda Sol E Vara De Pesca Praia Verão Camping Cores Variadas",
-      "price": 19.74,
-      "original_price": 29.91,
-      "discount": 34.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbl1-lnvsaqnslu3qe2",
-      "link": "https://s.shopee.com.br/2qUPRxYtOC",
-      "rating": "4.9",
-      "sales": 69,
-      "shop": "PENSOU.COMPROU.LEVOU",
-      "category": "suporte vara pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20597494947,
-        "productName": "Saca Areia Fixador Âncora Suporte Guarda Sol E Vara De Pesca Praia Verão Camping Cores Variadas",
-        "price": "19.74",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.03",
-        "sales": 69,
-        "ratingStar": "4.9",
-        "shopName": "PENSOU.COMPROU.LEVOU",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbl1-lnvsaqnslu3qe2",
-        "productLink": "https://shopee.com.br/product/1074001909/20597494947",
-        "offerLink": "https://s.shopee.com.br/2qUPRxYtOC"
       },
       "_last_price": null
     },
@@ -28951,6 +28922,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltpqm0qa514v1c",
         "productLink": "https://shopee.com.br/product/329573891/3292012631",
         "offerLink": "https://s.shopee.com.br/6L4HdbHX8n"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19197267729",
+      "name": "Tênis Feminino adulto plataforma casual leve e confortável na promoção lançamento",
+      "price": 49.9,
+      "original_price": 63.97,
+      "discount": 22.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrpsa6iy0bhg91",
+      "link": "https://s.shopee.com.br/9KhtBoPlpy",
+      "rating": "4.8",
+      "sales": 2327,
+      "shop": "E.calçados",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19197267729,
+        "productName": "Tênis Feminino adulto plataforma casual leve e confortável na promoção lançamento",
+        "price": "49.9",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.13",
+        "sales": 2327,
+        "ratingStar": "4.8",
+        "shopName": "E.calçados",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrpsa6iy0bhg91",
+        "productLink": "https://shopee.com.br/product/621356911/19197267729",
+        "offerLink": "https://s.shopee.com.br/9KhtBoPlpy"
       },
       "_last_price": null
     },
