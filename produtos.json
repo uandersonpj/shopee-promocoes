@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T01:02:39.118442+00:00",
-  "total": 1113,
+  "updated_at": "2026-09-09T01:21:32.725806+00:00",
+  "total": 1111,
   "products": [
     {
       "id": "23698808886",
@@ -342,7 +342,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mr6w05iemznofe",
         "productLink": "https://shopee.com.br/product/1896341737/58265198384",
         "offerLink": "https://s.shopee.com.br/2LY8qqx6X7"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "55508691646",
@@ -773,8 +774,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262f-mllw34rkbgg82a",
         "productLink": "https://shopee.com.br/product/207653029/54259002448",
         "offerLink": "https://s.shopee.com.br/20vISPpWvx"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "19860785095",
@@ -3069,7 +3069,7 @@
       "discount": 68.0,
       "commission": 0.1,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7ra1a-mbjbbhgogn4q6c",
-      "link": "https://s.shopee.com.br/4VcdQx81kQ",
+      "link": "https://s.shopee.com.br/20vJEoegMn",
       "rating": "4.7",
       "sales": 243,
       "shop": "DiaEconômico",
@@ -3086,36 +3086,7 @@
         "shopName": "DiaEconômico",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra1a-mbjbbhgogn4q6c",
         "productLink": "https://shopee.com.br/product/1398716274/23494180407",
-        "offerLink": "https://s.shopee.com.br/4VcdQx81kQ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "42806494664",
-      "name": "Molinete HE Série 1000-7000 Carretel em Metal Empunhadura EVA 10kg Limite Marítimo Oceânico",
-      "price": 25.99,
-      "original_price": 81.22,
-      "discount": 68.0,
-      "commission": 0.1,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdyk-mch7z6c4ouee89",
-      "link": "https://s.shopee.com.br/Ln4TIfh7x",
-      "rating": "4.7",
-      "sales": 469,
-      "shop": "CarioShop",
-      "category": "molinete pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42806494664,
-        "productName": "Molinete HE Série 1000-7000 Carretel em Metal Empunhadura EVA 10kg Limite Marítimo Oceânico",
-        "price": "25.99",
-        "priceDiscountRate": 68,
-        "commissionRate": "0.1",
-        "sales": 469,
-        "ratingStar": "4.7",
-        "shopName": "CarioShop",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyk-mch7z6c4ouee89",
-        "productLink": "https://shopee.com.br/product/1489659102/42806494664",
-        "offerLink": "https://s.shopee.com.br/Ln4TIfh7x"
+        "offerLink": "https://s.shopee.com.br/20vJEoegMn"
       },
       "_last_price": null
     },
@@ -3735,7 +3706,7 @@
       "discount": 67.0,
       "commission": 0.08,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk0gs1xemhhe9c",
-      "link": "https://s.shopee.com.br/40gMq29vlJ",
+      "link": "https://s.shopee.com.br/1LfcRahDib",
       "rating": "4.8",
       "sales": 144,
       "shop": "GYO COMERCIO LTDA",
@@ -3752,7 +3723,7 @@
         "shopName": "GYO COMERCIO LTDA",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk0gs1xemhhe9c",
         "productLink": "https://shopee.com.br/product/1045152671/20797619594",
-        "offerLink": "https://s.shopee.com.br/40gMq29vlJ"
+        "offerLink": "https://s.shopee.com.br/1LfcRahDib"
       },
       "_last_price": null
     },
@@ -3960,6 +3931,35 @@
       "_last_price": null
     },
     {
+      "id": "58261556193",
+      "name": "Kit 4 Body Splash Egeo Fragancias refrescantes Vanilla e Melancia + Florata Red + Choc (60 ml cada)",
+      "price": 27.9,
+      "original_price": 82.06,
+      "discount": 66.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mosd8f3gbda8d5",
+      "link": "https://s.shopee.com.br/50YuLKpXGJ",
+      "rating": "4.5",
+      "sales": 2065,
+      "shop": "Claro.Wash",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58261556193,
+        "productName": "Kit 4 Body Splash Egeo Fragancias refrescantes Vanilla e Melancia + Florata Red + Choc (60 ml cada)",
+        "price": "27.9",
+        "priceDiscountRate": 66,
+        "commissionRate": "0.03",
+        "sales": 2065,
+        "ratingStar": "4.5",
+        "shopName": "Claro.Wash",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mosd8f3gbda8d5",
+        "productLink": "https://shopee.com.br/product/1136598687/58261556193",
+        "offerLink": "https://s.shopee.com.br/50YuLKpXGJ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "54311772339",
       "name": "2D Plana Acrílico Muscular Fitness Menina Chaveiro Forte Levantamento Haltere Saco Charme Esportes Musculação Acessório",
       "price": 12.0,
@@ -3985,6 +3985,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823of-momen2gbjls2a5",
         "productLink": "https://shopee.com.br/product/1847512446/54311772339",
         "offerLink": "https://s.shopee.com.br/7AdObmqtjx"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "51004391053",
+      "name": "Haltere Ajustável Gallant Com Placas De Peso De 20Kg E Base Elite Pro",
+      "price": 587.02,
+      "original_price": 1726.53,
+      "discount": 66.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mj9nvm63moee73",
+      "link": "https://s.shopee.com.br/3qMwdf3aVM",
+      "rating": "4.9",
+      "sales": 34,
+      "shop": "keepgoingmax.br",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 51004391053,
+        "productName": "Haltere Ajustável Gallant Com Placas De Peso De 20Kg E Base Elite Pro",
+        "price": "587.02",
+        "priceDiscountRate": 66,
+        "commissionRate": "0.03",
+        "sales": 34,
+        "ratingStar": "4.9",
+        "shopName": "keepgoingmax.br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mj9nvm63moee73",
+        "productLink": "https://shopee.com.br/product/1613783173/51004391053",
+        "offerLink": "https://s.shopee.com.br/3qMwdf3aVM"
       },
       "_last_price": null
     },
@@ -6053,7 +6082,7 @@
       "discount": 62.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ma-ms25ofatd89183",
-      "link": "https://s.shopee.com.br/4Azn2L9IQK",
+      "link": "https://s.shopee.com.br/1Vz2dtgaNc",
       "rating": "4.9",
       "sales": 215,
       "shop": "MagiLeaf Outdoor",
@@ -6070,7 +6099,7 @@
         "shopName": "MagiLeaf Outdoor",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-ms25ofatd89183",
         "productLink": "https://shopee.com.br/product/1506274241/58208730980",
-        "offerLink": "https://s.shopee.com.br/4Azn2L9IQK"
+        "offerLink": "https://s.shopee.com.br/1Vz2dtgaNc"
       },
       "_last_price": null
     },
@@ -6216,6 +6245,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7ntzxcbzyxg63",
         "productLink": "https://shopee.com.br/product/629805123/22396710686",
         "offerLink": "https://s.shopee.com.br/2BEifqrco4"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "9830388367",
+      "name": "Mochila Maternidade Bolsa Mamãe Bebê Multifunção",
+      "price": 27.55,
+      "original_price": 70.64,
+      "discount": 61.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbnb-lnu59twuc1wo61",
+      "link": "https://s.shopee.com.br/1BMBp9c9fc",
+      "rating": "4.7",
+      "sales": 1620,
+      "shop": "ANJ.GG store",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 9830388367,
+        "productName": "Mochila Maternidade Bolsa Mamãe Bebê Multifunção",
+        "price": "27.55",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.07",
+        "sales": 1620,
+        "ratingStar": "4.7",
+        "shopName": "ANJ.GG store",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbnb-lnu59twuc1wo61",
+        "productLink": "https://shopee.com.br/product/391739739/9830388367",
+        "offerLink": "https://s.shopee.com.br/1BMBp9c9fc"
       },
       "_last_price": null
     },
@@ -7346,6 +7404,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mci6w7lu1s75b8",
         "productLink": "https://shopee.com.br/product/767498858/19099843848",
         "offerLink": "https://s.shopee.com.br/2BEieaNbXI"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22198468630",
+      "name": "Halter Dumbell Emborrachado Sextavado Cromado De 20lb(9.1kg) Um único haltere 1 Unidade",
+      "price": 89.0,
+      "original_price": 217.07,
+      "discount": 59.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m973tgge58ah6c",
+      "link": "https://s.shopee.com.br/70JyPTrX4u",
+      "rating": "4.9",
+      "sales": 22,
+      "shop": "NEW LIFE MOVEMENT",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22198468630,
+        "productName": "Halter Dumbell Emborrachado Sextavado Cromado De 20lb(9.1kg) Um único haltere 1 Unidade",
+        "price": "89",
+        "priceDiscountRate": 59,
+        "commissionRate": "0.03",
+        "sales": 22,
+        "ratingStar": "4.9",
+        "shopName": "NEW LIFE MOVEMENT",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m973tgge58ah6c",
+        "productLink": "https://shopee.com.br/product/1527006524/22198468630",
+        "offerLink": "https://s.shopee.com.br/70JyPTrX4u"
       },
       "_last_price": null
     },
@@ -9960,6 +10047,35 @@
       "_last_price": null
     },
     {
+      "id": "24612462303",
+      "name": "2 Unidades/Par Ginásio Fitness Tiras De Levantamento De Peso Haltere Apertos De Mão Treinamento Faixas De Suporte De Pul",
+      "price": 23.75,
+      "original_price": 51.63,
+      "discount": 54.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823ol-mp4l204vwxdt28",
+      "link": "https://s.shopee.com.br/3Vk6GLlP9f",
+      "rating": "4.9",
+      "sales": 3,
+      "shop": "Value Choice",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 24612462303,
+        "productName": "2 Unidades/Par Ginásio Fitness Tiras De Levantamento De Peso Haltere Apertos De Mão Treinamento Faixas De Suporte De Pul",
+        "price": "23.75",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.07",
+        "sales": 3,
+        "ratingStar": "4.9",
+        "shopName": "Value Choice",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823ol-mp4l204vwxdt28",
+        "productLink": "https://shopee.com.br/product/230709939/24612462303",
+        "offerLink": "https://s.shopee.com.br/3Vk6GLlP9f"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58207663151",
       "name": "Kit 50 a 300 Formas Descartável Para Airfryer Antiaderente Não Suja Cozinha Fritadedira Promoção",
       "price": 10.99,
@@ -10420,35 +10536,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820ll-mnebnollo07c63",
         "productLink": "https://shopee.com.br/product/1765095638/23694943548",
         "offerLink": "https://s.shopee.com.br/9KhtBj1FpO"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58263978690",
-      "name": "Perfume Masculino 100ml Fragrância Amadeirada Marcante Sofisticada Longa Duração",
-      "price": 27.99,
-      "original_price": 59.55,
-      "discount": 53.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lq-mquwe1ttue4jb6",
-      "link": "https://s.shopee.com.br/20vISGolZs",
-      "rating": "4.7",
-      "sales": 2039,
-      "shop": "ZORZA3",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58263978690,
-        "productName": "Perfume Masculino 100ml Fragrância Amadeirada Marcante Sofisticada Longa Duração",
-        "price": "27.99",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.13",
-        "sales": 2039,
-        "ratingStar": "4.7",
-        "shopName": "ZORZA3",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mquwe1ttue4jb6",
-        "productLink": "https://shopee.com.br/product/1769603943/58263978690",
-        "offerLink": "https://s.shopee.com.br/20vISGolZs"
       },
       "_last_price": null
     },
@@ -12773,35 +12860,6 @@
       "_last_price": null
     },
     {
-      "id": "26081325437",
-      "name": "VILKOR 1Pc Ganchos Spotter De Haltere , Barra De Assistência De Peso Multifuncional Com Capacidade De 250lb Resistente ,",
-      "price": 67.78,
-      "original_price": 135.56,
-      "discount": 50.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825a6-mqeaa8veslxcfe",
-      "link": "https://s.shopee.com.br/1BMCFCsOmH",
-      "rating": "4.9",
-      "sales": 4,
-      "shop": "Maoye66 Acessórios de Moda Loja",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 26081325437,
-        "productName": "VILKOR 1Pc Ganchos Spotter De Haltere , Barra De Assistência De Peso Multifuncional Com Capacidade De 250lb Resistente ,",
-        "price": "67.78",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.03",
-        "sales": 4,
-        "ratingStar": "4.9",
-        "shopName": "Maoye66 Acessórios de Moda Loja",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a6-mqeaa8veslxcfe",
-        "productLink": "https://shopee.com.br/product/487896868/26081325437",
-        "offerLink": "https://s.shopee.com.br/1BMCFCsOmH"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58210915793",
       "name": "Elástico Extensor Treino Fitness em 8 EVA Academia Casa Musculação",
       "price": 10.9,
@@ -13494,35 +13552,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztd-mko7wuy13u2q40",
         "productLink": "https://shopee.com.br/product/979724994/58205223096",
         "offerLink": "https://s.shopee.com.br/3B7FqOgKS7"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23598893048",
-      "name": "Colar Haltere Cordão Academia Fitness Maromba Estiloso Elegante",
-      "price": 20.0,
-      "original_price": 39.22,
-      "discount": 49.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-melqs5b5reo0bd",
-      "link": "https://s.shopee.com.br/qjLqatfSF",
-      "rating": "4.8",
-      "sales": 9,
-      "shop": "LojaCaosUrbano",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23598893048,
-        "productName": "Colar Haltere Cordão Academia Fitness Maromba Estiloso Elegante",
-        "price": "20",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.03",
-        "sales": 9,
-        "ratingStar": "4.8",
-        "shopName": "LojaCaosUrbano",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-melqs5b5reo0bd",
-        "productLink": "https://shopee.com.br/product/481230074/23598893048",
-        "offerLink": "https://s.shopee.com.br/qjLqatfSF"
       },
       "_last_price": null
     },
@@ -14973,35 +15002,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
         "productLink": "https://shopee.com.br/product/1727822533/58256070956",
         "offerLink": "https://s.shopee.com.br/3B7FqR67rI"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58258433644",
-      "name": "Camiseta Masculina 100% Algodão Academia Treino Fitness Motivação Masculina Estampa Haltere",
-      "price": 46.11,
-      "original_price": 87.0,
-      "discount": 47.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mmt0c7g8fv9jc6",
-      "link": "https://s.shopee.com.br/9KhtyDNJCp",
-      "rating": "4.7",
-      "sales": 8,
-      "shop": "Tees Simples BR",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58258433644,
-        "productName": "Camiseta Masculina 100% Algodão Academia Treino Fitness Motivação Masculina Estampa Haltere",
-        "price": "46.11",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.03",
-        "sales": 8,
-        "ratingStar": "4.7",
-        "shopName": "Tees Simples BR",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mmt0c7g8fv9jc6",
-        "productLink": "https://shopee.com.br/product/1727822533/58258433644",
-        "offerLink": "https://s.shopee.com.br/9KhtyDNJCp"
       },
       "_last_price": null
     },
@@ -16717,35 +16717,6 @@
       "_last_price": null
     },
     {
-      "id": "42071102324",
-      "name": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
-      "price": 68.75,
-      "original_price": 125.0,
-      "discount": 45.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
-      "link": "https://s.shopee.com.br/60RRDcrPd7",
-      "rating": "4.9",
-      "sales": 4224,
-      "shop": "Clube Kids Baby II",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42071102324,
-        "productName": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
-        "price": "68.75",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.03",
-        "sales": 4224,
-        "ratingStar": "4.9",
-        "shopName": "Clube Kids Baby II",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
-        "productLink": "https://shopee.com.br/product/1450084195/42071102324",
-        "offerLink": "https://s.shopee.com.br/60RRDcrPd7"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20999680446",
       "name": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
       "price": 197.9,
@@ -16945,35 +16916,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mdcys2kotifw21",
         "productLink": "https://shopee.com.br/product/1489642227/43662585077",
         "offerLink": "https://s.shopee.com.br/5q811S1jvp"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23799327537",
-      "name": "Molinete De Pesca De Metal EVA Max Arraste 200kg Cana Em Água Salgada",
-      "price": 49.0,
-      "original_price": 89.09,
-      "discount": 45.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkda6hoti1aa5c",
-      "link": "https://s.shopee.com.br/2BEjR7e31o",
-      "rating": "4.7",
-      "sales": 194,
-      "shop": "Podaodao",
-      "category": "molinete pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23799327537,
-        "productName": "Molinete De Pesca De Metal EVA Max Arraste 200kg Cana Em Água Salgada",
-        "price": "49",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.11",
-        "sales": 194,
-        "ratingStar": "4.7",
-        "shopName": "Podaodao",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkda6hoti1aa5c",
-        "productLink": "https://shopee.com.br/product/1167145056/23799327537",
-        "offerLink": "https://s.shopee.com.br/2BEjR7e31o"
       },
       "_last_price": null
     },
@@ -18370,6 +18312,35 @@
       "_last_price": null
     },
     {
+      "id": "49361248027",
+      "name": "4 Unidades Haste Haltere, Porca Giratória Hexagonal Antiderrapante E Duradoura",
+      "price": 22.88,
+      "original_price": 39.45,
+      "discount": 42.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4w-m6nn7taczt76a8",
+      "link": "https://s.shopee.com.br/4VcdQt139g",
+      "rating": "5",
+      "sales": 16,
+      "shop": "Myrang ",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 49361248027,
+        "productName": "4 Unidades Haste Haltere, Porca Giratória Hexagonal Antiderrapante E Duradoura",
+        "price": "22.88",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.03",
+        "sales": 16,
+        "ratingStar": "5",
+        "shopName": "Myrang ",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4w-m6nn7taczt76a8",
+        "productLink": "https://shopee.com.br/product/285320201/49361248027",
+        "offerLink": "https://s.shopee.com.br/4VcdQt139g"
+      },
+      "_last_price": null
+    },
+    {
       "id": "43828181509",
       "name": "Rampa Casa de Gato Toca Para Gatos Arranhador Brinquedo Playground MDF Carpete 30x47x36cm",
       "price": 28.99,
@@ -19352,35 +19323,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mma1oopty2vb75",
         "productLink": "https://shopee.com.br/product/1045152671/23193478084",
         "offerLink": "https://s.shopee.com.br/3LQg2oCT7N"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23897645862",
-      "name": "Kit Barato Completo 2 Varas + 2 Molinetes",
-      "price": 95.0,
-      "original_price": 158.33,
-      "discount": 40.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lz05bfe111kxb3",
-      "link": "https://s.shopee.com.br/1qbt2VfJhi",
-      "rating": "4.8",
-      "sales": 218,
-      "shop": "Bàodān Garantia oficial",
-      "category": "molinete pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23897645862,
-        "productName": "Kit Barato Completo 2 Varas + 2 Molinetes",
-        "price": "95",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 218,
-        "ratingStar": "4.8",
-        "shopName": "Bàodān Garantia oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lz05bfe111kxb3",
-        "productLink": "https://shopee.com.br/product/1133907149/23897645862",
-        "offerLink": "https://s.shopee.com.br/1qbt2VfJhi"
       },
       "_last_price": null
     },
@@ -20458,6 +20400,35 @@
       "_last_price": null
     },
     {
+      "id": "26083564786",
+      "name": "Barbell Haltere Colar Ginásio Levantamento De Peso Pingente Personalizado Masculino E Feminino Fitness Musculação Acessó",
+      "price": 15.0,
+      "original_price": 24.19,
+      "discount": 38.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rep5-m8l8e0zr5tg9b5",
+      "link": "https://s.shopee.com.br/30npe86lCH",
+      "rating": "4.7",
+      "sales": 14,
+      "shop": "XIAOnline.br",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 26083564786,
+        "productName": "Barbell Haltere Colar Ginásio Levantamento De Peso Pingente Personalizado Masculino E Feminino Fitness Musculação Acessó",
+        "price": "15",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.07",
+        "sales": 14,
+        "ratingStar": "4.7",
+        "shopName": "XIAOnline.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rep5-m8l8e0zr5tg9b5",
+        "productLink": "https://shopee.com.br/product/1215119715/26083564786",
+        "offerLink": "https://s.shopee.com.br/30npe86lCH"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58252717058",
       "name": "kit 3 Mini Band Everlast Faixa Elástica Treino Glúteos Pernas Academia Pilates Musculação Fitness Fisio Resistência",
       "price": 48.9,
@@ -20889,6 +20860,64 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gj-mefrtmf70jyc6e",
         "productLink": "https://shopee.com.br/product/554865709/23194389000",
         "offerLink": "https://s.shopee.com.br/AAH0BIAbu0"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58257853789",
+      "name": "Kit 4 Chaveiros Academia Fitness: Haltere, Kettlebell, Anilhas e Shakeira",
+      "price": 18.9,
+      "original_price": 30.0,
+      "discount": 37.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mo34abhzmdc01c",
+      "link": "https://s.shopee.com.br/3LQdezjHal",
+      "rating": "4.9",
+      "sales": 120,
+      "shop": "Ad´s Store3 D",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58257853789,
+        "productName": "Kit 4 Chaveiros Academia Fitness: Haltere, Kettlebell, Anilhas e Shakeira",
+        "price": "18.9",
+        "priceDiscountRate": 37,
+        "commissionRate": "0.03",
+        "sales": 120,
+        "ratingStar": "4.9",
+        "shopName": "Ad´s Store3 D",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mo34abhzmdc01c",
+        "productLink": "https://shopee.com.br/product/715089031/58257853789",
+        "offerLink": "https://s.shopee.com.br/3LQdezjHal"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "55306790989",
+      "name": "Biela De Haltere De 35cm Com Barras De Halteres Antiderrapantes , Conjunto Universal De Peso Para Exercícios De Fitness ",
+      "price": 67.76,
+      "original_price": 107.56,
+      "discount": 37.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82608-mlg3t5b7qo76ff",
+      "link": "https://s.shopee.com.br/3LQg42m2Uc",
+      "rating": "4.8",
+      "sales": 16,
+      "shop": "TYBLP8Do.br",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 55306790989,
+        "productName": "Biela De Haltere De 35cm Com Barras De Halteres Antiderrapantes , Conjunto Universal De Peso Para Exercícios De Fitness ",
+        "price": "67.76",
+        "priceDiscountRate": 37,
+        "commissionRate": "0.07",
+        "sales": 16,
+        "ratingStar": "4.8",
+        "shopName": "TYBLP8Do.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82608-mlg3t5b7qo76ff",
+        "productLink": "https://shopee.com.br/product/639814975/55306790989",
+        "offerLink": "https://s.shopee.com.br/3LQg42m2Uc"
       },
       "_last_price": null
     },
@@ -22397,35 +22426,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxw-mcanhemu1c1j5a",
         "productLink": "https://shopee.com.br/product/1006215031/29580380931",
         "offerLink": "https://s.shopee.com.br/4LJDEdrCUk"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22897703144",
-      "name": "vara de pesca Joyfox  Vara Molinete1,8m + Carretel Molinete Dc7000 12+1 Rolamentos",
-      "price": 119.0,
-      "original_price": 183.08,
-      "discount": 35.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m81eurdcjlzl56",
-      "link": "https://s.shopee.com.br/112m2yiUOV",
-      "rating": "4.9",
-      "sales": 413,
-      "shop": "GYO COMERCIO LTDA",
-      "category": "molinete pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22897703144,
-        "productName": "vara de pesca Joyfox  Vara Molinete1,8m + Carretel Molinete Dc7000 12+1 Rolamentos",
-        "price": "119",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.07",
-        "sales": 413,
-        "ratingStar": "4.9",
-        "shopName": "GYO COMERCIO LTDA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m81eurdcjlzl56",
-        "productLink": "https://shopee.com.br/product/1045152671/22897703144",
-        "offerLink": "https://s.shopee.com.br/112m2yiUOV"
       },
       "_last_price": null
     },
@@ -27505,35 +27505,6 @@
       "_last_price": null
     },
     {
-      "id": "51812790572",
-      "name": "Firefire 4 Unidades Haste Haltere Porca Barra Parafuso Colar Acessórios Para Halteres",
-      "price": 18.13,
-      "original_price": 24.17,
-      "discount": 25.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824h3-mpvvfyqa4idec5",
-      "link": "https://s.shopee.com.br/gPveHuInC",
-      "rating": "5",
-      "sales": 4,
-      "shop": "firefire.br",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 51812790572,
-        "productName": "Firefire 4 Unidades Haste Haltere Porca Barra Parafuso Colar Acessórios Para Halteres",
-        "price": "18.13",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.07",
-        "sales": 4,
-        "ratingStar": "5",
-        "shopName": "firefire.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h3-mpvvfyqa4idec5",
-        "productLink": "https://shopee.com.br/product/298150839/51812790572",
-        "offerLink": "https://s.shopee.com.br/gPveHuInC"
-      },
-      "_last_price": null
-    },
-    {
       "id": "19699443228",
       "name": "Kit 15 Sachês Dog Chow Ração Úmida Cachorro Sachê para Cachorro Sachê Dog Chow Caixa Sache Cachorro",
       "price": 42.99,
@@ -32112,35 +32083,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1plzu4dymmgae",
         "productLink": "https://shopee.com.br/product/398944029/22202389512",
         "offerLink": "https://s.shopee.com.br/1qbsHIiGtP"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23999229020",
-      "name": "Grama Para Gato Mister– Auxilia na Digestão e Bola de Pelo / Fácil de Plantar",
-      "price": 12.66,
-      "original_price": 14.89,
-      "discount": 15.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mlbgryfc46x33c",
-      "link": "https://s.shopee.com.br/6Akry4K5q7",
-      "rating": "4.9",
-      "sales": 1083,
-      "shop": "miauaumix",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23999229020,
-        "productName": "Grama Para Gato Mister– Auxilia na Digestão e Bola de Pelo / Fácil de Plantar",
-        "price": "12.66",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.13",
-        "sales": 1083,
-        "ratingStar": "4.9",
-        "shopName": "miauaumix",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mlbgryfc46x33c",
-        "productLink": "https://shopee.com.br/product/1522148833/23999229020",
-        "offerLink": "https://s.shopee.com.br/6Akry4K5q7"
       },
       "_last_price": null
     },
