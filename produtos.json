@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T02:37:10.979124+00:00",
-  "total": 1122,
+  "updated_at": "2026-09-09T02:55:59.311413+00:00",
+  "total": 1119,
   "products": [
     {
       "id": "23698808886",
@@ -173,7 +173,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qq-mp4mttd95lald6",
         "productLink": "https://shopee.com.br/product/1006215031/24683837124",
         "offerLink": "https://s.shopee.com.br/9AOSzXhCEk"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "26539956454",
@@ -3956,8 +3957,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lhheh4bnl2dqff",
         "productLink": "https://shopee.com.br/product/976233489/23037452899",
         "offerLink": "https://s.shopee.com.br/3LQg5GYniZ"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22994820028",
@@ -6302,6 +6302,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
         "productLink": "https://shopee.com.br/product/1638239765/58205100450",
         "offerLink": "https://s.shopee.com.br/qjL47bkMR"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "9830388367",
+      "name": "Mochila Maternidade Bolsa Mamãe Bebê Multifunção",
+      "price": 27.55,
+      "original_price": 70.64,
+      "discount": 61.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbnb-lnu59twuc1wo61",
+      "link": "https://s.shopee.com.br/1BMBp9c9fc",
+      "rating": "4.7",
+      "sales": 1620,
+      "shop": "ANJ.GG store",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 9830388367,
+        "productName": "Mochila Maternidade Bolsa Mamãe Bebê Multifunção",
+        "price": "27.55",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.07",
+        "sales": 1620,
+        "ratingStar": "4.7",
+        "shopName": "ANJ.GG store",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbnb-lnu59twuc1wo61",
+        "productLink": "https://shopee.com.br/product/391739739/9830388367",
+        "offerLink": "https://s.shopee.com.br/1BMBp9c9fc"
       },
       "_last_price": null
     },
@@ -8941,35 +8970,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqysjc3ln0nb37",
         "productLink": "https://shopee.com.br/product/1627792845/47214406847",
         "offerLink": "https://s.shopee.com.br/8AVwBGkXIv"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58211030740",
-      "name": "DISPENSER PORTA SABÃO DETERGENTE LÍQUIDO COM BUCHA ESPONJA",
-      "price": 13.1,
-      "original_price": 29.77,
-      "discount": 56.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823r7-mogurigpiio937",
-      "link": "https://s.shopee.com.br/8pld2POteU",
-      "rating": "4.8",
-      "sales": 1119,
-      "shop": "STORM SHOP",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58211030740,
-        "productName": "DISPENSER PORTA SABÃO DETERGENTE LÍQUIDO COM BUCHA ESPONJA",
-        "price": "13.1",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.07",
-        "sales": 1119,
-        "ratingStar": "4.8",
-        "shopName": "STORM SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r7-mogurigpiio937",
-        "productLink": "https://shopee.com.br/product/941242744/58211030740",
-        "offerLink": "https://s.shopee.com.br/8pld2POteU"
       },
       "_last_price": null
     },
@@ -14136,35 +14136,6 @@
       "_last_price": null
     },
     {
-      "id": "23397600706",
-      "name": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
-      "price": 11.8,
-      "original_price": 22.69,
-      "discount": 48.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
-      "link": "https://s.shopee.com.br/AAH0CYNAZt",
-      "rating": "4.9",
-      "sales": 5265,
-      "shop": "ES Official Shop",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23397600706,
-        "productName": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
-        "price": "11.8",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.13",
-        "sales": 5265,
-        "ratingStar": "4.9",
-        "shopName": "ES Official Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
-        "productLink": "https://shopee.com.br/product/988030305/23397600706",
-        "offerLink": "https://s.shopee.com.br/AAH0CYNAZt"
-      },
-      "_last_price": null
-    },
-    {
       "id": "51357135187",
       "name": "Pano de Chão Microfibra 60x80cm Super Absorvente Não Solta Fiapos Seca Rápido",
       "price": 26.9,
@@ -16630,6 +16601,35 @@
       "_last_price": null
     },
     {
+      "id": "23397600706",
+      "name": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
+      "price": 11.8,
+      "original_price": 21.45,
+      "discount": 45.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
+      "link": "https://s.shopee.com.br/AAH0CYNAZt",
+      "rating": "4.9",
+      "sales": 5265,
+      "shop": "ES Official Shop",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23397600706,
+        "productName": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
+        "price": "11.8",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.13",
+        "sales": 5265,
+        "ratingStar": "4.9",
+        "shopName": "ES Official Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
+        "productLink": "https://shopee.com.br/product/988030305/23397600706",
+        "offerLink": "https://s.shopee.com.br/AAH0CYNAZt"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21399647008",
       "name": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Antifrizz",
       "price": 17.9,
@@ -16771,35 +16771,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260x-mkkgf6ke1t6t43",
         "productLink": "https://shopee.com.br/product/1734096999/22794857764",
         "offerLink": "https://s.shopee.com.br/4Azn3YNGxk"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "42071102324",
-      "name": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
-      "price": 68.75,
-      "original_price": 125.0,
-      "discount": 45.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
-      "link": "https://s.shopee.com.br/60RRDcrPd7",
-      "rating": "4.9",
-      "sales": 4224,
-      "shop": "Clube Kids Baby II",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42071102324,
-        "productName": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
-        "price": "68.75",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.03",
-        "sales": 4224,
-        "ratingStar": "4.9",
-        "shopName": "Clube Kids Baby II",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
-        "productLink": "https://shopee.com.br/product/1450084195/42071102324",
-        "offerLink": "https://s.shopee.com.br/60RRDcrPd7"
       },
       "_last_price": null
     },
@@ -19269,93 +19240,6 @@
       "_last_price": null
     },
     {
-      "id": "22094694540",
-      "name": "Ração Úmida Sachê Frango ao Molho 100g para Cães Adultos Pedigree",
-      "price": 2.99,
-      "original_price": 4.98,
-      "discount": 40.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-821ey-mh21l6d9y96y34",
-      "link": "https://s.shopee.com.br/5q811LVExN",
-      "rating": "4.9",
-      "sales": 833,
-      "shop": "Chegô",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22094694540,
-        "productName": "Ração Úmida Sachê Frango ao Molho 100g para Cães Adultos Pedigree",
-        "price": "2.99",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 833,
-        "ratingStar": "4.9",
-        "shopName": "Chegô",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ey-mh21l6d9y96y34",
-        "productLink": "https://shopee.com.br/product/1248266601/22094694540",
-        "offerLink": "https://s.shopee.com.br/5q811LVExN"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58250629296",
-      "name": "Ração Úmida Sachê Carne ao Molho para Cães Adultos Sênior 7 Anos 100g Pedigree",
-      "price": 2.99,
-      "original_price": 4.98,
-      "discount": 40.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-821ds-mh231pg4n2fe78",
-      "link": "https://s.shopee.com.br/6L4HcGTKwW",
-      "rating": "4.9",
-      "sales": 794,
-      "shop": "Chegô",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58250629296,
-        "productName": "Ração Úmida Sachê Carne ao Molho para Cães Adultos Sênior 7 Anos 100g Pedigree",
-        "price": "2.99",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 794,
-        "ratingStar": "4.9",
-        "shopName": "Chegô",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ds-mh231pg4n2fe78",
-        "productLink": "https://shopee.com.br/product/1248266601/58250629296",
-        "offerLink": "https://s.shopee.com.br/6L4HcGTKwW"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23094686745",
-      "name": "Ração Úmida Sachê Carne ao Molho para Cães Filhotes 100g Pedigree",
-      "price": 2.99,
-      "original_price": 4.98,
-      "discount": 40.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-821fr-mh1yzs7q55al7f",
-      "link": "https://s.shopee.com.br/7fZfCiOGEu",
-      "rating": "4.8",
-      "sales": 487,
-      "shop": "Chegô",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23094686745,
-        "productName": "Ração Úmida Sachê Carne ao Molho para Cães Filhotes 100g Pedigree",
-        "price": "2.99",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 487,
-        "ratingStar": "4.8",
-        "shopName": "Chegô",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821fr-mh1yzs7q55al7f",
-        "productLink": "https://shopee.com.br/product/1248266601/23094686745",
-        "offerLink": "https://s.shopee.com.br/7fZfCiOGEu"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18598161767",
       "name": "Coleira Guia Retrátil 3/5 Metros  Pets Cachorro Cães Gatos Resistente Com Trava Até 11.33kg",
       "price": 16.9,
@@ -20657,35 +20541,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mphybw2s8ydd41",
         "productLink": "https://shopee.com.br/product/382010808/58212534130",
         "offerLink": "https://s.shopee.com.br/1Vz1sgjXZJ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22199221114",
-      "name": "Ração Úmida Sachê Carne ao Molho para Gatos Adultos 70g Kitekat",
-      "price": 2.49,
-      "original_price": 4.02,
-      "discount": 38.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-821dv-mh9ig4qgl43v89",
-      "link": "https://s.shopee.com.br/3Vk6GMbvVt",
-      "rating": "4.9",
-      "sales": 1143,
-      "shop": "Chegô",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22199221114,
-        "productName": "Ração Úmida Sachê Carne ao Molho para Gatos Adultos 70g Kitekat",
-        "price": "2.49",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.03",
-        "sales": 1143,
-        "ratingStar": "4.9",
-        "shopName": "Chegô",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821dv-mh9ig4qgl43v89",
-        "productLink": "https://shopee.com.br/product/1248266601/22199221114",
-        "offerLink": "https://s.shopee.com.br/3Vk6GMbvVt"
       },
       "_last_price": null
     },
@@ -22952,6 +22807,35 @@
       "_last_price": null
     },
     {
+      "id": "22494696420",
+      "name": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
+      "price": 28.39,
+      "original_price": 43.02,
+      "discount": 34.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3zupa92neo67",
+      "link": "https://s.shopee.com.br/5LBkdTMzcq",
+      "rating": "4.9",
+      "sales": 625,
+      "shop": "Chegô",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22494696420,
+        "productName": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
+        "price": "28.39",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.03",
+        "sales": 625,
+        "ratingStar": "4.9",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3zupa92neo67",
+        "productLink": "https://shopee.com.br/product/1248266601/22494696420",
+        "offerLink": "https://s.shopee.com.br/5LBkdTMzcq"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22098965747",
       "name": "casinha cama toca lglu 3 em 1 para cães e gatos tamanho P,M,G,GG fundo impermeável colchão removível linha Premium",
       "price": 32.9,
@@ -23619,35 +23503,6 @@
       "_last_price": null
     },
     {
-      "id": "22499058133",
-      "name": "Ração Úmida Gourmet para Gatos Castrados Sabor Frango, Abóbora e Arroz Integral 70G Golden",
-      "price": 2.69,
-      "original_price": 4.01,
-      "discount": 33.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825as-mg5klhk1a6fhfe",
-      "link": "https://s.shopee.com.br/20vITbhdYS",
-      "rating": "4.9",
-      "sales": 1505,
-      "shop": "Chegô",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22499058133,
-        "productName": "Ração Úmida Gourmet para Gatos Castrados Sabor Frango, Abóbora e Arroz Integral 70G Golden",
-        "price": "2.69",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.03",
-        "sales": 1505,
-        "ratingStar": "4.9",
-        "shopName": "Chegô",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825as-mg5klhk1a6fhfe",
-        "productLink": "https://shopee.com.br/product/1248266601/22499058133",
-        "offerLink": "https://s.shopee.com.br/20vITbhdYS"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23899173140",
       "name": "Kit 30 ou 45 Sachês Friskies Alimento Úmido Gatos Carne Frango Atum Peixe Branco Cordeiro Salmão Peru",
       "price": 80.9,
@@ -23673,35 +23528,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh673w6udf5zcb",
         "productLink": "https://shopee.com.br/product/1194006916/23899173140",
         "offerLink": "https://s.shopee.com.br/1gIS4ziuEM"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "19698336562",
-      "name": "Sachê para Gato de Atum Premier Pet 70G Premier",
-      "price": 6.69,
-      "original_price": 9.99,
-      "discount": 33.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825b7-mg5iq6d437d8c0",
-      "link": "https://s.shopee.com.br/3B7FrkdCBn",
-      "rating": "4.9",
-      "sales": 1365,
-      "shop": "Chegô",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19698336562,
-        "productName": "Sachê para Gato de Atum Premier Pet 70G Premier",
-        "price": "6.69",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.03",
-        "sales": 1365,
-        "ratingStar": "4.9",
-        "shopName": "Chegô",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b7-mg5iq6d437d8c0",
-        "productLink": "https://shopee.com.br/product/1248266601/19698336562",
-        "offerLink": "https://s.shopee.com.br/3B7FrkdCBn"
       },
       "_last_price": null
     },
@@ -25475,6 +25301,64 @@
       "_last_price": null
     },
     {
+      "id": "22499058133",
+      "name": "Ração Úmida Gourmet para Gatos Castrados Sabor Frango, Abóbora e Arroz Integral 70G Golden",
+      "price": 2.79,
+      "original_price": 3.99,
+      "discount": 30.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825as-mg5klhk1a6fhfe",
+      "link": "https://s.shopee.com.br/20vITbhdYS",
+      "rating": "4.9",
+      "sales": 1505,
+      "shop": "Chegô",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22499058133,
+        "productName": "Ração Úmida Gourmet para Gatos Castrados Sabor Frango, Abóbora e Arroz Integral 70G Golden",
+        "price": "2.79",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.03",
+        "sales": 1505,
+        "ratingStar": "4.9",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825as-mg5klhk1a6fhfe",
+        "productLink": "https://shopee.com.br/product/1248266601/22499058133",
+        "offerLink": "https://s.shopee.com.br/20vITbhdYS"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22299071731",
+      "name": "Ração Úmida para Gatos Adultos Sabor Atum Gourmet 70G Golden",
+      "price": 2.79,
+      "original_price": 3.99,
+      "discount": 30.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825b9-mg5kdxhwvw2605",
+      "link": "https://s.shopee.com.br/9V1KIKh1cP",
+      "rating": "5",
+      "sales": 940,
+      "shop": "Chegô",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22299071731,
+        "productName": "Ração Úmida para Gatos Adultos Sabor Atum Gourmet 70G Golden",
+        "price": "2.79",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.03",
+        "sales": 940,
+        "ratingStar": "5",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b9-mg5kdxhwvw2605",
+        "productLink": "https://shopee.com.br/product/1248266601/22299071731",
+        "offerLink": "https://s.shopee.com.br/9V1KIKh1cP"
+      },
+      "_last_price": null
+    },
+    {
       "id": "43419108256",
       "name": "Coleira Peitoral Cachorro E Gato, Conjunto De Guia + Coleira Colete Para Pet Pequenos E Médios",
       "price": 13.99,
@@ -26863,6 +26747,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-msbwy1o9n30qbe",
         "productLink": "https://shopee.com.br/product/616222685/14494160625",
         "offerLink": "https://s.shopee.com.br/3LQg2ht20T"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58252889444",
+      "name": "Ração Premium Grain Nature 15kg – Com Ômega 3 e 6 e Extrato de Yucca",
+      "price": 146.99,
+      "original_price": 201.36,
+      "discount": 27.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mprzmnwv1ips67",
+      "link": "https://s.shopee.com.br/6fh82B3sC0",
+      "rating": "4.9",
+      "sales": 632,
+      "shop": "Petistrô",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58252889444,
+        "productName": "Ração Premium Grain Nature 15kg – Com Ômega 3 e 6 e Extrato de Yucca",
+        "price": "146.99",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.07",
+        "sales": 632,
+        "ratingStar": "4.9",
+        "shopName": "Petistrô",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mprzmnwv1ips67",
+        "productLink": "https://shopee.com.br/product/382010808/58252889444",
+        "offerLink": "https://s.shopee.com.br/6fh82B3sC0"
       },
       "_last_price": null
     },
@@ -28632,35 +28545,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwo-m15ynbnub78184",
         "productLink": "https://shopee.com.br/product/1045085918/23597915053",
         "offerLink": "https://s.shopee.com.br/2VrZ3BDs5q"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22494696420",
-      "name": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
-      "price": 33.29,
-      "original_price": 43.23,
-      "discount": 23.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3zupa92neo67",
-      "link": "https://s.shopee.com.br/5LBkdTMzcq",
-      "rating": "4.9",
-      "sales": 625,
-      "shop": "Chegô",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22494696420,
-        "productName": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
-        "price": "33.29",
-        "priceDiscountRate": 23,
-        "commissionRate": "0.03",
-        "sales": 625,
-        "ratingStar": "4.9",
-        "shopName": "Chegô",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3zupa92neo67",
-        "productLink": "https://shopee.com.br/product/1248266601/22494696420",
-        "offerLink": "https://s.shopee.com.br/5LBkdTMzcq"
       },
       "_last_price": null
     },
@@ -30749,6 +30633,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825a4-mr9pzqvf632f09",
         "productLink": "https://shopee.com.br/product/457864097/25046330542",
         "offerLink": "https://s.shopee.com.br/80CVbIASoU"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23493493238",
+      "name": "Ração Special Dog Premium Carne 15 kg",
+      "price": 99.9,
+      "original_price": 123.33,
+      "discount": 19.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mq9kd85cg6bk43",
+      "link": "https://s.shopee.com.br/3qMxXupOjq",
+      "rating": "4.9",
+      "sales": 484,
+      "shop": "Omelhordopet2",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23493493238,
+        "productName": "Ração Special Dog Premium Carne 15 kg",
+        "price": "99.9",
+        "priceDiscountRate": 19,
+        "commissionRate": "0.03",
+        "sales": 484,
+        "ratingStar": "4.9",
+        "shopName": "Omelhordopet2",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mq9kd85cg6bk43",
+        "productLink": "https://shopee.com.br/product/568788110/23493493238",
+        "offerLink": "https://s.shopee.com.br/3qMxXupOjq"
       },
       "_last_price": null
     },
