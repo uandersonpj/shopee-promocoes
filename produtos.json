@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11T23:20:49.825213+00:00",
-  "total": 1116,
+  "updated_at": "2026-09-11T23:39:44.591882+00:00",
+  "total": 1115,
   "products": [
     {
       "id": "52011120312",
@@ -778,7 +778,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
         "productLink": "https://shopee.com.br/product/344381236/57911938287",
         "offerLink": "https://s.shopee.com.br/7KwtPp5nyn"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21897981294",
@@ -1150,8 +1151,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mp21h8cy5w5i1c",
         "productLink": "https://shopee.com.br/product/1567204121/58261933291",
         "offerLink": "https://s.shopee.com.br/2gB2Udi9Vc"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "57109179747",
@@ -1673,35 +1673,6 @@
       "_last_price": null
     },
     {
-      "id": "23097615562",
-      "name": "Kit 2000 Peças Bolsa Elástico De Cabelo Feminino Descartável Multicolorido",
-      "price": 4.99,
-      "original_price": 19.96,
-      "discount": 75.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lx608umcst6nde",
-      "link": "https://s.shopee.com.br/8V8rGByY2i",
-      "rating": "4.9",
-      "sales": 1767,
-      "shop": "SANMZ",
-      "category": "bolsa feminina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23097615562,
-        "productName": "Kit 2000 Peças Bolsa Elástico De Cabelo Feminino Descartável Multicolorido",
-        "price": "4.99",
-        "priceDiscountRate": 75,
-        "commissionRate": "0.03",
-        "sales": 1767,
-        "ratingStar": "4.9",
-        "shopName": "SANMZ",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lx608umcst6nde",
-        "productLink": "https://shopee.com.br/product/1005998142/23097615562",
-        "offerLink": "https://s.shopee.com.br/8V8rGByY2i"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18299069073",
       "name": "Vara De Pesca Carretilha Pesca 17+1 Rolamentos JOYFOX",
       "price": 49.0,
@@ -1814,6 +1785,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262f-ml3p8fq62c5g00",
         "productLink": "https://shopee.com.br/product/1127030290/23593847901",
         "offerLink": "https://s.shopee.com.br/6q0cp1r8lz"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58255768324",
+      "name": "Bolsa Sacola Feminina De Ombro Grande Espaçosa Elegante Dia a Dia Tote Para Trabalho Praia",
+      "price": 22.99,
+      "original_price": 88.42,
+      "discount": 74.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztg-ml47sfodx1qbd9",
+      "link": "https://s.shopee.com.br/5fogIWPJ2y",
+      "rating": "4.6",
+      "sales": 1809,
+      "shop": "Ravi Store!",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58255768324,
+        "productName": "Bolsa Sacola Feminina De Ombro Grande Espaçosa Elegante Dia a Dia Tote Para Trabalho Praia",
+        "price": "22.99",
+        "priceDiscountRate": 74,
+        "commissionRate": "0.03",
+        "sales": 1809,
+        "ratingStar": "4.6",
+        "shopName": "Ravi Store!",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztg-ml47sfodx1qbd9",
+        "productLink": "https://shopee.com.br/product/373247731/58255768324",
+        "offerLink": "https://s.shopee.com.br/5fogIWPJ2y"
       },
       "_last_price": null
     },
@@ -3295,35 +3295,6 @@
       "_last_price": null
     },
     {
-      "id": "58206781154",
-      "name": "SPOETRY Bolsa Feminina Casual de Nylon Nova Grande Ombro Tote",
-      "price": 31.2,
-      "original_price": 97.5,
-      "discount": 68.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mlq1ob393uvb2b",
-      "link": "https://s.shopee.com.br/9peEOXfign",
-      "rating": "4.8",
-      "sales": 2256,
-      "shop": "JESDA-05",
-      "category": "bolsa feminina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58206781154,
-        "productName": "SPOETRY Bolsa Feminina Casual de Nylon Nova Grande Ombro Tote",
-        "price": "31.2",
-        "priceDiscountRate": 68,
-        "commissionRate": "0.13",
-        "sales": 2256,
-        "ratingStar": "4.8",
-        "shopName": "JESDA-05",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mlq1ob393uvb2b",
-        "productLink": "https://shopee.com.br/product/1669666744/58206781154",
-        "offerLink": "https://s.shopee.com.br/9peEOXfign"
-      },
-      "_last_price": null
-    },
-    {
       "id": "49953222946",
       "name": "Óculos De Sol Triangulares Retrô Com Proteção UV400 Unissex Da Moda Para Homens E Mulheres",
       "price": 12.6,
@@ -3844,31 +3815,31 @@
       "_last_price": null
     },
     {
-      "id": "18998941239",
-      "name": "2000 Peças Bolsa Elástico De Cabelo Feminino Descartável Multicolorido",
-      "price": 4.99,
-      "original_price": 15.12,
+      "id": "22993817264",
+      "name": "Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estruturada e Espaçosa",
+      "price": 39.98,
+      "original_price": 121.15,
       "discount": 67.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-llf1bmjg9buz4e",
-      "link": "https://s.shopee.com.br/70K31KqVQy",
-      "rating": "4.8",
-      "sales": 3789,
-      "shop": "M&D Brasil Atacadista",
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825av-mrgkchcezqpu43",
+      "link": "https://s.shopee.com.br/4qFZIzSTjs",
+      "rating": "4.9",
+      "sales": 2127,
+      "shop": "JIMMY.STORE",
       "category": "bolsa feminina",
       "source": "shopee",
       "_item": {
-        "itemId": 18998941239,
-        "productName": "2000 Peças Bolsa Elástico De Cabelo Feminino Descartável Multicolorido",
-        "price": "4.99",
+        "itemId": 22993817264,
+        "productName": "Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estruturada e Espaçosa",
+        "price": "39.98",
         "priceDiscountRate": 67,
-        "commissionRate": "0.07",
-        "sales": 3789,
-        "ratingStar": "4.8",
-        "shopName": "M&D Brasil Atacadista",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-llf1bmjg9buz4e",
-        "productLink": "https://shopee.com.br/product/465623800/18998941239",
-        "offerLink": "https://s.shopee.com.br/70K31KqVQy"
+        "commissionRate": "0.08",
+        "sales": 2127,
+        "ratingStar": "4.9",
+        "shopName": "JIMMY.STORE",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825av-mrgkchcezqpu43",
+        "productLink": "https://shopee.com.br/product/1127030290/22993817264",
+        "offerLink": "https://s.shopee.com.br/4qFZIzSTjs"
       },
       "_last_price": null
     },
@@ -5265,35 +5236,6 @@
       "_last_price": null
     },
     {
-      "id": "18899030241",
-      "name": "1000 Peças Bolsa Elástico De Cabelo Feminino Descartável Multicolorido",
-      "price": 4.99,
-      "original_price": 13.86,
-      "discount": 64.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ln2wodzw7yo384",
-      "link": "https://s.shopee.com.br/AUtvBldBKr",
-      "rating": "4.9",
-      "sales": 3022,
-      "shop": "MD LINGERI",
-      "category": "bolsa feminina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18899030241,
-        "productName": "1000 Peças Bolsa Elástico De Cabelo Feminino Descartável Multicolorido",
-        "price": "4.99",
-        "priceDiscountRate": 64,
-        "commissionRate": "0.07",
-        "sales": 3022,
-        "ratingStar": "4.9",
-        "shopName": "MD LINGERI",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ln2wodzw7yo384",
-        "productLink": "https://shopee.com.br/product/664231577/18899030241",
-        "offerLink": "https://s.shopee.com.br/AUtvBldBKr"
-      },
-      "_last_price": null
-    },
-    {
       "id": "3958758961",
       "name": "óculos de sol hexagonal masculino feminino com lente preta escura armação metal geométrico blogueira",
       "price": 17.9,
@@ -5638,35 +5580,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lj60650831dc5a",
         "productLink": "https://shopee.com.br/product/390307022/19297147366",
         "offerLink": "https://s.shopee.com.br/BThW5zBhz"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18599879164",
-      "name": "3/2/1 PCS Pochete Doleira Antifurto Nylon Impermeável Porta Celular Dinheiro Segurança Viagem Corrida Academia",
-      "price": 10.99,
-      "original_price": 29.7,
-      "discount": 63.0,
-      "commission": 0.05,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7repa-mdv3544s8w65bd",
-      "link": "https://s.shopee.com.br/2qUU3g6Mt4",
-      "rating": "4.9",
-      "sales": 4030,
-      "shop": "WISH BOLSAS",
-      "category": "bolsa feminina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18599879164,
-        "productName": "3/2/1 PCS Pochete Doleira Antifurto Nylon Impermeável Porta Celular Dinheiro Segurança Viagem Corrida Academia",
-        "price": "10.99",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.05",
-        "sales": 4030,
-        "ratingStar": "4.9",
-        "shopName": "WISH BOLSAS",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repa-mdv3544s8w65bd",
-        "productLink": "https://shopee.com.br/product/1439190466/18599879164",
-        "offerLink": "https://s.shopee.com.br/2qUU3g6Mt4"
       },
       "_last_price": null
     },
@@ -6453,6 +6366,35 @@
       "_last_price": null
     },
     {
+      "id": "9830388367",
+      "name": "Mochila Maternidade Bolsa Mamãe Bebê Multifunção",
+      "price": 27.55,
+      "original_price": 70.64,
+      "discount": 61.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbnb-lnu59twuc1wo61",
+      "link": "https://s.shopee.com.br/1Vz6txkGRp",
+      "rating": "4.7",
+      "sales": 1631,
+      "shop": "ANJ.GG store",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 9830388367,
+        "productName": "Mochila Maternidade Bolsa Mamãe Bebê Multifunção",
+        "price": "27.55",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.07",
+        "sales": 1631,
+        "ratingStar": "4.7",
+        "shopName": "ANJ.GG store",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbnb-lnu59twuc1wo61",
+        "productLink": "https://shopee.com.br/product/391739739/9830388367",
+        "offerLink": "https://s.shopee.com.br/1Vz6txkGRp"
+      },
+      "_last_price": null
+    },
+    {
       "id": "26892990345",
       "name": "moedor multifuncional de café grão sementes e especiarias elétrico inox portátil 110v/220v com 4 lâminas cafeteiras",
       "price": 34.99,
@@ -7232,6 +7174,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ij-mpm4eovkx5349e",
         "productLink": "https://shopee.com.br/product/452872883/23893335036",
         "offerLink": "https://s.shopee.com.br/60RVpUuJSs"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23294845685",
+      "name": "TOMI MITO Bolsa Casual Espaçosa com Zíper e Divisórias para Trabalho e Passeios  TM9181 ",
+      "price": 59.99,
+      "original_price": 149.97,
+      "discount": 60.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mrzix1lwqubp9c",
+      "link": "https://s.shopee.com.br/50YzVIRqOx",
+      "rating": "4.9",
+      "sales": 1017,
+      "shop": "Amy.Store",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23294845685,
+        "productName": "TOMI MITO Bolsa Casual Espaçosa com Zíper e Divisórias para Trabalho e Passeios  TM9181 ",
+        "price": "59.99",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.08",
+        "sales": 1017,
+        "ratingStar": "4.9",
+        "shopName": "Amy.Store",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mrzix1lwqubp9c",
+        "productLink": "https://shopee.com.br/product/1468415010/23294845685",
+        "offerLink": "https://s.shopee.com.br/50YzVIRqOx"
       },
       "_last_price": null
     },
@@ -8193,35 +8164,6 @@
       "_last_price": null
     },
     {
-      "id": "22897302252",
-      "name": "500/1000 Peças Bolsa Elástico De Cabelo Feminino Descartável Multicolorido(Monica Fashion)",
-      "price": 4.99,
-      "original_price": 11.88,
-      "discount": 58.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqufmtfx7igr68",
-      "link": "https://s.shopee.com.br/9zxeaqf5Lm",
-      "rating": "4.8",
-      "sales": 3110,
-      "shop": "Monica Fashion",
-      "category": "bolsa feminina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22897302252,
-        "productName": "500/1000 Peças Bolsa Elástico De Cabelo Feminino Descartável Multicolorido(Monica Fashion)",
-        "price": "4.99",
-        "priceDiscountRate": 58,
-        "commissionRate": "0.08",
-        "sales": 3110,
-        "ratingStar": "4.8",
-        "shopName": "Monica Fashion",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqufmtfx7igr68",
-        "productLink": "https://shopee.com.br/product/1171273264/22897302252",
-        "offerLink": "https://s.shopee.com.br/9zxeaqf5Lm"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58254223202",
       "name": "[BT01]Relógio Masculino Guke Wattr Chrono Square Sport | Design Quadrado | Pulseira de Silicone",
       "price": 20.9,
@@ -8740,6 +8682,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li3gn37h6v5h4a",
         "productLink": "https://shopee.com.br/product/432788506/22991548299",
         "offerLink": "https://s.shopee.com.br/5VVDruIY9x"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21199607260",
+      "name": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro S2420",
+      "price": 54.99,
+      "original_price": 127.88,
+      "discount": 57.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mrpeh9qzvmrqb1",
+      "link": "https://s.shopee.com.br/5q86UpOfi1",
+      "rating": "4.9",
+      "sales": 1413,
+      "shop": "Amy.Store",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21199607260,
+        "productName": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro S2420",
+        "price": "54.99",
+        "priceDiscountRate": 57,
+        "commissionRate": "0.08",
+        "sales": 1413,
+        "ratingStar": "4.9",
+        "shopName": "Amy.Store",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mrpeh9qzvmrqb1",
+        "productLink": "https://shopee.com.br/product/1468415010/21199607260",
+        "offerLink": "https://s.shopee.com.br/5q86UpOfi1"
       },
       "_last_price": null
     },
@@ -9291,6 +9262,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-msgkvfvn2sju02",
         "productLink": "https://shopee.com.br/product/807597901/23497309877",
         "offerLink": "https://s.shopee.com.br/1Vz56Xu707"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58263591272",
+      "name": "Bolsa feminina casual elegante com desgin moderno , com detalhes em dourado",
+      "price": 39.9,
+      "original_price": 90.68,
+      "discount": 56.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mq7opuqjh8g15b",
+      "link": "https://s.shopee.com.br/60RWh8O2N0",
+      "rating": "4.7",
+      "sales": 2205,
+      "shop": "samariana vendas online",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58263591272,
+        "productName": "Bolsa feminina casual elegante com desgin moderno , com detalhes em dourado",
+        "price": "39.9",
+        "priceDiscountRate": 56,
+        "commissionRate": "0.07",
+        "sales": 2205,
+        "ratingStar": "4.7",
+        "shopName": "samariana vendas online",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mq7opuqjh8g15b",
+        "productLink": "https://shopee.com.br/product/674374329/58263591272",
+        "offerLink": "https://s.shopee.com.br/60RWh8O2N0"
       },
       "_last_price": null
     },
@@ -9987,35 +9987,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-ml81dad8dqmf31",
         "productLink": "https://shopee.com.br/product/1408365296/58255958592",
         "offerLink": "https://s.shopee.com.br/7AdTCKjGj2"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22392982563",
-      "name": "1000/2000 Peças Bolsa Elástico Scrunchies De Cabelo Feminino Descartável Multicolorido Acessórios Infantil Para Crianças",
-      "price": 10.0,
-      "original_price": 22.22,
-      "discount": 55.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8kmmzfn5zip25",
-      "link": "https://s.shopee.com.br/qjOJKnF1g",
-      "rating": "4.9",
-      "sales": 5691,
-      "shop": "HW Presentes",
-      "category": "bolsa feminina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22392982563,
-        "productName": "1000/2000 Peças Bolsa Elástico Scrunchies De Cabelo Feminino Descartável Multicolorido Acessórios Infantil Para Crianças",
-        "price": "10",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.07",
-        "sales": 5691,
-        "ratingStar": "4.9",
-        "shopName": "HW Presentes",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8kmmzfn5zip25",
-        "productLink": "https://shopee.com.br/product/463228698/22392982563",
-        "offerLink": "https://s.shopee.com.br/qjOJKnF1g"
       },
       "_last_price": null
     },
@@ -11818,6 +11789,35 @@
       "_last_price": null
     },
     {
+      "id": "20399869941",
+      "name": "Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente",
+      "price": 28.52,
+      "original_price": 59.42,
+      "discount": 52.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me8bszdf5pmoee",
+      "link": "https://s.shopee.com.br/6VNnI3M8M5",
+      "rating": "4.9",
+      "sales": 2586,
+      "shop": "YL.BR.BOLSAS",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20399869941,
+        "productName": "Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente",
+        "price": "28.52",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.08",
+        "sales": 2586,
+        "ratingStar": "4.9",
+        "shopName": "YL.BR.BOLSAS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me8bszdf5pmoee",
+        "productLink": "https://shopee.com.br/product/1448484843/20399869941",
+        "offerLink": "https://s.shopee.com.br/6VNnI3M8M5"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58202079450",
       "name": "Tenis Masculino + Relogio + Meia Esportivo  Academia Corrida Caminhada Super leve e Macio",
       "price": 57.56,
@@ -13496,35 +13496,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mpnvhzwh0jk08a",
         "productLink": "https://shopee.com.br/product/1378030163/58262952643",
         "offerLink": "https://s.shopee.com.br/70K301ju41"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22194554063",
-      "name": "1/2/3 Cola Transparente Para Reparo De Sapatos – Adesivo À Prova D'água Fixação De Solas , Saltos E Bolsas (60ml)",
-      "price": 14.99,
-      "original_price": 29.98,
-      "discount": 50.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825bb-mfvjlgilwbnv28",
-      "link": "https://s.shopee.com.br/7VGJcFobQ3",
-      "rating": "4.8",
-      "sales": 4765,
-      "shop": "LUCKY BAZAR",
-      "category": "bolsa feminina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22194554063,
-        "productName": "1/2/3 Cola Transparente Para Reparo De Sapatos – Adesivo À Prova D'água Fixação De Solas , Saltos E Bolsas (60ml)",
-        "price": "14.99",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.03",
-        "sales": 4765,
-        "ratingStar": "4.8",
-        "shopName": "LUCKY BAZAR",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825bb-mfvjlgilwbnv28",
-        "productLink": "https://shopee.com.br/product/375201738/22194554063",
-        "offerLink": "https://s.shopee.com.br/7VGJcFobQ3"
       },
       "_last_price": null
     },
@@ -16719,35 +16690,6 @@
       "_last_price": null
     },
     {
-      "id": "42071102324",
-      "name": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
-      "price": 68.75,
-      "original_price": 125.0,
-      "discount": 45.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
-      "link": "https://s.shopee.com.br/4Vcgl5SaHT",
-      "rating": "4.9",
-      "sales": 4209,
-      "shop": "Clube Kids Baby II",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42071102324,
-        "productName": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
-        "price": "68.75",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.03",
-        "sales": 4209,
-        "ratingStar": "4.9",
-        "shopName": "Clube Kids Baby II",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
-        "productLink": "https://shopee.com.br/product/1450084195/42071102324",
-        "offerLink": "https://s.shopee.com.br/4Vcgl5SaHT"
-      },
-      "_last_price": null
-    },
-    {
       "id": "24242897638",
       "name": "Calcinha Para Incontinência Com Bolsa Coleta De Urina , Solução Hermética De Drenagem Uso Acamado , Conforto , Higiene ,",
       "price": 33.82,
@@ -18542,6 +18484,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-msy1v6ausykn5b",
         "productLink": "https://shopee.com.br/product/499950777/14263042301",
         "offerLink": "https://s.shopee.com.br/3LQkdHxrVG"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20697284358",
+      "name": "Pacote 1000 Peças Bolsa Elástico De Cabelo Feminino Descartável Multicolorido",
+      "price": 10.99,
+      "original_price": 18.95,
+      "discount": 42.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbk0-lklp7pk3walk8d",
+      "link": "https://s.shopee.com.br/5VVG6DPwNz",
+      "rating": "4.9",
+      "sales": 2615,
+      "shop": "Mini Rosa",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20697284358,
+        "productName": "Pacote 1000 Peças Bolsa Elástico De Cabelo Feminino Descartável Multicolorido",
+        "price": "10.99",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.07",
+        "sales": 2615,
+        "ratingStar": "4.9",
+        "shopName": "Mini Rosa",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbk0-lklp7pk3walk8d",
+        "productLink": "https://shopee.com.br/product/399255895/20697284358",
+        "offerLink": "https://s.shopee.com.br/5VVG6DPwNz"
       },
       "_last_price": null
     },
@@ -21214,35 +21185,6 @@
       "_last_price": null
     },
     {
-      "id": "58253571216",
-      "name": "Cola Transparente Para Reparo De Sapatos – Adesivo À Prova D'água Fixação De Solas , Saltos E Bolsas (60ml)",
-      "price": 15.98,
-      "original_price": 25.37,
-      "discount": 37.0,
-      "commission": 0.14,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8262m-mjnqv9wc55ohc2",
-      "link": "https://s.shopee.com.br/5LBp2Gwqoo",
-      "rating": "4.8",
-      "sales": 4972,
-      "shop": "Summit--07",
-      "category": "bolsa feminina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58253571216,
-        "productName": "Cola Transparente Para Reparo De Sapatos – Adesivo À Prova D'água Fixação De Solas , Saltos E Bolsas (60ml)",
-        "price": "15.98",
-        "priceDiscountRate": 37,
-        "commissionRate": "0.14",
-        "sales": 4972,
-        "ratingStar": "4.8",
-        "shopName": "Summit--07",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262m-mjnqv9wc55ohc2",
-        "productLink": "https://shopee.com.br/product/1639518888/58253571216",
-        "offerLink": "https://s.shopee.com.br/5LBp2Gwqoo"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58261084738",
       "name": "Óculos De Grau Automático Perto/Longe (Escurece no Sol)",
       "price": 37.0,
@@ -22370,6 +22312,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9068frjp1xe46",
         "productLink": "https://shopee.com.br/product/862830026/23793927191",
         "offerLink": "https://s.shopee.com.br/8KpQaTNEDr"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22293624070",
+      "name": "Mochila feminina Impermeável Luxo Couro Sintetico Grande, Moderna, Faculdade/Trabalho 2026",
+      "price": 29.25,
+      "original_price": 45.0,
+      "discount": 35.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mnxol7i9cu0y8a",
+      "link": "https://s.shopee.com.br/6AkwtRNP23",
+      "rating": "4.9",
+      "sales": 2541,
+      "shop": "VITA LUSH",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22293624070,
+        "productName": "Mochila feminina Impermeável Luxo Couro Sintetico Grande, Moderna, Faculdade/Trabalho 2026",
+        "price": "29.25",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.03",
+        "sales": 2541,
+        "ratingStar": "4.9",
+        "shopName": "VITA LUSH",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mnxol7i9cu0y8a",
+        "productLink": "https://shopee.com.br/product/1306999259/22293624070",
+        "offerLink": "https://s.shopee.com.br/6AkwtRNP23"
       },
       "_last_price": null
     },
