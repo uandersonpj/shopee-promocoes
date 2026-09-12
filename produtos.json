@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T03:07:21.850481+00:00",
-  "total": 1116,
+  "updated_at": "2026-09-12T03:26:01.544591+00:00",
+  "total": 1115,
   "products": [
     {
       "id": "52011120312",
@@ -807,7 +807,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
         "productLink": "https://shopee.com.br/product/1266325318/21897981294",
         "offerLink": "https://s.shopee.com.br/2LYDSgjcwB"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22494449171",
@@ -1760,35 +1761,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824jj-mpfvxsk51ibm93",
         "productLink": "https://shopee.com.br/product/321587846/46712193198",
         "offerLink": "https://s.shopee.com.br/9fKoRHM3Sn"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58208730330",
-      "name": "Kit 5/10/15 Iscas Artificial Soft Bait Tucunaré Traira Corvina",
-      "price": 22.13,
-      "original_price": 88.52,
-      "discount": 75.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mmzr7wtbrrpg89",
-      "link": "https://s.shopee.com.br/1BMEhyyMXQ",
-      "rating": "4.9",
-      "sales": 224,
-      "shop": "Fit Pico",
-      "category": "isca artificial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58208730330,
-        "productName": "Kit 5/10/15 Iscas Artificial Soft Bait Tucunaré Traira Corvina",
-        "price": "22.13",
-        "priceDiscountRate": 75,
-        "commissionRate": "0.13",
-        "sales": 224,
-        "ratingStar": "4.9",
-        "shopName": "Fit Pico",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mmzr7wtbrrpg89",
-        "productLink": "https://shopee.com.br/product/1748172680/58208730330",
-        "offerLink": "https://s.shopee.com.br/1BMEhyyMXQ"
       },
       "_last_price": null
     },
@@ -10021,6 +9993,35 @@
       "_last_price": null
     },
     {
+      "id": "58208730330",
+      "name": "Kit 5/10/15 Iscas Artificial Soft Bait Tucunaré Traira Corvina",
+      "price": 44.2,
+      "original_price": 98.22,
+      "discount": 55.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mmzr7wtbrrpg89",
+      "link": "https://s.shopee.com.br/1BMEhyyMXQ",
+      "rating": "4.9",
+      "sales": 224,
+      "shop": "Fit Pico",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58208730330,
+        "productName": "Kit 5/10/15 Iscas Artificial Soft Bait Tucunaré Traira Corvina",
+        "price": "44.2",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.13",
+        "sales": 224,
+        "ratingStar": "4.9",
+        "shopName": "Fit Pico",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mmzr7wtbrrpg89",
+        "productLink": "https://shopee.com.br/product/1748172680/58208730330",
+        "offerLink": "https://s.shopee.com.br/1BMEhyyMXQ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22694408785",
       "name": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
       "price": 879.99,
@@ -10632,8 +10633,8 @@
     {
       "id": "47811321649",
       "name": "- Kit 4 Potes Herméticos 2L Para Lavanderia Com Vedação P/ Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
-      "price": 71.16,
-      "original_price": 151.4,
+      "price": 71.17,
+      "original_price": 151.43,
       "discount": 53.0,
       "commission": 0.12,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mosdi0wi3sat12",
@@ -10646,7 +10647,7 @@
       "_item": {
         "itemId": 47811321649,
         "productName": "- Kit 4 Potes Herméticos 2L Para Lavanderia Com Vedação P/ Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
-        "price": "71.16",
+        "price": "71.17",
         "priceDiscountRate": 53,
         "commissionRate": "0.12",
         "sales": 862,
@@ -20898,8 +20899,8 @@
     {
       "id": "25614629818",
       "name": "Boné De Beisebol Masculino Camuflado Com Caveira , Chapéu Tático Para Pesca E Caminhada Ao Ar Livre O Verão",
-      "price": 31.24,
-      "original_price": 50.39,
+      "price": 30.02,
+      "original_price": 48.42,
       "discount": 38.0,
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvq-mcakt9br8pflf2",
@@ -20912,7 +20913,7 @@
       "_item": {
         "itemId": 25614629818,
         "productName": "Boné De Beisebol Masculino Camuflado Com Caveira , Chapéu Tático Para Pesca E Caminhada Ao Ar Livre O Verão",
-        "price": "31.24",
+        "price": "30.02",
         "priceDiscountRate": 38,
         "commissionRate": "0.07",
         "sales": 905,
@@ -21298,35 +21299,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pi-mp4mu2u5xq8e68",
         "productLink": "https://shopee.com.br/product/1006215031/41601446410",
         "offerLink": "https://s.shopee.com.br/2LYC6BjmSo"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23594350080",
-      "name": "Dispenser Organizador Lavanderia 2,3 e 1,5 Litros Acrílico amaciante sabão em pó Lavanderia - OU",
-      "price": 36.89,
-      "original_price": 57.64,
-      "discount": 36.0,
-      "commission": 0.09,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meftxtpxqy2qda",
-      "link": "https://s.shopee.com.br/60RWHTfouZ",
-      "rating": "4.9",
-      "sales": 365,
-      "shop": "ODOM Imports",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23594350080,
-        "productName": "Dispenser Organizador Lavanderia 2,3 e 1,5 Litros Acrílico amaciante sabão em pó Lavanderia - OU",
-        "price": "36.89",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.09",
-        "sales": 365,
-        "ratingStar": "4.9",
-        "shopName": "ODOM Imports",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meftxtpxqy2qda",
-        "productLink": "https://shopee.com.br/product/396855381/23594350080",
-        "offerLink": "https://s.shopee.com.br/60RWHTfouZ"
       },
       "_last_price": null
     },
