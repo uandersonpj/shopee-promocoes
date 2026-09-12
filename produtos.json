@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T04:22:04.680392+00:00",
-  "total": 1114,
+  "updated_at": "2026-09-12T04:40:43.222876+00:00",
+  "total": 1115,
   "products": [
     {
       "id": "52011120312",
@@ -1648,7 +1648,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m16zhf1ljn7yae",
         "productLink": "https://shopee.com.br/product/451332066/23793414141",
         "offerLink": "https://s.shopee.com.br/1LfeuE41ET"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23398852310",
@@ -4758,7 +4759,7 @@
       "rating": "4.7",
       "sales": 215,
       "shop": "Bàodān Garantia oficial",
-      "category": "carretilha pesca",
+      "category": "vara de pesca",
       "source": "shopee",
       "_item": {
         "itemId": 22098143818,
@@ -11154,6 +11155,35 @@
       "_last_price": null
     },
     {
+      "id": "58200569490",
+      "name": "Vara De Pesca Telescópica Retrátil 4,00 Metros Super Leve 40% Carbono 19Lbs",
+      "price": 38.9,
+      "original_price": 82.77,
+      "discount": 53.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mo7jy3nnh1c2a3",
+      "link": "https://s.shopee.com.br/9peFB0tecW",
+      "rating": "4.8",
+      "sales": 115,
+      "shop": "ApexVendas",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58200569490,
+        "productName": "Vara De Pesca Telescópica Retrátil 4,00 Metros Super Leve 40% Carbono 19Lbs",
+        "price": "38.9",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.07",
+        "sales": 115,
+        "ratingStar": "4.8",
+        "shopName": "ApexVendas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mo7jy3nnh1c2a3",
+        "productLink": "https://shopee.com.br/product/940287081/58200569490",
+        "offerLink": "https://s.shopee.com.br/9peFB0tecW"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19198335914",
       "name": "Kit Sino Duplo Alarme Para Vara De Pesca Suporte Sinalizador Guizo Sininho Clipe Universal",
       "price": 10.07,
@@ -17418,35 +17448,6 @@
       "_last_price": null
     },
     {
-      "id": "48857230908",
-      "name": "Vara de pesca telescópica, suave e ultraleve, ideal para diversas situações, com comprimentos de 2,4 m e 3,6 m",
-      "price": 25.8,
-      "original_price": 46.07,
-      "discount": 44.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsuws7bcgznad",
-      "link": "https://s.shopee.com.br/BTirXhQjg",
-      "rating": "4.8",
-      "sales": 1670,
-      "shop": "BD Boutique De Lustres",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 48857230908,
-        "productName": "Vara de pesca telescópica, suave e ultraleve, ideal para diversas situações, com comprimentos de 2,4 m e 3,6 m",
-        "price": "25.8",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.11",
-        "sales": 1670,
-        "ratingStar": "4.8",
-        "shopName": "BD Boutique De Lustres",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsuws7bcgznad",
-        "productLink": "https://shopee.com.br/product/1489642227/48857230908",
-        "offerLink": "https://s.shopee.com.br/BTirXhQjg"
-      },
-      "_last_price": null
-    },
-    {
       "id": "44423564731",
       "name": "Boia Infantil Colete Flutuador Premium Com Bracadeira De Segurança 1 a 7 Anos NÃO FURA AcquaFun",
       "price": 44.99,
@@ -20788,7 +20789,7 @@
       "original_price": 20.08,
       "discount": 38.0,
       "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mqrx96e63pxc43",
+      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mt02ukvjvjlz4e",
       "link": "https://s.shopee.com.br/3Vk9UGpTne",
       "rating": "4.8",
       "sales": 558,
@@ -20804,7 +20805,7 @@
         "sales": 558,
         "ratingStar": "4.8",
         "shopName": "FastEcomSP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mqrx96e63pxc43",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mt02ukvjvjlz4e",
         "productLink": "https://shopee.com.br/product/1058451512/18798998311",
         "offerLink": "https://s.shopee.com.br/3Vk9UGpTne"
       },
@@ -21271,6 +21272,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pi-mp4mu2u5xq8e68",
         "productLink": "https://shopee.com.br/product/1006215031/41601446410",
         "offerLink": "https://s.shopee.com.br/2LYC6BjmSo"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23594350080",
+      "name": "Dispenser Organizador Lavanderia 2,3 e 1,5 Litros Acrílico amaciante sabão em pó Lavanderia - OU",
+      "price": 36.89,
+      "original_price": 57.64,
+      "discount": 36.0,
+      "commission": 0.09,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meftxtpxqy2qda",
+      "link": "https://s.shopee.com.br/60RWHTfouZ",
+      "rating": "4.9",
+      "sales": 365,
+      "shop": "ODOM Imports",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23594350080,
+        "productName": "Dispenser Organizador Lavanderia 2,3 e 1,5 Litros Acrílico amaciante sabão em pó Lavanderia - OU",
+        "price": "36.89",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.09",
+        "sales": 365,
+        "ratingStar": "4.9",
+        "shopName": "ODOM Imports",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meftxtpxqy2qda",
+        "productLink": "https://shopee.com.br/product/396855381/23594350080",
+        "offerLink": "https://s.shopee.com.br/60RWHTfouZ"
       },
       "_last_price": null
     },
@@ -24692,6 +24722,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134253-8259n-mqe7keh2tibxb5",
         "productLink": "https://shopee.com.br/product/1006215031/50963655970",
         "offerLink": "https://s.shopee.com.br/3B7KUsszwU"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23294557627",
+      "name": "kit 2 Blusas Térmicas Uv 50 Segunda Pele Manga Longa Unissex Praia Moto Pesca Casual Ciclista",
+      "price": 34.49,
+      "original_price": 49.99,
+      "discount": 31.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg5hzaw76nlsbb",
+      "link": "https://s.shopee.com.br/9zxedV16jU",
+      "rating": "4.8",
+      "sales": 431,
+      "shop": "NS PREMIUM",
+      "category": "kit pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23294557627,
+        "productName": "kit 2 Blusas Térmicas Uv 50 Segunda Pele Manga Longa Unissex Praia Moto Pesca Casual Ciclista",
+        "price": "34.49",
+        "priceDiscountRate": 31,
+        "commissionRate": "0.03",
+        "sales": 431,
+        "ratingStar": "4.8",
+        "shopName": "NS PREMIUM",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg5hzaw76nlsbb",
+        "productLink": "https://shopee.com.br/product/1160211743/23294557627",
+        "offerLink": "https://s.shopee.com.br/9zxedV16jU"
       },
       "_last_price": null
     },
@@ -28582,35 +28641,6 @@
       "_last_price": null
     },
     {
-      "id": "18670036520",
-      "name": "Kit 2 Blusas Térmicas Uv 50 Segunda Pele Manga Longa Unissex Praia Moto Pesca Casual Ciclista",
-      "price": 37.92,
-      "original_price": 49.89,
-      "discount": 24.0,
-      "commission": 0.1393,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhkgppoa25tu40",
-      "link": "https://s.shopee.com.br/40gRQaSpxJ",
-      "rating": "4.4",
-      "sales": 1754,
-      "shop": "LitoralModa",
-      "category": "kit pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18670036520,
-        "productName": "Kit 2 Blusas Térmicas Uv 50 Segunda Pele Manga Longa Unissex Praia Moto Pesca Casual Ciclista",
-        "price": "37.92",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.1393",
-        "sales": 1754,
-        "ratingStar": "4.4",
-        "shopName": "LitoralModa",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhkgppoa25tu40",
-        "productLink": "https://shopee.com.br/product/916176093/18670036520",
-        "offerLink": "https://s.shopee.com.br/40gRQaSpxJ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "19399334207",
       "name": "SSD M.2 NVMe 2280 KNUP SpeedRam PCIe 3.0 128GB 256GB 512GB Para PC Notebook 3D NAND",
       "price": 229.99,
@@ -30556,8 +30586,8 @@
     {
       "id": "25046330542",
       "name": "Celimax Brightening Pore+ Dark Spot Cream 35ml, 7ml",
-      "price": 42.7,
-      "original_price": 52.72,
+      "price": 146.29,
+      "original_price": 180.6,
       "discount": 19.0,
       "commission": 0.25,
       "image": "https://cf.shopee.com.br/file/sg-11134207-825a4-mr9pzqvf632f09",
@@ -30570,7 +30600,7 @@
       "_item": {
         "itemId": 25046330542,
         "productName": "Celimax Brightening Pore+ Dark Spot Cream 35ml, 7ml",
-        "price": "42.7",
+        "price": "146.29",
         "priceDiscountRate": 19,
         "commissionRate": "0.25",
         "sales": 10063,
