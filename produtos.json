@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T18:08:01.910921+00:00",
+  "updated_at": "2026-09-12T18:26:55.725180+00:00",
   "total": 1118,
   "products": [
     {
@@ -56,7 +56,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvk-mdc4nq55wpuu08",
         "productLink": "https://shopee.com.br/product/627750190/23698808886",
         "offerLink": "https://s.shopee.com.br/70K1eWu4Zq"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22394636674",
@@ -369,8 +370,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-msxmjc85bkzr38",
         "productLink": "https://shopee.com.br/product/1198407784/23497594302",
         "offerLink": "https://s.shopee.com.br/6fhCcirm6w"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58265198384",
@@ -2201,7 +2201,7 @@
       "commission": 0.07,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mq364pudwd8jc0",
       "link": "https://s.shopee.com.br/2gB2UjseUZ",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 373,
       "shop": "LEMIKKLE.",
       "category": "isca artificial",
@@ -2213,7 +2213,7 @@
         "priceDiscountRate": 72,
         "commissionRate": "0.07",
         "sales": 373,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "LEMIKKLE.",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mq364pudwd8jc0",
         "productLink": "https://shopee.com.br/product/1813991988/58263403829",
@@ -8947,35 +8947,6 @@
       "_last_price": null
     },
     {
-      "id": "47214406847",
-      "name": "- Kit 4 Potes Hermético 1,5L Com Bico Dosador Medidor Porta Sabão em Pó /Sabão Líquido/ Amaciante Lavanderia Organizador",
-      "price": 62.81,
-      "original_price": 142.75,
-      "discount": 56.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mqysjc3ln0nb37",
-      "link": "https://s.shopee.com.br/2gB2Ua1Ml3",
-      "rating": "4.8",
-      "sales": 581,
-      "shop": "CampvendasMulticoisas",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 47214406847,
-        "productName": "- Kit 4 Potes Hermético 1,5L Com Bico Dosador Medidor Porta Sabão em Pó /Sabão Líquido/ Amaciante Lavanderia Organizador",
-        "price": "62.81",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.12",
-        "sales": 581,
-        "ratingStar": "4.8",
-        "shopName": "CampvendasMulticoisas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqysjc3ln0nb37",
-        "productLink": "https://shopee.com.br/product/1627792845/47214406847",
-        "offerLink": "https://s.shopee.com.br/2gB2Ua1Ml3"
-      },
-      "_last_price": null
-    },
-    {
       "id": "27869521679",
       "name": "Conjunto De 12 Peças De Esponja De Maquiagem Final , Perfeito Para Misturar Base , Sem Látex , Veludo Ultramacio",
       "price": 10.11,
@@ -9556,6 +9527,35 @@
       "_last_price": null
     },
     {
+      "id": "47214406847",
+      "name": "- Kit 4 Potes Hermético 1,5L Com Bico Dosador Medidor Porta Sabão em Pó /Sabão Líquido/ Amaciante Lavanderia Organizador",
+      "price": 64.07,
+      "original_price": 142.38,
+      "discount": 55.0,
+      "commission": 0.12,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mqysjc3ln0nb37",
+      "link": "https://s.shopee.com.br/2gB2Ua1Ml3",
+      "rating": "4.8",
+      "sales": 581,
+      "shop": "CampvendasMulticoisas",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 47214406847,
+        "productName": "- Kit 4 Potes Hermético 1,5L Com Bico Dosador Medidor Porta Sabão em Pó /Sabão Líquido/ Amaciante Lavanderia Organizador",
+        "price": "64.07",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.12",
+        "sales": 581,
+        "ratingStar": "4.8",
+        "shopName": "CampvendasMulticoisas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqysjc3ln0nb37",
+        "productLink": "https://shopee.com.br/product/1627792845/47214406847",
+        "offerLink": "https://s.shopee.com.br/2gB2Ua1Ml3"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18399398811",
       "name": "Dispenser Organizador de Lavanderia 2,3L Acrílico Porta Amaciante Sabão em Pó Sabonete Liquido",
       "price": 49.9,
@@ -9651,7 +9651,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mr91da96uccn1a",
       "link": "https://s.shopee.com.br/6fhBFy2nEM",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 2607,
       "shop": "TOCCHIOCOSMETICOS",
       "category": "condicionador",
@@ -9663,7 +9663,7 @@
         "priceDiscountRate": 55,
         "commissionRate": "0.03",
         "sales": 2607,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "TOCCHIOCOSMETICOS",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mr91da96uccn1a",
         "productLink": "https://shopee.com.br/product/1676517357/22499197888",
@@ -12781,7 +12781,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-821ey-mgsjwli7nkss07",
       "link": "https://s.shopee.com.br/9fKmpSj74r",
-      "rating": "4.7",
+      "rating": "4.8",
       "sales": 8259,
       "shop": "INS estilo",
       "category": "esponja",
@@ -12793,7 +12793,7 @@
         "priceDiscountRate": 50,
         "commissionRate": "0.03",
         "sales": 8259,
-        "ratingStar": "4.7",
+        "ratingStar": "4.8",
         "shopName": "INS estilo",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ey-mgsjwli7nkss07",
         "productLink": "https://shopee.com.br/product/1155855002/23799161127",
@@ -16464,7 +16464,7 @@
       "commission": 0.12,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mosjxda5lmva37",
       "link": "https://s.shopee.com.br/3qMzsiwvOE",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 755,
       "shop": "CampvendasMulticoisas",
       "category": "sabao em po",
@@ -16476,7 +16476,7 @@
         "priceDiscountRate": 45,
         "commissionRate": "0.12",
         "sales": 755,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "CampvendasMulticoisas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mosjxda5lmva37",
         "productLink": "https://shopee.com.br/product/1627792845/51961303157",
@@ -21962,6 +21962,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvcv-lff99w88x5e6c4",
         "productLink": "https://shopee.com.br/product/1006215031/24162454732",
         "offerLink": "https://s.shopee.com.br/1LfeuG38rJ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58202642165",
+      "name": "Covo Armadilha Com 6 ou 8 Furos Pesca Peixes Siri Lambari Camarão Iscas Guarda Chuva/octogonal",
+      "price": 16.33,
+      "original_price": 25.52,
+      "discount": 36.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mngh4d9obpxd28",
+      "link": "https://s.shopee.com.br/2qUSh5dshV",
+      "rating": "4.8",
+      "sales": 867,
+      "shop": "winners_time",
+      "category": "isca pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58202642165,
+        "productName": "Covo Armadilha Com 6 ou 8 Furos Pesca Peixes Siri Lambari Camarão Iscas Guarda Chuva/octogonal",
+        "price": "16.33",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 867,
+        "ratingStar": "4.8",
+        "shopName": "winners_time",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mngh4d9obpxd28",
+        "productLink": "https://shopee.com.br/product/1259410367/58202642165",
+        "offerLink": "https://s.shopee.com.br/2qUSh5dshV"
       },
       "_last_price": null
     },
@@ -30285,35 +30314,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mng43m9ed3b8f7",
         "productLink": "https://shopee.com.br/product/1788857478/58259413705",
         "offerLink": "https://s.shopee.com.br/40gQ5BnZmx"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58209856096",
-      "name": "Covo Armadilha Com 6 ou 8 Furos Pesca Peixes Siri Lambari Camarão Iscas Guarda Chuva//octogonal",
-      "price": 17.99,
-      "original_price": 22.49,
-      "discount": 20.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mrlx7ysr34ef9e",
-      "link": "https://s.shopee.com.br/8KpPKEpEUO",
-      "rating": "4.8",
-      "sales": 341,
-      "shop": "Jeff's House",
-      "category": "isca pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58209856096,
-        "productName": "Covo Armadilha Com 6 ou 8 Furos Pesca Peixes Siri Lambari Camarão Iscas Guarda Chuva//octogonal",
-        "price": "17.99",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.13",
-        "sales": 341,
-        "ratingStar": "4.8",
-        "shopName": "Jeff's House",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mrlx7ysr34ef9e",
-        "productLink": "https://shopee.com.br/product/1229064630/58209856096",
-        "offerLink": "https://s.shopee.com.br/8KpPKEpEUO"
       },
       "_last_price": null
     },
