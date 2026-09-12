@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T02:29:43.793104+00:00",
-  "total": 1118,
+  "updated_at": "2026-09-12T02:48:34.904640+00:00",
+  "total": 1119,
   "products": [
     {
       "id": "52011120312",
@@ -3523,7 +3523,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkb1itv9v5s1c9",
         "productLink": "https://shopee.com.br/product/883941882/58263267581",
         "offerLink": "https://s.shopee.com.br/4VcgfwLBmw"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "40431620086",
@@ -8073,8 +8074,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258f-mrnbx4w3e8zqf1",
         "productLink": "https://shopee.com.br/product/1912999973/58265836602",
         "offerLink": "https://s.shopee.com.br/Ln93jaksf"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "19797926230",
@@ -10919,6 +10919,35 @@
       "_last_price": null
     },
     {
+      "id": "23798203051",
+      "name": "Kit 100 forma de airfryer descartavel antiaderente de papel cozinha quadrado fritadeira cozimento",
+      "price": 13.99,
+      "original_price": 29.77,
+      "discount": 53.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-msc0ajin7hms37",
+      "link": "https://s.shopee.com.br/3qMzxuCAr4",
+      "rating": "4.8",
+      "sales": 2078,
+      "shop": "Casa&C Shop",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23798203051,
+        "productName": "Kit 100 forma de airfryer descartavel antiaderente de papel cozinha quadrado fritadeira cozimento",
+        "price": "13.99",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.03",
+        "sales": 2078,
+        "ratingStar": "4.8",
+        "shopName": "Casa&C Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-msc0ajin7hms37",
+        "productLink": "https://shopee.com.br/product/1252710748/23798203051",
+        "offerLink": "https://s.shopee.com.br/3qMzxuCAr4"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23193702716",
       "name": "Panela de Pressão 4,5L Antiaderente com Visor de Vidro na Tampa 12cm Grande Grafite / Cereja / Perola 4,5 Litros MTA",
       "price": 139.59,
@@ -11582,35 +11611,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbkx-lq22tpnq1js601",
         "productLink": "https://shopee.com.br/product/450664666/23397277498",
         "offerLink": "https://s.shopee.com.br/W6Xuh7BvS"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23798203051",
-      "name": "Kit 100 forma de airfryer descartavel antiaderente de papel cozinha quadrado fritadeira cozimento",
-      "price": 15.99,
-      "original_price": 33.31,
-      "discount": 52.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-msc0ajin7hms37",
-      "link": "https://s.shopee.com.br/3qMzxuCAr4",
-      "rating": "4.8",
-      "sales": 2078,
-      "shop": "Casa&C Shop",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23798203051,
-        "productName": "Kit 100 forma de airfryer descartavel antiaderente de papel cozinha quadrado fritadeira cozimento",
-        "price": "15.99",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 2078,
-        "ratingStar": "4.8",
-        "shopName": "Casa&C Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-msc0ajin7hms37",
-        "productLink": "https://shopee.com.br/product/1252710748/23798203051",
-        "offerLink": "https://s.shopee.com.br/3qMzxuCAr4"
       },
       "_last_price": null
     },
@@ -21558,6 +21558,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82597-mqc7sqdc4wzl2b",
         "productLink": "https://shopee.com.br/product/1777808991/58263775797",
         "offerLink": "https://s.shopee.com.br/6fhBG0xJlr"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22498328593",
+      "name": "Kit Transportador Ajustável para Cães e Gatos com Coleira de Malha para Todas as Estações",
+      "price": 18.71,
+      "original_price": 29.23,
+      "discount": 36.0,
+      "commission": 0.1,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mezde4nxul8n64",
+      "link": "https://s.shopee.com.br/4AzrcnUcsv",
+      "rating": "4.9",
+      "sales": 945,
+      "shop": "Atisen",
+      "category": "coleira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22498328593,
+        "productName": "Kit Transportador Ajustável para Cães e Gatos com Coleira de Malha para Todas as Estações",
+        "price": "18.71",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.1",
+        "sales": 945,
+        "ratingStar": "4.9",
+        "shopName": "Atisen",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mezde4nxul8n64",
+        "productLink": "https://shopee.com.br/product/1451694145/22498328593",
+        "offerLink": "https://s.shopee.com.br/4AzrcnUcsv"
       },
       "_last_price": null
     },
