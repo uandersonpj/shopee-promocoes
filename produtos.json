@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T04:03:25.991742+00:00",
-  "total": 1116,
+  "updated_at": "2026-09-12T04:22:04.680392+00:00",
+  "total": 1114,
   "products": [
     {
       "id": "52011120312",
@@ -86,7 +86,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg68t3ej3qit88",
         "productLink": "https://shopee.com.br/product/1638793253/22394636674",
         "offerLink": "https://s.shopee.com.br/BTjJVpL9R"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22194876950",
@@ -1761,35 +1762,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824jj-mpfvxsk51ibm93",
         "productLink": "https://shopee.com.br/product/321587846/46712193198",
         "offerLink": "https://s.shopee.com.br/9fKoRHM3Sn"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58208730330",
-      "name": "Kit 5/10/15 Iscas Artificial Soft Bait Tucunaré Traira Corvina",
-      "price": 22.13,
-      "original_price": 88.52,
-      "discount": 75.0,
-      "commission": 0.13,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mmzr7wtbrrpg89",
-      "link": "https://s.shopee.com.br/1BMEhyyMXQ",
-      "rating": "4.9",
-      "sales": 224,
-      "shop": "Fit Pico",
-      "category": "isca artificial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58208730330,
-        "productName": "Kit 5/10/15 Iscas Artificial Soft Bait Tucunaré Traira Corvina",
-        "price": "22.13",
-        "priceDiscountRate": 75,
-        "commissionRate": "0.13",
-        "sales": 224,
-        "ratingStar": "4.9",
-        "shopName": "Fit Pico",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mmzr7wtbrrpg89",
-        "productLink": "https://shopee.com.br/product/1748172680/58208730330",
-        "offerLink": "https://s.shopee.com.br/1BMEhyyMXQ"
       },
       "_last_price": null
     },
@@ -7355,35 +7327,6 @@
       "_last_price": null
     },
     {
-      "id": "20144035408",
-      "name": "MARVER 100PCS Flutuadores Ovais De Pesca Contas Noturnas Nova Luz Luminosa Mar De Plástico",
-      "price": 11.05,
-      "original_price": 27.62,
-      "discount": 60.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134201-820ln-mqxkb1vg60hw7a",
-      "link": "https://s.shopee.com.br/8AW0PYJmf4",
-      "rating": "4.5",
-      "sales": 23,
-      "shop": "maxqueen.br",
-      "category": "flutuador pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20144035408,
-        "productName": "MARVER 100PCS Flutuadores Ovais De Pesca Contas Noturnas Nova Luz Luminosa Mar De Plástico",
-        "price": "11.05",
-        "priceDiscountRate": 60,
-        "commissionRate": "0.03",
-        "sales": 23,
-        "ratingStar": "4.5",
-        "shopName": "maxqueen.br",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ln-mqxkb1vg60hw7a",
-        "productLink": "https://shopee.com.br/product/427548129/20144035408",
-        "offerLink": "https://s.shopee.com.br/8AW0PYJmf4"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58203113742",
       "name": "Rede De Pesca Gaiola De Camarão Dobrável Nylon Automático Guarda-chuva Forma Armadilha com 6/10 entradas",
       "price": 22.2,
@@ -11907,35 +11850,6 @@
       "_last_price": null
     },
     {
-      "id": "29105620063",
-      "name": "200PCS Flutuador Fluorescente De Pesca Bastão LED Escuro Acessórios 2.2mm",
-      "price": 32.57,
-      "original_price": 67.85,
-      "discount": 52.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdyg-lxuncu3k2afge9",
-      "link": "https://s.shopee.com.br/1qby1f6cRa",
-      "rating": "4.5",
-      "sales": 5,
-      "shop": "fivepoint1.br",
-      "category": "flutuador pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 29105620063,
-        "productName": "200PCS Flutuador Fluorescente De Pesca Bastão LED Escuro Acessórios 2.2mm",
-        "price": "32.57",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 5,
-        "ratingStar": "4.5",
-        "shopName": "fivepoint1.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyg-lxuncu3k2afge9",
-        "productLink": "https://shopee.com.br/product/295437088/29105620063",
-        "offerLink": "https://s.shopee.com.br/1qby1f6cRa"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23298641767",
       "name": "Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente,Aparelho De Pressão",
       "price": 38.89,
@@ -15561,6 +15475,35 @@
       "_last_price": null
     },
     {
+      "id": "26236796614",
+      "name": "Luz Noturna Flutuador Eletrônico Pesca CR425 Bateria 5 Peças Para Substituição",
+      "price": 11.61,
+      "original_price": 21.91,
+      "discount": 47.0,
+      "commission": 0.16,
+      "image": "https://cf.shopee.com.br/file/sg-11134301-7rff4-m9paksgtm7554a",
+      "link": "https://s.shopee.com.br/5AsOojxWb4",
+      "rating": "4.9",
+      "sales": 49,
+      "shop": "Choice Oficial",
+      "category": "flutuador pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 26236796614,
+        "productName": "Luz Noturna Flutuador Eletrônico Pesca CR425 Bateria 5 Peças Para Substituição",
+        "price": "11.61",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.16",
+        "sales": 49,
+        "ratingStar": "4.9",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rff4-m9paksgtm7554a",
+        "productLink": "https://shopee.com.br/product/1006215031/26236796614",
+        "offerLink": "https://s.shopee.com.br/5AsOojxWb4"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23196489107",
       "name": "Luvas De Pesca Proteção Solar Antiderrapantes Sem Dedos Para Ciclismo",
       "price": 16.96,
@@ -17475,6 +17418,35 @@
       "_last_price": null
     },
     {
+      "id": "48857230908",
+      "name": "Vara de pesca telescópica, suave e ultraleve, ideal para diversas situações, com comprimentos de 2,4 m e 3,6 m",
+      "price": 25.8,
+      "original_price": 46.07,
+      "discount": 44.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsuws7bcgznad",
+      "link": "https://s.shopee.com.br/BTirXhQjg",
+      "rating": "4.8",
+      "sales": 1670,
+      "shop": "BD Boutique De Lustres",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 48857230908,
+        "productName": "Vara de pesca telescópica, suave e ultraleve, ideal para diversas situações, com comprimentos de 2,4 m e 3,6 m",
+        "price": "25.8",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.11",
+        "sales": 1670,
+        "ratingStar": "4.8",
+        "shopName": "BD Boutique De Lustres",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsuws7bcgznad",
+        "productLink": "https://shopee.com.br/product/1489642227/48857230908",
+        "offerLink": "https://s.shopee.com.br/BTirXhQjg"
+      },
+      "_last_price": null
+    },
+    {
       "id": "44423564731",
       "name": "Boia Infantil Colete Flutuador Premium Com Bracadeira De Segurança 1 a 7 Anos NÃO FURA AcquaFun",
       "price": 44.99,
@@ -17558,35 +17530,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbmh-lqfui4b1hnvq5f",
         "productLink": "https://shopee.com.br/product/242908750/25758322818",
         "offerLink": "https://s.shopee.com.br/2qUU2S6PKm"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "56309267831",
-      "name": "[Novo] Alarme De Mordida De Pesca Com Luzes LED E Som Alerta Flutuador Noturna",
-      "price": 24.15,
-      "original_price": 43.12,
-      "discount": 44.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-820m1-mnbo5wk1fvuud6",
-      "link": "https://s.shopee.com.br/1Vz7d37t7U",
-      "rating": "5",
-      "sales": 1,
-      "shop": "Raaweton.br",
-      "category": "flutuador pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 56309267831,
-        "productName": "[Novo] Alarme De Mordida De Pesca Com Luzes LED E Som Alerta Flutuador Noturna",
-        "price": "24.15",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.12",
-        "sales": 1,
-        "ratingStar": "5",
-        "shopName": "Raaweton.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820m1-mnbo5wk1fvuud6",
-        "productLink": "https://shopee.com.br/product/910184938/56309267831",
-        "offerLink": "https://s.shopee.com.br/1Vz7d37t7U"
       },
       "_last_price": null
     },
@@ -18283,6 +18226,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mse706myzchz1b",
         "productLink": "https://shopee.com.br/product/1177903362/58267057981",
         "offerLink": "https://s.shopee.com.br/9fKoeDo496"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "43828181509",
+      "name": "Rampa Casa de Gato Toca Para Gatos Arranhador Brinquedo Playground MDF Carpete 30x47x36cm",
+      "price": 28.9,
+      "original_price": 49.83,
+      "discount": 42.0,
+      "commission": 0.14,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjppm99xbuh244",
+      "link": "https://s.shopee.com.br/2VrcIMmJCr",
+      "rating": "4.6",
+      "sales": 983,
+      "shop": "ACB UTILIDADES",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 43828181509,
+        "productName": "Rampa Casa de Gato Toca Para Gatos Arranhador Brinquedo Playground MDF Carpete 30x47x36cm",
+        "price": "28.9",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.14",
+        "sales": 983,
+        "ratingStar": "4.6",
+        "shopName": "ACB UTILIDADES",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjppm99xbuh244",
+        "productLink": "https://shopee.com.br/product/775360591/43828181509",
+        "offerLink": "https://s.shopee.com.br/2VrcIMmJCr"
       },
       "_last_price": null
     },
@@ -19327,35 +19299,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjppm99xbuh244",
         "productLink": "https://shopee.com.br/product/1610896010/58253767614",
         "offerLink": "https://s.shopee.com.br/W6XugtvGP"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "43828181509",
-      "name": "Rampa Casa de Gato Toca Para Gatos Arranhador Brinquedo Playground MDF Carpete 30x47x36cm",
-      "price": 29.8,
-      "original_price": 49.67,
-      "discount": 40.0,
-      "commission": 0.14,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjppm99xbuh244",
-      "link": "https://s.shopee.com.br/2VrcIMmJCr",
-      "rating": "4.6",
-      "sales": 983,
-      "shop": "ACB UTILIDADES",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 43828181509,
-        "productName": "Rampa Casa de Gato Toca Para Gatos Arranhador Brinquedo Playground MDF Carpete 30x47x36cm",
-        "price": "29.8",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.14",
-        "sales": 983,
-        "ratingStar": "4.6",
-        "shopName": "ACB UTILIDADES",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjppm99xbuh244",
-        "productLink": "https://shopee.com.br/product/775360591/43828181509",
-        "offerLink": "https://s.shopee.com.br/2VrcIMmJCr"
       },
       "_last_price": null
     },
@@ -20955,6 +20898,35 @@
       "_last_price": null
     },
     {
+      "id": "41417041430",
+      "name": "Placa de Vídeo MSI NVIDIA GeForce RTX 5060 SHADOW 2X OC, 8GB, GDDR7, 128 Bits - 912-V537-038",
+      "price": 2898.71,
+      "original_price": 4601.13,
+      "discount": 37.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824h3-me53t34yuepze5",
+      "link": "https://s.shopee.com.br/BTisdBdAd",
+      "rating": "5",
+      "sales": 390,
+      "shop": "ITX-GAMER",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41417041430,
+        "productName": "Placa de Vídeo MSI NVIDIA GeForce RTX 5060 SHADOW 2X OC, 8GB, GDDR7, 128 Bits - 912-V537-038",
+        "price": "2898.71",
+        "priceDiscountRate": 37,
+        "commissionRate": "0.03",
+        "sales": 390,
+        "ratingStar": "5",
+        "shopName": "ITX-GAMER",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h3-me53t34yuepze5",
+        "productLink": "https://shopee.com.br/product/778397589/41417041430",
+        "offerLink": "https://s.shopee.com.br/BTisdBdAd"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22693835808",
       "name": "Placa Captura De Vídeo 4k 1080p 60fps Full Hd Usb 3.0 Hdmi",
       "price": 78.9,
@@ -21853,35 +21825,6 @@
       "_last_price": null
     },
     {
-      "id": "48857230908",
-      "name": "Vara de pesca telescópica, suave e ultraleve, ideal para diversas situações, com comprimentos de 2,4 m e 3,6 m",
-      "price": 69.9,
-      "original_price": 109.22,
-      "discount": 36.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsuws7bcgznad",
-      "link": "https://s.shopee.com.br/BTirXhQjg",
-      "rating": "4.8",
-      "sales": 1670,
-      "shop": "BD Boutique De Lustres",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 48857230908,
-        "productName": "Vara de pesca telescópica, suave e ultraleve, ideal para diversas situações, com comprimentos de 2,4 m e 3,6 m",
-        "price": "69.9",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.11",
-        "sales": 1670,
-        "ratingStar": "4.8",
-        "shopName": "BD Boutique De Lustres",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsuws7bcgznad",
-        "productLink": "https://shopee.com.br/product/1489642227/48857230908",
-        "offerLink": "https://s.shopee.com.br/BTirXhQjg"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20097670864",
       "name": "Gaveteiro Plástico Organizador Com 16 Gavetas Pequeno para pesca, remédios e parafusos 7001 TOY 25401",
       "price": 17.9,
@@ -22603,35 +22546,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822ys-mic0mday5ipwf1",
         "productLink": "https://shopee.com.br/product/1552226494/23799229847",
         "offerLink": "https://s.shopee.com.br/W6XuZALyK"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "41417041430",
-      "name": "Placa de Vídeo MSI NVIDIA GeForce RTX 5060 SHADOW 2X OC, 8GB, GDDR7, 128 Bits - 912-V537-038",
-      "price": 2999.0,
-      "original_price": 4543.94,
-      "discount": 34.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824h3-me53t34yuepze5",
-      "link": "https://s.shopee.com.br/BTisdBdAd",
-      "rating": "5",
-      "sales": 390,
-      "shop": "ITX-GAMER",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41417041430,
-        "productName": "Placa de Vídeo MSI NVIDIA GeForce RTX 5060 SHADOW 2X OC, 8GB, GDDR7, 128 Bits - 912-V537-038",
-        "price": "2999",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.03",
-        "sales": 390,
-        "ratingStar": "5",
-        "shopName": "ITX-GAMER",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h3-me53t34yuepze5",
-        "productLink": "https://shopee.com.br/product/778397589/41417041430",
-        "offerLink": "https://s.shopee.com.br/BTisdBdAd"
       },
       "_last_price": null
     },
@@ -24173,6 +24087,35 @@
       "_last_price": null
     },
     {
+      "id": "28957970918",
+      "name": "Seifininier Pesca Bobber Red 300pcs/Pack Rubber Stopper Oval Flutuador De Cilíndrico Transparente",
+      "price": 11.71,
+      "original_price": 17.22,
+      "discount": 32.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-81zuh-mn4h4pyllqtd06",
+      "link": "https://s.shopee.com.br/3B7KR458es",
+      "rating": "4.8",
+      "sales": 31,
+      "shop": "SFEINRER",
+      "category": "flutuador pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 28957970918,
+        "productName": "Seifininier Pesca Bobber Red 300pcs/Pack Rubber Stopper Oval Flutuador De Cilíndrico Transparente",
+        "price": "11.71",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.03",
+        "sales": 31,
+        "ratingStar": "4.8",
+        "shopName": "SFEINRER",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zuh-mn4h4pyllqtd06",
+        "productLink": "https://shopee.com.br/product/1228959663/28957970918",
+        "offerLink": "https://s.shopee.com.br/3B7KR458es"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58216826128",
       "name": "Suporte Vara Pesca Triplo Barranco Emborrachado Reforçado",
       "price": 33.99,
@@ -24430,6 +24373,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mqtzkwjgcc1s57",
         "productLink": "https://shopee.com.br/product/327707556/22299216720",
         "offerLink": "https://s.shopee.com.br/9V1MdDmX1e"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "29243009805",
+      "name": "Caixa 12 Sachê Premium Special Cat",
+      "price": 32.8,
+      "original_price": 47.54,
+      "discount": 31.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh1wm4uewnbbc4",
+      "link": "https://s.shopee.com.br/2VrdzKb2oc",
+      "rating": "4.9",
+      "sales": 1055,
+      "shop": "mypetone",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 29243009805,
+        "productName": "Caixa 12 Sachê Premium Special Cat",
+        "price": "32.8",
+        "priceDiscountRate": 31,
+        "commissionRate": "0.11",
+        "sales": 1055,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh1wm4uewnbbc4",
+        "productLink": "https://shopee.com.br/product/290073877/29243009805",
+        "offerLink": "https://s.shopee.com.br/2VrdzKb2oc"
       },
       "_last_price": null
     },
@@ -26460,35 +26432,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mpxrqimljshuc3",
         "productLink": "https://shopee.com.br/product/330053421/22493892274",
         "offerLink": "https://s.shopee.com.br/1gIWubKhJw"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "17737293427",
-      "name": "150 Pcs De Borracha multicolor Stopper Para Feijão Espaço Oval Forma Boias Fixas Bobber Flutuador Paradas De Pesca Equipamento",
-      "price": 10.97,
-      "original_price": 15.24,
-      "discount": 28.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/afbd3d1df9bae694ce7993202bf5f515",
-      "link": "https://s.shopee.com.br/1gIXpM7FmZ",
-      "rating": "4.8",
-      "sales": 21,
-      "shop": "Rompin Sports.BR",
-      "category": "flutuador pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 17737293427,
-        "productName": "150 Pcs De Borracha multicolor Stopper Para Feijão Espaço Oval Forma Boias Fixas Bobber Flutuador Paradas De Pesca Equipamento",
-        "price": "10.97",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.03",
-        "sales": 21,
-        "ratingStar": "4.8",
-        "shopName": "Rompin Sports.BR",
-        "imageUrl": "https://cf.shopee.com.br/file/afbd3d1df9bae694ce7993202bf5f515",
-        "productLink": "https://shopee.com.br/product/264725321/17737293427",
-        "offerLink": "https://s.shopee.com.br/1gIXpM7FmZ"
       },
       "_last_price": null
     },
@@ -30613,8 +30556,8 @@
     {
       "id": "25046330542",
       "name": "Celimax Brightening Pore+ Dark Spot Cream 35ml, 7ml",
-      "price": 146.29,
-      "original_price": 180.6,
+      "price": 42.7,
+      "original_price": 52.72,
       "discount": 19.0,
       "commission": 0.25,
       "image": "https://cf.shopee.com.br/file/sg-11134207-825a4-mr9pzqvf632f09",
@@ -30627,7 +30570,7 @@
       "_item": {
         "itemId": 25046330542,
         "productName": "Celimax Brightening Pore+ Dark Spot Cream 35ml, 7ml",
-        "price": "146.29",
+        "price": "42.7",
         "priceDiscountRate": 19,
         "commissionRate": "0.25",
         "sales": 10063,
