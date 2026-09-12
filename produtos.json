@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T06:13:47.896397+00:00",
+  "updated_at": "2026-09-12T06:32:24.849930+00:00",
   "total": 1115,
   "products": [
     {
@@ -2808,7 +2808,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
         "productLink": "https://shopee.com.br/product/1368232097/58207198817",
         "offerLink": "https://s.shopee.com.br/40gQ5DR2qP"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23199448516",
@@ -10170,35 +10171,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mlmms06ewtmt08",
         "productLink": "https://shopee.com.br/product/1391354759/58206612939",
         "offerLink": "https://s.shopee.com.br/20vN44ktc5"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23397982095",
-      "name": "Expositor de Perfumes Cosméticos 3 Andares Multiuso Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza",
-      "price": 31.99,
-      "original_price": 69.54,
-      "discount": 54.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1qfaspn0ejuf9",
-      "link": "https://s.shopee.com.br/4Vci2fbNXm",
-      "rating": "5",
-      "sales": 3682,
-      "shop": "CASA RIOCHIQUE",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23397982095,
-        "productName": "Expositor de Perfumes Cosméticos 3 Andares Multiuso Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza",
-        "price": "31.99",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.08",
-        "sales": 3682,
-        "ratingStar": "5",
-        "shopName": "CASA RIOCHIQUE",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1qfaspn0ejuf9",
-        "productLink": "https://shopee.com.br/product/1103934359/23397982095",
-        "offerLink": "https://s.shopee.com.br/4Vci2fbNXm"
       },
       "_last_price": null
     },
@@ -18969,7 +18941,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnbt1yyibzt02f",
       "link": "https://s.shopee.com.br/7Kws4TU0Un",
-      "rating": "4.7",
+      "rating": "4.8",
       "sales": 630,
       "shop": "CASA CLEAN SHOP",
       "category": "desinfetante",
@@ -18981,7 +18953,7 @@
         "priceDiscountRate": 40,
         "commissionRate": "0.03",
         "sales": 630,
-        "ratingStar": "4.7",
+        "ratingStar": "4.8",
         "shopName": "CASA CLEAN SHOP",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnbt1yyibzt02f",
         "productLink": "https://shopee.com.br/product/487455000/58259287537",
@@ -21310,6 +21282,35 @@
       "_last_price": null
     },
     {
+      "id": "23594350080",
+      "name": "Dispenser Organizador Lavanderia 2,3 e 1,5 Litros Acrílico amaciante sabão em pó Lavanderia - OU",
+      "price": 36.89,
+      "original_price": 57.64,
+      "discount": 36.0,
+      "commission": 0.09,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meftxtpxqy2qda",
+      "link": "https://s.shopee.com.br/60RWHTfouZ",
+      "rating": "4.9",
+      "sales": 365,
+      "shop": "ODOM Imports",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23594350080,
+        "productName": "Dispenser Organizador Lavanderia 2,3 e 1,5 Litros Acrílico amaciante sabão em pó Lavanderia - OU",
+        "price": "36.89",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.09",
+        "sales": 365,
+        "ratingStar": "4.9",
+        "shopName": "ODOM Imports",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meftxtpxqy2qda",
+        "productLink": "https://shopee.com.br/product/396855381/23594350080",
+        "offerLink": "https://s.shopee.com.br/60RWHTfouZ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "57159028091",
       "name": "Base Amaciante Concentrada 250ml Faz até 50 litros perfumada tipo DOWNYEX RENDE MUITO",
       "price": 18.97,
@@ -23631,8 +23632,8 @@
     {
       "id": "52764100798",
       "name": "Conjunto De Chapéu Camuflado Jungle , Faixa De Cabeça Multiuso , Boné De Pesca , Proteção Solar Uv",
-      "price": 37.5,
-      "original_price": 55.97,
+      "price": 37.42,
+      "original_price": 55.85,
       "discount": 33.0,
       "commission": 0.09,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8258z-mrr1y43o5y4o25",
@@ -23645,7 +23646,7 @@
       "_item": {
         "itemId": 52764100798,
         "productName": "Conjunto De Chapéu Camuflado Jungle , Faixa De Cabeça Multiuso , Boné De Pesca , Proteção Solar Uv",
-        "price": "37.5",
+        "price": "37.42",
         "priceDiscountRate": 33,
         "commissionRate": "0.09",
         "sales": 11,
