@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T00:17:33.331144+00:00",
-  "total": 1120,
+  "updated_at": "2026-09-12T00:36:30.525286+00:00",
+  "total": 1118,
   "products": [
     {
       "id": "52011120312",
@@ -1210,7 +1210,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lzop7krz80iq1e",
         "productLink": "https://shopee.com.br/product/218996205/25391678999",
         "offerLink": "https://s.shopee.com.br/1Lfeu67BHf"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23696895359",
@@ -1961,6 +1962,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq1kgvrfpvdba",
         "productLink": "https://shopee.com.br/product/462426918/23794330101",
         "offerLink": "https://s.shopee.com.br/2gB2UbRDyG"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23398908978",
+      "name": "Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Carrinhos de Metal – Kit Infantil🦖🚚",
+      "price": 69.98,
+      "original_price": 259.19,
+      "discount": 73.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mnz5ipg57t3539",
+      "link": "https://s.shopee.com.br/3Vk9UAeyoj",
+      "rating": "5",
+      "sales": 1546,
+      "shop": "CANDYSTAR",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23398908978,
+        "productName": "Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Carrinhos de Metal – Kit Infantil🦖🚚",
+        "price": "69.98",
+        "priceDiscountRate": 73,
+        "commissionRate": "0.13",
+        "sales": 1546,
+        "ratingStar": "5",
+        "shopName": "CANDYSTAR",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mnz5ipg57t3539",
+        "productLink": "https://shopee.com.br/product/1634545368/23398908978",
+        "offerLink": "https://s.shopee.com.br/3Vk9UAeyoj"
       },
       "_last_price": null
     },
@@ -2771,8 +2801,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
         "productLink": "https://shopee.com.br/product/1368232097/58207198817",
         "offerLink": "https://s.shopee.com.br/40gQ5DR2qP"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23199448516",
@@ -4134,35 +4163,6 @@
       "_last_price": null
     },
     {
-      "id": "58261556193",
-      "name": "Kit 4 Body Splash Egeo Fragancias refrescantes Vanilla e Melancia + Florata Red + Choc (60 ml cada)",
-      "price": 27.9,
-      "original_price": 82.06,
-      "discount": 66.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mosd8f3gbda8d5",
-      "link": "https://s.shopee.com.br/6VNnKa6yOf",
-      "rating": "4.5",
-      "sales": 2197,
-      "shop": "Claro.Wash",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58261556193,
-        "productName": "Kit 4 Body Splash Egeo Fragancias refrescantes Vanilla e Melancia + Florata Red + Choc (60 ml cada)",
-        "price": "27.9",
-        "priceDiscountRate": 66,
-        "commissionRate": "0.03",
-        "sales": 2197,
-        "ratingStar": "4.5",
-        "shopName": "Claro.Wash",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mosd8f3gbda8d5",
-        "productLink": "https://shopee.com.br/product/1136598687/58261556193",
-        "offerLink": "https://s.shopee.com.br/6VNnKa6yOf"
-      },
-      "_last_price": null
-    },
-    {
       "id": "54311772339",
       "name": "2D Plana Acrílico Muscular Fitness Menina Chaveiro Forte Levantamento Haltere Saco Charme Esportes Musculação Acessório",
       "price": 12.0,
@@ -5029,6 +5029,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1cw1w7gsew0a8",
         "productLink": "https://shopee.com.br/product/979724994/23693426827",
         "offerLink": "https://s.shopee.com.br/9peEqYi9gd"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22099483975",
+      "name": "Kit 2 Body Splash Feminino Perfumado Encanto Lily + Florata Rose Presente Cheiroso Longa Duração",
+      "price": 28.9,
+      "original_price": 80.28,
+      "discount": 64.0,
+      "commission": 0.17,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-820o8-mnwuoe6zva4ke8",
+      "link": "https://s.shopee.com.br/2BEnGNkGH6",
+      "rating": "4.5",
+      "sales": 4145,
+      "shop": "AH.BOUTIQUE",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22099483975,
+        "productName": "Kit 2 Body Splash Feminino Perfumado Encanto Lily + Florata Rose Presente Cheiroso Longa Duração",
+        "price": "28.9",
+        "priceDiscountRate": 64,
+        "commissionRate": "0.17",
+        "sales": 4145,
+        "ratingStar": "4.5",
+        "shopName": "AH.BOUTIQUE",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820o8-mnwuoe6zva4ke8",
+        "productLink": "https://shopee.com.br/product/1289607950/22099483975",
+        "offerLink": "https://s.shopee.com.br/2BEnGNkGH6"
       },
       "_last_price": null
     },
@@ -6014,64 +6043,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
         "productLink": "https://shopee.com.br/product/1638239765/58205100450",
         "offerLink": "https://s.shopee.com.br/7AdTeMpUhp"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21798032135",
-      "name": "Carrinho de Passeio Infantil Quadriciclo Andador Empurrador Com Buzina e Cinto de Segurança",
-      "price": 339.9,
-      "original_price": 894.47,
-      "discount": 62.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mrjd861mwikl5d",
-      "link": "https://s.shopee.com.br/W6ZJunIuP",
-      "rating": "4.8",
-      "sales": 539,
-      "shop": "Jade-Shop",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21798032135,
-        "productName": "Carrinho de Passeio Infantil Quadriciclo Andador Empurrador Com Buzina e Cinto de Segurança",
-        "price": "339.9",
-        "priceDiscountRate": 62,
-        "commissionRate": "0.08",
-        "sales": 539,
-        "ratingStar": "4.8",
-        "shopName": "Jade-Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mrjd861mwikl5d",
-        "productLink": "https://shopee.com.br/product/751907905/21798032135",
-        "offerLink": "https://s.shopee.com.br/W6ZJunIuP"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "55806745399",
-      "name": "Carrinho de Controle Remoto  Esportivo Com Luz Super Rápido Veloz Abre Porta",
-      "price": 45.89,
-      "original_price": 120.76,
-      "discount": 62.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820li-mldx0ptzf9c67c",
-      "link": "https://s.shopee.com.br/1LfhB607Ea",
-      "rating": "4.7",
-      "sales": 885,
-      "shop": "imatacado",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 55806745399,
-        "productName": "Carrinho de Controle Remoto  Esportivo Com Luz Super Rápido Veloz Abre Porta",
-        "price": "45.89",
-        "priceDiscountRate": 62,
-        "commissionRate": "0.03",
-        "sales": 885,
-        "ratingStar": "4.7",
-        "shopName": "imatacado",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mldx0ptzf9c67c",
-        "productLink": "https://shopee.com.br/product/1193388723/55806745399",
-        "offerLink": "https://s.shopee.com.br/1LfhB607Ea"
       },
       "_last_price": null
     },
@@ -8657,35 +8628,6 @@
       "_last_price": null
     },
     {
-      "id": "58201153556",
-      "name": "Arranhador Para Gatos 5 Andares Torre Com Casinha Poste E Brinquedo Pet",
-      "price": 214.9,
-      "original_price": 499.77,
-      "discount": 57.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mrqcqprr9dl045",
-      "link": "https://s.shopee.com.br/50YxGxcn8a",
-      "rating": "4.9",
-      "sales": 342,
-      "shop": "SuperPetShowOnline",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58201153556,
-        "productName": "Arranhador Para Gatos 5 Andares Torre Com Casinha Poste E Brinquedo Pet",
-        "price": "214.9",
-        "priceDiscountRate": 57,
-        "commissionRate": "0.07",
-        "sales": 342,
-        "ratingStar": "4.9",
-        "shopName": "SuperPetShowOnline",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mrqcqprr9dl045",
-        "productLink": "https://shopee.com.br/product/1550811576/58201153556",
-        "offerLink": "https://s.shopee.com.br/50YxGxcn8a"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22598486102",
       "name": "Coleira Peitoral Com Guia para Cães E Gatos Colete Respirável Regulável Super Confortável  bosco",
       "price": 12.99,
@@ -9585,35 +9527,6 @@
       "_last_price": null
     },
     {
-      "id": "23393395960",
-      "name": "Thermal Pad Térmico 1/2/3mm Para PS4, PS3, PS2, PS1, XBOX, Processador, Memória RAM, Placa de Vídeo",
-      "price": 10.5,
-      "original_price": 23.33,
-      "discount": 55.0,
-      "commission": 0.12,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyaushhh43q14",
-      "link": "https://s.shopee.com.br/3g3b33yJ4S",
-      "rating": "4.7",
-      "sales": 236,
-      "shop": "MAKING CASH",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23393395960,
-        "productName": "Thermal Pad Térmico 1/2/3mm Para PS4, PS3, PS2, PS1, XBOX, Processador, Memória RAM, Placa de Vídeo",
-        "price": "10.5",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.12",
-        "sales": 236,
-        "ratingStar": "4.7",
-        "shopName": "MAKING CASH",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyaushhh43q14",
-        "productLink": "https://shopee.com.br/product/234308900/23393395960",
-        "offerLink": "https://s.shopee.com.br/3g3b33yJ4S"
-      },
-      "_last_price": null
-    },
-    {
       "id": "53706778003",
       "name": "Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 300MBPS",
       "price": 52.98,
@@ -9900,6 +9813,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcf9-lton9bme325s31",
         "productLink": "https://shopee.com.br/product/378105312/18297665963",
         "offerLink": "https://s.shopee.com.br/5AsPGhWJ0F"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21199705986",
+      "name": "Quadriciclo Stellar Rosa 1-3 Anos Até 30kg - Carrinho Passeio Menina - Ajustável Até 1mt de Altura",
+      "price": 224.9,
+      "original_price": 499.78,
+      "discount": 55.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhc7p05778xxac",
+      "link": "https://s.shopee.com.br/7pt8e8OU1j",
+      "rating": "4.8",
+      "sales": 849,
+      "shop": "QUEENSHOP_BR",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21199705986,
+        "productName": "Quadriciclo Stellar Rosa 1-3 Anos Até 30kg - Carrinho Passeio Menina - Ajustável Até 1mt de Altura",
+        "price": "224.9",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.07",
+        "sales": 849,
+        "ratingStar": "4.8",
+        "shopName": "QUEENSHOP_BR",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhc7p05778xxac",
+        "productLink": "https://shopee.com.br/product/1007842724/21199705986",
+        "offerLink": "https://s.shopee.com.br/7pt8e8OU1j"
       },
       "_last_price": null
     },
@@ -12282,35 +12224,6 @@
       "_last_price": null
     },
     {
-      "id": "22797990501",
-      "name": "Pasta Térmica Prata GD900 Para Processador, PS2, PS3, PS4, Notebook, Placa de Vídeo e PC 1G-4,8W/m·K",
-      "price": 11.68,
-      "original_price": 23.36,
-      "discount": 50.0,
-      "commission": 0.11,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgfjgitsxamdce",
-      "link": "https://s.shopee.com.br/5LBnfS5DnO",
-      "rating": "4.9",
-      "sales": 1323,
-      "shop": "MAKING CASH",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22797990501,
-        "productName": "Pasta Térmica Prata GD900 Para Processador, PS2, PS3, PS4, Notebook, Placa de Vídeo e PC 1G-4,8W/m·K",
-        "price": "11.68",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.11",
-        "sales": 1323,
-        "ratingStar": "4.9",
-        "shopName": "MAKING CASH",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgfjgitsxamdce",
-        "productLink": "https://shopee.com.br/product/234308900/22797990501",
-        "offerLink": "https://s.shopee.com.br/5LBnfS5DnO"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58256611329",
       "name": "Suporte Ajustável Placa de Vídeo GPU Anti-Sag Universal 2,6cm a 12cm Suporte Vertical GPU PC Gamer Pequeno Médio Grande",
       "price": 10.95,
@@ -13873,6 +13786,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lp94bb8ncmhj31",
         "productLink": "https://shopee.com.br/product/891592038/24453469246",
         "offerLink": "https://s.shopee.com.br/qjPigQG8l"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22797990501",
+      "name": "Pasta Térmica Prata GD900 Para Processador, PS2, PS3, PS4, Notebook, Placa de Vídeo e PC 1G-4,8W/m·K",
+      "price": 11.7,
+      "original_price": 22.94,
+      "discount": 49.0,
+      "commission": 0.11,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgfjgitsxamdce",
+      "link": "https://s.shopee.com.br/5LBnfS5DnO",
+      "rating": "4.9",
+      "sales": 1323,
+      "shop": "MAKING CASH",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22797990501,
+        "productName": "Pasta Térmica Prata GD900 Para Processador, PS2, PS3, PS4, Notebook, Placa de Vídeo e PC 1G-4,8W/m·K",
+        "price": "11.7",
+        "priceDiscountRate": 49,
+        "commissionRate": "0.11",
+        "sales": 1323,
+        "ratingStar": "4.9",
+        "shopName": "MAKING CASH",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgfjgitsxamdce",
+        "productLink": "https://shopee.com.br/product/234308900/22797990501",
+        "offerLink": "https://s.shopee.com.br/5LBnfS5DnO"
       },
       "_last_price": null
     },
@@ -17763,6 +17705,35 @@
       "_last_price": null
     },
     {
+      "id": "23393395960",
+      "name": "Thermal Pad Térmico 1/2/3mm Para PS4, PS3, PS2, PS1, XBOX, Processador, Memória RAM, Placa de Vídeo",
+      "price": 14.0,
+      "original_price": 24.56,
+      "discount": 43.0,
+      "commission": 0.12,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyaushhh43q14",
+      "link": "https://s.shopee.com.br/3g3b33yJ4S",
+      "rating": "4.7",
+      "sales": 236,
+      "shop": "MAKING CASH",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23393395960,
+        "productName": "Thermal Pad Térmico 1/2/3mm Para PS4, PS3, PS2, PS1, XBOX, Processador, Memória RAM, Placa de Vídeo",
+        "price": "14",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.12",
+        "sales": 236,
+        "ratingStar": "4.7",
+        "shopName": "MAKING CASH",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyaushhh43q14",
+        "productLink": "https://shopee.com.br/product/234308900/23393395960",
+        "offerLink": "https://s.shopee.com.br/3g3b33yJ4S"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58212490237",
       "name": "SUPORTE Articulado de Parede para Tv/monitor 32\" A 55\"",
       "price": 29.9,
@@ -18049,35 +18020,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwyhp7qaadvj62",
         "productLink": "https://shopee.com.br/product/659727139/22297616098",
         "offerLink": "https://s.shopee.com.br/7Kws3DQO2a"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "16389928134",
-      "name": "Capa de Bebe Conforto Bebê + Capota Solar + Jogo Protetor de Cinto Serve em Todas as Marcas",
-      "price": 45.39,
-      "original_price": 79.63,
-      "discount": 43.0,
-      "commission": 0.03,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mrzuzflakhl2a6",
-      "link": "https://s.shopee.com.br/1gIXZhyqYg",
-      "rating": "4.8",
-      "sales": 889,
-      "shop": "Pinheiro Baby",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 16389928134,
-        "productName": "Capa de Bebe Conforto Bebê + Capota Solar + Jogo Protetor de Cinto Serve em Todas as Marcas",
-        "price": "45.39",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.03",
-        "sales": 889,
-        "ratingStar": "4.8",
-        "shopName": "Pinheiro Baby",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mrzuzflakhl2a6",
-        "productLink": "https://shopee.com.br/product/762363442/16389928134",
-        "offerLink": "https://s.shopee.com.br/1gIXZhyqYg"
       },
       "_last_price": null
     },
@@ -19296,35 +19238,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbpfco15qbtl09",
         "productLink": "https://shopee.com.br/product/1379729613/22598691591",
         "offerLink": "https://s.shopee.com.br/3LQjHrfc9g"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23299182689",
-      "name": "COLCHONETE PARA CARRINHO 100% ALGODÃO - MODELO UNIVERSAL- VARIAS CORES",
-      "price": 71.44,
-      "original_price": 119.07,
-      "discount": 40.0,
-      "commission": 0.15,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh6ew9gzmqrk66",
-      "link": "https://s.shopee.com.br/1Vz7NOzTtd",
-      "rating": "4.9",
-      "sales": 813,
-      "shop": "Maratona do Bebê",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23299182689,
-        "productName": "COLCHONETE PARA CARRINHO 100% ALGODÃO - MODELO UNIVERSAL- VARIAS CORES",
-        "price": "71.44",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.15",
-        "sales": 813,
-        "ratingStar": "4.9",
-        "shopName": "Maratona do Bebê",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh6ew9gzmqrk66",
-        "productLink": "https://shopee.com.br/product/344410462/23299182689",
-        "offerLink": "https://s.shopee.com.br/1Vz7NOzTtd"
       },
       "_last_price": null
     },
@@ -20601,6 +20514,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rceu-ltfj3ocwcklr7a",
         "productLink": "https://shopee.com.br/product/378105312/20299229642",
         "offerLink": "https://s.shopee.com.br/5foe9EO8uo"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22394414025",
+      "name": "Kit 32 Fraldas Geriátricas Unissex ConfortMaster Pants  P/M G/EG Calcinha/Cueca Incontinência Severa",
+      "price": 77.98,
+      "original_price": 125.77,
+      "discount": 38.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mflkux3b9af954",
+      "link": "https://s.shopee.com.br/5q865E5upt",
+      "rating": "4.9",
+      "sales": 1534,
+      "shop": "CAZAC ARTIGOS GERAIS",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22394414025,
+        "productName": "Kit 32 Fraldas Geriátricas Unissex ConfortMaster Pants  P/M G/EG Calcinha/Cueca Incontinência Severa",
+        "price": "77.98",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.03",
+        "sales": 1534,
+        "ratingStar": "4.9",
+        "shopName": "CAZAC ARTIGOS GERAIS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mflkux3b9af954",
+        "productLink": "https://shopee.com.br/product/1480477115/22394414025",
+        "offerLink": "https://s.shopee.com.br/5q865E5upt"
       },
       "_last_price": null
     },
@@ -22780,35 +22722,6 @@
       "_last_price": null
     },
     {
-      "id": "52311303643",
-      "name": "BODY SPLASH MASCULINO VIBRATION 200ML - PRIMACIAL PERFUME CÍTRICO",
-      "price": 45.9,
-      "original_price": 69.55,
-      "discount": 34.0,
-      "commission": 0.1,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mosmz2tpi1a875",
-      "link": "https://s.shopee.com.br/60RWjf8sPa",
-      "rating": "4.8",
-      "sales": 2105,
-      "shop": "Primacial",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 52311303643,
-        "productName": "BODY SPLASH MASCULINO VIBRATION 200ML - PRIMACIAL PERFUME CÍTRICO",
-        "price": "45.9",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.1",
-        "sales": 2105,
-        "ratingStar": "4.8",
-        "shopName": "Primacial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mosmz2tpi1a875",
-        "productLink": "https://shopee.com.br/product/1295467768/52311303643",
-        "offerLink": "https://s.shopee.com.br/60RWjf8sPa"
-      },
-      "_last_price": null
-    },
-    {
       "id": "56002637177",
       "name": "SunnyFit 2 Pçs Puxar Para Cima Apertos Luvas De Levantamento De Peso Ginásio Treino De Fitness Haltere Barra De Mão Dead",
       "price": 39.99,
@@ -23936,35 +23849,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qq-mpd39b7kwcnj4f",
         "productLink": "https://shopee.com.br/product/1528288174/58212379163",
         "offerLink": "https://s.shopee.com.br/2VrdezizbC"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22394797894",
-      "name": "Kit 4 Perfumes Femininos Árabes 100ml",
-      "price": 67.99,
-      "original_price": 99.99,
-      "discount": 32.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9z9h64d4hy88",
-      "link": "https://s.shopee.com.br/6q0djC5hih",
-      "rating": "4.4",
-      "sales": 2040,
-      "shop": "All Parfum",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22394797894,
-        "productName": "Kit 4 Perfumes Femininos Árabes 100ml",
-        "price": "67.99",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.08",
-        "sales": 2040,
-        "ratingStar": "4.4",
-        "shopName": "All Parfum",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj9z9h64d4hy88",
-        "productLink": "https://shopee.com.br/product/1587862023/22394797894",
-        "offerLink": "https://s.shopee.com.br/6q0djC5hih"
       },
       "_last_price": null
     },
@@ -25270,35 +25154,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mrez1cew2oed35",
         "productLink": "https://shopee.com.br/product/1505860882/44915338553",
         "offerLink": "https://s.shopee.com.br/Ln9VoohoU"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23498386191",
-      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-      "price": 224.91,
-      "original_price": 321.3,
-      "discount": 30.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-      "link": "https://s.shopee.com.br/40gQ55d4nk",
-      "rating": "4.9",
-      "sales": 1539,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498386191,
-        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-        "price": "224.91",
-        "priceDiscountRate": 30,
-        "commissionRate": "0.07",
-        "sales": 1539,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-        "productLink": "https://shopee.com.br/product/504754787/23498386191",
-        "offerLink": "https://s.shopee.com.br/40gQ55d4nk"
       },
       "_last_price": null
     },
@@ -26840,6 +26695,35 @@
       "_last_price": null
     },
     {
+      "id": "23597677442",
+      "name": "Casa Casinha + Colchão  Caminha Nº 2 Com Comedouro e Bebedouro 300ML",
+      "price": 40.99,
+      "original_price": 56.15,
+      "discount": 27.0,
+      "commission": 0.17,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5vid13eff5xcc",
+      "link": "https://s.shopee.com.br/40gRttKkcA",
+      "rating": "4.5",
+      "sales": 239,
+      "shop": "MATILHA STORE",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23597677442,
+        "productName": "Casa Casinha + Colchão  Caminha Nº 2 Com Comedouro e Bebedouro 300ML",
+        "price": "40.99",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.17",
+        "sales": 239,
+        "ratingStar": "4.5",
+        "shopName": "MATILHA STORE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5vid13eff5xcc",
+        "productLink": "https://shopee.com.br/product/406376010/23597677442",
+        "offerLink": "https://s.shopee.com.br/40gRttKkcA"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58252868790",
       "name": "Kit Cafeteira Dolce Gusto Mini Me Cinza e Preta + 30 cápsulas",
       "price": 477.66,
@@ -27735,6 +27619,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-ml8caxgrbjt356",
         "productLink": "https://shopee.com.br/product/1101178064/43663687218",
         "offerLink": "https://s.shopee.com.br/6q0bXNJhY9"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23794414162",
+      "name": "Mega Parking Elevador Pista Radical C/ Carrinho e Helicóptero - Posto Lava Rápido",
+      "price": 74.9,
+      "original_price": 99.87,
+      "discount": 25.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2fx4mg3bb41d",
+      "link": "https://s.shopee.com.br/70K1ebReic",
+      "rating": "4.8",
+      "sales": 740,
+      "shop": "UTILIZOO ",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23794414162,
+        "productName": "Mega Parking Elevador Pista Radical C/ Carrinho e Helicóptero - Posto Lava Rápido",
+        "price": "74.9",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.03",
+        "sales": 740,
+        "ratingStar": "4.8",
+        "shopName": "UTILIZOO ",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2fx4mg3bb41d",
+        "productLink": "https://shopee.com.br/product/1464618402/23794414162",
+        "offerLink": "https://s.shopee.com.br/70K1ebReic"
       },
       "_last_price": null
     },
@@ -28924,6 +28837,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqtu78cvantra0",
         "productLink": "https://shopee.com.br/product/392262515/23821265119",
         "offerLink": "https://s.shopee.com.br/1AHJhbNO0"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23498386191",
+      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+      "price": 249.9,
+      "original_price": 320.38,
+      "discount": 22.0,
+      "commission": 0.07,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+      "link": "https://s.shopee.com.br/40gQ55d4nk",
+      "rating": "4.9",
+      "sales": 1539,
+      "shop": "Zociella Kids",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498386191,
+        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+        "price": "249.9",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.07",
+        "sales": 1539,
+        "ratingStar": "4.9",
+        "shopName": "Zociella Kids",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+        "productLink": "https://shopee.com.br/product/504754787/23498386191",
+        "offerLink": "https://s.shopee.com.br/40gQ55d4nk"
       },
       "_last_price": null
     },
