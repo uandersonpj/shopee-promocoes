@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T07:46:56.359636+00:00",
-  "total": 1115,
+  "updated_at": "2026-09-12T08:05:34.733041+00:00",
+  "total": 1116,
   "products": [
     {
       "id": "52011120312",
@@ -637,7 +637,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgzgefeazked3d",
         "productLink": "https://shopee.com.br/product/1613332918/22294440400",
         "offerLink": "https://s.shopee.com.br/5VVFgjm4ya"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22098784824",
@@ -1767,6 +1768,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824jj-mpfvxsk51ibm93",
         "productLink": "https://shopee.com.br/product/321587846/46712193198",
         "offerLink": "https://s.shopee.com.br/9fKoRHM3Sn"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58208730330",
+      "name": "Kit 5/10/15 Iscas Artificial Soft Bait Tucunaré Traira Corvina",
+      "price": 22.13,
+      "original_price": 88.52,
+      "discount": 75.0,
+      "commission": 0.13,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mmzr7wtbrrpg89",
+      "link": "https://s.shopee.com.br/1BMEhyyMXQ",
+      "rating": "4.9",
+      "sales": 224,
+      "shop": "Fit Pico",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58208730330,
+        "productName": "Kit 5/10/15 Iscas Artificial Soft Bait Tucunaré Traira Corvina",
+        "price": "22.13",
+        "priceDiscountRate": 75,
+        "commissionRate": "0.13",
+        "sales": 224,
+        "ratingStar": "4.9",
+        "shopName": "Fit Pico",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mmzr7wtbrrpg89",
+        "productLink": "https://shopee.com.br/product/1748172680/58208730330",
+        "offerLink": "https://s.shopee.com.br/1BMEhyyMXQ"
       },
       "_last_price": null
     },
