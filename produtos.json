@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T12:46:52.436745+00:00",
-  "total": 1118,
+  "updated_at": "2026-09-12T13:05:43.067679+00:00",
+  "total": 1119,
   "products": [
     {
       "id": "52011120312",
@@ -201,8 +201,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81ztr-miglmmyp3q4gdd",
         "productLink": "https://shopee.com.br/product/474765994/46503372788",
         "offerLink": "https://s.shopee.com.br/AUttu5k0f0"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23797686527",
@@ -12765,7 +12764,7 @@
       "commission": 0.03,
       "image": "https://cf.shopee.com.br/file/sg-11134201-821ey-mgsjwli7nkss07",
       "link": "https://s.shopee.com.br/9fKmpSj74r",
-      "rating": "4.7",
+      "rating": "4.8",
       "sales": 8259,
       "shop": "INS estilo",
       "category": "esponja",
@@ -12777,7 +12776,7 @@
         "priceDiscountRate": 50,
         "commissionRate": "0.03",
         "sales": 8259,
-        "ratingStar": "4.7",
+        "ratingStar": "4.8",
         "shopName": "INS estilo",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ey-mgsjwli7nkss07",
         "productLink": "https://shopee.com.br/product/1155855002/23799161127",
@@ -24154,8 +24153,8 @@
     {
       "id": "23699032115",
       "name": "Casinha Plástica Cachorro N7 e N8 Porte Médio Com Colchonete",
-      "price": 119.99,
-      "original_price": 176.46,
+      "price": 129.99,
+      "original_price": 191.16,
       "discount": 32.0,
       "commission": 0.14,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8257w-mshaxqhyuozl87",
@@ -24168,7 +24167,7 @@
       "_item": {
         "itemId": 23699032115,
         "productName": "Casinha Plástica Cachorro N7 e N8 Porte Médio Com Colchonete",
-        "price": "119.99",
+        "price": "129.99",
         "priceDiscountRate": 32,
         "commissionRate": "0.14",
         "sales": 327,
@@ -30586,6 +30585,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mqmt88f9o83m7e",
         "productLink": "https://shopee.com.br/product/1038039469/58203314751",
         "offerLink": "https://s.shopee.com.br/6L4Nob7yv7"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20799651636",
+      "name": "Testador de Fonte Digital Display LCD Alimentação ATX 20/24 PINOS SATA BTX/ITX",
+      "price": 56.98,
+      "original_price": 70.35,
+      "discount": 19.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7tk2e7ezmhg1d",
+      "link": "https://s.shopee.com.br/7AdRqqSdWW",
+      "rating": "5",
+      "sales": 28,
+      "shop": "FIRESHOP.NET.BR",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20799651636,
+        "productName": "Testador de Fonte Digital Display LCD Alimentação ATX 20/24 PINOS SATA BTX/ITX",
+        "price": "56.98",
+        "priceDiscountRate": 19,
+        "commissionRate": "0.03",
+        "sales": 28,
+        "ratingStar": "5",
+        "shopName": "FIRESHOP.NET.BR",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7tk2e7ezmhg1d",
+        "productLink": "https://shopee.com.br/product/293906934/20799651636",
+        "offerLink": "https://s.shopee.com.br/7AdRqqSdWW"
       },
       "_last_price": null
     },
