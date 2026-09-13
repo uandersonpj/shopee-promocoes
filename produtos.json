@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T08:36:02.740347+00:00",
+  "updated_at": "2026-09-13T08:54:39.495062+00:00",
   "total": 1122,
   "products": [
     {
@@ -4088,7 +4088,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhccre0s9ix19b",
         "productLink": "https://shopee.com.br/product/1594633180/55501913565",
         "offerLink": "https://s.shopee.com.br/5VVDrzyWnW"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "18398161750",
@@ -10554,6 +10555,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mggkt4ezj0g00a",
         "productLink": "https://shopee.com.br/product/316333903/23499128694",
         "offerLink": "https://s.shopee.com.br/50Yysj80YO"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58264836800",
+      "name": "Passaguá Para Pesca Retrátil 1,70m Rede Dobrável Com Cabo Telescópico De Alumínio Leve E Resistente",
+      "price": 27.39,
+      "original_price": 59.54,
+      "discount": 54.0,
+      "commission": 0.03,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mrh54s688z5ze9",
+      "link": "https://s.shopee.com.br/30nstOdFMY",
+      "rating": "4.9",
+      "sales": 499,
+      "shop": "Trilha Viva",
+      "category": "rede de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58264836800,
+        "productName": "Passaguá Para Pesca Retrátil 1,70m Rede Dobrável Com Cabo Telescópico De Alumínio Leve E Resistente",
+        "price": "27.39",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.03",
+        "sales": 499,
+        "ratingStar": "4.9",
+        "shopName": "Trilha Viva",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mrh54s688z5ze9",
+        "productLink": "https://shopee.com.br/product/1836115036/58264836800",
+        "offerLink": "https://s.shopee.com.br/30nstOdFMY"
       },
       "_last_price": null
     },
@@ -30883,35 +30913,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjun99aei8zq2a",
         "productLink": "https://shopee.com.br/product/291545650/58203972338",
         "offerLink": "https://s.shopee.com.br/1LfgFguelB"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "11890715559",
-      "name": "Tarrafa 40x20x10 Fio 0,40 Malha 20 Com 1,70m De Altura De 10 Metros Para Lambari ,peixe Rei,tilapia",
-      "price": 112.99,
-      "original_price": 139.49,
-      "discount": 19.0,
-      "commission": 0.07,
-      "image": "https://cf.shopee.com.br/file/1e943fa28d79540d435e1b0150981d2a",
-      "link": "https://s.shopee.com.br/BTk2bUdF3",
-      "rating": "4.5",
-      "sales": 131,
-      "shop": "ATACADO PORTO DA PESCA",
-      "category": "rede de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 11890715559,
-        "productName": "Tarrafa 40x20x10 Fio 0,40 Malha 20 Com 1,70m De Altura De 10 Metros Para Lambari ,peixe Rei,tilapia",
-        "price": "112.99",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.07",
-        "sales": 131,
-        "ratingStar": "4.5",
-        "shopName": "ATACADO PORTO DA PESCA",
-        "imageUrl": "https://cf.shopee.com.br/file/1e943fa28d79540d435e1b0150981d2a",
-        "productLink": "https://shopee.com.br/product/497656240/11890715559",
-        "offerLink": "https://s.shopee.com.br/BTk2bUdF3"
       },
       "_last_price": null
     },
