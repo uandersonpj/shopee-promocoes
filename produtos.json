@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T05:29:49.415044+00:00",
+  "updated_at": "2026-09-13T05:48:28.822676+00:00",
   "total": 1122,
   "products": [
     {
@@ -1563,7 +1563,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m16zhf1ljn7yae",
         "productLink": "https://shopee.com.br/product/451332066/23793414141",
         "offerLink": "https://s.shopee.com.br/1LfeuE41ET"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23398852310",
@@ -11476,35 +11477,6 @@
       "_last_price": null
     },
     {
-      "id": "22694295490",
-      "name": "Creme Natyflora Cosméticos original 50g TM 1 unidade",
-      "price": 11.97,
-      "original_price": 24.94,
-      "discount": 52.0,
-      "commission": 0.08,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjjxn96j2ole8b",
-      "link": "https://s.shopee.com.br/60RWGDtw4Q",
-      "rating": "4.8",
-      "sales": 2815,
-      "shop": "DISTRIBUIDORA DA BELEZA",
-      "category": "creme facial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22694295490,
-        "productName": "Creme Natyflora Cosméticos original 50g TM 1 unidade",
-        "price": "11.97",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.08",
-        "sales": 2815,
-        "ratingStar": "4.8",
-        "shopName": "DISTRIBUIDORA DA BELEZA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjjxn96j2ole8b",
-        "productLink": "https://shopee.com.br/product/1397812753/22694295490",
-        "offerLink": "https://s.shopee.com.br/60RWGDtw4Q"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18925950833",
       "name": "Travesseiro Anti Refluxo Carrinho Mini Berço Rampa Enchimento + 1 Fronhas Confortável",
       "price": 14.36,
@@ -12922,6 +12894,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mpxsgrjyul1c20",
         "productLink": "https://shopee.com.br/product/1761526936/58210997361",
         "offerLink": "https://s.shopee.com.br/2BElthbakh"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22694295490",
+      "name": "Creme Natyflora Cosméticos original 50g TM 1 unidade",
+      "price": 12.49,
+      "original_price": 24.98,
+      "discount": 50.0,
+      "commission": 0.08,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjjxn96j2ole8b",
+      "link": "https://s.shopee.com.br/60RWGDtw4Q",
+      "rating": "4.8",
+      "sales": 2815,
+      "shop": "DISTRIBUIDORA DA BELEZA",
+      "category": "creme facial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22694295490,
+        "productName": "Creme Natyflora Cosméticos original 50g TM 1 unidade",
+        "price": "12.49",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.08",
+        "sales": 2815,
+        "ratingStar": "4.8",
+        "shopName": "DISTRIBUIDORA DA BELEZA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjjxn96j2ole8b",
+        "productLink": "https://shopee.com.br/product/1397812753/22694295490",
+        "offerLink": "https://s.shopee.com.br/60RWGDtw4Q"
       },
       "_last_price": null
     },
