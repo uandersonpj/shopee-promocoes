@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T06:07:04.784565+00:00",
+  "updated_at": "2026-09-13T06:25:52.029215+00:00",
   "total": 1122,
   "products": [
     {
@@ -823,7 +823,7 @@
       "commission": 0.12,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8262f-mllw34rkbgg82a",
       "link": "https://s.shopee.com.br/6AkyoW6T5B",
-      "rating": "4.7",
+      "rating": "4.6",
       "sales": 39,
       "shop": "Loja De Conveniência Boutique",
       "category": "flutuador pesca",
@@ -835,7 +835,7 @@
         "priceDiscountRate": 80,
         "commissionRate": "0.12",
         "sales": 39,
-        "ratingStar": "4.7",
+        "ratingStar": "4.6",
         "shopName": "Loja De Conveniência Boutique",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262f-mllw34rkbgg82a",
         "productLink": "https://shopee.com.br/product/207653029/54259002448",
@@ -2085,7 +2085,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ip-mptky1r9yfin49",
         "productLink": "https://shopee.com.br/product/1107644568/22193849980",
         "offerLink": "https://s.shopee.com.br/7fZkFHnagq"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "9212570285",
@@ -17686,8 +17687,8 @@
     {
       "id": "56309267831",
       "name": "[Novo] Alarme De Mordida De Pesca Com Luzes LED E Som Alerta Flutuador Noturna",
-      "price": 24.15,
-      "original_price": 43.12,
+      "price": 24.46,
+      "original_price": 43.68,
       "discount": 44.0,
       "commission": 0.12,
       "image": "https://cf.shopee.com.br/file/sg-11134201-820m1-mnbo5wk1fvuud6",
@@ -17700,7 +17701,7 @@
       "_item": {
         "itemId": 56309267831,
         "productName": "[Novo] Alarme De Mordida De Pesca Com Luzes LED E Som Alerta Flutuador Noturna",
-        "price": "24.15",
+        "price": "24.46",
         "priceDiscountRate": 44,
         "commissionRate": "0.12",
         "sales": 1,
