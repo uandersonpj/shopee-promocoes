@@ -664,7 +664,9 @@ function buildCard(p) {
   const src = `<div class="src-badge ${isML?'src-ml':'src-shopee'}">${isML?'🟡 ML':'🟠 Shopee'}</div>`;
 
   const tags = [];
-  if (p.commission >= 3) tags.push(`<span class="commission-tag">💎 COMISSÃO EXTRA</span>`);
+  // 15% e nao 3%: o bot agora grava a comissao em porcentagem (antes vinha em
+  // fracao e o selo nunca aparecia). 3% e o piso da Shopee e marcaria tudo.
+  if (p.commission >= 15) tags.push(`<span class="commission-tag">💎 COMISSÃO EXTRA</span>`);
   if (p.sales >= hotThreshold) tags.push(`<span class="hot-tag">🔥 MAIS VENDIDO</span>`);
   const tagRow = tags.length ? `<div class="card-tags">${tags.join('')}</div>` : '';
 
