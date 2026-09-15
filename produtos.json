@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T22:10:50.193003+00:00",
-  "total": 1114,
+  "updated_at": "2026-09-15T22:29:49.017377+00:00",
+  "total": 1117,
   "products": [
     {
       "id": "52011120312",
@@ -57,8 +57,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg68t3ej3qit88",
         "productLink": "https://shopee.com.br/product/1638793253/22394636674",
         "offerLink": "https://s.shopee.com.br/20vS4TuAFt"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22194876950",
@@ -932,7 +931,7 @@
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8262f-mllw34rkbgg82a",
       "link": "https://s.shopee.com.br/BTpxzBj8V",
-      "rating": "4.4",
+      "rating": "4.5",
       "sales": 63,
       "shop": "Loja De Conveniência Boutique",
       "category": "flutuador pesca",
@@ -944,7 +943,7 @@
         "priceDiscountRate": 79,
         "commissionRate": "0.12",
         "sales": 63,
-        "ratingStar": "4.4",
+        "ratingStar": "4.5",
         "shopName": "Loja De Conveniência Boutique",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262f-mllw34rkbgg82a",
         "productLink": "https://shopee.com.br/product/207653029/54259002448",
@@ -2717,35 +2716,6 @@
       "_last_price": null
     },
     {
-      "id": "58207198817",
-      "name": "Vara Telescópica JOKER - MARURI",
-      "price": 24.0,
-      "original_price": 80.0,
-      "discount": 70.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
-      "link": "https://s.shopee.com.br/9fKtBOYT4N",
-      "rating": "4.9",
-      "sales": 362,
-      "shop": "Agropecuaria_Rio_Claro",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58207198817,
-        "productName": "Vara Telescópica JOKER - MARURI",
-        "price": "24",
-        "priceDiscountRate": 70,
-        "commissionRate": "0.03",
-        "sales": 362,
-        "ratingStar": "4.9",
-        "shopName": "Agropecuaria_Rio_Claro",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
-        "productLink": "https://shopee.com.br/product/1368232097/58207198817",
-        "offerLink": "https://s.shopee.com.br/9fKtBOYT4N"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23199448516",
       "name": "Kit  Alicates Bijuteria Semijoia Artesanato Pesca Pinças Eletrônica",
       "price": 14.99,
@@ -2829,7 +2799,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820lv-mnmwgkov9pfqf2",
         "productLink": "https://shopee.com.br/product/390180328/22693260071",
         "offerLink": "https://s.shopee.com.br/3qN6EgyfeX"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58251073566",
@@ -3002,6 +2973,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/4d3d9eceb4a23732c4b0f88ec5f6e5fa",
         "productLink": "https://shopee.com.br/product/233660920/21635320174",
         "offerLink": "https://s.shopee.com.br/3g3g6GpoNV"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "40808171993",
+      "name": "Sougayilang Vara De Pesca Telescópica Portátil , 4 Cores , 1.8m-3.0m , Equipamento Ao Ar Livre , De Carpa , Fibra De Car",
+      "price": 52.0,
+      "original_price": 167.74,
+      "discount": 69.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mc1ssg3ocmgtac",
+      "link": "https://s.shopee.com.br/8KpXAhxBXx",
+      "rating": "4.9",
+      "sales": 99,
+      "shop": "sougayilanglocal5.br",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 40808171993,
+        "productName": "Sougayilang Vara De Pesca Telescópica Portátil , 4 Cores , 1.8m-3.0m , Equipamento Ao Ar Livre , De Carpa , Fibra De Car",
+        "price": "52",
+        "priceDiscountRate": 69,
+        "commissionRate": "0.13",
+        "sales": 99,
+        "ratingStar": "4.9",
+        "shopName": "sougayilanglocal5.br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mc1ssg3ocmgtac",
+        "productLink": "https://shopee.com.br/product/1511719153/40808171993",
+        "offerLink": "https://s.shopee.com.br/8KpXAhxBXx"
       },
       "_last_price": null
     },
@@ -4605,7 +4605,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsyy1vntp8g61",
       "link": "https://s.shopee.com.br/70K9e2vbP6",
-      "rating": "5",
+      "rating": "4.9",
       "sales": 1,
       "shop": "keepgoingmax.br",
       "category": "haltere",
@@ -4617,7 +4617,7 @@
         "priceDiscountRate": 65,
         "commissionRate": "0.03",
         "sales": 1,
-        "ratingStar": "5",
+        "ratingStar": "4.9",
         "shopName": "keepgoingmax.br",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsyy1vntp8g61",
         "productLink": "https://shopee.com.br/product/1613783173/44756145784",
@@ -7643,8 +7643,8 @@
     {
       "id": "25338080323",
       "name": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-      "price": 149.0,
-      "original_price": 354.76,
+      "price": 55.0,
+      "original_price": 130.95,
       "discount": 58.0,
       "commission": 20.0,
       "image": "https://cf.shopee.com.br/file/sg-11134207-823pa-mpa7rmkjv3t9e6",
@@ -7657,7 +7657,7 @@
       "_item": {
         "itemId": 25338080323,
         "productName": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-        "price": "149",
+        "price": "55",
         "priceDiscountRate": 58,
         "commissionRate": "0.2",
         "sales": 5660,
@@ -8043,6 +8043,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mpwswcwggf0h85",
         "productLink": "https://shopee.com.br/product/438538414/20797300467",
         "offerLink": "https://s.shopee.com.br/7KwyP689Y4"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58207198817",
+      "name": "Vara Telescópica JOKER - MARURI",
+      "price": 33.59,
+      "original_price": 79.98,
+      "discount": 58.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
+      "link": "https://s.shopee.com.br/9fKtBOYT4N",
+      "rating": "4.9",
+      "sales": 362,
+      "shop": "Agropecuaria_Rio_Claro",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58207198817,
+        "productName": "Vara Telescópica JOKER - MARURI",
+        "price": "33.59",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.03",
+        "sales": 362,
+        "ratingStar": "4.9",
+        "shopName": "Agropecuaria_Rio_Claro",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
+        "productLink": "https://shopee.com.br/product/1368232097/58207198817",
+        "offerLink": "https://s.shopee.com.br/9fKtBOYT4N"
       },
       "_last_price": null
     },
@@ -11005,6 +11034,35 @@
       "_last_price": null
     },
     {
+      "id": "58200569490",
+      "name": "Vara De Pesca Telescópica Retrátil 4,00 Metros Super Leve 40% Carbono 19Lbs",
+      "price": 38.9,
+      "original_price": 82.77,
+      "discount": 53.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mo7jy3nnh1c2a3",
+      "link": "https://s.shopee.com.br/1BMN9p7v6j",
+      "rating": "4.8",
+      "sales": 121,
+      "shop": "ApexVendas",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58200569490,
+        "productName": "Vara De Pesca Telescópica Retrátil 4,00 Metros Super Leve 40% Carbono 19Lbs",
+        "price": "38.9",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.07",
+        "sales": 121,
+        "ratingStar": "4.8",
+        "shopName": "ApexVendas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mo7jy3nnh1c2a3",
+        "productLink": "https://shopee.com.br/product/940287081/58200569490",
+        "offerLink": "https://s.shopee.com.br/1BMN9p7v6j"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23698804974",
       "name": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
       "price": 10.99,
@@ -13234,35 +13292,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823o9-mp4lwqhlr2tqb8",
         "productLink": "https://shopee.com.br/product/1006215031/19595515857",
         "offerLink": "https://s.shopee.com.br/4fwEesWSUR"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58210587239",
-      "name": "Vara de Pesca de Fibra de Vidro Telescópica",
-      "price": 19.99,
-      "original_price": 39.98,
-      "discount": 50.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mo6mf1g3e51c4d",
-      "link": "https://s.shopee.com.br/AKabPLijYg",
-      "rating": "4.8",
-      "sales": 147,
-      "shop": "LIFE diario",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58210587239,
-        "productName": "Vara de Pesca de Fibra de Vidro Telescópica",
-        "price": "19.99",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.03",
-        "sales": 147,
-        "ratingStar": "4.8",
-        "shopName": "LIFE diario",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mo6mf1g3e51c4d",
-        "productLink": "https://shopee.com.br/product/1463299795/58210587239",
-        "offerLink": "https://s.shopee.com.br/AKabPLijYg"
       },
       "_last_price": null
     },
@@ -16220,6 +16249,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mj58f9izsc915e",
         "productLink": "https://shopee.com.br/product/935991633/42160394708",
         "offerLink": "https://s.shopee.com.br/7fZoni6ssA"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "24276224233",
+      "name": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
+      "price": 24.06,
+      "original_price": 44.56,
+      "discount": 46.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
+      "link": "https://s.shopee.com.br/9peLTkavWT",
+      "rating": "4.7",
+      "sales": 153,
+      "shop": "Choice Oficial",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 24276224233,
+        "productName": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
+        "price": "24.06",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.13",
+        "sales": 153,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
+        "productLink": "https://shopee.com.br/product/1006215031/24276224233",
+        "offerLink": "https://s.shopee.com.br/9peLTkavWT"
       },
       "_last_price": null
     },
@@ -22003,7 +22061,7 @@
       "commission": 18.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8258r-msk50zao3aio55",
       "link": "https://s.shopee.com.br/7ptDRgCFDJ",
-      "rating": "5",
+      "rating": "4.9",
       "sales": 114,
       "shop": "Maxxo",
       "category": "suporte vara pesca",
@@ -22015,7 +22073,7 @@
         "priceDiscountRate": 36,
         "commissionRate": "0.18",
         "sales": 114,
-        "ratingStar": "5",
+        "ratingStar": "4.9",
         "shopName": "Maxxo",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258r-msk50zao3aio55",
         "productLink": "https://shopee.com.br/product/1764061146/58216191653",
@@ -31449,6 +31507,35 @@
       "_last_price": null
     },
     {
+      "id": "9670439728",
+      "name": "Vara de Pesca de Fibra de Vidro Telescópica",
+      "price": 19.99,
+      "original_price": 24.08,
+      "discount": 17.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/c54610b699f470c1fdb5813554e73e32",
+      "link": "https://s.shopee.com.br/6VNrPZkWUg",
+      "rating": "4.7",
+      "sales": 304,
+      "shop": "HUIZAI.BR",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 9670439728,
+        "productName": "Vara de Pesca de Fibra de Vidro Telescópica",
+        "price": "19.99",
+        "priceDiscountRate": 17,
+        "commissionRate": "0.1",
+        "sales": 304,
+        "ratingStar": "4.7",
+        "shopName": "HUIZAI.BR",
+        "imageUrl": "https://cf.shopee.com.br/file/c54610b699f470c1fdb5813554e73e32",
+        "productLink": "https://shopee.com.br/product/438547769/9670439728",
+        "offerLink": "https://s.shopee.com.br/6VNrPZkWUg"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21897783422",
       "name": "kit 5 Isca Artificial Camarão Com Anzol Para Robalo Black Bass Corvina",
       "price": 19.99,
@@ -32118,8 +32205,8 @@
     {
       "id": "10971341240",
       "name": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente",
-      "price": 133.9,
-      "original_price": 157.53,
+      "price": 134.9,
+      "original_price": 158.71,
       "discount": 15.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mq56ui3fgwled9",
@@ -32132,7 +32219,7 @@
       "_item": {
         "itemId": 10971341240,
         "productName": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente",
-        "price": "133.9",
+        "price": "134.9",
         "priceDiscountRate": 15,
         "commissionRate": "0.07",
         "sales": 653,
