@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T03:39:24.368442+00:00",
+  "updated_at": "2026-09-15T03:57:59.769485+00:00",
   "total": 1113,
   "products": [
     {
@@ -1100,7 +1100,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mp21h8cy5w5i1c",
         "productLink": "https://shopee.com.br/product/1567204121/58261933291",
         "offerLink": "https://s.shopee.com.br/5VVKDc4UCe"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "57109179747",
@@ -15185,35 +15186,6 @@
       "_last_price": null
     },
     {
-      "id": "22298591472",
-      "name": "Ração Quatree Gourmet Gatos 10,1Kg",
-      "price": 111.2,
-      "original_price": 209.81,
-      "discount": 47.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
-      "link": "https://s.shopee.com.br/8plkdOT8Ax",
-      "rating": "4.9",
-      "sales": 3303,
-      "shop": "mypetone",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22298591472,
-        "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
-        "price": "111.2",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.12",
-        "sales": 3303,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
-        "productLink": "https://shopee.com.br/product/290073877/22298591472",
-        "offerLink": "https://s.shopee.com.br/8plkdOT8Ax"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23291705289",
       "name": "Casinha Comedouro para Pássaros Livres Tratador Azul em Madeira Porta Ração Aves e Habitat Natural",
       "price": 39.85,
@@ -16978,6 +16950,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb3pqavbklg96",
         "productLink": "https://shopee.com.br/product/983753255/23791204929",
         "offerLink": "https://s.shopee.com.br/7VGObIEkJ5"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22298591472",
+      "name": "Ração Quatree Gourmet Gatos 10,1Kg",
+      "price": 121.74,
+      "original_price": 221.35,
+      "discount": 45.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
+      "link": "https://s.shopee.com.br/8plkdOT8Ax",
+      "rating": "4.9",
+      "sales": 3303,
+      "shop": "mypetone",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22298591472,
+        "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
+        "price": "121.74",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.12",
+        "sales": 3303,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
+        "productLink": "https://shopee.com.br/product/290073877/22298591472",
+        "offerLink": "https://s.shopee.com.br/8plkdOT8Ax"
       },
       "_last_price": null
     },
