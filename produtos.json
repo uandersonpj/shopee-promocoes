@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T21:51:54.130379+00:00",
-  "total": 1113,
+  "updated_at": "2026-09-15T22:10:50.193003+00:00",
+  "total": 1114,
   "products": [
     {
       "id": "52011120312",
@@ -230,7 +230,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134275-7rdxw-mdfucal40l6y57",
         "productLink": "https://shopee.com.br/product/236693678/26539956454",
         "offerLink": "https://s.shopee.com.br/1Lfjhgtngn"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "52255058387",
@@ -605,8 +606,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
         "productLink": "https://shopee.com.br/product/1266325318/21897981294",
         "offerLink": "https://s.shopee.com.br/1BMMUMz09U"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22494449171",
@@ -7643,8 +7643,8 @@
     {
       "id": "25338080323",
       "name": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-      "price": 55.0,
-      "original_price": 130.95,
+      "price": 149.0,
+      "original_price": 354.76,
       "discount": 58.0,
       "commission": 20.0,
       "image": "https://cf.shopee.com.br/file/sg-11134207-823pa-mpa7rmkjv3t9e6",
@@ -7657,7 +7657,7 @@
       "_item": {
         "itemId": 25338080323,
         "productName": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-        "price": "55",
+        "price": "149",
         "priceDiscountRate": 58,
         "commissionRate": "0.2",
         "sales": 5660,
@@ -7933,8 +7933,8 @@
     {
       "id": "58254223202",
       "name": "[BT01]Relógio Masculino Guke Wattr Chrono Square Sport | Design Quadrado | Pulseira de Silicone",
-      "price": 23.99,
-      "original_price": 57.12,
+      "price": 24.9,
+      "original_price": 59.29,
       "discount": 58.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk176byidnup1f",
@@ -7947,7 +7947,7 @@
       "_item": {
         "itemId": 58254223202,
         "productName": "[BT01]Relógio Masculino Guke Wattr Chrono Square Sport | Design Quadrado | Pulseira de Silicone",
-        "price": "23.99",
+        "price": "24.9",
         "priceDiscountRate": 58,
         "commissionRate": "0.03",
         "sales": 1049,
@@ -11237,35 +11237,6 @@
       "_last_price": null
     },
     {
-      "id": "22394970918",
-      "name": "LEVE 2 PELO PREÇO DE 1 | DESINFETANTE FAZ 25 LTS CADA | LAV. FLORAL + LAVANDA GLAYDE",
-      "price": 18.99,
-      "original_price": 39.56,
-      "discount": 52.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mo6y0m3644xs31",
-      "link": "https://s.shopee.com.br/8plnkA1RuT",
-      "rating": "4.8",
-      "sales": 514,
-      "shop": "TudoDaDay",
-      "category": "desinfetante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22394970918,
-        "productName": "LEVE 2 PELO PREÇO DE 1 | DESINFETANTE FAZ 25 LTS CADA | LAV. FLORAL + LAVANDA GLAYDE",
-        "price": "18.99",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 514,
-        "ratingStar": "4.8",
-        "shopName": "TudoDaDay",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mo6y0m3644xs31",
-        "productLink": "https://shopee.com.br/product/1564593552/22394970918",
-        "offerLink": "https://s.shopee.com.br/8plnkA1RuT"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22499197888",
       "name": "KIT CAPILAR MIX DE SILICONE SOUL 3 itens - SHAMPOO TURBO - CONDICIONADOR TURBO E MÁSCARA CAPILAR",
       "price": 28.68,
@@ -11277,7 +11248,7 @@
       "rating": "4.8",
       "sales": 2551,
       "shop": "TOCCHIOCOSMETICOS",
-      "category": "shampoo",
+      "category": "condicionador",
       "source": "shopee",
       "_item": {
         "itemId": 22499197888,
@@ -13553,35 +13524,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mq51hb5kbnk3be",
         "productLink": "https://shopee.com.br/product/1134857996/58263496906",
         "offerLink": "https://s.shopee.com.br/3qN6FoWKIS"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23397600706",
-      "name": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
-      "price": 10.9,
-      "original_price": 21.37,
-      "discount": 49.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
-      "link": "https://s.shopee.com.br/1gIbfpwAp3",
-      "rating": "4.9",
-      "sales": 5738,
-      "shop": "ES Official Shop",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23397600706,
-        "productName": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
-        "price": "10.9",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.13",
-        "sales": 5738,
-        "ratingStar": "4.9",
-        "shopName": "ES Official Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
-        "productLink": "https://shopee.com.br/product/988030305/23397600706",
-        "offerLink": "https://s.shopee.com.br/1gIbfpwAp3"
       },
       "_last_price": null
     },
@@ -15963,6 +15905,35 @@
       "_last_price": null
     },
     {
+      "id": "22295054092",
+      "name": "Extensão Elétrica 20A 3 Tomadas Bivolt 110 / 220 V Para Airfryer Micro-ondas Secador 1M 2M 3 Metros",
+      "price": 25.89,
+      "original_price": 47.94,
+      "discount": 46.0,
+      "commission": 5.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mpi85szraozm11",
+      "link": "https://s.shopee.com.br/40gY4Yk9DF",
+      "rating": "4.7",
+      "sales": 1434,
+      "shop": "ToqueEstoque",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22295054092,
+        "productName": "Extensão Elétrica 20A 3 Tomadas Bivolt 110 / 220 V Para Airfryer Micro-ondas Secador 1M 2M 3 Metros",
+        "price": "25.89",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.05",
+        "sales": 1434,
+        "ratingStar": "4.7",
+        "shopName": "ToqueEstoque",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mpi85szraozm11",
+        "productLink": "https://shopee.com.br/product/1676542674/22295054092",
+        "offerLink": "https://s.shopee.com.br/40gY4Yk9DF"
+      },
+      "_last_price": null
+    },
+    {
       "id": "53906798892",
       "name": "Sapato Feminino Vizzano Casual Modelagem Clássica Solado Sintético Original",
       "price": 102.88,
@@ -16655,6 +16626,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcf2-lt49sbjuwpg373",
         "productLink": "https://shopee.com.br/product/432843460/23092914472",
         "offerLink": "https://s.shopee.com.br/5q8AdUOiEd"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23397600706",
+      "name": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
+      "price": 11.8,
+      "original_price": 21.45,
+      "discount": 45.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
+      "link": "https://s.shopee.com.br/1gIbfpwAp3",
+      "rating": "4.9",
+      "sales": 5738,
+      "shop": "ES Official Shop",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23397600706,
+        "productName": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
+        "price": "11.8",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.13",
+        "sales": 5738,
+        "ratingStar": "4.9",
+        "shopName": "ES Official Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
+        "productLink": "https://shopee.com.br/product/988030305/23397600706",
+        "offerLink": "https://s.shopee.com.br/1gIbfpwAp3"
       },
       "_last_price": null
     },
@@ -25156,6 +25156,35 @@
       "_last_price": null
     },
     {
+      "id": "14494160625",
+      "name": "Kit Shampoo + Condicionador SOS Bomba Original Salon Line 200ml",
+      "price": 19.95,
+      "original_price": 28.5,
+      "discount": 30.0,
+      "commission": 21.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259g-msbwy1o9n30qbe",
+      "link": "https://s.shopee.com.br/9fKrcsVm9r",
+      "rating": "4.9",
+      "sales": 3505,
+      "shop": "Salon Line",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 14494160625,
+        "productName": "Kit Shampoo + Condicionador SOS Bomba Original Salon Line 200ml",
+        "price": "19.95",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.21",
+        "sales": 3505,
+        "ratingStar": "4.9",
+        "shopName": "Salon Line",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-msbwy1o9n30qbe",
+        "productLink": "https://shopee.com.br/product/616222685/14494160625",
+        "offerLink": "https://s.shopee.com.br/9fKrcsVm9r"
+      },
+      "_last_price": null
+    },
+    {
       "id": "9319243207",
       "name": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
       "price": 29.9,
@@ -28197,6 +28226,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-luawk6vrw1gg3c",
         "productLink": "https://shopee.com.br/product/439543954/23097466419",
         "offerLink": "https://s.shopee.com.br/6q0ho1IUlw"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23392628735",
+      "name": "Desinfetante Herbal Vet Bactericida Concentrado 1L Herbalvet",
+      "price": 94.17,
+      "original_price": 123.91,
+      "discount": 24.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7glk3gm59yq3b",
+      "link": "https://s.shopee.com.br/6VNrPPJlRy",
+      "rating": "5",
+      "sales": 734,
+      "shop": "MANADA ANIMAL",
+      "category": "desinfetante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23392628735,
+        "productName": "Desinfetante Herbal Vet Bactericida Concentrado 1L Herbalvet",
+        "price": "94.17",
+        "priceDiscountRate": 24,
+        "commissionRate": "0.18",
+        "sales": 734,
+        "ratingStar": "5",
+        "shopName": "MANADA ANIMAL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7glk3gm59yq3b",
+        "productLink": "https://shopee.com.br/product/450664666/23392628735",
+        "offerLink": "https://s.shopee.com.br/6VNrPPJlRy"
       },
       "_last_price": null
     },
@@ -31648,35 +31706,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rato-max0uefqt1j7f9",
         "productLink": "https://shopee.com.br/product/1261893889/23393053571",
         "offerLink": "https://s.shopee.com.br/1VzBTYw4Gq"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23794867491",
-      "name": "Fritadeira Air Fryer Oven 12L Mondial AFON-12L-BI 127V",
-      "price": 549.9,
-      "original_price": 654.64,
-      "discount": 16.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825ay-mt5beq33icqw23",
-      "link": "https://s.shopee.com.br/3VkHGhtJ2w",
-      "rating": "5",
-      "sales": 1368,
-      "shop": "Casa & Vídeo",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23794867491,
-        "productName": "Fritadeira Air Fryer Oven 12L Mondial AFON-12L-BI 127V",
-        "price": "549.9",
-        "priceDiscountRate": 16,
-        "commissionRate": "0.03",
-        "sales": 1368,
-        "ratingStar": "5",
-        "shopName": "Casa & Vídeo",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ay-mt5beq33icqw23",
-        "productLink": "https://shopee.com.br/product/412968566/23794867491",
-        "offerLink": "https://s.shopee.com.br/3VkHGhtJ2w"
       },
       "_last_price": null
     },
