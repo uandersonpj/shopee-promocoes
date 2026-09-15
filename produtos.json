@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T05:30:51.138542+00:00",
+  "updated_at": "2026-09-15T05:49:26.431653+00:00",
   "total": 1114,
   "products": [
     {
@@ -665,35 +665,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902",
         "productLink": "https://shopee.com.br/product/415175805/20199713818",
         "offerLink": "https://s.shopee.com.br/30nxgZN6LJ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "57911938287",
-      "name": "Fonte ATX MSI 650W MAG 2.4 PCIE 80 Plus Bronze 306-7ZPAX39-HH9",
-      "price": 319.0,
-      "original_price": 1595.0,
-      "discount": 80.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
-      "link": "https://s.shopee.com.br/8AW5R3jRdt",
-      "rating": "4.9",
-      "sales": 784,
-      "shop": "TNTinfoLoja",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57911938287,
-        "productName": "Fonte ATX MSI 650W MAG 2.4 PCIE 80 Plus Bronze 306-7ZPAX39-HH9",
-        "price": "319",
-        "priceDiscountRate": 80,
-        "commissionRate": "0.03",
-        "sales": 784,
-        "ratingStar": "4.9",
-        "shopName": "TNTinfoLoja",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
-        "productLink": "https://shopee.com.br/product/344381236/57911938287",
-        "offerLink": "https://s.shopee.com.br/8AW5R3jRdt"
       },
       "_last_price": null
     },
@@ -2086,7 +2057,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6012yu1eit5e",
         "productLink": "https://shopee.com.br/product/1577129456/23298719961",
         "offerLink": "https://s.shopee.com.br/5LBu1JvutW"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "53602592577",
@@ -29337,6 +29309,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258l-mfy59n7in6rzd2",
         "productLink": "https://shopee.com.br/product/1349934384/22294553860",
         "offerLink": "https://s.shopee.com.br/5AsTrXurje"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22998349138",
+      "name": "Fonte atx Seasonic 300W 80 Plus",
+      "price": 95.0,
+      "original_price": 120.25,
+      "discount": 21.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7pbe9d0oriae7",
+      "link": "https://s.shopee.com.br/4LJN34tiEi",
+      "rating": "4.9",
+      "sales": 32,
+      "shop": "Lírio variedades",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22998349138,
+        "productName": "Fonte atx Seasonic 300W 80 Plus",
+        "price": "95",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.03",
+        "sales": 32,
+        "ratingStar": "4.9",
+        "shopName": "Lírio variedades",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7pbe9d0oriae7",
+        "productLink": "https://shopee.com.br/product/965583949/22998349138",
+        "offerLink": "https://s.shopee.com.br/4LJN34tiEi"
       },
       "_last_price": null
     },
