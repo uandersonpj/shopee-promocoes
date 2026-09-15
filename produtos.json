@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T03:20:48.713069+00:00",
+  "updated_at": "2026-09-15T03:39:24.368442+00:00",
   "total": 1113,
   "products": [
     {
@@ -1998,7 +1998,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ip-mptky1r9yfin49",
         "productLink": "https://shopee.com.br/product/1107644568/22193849980",
         "offerLink": "https://s.shopee.com.br/3VkFrEEywk"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "9212570285",
@@ -7968,8 +7969,8 @@
     {
       "id": "58254223202",
       "name": "[BT01]Relógio Masculino Guke Wattr Chrono Square Sport | Design Quadrado | Pulseira de Silicone",
-      "price": 23.99,
-      "original_price": 57.12,
+      "price": 24.9,
+      "original_price": 59.29,
       "discount": 58.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk176byidnup1f",
@@ -7982,7 +7983,7 @@
       "_item": {
         "itemId": 58254223202,
         "productName": "[BT01]Relógio Masculino Guke Wattr Chrono Square Sport | Design Quadrado | Pulseira de Silicone",
-        "price": "23.99",
+        "price": "24.9",
         "priceDiscountRate": 58,
         "commissionRate": "0.03",
         "sales": 1014,
