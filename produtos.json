@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T06:26:37.316378+00:00",
+  "updated_at": "2026-09-15T06:45:10.937334+00:00",
   "total": 1114,
   "products": [
     {
@@ -6986,7 +6986,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqdi4h8b6wao80",
         "productLink": "https://shopee.com.br/product/1397772996/29842873054",
         "offerLink": "https://s.shopee.com.br/4LJMpTQnj6"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58263789803",
@@ -11565,35 +11566,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zw7-mmrhln0n5g5h36",
         "productLink": "https://shopee.com.br/product/734783929/22099456041",
         "offerLink": "https://s.shopee.com.br/6fhHfhTHPP"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "19099777641",
-      "name": "Casinha Cachorro Grande N5 Casa Pet Com Proteção Raios UV Desmontavel Resistente",
-      "price": 79.97,
-      "original_price": 166.6,
-      "discount": 52.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma0a5ronfsxl69",
-      "link": "https://s.shopee.com.br/AKaZyWlYJj",
-      "rating": "4.8",
-      "sales": 681,
-      "shop": "pedrobstore",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19099777641,
-        "productName": "Casinha Cachorro Grande N5 Casa Pet Com Proteção Raios UV Desmontavel Resistente",
-        "price": "79.97",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 681,
-        "ratingStar": "4.8",
-        "shopName": "pedrobstore",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma0a5ronfsxl69",
-        "productLink": "https://shopee.com.br/product/344387064/19099777641",
-        "offerLink": "https://s.shopee.com.br/AKaZyWlYJj"
       },
       "_last_price": null
     },
@@ -24845,6 +24817,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mreilw07y8052a",
         "productLink": "https://shopee.com.br/product/826739842/22794363193",
         "offerLink": "https://s.shopee.com.br/8plmBlrGMW"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "47265906639",
+      "name": "Casinha Cachorro Casa Plástica Porte Grande Médio N9 N8 N7 N6",
+      "price": 89.98,
+      "original_price": 130.41,
+      "discount": 31.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mrspgn2u915359",
+      "link": "https://s.shopee.com.br/6fhIkDv5K8",
+      "rating": "4.8",
+      "sales": 195,
+      "shop": "VYRA.SHOP",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 47265906639,
+        "productName": "Casinha Cachorro Casa Plástica Porte Grande Médio N9 N8 N7 N6",
+        "price": "89.98",
+        "priceDiscountRate": 31,
+        "commissionRate": "0.03",
+        "sales": 195,
+        "ratingStar": "4.8",
+        "shopName": "VYRA.SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mrspgn2u915359",
+        "productLink": "https://shopee.com.br/product/338158105/47265906639",
+        "offerLink": "https://s.shopee.com.br/6fhIkDv5K8"
       },
       "_last_price": null
     },
