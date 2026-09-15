@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T22:29:49.017377+00:00",
-  "total": 1117,
+  "updated_at": "2026-09-15T22:48:46.379381+00:00",
+  "total": 1113,
   "products": [
     {
       "id": "52011120312",
@@ -1179,7 +1179,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lihnnsnqd8dscc",
         "productLink": "https://shopee.com.br/product/291174073/23218022612",
         "offerLink": "https://s.shopee.com.br/6L4RFoIX30"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22693513091",
@@ -1524,8 +1525,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m16zhf1ljn7yae",
         "productLink": "https://shopee.com.br/product/451332066/23793414141",
         "offerLink": "https://s.shopee.com.br/LnCVmYtT9"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23398852310",
@@ -2973,35 +2973,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/4d3d9eceb4a23732c4b0f88ec5f6e5fa",
         "productLink": "https://shopee.com.br/product/233660920/21635320174",
         "offerLink": "https://s.shopee.com.br/3g3g6GpoNV"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "40808171993",
-      "name": "Sougayilang Vara De Pesca Telescópica Portátil , 4 Cores , 1.8m-3.0m , Equipamento Ao Ar Livre , De Carpa , Fibra De Car",
-      "price": 52.0,
-      "original_price": 167.74,
-      "discount": 69.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mc1ssg3ocmgtac",
-      "link": "https://s.shopee.com.br/8KpXAhxBXx",
-      "rating": "4.9",
-      "sales": 99,
-      "shop": "sougayilanglocal5.br",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40808171993,
-        "productName": "Sougayilang Vara De Pesca Telescópica Portátil , 4 Cores , 1.8m-3.0m , Equipamento Ao Ar Livre , De Carpa , Fibra De Car",
-        "price": "52",
-        "priceDiscountRate": 69,
-        "commissionRate": "0.13",
-        "sales": 99,
-        "ratingStar": "4.9",
-        "shopName": "sougayilanglocal5.br",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mc1ssg3ocmgtac",
-        "productLink": "https://shopee.com.br/product/1511719153/40808171993",
-        "offerLink": "https://s.shopee.com.br/8KpXAhxBXx"
       },
       "_last_price": null
     },
@@ -7243,7 +7214,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3wfdg89ffhx9a",
       "link": "https://s.shopee.com.br/8AW5R3WFFT",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 1056,
       "shop": "Oliveira Flex",
       "category": "mouse gamer",
@@ -7255,7 +7226,7 @@
         "priceDiscountRate": 59,
         "commissionRate": "0.03",
         "sales": 1056,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "Oliveira Flex",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3wfdg89ffhx9a",
         "productLink": "https://shopee.com.br/product/760173021/23398082837",
@@ -7643,8 +7614,8 @@
     {
       "id": "25338080323",
       "name": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-      "price": 55.0,
-      "original_price": 130.95,
+      "price": 149.0,
+      "original_price": 354.76,
       "discount": 58.0,
       "commission": 20.0,
       "image": "https://cf.shopee.com.br/file/sg-11134207-823pa-mpa7rmkjv3t9e6",
@@ -7657,7 +7628,7 @@
       "_item": {
         "itemId": 25338080323,
         "productName": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-        "price": "55",
+        "price": "149",
         "priceDiscountRate": 58,
         "commissionRate": "0.2",
         "sales": 5660,
@@ -11034,35 +11005,6 @@
       "_last_price": null
     },
     {
-      "id": "58200569490",
-      "name": "Vara De Pesca Telescópica Retrátil 4,00 Metros Super Leve 40% Carbono 19Lbs",
-      "price": 38.9,
-      "original_price": 82.77,
-      "discount": 53.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mo7jy3nnh1c2a3",
-      "link": "https://s.shopee.com.br/1BMN9p7v6j",
-      "rating": "4.8",
-      "sales": 121,
-      "shop": "ApexVendas",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58200569490,
-        "productName": "Vara De Pesca Telescópica Retrátil 4,00 Metros Super Leve 40% Carbono 19Lbs",
-        "price": "38.9",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.07",
-        "sales": 121,
-        "ratingStar": "4.8",
-        "shopName": "ApexVendas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mo7jy3nnh1c2a3",
-        "productLink": "https://shopee.com.br/product/940287081/58200569490",
-        "offerLink": "https://s.shopee.com.br/1BMN9p7v6j"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23698804974",
       "name": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
       "price": 10.99,
@@ -11813,6 +11755,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvl-mmudxwbyir6072",
         "productLink": "https://shopee.com.br/product/1500672908/58258497862",
         "offerLink": "https://s.shopee.com.br/6q0hqbbJxL"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22497433522",
+      "name": "Lauril 27% Líquido - Matéria-Prima para Sabão, Shampoos e Detergentes Espumante Líquido",
+      "price": 14.99,
+      "original_price": 30.59,
+      "discount": 51.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me008w9f5czn90",
+      "link": "https://s.shopee.com.br/60RcFDH0kj",
+      "rating": "4.9",
+      "sales": 1301,
+      "shop": "Loja CR Clean",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22497433522,
+        "productName": "Lauril 27% Líquido - Matéria-Prima para Sabão, Shampoos e Detergentes Espumante Líquido",
+        "price": "14.99",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.13",
+        "sales": 1301,
+        "ratingStar": "4.9",
+        "shopName": "Loja CR Clean",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me008w9f5czn90",
+        "productLink": "https://shopee.com.br/product/482713190/22497433522",
+        "offerLink": "https://s.shopee.com.br/60RcFDH0kj"
       },
       "_last_price": null
     },
@@ -13292,6 +13263,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823o9-mp4lwqhlr2tqb8",
         "productLink": "https://shopee.com.br/product/1006215031/19595515857",
         "offerLink": "https://s.shopee.com.br/4fwEesWSUR"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58210587239",
+      "name": "Vara de Pesca de Fibra de Vidro Telescópica",
+      "price": 19.99,
+      "original_price": 39.98,
+      "discount": 50.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mo6mf1g3e51c4d",
+      "link": "https://s.shopee.com.br/AKabPLijYg",
+      "rating": "4.8",
+      "sales": 147,
+      "shop": "LIFE diario",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58210587239,
+        "productName": "Vara de Pesca de Fibra de Vidro Telescópica",
+        "price": "19.99",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 147,
+        "ratingStar": "4.8",
+        "shopName": "LIFE diario",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mo6mf1g3e51c4d",
+        "productLink": "https://shopee.com.br/product/1463299795/58210587239",
+        "offerLink": "https://s.shopee.com.br/AKabPLijYg"
       },
       "_last_price": null
     },
@@ -16249,35 +16249,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mj58f9izsc915e",
         "productLink": "https://shopee.com.br/product/935991633/42160394708",
         "offerLink": "https://s.shopee.com.br/7fZoni6ssA"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "24276224233",
-      "name": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
-      "price": 24.06,
-      "original_price": 44.56,
-      "discount": 46.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
-      "link": "https://s.shopee.com.br/9peLTkavWT",
-      "rating": "4.7",
-      "sales": 153,
-      "shop": "Choice Oficial",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 24276224233,
-        "productName": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
-        "price": "24.06",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.13",
-        "sales": 153,
-        "ratingStar": "4.7",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
-        "productLink": "https://shopee.com.br/product/1006215031/24276224233",
-        "offerLink": "https://s.shopee.com.br/9peLTkavWT"
       },
       "_last_price": null
     },
@@ -23358,35 +23329,6 @@
       "_last_price": null
     },
     {
-      "id": "19398130627",
-      "name": "Kit 3 Porta Amaciante Sabão Em Pó Liquido 3,6 Litros Dispenser Com Lousa Para Escrever Organizador",
-      "price": 54.7,
-      "original_price": 81.64,
-      "discount": 33.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mpefmai5ik8z18",
-      "link": "https://s.shopee.com.br/4Vcnht0rAp",
-      "rating": "4.8",
-      "sales": 255,
-      "shop": "Rei Dos Termicos",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19398130627,
-        "productName": "Kit 3 Porta Amaciante Sabão Em Pó Liquido 3,6 Litros Dispenser Com Lousa Para Escrever Organizador",
-        "price": "54.7",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.07",
-        "sales": 255,
-        "ratingStar": "4.8",
-        "shopName": "Rei Dos Termicos",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mpefmai5ik8z18",
-        "productLink": "https://shopee.com.br/product/328731077/19398130627",
-        "offerLink": "https://s.shopee.com.br/4Vcnht0rAp"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22599385841",
       "name": "Base Amaciante Concentrada 100ml Faz 20 litros perfumada tipo Conforto / Premium RENDE MUITO",
       "price": 21.99,
@@ -23441,6 +23383,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258o-msbwr4svgah18a",
         "productLink": "https://shopee.com.br/product/616222685/14463127889",
         "offerLink": "https://s.shopee.com.br/8plmBiWTd0"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58208444702",
+      "name": "Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu tom",
+      "price": 71.99,
+      "original_price": 107.45,
+      "discount": 33.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820la-mmt07g0rint06e",
+      "link": "https://s.shopee.com.br/7VGN2tr18X",
+      "rating": "4.9",
+      "sales": 2216,
+      "shop": "Principia Skincare",
+      "category": "protetor solar",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58208444702,
+        "productName": "Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu tom",
+        "price": "71.99",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.13",
+        "sales": 2216,
+        "ratingStar": "4.9",
+        "shopName": "Principia Skincare",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mmt07g0rint06e",
+        "productLink": "https://shopee.com.br/product/373261329/58208444702",
+        "offerLink": "https://s.shopee.com.br/7VGN2tr18X"
       },
       "_last_price": null
     },
@@ -23963,35 +23934,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvfx-lki79klhmzcp46",
         "productLink": "https://shopee.com.br/product/534023108/22396235066",
         "offerLink": "https://s.shopee.com.br/5VVKDajAOY"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22736011414",
-      "name": "Lava Roupas Lavanderia Pro Líquido 7L Omo",
-      "price": 99.89,
-      "original_price": 146.9,
-      "discount": 32.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rau5-mau62igmy63506",
-      "link": "https://s.shopee.com.br/LnCVhRuL6",
-      "rating": "5",
-      "sales": 17523,
-      "shop": "Braslimpo",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22736011414,
-        "productName": "Lava Roupas Lavanderia Pro Líquido 7L Omo",
-        "price": "99.89",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.06",
-        "sales": 17523,
-        "ratingStar": "5",
-        "shopName": "Braslimpo",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rau5-mau62igmy63506",
-        "productLink": "https://shopee.com.br/product/946161700/22736011414",
-        "offerLink": "https://s.shopee.com.br/LnCVhRuL6"
       },
       "_last_price": null
     },
@@ -25098,31 +25040,31 @@
       "_last_price": null
     },
     {
-      "id": "22298574308",
-      "name": "Kit Pia Color Lixeira 4,8L Com Rodinho Porta Detergente Cozinha Area Gourmet",
-      "price": 18.99,
-      "original_price": 27.13,
+      "id": "53710380013",
+      "name": "Detergente em Pó Lava Louças Saif 1kg e 500g",
+      "price": 27.8,
+      "original_price": 39.71,
       "discount": 30.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mq1xsj149ddsf0",
-      "link": "https://s.shopee.com.br/7ptF19mMtw",
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mrbzgfxcptz92c",
+      "link": "https://s.shopee.com.br/8KpXnMjf4V",
       "rating": "4.9",
-      "sales": 3126,
-      "shop": "Decoraki",
+      "sales": 1293,
+      "shop": "Casa Ruas",
       "category": "detergente",
       "source": "shopee",
       "_item": {
-        "itemId": 22298574308,
-        "productName": "Kit Pia Color Lixeira 4,8L Com Rodinho Porta Detergente Cozinha Area Gourmet",
-        "price": "18.99",
+        "itemId": 53710380013,
+        "productName": "Detergente em Pó Lava Louças Saif 1kg e 500g",
+        "price": "27.8",
         "priceDiscountRate": 30,
-        "commissionRate": "0.08",
-        "sales": 3126,
+        "commissionRate": "0.03",
+        "sales": 1293,
         "ratingStar": "4.9",
-        "shopName": "Decoraki",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mq1xsj149ddsf0",
-        "productLink": "https://shopee.com.br/product/1542782932/22298574308",
-        "offerLink": "https://s.shopee.com.br/7ptF19mMtw"
+        "shopName": "Casa Ruas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mrbzgfxcptz92c",
+        "productLink": "https://shopee.com.br/product/489936264/53710380013",
+        "offerLink": "https://s.shopee.com.br/8KpXnMjf4V"
       },
       "_last_price": null
     },
@@ -25645,6 +25587,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mll99udq0ao7d0",
         "productLink": "https://shopee.com.br/product/1754933018/23499364961",
         "offerLink": "https://s.shopee.com.br/70K9R3DCit"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58251678972",
+      "name": "Porta Detergente E Esponja Dispenser 3 Em 1 Aço Inox Escorredor Talheres Utensilios de Cozinha Organizador de Pia",
+      "price": 29.9,
+      "original_price": 42.11,
+      "discount": 29.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjgefzoqtzpifa",
+      "link": "https://s.shopee.com.br/8ploOHhl3c",
+      "rating": "4.9",
+      "sales": 1407,
+      "shop": "R&V Modas",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58251678972,
+        "productName": "Porta Detergente E Esponja Dispenser 3 Em 1 Aço Inox Escorredor Talheres Utensilios de Cozinha Organizador de Pia",
+        "price": "29.9",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.03",
+        "sales": 1407,
+        "ratingStar": "4.9",
+        "shopName": "R&V Modas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjgefzoqtzpifa",
+        "productLink": "https://shopee.com.br/product/1310127163/58251678972",
+        "offerLink": "https://s.shopee.com.br/8ploOHhl3c"
       },
       "_last_price": null
     },
@@ -28723,35 +28694,6 @@
       "_last_price": null
     },
     {
-      "id": "58208444702",
-      "name": "Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu tom",
-      "price": 83.15,
-      "original_price": 107.99,
-      "discount": 23.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820la-mmt07g0rint06e",
-      "link": "https://s.shopee.com.br/7VGN2tr18X",
-      "rating": "4.9",
-      "sales": 2216,
-      "shop": "Principia Skincare",
-      "category": "protetor solar",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58208444702,
-        "productName": "Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu tom",
-        "price": "83.15",
-        "priceDiscountRate": 23,
-        "commissionRate": "0.13",
-        "sales": 2216,
-        "ratingStar": "4.9",
-        "shopName": "Principia Skincare",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mmt07g0rint06e",
-        "productLink": "https://shopee.com.br/product/373261329/58208444702",
-        "offerLink": "https://s.shopee.com.br/7VGN2tr18X"
-      },
-      "_last_price": null
-    },
-    {
       "id": "27189338384",
       "name": "Principia Kit Peles Sensíveis c/ Gel de Limpeza Gl-02 + Creme Hidratante CH-01 + Protetor Solar PS-01 FPS 60",
       "price": 116.25,
@@ -31507,35 +31449,6 @@
       "_last_price": null
     },
     {
-      "id": "9670439728",
-      "name": "Vara de Pesca de Fibra de Vidro Telescópica",
-      "price": 19.99,
-      "original_price": 24.08,
-      "discount": 17.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/c54610b699f470c1fdb5813554e73e32",
-      "link": "https://s.shopee.com.br/6VNrPZkWUg",
-      "rating": "4.7",
-      "sales": 304,
-      "shop": "HUIZAI.BR",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 9670439728,
-        "productName": "Vara de Pesca de Fibra de Vidro Telescópica",
-        "price": "19.99",
-        "priceDiscountRate": 17,
-        "commissionRate": "0.1",
-        "sales": 304,
-        "ratingStar": "4.7",
-        "shopName": "HUIZAI.BR",
-        "imageUrl": "https://cf.shopee.com.br/file/c54610b699f470c1fdb5813554e73e32",
-        "productLink": "https://shopee.com.br/product/438547769/9670439728",
-        "offerLink": "https://s.shopee.com.br/6VNrPZkWUg"
-      },
-      "_last_price": null
-    },
-    {
       "id": "21897783422",
       "name": "kit 5 Isca Artificial Camarão Com Anzol Para Robalo Black Bass Corvina",
       "price": 19.99,
@@ -31776,7 +31689,7 @@
       "commission": 6.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rato-max0uefqt1j7f9",
       "link": "https://s.shopee.com.br/1VzBTYw4Gq",
-      "rating": "4.9",
+      "rating": "5",
       "sales": 1622,
       "shop": "Oficial Huggies",
       "category": "fralda",
@@ -31788,7 +31701,7 @@
         "priceDiscountRate": 16,
         "commissionRate": "0.06",
         "sales": 1622,
-        "ratingStar": "4.9",
+        "ratingStar": "5",
         "shopName": "Oficial Huggies",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rato-max0uefqt1j7f9",
         "productLink": "https://shopee.com.br/product/1261893889/23393053571",
@@ -32025,35 +31938,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5kdrubq70jp86",
         "productLink": "https://shopee.com.br/product/534023108/13613839850",
         "offerLink": "https://s.shopee.com.br/5q8AdTtyxc"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22198975486",
-      "name": "BASE SABÃO LÍQUIDO AZUL FAZ 6L HOMO 2X200ML CONCENTRADO KIT BLEND",
-      "price": 22.1,
-      "original_price": 26.0,
-      "discount": 15.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81zu4-mkzny58sg3y9d6",
-      "link": "https://s.shopee.com.br/6Al2RWGNPk",
-      "rating": "4.8",
-      "sales": 1515,
-      "shop": "alfaquímica",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22198975486,
-        "productName": "BASE SABÃO LÍQUIDO AZUL FAZ 6L HOMO 2X200ML CONCENTRADO KIT BLEND",
-        "price": "22.1",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.03",
-        "sales": 1515,
-        "ratingStar": "4.8",
-        "shopName": "alfaquímica",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu4-mkzny58sg3y9d6",
-        "productLink": "https://shopee.com.br/product/1553965255/22198975486",
-        "offerLink": "https://s.shopee.com.br/6Al2RWGNPk"
       },
       "_last_price": null
     },
