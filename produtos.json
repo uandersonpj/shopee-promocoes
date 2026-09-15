@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T22:48:46.379381+00:00",
+  "updated_at": "2026-09-15T23:07:39.437893+00:00",
   "total": 1113,
   "products": [
     {
@@ -834,7 +834,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltmsp1pvv6rjd7",
         "productLink": "https://shopee.com.br/product/409941475/19860785095",
         "offerLink": "https://s.shopee.com.br/80Cddo2zY4"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23394267693",
@@ -976,8 +977,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mr1vaho31o90f0",
         "productLink": "https://shopee.com.br/product/1246081278/45364806848",
         "offerLink": "https://s.shopee.com.br/6AkzSPWdlj"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22098784824",
@@ -4742,35 +4742,6 @@
       "_last_price": null
     },
     {
-      "id": "45706140613",
-      "name": "100M/300M/500M Camuflada Linha De Pesca Invisível , Fluorocarbono Salpicada De Nylon , Marca Forte , 0.20mm-0.50mm",
-      "price": 20.58,
-      "original_price": 58.8,
-      "discount": 65.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpt5n1hfb1n240",
-      "link": "https://s.shopee.com.br/4Vcn1rfTGZ",
-      "rating": "4.8",
-      "sales": 359,
-      "shop": "Grande Sorte",
-      "category": "linha de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45706140613,
-        "productName": "100M/300M/500M Camuflada Linha De Pesca Invisível , Fluorocarbono Salpicada De Nylon , Marca Forte , 0.20mm-0.50mm",
-        "price": "20.58",
-        "priceDiscountRate": 65,
-        "commissionRate": "0.03",
-        "sales": 359,
-        "ratingStar": "4.8",
-        "shopName": "Grande Sorte",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpt5n1hfb1n240",
-        "productLink": "https://shopee.com.br/product/1727169853/45706140613",
-        "offerLink": "https://s.shopee.com.br/4Vcn1rfTGZ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "17570976729",
       "name": "Iscas De Pesca Artificiais Com Superfície Popper De 9,5cm/12g",
       "price": 5.6,
@@ -5231,6 +5202,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-moj6y9k3bm6l25",
         "productLink": "https://shopee.com.br/product/1500993597/41809393497",
         "offerLink": "https://s.shopee.com.br/9fKrOcNcVD"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "45706140613",
+      "name": "100M/300M/500M Camuflada Linha De Pesca Invisível , Fluorocarbono Salpicada De Nylon , Marca Forte , 0.20mm-0.50mm",
+      "price": 20.58,
+      "original_price": 57.17,
+      "discount": 64.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpt5n1hfb1n240",
+      "link": "https://s.shopee.com.br/4Vcn1rfTGZ",
+      "rating": "4.8",
+      "sales": 359,
+      "shop": "Grande Sorte",
+      "category": "linha de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 45706140613,
+        "productName": "100M/300M/500M Camuflada Linha De Pesca Invisível , Fluorocarbono Salpicada De Nylon , Marca Forte , 0.20mm-0.50mm",
+        "price": "20.58",
+        "priceDiscountRate": 64,
+        "commissionRate": "0.03",
+        "sales": 359,
+        "ratingStar": "4.8",
+        "shopName": "Grande Sorte",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpt5n1hfb1n240",
+        "productLink": "https://shopee.com.br/product/1727169853/45706140613",
+        "offerLink": "https://s.shopee.com.br/4Vcn1rfTGZ"
       },
       "_last_price": null
     },
@@ -11755,35 +11755,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvl-mmudxwbyir6072",
         "productLink": "https://shopee.com.br/product/1500672908/58258497862",
         "offerLink": "https://s.shopee.com.br/6q0hqbbJxL"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22497433522",
-      "name": "Lauril 27% Líquido - Matéria-Prima para Sabão, Shampoos e Detergentes Espumante Líquido",
-      "price": 14.99,
-      "original_price": 30.59,
-      "discount": 51.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me008w9f5czn90",
-      "link": "https://s.shopee.com.br/60RcFDH0kj",
-      "rating": "4.9",
-      "sales": 1301,
-      "shop": "Loja CR Clean",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22497433522,
-        "productName": "Lauril 27% Líquido - Matéria-Prima para Sabão, Shampoos e Detergentes Espumante Líquido",
-        "price": "14.99",
-        "priceDiscountRate": 51,
-        "commissionRate": "0.13",
-        "sales": 1301,
-        "ratingStar": "4.9",
-        "shopName": "Loja CR Clean",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me008w9f5czn90",
-        "productLink": "https://shopee.com.br/product/482713190/22497433522",
-        "offerLink": "https://s.shopee.com.br/60RcFDH0kj"
       },
       "_last_price": null
     },
@@ -21763,6 +21734,35 @@
       "_last_price": null
     },
     {
+      "id": "22694663438",
+      "name": "Panela de Pressão Elétrica Digital 5/6 litros Preta ou Inox - kian",
+      "price": 321.9,
+      "original_price": 502.97,
+      "discount": 36.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk10g04dmv4317",
+      "link": "https://s.shopee.com.br/gQ4SmhoHx",
+      "rating": "4.9",
+      "sales": 717,
+      "shop": "QueroObra",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22694663438,
+        "productName": "Panela de Pressão Elétrica Digital 5/6 litros Preta ou Inox - kian",
+        "price": "321.9",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.18",
+        "sales": 717,
+        "ratingStar": "4.9",
+        "shopName": "QueroObra",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk10g04dmv4317",
+        "productLink": "https://shopee.com.br/product/563110312/22694663438",
+        "offerLink": "https://s.shopee.com.br/gQ4SmhoHx"
+      },
+      "_last_price": null
+    },
+    {
       "id": "57008381938",
       "name": "Tênis De Corrida Profissional Ultraleve Com Placa De Carbono De Sola Completa Para Maratona , Masculino E Feminino",
       "price": 63.99,
@@ -22205,7 +22205,7 @@
       "discount": 35.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mpr27fdceolf7f",
-      "link": "https://s.shopee.com.br/5foirUYXme",
+      "link": "https://s.shopee.com.br/8fSOByiOOb",
       "rating": "4.9",
       "sales": 1267,
       "shop": "BRMAX OFICIAL",
@@ -22222,7 +22222,7 @@
         "shopName": "BRMAX OFICIAL",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mpr27fdceolf7f",
         "productLink": "https://shopee.com.br/product/399029882/58252379772",
-        "offerLink": "https://s.shopee.com.br/5foirUYXme"
+        "offerLink": "https://s.shopee.com.br/8fSOByiOOb"
       },
       "_last_price": null
     },
@@ -22401,6 +22401,35 @@
       "_last_price": null
     },
     {
+      "id": "58201486139",
+      "name": "Ração Úmida Dog Chow Cães - Display com 15 Sachês 85g",
+      "price": 38.9,
+      "original_price": 59.85,
+      "discount": 35.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8257s-ms72p9crvmrs6c",
+      "link": "https://s.shopee.com.br/2qUZ2jelkJ",
+      "rating": "4.9",
+      "sales": 992,
+      "shop": "SPN MARKET",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58201486139,
+        "productName": "Ração Úmida Dog Chow Cães - Display com 15 Sachês 85g",
+        "price": "38.9",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.03",
+        "sales": 992,
+        "ratingStar": "4.9",
+        "shopName": "SPN MARKET",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257s-ms72p9crvmrs6c",
+        "productLink": "https://shopee.com.br/product/1501485889/58201486139",
+        "offerLink": "https://s.shopee.com.br/2qUZ2jelkJ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22893223197",
       "name": "Petisco para cachorro bifinho Meu Dog 1Kg sabor Carne",
       "price": 27.88,
@@ -22571,35 +22600,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mghon41ulszs58",
         "productLink": "https://shopee.com.br/product/1509466466/42700687588",
         "offerLink": "https://s.shopee.com.br/9V1Sz01r8E"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58209955451",
-      "name": "Descalcificante Limpa Cafeteira Expresso Maquina Nespresso Dolce Gusto 3 Corações Café Dentro Limpez",
-      "price": 17.89,
-      "original_price": 27.52,
-      "discount": 35.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mnp4nu9pryf625",
-      "link": "https://s.shopee.com.br/5foirajBKd",
-      "rating": "4.9",
-      "sales": 1968,
-      "shop": "Oferta Day",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58209955451,
-        "productName": "Descalcificante Limpa Cafeteira Expresso Maquina Nespresso Dolce Gusto 3 Corações Café Dentro Limpez",
-        "price": "17.89",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.18",
-        "sales": 1968,
-        "ratingStar": "4.9",
-        "shopName": "Oferta Day",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mnp4nu9pryf625",
-        "productLink": "https://shopee.com.br/product/1552460828/58209955451",
-        "offerLink": "https://s.shopee.com.br/5foirajBKd"
       },
       "_last_price": null
     },
@@ -23006,35 +23006,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivnw76gufwia0",
         "productLink": "https://shopee.com.br/product/491375846/13435249728",
         "offerLink": "https://s.shopee.com.br/4VcoSXGIkO"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22694663438",
-      "name": "Panela de Pressão Elétrica Digital 5/6 litros Preta ou Inox - kian",
-      "price": 329.9,
-      "original_price": 499.85,
-      "discount": 34.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk10g04dmv4317",
-      "link": "https://s.shopee.com.br/gQ4SmhoHx",
-      "rating": "4.9",
-      "sales": 717,
-      "shop": "QueroObra",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22694663438,
-        "productName": "Panela de Pressão Elétrica Digital 5/6 litros Preta ou Inox - kian",
-        "price": "329.9",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.18",
-        "sales": 717,
-        "ratingStar": "4.9",
-        "shopName": "QueroObra",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk10g04dmv4317",
-        "productLink": "https://shopee.com.br/product/563110312/22694663438",
-        "offerLink": "https://s.shopee.com.br/gQ4SmhoHx"
       },
       "_last_price": null
     },
@@ -23474,35 +23445,6 @@
       "_last_price": null
     },
     {
-      "id": "58201486139",
-      "name": "Ração Úmida Dog Chow Cães - Display com 15 Sachês 85g",
-      "price": 39.9,
-      "original_price": 59.55,
-      "discount": 33.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8257s-ms72p9crvmrs6c",
-      "link": "https://s.shopee.com.br/2qUZ2jelkJ",
-      "rating": "4.9",
-      "sales": 992,
-      "shop": "SPN MARKET",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58201486139,
-        "productName": "Ração Úmida Dog Chow Cães - Display com 15 Sachês 85g",
-        "price": "39.9",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.03",
-        "sales": 992,
-        "ratingStar": "4.9",
-        "shopName": "SPN MARKET",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257s-ms72p9crvmrs6c",
-        "productLink": "https://shopee.com.br/product/1501485889/58201486139",
-        "offerLink": "https://s.shopee.com.br/2qUZ2jelkJ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "29243009805",
       "name": "Caixa 12 Sachê Premium Special Cat",
       "price": 31.88,
@@ -23934,6 +23876,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvfx-lki79klhmzcp46",
         "productLink": "https://shopee.com.br/product/534023108/22396235066",
         "offerLink": "https://s.shopee.com.br/5VVKDajAOY"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22736011414",
+      "name": "Lava Roupas Lavanderia Pro Líquido 7L Omo",
+      "price": 99.89,
+      "original_price": 146.9,
+      "discount": 32.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rau5-mau62igmy63506",
+      "link": "https://s.shopee.com.br/LnCVhRuL6",
+      "rating": "5",
+      "sales": 17523,
+      "shop": "Braslimpo",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22736011414,
+        "productName": "Lava Roupas Lavanderia Pro Líquido 7L Omo",
+        "price": "99.89",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.06",
+        "sales": 17523,
+        "ratingStar": "5",
+        "shopName": "Braslimpo",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rau5-mau62igmy63506",
+        "productLink": "https://shopee.com.br/product/946161700/22736011414",
+        "offerLink": "https://s.shopee.com.br/LnCVhRuL6"
       },
       "_last_price": null
     },
@@ -25040,31 +25011,31 @@
       "_last_price": null
     },
     {
-      "id": "53710380013",
-      "name": "Detergente em Pó Lava Louças Saif 1kg e 500g",
-      "price": 27.8,
-      "original_price": 39.71,
+      "id": "22298574308",
+      "name": "Kit Pia Color Lixeira 4,8L Com Rodinho Porta Detergente Cozinha Area Gourmet",
+      "price": 18.99,
+      "original_price": 27.13,
       "discount": 30.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mrbzgfxcptz92c",
-      "link": "https://s.shopee.com.br/8KpXnMjf4V",
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mq1xsj149ddsf0",
+      "link": "https://s.shopee.com.br/7ptF19mMtw",
       "rating": "4.9",
-      "sales": 1293,
-      "shop": "Casa Ruas",
+      "sales": 3126,
+      "shop": "Decoraki",
       "category": "detergente",
       "source": "shopee",
       "_item": {
-        "itemId": 53710380013,
-        "productName": "Detergente em Pó Lava Louças Saif 1kg e 500g",
-        "price": "27.8",
+        "itemId": 22298574308,
+        "productName": "Kit Pia Color Lixeira 4,8L Com Rodinho Porta Detergente Cozinha Area Gourmet",
+        "price": "18.99",
         "priceDiscountRate": 30,
-        "commissionRate": "0.03",
-        "sales": 1293,
+        "commissionRate": "0.08",
+        "sales": 3126,
         "ratingStar": "4.9",
-        "shopName": "Casa Ruas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mrbzgfxcptz92c",
-        "productLink": "https://shopee.com.br/product/489936264/53710380013",
-        "offerLink": "https://s.shopee.com.br/8KpXnMjf4V"
+        "shopName": "Decoraki",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mq1xsj149ddsf0",
+        "productLink": "https://shopee.com.br/product/1542782932/22298574308",
+        "offerLink": "https://s.shopee.com.br/7ptF19mMtw"
       },
       "_last_price": null
     },
@@ -25587,35 +25558,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mll99udq0ao7d0",
         "productLink": "https://shopee.com.br/product/1754933018/23499364961",
         "offerLink": "https://s.shopee.com.br/70K9R3DCit"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58251678972",
-      "name": "Porta Detergente E Esponja Dispenser 3 Em 1 Aço Inox Escorredor Talheres Utensilios de Cozinha Organizador de Pia",
-      "price": 29.9,
-      "original_price": 42.11,
-      "discount": 29.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjgefzoqtzpifa",
-      "link": "https://s.shopee.com.br/8ploOHhl3c",
-      "rating": "4.9",
-      "sales": 1407,
-      "shop": "R&V Modas",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58251678972,
-        "productName": "Porta Detergente E Esponja Dispenser 3 Em 1 Aço Inox Escorredor Talheres Utensilios de Cozinha Organizador de Pia",
-        "price": "29.9",
-        "priceDiscountRate": 29,
-        "commissionRate": "0.03",
-        "sales": 1407,
-        "ratingStar": "4.9",
-        "shopName": "R&V Modas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjgefzoqtzpifa",
-        "productLink": "https://shopee.com.br/product/1310127163/58251678972",
-        "offerLink": "https://s.shopee.com.br/8ploOHhl3c"
       },
       "_last_price": null
     },
@@ -26606,6 +26548,35 @@
       "_last_price": null
     },
     {
+      "id": "58215953803",
+      "name": "Fonte de Alimentação 500W para PC ATX AMD Intel com PCI-E 6+2 Pinos SATA IDE 120mm Bivolt",
+      "price": 108.9,
+      "original_price": 149.18,
+      "discount": 27.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mrrdbzsyf40404",
+      "link": "https://s.shopee.com.br/4qFdSvw8PY",
+      "rating": "5",
+      "sales": 33,
+      "shop": "Loja Megaju",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58215953803,
+        "productName": "Fonte de Alimentação 500W para PC ATX AMD Intel com PCI-E 6+2 Pinos SATA IDE 120mm Bivolt",
+        "price": "108.9",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.03",
+        "sales": 33,
+        "ratingStar": "5",
+        "shopName": "Loja Megaju",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mrrdbzsyf40404",
+        "productLink": "https://shopee.com.br/product/1705011169/58215953803",
+        "offerLink": "https://s.shopee.com.br/4qFdSvw8PY"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18498284404",
       "name": "Fonte ATX 600W Tronos TRS/6350-SMT 24 Pinos Real – Alta Performance e Estabilidade",
       "price": 130.65,
@@ -27478,8 +27449,8 @@
     {
       "id": "58202494237",
       "name": "Dispensador automático de desinfetante para as mãos com sensor inteligente",
-      "price": 52.99,
-      "original_price": 70.65,
+      "price": 53.99,
+      "original_price": 71.99,
       "discount": 25.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mitoejy7cuf53b",
@@ -27492,7 +27463,7 @@
       "_item": {
         "itemId": 58202494237,
         "productName": "Dispensador automático de desinfetante para as mãos com sensor inteligente",
-        "price": "52.99",
+        "price": "53.99",
         "priceDiscountRate": 25,
         "commissionRate": "0.03",
         "sales": 2010,
@@ -28955,6 +28926,35 @@
       "_last_price": null
     },
     {
+      "id": "56354974325",
+      "name": "Jogo De Panela Antiaderente 3 em 1 Funcional Panela Pressão Pipoqueira Panela Convencional",
+      "price": 164.6,
+      "original_price": 211.03,
+      "discount": 22.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjquk4kb1gch06",
+      "link": "https://s.shopee.com.br/1Lfn1QFaTF",
+      "rating": "4.8",
+      "sales": 567,
+      "shop": "Cozillar Fábrica",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 56354974325,
+        "productName": "Jogo De Panela Antiaderente 3 em 1 Funcional Panela Pressão Pipoqueira Panela Convencional",
+        "price": "164.6",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.03",
+        "sales": 567,
+        "ratingStar": "4.8",
+        "shopName": "Cozillar Fábrica",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjquk4kb1gch06",
+        "productLink": "https://shopee.com.br/product/1257947498/56354974325",
+        "offerLink": "https://s.shopee.com.br/1Lfn1QFaTF"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20698436405",
       "name": "Tênis feminino lançamento novidade leve confortável casual plataforma top!",
       "price": 49.9,
@@ -29912,35 +29912,6 @@
       "_last_price": null
     },
     {
-      "id": "40004443645",
-      "name": "Placa de Vídeo NVIDIA GeForce MSI RTX5060 8GB GDDR7 128BITS SHADOW 2X OC - 912-V537-037",
-      "price": 2863.47,
-      "original_price": 3579.34,
-      "discount": 20.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxk-mdqd16pct8kk29",
-      "link": "https://s.shopee.com.br/AUtycLcwzt",
-      "rating": "4.9",
-      "sales": 648,
-      "shop": "TNTinfoLoja",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40004443645,
-        "productName": "Placa de Vídeo NVIDIA GeForce MSI RTX5060 8GB GDDR7 128BITS SHADOW 2X OC - 912-V537-037",
-        "price": "2863.47",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.03",
-        "sales": 648,
-        "ratingStar": "4.9",
-        "shopName": "TNTinfoLoja",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxk-mdqd16pct8kk29",
-        "productLink": "https://shopee.com.br/product/344381236/40004443645",
-        "offerLink": "https://s.shopee.com.br/AUtycLcwzt"
-      },
-      "_last_price": null
-    },
-    {
       "id": "53812069361",
       "name": "Suporte Roteador Parede Sem Furo Fita 3M Organizador WiFi Universal",
       "price": 12.75,
@@ -29995,35 +29966,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mm7sz7luyfb81a",
         "productLink": "https://shopee.com.br/product/1129899846/23093825328",
         "offerLink": "https://s.shopee.com.br/905CNpEPqC"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58215953803",
-      "name": "Fonte de Alimentação 500W para PC ATX AMD Intel com PCI-E 6+2 Pinos SATA IDE 120mm Bivolt",
-      "price": 119.9,
-      "original_price": 149.88,
-      "discount": 20.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mrrdbzsyf40404",
-      "link": "https://s.shopee.com.br/4qFdSvw8PY",
-      "rating": "5",
-      "sales": 33,
-      "shop": "Loja Megaju",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58215953803,
-        "productName": "Fonte de Alimentação 500W para PC ATX AMD Intel com PCI-E 6+2 Pinos SATA IDE 120mm Bivolt",
-        "price": "119.9",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.03",
-        "sales": 33,
-        "ratingStar": "5",
-        "shopName": "Loja Megaju",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mrrdbzsyf40404",
-        "productLink": "https://shopee.com.br/product/1705011169/58215953803",
-        "offerLink": "https://s.shopee.com.br/4qFdSvw8PY"
       },
       "_last_price": null
     },
@@ -30256,6 +30198,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mpcphejk4eth7f",
         "productLink": "https://shopee.com.br/product/429439423/40881634244",
         "offerLink": "https://s.shopee.com.br/7KwzpkeiGo"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58209955451",
+      "name": "Descalcificante Limpa Cafeteira Expresso Maquina Nespresso Dolce Gusto 3 Corações Café Dentro Limpez",
+      "price": 21.9,
+      "original_price": 27.37,
+      "discount": 20.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mnp4nu9pryf625",
+      "link": "https://s.shopee.com.br/5foirajBKd",
+      "rating": "4.9",
+      "sales": 1968,
+      "shop": "Oferta Day",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58209955451,
+        "productName": "Descalcificante Limpa Cafeteira Expresso Maquina Nespresso Dolce Gusto 3 Corações Café Dentro Limpez",
+        "price": "21.9",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.18",
+        "sales": 1968,
+        "ratingStar": "4.9",
+        "shopName": "Oferta Day",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mnp4nu9pryf625",
+        "productLink": "https://shopee.com.br/product/1552460828/58209955451",
+        "offerLink": "https://s.shopee.com.br/5foirajBKd"
       },
       "_last_price": null
     },
@@ -31938,6 +31909,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5kdrubq70jp86",
         "productLink": "https://shopee.com.br/product/534023108/13613839850",
         "offerLink": "https://s.shopee.com.br/5q8AdTtyxc"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22198975486",
+      "name": "BASE SABÃO LÍQUIDO AZUL FAZ 6L HOMO 2X200ML CONCENTRADO KIT BLEND",
+      "price": 22.1,
+      "original_price": 26.0,
+      "discount": 15.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81zu4-mkzny58sg3y9d6",
+      "link": "https://s.shopee.com.br/6Al2RWGNPk",
+      "rating": "4.8",
+      "sales": 1515,
+      "shop": "alfaquímica",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22198975486,
+        "productName": "BASE SABÃO LÍQUIDO AZUL FAZ 6L HOMO 2X200ML CONCENTRADO KIT BLEND",
+        "price": "22.1",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.03",
+        "sales": 1515,
+        "ratingStar": "4.8",
+        "shopName": "alfaquímica",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu4-mkzny58sg3y9d6",
+        "productLink": "https://shopee.com.br/product/1553965255/22198975486",
+        "offerLink": "https://s.shopee.com.br/6Al2RWGNPk"
       },
       "_last_price": null
     },
