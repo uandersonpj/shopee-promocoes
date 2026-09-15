@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T01:09:38.990960+00:00",
-  "total": 1118,
+  "updated_at": "2026-09-15T01:28:27.452035+00:00",
+  "total": 1117,
   "products": [
     {
       "id": "52011120312",
@@ -3208,7 +3208,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma3wxbeu4kl52a",
         "productLink": "https://shopee.com.br/product/1494995608/23798319408",
         "offerLink": "https://s.shopee.com.br/9AOb1uHIDj"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22495754071",
@@ -4020,6 +4021,35 @@
       "_last_price": null
     },
     {
+      "id": "22594316058",
+      "name": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
+      "price": 22.99,
+      "original_price": 69.67,
+      "discount": 67.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
+      "link": "https://s.shopee.com.br/8AW68jTYTK",
+      "rating": "4.7",
+      "sales": 109,
+      "shop": "ATACADO PESCA E CIA",
+      "category": "chumbada",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22594316058,
+        "productName": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
+        "price": "22.99",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.07",
+        "sales": 109,
+        "ratingStar": "4.7",
+        "shopName": "ATACADO PESCA E CIA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
+        "productLink": "https://shopee.com.br/product/1595150949/22594316058",
+        "offerLink": "https://s.shopee.com.br/8AW68jTYTK"
+      },
+      "_last_price": null
+    },
+    {
       "id": "55501913565",
       "name": "Enrolador de Linha Polinha Suporte para linha de pesca Compatível com Varas Simples e Telescópicas",
       "price": 1.5,
@@ -4595,8 +4625,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mrnc54pvl2pwf1",
         "productLink": "https://shopee.com.br/product/1661742891/58253894256",
         "offerLink": "https://s.shopee.com.br/W6f1l3ztl"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23994336380",
@@ -4682,35 +4711,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mnwoay42c26d3c",
         "productLink": "https://shopee.com.br/product/1509457194/49260023163",
         "offerLink": "https://s.shopee.com.br/3LQpevp5Y1"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58260912434",
-      "name": "Creatina Monohidratada Hardcore Original 100% Pura Ultimas Unidades",
-      "price": 30.9,
-      "original_price": 88.29,
-      "discount": 65.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-822xd-moehlogng7bj34",
-      "link": "https://s.shopee.com.br/40gUsUhfmG",
-      "rating": "4.8",
-      "sales": 1279,
-      "shop": "Armazem_00",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58260912434,
-        "productName": "Creatina Monohidratada Hardcore Original 100% Pura Ultimas Unidades",
-        "price": "30.9",
-        "priceDiscountRate": 65,
-        "commissionRate": "0.13",
-        "sales": 1279,
-        "ratingStar": "4.8",
-        "shopName": "Armazem_00",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xd-moehlogng7bj34",
-        "productLink": "https://shopee.com.br/product/991509912/58260912434",
-        "offerLink": "https://s.shopee.com.br/40gUsUhfmG"
       },
       "_last_price": null
     },
@@ -15064,35 +15064,6 @@
       "_last_price": null
     },
     {
-      "id": "22298591472",
-      "name": "Ração Quatree Gourmet Gatos 10,1Kg",
-      "price": 115.99,
-      "original_price": 218.85,
-      "discount": 47.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
-      "link": "https://s.shopee.com.br/8plkdOT8Ax",
-      "rating": "4.9",
-      "sales": 3303,
-      "shop": "mypetone",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22298591472,
-        "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
-        "price": "115.99",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.12",
-        "sales": 3303,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
-        "productLink": "https://shopee.com.br/product/290073877/22298591472",
-        "offerLink": "https://s.shopee.com.br/8plkdOT8Ax"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22998482488",
       "name": "Sachê Friskies para Gatos – Kit com 15 Unidades – envio imediato",
       "price": 34.9,
@@ -16887,6 +16858,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb3pqavbklg96",
         "productLink": "https://shopee.com.br/product/983753255/23791204929",
         "offerLink": "https://s.shopee.com.br/7VGObIEkJ5"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22298591472",
+      "name": "Ração Quatree Gourmet Gatos 10,1Kg",
+      "price": 121.74,
+      "original_price": 221.35,
+      "discount": 45.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
+      "link": "https://s.shopee.com.br/8plkdOT8Ax",
+      "rating": "4.9",
+      "sales": 3303,
+      "shop": "mypetone",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22298591472,
+        "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
+        "price": "121.74",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.12",
+        "sales": 3303,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
+        "productLink": "https://shopee.com.br/product/290073877/22298591472",
+        "offerLink": "https://s.shopee.com.br/8plkdOT8Ax"
       },
       "_last_price": null
     },
@@ -22720,35 +22720,6 @@
       "_last_price": null
     },
     {
-      "id": "58209955451",
-      "name": "Descalcificante Limpa Cafeteira Expresso Maquina Nespresso Dolce Gusto 3 Corações Café Dentro Limpez",
-      "price": 17.89,
-      "original_price": 27.52,
-      "discount": 35.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mnp4nu9pryf625",
-      "link": "https://s.shopee.com.br/5foirajBKd",
-      "rating": "4.9",
-      "sales": 1995,
-      "shop": "Oferta Day",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58209955451,
-        "productName": "Descalcificante Limpa Cafeteira Expresso Maquina Nespresso Dolce Gusto 3 Corações Café Dentro Limpez",
-        "price": "17.89",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.18",
-        "sales": 1995,
-        "ratingStar": "4.9",
-        "shopName": "Oferta Day",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mnp4nu9pryf625",
-        "productLink": "https://shopee.com.br/product/1552460828/58209955451",
-        "offerLink": "https://s.shopee.com.br/5foirajBKd"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23193702716",
       "name": "Panela de Pressão 4,5L Antiaderente com Visor de Vidro na Tampa 12cm Grande Grafite / Cereja / Perola 4,5 Litros MTA",
       "price": 194.88,
@@ -24195,6 +24166,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdudgwkx4uyhd1",
         "productLink": "https://shopee.com.br/product/826593048/22798840569",
         "offerLink": "https://s.shopee.com.br/5q8940JrGz"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58257442384",
+      "name": "1.000 Etiquetas Alimentos 40x40 Anvisa Couchê Validade Fabricação",
+      "price": 19.0,
+      "original_price": 27.94,
+      "discount": 32.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mm6dy5ydiltwdb",
+      "link": "https://s.shopee.com.br/9zxjZdp9Ro",
+      "rating": "5",
+      "sales": 2665,
+      "shop": "MS_PRINT",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58257442384,
+        "productName": "1.000 Etiquetas Alimentos 40x40 Anvisa Couchê Validade Fabricação",
+        "price": "19",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.03",
+        "sales": 2665,
+        "ratingStar": "5",
+        "shopName": "MS_PRINT",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mm6dy5ydiltwdb",
+        "productLink": "https://shopee.com.br/product/1737125426/58257442384",
+        "offerLink": "https://s.shopee.com.br/9zxjZdp9Ro"
       },
       "_last_price": null
     },
@@ -28230,35 +28230,6 @@
       "_last_price": null
     },
     {
-      "id": "3166644344",
-      "name": "Kit de Pesca Chumbadas Oliva Diversas Com Estojo Organizador Caixa Multiuso Acessório Pescaria",
-      "price": 38.9,
-      "original_price": 51.87,
-      "discount": 25.0,
-      "commission": 16.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lh9iq50zmqie10",
-      "link": "https://s.shopee.com.br/2LYIVqpg9q",
-      "rating": "4.7",
-      "sales": 189,
-      "shop": "Max Pescas",
-      "category": "chumbada",
-      "source": "shopee",
-      "_item": {
-        "itemId": 3166644344,
-        "productName": "Kit de Pesca Chumbadas Oliva Diversas Com Estojo Organizador Caixa Multiuso Acessório Pescaria",
-        "price": "38.9",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.16",
-        "sales": 189,
-        "ratingStar": "4.7",
-        "shopName": "Max Pescas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lh9iq50zmqie10",
-        "productLink": "https://shopee.com.br/product/291545650/3166644344",
-        "offerLink": "https://s.shopee.com.br/2LYIVqpg9q"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20099892643",
       "name": "Óculos de Sol Polarizado com Estojo Proteção UV Masculino Esportivo Pesca",
       "price": 29.97,
@@ -30347,6 +30318,35 @@
       "_last_price": null
     },
     {
+      "id": "58209955451",
+      "name": "Descalcificante Limpa Cafeteira Expresso Maquina Nespresso Dolce Gusto 3 Corações Café Dentro Limpez",
+      "price": 21.9,
+      "original_price": 27.37,
+      "discount": 20.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mnp4nu9pryf625",
+      "link": "https://s.shopee.com.br/5foirajBKd",
+      "rating": "4.9",
+      "sales": 1995,
+      "shop": "Oferta Day",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58209955451,
+        "productName": "Descalcificante Limpa Cafeteira Expresso Maquina Nespresso Dolce Gusto 3 Corações Café Dentro Limpez",
+        "price": "21.9",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.18",
+        "sales": 1995,
+        "ratingStar": "4.9",
+        "shopName": "Oferta Day",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mnp4nu9pryf625",
+        "productLink": "https://shopee.com.br/product/1552460828/58209955451",
+        "offerLink": "https://s.shopee.com.br/5foirajBKd"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23998761112",
       "name": "Kit De Pesca 3 Vara E 3 Molinete Com Linha Maleta Acessórios",
       "price": 166.54,
@@ -31880,35 +31880,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mibo7781e5fl55",
         "productLink": "https://shopee.com.br/product/320275364/21745736877",
         "offerLink": "https://s.shopee.com.br/6AkzEBawbY"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18799237450",
-      "name": "Kit de Pesca Premium Estojo Com Chumbadas Caixa com Divisórias Pesos Variados Chumbo De Pesca Pescaria Pesqueiro Pratico",
-      "price": 39.48,
-      "original_price": 47.0,
-      "discount": 16.0,
-      "commission": 14.000000000000002,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltqs9gn59ou713",
-      "link": "https://s.shopee.com.br/1VzBWJsqqj",
-      "rating": "4.5",
-      "sales": 159,
-      "shop": "Max Pescas",
-      "category": "chumbada",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18799237450,
-        "productName": "Kit de Pesca Premium Estojo Com Chumbadas Caixa com Divisórias Pesos Variados Chumbo De Pesca Pescaria Pesqueiro Pratico",
-        "price": "39.48",
-        "priceDiscountRate": 16,
-        "commissionRate": "0.14",
-        "sales": 159,
-        "ratingStar": "4.5",
-        "shopName": "Max Pescas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltqs9gn59ou713",
-        "productLink": "https://shopee.com.br/product/291545650/18799237450",
-        "offerLink": "https://s.shopee.com.br/1VzBWJsqqj"
       },
       "_last_price": null
     },
