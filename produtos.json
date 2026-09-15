@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T20:36:23.453101+00:00",
-  "total": 1113,
+  "updated_at": "2026-09-15T20:55:12.983122+00:00",
+  "total": 1112,
   "products": [
     {
       "id": "52011120312",
@@ -28,7 +28,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qo-moodqvbtpo8yf2",
         "productLink": "https://shopee.com.br/product/1571156019/52011120312",
         "offerLink": "https://s.shopee.com.br/60Raod9AFY"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22394636674",
@@ -5840,8 +5841,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zr-mklbm2prptdx7f",
         "productLink": "https://shopee.com.br/product/664761873/21998128832",
         "offerLink": "https://s.shopee.com.br/AUu0AZI7Ax"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58262310122",
@@ -6043,6 +6043,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf8fj8snacck60",
         "productLink": "https://shopee.com.br/product/1397772996/23993522162",
         "offerLink": "https://s.shopee.com.br/4LJMpTi7nc"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "52607420187",
+      "name": "Escova de Limpeza Multifuncional Flexível Para Garrafas Mamadeiras Liquidificador De Silicone",
+      "price": 9.97,
+      "original_price": 26.24,
+      "discount": 62.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mpnppwqseqypd8",
+      "link": "https://s.shopee.com.br/80CfEsCBfU",
+      "rating": "4.7",
+      "sales": 2397,
+      "shop": "MF Baby e Home",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 52607420187,
+        "productName": "Escova de Limpeza Multifuncional Flexível Para Garrafas Mamadeiras Liquidificador De Silicone",
+        "price": "9.97",
+        "priceDiscountRate": 62,
+        "commissionRate": "0.13",
+        "sales": 2397,
+        "ratingStar": "4.7",
+        "shopName": "MF Baby e Home",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mpnppwqseqypd8",
+        "productLink": "https://shopee.com.br/product/1556592577/52607420187",
+        "offerLink": "https://s.shopee.com.br/80CfEsCBfU"
       },
       "_last_price": null
     },
@@ -10376,7 +10405,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-824i0-mpmcje4scyyqd6",
       "link": "https://s.shopee.com.br/5q8AcLDrat",
-      "rating": "4.6",
+      "rating": "4.5",
       "sales": 140,
       "shop": "Rei das Mantas",
       "category": "boné pesca",
@@ -10388,7 +10417,7 @@
         "priceDiscountRate": 54,
         "commissionRate": "0.03",
         "sales": 140,
-        "ratingStar": "4.6",
+        "ratingStar": "4.5",
         "shopName": "Rei das Mantas",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i0-mpmcje4scyyqd6",
         "productLink": "https://shopee.com.br/product/879395969/58212763278",
@@ -11249,7 +11278,7 @@
       "rating": "4.8",
       "sales": 2551,
       "shop": "TOCCHIOCOSMETICOS",
-      "category": "condicionador",
+      "category": "shampoo",
       "source": "shopee",
       "_item": {
         "itemId": 22499197888,
@@ -14227,8 +14256,8 @@
     {
       "id": "48208359433",
       "name": "Casinha de Cachorro Com Caminha N 4 ou 5 Cachorros Pequeno Médio Porte Caminha de Cachorro",
-      "price": 59.9,
-      "original_price": 115.19,
+      "price": 59.99,
+      "original_price": 115.37,
       "discount": 48.0,
       "commission": 17.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8226r-mhfcarhiudxo7d",
@@ -14241,7 +14270,7 @@
       "_item": {
         "itemId": 48208359433,
         "productName": "Casinha de Cachorro Com Caminha N 4 ou 5 Cachorros Pequeno Médio Porte Caminha de Cachorro",
-        "price": "59.9",
+        "price": "59.99",
         "priceDiscountRate": 48,
         "commissionRate": "0.17",
         "sales": 255,
@@ -25127,35 +25156,6 @@
       "_last_price": null
     },
     {
-      "id": "14494160625",
-      "name": "Kit Shampoo + Condicionador SOS Bomba Original Salon Line 200ml",
-      "price": 19.95,
-      "original_price": 28.5,
-      "discount": 30.0,
-      "commission": 21.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259g-msbwy1o9n30qbe",
-      "link": "https://s.shopee.com.br/9fKrcsVm9r",
-      "rating": "4.9",
-      "sales": 3505,
-      "shop": "Salon Line",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 14494160625,
-        "productName": "Kit Shampoo + Condicionador SOS Bomba Original Salon Line 200ml",
-        "price": "19.95",
-        "priceDiscountRate": 30,
-        "commissionRate": "0.21",
-        "sales": 3505,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-msbwy1o9n30qbe",
-        "productLink": "https://shopee.com.br/product/616222685/14494160625",
-        "offerLink": "https://s.shopee.com.br/9fKrcsVm9r"
-      },
-      "_last_price": null
-    },
-    {
       "id": "9319243207",
       "name": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
       "price": 29.9,
@@ -27704,35 +27704,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259z-mt5nv08nufb8f0",
         "productLink": "https://shopee.com.br/product/811879342/22794193064",
         "offerLink": "https://s.shopee.com.br/30o0fmvD3t"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18775453273",
-      "name": "Liquidificador Britânia 2,6L 900W 4 Lâminas BLQ970P Turbo",
-      "price": 119.9,
-      "original_price": 159.87,
-      "discount": 25.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259g-mt5qvjci4ah5ca",
-      "link": "https://s.shopee.com.br/1VzBUvavrM",
-      "rating": "4.9",
-      "sales": 1044,
-      "shop": "Britânia Oficial",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18775453273,
-        "productName": "Liquidificador Britânia 2,6L 900W 4 Lâminas BLQ970P Turbo",
-        "price": "119.9",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.03",
-        "sales": 1044,
-        "ratingStar": "4.9",
-        "shopName": "Britânia Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-mt5qvjci4ah5ca",
-        "productLink": "https://shopee.com.br/product/811879342/18775453273",
-        "offerLink": "https://s.shopee.com.br/1VzBUvavrM"
       },
       "_last_price": null
     },
@@ -31368,7 +31339,7 @@
       "original_price": 120.36,
       "discount": 17.0,
       "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8258l-mt5qvgqcny0yf7",
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8257z-mt5rpi6egv7me6",
       "link": "https://s.shopee.com.br/5q893tiXze",
       "rating": "4.9",
       "sales": 1527,
@@ -31384,7 +31355,7 @@
         "sales": 1527,
         "ratingStar": "4.9",
         "shopName": "Britânia Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258l-mt5qvgqcny0yf7",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257z-mt5rpi6egv7me6",
         "productLink": "https://shopee.com.br/product/811879342/19499177687",
         "offerLink": "https://s.shopee.com.br/5q893tiXze"
       },
