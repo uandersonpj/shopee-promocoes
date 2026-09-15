@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T02:06:02.969067+00:00",
-  "total": 1118,
+  "updated_at": "2026-09-15T02:24:44.641284+00:00",
+  "total": 1115,
   "products": [
     {
       "id": "52011120312",
@@ -721,7 +721,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
         "productLink": "https://shopee.com.br/product/1266325318/21897981294",
         "offerLink": "https://s.shopee.com.br/5LBu1IaSXv"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23294866358",
@@ -3359,8 +3360,8 @@
     {
       "id": "58206781154",
       "name": "SPOETRY Bolsa Feminina Casual de Nylon Nova Grande Ombro Tote",
-      "price": 31.9,
-      "original_price": 99.69,
+      "price": 31.2,
+      "original_price": 97.5,
       "discount": 68.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mlq1ob393uvb2b",
@@ -3373,7 +3374,7 @@
       "_item": {
         "itemId": 58206781154,
         "productName": "SPOETRY Bolsa Feminina Casual de Nylon Nova Grande Ombro Tote",
-        "price": "31.9",
+        "price": "31.2",
         "priceDiscountRate": 68,
         "commissionRate": "0.13",
         "sales": 2289,
@@ -4076,8 +4077,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
         "productLink": "https://shopee.com.br/product/1595150949/22594316058",
         "offerLink": "https://s.shopee.com.br/8AW68jTYTK"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "55501913565",
@@ -4741,35 +4741,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mnwoay42c26d3c",
         "productLink": "https://shopee.com.br/product/1509457194/49260023163",
         "offerLink": "https://s.shopee.com.br/3LQpevp5Y1"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58260912434",
-      "name": "Creatina Monohidratada Hardcore Original 100% Pura Ultimas Unidades",
-      "price": 30.9,
-      "original_price": 88.29,
-      "discount": 65.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-822xd-moehlogng7bj34",
-      "link": "https://s.shopee.com.br/40gUsUhfmG",
-      "rating": "4.8",
-      "sales": 1279,
-      "shop": "Armazem_00",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58260912434,
-        "productName": "Creatina Monohidratada Hardcore Original 100% Pura Ultimas Unidades",
-        "price": "30.9",
-        "priceDiscountRate": 65,
-        "commissionRate": "0.13",
-        "sales": 1279,
-        "ratingStar": "4.8",
-        "shopName": "Armazem_00",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xd-moehlogng7bj34",
-        "productLink": "https://shopee.com.br/product/991509912/58260912434",
-        "offerLink": "https://s.shopee.com.br/40gUsUhfmG"
       },
       "_last_price": null
     },
@@ -5912,7 +5883,7 @@
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/sg-11134201-824ij-mprnjnbdx6hbb9",
       "link": "https://s.shopee.com.br/40gWQzy2Je",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 368,
       "shop": "allland.br",
       "category": "rede de pesca",
@@ -5924,7 +5895,7 @@
         "priceDiscountRate": 63,
         "commissionRate": "0.07",
         "sales": 368,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "allland.br",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ij-mprnjnbdx6hbb9",
         "productLink": "https://shopee.com.br/product/264980572/53112635208",
@@ -6281,35 +6252,6 @@
       "_last_price": null
     },
     {
-      "id": "52607420187",
-      "name": "Escova de Limpeza Multifuncional Flexível Para Garrafas Mamadeiras Liquidificador De Silicone",
-      "price": 9.97,
-      "original_price": 26.24,
-      "discount": 62.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mpnppwqseqypd8",
-      "link": "https://s.shopee.com.br/80CfEsCBfU",
-      "rating": "4.7",
-      "sales": 2485,
-      "shop": "MF Baby e Home",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 52607420187,
-        "productName": "Escova de Limpeza Multifuncional Flexível Para Garrafas Mamadeiras Liquidificador De Silicone",
-        "price": "9.97",
-        "priceDiscountRate": 62,
-        "commissionRate": "0.13",
-        "sales": 2485,
-        "ratingStar": "4.7",
-        "shopName": "MF Baby e Home",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mpnppwqseqypd8",
-        "productLink": "https://shopee.com.br/product/1556592577/52607420187",
-        "offerLink": "https://s.shopee.com.br/80CfEsCBfU"
-      },
-      "_last_price": null
-    },
-    {
       "id": "21997222833",
       "name": "Tênis Meia Feminino Calce Fácil Botinha Ortopédico Esportivo Sneaker Slip On Casual confortável Academia",
       "price": 22.9,
@@ -6519,7 +6461,7 @@
       "original_price": 89.42,
       "discount": 62.0,
       "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lu-ms3jx416l7nof4",
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mt4n0wtn8d8m07",
       "link": "https://s.shopee.com.br/40gWQzBV9s",
       "rating": "4.9",
       "sales": 375,
@@ -6535,7 +6477,7 @@
         "sales": 375,
         "ratingStar": "4.9",
         "shopName": "CASA MISTA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-ms3jx416l7nof4",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mt4n0wtn8d8m07",
         "productLink": "https://shopee.com.br/product/1830268167/58264672148",
         "offerLink": "https://s.shopee.com.br/40gWQzBV9s"
       },
@@ -19617,35 +19559,6 @@
       "_last_price": null
     },
     {
-      "id": "23294818723",
-      "name": "EZ Vip Black - Eau de Parfum 100ml LANÇAMENTO EXCLUSIVO",
-      "price": 41.0,
-      "original_price": 68.33,
-      "discount": 40.0,
-      "commission": 25.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjrcbybsu6f700",
-      "link": "https://s.shopee.com.br/7KwyOySqUN",
-      "rating": "4.8",
-      "sales": 2615,
-      "shop": "E'thereal Paris",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23294818723,
-        "productName": "EZ Vip Black - Eau de Parfum 100ml LANÇAMENTO EXCLUSIVO",
-        "price": "41",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.25",
-        "sales": 2615,
-        "ratingStar": "4.8",
-        "shopName": "E'thereal Paris",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjrcbybsu6f700",
-        "productLink": "https://shopee.com.br/product/1482776546/23294818723",
-        "offerLink": "https://s.shopee.com.br/7KwyOySqUN"
-      },
-      "_last_price": null
-    },
-    {
       "id": "42064038188",
       "name": "Kit 5 Calça De Treino Para Bebê Algodão Puro Impermeável Lavável Fraldas De Bolso Menina Menino Fralda Roupa Íntima",
       "price": 59.0,
@@ -22981,35 +22894,6 @@
       "_last_price": null
     },
     {
-      "id": "41417041430",
-      "name": "Placa de Vídeo MSI NVIDIA GeForce RTX 5060 SHADOW 2X OC, 8GB, GDDR7, 128 Bits - 912-V537-038",
-      "price": 2999.0,
-      "original_price": 4543.94,
-      "discount": 34.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824h3-me53t34yuepze5",
-      "link": "https://s.shopee.com.br/9fKtB2LHrq",
-      "rating": "5",
-      "sales": 353,
-      "shop": "ITX-GAMER",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41417041430,
-        "productName": "Placa de Vídeo MSI NVIDIA GeForce RTX 5060 SHADOW 2X OC, 8GB, GDDR7, 128 Bits - 912-V537-038",
-        "price": "2999",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.03",
-        "sales": 353,
-        "ratingStar": "5",
-        "shopName": "ITX-GAMER",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h3-me53t34yuepze5",
-        "productLink": "https://shopee.com.br/product/778397589/41417041430",
-        "offerLink": "https://s.shopee.com.br/9fKtB2LHrq"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23094170351",
       "name": "Fonte TGT Enfield, 600W, ATX Bivolt, Preto, TGT-EFD6-BK01",
       "price": 161.9,
@@ -23180,6 +23064,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mrhc4ue2rz0mba",
         "productLink": "https://shopee.com.br/product/1741861311/58255657495",
         "offerLink": "https://s.shopee.com.br/8plmBjN8Rm"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "52311303643",
+      "name": "BODY SPLASH MASCULINO VIBRATION 200ML - PRIMACIAL PERFUME CÍTRICO",
+      "price": 45.9,
+      "original_price": 69.55,
+      "discount": 34.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mosmz2tpi1a875",
+      "link": "https://s.shopee.com.br/9V1TpVJulG",
+      "rating": "4.8",
+      "sales": 2237,
+      "shop": "Primacial",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 52311303643,
+        "productName": "BODY SPLASH MASCULINO VIBRATION 200ML - PRIMACIAL PERFUME CÍTRICO",
+        "price": "45.9",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.1",
+        "sales": 2237,
+        "ratingStar": "4.8",
+        "shopName": "Primacial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mosmz2tpi1a875",
+        "productLink": "https://shopee.com.br/product/1295467768/52311303643",
+        "offerLink": "https://s.shopee.com.br/9V1TpVJulG"
       },
       "_last_price": null
     },
