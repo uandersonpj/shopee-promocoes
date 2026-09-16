@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16T20:28:59.900940+00:00",
-  "total": 1111,
+  "updated_at": "2026-09-16T20:48:04.458665+00:00",
+  "total": 1112,
   "products": [
     {
       "id": "52011120312",
@@ -4426,8 +4426,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmvvx9h1getec5",
         "productLink": "https://shopee.com.br/product/1267873709/58208583352",
         "offerLink": "https://s.shopee.com.br/7VGObP7WD7"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58208589672",
@@ -6340,7 +6339,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
         "productLink": "https://shopee.com.br/product/1595150949/22594316058",
         "offerLink": "https://s.shopee.com.br/3B7Sg7vhtr"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "43150138443",
@@ -26400,6 +26400,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b9-mg5kdxhwvw2605",
         "productLink": "https://shopee.com.br/product/1248266601/22299071731",
         "offerLink": "https://s.shopee.com.br/6q0l2kbqUX"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23699045261",
+      "name": "Alimento para Gatos Filhotes Sabor Frango e Abobora Gourmet Sachê 70G Golden",
+      "price": 2.89,
+      "original_price": 4.01,
+      "discount": 28.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825a3-mg5ksa5y6q6led",
+      "link": "https://s.shopee.com.br/6Al4g3iVfc",
+      "rating": "5",
+      "sales": 950,
+      "shop": "Chegô",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23699045261,
+        "productName": "Alimento para Gatos Filhotes Sabor Frango e Abobora Gourmet Sachê 70G Golden",
+        "price": "2.89",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.03",
+        "sales": 950,
+        "ratingStar": "5",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a3-mg5ksa5y6q6led",
+        "productLink": "https://shopee.com.br/product/1248266601/23699045261",
+        "offerLink": "https://s.shopee.com.br/6Al4g3iVfc"
       },
       "_last_price": null
     },
