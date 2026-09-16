@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T21:45:41.179087+00:00",
+  "updated_at": "2026-09-16T22:05:03.591891+00:00",
   "total": 1113,
   "products": [
     {
@@ -257,7 +257,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825bb-mrmq9num7dvr43",
         "productLink": "https://shopee.com.br/product/1006215031/52255058387",
         "offerLink": "https://s.shopee.com.br/3qN9T8BxHd"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49207406104",
@@ -860,8 +861,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltmsp1pvv6rjd7",
         "productLink": "https://shopee.com.br/product/409941475/19860785095",
         "offerLink": "https://s.shopee.com.br/7VGRpujis9"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23394267693",
@@ -23562,35 +23562,6 @@
       "_last_price": null
     },
     {
-      "id": "12782096688",
-      "name": "Kit S.O.S Hidratação Óleo de Rícino Shampoo e Condicionador Litrão Salon Line",
-      "price": 49.25,
-      "original_price": 73.51,
-      "discount": 33.0,
-      "commission": 21.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mq80n6l4qkub32",
-      "link": "https://s.shopee.com.br/6VNue553me",
-      "rating": "4.9",
-      "sales": 3818,
-      "shop": "Salon Line",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 12782096688,
-        "productName": "Kit S.O.S Hidratação Óleo de Rícino Shampoo e Condicionador Litrão Salon Line",
-        "price": "49.25",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.21",
-        "sales": 3818,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mq80n6l4qkub32",
-        "productLink": "https://shopee.com.br/product/616222685/12782096688",
-        "offerLink": "https://s.shopee.com.br/6VNue553me"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58214668571",
       "name": "Hidrabene Protetor Solar Clareador Facial 70 FPS",
       "price": 39.9,
@@ -27241,6 +27212,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6wwo48snxwn8a",
         "productLink": "https://shopee.com.br/product/665367909/22593748951",
         "offerLink": "https://s.shopee.com.br/1LfoUZl3za"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "12782096688",
+      "name": "Kit S.O.S Hidratação Óleo de Rícino Shampoo e Condicionador Litrão Salon Line",
+      "price": 54.12,
+      "original_price": 73.14,
+      "discount": 26.0,
+      "commission": 21.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mq80n6l4qkub32",
+      "link": "https://s.shopee.com.br/6VNue553me",
+      "rating": "4.9",
+      "sales": 3818,
+      "shop": "Salon Line",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 12782096688,
+        "productName": "Kit S.O.S Hidratação Óleo de Rícino Shampoo e Condicionador Litrão Salon Line",
+        "price": "54.12",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.21",
+        "sales": 3818,
+        "ratingStar": "4.9",
+        "shopName": "Salon Line",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mq80n6l4qkub32",
+        "productLink": "https://shopee.com.br/product/616222685/12782096688",
+        "offerLink": "https://s.shopee.com.br/6VNue553me"
       },
       "_last_price": null
     },
