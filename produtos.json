@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T21:07:19.312692+00:00",
+  "updated_at": "2026-09-16T21:26:29.875522+00:00",
   "total": 1113,
   "products": [
     {
@@ -727,7 +727,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
       "link": "https://s.shopee.com.br/60Re3EVoa7",
-      "rating": "4.7",
+      "rating": "4.6",
       "sales": 8032,
       "shop": "MVO COMÉRCIO DE VARIEDADES",
       "category": "air fryer",
@@ -739,7 +739,7 @@
         "priceDiscountRate": 80,
         "commissionRate": "0.03",
         "sales": 8032,
-        "ratingStar": "4.7",
+        "ratingStar": "4.6",
         "shopName": "MVO COMÉRCIO DE VARIEDADES",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
         "productLink": "https://shopee.com.br/product/972031390/21997150349",
@@ -2859,8 +2859,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820lv-mnmwgkov9pfqf2",
         "productLink": "https://shopee.com.br/product/390180328/22693260071",
         "offerLink": "https://s.shopee.com.br/70KBFBGNdd"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58251073566",
@@ -13266,7 +13265,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
         "productLink": "https://shopee.com.br/product/293152127/45054396139",
         "offerLink": "https://s.shopee.com.br/4LJQ49lMYo"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23999229020",
