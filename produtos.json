@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16T20:48:04.458665+00:00",
-  "total": 1112,
+  "updated_at": "2026-09-16T21:07:19.312692+00:00",
+  "total": 1113,
   "products": [
     {
       "id": "52011120312",
@@ -229,8 +229,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134275-7rdxw-mdfucal40l6y57",
         "productLink": "https://shopee.com.br/product/236693678/26539956454",
         "offerLink": "https://s.shopee.com.br/4VcqGY4ZNC"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "52255058387",
@@ -1824,8 +1823,8 @@
     {
       "id": "9511754133",
       "name": "Creatina Max Titanium 300g Pura",
-      "price": 48.99,
-      "original_price": 181.44,
+      "price": 49.0,
+      "original_price": 181.48,
       "discount": 73.0,
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-22100-7b7tjvynfbivb7",
@@ -1838,7 +1837,7 @@
       "_item": {
         "itemId": 9511754133,
         "productName": "Creatina Max Titanium 300g Pura",
-        "price": "48.99",
+        "price": "49",
         "priceDiscountRate": 73,
         "commissionRate": "0.1",
         "sales": 11410,
@@ -4922,6 +4921,35 @@
       "_last_price": null
     },
     {
+      "id": "23994408151",
+      "name": "Mouse Gamer TGT GM50, Rainbow, 3600DPI, 6 Botoes, Preto, TGT-GM50-BL01",
+      "price": 27.9,
+      "original_price": 77.5,
+      "discount": 64.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824hk-meswdytnx62t8c",
+      "link": "https://s.shopee.com.br/7fZs2BExcm",
+      "rating": "4.8",
+      "sales": 760,
+      "shop": "Pichau",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23994408151,
+        "productName": "Mouse Gamer TGT GM50, Rainbow, 3600DPI, 6 Botoes, Preto, TGT-GM50-BL01",
+        "price": "27.9",
+        "priceDiscountRate": 64,
+        "commissionRate": "0.03",
+        "sales": 760,
+        "ratingStar": "4.8",
+        "shopName": "Pichau",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824hk-meswdytnx62t8c",
+        "productLink": "https://shopee.com.br/product/627750190/23994408151",
+        "offerLink": "https://s.shopee.com.br/7fZs2BExcm"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23693426827",
       "name": "Suporte de Banheiro Alto Adesivo Organizador de Parede Sabonete Shampoo Condicionador e Papel1/2/3/4",
       "price": 10.43,
@@ -7336,7 +7364,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3wfdg89ffhx9a",
       "link": "https://s.shopee.com.br/8fSPE1B9as",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 1077,
       "shop": "Oliveira Flex",
       "category": "mouse gamer",
@@ -7348,7 +7376,7 @@
         "priceDiscountRate": 59,
         "commissionRate": "0.03",
         "sales": 1077,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "Oliveira Flex",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3wfdg89ffhx9a",
         "productLink": "https://shopee.com.br/product/760173021/23398082837",
@@ -9093,7 +9121,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mn3cmeqnyfwh53",
         "productLink": "https://shopee.com.br/product/1564593552/22994148851",
         "offerLink": "https://s.shopee.com.br/1gIeuUHKtM"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "27869521679",
@@ -10611,7 +10640,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-824i0-mpmcje4scyyqd6",
       "link": "https://s.shopee.com.br/5q8AcLDrat",
-      "rating": "4.5",
+      "rating": "4.6",
       "sales": 146,
       "shop": "Rei das Mantas",
       "category": "boné pesca",
@@ -10623,7 +10652,7 @@
         "priceDiscountRate": 54,
         "commissionRate": "0.03",
         "sales": 146,
-        "ratingStar": "4.5",
+        "ratingStar": "4.6",
         "shopName": "Rei das Mantas",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i0-mpmcje4scyyqd6",
         "productLink": "https://shopee.com.br/product/879395969/58212763278",
@@ -29014,6 +29043,35 @@
       "_last_price": null
     },
     {
+      "id": "16324454755",
+      "name": "Kit SOS Cachos Coco Profundo Shampoo e Condicionador Litrão Salon Line",
+      "price": 51.48,
+      "original_price": 66.0,
+      "discount": 22.0,
+      "commission": 21.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8258a-msbwmmolzx8m23",
+      "link": "https://s.shopee.com.br/6L4URm5h7d",
+      "rating": "4.9",
+      "sales": 3624,
+      "shop": "Salon Line",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 16324454755,
+        "productName": "Kit SOS Cachos Coco Profundo Shampoo e Condicionador Litrão Salon Line",
+        "price": "51.48",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.21",
+        "sales": 3624,
+        "ratingStar": "4.9",
+        "shopName": "Salon Line",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258a-msbwmmolzx8m23",
+        "productLink": "https://shopee.com.br/product/616222685/16324454755",
+        "offerLink": "https://s.shopee.com.br/6L4URm5h7d"
+      },
+      "_last_price": null
+    },
+    {
       "id": "7278628761",
       "name": "Whey Protein Concentrado 1kg 100% Importado Soldiers Nutrition Suplemento Proteína Muscular",
       "price": 189.4,
@@ -30087,35 +30145,6 @@
       "_last_price": null
     },
     {
-      "id": "16324454755",
-      "name": "Kit SOS Cachos Coco Profundo Shampoo e Condicionador Litrão Salon Line",
-      "price": 52.72,
-      "original_price": 65.9,
-      "discount": 20.0,
-      "commission": 21.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8258a-msbwmmolzx8m23",
-      "link": "https://s.shopee.com.br/6L4URm5h7d",
-      "rating": "4.9",
-      "sales": 3624,
-      "shop": "Salon Line",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 16324454755,
-        "productName": "Kit SOS Cachos Coco Profundo Shampoo e Condicionador Litrão Salon Line",
-        "price": "52.72",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.21",
-        "sales": 3624,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258a-msbwmmolzx8m23",
-        "productLink": "https://shopee.com.br/product/616222685/16324454755",
-        "offerLink": "https://s.shopee.com.br/6L4URm5h7d"
-      },
-      "_last_price": null
-    },
-    {
       "id": "8786125317",
       "name": "NIVEA Creme Hidratante Lata 29g",
       "price": 17.49,
@@ -30609,6 +30638,64 @@
       "_last_price": null
     },
     {
+      "id": "58210268954",
+      "name": "Hidra Multy Kids Shampoo + Condicionador + Creme - Salon Line",
+      "price": 29.93,
+      "original_price": 36.95,
+      "discount": 19.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnycnobymy2sa2",
+      "link": "https://s.shopee.com.br/8KpVanYNdp",
+      "rating": "4.9",
+      "sales": 2270,
+      "shop": "Salon Line",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58210268954,
+        "productName": "Hidra Multy Kids Shampoo + Condicionador + Creme - Salon Line",
+        "price": "29.93",
+        "priceDiscountRate": 19,
+        "commissionRate": "0.13",
+        "sales": 2270,
+        "ratingStar": "4.9",
+        "shopName": "Salon Line",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnycnobymy2sa2",
+        "productLink": "https://shopee.com.br/product/616222685/58210268954",
+        "offerLink": "https://s.shopee.com.br/8KpVanYNdp"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23497918564",
+      "name": "Kit Shampoo e Condicionador Hidra Maracujá Tropical 300ml",
+      "price": 17.97,
+      "original_price": 22.19,
+      "discount": 19.0,
+      "commission": 21.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259v-msbxaaf4hybk4c",
+      "link": "https://s.shopee.com.br/8AW5OUZ0yo",
+      "rating": "4.9",
+      "sales": 2514,
+      "shop": "Salon Line",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23497918564,
+        "productName": "Kit Shampoo e Condicionador Hidra Maracujá Tropical 300ml",
+        "price": "17.97",
+        "priceDiscountRate": 19,
+        "commissionRate": "0.21",
+        "sales": 2514,
+        "ratingStar": "4.9",
+        "shopName": "Salon Line",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259v-msbxaaf4hybk4c",
+        "productLink": "https://shopee.com.br/product/616222685/23497918564",
+        "offerLink": "https://s.shopee.com.br/8AW5OUZ0yo"
+      },
+      "_last_price": null
+    },
+    {
       "id": "25046330542",
       "name": "Celimax Brightening Pore+ Dark Spot Cream 35ml, 7ml",
       "price": 146.3,
@@ -30895,35 +30982,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mnu1b8jsl1qc98",
         "productLink": "https://shopee.com.br/product/1492668721/22594240741",
         "offerLink": "https://s.shopee.com.br/30o2TZbvx2"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23497918564",
-      "name": "Kit Shampoo e Condicionador Hidra Maracujá Tropical 300ml",
-      "price": 18.14,
-      "original_price": 22.12,
-      "discount": 18.0,
-      "commission": 21.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259v-msbxaaf4hybk4c",
-      "link": "https://s.shopee.com.br/8AW5OUZ0yo",
-      "rating": "4.9",
-      "sales": 2514,
-      "shop": "Salon Line",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23497918564,
-        "productName": "Kit Shampoo e Condicionador Hidra Maracujá Tropical 300ml",
-        "price": "18.14",
-        "priceDiscountRate": 18,
-        "commissionRate": "0.21",
-        "sales": 2514,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259v-msbxaaf4hybk4c",
-        "productLink": "https://shopee.com.br/product/616222685/23497918564",
-        "offerLink": "https://s.shopee.com.br/8AW5OUZ0yo"
       },
       "_last_price": null
     },
@@ -31537,31 +31595,31 @@
       "_last_price": null
     },
     {
-      "id": "58210268954",
-      "name": "Hidra Multy Kids Shampoo + Condicionador + Creme - Salon Line",
-      "price": 30.72,
-      "original_price": 36.57,
+      "id": "22192693751",
+      "name": "Creme Para Pentear 3 em 1 Hidra D-Pantenol 300ml",
+      "price": 10.57,
+      "original_price": 12.58,
       "discount": 16.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnycnobymy2sa2",
-      "link": "https://s.shopee.com.br/8KpVanYNdp",
+      "commission": 16.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mrc4glxu562t04",
+      "link": "https://s.shopee.com.br/gQ4Si1ZCA",
       "rating": "4.9",
-      "sales": 2270,
+      "sales": 7071,
       "shop": "Salon Line",
       "category": "condicionador",
       "source": "shopee",
       "_item": {
-        "itemId": 58210268954,
-        "productName": "Hidra Multy Kids Shampoo + Condicionador + Creme - Salon Line",
-        "price": "30.72",
+        "itemId": 22192693751,
+        "productName": "Creme Para Pentear 3 em 1 Hidra D-Pantenol 300ml",
+        "price": "10.57",
         "priceDiscountRate": 16,
-        "commissionRate": "0.13",
-        "sales": 2270,
+        "commissionRate": "0.16",
+        "sales": 7071,
         "ratingStar": "4.9",
         "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnycnobymy2sa2",
-        "productLink": "https://shopee.com.br/product/616222685/58210268954",
-        "offerLink": "https://s.shopee.com.br/8KpVanYNdp"
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mrc4glxu562t04",
+        "productLink": "https://shopee.com.br/product/616222685/22192693751",
+        "offerLink": "https://s.shopee.com.br/gQ4Si1ZCA"
       },
       "_last_price": null
     },
@@ -31881,35 +31939,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mq58okdu0s1tc2",
         "productLink": "https://shopee.com.br/product/1027982682/23098884809",
         "offerLink": "https://s.shopee.com.br/1AQvQNgHC"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22192693751",
-      "name": "Creme Para Pentear 3 em 1 Hidra D-Pantenol 300ml",
-      "price": 10.67,
-      "original_price": 12.55,
-      "discount": 15.0,
-      "commission": 16.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mrc4glxu562t04",
-      "link": "https://s.shopee.com.br/gQ4Si1ZCA",
-      "rating": "4.9",
-      "sales": 7071,
-      "shop": "Salon Line",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22192693751,
-        "productName": "Creme Para Pentear 3 em 1 Hidra D-Pantenol 300ml",
-        "price": "10.67",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.16",
-        "sales": 7071,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mrc4glxu562t04",
-        "productLink": "https://shopee.com.br/product/616222685/22192693751",
-        "offerLink": "https://s.shopee.com.br/gQ4Si1ZCA"
       },
       "_last_price": null
     },
