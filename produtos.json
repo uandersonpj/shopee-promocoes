@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16T16:56:20.181567+00:00",
-  "total": 1111,
+  "updated_at": "2026-09-16T17:15:32.325855+00:00",
+  "total": 1108,
   "products": [
     {
       "id": "52011120312",
@@ -1418,35 +1418,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xl-mhzrnuntaebk12",
         "productLink": "https://shopee.com.br/product/1672861664/43476999468",
         "offerLink": "https://s.shopee.com.br/5q8DqzhtXJ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58202416470",
-      "name": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
-      "price": 4.98,
-      "original_price": 19.92,
-      "discount": 75.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
-      "link": "https://s.shopee.com.br/gQ7hLnbLG",
-      "rating": "4.8",
-      "sales": 10042,
-      "shop": "LUCIOshopping",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58202416470,
-        "productName": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
-        "price": "4.98",
-        "priceDiscountRate": 75,
-        "commissionRate": "0.03",
-        "sales": 10042,
-        "ratingStar": "4.8",
-        "shopName": "LUCIOshopping",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
-        "productLink": "https://shopee.com.br/product/1691846378/58202416470",
-        "offerLink": "https://s.shopee.com.br/gQ7hLnbLG"
       },
       "_last_price": null
     },
@@ -7041,8 +7012,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mrm0k1f8sj5zd3",
         "productLink": "https://shopee.com.br/product/569696363/18899553687",
         "offerLink": "https://s.shopee.com.br/8plmHRTjE6"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "45558377465",
@@ -8002,8 +7972,8 @@
     {
       "id": "22694463642",
       "name": "Forma Air Fryer 50/100/150/200/250 Descartável Antiaderente Redonda Forro De Papel Vegetal",
-      "price": 13.98,
-      "original_price": 33.29,
+      "price": 13.99,
+      "original_price": 33.31,
       "discount": 58.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfa2zn43hdz96b",
@@ -8016,7 +7986,7 @@
       "_item": {
         "itemId": 22694463642,
         "productName": "Forma Air Fryer 50/100/150/200/250 Descartável Antiaderente Redonda Forro De Papel Vegetal",
-        "price": "13.98",
+        "price": "13.99",
         "priceDiscountRate": 58,
         "commissionRate": "0.03",
         "sales": 2596,
@@ -15273,35 +15243,6 @@
       "_last_price": null
     },
     {
-      "id": "28535302263",
-      "name": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente Teflon Varias Cores Cozimento Rapido",
-      "price": 121.42,
-      "original_price": 229.09,
-      "discount": 47.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94ddtqpdgci3b",
-      "link": "https://s.shopee.com.br/2gBC57dQSC",
-      "rating": "4.8",
-      "sales": 1236,
-      "shop": "Beta_ecommerce",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 28535302263,
-        "productName": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente Teflon Varias Cores Cozimento Rapido",
-        "price": "121.42",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.1",
-        "sales": 1236,
-        "ratingStar": "4.8",
-        "shopName": "Beta_ecommerce",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94ddtqpdgci3b",
-        "productLink": "https://shopee.com.br/product/1066745841/28535302263",
-        "offerLink": "https://s.shopee.com.br/2gBC57dQSC"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58254359534",
       "name": "Bolsa Feminina de Ombro Média Universidade Lazer Casual Viagem Linda",
       "price": 64.8,
@@ -18695,6 +18636,35 @@
       "_last_price": null
     },
     {
+      "id": "28535302263",
+      "name": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente Teflon Varias Cores Cozimento Rapido",
+      "price": 133.9,
+      "original_price": 230.86,
+      "discount": 42.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94ddtqpdgci3b",
+      "link": "https://s.shopee.com.br/2gBC57dQSC",
+      "rating": "4.8",
+      "sales": 1236,
+      "shop": "Beta_ecommerce",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 28535302263,
+        "productName": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente Teflon Varias Cores Cozimento Rapido",
+        "price": "133.9",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.1",
+        "sales": 1236,
+        "ratingStar": "4.8",
+        "shopName": "Beta_ecommerce",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94ddtqpdgci3b",
+        "productLink": "https://shopee.com.br/product/1066745841/28535302263",
+        "offerLink": "https://s.shopee.com.br/2gBC57dQSC"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22793684140",
       "name": "Tênis Feminino Esportivo Leve e mácio Academia Corrida",
       "price": 29.0,
@@ -20750,6 +20720,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mlnydq7fecxw56",
         "productLink": "https://shopee.com.br/product/599201107/22897779540",
         "offerLink": "https://s.shopee.com.br/50Z6rHgmSb"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22899526183",
+      "name": "Desinfetante Concentrado 500ml e 1 Litro Rende de 25 a 50 Litros Limpeza Profunda Perfumado",
+      "price": 10.0,
+      "original_price": 16.13,
+      "discount": 38.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mt5c2sqgwdfp52",
+      "link": "https://s.shopee.com.br/W6hWLLmGH",
+      "rating": "4.7",
+      "sales": 1586,
+      "shop": "Loja Baraton",
+      "category": "desinfetante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22899526183,
+        "productName": "Desinfetante Concentrado 500ml e 1 Litro Rende de 25 a 50 Litros Limpeza Profunda Perfumado",
+        "price": "10",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.13",
+        "sales": 1586,
+        "ratingStar": "4.7",
+        "shopName": "Loja Baraton",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mt5c2sqgwdfp52",
+        "productLink": "https://shopee.com.br/product/1646912423/22899526183",
+        "offerLink": "https://s.shopee.com.br/W6hWLLmGH"
       },
       "_last_price": null
     },
@@ -23453,8 +23452,8 @@
     {
       "id": "58206237985",
       "name": "Kit 3 a 10 Potes Herméticos 2L Dispenser Organizador Lavanderia Para Sabão em Pó Detergente Amaciante",
-      "price": 49.9,
-      "original_price": 74.48,
+      "price": 56.86,
+      "original_price": 84.87,
       "discount": 33.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mrlojlsb5r7od2",
@@ -23467,7 +23466,7 @@
       "_item": {
         "itemId": 58206237985,
         "productName": "Kit 3 a 10 Potes Herméticos 2L Dispenser Organizador Lavanderia Para Sabão em Pó Detergente Amaciante",
-        "price": "49.9",
+        "price": "56.86",
         "priceDiscountRate": 33,
         "commissionRate": "0.03",
         "sales": 1603,
@@ -24445,7 +24444,7 @@
       "commission": 16.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820la-msa5hc5b2nt2d0",
       "link": "https://s.shopee.com.br/112y6A7x50",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 87,
       "shop": "Maxxo",
       "category": "suporte vara pesca",
@@ -24457,7 +24456,7 @@
         "priceDiscountRate": 32,
         "commissionRate": "0.16",
         "sales": 87,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "Maxxo",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-msa5hc5b2nt2d0",
         "productLink": "https://shopee.com.br/product/1764061146/58216826128",
@@ -27975,35 +27974,6 @@
       "_last_price": null
     },
     {
-      "id": "43517223211",
-      "name": "Seasir DCAST DC Carretilha de Pesca para Arremesso Controle Digital Long Cast 7.3:1 7+1BB Drag 9kg",
-      "price": 225.99,
-      "original_price": 301.32,
-      "discount": 25.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-me45rxoz162uf1",
-      "link": "https://s.shopee.com.br/3VkGTb4T0Q",
-      "rating": "4.8",
-      "sales": 138,
-      "shop": "seasir.br",
-      "category": "carretilha pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 43517223211,
-        "productName": "Seasir DCAST DC Carretilha de Pesca para Arremesso Controle Digital Long Cast 7.3:1 7+1BB Drag 9kg",
-        "price": "225.99",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.08",
-        "sales": 138,
-        "ratingStar": "4.8",
-        "shopName": "seasir.br",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-me45rxoz162uf1",
-        "productLink": "https://shopee.com.br/product/562739754/43517223211",
-        "offerLink": "https://s.shopee.com.br/3VkGTb4T0Q"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22392993617",
       "name": "Kit Isca Artificial Camarão Aromatizado De Silicone Com Anzol 4cm e 2g Pesca Robalo Tucunaré Black Bass Curvina Traira",
       "price": 16.43,
@@ -30871,64 +30841,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr916ovqrsp164",
         "productLink": "https://shopee.com.br/product/373261329/58265242344",
         "offerLink": "https://s.shopee.com.br/8KpYpSXLZd"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21399703901",
-      "name": "Kit Power Tube Elastico Musculação Crossfit pilates yoga fitness 11 Itens Funcional. - ZOEX",
-      "price": 24.5,
-      "original_price": 29.88,
-      "discount": 18.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-822xi-mo72sr1wyivcd4",
-      "link": "https://s.shopee.com.br/8AW8dBxVEv",
-      "rating": "4.9",
-      "sales": 877,
-      "shop": "ZOZO COM.",
-      "category": "elastico musculacao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21399703901,
-        "productName": "Kit Power Tube Elastico Musculação Crossfit pilates yoga fitness 11 Itens Funcional. - ZOEX",
-        "price": "24.5",
-        "priceDiscountRate": 18,
-        "commissionRate": "0.03",
-        "sales": 877,
-        "ratingStar": "4.9",
-        "shopName": "ZOZO COM.",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xi-mo72sr1wyivcd4",
-        "productLink": "https://shopee.com.br/product/1361502995/21399703901",
-        "offerLink": "https://s.shopee.com.br/8AW8dBxVEv"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18625060409",
-      "name": "Kit Elásticos Extensor 11 Itens Musculação Funcional Em Casa 11 Pecas",
-      "price": 24.5,
-      "original_price": 29.88,
-      "discount": 18.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-822yp-mo72scdtc746fd",
-      "link": "https://s.shopee.com.br/8KpYpUwrty",
-      "rating": "4.8",
-      "sales": 345,
-      "shop": "Beleza Divino",
-      "category": "elastico musculacao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18625060409,
-        "productName": "Kit Elásticos Extensor 11 Itens Musculação Funcional Em Casa 11 Pecas",
-        "price": "24.5",
-        "priceDiscountRate": 18,
-        "commissionRate": "0.03",
-        "sales": 345,
-        "ratingStar": "4.8",
-        "shopName": "Beleza Divino",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822yp-mo72scdtc746fd",
-        "productLink": "https://shopee.com.br/product/697209697/18625060409",
-        "offerLink": "https://s.shopee.com.br/8KpYpUwrty"
       },
       "_last_price": null
     },
