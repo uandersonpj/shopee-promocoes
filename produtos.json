@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T16:37:04.557730+00:00",
+  "updated_at": "2026-09-16T16:56:20.181567+00:00",
   "total": 1111,
   "products": [
     {
@@ -288,8 +288,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmajzmcmll3a15",
         "productLink": "https://shopee.com.br/product/1467162087/49207406104",
         "offerLink": "https://s.shopee.com.br/30o2TeINtC"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23497594302",
@@ -1338,8 +1337,8 @@
     {
       "id": "20398528613",
       "name": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
-      "price": 11.96,
-      "original_price": 49.83,
+      "price": 11.97,
+      "original_price": 49.88,
       "discount": 76.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mmvxxzgnnoqsff",
@@ -1352,7 +1351,7 @@
       "_item": {
         "itemId": 20398528613,
         "productName": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
-        "price": "11.96",
+        "price": "11.97",
         "priceDiscountRate": 76,
         "commissionRate": "0.07",
         "sales": 7406,
@@ -1974,35 +1973,6 @@
       "_last_price": null
     },
     {
-      "id": "22193849980",
-      "name": "Sérum Clareador de Manchas Facial - Hidratante Vittage 30ml",
-      "price": 15.29,
-      "original_price": 54.61,
-      "discount": 72.0,
-      "commission": 23.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824ip-mptky1r9yfin49",
-      "link": "https://s.shopee.com.br/80CiQquL6h",
-      "rating": "4.8",
-      "sales": 2484,
-      "shop": "jessiemporio",
-      "category": "creme facial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22193849980,
-        "productName": "Sérum Clareador de Manchas Facial - Hidratante Vittage 30ml",
-        "price": "15.29",
-        "priceDiscountRate": 72,
-        "commissionRate": "0.23",
-        "sales": 2484,
-        "ratingStar": "4.8",
-        "shopName": "jessiemporio",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ip-mptky1r9yfin49",
-        "productLink": "https://shopee.com.br/product/1107644568/22193849980",
-        "offerLink": "https://s.shopee.com.br/80CiQquL6h"
-      },
-      "_last_price": null
-    },
-    {
       "id": "9212570285",
       "name": "Creatina Suplemento Monohidratada em Pó 100% Pura Importada - Soldiers Nutrition",
       "price": 33.9,
@@ -2156,7 +2126,7 @@
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mszy7m7dttl1f5",
       "link": "https://s.shopee.com.br/905Fcp4tqR",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 501,
       "shop": "Brinquei =)",
       "category": "colete salva vidas",
@@ -2168,7 +2138,7 @@
         "priceDiscountRate": 72,
         "commissionRate": "0.07",
         "sales": 501,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Brinquei =)",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mszy7m7dttl1f5",
         "productLink": "https://shopee.com.br/product/405000440/23192646152",
@@ -3768,6 +3738,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mrsse4s2xt6s68",
         "productLink": "https://shopee.com.br/product/1414801857/57653356201",
         "offerLink": "https://s.shopee.com.br/7VGRpvwF7W"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22193849980",
+      "name": "Sérum Clareador de Manchas Facial - Hidratante Vittage 30ml",
+      "price": 17.99,
+      "original_price": 54.52,
+      "discount": 67.0,
+      "commission": 23.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824ip-mptky1r9yfin49",
+      "link": "https://s.shopee.com.br/80CiQquL6h",
+      "rating": "4.8",
+      "sales": 2484,
+      "shop": "jessiemporio",
+      "category": "creme facial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22193849980,
+        "productName": "Sérum Clareador de Manchas Facial - Hidratante Vittage 30ml",
+        "price": "17.99",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.23",
+        "sales": 2484,
+        "ratingStar": "4.8",
+        "shopName": "jessiemporio",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ip-mptky1r9yfin49",
+        "productLink": "https://shopee.com.br/product/1107644568/22193849980",
+        "offerLink": "https://s.shopee.com.br/80CiQquL6h"
       },
       "_last_price": null
     },
@@ -8264,8 +8263,8 @@
     {
       "id": "58258087449",
       "name": "Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho Café",
-      "price": 37.89,
-      "original_price": 88.12,
+      "price": 37.99,
+      "original_price": 88.35,
       "discount": 57.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mnlw9ncbyq68fe",
@@ -8278,7 +8277,7 @@
       "_item": {
         "itemId": 58258087449,
         "productName": "Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho Café",
-        "price": "37.89",
+        "price": "37.99",
         "priceDiscountRate": 57,
         "commissionRate": "0.03",
         "sales": 7051,
@@ -14181,7 +14180,7 @@
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rbkt-lm2y5pyt79ybe0",
       "link": "https://s.shopee.com.br/1ANjZGEHg",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 32,
       "shop": "Nanasalonnn Casa e Decoração Loja",
       "category": "flutuador pesca",
@@ -14193,7 +14192,7 @@
         "priceDiscountRate": 49,
         "commissionRate": "0.11",
         "sales": 32,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "Nanasalonnn Casa e Decoração Loja",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbkt-lm2y5pyt79ybe0",
         "productLink": "https://shopee.com.br/product/207578873/22196958037",
@@ -17683,8 +17682,8 @@
     {
       "id": "22999395063",
       "name": "Cafeteira Italiana Inox Espresso Fogão Gás ou Indução.",
-      "price": 44.49,
-      "original_price": 79.45,
+      "price": 39.99,
+      "original_price": 71.41,
       "discount": 44.0,
       "commission": 5.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mly6z4jt0um8a0",
@@ -17697,7 +17696,7 @@
       "_item": {
         "itemId": 22999395063,
         "productName": "Cafeteira Italiana Inox Espresso Fogão Gás ou Indução.",
-        "price": "44.49",
+        "price": "39.99",
         "priceDiscountRate": 44,
         "commissionRate": "0.05",
         "sales": 1647,
@@ -19893,7 +19892,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjppm99xbuh244",
       "link": "https://s.shopee.com.br/30o2TiCA7X",
-      "rating": "4.6",
+      "rating": "4.7",
       "sales": 1878,
       "shop": "ACB_Home",
       "category": "casinha pet",
@@ -19905,7 +19904,7 @@
         "priceDiscountRate": 40,
         "commissionRate": "0.03",
         "sales": 1878,
-        "ratingStar": "4.6",
+        "ratingStar": "4.7",
         "shopName": "ACB_Home",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjppm99xbuh244",
         "productLink": "https://shopee.com.br/product/1610896010/58253767614",
@@ -22868,35 +22867,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvk-mcaliz52i1y34a",
         "productLink": "https://shopee.com.br/product/1006215031/25066801073",
         "offerLink": "https://s.shopee.com.br/6VNrPZBKF5"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23399039236",
-      "name": "Caixa Térmica Portátil Praia Camping Viagem Pesca Piquenique 42 Litros Promoção Envio Rápido",
-      "price": 77.4,
-      "original_price": 119.08,
-      "discount": 35.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9pkezyocn519",
-      "link": "https://s.shopee.com.br/3g3jH22wEN",
-      "rating": "4.8",
-      "sales": 129,
-      "shop": "JPB  E-commerce",
-      "category": "caixa de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23399039236,
-        "productName": "Caixa Térmica Portátil Praia Camping Viagem Pesca Piquenique 42 Litros Promoção Envio Rápido",
-        "price": "77.4",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.08",
-        "sales": 129,
-        "ratingStar": "4.8",
-        "shopName": "JPB  E-commerce",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9pkezyocn519",
-        "productLink": "https://shopee.com.br/product/426635160/23399039236",
-        "offerLink": "https://s.shopee.com.br/3g3jH22wEN"
       },
       "_last_price": null
     },
@@ -29484,35 +29454,6 @@
       "_last_price": null
     },
     {
-      "id": "20175025617",
-      "name": "Dispenser Porta Detergente e Bucha Luxo Cozinha",
-      "price": 41.19,
-      "original_price": 52.14,
-      "discount": 21.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mrlrcmve9s0572",
-      "link": "https://s.shopee.com.br/80CiQoQLir",
-      "rating": "4.9",
-      "sales": 1213,
-      "shop": "SELLNEEDS",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20175025617,
-        "productName": "Dispenser Porta Detergente e Bucha Luxo Cozinha",
-        "price": "41.19",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.13",
-        "sales": 1213,
-        "ratingStar": "4.9",
-        "shopName": "SELLNEEDS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mrlrcmve9s0572",
-        "productLink": "https://shopee.com.br/product/408653169/20175025617",
-        "offerLink": "https://s.shopee.com.br/80CiQoQLir"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22493344923",
       "name": "Necessaire Feminina Personalizada com Inicial Box com Alça Porta Maquiagem Bolsa Viagem",
       "price": 19.68,
@@ -30673,6 +30614,35 @@
       "_last_price": null
     },
     {
+      "id": "22197602404",
+      "name": "Casinha Cachorro N5 Casa Porte Pequeno Com Proteção Raios UV  desmontável  Lavável",
+      "price": 61.0,
+      "original_price": 75.31,
+      "discount": 19.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mr7cogen981xbb",
+      "link": "https://s.shopee.com.br/7Kx1dfvfKW",
+      "rating": "4.5",
+      "sales": 943,
+      "shop": "De AZ casa",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22197602404,
+        "productName": "Casinha Cachorro N5 Casa Porte Pequeno Com Proteção Raios UV  desmontável  Lavável",
+        "price": "61",
+        "priceDiscountRate": 19,
+        "commissionRate": "0.03",
+        "sales": 943,
+        "ratingStar": "4.5",
+        "shopName": "De AZ casa",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mr7cogen981xbb",
+        "productLink": "https://shopee.com.br/product/1246701013/22197602404",
+        "offerLink": "https://s.shopee.com.br/7Kx1dfvfKW"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58258988827",
       "name": "Formas Suiça para Bolo?Pudim N. 18 / 16 e 14 Air Fryer 3,5",
       "price": 12.95,
@@ -31510,6 +31480,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1n7p6463nq79",
         "productLink": "https://shopee.com.br/product/1362302335/58254046357",
         "offerLink": "https://s.shopee.com.br/AAHD0m5RY3"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19750429680",
+      "name": "Sabão em Pasta Cristal Rosa - 500g",
+      "price": 11.99,
+      "original_price": 14.27,
+      "discount": 16.0,
+      "commission": 16.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdubv6wju4s957",
+      "link": "https://s.shopee.com.br/2qUcIcqten",
+      "rating": "4.9",
+      "sales": 3221,
+      "shop": "Casa de Gê",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19750429680,
+        "productName": "Sabão em Pasta Cristal Rosa - 500g",
+        "price": "11.99",
+        "priceDiscountRate": 16,
+        "commissionRate": "0.16",
+        "sales": 3221,
+        "ratingStar": "4.9",
+        "shopName": "Casa de Gê",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdubv6wju4s957",
+        "productLink": "https://shopee.com.br/product/534023108/19750429680",
+        "offerLink": "https://s.shopee.com.br/2qUcIcqten"
       },
       "_last_price": null
     },
