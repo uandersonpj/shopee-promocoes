@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T07:45:35.265437+00:00",
+  "updated_at": "2026-09-17T08:04:25.427864+00:00",
   "total": 1113,
   "products": [
     {
@@ -2289,7 +2289,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma3wxbeu4kl52a",
         "productLink": "https://shopee.com.br/product/1494995608/23798319408",
         "offerLink": "https://s.shopee.com.br/4fwHJseD3z"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "52557307480",
@@ -16792,8 +16793,8 @@
     {
       "id": "42071102324",
       "name": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
-      "price": 68.75,
-      "original_price": 125.0,
+      "price": 68.74,
+      "original_price": 124.98,
       "discount": 45.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
@@ -16806,7 +16807,7 @@
       "_item": {
         "itemId": 42071102324,
         "productName": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
-        "price": "68.75",
+        "price": "68.74",
         "priceDiscountRate": 45,
         "commissionRate": "0.03",
         "sales": 4017,
@@ -21314,6 +21315,35 @@
       "_last_price": null
     },
     {
+      "id": "58213273842",
+      "name": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
+      "price": 11.99,
+      "original_price": 19.03,
+      "discount": 37.0,
+      "commission": 73.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mpxy82d0505ccb",
+      "link": "https://s.shopee.com.br/7VGSh81kEL",
+      "rating": "4.8",
+      "sales": 6595,
+      "shop": "Verde Água Embalagens e Enxovais",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58213273842,
+        "productName": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
+        "price": "11.99",
+        "priceDiscountRate": 37,
+        "commissionRate": "0.73",
+        "sales": 6595,
+        "ratingStar": "4.8",
+        "shopName": "Verde Água Embalagens e Enxovais",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mpxy82d0505ccb",
+        "productLink": "https://shopee.com.br/product/910649627/58213273842",
+        "offerLink": "https://s.shopee.com.br/7VGSh81kEL"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23194389000",
       "name": "Whey Protein Com 32g De Proteína 2kg - Pro Force Nutrition",
       "price": 129.0,
@@ -24210,35 +24240,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rau5-mau62igmy63506",
         "productLink": "https://shopee.com.br/product/946161700/22736011414",
         "offerLink": "https://s.shopee.com.br/20vW90Vt2Q"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58213273842",
-      "name": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
-      "price": 12.99,
-      "original_price": 19.1,
-      "discount": 32.0,
-      "commission": 73.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mpxy82d0505ccb",
-      "link": "https://s.shopee.com.br/7VGSh81kEL",
-      "rating": "4.8",
-      "sales": 6595,
-      "shop": "Verde Água Embalagens e Enxovais",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58213273842,
-        "productName": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
-        "price": "12.99",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.73",
-        "sales": 6595,
-        "ratingStar": "4.8",
-        "shopName": "Verde Água Embalagens e Enxovais",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mpxy82d0505ccb",
-        "productLink": "https://shopee.com.br/product/910649627/58213273842",
-        "offerLink": "https://s.shopee.com.br/7VGSh81kEL"
       },
       "_last_price": null
     },
