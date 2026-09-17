@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T03:54:22.382616+00:00",
+  "updated_at": "2026-09-17T04:13:14.582396+00:00",
   "total": 1114,
   "products": [
     {
@@ -317,7 +317,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-msxmjc85bkzr38",
         "productLink": "https://shopee.com.br/product/1198407784/23497594302",
         "offerLink": "https://s.shopee.com.br/5AsXuwUGwL"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58265198384",
@@ -2743,6 +2744,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/03e711c2830d42fe953e60337faaa57a",
         "productLink": "https://shopee.com.br/product/233660920/22696644615",
         "offerLink": "https://s.shopee.com.br/9AOggKrpiu"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58207198817",
+      "name": "Vara Telescópica JOKER - MARURI",
+      "price": 24.0,
+      "original_price": 80.0,
+      "discount": 70.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
+      "link": "https://s.shopee.com.br/4B00jAaaRn",
+      "rating": "4.9",
+      "sales": 347,
+      "shop": "Agropecuaria_Rio_Claro",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58207198817,
+        "productName": "Vara Telescópica JOKER - MARURI",
+        "price": "24",
+        "priceDiscountRate": 70,
+        "commissionRate": "0.03",
+        "sales": 347,
+        "ratingStar": "4.9",
+        "shopName": "Agropecuaria_Rio_Claro",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
+        "productLink": "https://shopee.com.br/product/1368232097/58207198817",
+        "offerLink": "https://s.shopee.com.br/4B00jAaaRn"
       },
       "_last_price": null
     },
@@ -7304,7 +7334,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3wfdg89ffhx9a",
       "link": "https://s.shopee.com.br/7AdcIU3p0g",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 1077,
       "shop": "Oliveira Flex",
       "category": "mouse gamer",
@@ -7316,7 +7346,7 @@
         "priceDiscountRate": 59,
         "commissionRate": "0.03",
         "sales": 1077,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Oliveira Flex",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3wfdg89ffhx9a",
         "productLink": "https://shopee.com.br/product/760173021/23398082837",
@@ -11207,35 +11237,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-miz8ntjd4dtz81",
         "productLink": "https://shopee.com.br/product/1511719344/28793897984",
         "offerLink": "https://s.shopee.com.br/5q8EiDvBKj"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58207198817",
-      "name": "Vara Telescópica JOKER - MARURI",
-      "price": 37.59,
-      "original_price": 79.98,
-      "discount": 53.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
-      "link": "https://s.shopee.com.br/4B00jAaaRn",
-      "rating": "4.9",
-      "sales": 347,
-      "shop": "Agropecuaria_Rio_Claro",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58207198817,
-        "productName": "Vara Telescópica JOKER - MARURI",
-        "price": "37.59",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.03",
-        "sales": 347,
-        "ratingStar": "4.9",
-        "shopName": "Agropecuaria_Rio_Claro",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
-        "productLink": "https://shopee.com.br/product/1368232097/58207198817",
-        "offerLink": "https://s.shopee.com.br/4B00jAaaRn"
       },
       "_last_price": null
     },
@@ -19709,8 +19710,8 @@
     {
       "id": "58260024078",
       "name": "Kit 2 Creatina Max Titanium 300g Pura",
-      "price": 90.0,
-      "original_price": 150.0,
+      "price": 89.99,
+      "original_price": 149.98,
       "discount": 40.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mnsw2jxtutxe75",
@@ -19723,7 +19724,7 @@
       "_item": {
         "itemId": 58260024078,
         "productName": "Kit 2 Creatina Max Titanium 300g Pura",
-        "price": "90",
+        "price": "89.99",
         "priceDiscountRate": 40,
         "commissionRate": "0.07",
         "sales": 1301,
