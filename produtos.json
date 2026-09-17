@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T16:00:06.933690+00:00",
-  "total": 1119,
+  "updated_at": "2026-09-17T16:19:18.497188+00:00",
+  "total": 1117,
   "products": [
     {
       "id": "22394636674",
@@ -28,7 +28,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg68t3ej3qit88",
         "productLink": "https://shopee.com.br/product/1638793253/22394636674",
         "offerLink": "https://s.shopee.com.br/gQ8YbQsos"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22194876950",
@@ -405,6 +406,35 @@
         "productLink": "https://shopee.com.br/product/1613332918/22294440400",
         "offerLink": "https://s.shopee.com.br/905GU30aXO"
       }
+    },
+    {
+      "id": "25391678999",
+      "name": "UGREEN M2 SSD Case M . 2 NVMe SATA Adaptador De Gabinete 10 Gbps USB 3.2 Gen2 C Externo Suporta Teclas E & B",
+      "price": 75.99,
+      "original_price": 399.95,
+      "discount": 81.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lzop7krz80iq1e",
+      "link": "https://s.shopee.com.br/AUu58KD89m",
+      "rating": "5",
+      "sales": 36,
+      "shop": "Ugreen Official Shop",
+      "category": "ssd nvme",
+      "source": "shopee",
+      "_item": {
+        "itemId": 25391678999,
+        "productName": "UGREEN M2 SSD Case M . 2 NVMe SATA Adaptador De Gabinete 10 Gbps USB 3.2 Gen2 C Externo Suporta Teclas E & B",
+        "price": "75.99",
+        "priceDiscountRate": 81,
+        "commissionRate": "0.03",
+        "sales": 36,
+        "ratingStar": "5",
+        "shopName": "Ugreen Official Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lzop7krz80iq1e",
+        "productLink": "https://shopee.com.br/product/218996205/25391678999",
+        "offerLink": "https://s.shopee.com.br/AUu58KD89m"
+      },
+      "_last_price": null
     },
     {
       "id": "58204369417",
@@ -5675,6 +5705,35 @@
       "_last_price": null
     },
     {
+      "id": "56103183692",
+      "name": "Tênis meia Feminino Promoção para trabalho Escola Academia Passeio Ortopédico Casual Calce facil",
+      "price": 22.0,
+      "original_price": 59.46,
+      "discount": 63.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mnq4mrzrg1s133",
+      "link": "https://s.shopee.com.br/3LQubK5Akl",
+      "rating": "4.7",
+      "sales": 2170,
+      "shop": "ESSER CALÇADOS",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 56103183692,
+        "productName": "Tênis meia Feminino Promoção para trabalho Escola Academia Passeio Ortopédico Casual Calce facil",
+        "price": "22",
+        "priceDiscountRate": 63,
+        "commissionRate": "0.07",
+        "sales": 2170,
+        "ratingStar": "4.7",
+        "shopName": "ESSER CALÇADOS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mnq4mrzrg1s133",
+        "productLink": "https://shopee.com.br/product/464824627/56103183692",
+        "offerLink": "https://s.shopee.com.br/3LQubK5Akl"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18599879164",
       "name": "3/2/1 PCS Pochete Doleira Antifurto Nylon Impermeável Porta Celular Dinheiro Segurança Viagem Corrida Academia",
       "price": 10.99,
@@ -6512,8 +6571,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
         "productLink": "https://shopee.com.br/product/1595150949/22594316058",
         "offerLink": "https://s.shopee.com.br/8plqxfJOa2"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23893497572",
@@ -10514,35 +10572,6 @@
       "_last_price": null
     },
     {
-      "id": "22094228144",
-      "name": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
-      "price": 59.99,
-      "original_price": 130.41,
-      "discount": 54.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824hz-mpj8tt3gjlkx51",
-      "link": "https://s.shopee.com.br/80CjI9JUBb",
-      "rating": "4.9",
-      "sales": 8476,
-      "shop": "Amy.Store",
-      "category": "bolsa feminina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22094228144,
-        "productName": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
-        "price": "59.99",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.08",
-        "sales": 8476,
-        "ratingStar": "4.9",
-        "shopName": "Amy.Store",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824hz-mpj8tt3gjlkx51",
-        "productLink": "https://shopee.com.br/product/1468415010/22094228144",
-        "offerLink": "https://s.shopee.com.br/80CjI9JUBb"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23997337490",
       "name": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
       "price": 23.0,
@@ -13616,6 +13645,35 @@
       "_last_price": null
     },
     {
+      "id": "22094228144",
+      "name": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
+      "price": 64.99,
+      "original_price": 129.98,
+      "discount": 50.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824hz-mpj8tt3gjlkx51",
+      "link": "https://s.shopee.com.br/80CjI9JUBb",
+      "rating": "4.9",
+      "sales": 8476,
+      "shop": "Amy.Store",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22094228144,
+        "productName": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
+        "price": "64.99",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.08",
+        "sales": 8476,
+        "ratingStar": "4.9",
+        "shopName": "Amy.Store",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824hz-mpj8tt3gjlkx51",
+        "productLink": "https://shopee.com.br/product/1468415010/22094228144",
+        "offerLink": "https://s.shopee.com.br/80CjI9JUBb"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22194554063",
       "name": "1/2/3 Cola Transparente Para Reparo De Sapatos – Adesivo À Prova D'água Fixação De Solas , Saltos E Bolsas (60ml)",
       "price": 14.99,
@@ -13911,7 +13969,7 @@
       "price": 49.9,
       "original_price": 99.8,
       "discount": 50.0,
-      "commission": 7.000000000000001,
+      "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820md-mmc1719mj3t359",
       "link": "https://s.shopee.com.br/1qc5wuif6U",
       "rating": "4.6",
@@ -13924,7 +13982,7 @@
         "productName": "Maleta mais Estojo completo com acessorios para pesca esportiva Lazer",
         "price": "49.9",
         "priceDiscountRate": 50,
-        "commissionRate": "0.07",
+        "commissionRate": "0.03",
         "sales": 117,
         "ratingStar": "4.6",
         "shopName": "Loja Sao Miguel Multicoisas",
@@ -22229,35 +22287,6 @@
       "_last_price": null
     },
     {
-      "id": "23199524069",
-      "name": "Tênis Feminino Masculino Básico Todas As Ocasiões",
-      "price": 43.9,
-      "original_price": 68.59,
-      "discount": 36.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mp41oklmlqmbd4",
-      "link": "https://s.shopee.com.br/2gBCwLMBrj",
-      "rating": "4.7",
-      "sales": 2182,
-      "shop": "Morett Calçados",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23199524069,
-        "productName": "Tênis Feminino Masculino Básico Todas As Ocasiões",
-        "price": "43.9",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.18",
-        "sales": 2182,
-        "ratingStar": "4.7",
-        "shopName": "Morett Calçados",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mp41oklmlqmbd4",
-        "productLink": "https://shopee.com.br/product/1659566636/23199524069",
-        "offerLink": "https://s.shopee.com.br/2gBCwLMBrj"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22092833789",
       "name": "Molinete Carretilha Pesca Carretel Longo 6000 ou 7000 13 Rolamentos 5.2:1",
       "price": 44.99,
@@ -24582,7 +24611,7 @@
       "price": 60.77,
       "original_price": 89.37,
       "discount": 32.0,
-      "commission": 7.000000000000001,
+      "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-82596-mqo4qfdx93pn1d",
       "link": "https://s.shopee.com.br/20vW9Di1lR",
       "rating": "4.9",
@@ -24595,7 +24624,7 @@
         "productName": "Kit Maleta Pesca 3 Bandejas Caixa Grande + Estojo Multiuso",
         "price": "60.77",
         "priceDiscountRate": 32,
-        "commissionRate": "0.07",
+        "commissionRate": "0.03",
         "sales": 103,
         "ratingStar": "4.9",
         "shopName": "ApexVendas",
@@ -28057,35 +28086,6 @@
       "_last_price": null
     },
     {
-      "id": "18775453273",
-      "name": "Liquidificador Britânia 2,6L 900W 4 Lâminas BLQ970P Turbo",
-      "price": 119.9,
-      "original_price": 159.87,
-      "discount": 25.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8258k-mt88hujwaoshb3",
-      "link": "https://s.shopee.com.br/AAHEOrLncH",
-      "rating": "4.9",
-      "sales": 1069,
-      "shop": "Britânia Oficial",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18775453273,
-        "productName": "Liquidificador Britânia 2,6L 900W 4 Lâminas BLQ970P Turbo",
-        "price": "119.9",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.03",
-        "sales": 1069,
-        "ratingStar": "4.9",
-        "shopName": "Britânia Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258k-mt88hujwaoshb3",
-        "productLink": "https://shopee.com.br/product/811879342/18775453273",
-        "offerLink": "https://s.shopee.com.br/AAHEOrLncH"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18397674061",
       "name": "Panela De Pressão Vancouver Effect Tramontina 4,5 e 6,0 Litros Preto e Vermelho Interna Starflon Max",
       "price": 209.9,
@@ -31305,35 +31305,6 @@
       "_last_price": null
     },
     {
-      "id": "22896951348",
-      "name": "Mini Case de alumínio para SSD M.2 NVME conector duplo Tipo C/USBA celular/computador ECASE-M2NV80",
-      "price": 45.56,
-      "original_price": 54.89,
-      "discount": 17.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98r-lm3n930algkr6d",
-      "link": "https://s.shopee.com.br/8fSQ5DXuUs",
-      "rating": "4.9",
-      "sales": 188,
-      "shop": "VOOLOJA",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22896951348,
-        "productName": "Mini Case de alumínio para SSD M.2 NVME conector duplo Tipo C/USBA celular/computador ECASE-M2NV80",
-        "price": "45.56",
-        "priceDiscountRate": 17,
-        "commissionRate": "0.09",
-        "sales": 188,
-        "ratingStar": "4.9",
-        "shopName": "VOOLOJA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98r-lm3n930algkr6d",
-        "productLink": "https://shopee.com.br/product/419433874/22896951348",
-        "offerLink": "https://s.shopee.com.br/8fSQ5DXuUs"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22098423689",
       "name": "Monitor De Pressão Arterial De Pulso Recarregável Alta BP Esfigmomanômetro",
       "price": 38.99,
@@ -31765,35 +31736,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mozu0cnbzz7q3f",
         "productLink": "https://shopee.com.br/product/904040298/58211837467",
         "offerLink": "https://s.shopee.com.br/3VkKbjGfVh"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "45158660671",
-      "name": "Cafeteira Espresso Lov Três Corações 1250W",
-      "price": 379.99,
-      "original_price": 452.37,
-      "discount": 16.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259z-mr0ij6f717nl64",
-      "link": "https://s.shopee.com.br/50Z8OWescD",
-      "rating": "5",
-      "sales": 695,
-      "shop": "BUMPER MAGAZINE",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45158660671,
-        "productName": "Cafeteira Espresso Lov Três Corações 1250W",
-        "price": "379.99",
-        "priceDiscountRate": 16,
-        "commissionRate": "0.08",
-        "sales": 695,
-        "ratingStar": "5",
-        "shopName": "BUMPER MAGAZINE",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259z-mr0ij6f717nl64",
-        "productLink": "https://shopee.com.br/product/342086228/45158660671",
-        "offerLink": "https://s.shopee.com.br/50Z8OWescD"
       },
       "_last_price": null
     },
