@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T00:25:10.924489+00:00",
-  "total": 1114,
+  "updated_at": "2026-09-17T00:44:22.910780+00:00",
+  "total": 1115,
   "products": [
     {
       "id": "52011120312",
@@ -718,7 +718,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mldt9agkd2x0c0",
         "productLink": "https://shopee.com.br/product/1082873638/23294866358",
         "offerLink": "https://s.shopee.com.br/AKadDABaYp"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21997150349",
@@ -2655,8 +2656,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfn8h5ufyu4kb0",
         "productLink": "https://shopee.com.br/product/391757444/23093824562",
         "offerLink": "https://s.shopee.com.br/AKadDDRq3d"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "47855423393",
@@ -4165,35 +4165,6 @@
       "_last_price": null
     },
     {
-      "id": "23037452899",
-      "name": "80x30cm Mouse Pad Gamer Mapa Razer Camuflado Grande",
-      "price": 19.9,
-      "original_price": 58.53,
-      "discount": 66.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lhheh4bnl2dqff",
-      "link": "https://s.shopee.com.br/9Ki65BkRdP",
-      "rating": "5",
-      "sales": 790,
-      "shop": "Murray Store",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23037452899,
-        "productName": "80x30cm Mouse Pad Gamer Mapa Razer Camuflado Grande",
-        "price": "19.9",
-        "priceDiscountRate": 66,
-        "commissionRate": "0.08",
-        "sales": 790,
-        "ratingStar": "5",
-        "shopName": "Murray Store",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lhheh4bnl2dqff",
-        "productLink": "https://shopee.com.br/product/976233489/23037452899",
-        "offerLink": "https://s.shopee.com.br/9Ki65BkRdP"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22994820028",
       "name": "Suporte Organizador de Parede Adesivo Alta Resistência para Shampoo Banheiro e Cozinha",
       "price": 10.99,
@@ -4914,35 +4885,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd56-lwxskjzn44medd",
         "productLink": "https://shopee.com.br/product/191442914/26653666612",
         "offerLink": "https://s.shopee.com.br/4qFdURxpTZ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23418702594",
-      "name": "Switch Outemu Para Teclado Mecânico Diversas Cores Blue Red Brown Green Purple - Frete Grátis",
-      "price": 8.59,
-      "original_price": 23.86,
-      "discount": 64.0,
-      "commission": 17.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lc-ml7pm8mpebr88c",
-      "link": "https://s.shopee.com.br/40gZfRBJwc",
-      "rating": "4.9",
-      "sales": 231,
-      "shop": "Eastern Shop Imports",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23418702594,
-        "productName": "Switch Outemu Para Teclado Mecânico Diversas Cores Blue Red Brown Green Purple - Frete Grátis",
-        "price": "8.59",
-        "priceDiscountRate": 64,
-        "commissionRate": "0.17",
-        "sales": 231,
-        "ratingStar": "4.9",
-        "shopName": "Eastern Shop Imports",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-ml7pm8mpebr88c",
-        "productLink": "https://shopee.com.br/product/374734112/23418702594",
-        "offerLink": "https://s.shopee.com.br/40gZfRBJwc"
       },
       "_last_price": null
     },
@@ -6051,8 +5993,8 @@
     {
       "id": "23993522162",
       "name": "Creatina Monohidratada Pura 1kg, 500g, 700g e  300g Refil - FTW",
-      "price": 43.9,
-      "original_price": 115.53,
+      "price": 34.9,
+      "original_price": 91.84,
       "discount": 62.0,
       "commission": 26.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf8fj8snacck60",
@@ -6065,7 +6007,7 @@
       "_item": {
         "itemId": 23993522162,
         "productName": "Creatina Monohidratada Pura 1kg, 500g, 700g e  300g Refil - FTW",
-        "price": "43.9",
+        "price": "34.9",
         "priceDiscountRate": 62,
         "commissionRate": "0.26",
         "sales": 1432,
@@ -6480,6 +6422,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82281-mhf7fpjbncwa3c",
         "productLink": "https://shopee.com.br/product/1502662038/22194727361",
         "offerLink": "https://s.shopee.com.br/80CiQnDgwo"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58258497862",
+      "name": "Mouse Pad Gaming Personalizado Masculino Base Ampla 80x30 Antiderrapante Para Setup Gamer Completo e Uso em Computador\n",
+      "price": 15.57,
+      "original_price": 39.92,
+      "discount": 61.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-81zvl-mmudxwbyir6072",
+      "link": "https://s.shopee.com.br/70KBExHUyi",
+      "rating": "4.8",
+      "sales": 863,
+      "shop": "M3 STREEWEAR",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58258497862,
+        "productName": "Mouse Pad Gaming Personalizado Masculino Base Ampla 80x30 Antiderrapante Para Setup Gamer Completo e Uso em Computador\n",
+        "price": "15.57",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.03",
+        "sales": 863,
+        "ratingStar": "4.8",
+        "shopName": "M3 STREEWEAR",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvl-mmudxwbyir6072",
+        "productLink": "https://shopee.com.br/product/1500672908/58258497862",
+        "offerLink": "https://s.shopee.com.br/70KBExHUyi"
       },
       "_last_price": null
     },
@@ -8369,35 +8340,6 @@
       "_last_price": null
     },
     {
-      "id": "23997716034",
-      "name": "Switch Outemu Para Teclado Mecânico - Azul - Marrom - Vermelho - Linear - Tátil",
-      "price": 8.59,
-      "original_price": 19.98,
-      "discount": 57.0,
-      "commission": 17.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mm3q1qlir7d2e0",
-      "link": "https://s.shopee.com.br/4AzzrkAgbf",
-      "rating": "4.9",
-      "sales": 263,
-      "shop": "Eastern Shop Imports",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23997716034,
-        "productName": "Switch Outemu Para Teclado Mecânico - Azul - Marrom - Vermelho - Linear - Tátil",
-        "price": "8.59",
-        "priceDiscountRate": 57,
-        "commissionRate": "0.17",
-        "sales": 263,
-        "ratingStar": "4.9",
-        "shopName": "Eastern Shop Imports",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mm3q1qlir7d2e0",
-        "productLink": "https://shopee.com.br/product/374734112/23997716034",
-        "offerLink": "https://s.shopee.com.br/4AzzrkAgbf"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20999077793",
       "name": "BB Cream/Base/Corretivo com Esponja com Formato de Cogumelo / Base Clareador Maquiagem Creme Clareador Cor Marfim e Natu",
       "price": 29.99,
@@ -10192,6 +10134,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mmqtorx784jl5d",
         "productLink": "https://shopee.com.br/product/1412882242/58207485901",
         "offerLink": "https://s.shopee.com.br/4fwGSer2vS"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23418702594",
+      "name": "Switch Outemu Para Teclado Mecânico Diversas Cores Blue Red Brown Green Purple - Frete Grátis",
+      "price": 11.1,
+      "original_price": 24.13,
+      "discount": 54.0,
+      "commission": 17.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lc-ml7pm8mpebr88c",
+      "link": "https://s.shopee.com.br/40gZfRBJwc",
+      "rating": "4.9",
+      "sales": 231,
+      "shop": "Eastern Shop Imports",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23418702594,
+        "productName": "Switch Outemu Para Teclado Mecânico Diversas Cores Blue Red Brown Green Purple - Frete Grátis",
+        "price": "11.1",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.17",
+        "sales": 231,
+        "ratingStar": "4.9",
+        "shopName": "Eastern Shop Imports",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-ml7pm8mpebr88c",
+        "productLink": "https://shopee.com.br/product/374734112/23418702594",
+        "offerLink": "https://s.shopee.com.br/40gZfRBJwc"
       },
       "_last_price": null
     },
@@ -13849,35 +13820,6 @@
       "_last_price": null
     },
     {
-      "id": "23397600706",
-      "name": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
-      "price": 10.9,
-      "original_price": 21.37,
-      "discount": 49.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
-      "link": "https://s.shopee.com.br/1VzEgskQed",
-      "rating": "4.9",
-      "sales": 5823,
-      "shop": "ES Official Shop",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23397600706,
-        "productName": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
-        "price": "10.9",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.13",
-        "sales": 5823,
-        "ratingStar": "4.9",
-        "shopName": "ES Official Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
-        "productLink": "https://shopee.com.br/product/988030305/23397600706",
-        "offerLink": "https://s.shopee.com.br/1VzEgskQed"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58205223096",
       "name": "Kit com 2 Suportes para Shampoo Adesivo Para Parede Cozinha e Banheiro",
       "price": 19.98,
@@ -16719,6 +16661,35 @@
       "_last_price": null
     },
     {
+      "id": "23397600706",
+      "name": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
+      "price": 11.8,
+      "original_price": 21.45,
+      "discount": 45.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
+      "link": "https://s.shopee.com.br/1VzEgskQed",
+      "rating": "4.9",
+      "sales": 5823,
+      "shop": "ES Official Shop",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23397600706,
+        "productName": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
+        "price": "11.8",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.13",
+        "sales": 5823,
+        "ratingStar": "4.9",
+        "shopName": "ES Official Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
+        "productLink": "https://shopee.com.br/product/988030305/23397600706",
+        "offerLink": "https://s.shopee.com.br/1VzEgskQed"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21499647005",
       "name": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Escudo Antiporosidade",
       "price": 17.9,
@@ -17182,6 +17153,35 @@
       }
     },
     {
+      "id": "58262442513",
+      "name": "Caixa De Pesca Dupla Face 12 14 Compartimentos Organizador Porta Iscas Artificiais Anzol Resistente",
+      "price": 24.9,
+      "original_price": 45.27,
+      "discount": 45.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824h5-mpf76hbcqih750",
+      "link": "https://s.shopee.com.br/5AsX3mxEBm",
+      "rating": "4.6",
+      "sales": 207,
+      "shop": "Natcha & Co.",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58262442513,
+        "productName": "Caixa De Pesca Dupla Face 12 14 Compartimentos Organizador Porta Iscas Artificiais Anzol Resistente",
+        "price": "24.9",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 207,
+        "ratingStar": "4.6",
+        "shopName": "Natcha & Co.",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h5-mpf76hbcqih750",
+        "productLink": "https://shopee.com.br/product/1545783525/58262442513",
+        "offerLink": "https://s.shopee.com.br/5AsX3mxEBm"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58214836893",
       "name": "Colete Salva Vidas Bóia Infantil Flutuador Não Fura Até 25kg Kids Segurança para Piscina e Praia (Várias Estampas)",
       "price": 43.99,
@@ -17240,35 +17240,6 @@
       "_last_price": null
     },
     {
-      "id": "58262442513",
-      "name": "Caixa De Pesca Dupla Face 12 14 Compartimentos Organizador Porta Iscas Artificiais Anzol Resistente",
-      "price": 24.9,
-      "original_price": 45.27,
-      "discount": 45.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824h5-mpf76hbcqih750",
-      "link": "https://s.shopee.com.br/5AsX3mxEBm",
-      "rating": "4.6",
-      "sales": 207,
-      "shop": "Natcha & Co.",
-      "category": "caixa de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58262442513,
-        "productName": "Caixa De Pesca Dupla Face 12 14 Compartimentos Organizador Porta Iscas Artificiais Anzol Resistente",
-        "price": "24.9",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.03",
-        "sales": 207,
-        "ratingStar": "4.6",
-        "shopName": "Natcha & Co.",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h5-mpf76hbcqih750",
-        "productLink": "https://shopee.com.br/product/1545783525/58262442513",
-        "offerLink": "https://s.shopee.com.br/5AsX3mxEBm"
-      },
-      "_last_price": null
-    },
-    {
       "id": "25976014318",
       "name": "Flutuadores De Pesca Bobbers 7g-80g EVA Espuma , Para Crappie Pike Perch Carp Bass",
       "price": 2.42,
@@ -17323,6 +17294,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mo34wuhsuebo5f",
         "productLink": "https://shopee.com.br/product/1748741556/58256029412",
         "offerLink": "https://s.shopee.com.br/20vVHjfjyY"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23997716034",
+      "name": "Switch Outemu Para Teclado Mecânico - Azul - Marrom - Vermelho - Linear - Tátil",
+      "price": 11.1,
+      "original_price": 19.82,
+      "discount": 44.0,
+      "commission": 17.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mm3q1qlir7d2e0",
+      "link": "https://s.shopee.com.br/4AzzrkAgbf",
+      "rating": "4.9",
+      "sales": 263,
+      "shop": "Eastern Shop Imports",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23997716034,
+        "productName": "Switch Outemu Para Teclado Mecânico - Azul - Marrom - Vermelho - Linear - Tátil",
+        "price": "11.1",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.17",
+        "sales": 263,
+        "ratingStar": "4.9",
+        "shopName": "Eastern Shop Imports",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mm3q1qlir7d2e0",
+        "productLink": "https://shopee.com.br/product/374734112/23997716034",
+        "offerLink": "https://s.shopee.com.br/4AzzrkAgbf"
       },
       "_last_price": null
     },
@@ -20517,6 +20517,35 @@
       "_last_price": null
     },
     {
+      "id": "58212534130",
+      "name": "Ração Para Gato Castrado Adulto 10,1kg Sabor Carne Frango 28g Proteína Sem Corante",
+      "price": 78.99,
+      "original_price": 129.49,
+      "discount": 39.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mphybw2s8ydd41",
+      "link": "https://s.shopee.com.br/7ptIEaY2Sh",
+      "rating": "4.9",
+      "sales": 1623,
+      "shop": "Petistrô",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58212534130,
+        "productName": "Ração Para Gato Castrado Adulto 10,1kg Sabor Carne Frango 28g Proteína Sem Corante",
+        "price": "78.99",
+        "priceDiscountRate": 39,
+        "commissionRate": "0.07",
+        "sales": 1623,
+        "ratingStar": "4.9",
+        "shopName": "Petistrô",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mphybw2s8ydd41",
+        "productLink": "https://shopee.com.br/product/382010808/58212534130",
+        "offerLink": "https://s.shopee.com.br/7ptIEaY2Sh"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21697803481",
       "name": "Casa Casinha Plástica Para Cachorro N6 N7 N8 N9 Porte Médio e Grande Extra Grande Big",
       "price": 101.99,
@@ -21035,35 +21064,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mr1zwjey22o459",
         "productLink": "https://shopee.com.br/product/1571276714/58209837071",
         "offerLink": "https://s.shopee.com.br/112y61gNuh"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58212534130",
-      "name": "Ração Para Gato Castrado Adulto 10,1kg Sabor Carne Frango 28g Proteína Sem Corante",
-      "price": 79.99,
-      "original_price": 129.02,
-      "discount": 38.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mphybw2s8ydd41",
-      "link": "https://s.shopee.com.br/7ptIEaY2Sh",
-      "rating": "4.9",
-      "sales": 1623,
-      "shop": "Petistrô",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58212534130,
-        "productName": "Ração Para Gato Castrado Adulto 10,1kg Sabor Carne Frango 28g Proteína Sem Corante",
-        "price": "79.99",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.07",
-        "sales": 1623,
-        "ratingStar": "4.9",
-        "shopName": "Petistrô",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mphybw2s8ydd41",
-        "productLink": "https://shopee.com.br/product/382010808/58212534130",
-        "offerLink": "https://s.shopee.com.br/7ptIEaY2Sh"
       },
       "_last_price": null
     },
@@ -22891,6 +22891,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvk-mcaliz52i1y34a",
         "productLink": "https://shopee.com.br/product/1006215031/25066801073",
         "offerLink": "https://s.shopee.com.br/6VNrPZBKF5"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23399039236",
+      "name": "Caixa Térmica Portátil Praia Camping Viagem Pesca Piquenique 42 Litros Promoção Envio Rápido",
+      "price": 77.4,
+      "original_price": 119.08,
+      "discount": 35.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9pkezyocn519",
+      "link": "https://s.shopee.com.br/3g3jH22wEN",
+      "rating": "4.8",
+      "sales": 135,
+      "shop": "JPB  E-commerce",
+      "category": "caixa de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23399039236,
+        "productName": "Caixa Térmica Portátil Praia Camping Viagem Pesca Piquenique 42 Litros Promoção Envio Rápido",
+        "price": "77.4",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.08",
+        "sales": 135,
+        "ratingStar": "4.8",
+        "shopName": "JPB  E-commerce",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9pkezyocn519",
+        "productLink": "https://shopee.com.br/product/426635160/23399039236",
+        "offerLink": "https://s.shopee.com.br/3g3jH22wEN"
       },
       "_last_price": null
     },
@@ -26433,35 +26462,6 @@
       "_last_price": null
     },
     {
-      "id": "23699045261",
-      "name": "Alimento para Gatos Filhotes Sabor Frango e Abobora Gourmet Sachê 70G Golden",
-      "price": 2.89,
-      "original_price": 4.01,
-      "discount": 28.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825a3-mg5ksa5y6q6led",
-      "link": "https://s.shopee.com.br/6Al4g3iVfc",
-      "rating": "5",
-      "sales": 950,
-      "shop": "Chegô",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23699045261,
-        "productName": "Alimento para Gatos Filhotes Sabor Frango e Abobora Gourmet Sachê 70G Golden",
-        "price": "2.89",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.03",
-        "sales": 950,
-        "ratingStar": "5",
-        "shopName": "Chegô",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a3-mg5ksa5y6q6led",
-        "productLink": "https://shopee.com.br/product/1248266601/23699045261",
-        "offerLink": "https://s.shopee.com.br/6Al4g3iVfc"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58208305021",
       "name": "Panela De Pressao 4,5 litros Antiaderente Kit Convencional Tampa Vidro",
       "price": 129.8,
@@ -27912,6 +27912,35 @@
       "_last_price": null
     },
     {
+      "id": "18775453273",
+      "name": "Liquidificador Britânia 2,6L 900W 4 Lâminas BLQ970P Turbo",
+      "price": 119.9,
+      "original_price": 159.87,
+      "discount": 25.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82589-mt70mzrf515298",
+      "link": "https://s.shopee.com.br/1VzBUvavrM",
+      "rating": "4.9",
+      "sales": 1069,
+      "shop": "Britânia Oficial",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18775453273,
+        "productName": "Liquidificador Britânia 2,6L 900W 4 Lâminas BLQ970P Turbo",
+        "price": "119.9",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.03",
+        "sales": 1069,
+        "ratingStar": "4.9",
+        "shopName": "Britânia Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82589-mt70mzrf515298",
+        "productLink": "https://shopee.com.br/product/811879342/18775453273",
+        "offerLink": "https://s.shopee.com.br/1VzBUvavrM"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18397674061",
       "name": "Panela De Pressão Vancouver Effect Tramontina 4,5 e 6,0 Litros Preto e Vermelho Interna Starflon Max",
       "price": 209.9,
@@ -28007,7 +28036,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mpmfmezppzb7ee",
       "link": "https://s.shopee.com.br/5fonedjbWv",
-      "rating": "4.6",
+      "rating": "4.5",
       "sales": 1699,
       "shop": "Hoty Shoes",
       "category": "tenis feminino",
@@ -28019,7 +28048,7 @@
         "priceDiscountRate": 25,
         "commissionRate": "0.03",
         "sales": 1699,
-        "ratingStar": "4.6",
+        "ratingStar": "4.5",
         "shopName": "Hoty Shoes",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mpmfmezppzb7ee",
         "productLink": "https://shopee.com.br/product/421532050/58212799050",
