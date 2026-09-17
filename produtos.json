@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T21:06:51.433797+00:00",
-  "total": 1120,
+  "updated_at": "2026-09-17T21:26:00.940213+00:00",
+  "total": 1119,
   "products": [
     {
       "id": "52011120312",
@@ -1884,8 +1884,8 @@
     {
       "id": "9511754133",
       "name": "Creatina Max Titanium 300g Pura",
-      "price": 48.99,
-      "original_price": 181.44,
+      "price": 49.0,
+      "original_price": 181.48,
       "discount": 73.0,
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-22100-7b7tjvynfbivb7",
@@ -1898,7 +1898,7 @@
       "_item": {
         "itemId": 9511754133,
         "productName": "Creatina Max Titanium 300g Pura",
-        "price": "48.99",
+        "price": "49",
         "priceDiscountRate": 73,
         "commissionRate": "0.1",
         "sales": 11861,
@@ -8688,7 +8688,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mqowmslbsmirfd",
         "productLink": "https://shopee.com.br/product/1396794386/22298882024",
         "offerLink": "https://s.shopee.com.br/1qc5wm4AfW"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23594943408",
@@ -17295,8 +17296,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-msknjsp4p9fqcf",
         "productLink": "https://shopee.com.br/product/1600162028/22299459527",
         "offerLink": "https://s.shopee.com.br/9zxnfqbjFE"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58214836893",
@@ -20085,8 +20085,8 @@
     {
       "id": "49716229365",
       "name": "Ração Para Gatos 10Kg Castrado Adulto Filhote Todas as Raças",
-      "price": 65.99,
-      "original_price": 109.98,
+      "price": 66.59,
+      "original_price": 110.98,
       "discount": 40.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lh-ms1lg8s3m1hj55",
@@ -20099,7 +20099,7 @@
       "_item": {
         "itemId": 49716229365,
         "productName": "Ração Para Gatos 10Kg Castrado Adulto Filhote Todas as Raças",
-        "price": "65.99",
+        "price": "66.59",
         "priceDiscountRate": 40,
         "commissionRate": "0.03",
         "sales": 791,
@@ -24810,35 +24810,6 @@
       "_last_price": null
     },
     {
-      "id": "19899759854",
-      "name": "Dispenser Organizador Lavanderia 2,3 e 1,5 Litros Acrílico amaciante sabão em pó Lavanderia",
-      "price": 39.9,
-      "original_price": 57.83,
-      "discount": 31.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rasi-mabtceim9ichea",
-      "link": "https://s.shopee.com.br/80CjnShb0n",
-      "rating": "4.9",
-      "sales": 428,
-      "shop": "Souna Home",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19899759854,
-        "productName": "Dispenser Organizador Lavanderia 2,3 e 1,5 Litros Acrílico amaciante sabão em pó Lavanderia",
-        "price": "39.9",
-        "priceDiscountRate": 31,
-        "commissionRate": "0.03",
-        "sales": 428,
-        "ratingStar": "4.9",
-        "shopName": "Souna Home",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rasi-mabtceim9ichea",
-        "productLink": "https://shopee.com.br/product/838022405/19899759854",
-        "offerLink": "https://s.shopee.com.br/80CjnShb0n"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22092907531",
       "name": "Kit Lixeira Cozinha 5L E Dispenser Porta Detergente Luxo",
       "price": 74.9,
@@ -28298,7 +28269,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mpmfmezppzb7ee",
       "link": "https://s.shopee.com.br/4LJQvPFqTt",
-      "rating": "4.5",
+      "rating": "4.6",
       "sales": 1802,
       "shop": "Hoty Shoes",
       "category": "tenis feminino",
@@ -28310,7 +28281,7 @@
         "priceDiscountRate": 25,
         "commissionRate": "0.03",
         "sales": 1802,
-        "ratingStar": "4.5",
+        "ratingStar": "4.6",
         "shopName": "Hoty Shoes",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mpmfmezppzb7ee",
         "productLink": "https://shopee.com.br/product/421532050/58212799050",
