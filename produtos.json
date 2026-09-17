@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T04:51:10.009183+00:00",
-  "total": 1114,
+  "updated_at": "2026-09-17T05:10:02.548799+00:00",
+  "total": 1113,
   "products": [
     {
       "id": "52011120312",
@@ -636,7 +636,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
         "productLink": "https://shopee.com.br/product/344381236/57911938287",
         "offerLink": "https://s.shopee.com.br/5AsXuoSpOo"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22494449171",
@@ -30668,35 +30669,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825a4-mr9pzqvf632f09",
         "productLink": "https://shopee.com.br/product/457864097/25046330542",
         "offerLink": "https://s.shopee.com.br/gQ8YarkkU"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58252962219",
-      "name": "Magic Muuh Original Colostro + Creatina - Suplemento Sabor Pink Lemonade",
-      "price": 138.0,
-      "original_price": 170.37,
-      "discount": 19.0,
-      "commission": 19.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj8xtwma0jcy30",
-      "link": "https://s.shopee.com.br/60ReuPxNMB",
-      "rating": "4.9",
-      "sales": 840,
-      "shop": "Magic Muuh",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58252962219,
-        "productName": "Magic Muuh Original Colostro + Creatina - Suplemento Sabor Pink Lemonade",
-        "price": "138",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.19",
-        "sales": 840,
-        "ratingStar": "4.9",
-        "shopName": "Magic Muuh",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj8xtwma0jcy30",
-        "productLink": "https://shopee.com.br/product/1550655352/58252962219",
-        "offerLink": "https://s.shopee.com.br/60ReuPxNMB"
       },
       "_last_price": null
     },
