@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T23:20:57.613078+00:00",
-  "total": 1119,
+  "updated_at": "2026-09-17T23:40:16.849933+00:00",
+  "total": 1118,
   "products": [
     {
       "id": "52011120312",
@@ -257,8 +257,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-msxmjc85bkzr38",
         "productLink": "https://shopee.com.br/product/1198407784/23497594302",
         "offerLink": "https://s.shopee.com.br/5AsXuwUGwL"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58265198384",
@@ -4204,7 +4203,7 @@
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823of-momen2gbjls2a5",
       "link": "https://s.shopee.com.br/gQ8YcZ8jQ",
-      "rating": "4.3",
+      "rating": "4.1",
       "sales": 28,
       "shop": "ainaini.br",
       "category": "haltere",
@@ -4216,7 +4215,7 @@
         "priceDiscountRate": 66,
         "commissionRate": "0.14",
         "sales": 28,
-        "ratingStar": "4.3",
+        "ratingStar": "4.1",
         "shopName": "ainaini.br",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823of-momen2gbjls2a5",
         "productLink": "https://shopee.com.br/product/1847512446/54311772339",
@@ -12251,7 +12250,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me008w9f5czn90",
         "productLink": "https://shopee.com.br/product/482713190/22497433522",
         "offerLink": "https://s.shopee.com.br/5VVOJRIYwZ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "43404734335",
@@ -17382,35 +17382,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd65-lufupt43u6xy4e",
         "productLink": "https://shopee.com.br/product/987178113/25976014318",
         "offerLink": "https://s.shopee.com.br/9fKxHIB7V7"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22794146343",
-      "name": "Covo Armadilha Com 8 Furos Peixes Siri Lambari Camarão Iscas",
-      "price": 19.98,
-      "original_price": 36.33,
-      "discount": 45.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rauj-max0cy54bgtl1d",
-      "link": "https://s.shopee.com.br/1LfqJ29n39",
-      "rating": "4.8",
-      "sales": 126,
-      "shop": "lavins",
-      "category": "rede de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22794146343,
-        "productName": "Covo Armadilha Com 8 Furos Peixes Siri Lambari Camarão Iscas",
-        "price": "19.98",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.03",
-        "sales": 126,
-        "ratingStar": "4.8",
-        "shopName": "lavins",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rauj-max0cy54bgtl1d",
-        "productLink": "https://shopee.com.br/product/334307666/22794146343",
-        "offerLink": "https://s.shopee.com.br/1LfqJ29n39"
       },
       "_last_price": null
     },
