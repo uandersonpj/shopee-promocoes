@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T05:28:55.815217+00:00",
+  "updated_at": "2026-09-17T05:47:48.733940+00:00",
   "total": 1113,
   "products": [
     {
@@ -810,7 +810,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhmr1gnvzv9dbd",
         "productLink": "https://shopee.com.br/product/1142080977/58251235467",
         "offerLink": "https://s.shopee.com.br/70KC6HslFg"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "51250897834",
@@ -1396,7 +1397,7 @@
       "price": 10.43,
       "original_price": 43.46,
       "discount": 76.0,
-      "commission": 11.0,
+      "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-822xl-mhzrnuntaebk12",
       "link": "https://s.shopee.com.br/7AdcIezRmq",
       "rating": "4.9",
@@ -1409,7 +1410,7 @@
         "productName": " 20 peças de cabeça de pesca com líderes de linha de pesca de aço inoxidável e fivela giratória para isca, equipamento",
         "price": "10.43",
         "priceDiscountRate": 76,
-        "commissionRate": "0.11",
+        "commissionRate": "0.13",
         "sales": 249,
         "ratingStar": "4.9",
         "shopName": "Brand Choice",
@@ -2062,7 +2063,7 @@
       "price": 8.82,
       "original_price": 31.5,
       "discount": 72.0,
-      "commission": 11.0,
+      "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-822xr-mhzqtjjs9ix05e",
       "link": "https://s.shopee.com.br/4fwHK2R5zw",
       "rating": "4.8",
@@ -2075,7 +2076,7 @@
         "productName": " Fita para Vara de Pesca Brilha no Escuro - Adesivos PET Autoadesivos de 1,5/2/3/4cm",
         "price": "8.82",
         "priceDiscountRate": 72,
-        "commissionRate": "0.11",
+        "commissionRate": "0.13",
         "sales": 522,
         "ratingStar": "4.8",
         "shopName": "Brand Choice",
@@ -7766,8 +7767,8 @@
     {
       "id": "25338080323",
       "name": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-      "price": 55.0,
-      "original_price": 130.95,
+      "price": 148.99,
+      "original_price": 354.74,
       "discount": 58.0,
       "commission": 20.0,
       "image": "https://cf.shopee.com.br/file/sg-11134207-823pa-mpa7rmkjv3t9e6",
@@ -7780,7 +7781,7 @@
       "_item": {
         "itemId": 25338080323,
         "productName": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-        "price": "55",
+        "price": "148.99",
         "priceDiscountRate": 58,
         "commissionRate": "0.2",
         "sales": 5888,
@@ -28649,7 +28650,7 @@
       "price": 21.18,
       "original_price": 27.51,
       "discount": 23.0,
-      "commission": 9.0,
+      "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-82609-mk6dnpmsz3epf2",
       "link": "https://s.shopee.com.br/9fKxH43Ilz",
       "rating": "4.9",
@@ -28662,7 +28663,7 @@
         "productName": " QKZ AK6 Fones de Ouvido com Fio Atualizados Intra-Auriculares Monitor Dinâmico de Palco Graves Microfone Headsets",
         "price": "21.18",
         "priceDiscountRate": 23,
-        "commissionRate": "0.09",
+        "commissionRate": "0.13",
         "sales": 3124,
         "ratingStar": "4.9",
         "shopName": "Brand Choice",
