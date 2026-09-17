@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T08:23:16.270831+00:00",
+  "updated_at": "2026-09-17T08:42:06.451677+00:00",
   "total": 1113,
   "products": [
     {
@@ -3246,7 +3246,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b5-mt4n85gao35x12",
         "productLink": "https://shopee.com.br/product/832040275/22495754071",
         "offerLink": "https://s.shopee.com.br/5VVOJS9MHt"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "20098262336",
@@ -4409,35 +4410,6 @@
       "_last_price": null
     },
     {
-      "id": "22098143818",
-      "name": "Carretilha  1.8M Vara De Pesca Vara Fibra Carbono Pesca Kit   Alta Velocidade 5.2 : 1 Relação Engrenagem Max Drag 30KG",
-      "price": 77.97,
-      "original_price": 229.32,
-      "discount": 66.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mczzxsgray9t0d",
-      "link": "https://s.shopee.com.br/8fSQ5Ognwq",
-      "rating": "4.7",
-      "sales": 293,
-      "shop": "Bàodān Garantia oficial",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22098143818,
-        "productName": "Carretilha  1.8M Vara De Pesca Vara Fibra Carbono Pesca Kit   Alta Velocidade 5.2 : 1 Relação Engrenagem Max Drag 30KG",
-        "price": "77.97",
-        "priceDiscountRate": 66,
-        "commissionRate": "0.08",
-        "sales": 293,
-        "ratingStar": "4.7",
-        "shopName": "Bàodān Garantia oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mczzxsgray9t0d",
-        "productLink": "https://shopee.com.br/product/1133907149/22098143818",
-        "offerLink": "https://s.shopee.com.br/8fSQ5Ognwq"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58208583352",
       "name": "Boné De Beisebol Com Óculos De Sol Falsos , Proteção Solar , Verão , Macio Para Corrida , Caminhada , Pesca Vários cores",
       "price": 19.97,
@@ -4782,6 +4754,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82611-mkjpua9k969xa4",
         "productLink": "https://shopee.com.br/product/230709939/54654681407",
         "offerLink": "https://s.shopee.com.br/5LBy7G7EYh"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22098143818",
+      "name": "Carretilha  1.8M Vara De Pesca Vara Fibra Carbono Pesca Kit   Alta Velocidade 5.2 : 1 Relação Engrenagem Max Drag 30KG",
+      "price": 78.7,
+      "original_price": 224.86,
+      "discount": 65.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mczzxsgray9t0d",
+      "link": "https://s.shopee.com.br/8fSQ5Ognwq",
+      "rating": "4.7",
+      "sales": 293,
+      "shop": "Bàodān Garantia oficial",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22098143818,
+        "productName": "Carretilha  1.8M Vara De Pesca Vara Fibra Carbono Pesca Kit   Alta Velocidade 5.2 : 1 Relação Engrenagem Max Drag 30KG",
+        "price": "78.7",
+        "priceDiscountRate": 65,
+        "commissionRate": "0.08",
+        "sales": 293,
+        "ratingStar": "4.7",
+        "shopName": "Bàodān Garantia oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mczzxsgray9t0d",
+        "productLink": "https://shopee.com.br/product/1133907149/22098143818",
+        "offerLink": "https://s.shopee.com.br/8fSQ5Ognwq"
       },
       "_last_price": null
     },
