@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T04:26:30.656216+00:00",
+  "updated_at": "2026-09-18T04:45:20.774838+00:00",
   "total": 1120,
   "products": [
     {
@@ -1123,7 +1123,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lihnnsnqd8dscc",
         "productLink": "https://shopee.com.br/product/291174073/23218022612",
         "offerLink": "https://s.shopee.com.br/8AW9URNef5"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22693513091",
@@ -30876,8 +30877,8 @@
     {
       "id": "25046330542",
       "name": "Celimax Brightening Pore+ Dark Spot Cream 35ml, 7ml",
-      "price": 146.29,
-      "original_price": 180.6,
+      "price": 42.7,
+      "original_price": 52.72,
       "discount": 19.0,
       "commission": 25.0,
       "image": "https://cf.shopee.com.br/file/sg-11134207-825a4-mr9pzqvf632f09",
@@ -30890,7 +30891,7 @@
       "_item": {
         "itemId": 25046330542,
         "productName": "Celimax Brightening Pore+ Dark Spot Cream 35ml, 7ml",
-        "price": "146.29",
+        "price": "42.7",
         "priceDiscountRate": 19,
         "commissionRate": "0.25",
         "sales": 9470,
@@ -30899,6 +30900,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825a4-mr9pzqvf632f09",
         "productLink": "https://shopee.com.br/product/457864097/25046330542",
         "offerLink": "https://s.shopee.com.br/gQ8YarkkU"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58256555923",
+      "name": "Kit 10 Peças Maternidade – 6 Saquinhos Organizadores + 4 Porta Fralda/Remédio Necessaire",
+      "price": 34.83,
+      "original_price": 43.0,
+      "discount": 19.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-ms0c1x2o7gn9f2",
+      "link": "https://s.shopee.com.br/7AddhCM1Sv",
+      "rating": "4.8",
+      "sales": 1621,
+      "shop": "Bia Baby Home",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58256555923,
+        "productName": "Kit 10 Peças Maternidade – 6 Saquinhos Organizadores + 4 Porta Fralda/Remédio Necessaire",
+        "price": "34.83",
+        "priceDiscountRate": 19,
+        "commissionRate": "0.03",
+        "sales": 1621,
+        "ratingStar": "4.8",
+        "shopName": "Bia Baby Home",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-ms0c1x2o7gn9f2",
+        "productLink": "https://shopee.com.br/product/337947557/58256555923",
+        "offerLink": "https://s.shopee.com.br/7AddhCM1Sv"
       },
       "_last_price": null
     },
@@ -31769,35 +31799,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mlw6c0zdyarr02",
         "productLink": "https://shopee.com.br/product/387937307/9086098749",
         "offerLink": "https://s.shopee.com.br/905GTu4Qk7"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23393053571",
-      "name": "Fralda Premium Huggies Natural Care RN 34 Un",
-      "price": 45.9,
-      "original_price": 54.64,
-      "discount": 16.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rato-max0uefqt1j7f9",
-      "link": "https://s.shopee.com.br/W6iMIRW9t",
-      "rating": "5",
-      "sales": 1711,
-      "shop": "Oficial Huggies",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23393053571,
-        "productName": "Fralda Premium Huggies Natural Care RN 34 Un",
-        "price": "45.9",
-        "priceDiscountRate": 16,
-        "commissionRate": "0.06",
-        "sales": 1711,
-        "ratingStar": "5",
-        "shopName": "Oficial Huggies",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rato-max0uefqt1j7f9",
-        "productLink": "https://shopee.com.br/product/1261893889/23393053571",
-        "offerLink": "https://s.shopee.com.br/W6iMIRW9t"
       },
       "_last_price": null
     },
