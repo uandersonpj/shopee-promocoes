@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-18T03:48:43.264572+00:00",
-  "total": 1119,
+  "updated_at": "2026-09-18T04:07:34.247371+00:00",
+  "total": 1120,
   "products": [
     {
       "id": "22394636674",
@@ -172,7 +172,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134275-7rdxw-mdfucal40l6y57",
         "productLink": "https://shopee.com.br/product/236693678/26539956454",
         "offerLink": "https://s.shopee.com.br/8fSQlKcMol"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49207406104",
@@ -13299,6 +13300,35 @@
       "_last_price": null
     },
     {
+      "id": "57404370857",
+      "name": "Ração úmida Dog Chow Sabores Variados para Cães 15x85g ou 15x100g",
+      "price": 39.9,
+      "original_price": 79.8,
+      "discount": 50.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-ms2v0d0gl9mu9c",
+      "link": "https://s.shopee.com.br/4Vcr7fu1Fm",
+      "rating": "5",
+      "sales": 1431,
+      "shop": "LeluPets",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57404370857,
+        "productName": "Ração úmida Dog Chow Sabores Variados para Cães 15x85g ou 15x100g",
+        "price": "39.9",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.18",
+        "sales": 1431,
+        "ratingStar": "5",
+        "shopName": "LeluPets",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-ms2v0d0gl9mu9c",
+        "productLink": "https://shopee.com.br/product/293152127/57404370857",
+        "offerLink": "https://s.shopee.com.br/4Vcr7fu1Fm"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58209304205",
       "name": "Ração Cachorro 15kg ou 10kg Uau Dog Sabor Carne 18% Proteína",
       "price": 49.65,
@@ -13962,35 +13992,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztd-mko7wuy13u2q40",
         "productLink": "https://shopee.com.br/product/979724994/58205223096",
         "offerLink": "https://s.shopee.com.br/2Vrmjwtlq1"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "57404370857",
-      "name": "Ração úmida Dog Chow Sabores Variados para Cães 15x85g ou 15x100g",
-      "price": 39.9,
-      "original_price": 78.24,
-      "discount": 49.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-ms2v0d0gl9mu9c",
-      "link": "https://s.shopee.com.br/4Vcr7fu1Fm",
-      "rating": "5",
-      "sales": 1431,
-      "shop": "LeluPets",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57404370857,
-        "productName": "Ração úmida Dog Chow Sabores Variados para Cães 15x85g ou 15x100g",
-        "price": "39.9",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.18",
-        "sales": 1431,
-        "ratingStar": "5",
-        "shopName": "LeluPets",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-ms2v0d0gl9mu9c",
-        "productLink": "https://shopee.com.br/product/293152127/57404370857",
-        "offerLink": "https://s.shopee.com.br/4Vcr7fu1Fm"
       },
       "_last_price": null
     },
@@ -24894,6 +24895,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mswtj8osgjr826",
         "productLink": "https://shopee.com.br/product/316557325/20399578507",
         "offerLink": "https://s.shopee.com.br/3VkJvkquRo"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19899759854",
+      "name": "Dispenser Organizador Lavanderia 2,3 e 1,5 Litros Acrílico amaciante sabão em pó Lavanderia",
+      "price": 39.9,
+      "original_price": 57.83,
+      "discount": 31.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rasi-mabtceim9ichea",
+      "link": "https://s.shopee.com.br/80CjnShb0n",
+      "rating": "4.9",
+      "sales": 428,
+      "shop": "Souna Home",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19899759854,
+        "productName": "Dispenser Organizador Lavanderia 2,3 e 1,5 Litros Acrílico amaciante sabão em pó Lavanderia",
+        "price": "39.9",
+        "priceDiscountRate": 31,
+        "commissionRate": "0.03",
+        "sales": 428,
+        "ratingStar": "4.9",
+        "shopName": "Souna Home",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rasi-mabtceim9ichea",
+        "productLink": "https://shopee.com.br/product/838022405/19899759854",
+        "offerLink": "https://s.shopee.com.br/80CjnShb0n"
       },
       "_last_price": null
     },
