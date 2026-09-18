@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-18T01:16:28.343043+00:00",
-  "total": 1120,
+  "updated_at": "2026-09-18T01:35:35.749905+00:00",
+  "total": 1121,
   "products": [
     {
       "id": "52011120312",
@@ -285,7 +285,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mr6w05iemznofe",
         "productLink": "https://shopee.com.br/product/1896341737/58265198384",
         "offerLink": "https://s.shopee.com.br/2gBCwF2c9x"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "55508691646",
@@ -2914,8 +2915,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mou0986n2qyt11",
         "productLink": "https://shopee.com.br/product/1232299933/54261362044",
         "offerLink": "https://s.shopee.com.br/5fooVhjKaa"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23794330101",
@@ -4425,35 +4425,6 @@
       "_last_price": null
     },
     {
-      "id": "58207198817",
-      "name": "Vara Telescópica JOKER - MARURI",
-      "price": 27.2,
-      "original_price": 80.0,
-      "discount": 66.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
-      "link": "https://s.shopee.com.br/4B00jAaaRn",
-      "rating": "4.9",
-      "sales": 350,
-      "shop": "Agropecuaria_Rio_Claro",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58207198817,
-        "productName": "Vara Telescópica JOKER - MARURI",
-        "price": "27.2",
-        "priceDiscountRate": 66,
-        "commissionRate": "0.03",
-        "sales": 350,
-        "ratingStar": "4.9",
-        "shopName": "Agropecuaria_Rio_Claro",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
-        "productLink": "https://shopee.com.br/product/1368232097/58207198817",
-        "offerLink": "https://s.shopee.com.br/4B00jAaaRn"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58206623391",
       "name": "Covo Armadilha De Pesca Retrátil 16 Entradas – Lambari Camarão Isca Viva Guarda Chuva Nylon",
       "price": 21.9,
@@ -5291,6 +5262,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mqjlehkuqdc2ed",
         "productLink": "https://shopee.com.br/product/361954967/58264092360",
         "offerLink": "https://s.shopee.com.br/3B7TXKeOTR"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58207198817",
+      "name": "Vara Telescópica JOKER - MARURI",
+      "price": 28.9,
+      "original_price": 80.28,
+      "discount": 64.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
+      "link": "https://s.shopee.com.br/4B00jAaaRn",
+      "rating": "4.9",
+      "sales": 350,
+      "shop": "Agropecuaria_Rio_Claro",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58207198817,
+        "productName": "Vara Telescópica JOKER - MARURI",
+        "price": "28.9",
+        "priceDiscountRate": 64,
+        "commissionRate": "0.03",
+        "sales": 350,
+        "ratingStar": "4.9",
+        "shopName": "Agropecuaria_Rio_Claro",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
+        "productLink": "https://shopee.com.br/product/1368232097/58207198817",
+        "offerLink": "https://s.shopee.com.br/4B00jAaaRn"
       },
       "_last_price": null
     },
@@ -7878,8 +7878,8 @@
     {
       "id": "25338080323",
       "name": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-      "price": 149.0,
-      "original_price": 354.76,
+      "price": 55.0,
+      "original_price": 130.95,
       "discount": 58.0,
       "commission": 20.0,
       "image": "https://cf.shopee.com.br/file/sg-11134207-823pa-mpa7rmkjv3t9e6",
@@ -7892,7 +7892,7 @@
       "_item": {
         "itemId": 25338080323,
         "productName": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-        "price": "149",
+        "price": "55",
         "priceDiscountRate": 58,
         "commissionRate": "0.2",
         "sales": 6006,
@@ -8690,8 +8690,8 @@
     {
       "id": "22694532907",
       "name": "Caneca Automática Mistura Shake Com Cabo De Plástico 400ml Elétrica Recarregável 7000rpm Alta Velocidade",
-      "price": 29.98,
-      "original_price": 69.72,
+      "price": 29.99,
+      "original_price": 69.74,
       "discount": 57.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mqqnszguknwief",
@@ -8704,7 +8704,7 @@
       "_item": {
         "itemId": 22694532907,
         "productName": "Caneca Automática Mistura Shake Com Cabo De Plástico 400ml Elétrica Recarregável 7000rpm Alta Velocidade",
-        "price": "29.98",
+        "price": "29.99",
         "priceDiscountRate": 57,
         "commissionRate": "0.07",
         "sales": 719,
@@ -12105,6 +12105,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md4hll4oyux787",
         "productLink": "https://shopee.com.br/product/1550289846/41661864285",
         "offerLink": "https://s.shopee.com.br/1ARlVqRu6"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "29806177637",
+      "name": "Feijão Espacial De Pesca SKEC 600Pcs Tackle Oval Stopper Rubber Fishing Line Stops Fly Flutuador",
+      "price": 18.08,
+      "original_price": 37.67,
+      "discount": 52.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwv-ly4py9sfn9qef3",
+      "link": "https://s.shopee.com.br/9peOxYFzPo",
+      "rating": "4.9",
+      "sales": 21,
+      "shop": "skechersrt.br",
+      "category": "flutuador pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 29806177637,
+        "productName": "Feijão Espacial De Pesca SKEC 600Pcs Tackle Oval Stopper Rubber Fishing Line Stops Fly Flutuador",
+        "price": "18.08",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.03",
+        "sales": 21,
+        "ratingStar": "4.9",
+        "shopName": "skechersrt.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwv-ly4py9sfn9qef3",
+        "productLink": "https://shopee.com.br/product/1228962740/29806177637",
+        "offerLink": "https://s.shopee.com.br/9peOxYFzPo"
       },
       "_last_price": null
     },
@@ -17385,6 +17414,35 @@
       "_last_price": null
     },
     {
+      "id": "22794146343",
+      "name": "Covo Armadilha Com 8 Furos Peixes Siri Lambari Camarão Iscas",
+      "price": 19.98,
+      "original_price": 36.33,
+      "discount": 45.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rauj-max0cy54bgtl1d",
+      "link": "https://s.shopee.com.br/1LfqJ29n39",
+      "rating": "4.8",
+      "sales": 126,
+      "shop": "lavins",
+      "category": "rede de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22794146343,
+        "productName": "Covo Armadilha Com 8 Furos Peixes Siri Lambari Camarão Iscas",
+        "price": "19.98",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 126,
+        "ratingStar": "4.8",
+        "shopName": "lavins",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rauj-max0cy54bgtl1d",
+        "productLink": "https://shopee.com.br/product/334307666/22794146343",
+        "offerLink": "https://s.shopee.com.br/1LfqJ29n39"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58256029412",
       "name": "Adesivos Personalizados 4x4 cm - 1000 unidades, 500, 300 ou 200 unidades - Com sua logo ou arte",
       "price": 18.31,
@@ -17642,35 +17700,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mreq8encuolh62",
         "productLink": "https://shopee.com.br/product/332059670/54557028525",
         "offerLink": "https://s.shopee.com.br/40gaWmLqew"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22999395063",
-      "name": "Cafeteira Italiana Inox Espresso Fogão Gás ou Indução.",
-      "price": 44.49,
-      "original_price": 79.45,
-      "discount": 44.0,
-      "commission": 5.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mly6z4jt0um8a0",
-      "link": "https://s.shopee.com.br/4fwHK0JJJ8",
-      "rating": "4.9",
-      "sales": 1696,
-      "shop": "Relogios milaqi",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22999395063,
-        "productName": "Cafeteira Italiana Inox Espresso Fogão Gás ou Indução.",
-        "price": "44.49",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.05",
-        "sales": 1696,
-        "ratingStar": "4.9",
-        "shopName": "Relogios milaqi",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mly6z4jt0um8a0",
-        "productLink": "https://shopee.com.br/product/1102604016/22999395063",
-        "offerLink": "https://s.shopee.com.br/4fwHK0JJJ8"
       },
       "_last_price": null
     },
@@ -18773,6 +18802,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mqj7aq4obkea16",
         "productLink": "https://shopee.com.br/product/829646892/51610131709",
         "offerLink": "https://s.shopee.com.br/W6iMKiJ78"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22999395063",
+      "name": "Cafeteira Italiana Inox Espresso Fogão Gás ou Indução.",
+      "price": 45.99,
+      "original_price": 79.29,
+      "discount": 42.0,
+      "commission": 5.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mly6z4jt0um8a0",
+      "link": "https://s.shopee.com.br/4fwHK0JJJ8",
+      "rating": "4.9",
+      "sales": 1696,
+      "shop": "Relogios milaqi",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22999395063,
+        "productName": "Cafeteira Italiana Inox Espresso Fogão Gás ou Indução.",
+        "price": "45.99",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.05",
+        "sales": 1696,
+        "ratingStar": "4.9",
+        "shopName": "Relogios milaqi",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mly6z4jt0um8a0",
+        "productLink": "https://shopee.com.br/product/1102604016/22999395063",
+        "offerLink": "https://s.shopee.com.br/4fwHK0JJJ8"
       },
       "_last_price": null
     },
@@ -28285,35 +28343,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb8t6kj9b7q75",
         "productLink": "https://shopee.com.br/product/1053409943/20398003234",
         "offerLink": "https://s.shopee.com.br/2BEwLQO5sg"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "25721342244",
-      "name": "Relógio Esportivo Digital Masculino À Prova D'água Silicone Pulseira Leve De Pulso Ao Ar Livre Presente",
-      "price": 9.83,
-      "original_price": 13.11,
-      "discount": 25.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823r8-mp4n5zizxs7f75",
-      "link": "https://s.shopee.com.br/20vW97xeWM",
-      "rating": "4.7",
-      "sales": 8437,
-      "shop": "Choice Oficial",
-      "category": "relogio masculino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 25721342244,
-        "productName": "Relógio Esportivo Digital Masculino À Prova D'água Silicone Pulseira Leve De Pulso Ao Ar Livre Presente",
-        "price": "9.83",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.07",
-        "sales": 8437,
-        "ratingStar": "4.7",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r8-mp4n5zizxs7f75",
-        "productLink": "https://shopee.com.br/product/1006215031/25721342244",
-        "offerLink": "https://s.shopee.com.br/20vW97xeWM"
       },
       "_last_price": null
     },
