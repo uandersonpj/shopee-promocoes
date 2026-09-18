@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-18T01:54:33.884608+00:00",
-  "total": 1118,
+  "updated_at": "2026-09-18T02:13:38.649138+00:00",
+  "total": 1119,
   "products": [
     {
       "id": "22394636674",
@@ -460,7 +460,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824jh-meid7h7zauiv8e",
         "productLink": "https://shopee.com.br/product/1006215031/42971009476",
         "offerLink": "https://s.shopee.com.br/6Al56n43rm"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58264589695",
@@ -890,8 +891,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262f-mllw34rkbgg82a",
         "productLink": "https://shopee.com.br/product/207653029/54259002448",
         "offerLink": "https://s.shopee.com.br/3LQuXNtkBN"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "45364806848",
@@ -7821,8 +7821,8 @@
     {
       "id": "25338080323",
       "name": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-      "price": 55.0,
-      "original_price": 130.95,
+      "price": 149.0,
+      "original_price": 354.76,
       "discount": 58.0,
       "commission": 20.0,
       "image": "https://cf.shopee.com.br/file/sg-11134207-823pa-mpa7rmkjv3t9e6",
@@ -7835,7 +7835,7 @@
       "_item": {
         "itemId": 25338080323,
         "productName": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-        "price": "55",
+        "price": "149",
         "priceDiscountRate": 58,
         "commissionRate": "0.2",
         "sales": 6006,
@@ -15067,6 +15067,35 @@
       "_last_price": null
     },
     {
+      "id": "20999680446",
+      "name": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
+      "price": 189.9,
+      "original_price": 358.3,
+      "discount": 47.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
+      "link": "https://s.shopee.com.br/5fooVnPaJo",
+      "rating": "4.9",
+      "sales": 1525,
+      "shop": "Zociella Kids",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20999680446,
+        "productName": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
+        "price": "189.9",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.07",
+        "sales": 1525,
+        "ratingStar": "4.9",
+        "shopName": "Zociella Kids",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
+        "productLink": "https://shopee.com.br/product/504754787/20999680446",
+        "offerLink": "https://s.shopee.com.br/5fooVnPaJo"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22991380005",
       "name": "Whey Protein Isolate 2W 900g Metapharma Pote",
       "price": 51.0,
@@ -16803,35 +16832,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r4-mp4ly31exkhuea",
         "productLink": "https://shopee.com.br/product/1006215031/24242897638",
         "offerLink": "https://s.shopee.com.br/BTrxgSmpr"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20999680446",
-      "name": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
-      "price": 197.9,
-      "original_price": 359.82,
-      "discount": 45.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
-      "link": "https://s.shopee.com.br/5fooVnPaJo",
-      "rating": "4.9",
-      "sales": 1525,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20999680446,
-        "productName": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
-        "price": "197.9",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.07",
-        "sales": 1525,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
-        "productLink": "https://shopee.com.br/product/504754787/20999680446",
-        "offerLink": "https://s.shopee.com.br/5fooVnPaJo"
       },
       "_last_price": null
     },
@@ -31157,6 +31157,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mmepzpijlds48e",
         "productLink": "https://shopee.com.br/product/595377436/15937859604",
         "offerLink": "https://s.shopee.com.br/5VVOzMnes6"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23597915053",
+      "name": "Kit Sundown Fps50 200ml + Sundown Fps50 120ml",
+      "price": 59.99,
+      "original_price": 73.16,
+      "discount": 18.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwo-m15ynbnub78184",
+      "link": "https://s.shopee.com.br/8plqHb5452",
+      "rating": "4.9",
+      "sales": 2471,
+      "shop": "Droga Clara",
+      "category": "protetor solar",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23597915053,
+        "productName": "Kit Sundown Fps50 200ml + Sundown Fps50 120ml",
+        "price": "59.99",
+        "priceDiscountRate": 18,
+        "commissionRate": "0.07",
+        "sales": 2471,
+        "ratingStar": "4.9",
+        "shopName": "Droga Clara",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwo-m15ynbnub78184",
+        "productLink": "https://shopee.com.br/product/1045085918/23597915053",
+        "offerLink": "https://s.shopee.com.br/8plqHb5452"
       },
       "_last_price": null
     },
