@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-18T05:22:57.976895+00:00",
-  "total": 1120,
+  "updated_at": "2026-09-18T05:41:51.657338+00:00",
+  "total": 1121,
   "products": [
     {
       "id": "22394636674",
@@ -230,7 +230,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-msxmjc85bkzr38",
         "productLink": "https://shopee.com.br/product/1198407784/23497594302",
         "offerLink": "https://s.shopee.com.br/5AsXuwUGwL"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58265198384",
@@ -432,6 +433,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82628-mk3zmwouv9jbd7",
         "productLink": "https://shopee.com.br/product/1531225861/58204369417",
         "offerLink": "https://s.shopee.com.br/gQ8YZAEDt"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21498310169",
+      "name": "Liquidificador Mondial Turbo 1200w 3L Inox L-1200 Preto 110V",
+      "price": 155.72,
+      "original_price": 819.58,
+      "discount": 81.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825a9-meuhrokrwagy64",
+      "link": "https://s.shopee.com.br/4B01tGy7l9",
+      "rating": "4.9",
+      "sales": 870,
+      "shop": "TECNOLAR OFICIAL",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21498310169,
+        "productName": "Liquidificador Mondial Turbo 1200w 3L Inox L-1200 Preto 110V",
+        "price": "155.72",
+        "priceDiscountRate": 81,
+        "commissionRate": "0.03",
+        "sales": 870,
+        "ratingStar": "4.9",
+        "shopName": "TECNOLAR OFICIAL",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a9-meuhrokrwagy64",
+        "productLink": "https://shopee.com.br/product/1553811678/21498310169",
+        "offerLink": "https://s.shopee.com.br/4B01tGy7l9"
       },
       "_last_price": null
     },
@@ -14749,7 +14779,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7azorh5y4i4dd",
         "productLink": "https://shopee.com.br/product/1619868980/22294439852",
         "offerLink": "https://s.shopee.com.br/9peNTZOQLV"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22198950257",
@@ -18406,6 +18437,35 @@
       "_last_price": null
     },
     {
+      "id": "58257194705",
+      "name": "Panela de Pressão Inox 6L 10L - Sistema Antiexplosão - 3 Níveis - Cozimento Rápido e Fácil",
+      "price": 303.0,
+      "original_price": 531.58,
+      "discount": 43.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mn9s3srklywy29",
+      "link": "https://s.shopee.com.br/6VNvVNpisZ",
+      "rating": "4.9",
+      "sales": 696,
+      "shop": "AMFA HOME",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58257194705,
+        "productName": "Panela de Pressão Inox 6L 10L - Sistema Antiexplosão - 3 Níveis - Cozimento Rápido e Fácil",
+        "price": "303",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.13",
+        "sales": 696,
+        "ratingStar": "4.9",
+        "shopName": "AMFA HOME",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mn9s3srklywy29",
+        "productLink": "https://shopee.com.br/product/1537812254/58257194705",
+        "offerLink": "https://s.shopee.com.br/6VNvVNpisZ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20597347457",
       "name": "Kit 2 Tênis Masculino Polo Fran Sapatênis Básico Casual Com Carteira Cinto e Relógio London",
       "price": 79.9,
@@ -20200,35 +20260,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260s-mkwhm62zdurl9a",
         "productLink": "https://shopee.com.br/product/1062544851/20498962219",
         "offerLink": "https://s.shopee.com.br/7VGShDQC19"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58257194705",
-      "name": "Panela de Pressão Inox 6L 10L - Sistema Antiexplosão - 3 Níveis - Cozimento Rápido e Fácil",
-      "price": 303.0,
-      "original_price": 505.0,
-      "discount": 40.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mn9s3srklywy29",
-      "link": "https://s.shopee.com.br/6VNvVNpisZ",
-      "rating": "4.9",
-      "sales": 696,
-      "shop": "AMFA HOME",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58257194705,
-        "productName": "Panela de Pressão Inox 6L 10L - Sistema Antiexplosão - 3 Níveis - Cozimento Rápido e Fácil",
-        "price": "303",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.13",
-        "sales": 696,
-        "ratingStar": "4.9",
-        "shopName": "AMFA HOME",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mn9s3srklywy29",
-        "productLink": "https://shopee.com.br/product/1537812254/58257194705",
-        "offerLink": "https://s.shopee.com.br/6VNvVNpisZ"
       },
       "_last_price": null
     },
