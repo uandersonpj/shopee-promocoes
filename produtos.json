@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-18T06:38:24.336004+00:00",
-  "total": 1120,
+  "updated_at": "2026-09-18T06:57:13.846628+00:00",
+  "total": 1119,
   "products": [
     {
       "id": "22394636674",
@@ -144,7 +144,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m94jsi5hwaol47",
         "productLink": "https://shopee.com.br/product/1127030290/23593603405",
         "offerLink": "https://s.shopee.com.br/1qc5wfX7fC"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "26539956454",
@@ -6748,35 +6749,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgufpd78g2dcd9",
         "productLink": "https://shopee.com.br/product/1600125401/22194351604",
         "offerLink": "https://s.shopee.com.br/5fooVrjh5P"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "53066098050",
-      "name": "Carretilha De Pesca Perfil Baixo Alta Velocidade Freio Magnético 8 Ímãs Direita Esquerd",
-      "price": 39.0,
-      "original_price": 100.0,
-      "discount": 61.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mry6ee4fx7nrff",
-      "link": "https://s.shopee.com.br/40gaY7EigI",
-      "rating": "4.8",
-      "sales": 53,
-      "shop": "adrianaaparecidagomes202",
-      "category": "carretilha pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 53066098050,
-        "productName": "Carretilha De Pesca Perfil Baixo Alta Velocidade Freio Magnético 8 Ímãs Direita Esquerd",
-        "price": "39",
-        "priceDiscountRate": 61,
-        "commissionRate": "0.11",
-        "sales": 53,
-        "ratingStar": "4.8",
-        "shopName": "adrianaaparecidagomes202",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mry6ee4fx7nrff",
-        "productLink": "https://shopee.com.br/product/1658244377/53066098050",
-        "offerLink": "https://s.shopee.com.br/40gaY7EigI"
       },
       "_last_price": null
     },
