@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T13:59:33.533145+00:00",
+  "updated_at": "2026-09-19T14:18:32.637330+00:00",
   "total": 1127,
   "products": [
     {
@@ -144,8 +144,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1zzq6l901gfa2",
         "productLink": "https://shopee.com.br/product/322874822/23797686527",
         "offerLink": "https://s.shopee.com.br/3B7TXGtD9d"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23593603405",
@@ -3920,7 +3919,7 @@
       "original_price": 902.33,
       "discount": 67.0,
       "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-msmld6pzlkw40a",
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mtape51h6ubnc7",
       "link": "https://s.shopee.com.br/6Al56lqzYT",
       "rating": "4.9",
       "sales": 708,
@@ -3936,7 +3935,7 @@
         "sales": 708,
         "ratingStar": "4.9",
         "shopName": "nextbrstore",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-msmld6pzlkw40a",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mtape51h6ubnc7",
         "productLink": "https://shopee.com.br/product/1758772368/58213479973",
         "offerLink": "https://s.shopee.com.br/6Al56lqzYT"
       }
@@ -5428,7 +5427,7 @@
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825aq-mq2p2g0hqf409e",
       "link": "https://s.shopee.com.br/3VkJvmYZWh",
-      "rating": "4.4",
+      "rating": "4.3",
       "sales": 809,
       "shop": "SENSACIONAL.CO",
       "category": "pano microfibra",
@@ -5440,7 +5439,7 @@
         "priceDiscountRate": 63,
         "commissionRate": "0.1",
         "sales": 809,
-        "ratingStar": "4.4",
+        "ratingStar": "4.3",
         "shopName": "SENSACIONAL.CO",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aq-mq2p2g0hqf409e",
         "productLink": "https://shopee.com.br/product/1598954512/52663081504",
@@ -11130,35 +11129,6 @@
       "_last_price": null
     },
     {
-      "id": "23899340449",
-      "name": "Kit Podador De Galhos 3,5m + 4m Vara Telescópica 2 Serras 2 Ganchos",
-      "price": 139.99,
-      "original_price": 297.85,
-      "discount": 53.0,
-      "commission": 8.200000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-msceb66hodms2b",
-      "link": "https://s.shopee.com.br/4fwHK5YgQw",
-      "rating": "4.9",
-      "sales": 244,
-      "shop": "FerraMax-BR",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23899340449,
-        "productName": "Kit Podador De Galhos 3,5m + 4m Vara Telescópica 2 Serras 2 Ganchos",
-        "price": "139.99",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.082",
-        "sales": 244,
-        "ratingStar": "4.9",
-        "shopName": "FerraMax-BR",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-msceb66hodms2b",
-        "productLink": "https://shopee.com.br/product/1724060495/23899340449",
-        "offerLink": "https://s.shopee.com.br/4fwHK5YgQw"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23698804974",
       "name": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
       "price": 10.99,
@@ -12471,7 +12441,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mr3cpfe1se85f5",
       "link": "https://s.shopee.com.br/1AVS9n1Te",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 162,
       "shop": "Fatiado Utilidades",
       "category": "roteador wifi",
@@ -12483,7 +12453,7 @@
         "priceDiscountRate": 50,
         "commissionRate": "0.03",
         "sales": 162,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "Fatiado Utilidades",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mr3cpfe1se85f5",
         "productLink": "https://shopee.com.br/product/1289974843/58264414848",
@@ -21711,6 +21681,35 @@
       "_last_price": null
     },
     {
+      "id": "23899340449",
+      "name": "Kit Podador De Galhos 3,5m + 4m Vara Telescópica 2 Serras 2 Ganchos",
+      "price": 183.99,
+      "original_price": 296.76,
+      "discount": 38.0,
+      "commission": 8.200000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-msceb66hodms2b",
+      "link": "https://s.shopee.com.br/4fwHK5YgQw",
+      "rating": "4.9",
+      "sales": 244,
+      "shop": "FerraMax-BR",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23899340449,
+        "productName": "Kit Podador De Galhos 3,5m + 4m Vara Telescópica 2 Serras 2 Ganchos",
+        "price": "183.99",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.082",
+        "sales": 244,
+        "ratingStar": "4.9",
+        "shopName": "FerraMax-BR",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-msceb66hodms2b",
+        "productLink": "https://shopee.com.br/product/1724060495/23899340449",
+        "offerLink": "https://s.shopee.com.br/4fwHK5YgQw"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58259811012",
       "name": "Faca de Garra Tática Militar Com Bainha E Cordão Caniverte de Coleção Camping Pesca Uso Doméstico",
       "price": 24.99,
@@ -29717,8 +29716,8 @@
     {
       "id": "23599155894",
       "name": "Canivete Automatico Saque Rapido Com Trava Clip de bolso metal inox Caça Pesca Camping  Escorpiao",
-      "price": 38.88,
-      "original_price": 49.85,
+      "price": 19.88,
+      "original_price": 25.49,
       "discount": 22.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-821e1-mgpknktz905p25",
@@ -29731,7 +29730,7 @@
       "_item": {
         "itemId": 23599155894,
         "productName": "Canivete Automatico Saque Rapido Com Trava Clip de bolso metal inox Caça Pesca Camping  Escorpiao",
-        "price": "38.88",
+        "price": "19.88",
         "priceDiscountRate": 22,
         "commissionRate": "0.03",
         "sales": 484,
@@ -31811,7 +31810,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mrc5kpu6ycxwb3",
       "link": "https://s.shopee.com.br/7Kx2UypTHy",
-      "rating": "4.6",
+      "rating": "4.7",
       "sales": 587,
       "shop": "mundo de ofertas PEDIU CHEGOU",
       "category": "boné pesca",
@@ -31823,7 +31822,7 @@
         "priceDiscountRate": 17,
         "commissionRate": "0.03",
         "sales": 587,
-        "ratingStar": "4.6",
+        "ratingStar": "4.7",
         "shopName": "mundo de ofertas PEDIU CHEGOU",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mrc5kpu6ycxwb3",
         "productLink": "https://shopee.com.br/product/1416544509/58215414144",
