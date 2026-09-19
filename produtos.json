@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T23:15:56.843283+00:00",
+  "updated_at": "2026-09-19T23:34:55.000127+00:00",
   "total": 1125,
   "products": [
     {
@@ -661,8 +661,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
         "productLink": "https://shopee.com.br/product/1266325318/21897981294",
         "offerLink": "https://s.shopee.com.br/2Vrp04PQ7s"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23294866358",
@@ -2398,35 +2397,6 @@
       "_last_price": null
     },
     {
-      "id": "23893129086",
-      "name": "30 unidades cabide redondo resistente adulto",
-      "price": 19.98,
-      "original_price": 68.9,
-      "discount": 71.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8owujawf6ohd6",
-      "link": "https://s.shopee.com.br/4Vcr7cDAJa",
-      "rating": "4.8",
-      "sales": 11911,
-      "shop": "Alfa Soluções Plásticas",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23893129086,
-        "productName": "30 unidades cabide redondo resistente adulto",
-        "price": "19.98",
-        "priceDiscountRate": 71,
-        "commissionRate": "0.03",
-        "sales": 11911,
-        "ratingStar": "4.8",
-        "shopName": "Alfa Soluções Plásticas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8owujawf6ohd6",
-        "productLink": "https://shopee.com.br/product/1405493675/23893129086",
-        "offerLink": "https://s.shopee.com.br/4Vcr7cDAJa"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23398908978",
       "name": "Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Carrinhos de Metal – Kit Infantil🦖🚚",
       "price": 74.99,
@@ -2915,7 +2885,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820lv-mnmwgkov9pfqf2",
         "productLink": "https://shopee.com.br/product/390180328/22693260071",
         "offerLink": "https://s.shopee.com.br/80CjIEYmxj"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58251073566",
@@ -4217,6 +4188,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mmrkprq4b3t080",
         "productLink": "https://shopee.com.br/product/786353833/58208348035",
         "offerLink": "https://s.shopee.com.br/5q8Ei28tiI"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23893129086",
+      "name": "30 unidades cabide redondo resistente adulto",
+      "price": 23.99,
+      "original_price": 70.56,
+      "discount": 66.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8owujawf6ohd6",
+      "link": "https://s.shopee.com.br/4Vcr7cDAJa",
+      "rating": "4.8",
+      "sales": 11911,
+      "shop": "Alfa Soluções Plásticas",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23893129086,
+        "productName": "30 unidades cabide redondo resistente adulto",
+        "price": "23.99",
+        "priceDiscountRate": 66,
+        "commissionRate": "0.03",
+        "sales": 11911,
+        "ratingStar": "4.8",
+        "shopName": "Alfa Soluções Plásticas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8owujawf6ohd6",
+        "productLink": "https://shopee.com.br/product/1405493675/23893129086",
+        "offerLink": "https://s.shopee.com.br/4Vcr7cDAJa"
       },
       "_last_price": null
     },
@@ -26986,8 +26986,8 @@
     {
       "id": "58215953803",
       "name": "Fonte de Alimentação 500W para PC ATX AMD Intel com PCI-E 6+2 Pinos SATA IDE 120mm Bivolt",
-      "price": 109.9,
-      "original_price": 150.55,
+      "price": 108.9,
+      "original_price": 149.18,
       "discount": 27.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mrrdbzsyf40404",
@@ -27000,7 +27000,7 @@
       "_item": {
         "itemId": 58215953803,
         "productName": "Fonte de Alimentação 500W para PC ATX AMD Intel com PCI-E 6+2 Pinos SATA IDE 120mm Bivolt",
-        "price": "109.9",
+        "price": "108.9",
         "priceDiscountRate": 27,
         "commissionRate": "0.03",
         "sales": 45,
