@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T08:35:59.728272+00:00",
+  "updated_at": "2026-09-19T08:54:57.071502+00:00",
   "total": 1122,
   "products": [
     {
@@ -4581,6 +4581,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-msg1gwd0j85j6d",
         "productLink": "https://shopee.com.br/product/1658934983/58204681823",
         "offerLink": "https://s.shopee.com.br/8plqHcV802"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58260912434",
+      "name": "Creatina Monohidratada Hardcore Original 100% Pura Ultimas Unidades",
+      "price": 30.9,
+      "original_price": 88.29,
+      "discount": 65.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-822xd-moehlogng7bj34",
+      "link": "https://s.shopee.com.br/1LfqkUqcmR",
+      "rating": "4.8",
+      "sales": 1213,
+      "shop": "Armazem_00",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58260912434,
+        "productName": "Creatina Monohidratada Hardcore Original 100% Pura Ultimas Unidades",
+        "price": "30.9",
+        "priceDiscountRate": 65,
+        "commissionRate": "0.13",
+        "sales": 1213,
+        "ratingStar": "4.8",
+        "shopName": "Armazem_00",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xd-moehlogng7bj34",
+        "productLink": "https://shopee.com.br/product/991509912/58260912434",
+        "offerLink": "https://s.shopee.com.br/1LfqkUqcmR"
       },
       "_last_price": null
     },
@@ -19950,35 +19979,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbpfco15qbtl09",
         "productLink": "https://shopee.com.br/product/1379729613/22598691591",
         "offerLink": "https://s.shopee.com.br/5VVOJUQDep"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58260024078",
-      "name": "Kit 2 Creatina Max Titanium 300g Pura",
-      "price": 89.99,
-      "original_price": 149.98,
-      "discount": 40.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mnsw2jxtutxe75",
-      "link": "https://s.shopee.com.br/6Al56iwk1C",
-      "rating": "5",
-      "sales": 1367,
-      "shop": "Hard Extreme",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58260024078,
-        "productName": "Kit 2 Creatina Max Titanium 300g Pura",
-        "price": "89.99",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.07",
-        "sales": 1367,
-        "ratingStar": "5",
-        "shopName": "Hard Extreme",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mnsw2jxtutxe75",
-        "productLink": "https://shopee.com.br/product/338537405/58260024078",
-        "offerLink": "https://s.shopee.com.br/6Al56iwk1C"
       },
       "_last_price": null
     },
