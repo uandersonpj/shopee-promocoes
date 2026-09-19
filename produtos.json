@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-19T21:40:07.889399+00:00",
-  "total": 1125,
+  "updated_at": "2026-09-19T21:59:19.494057+00:00",
+  "total": 1127,
   "products": [
     {
       "id": "52011120312",
@@ -28,7 +28,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qo-moodqvbtpo8yf2",
         "productLink": "https://shopee.com.br/product/1571156019/52011120312",
         "offerLink": "https://s.shopee.com.br/7ptJbJrWn0"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22394636674",
@@ -1206,8 +1207,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823p5-mp4meqki2g3k68",
         "productLink": "https://shopee.com.br/product/1006215031/47000945292",
         "offerLink": "https://s.shopee.com.br/9pePZGddSq"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22497773735",
@@ -1380,6 +1380,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1xeanm14pt61d",
         "productLink": "https://shopee.com.br/product/1017646777/22198016021",
         "offerLink": "https://s.shopee.com.br/1VzJEzAQSE"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "9511754133",
+      "name": "Creatina Max Titanium 300g Pura",
+      "price": 44.0,
+      "original_price": 183.33,
+      "discount": 76.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-22100-7b7tjvynfbivb7",
+      "link": "https://s.shopee.com.br/20vW94CbT1",
+      "rating": "4.9",
+      "sales": 13747,
+      "shop": "Hard Extreme",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 9511754133,
+        "productName": "Creatina Max Titanium 300g Pura",
+        "price": "44",
+        "priceDiscountRate": 76,
+        "commissionRate": "0.1",
+        "sales": 13747,
+        "ratingStar": "4.9",
+        "shopName": "Hard Extreme",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-7b7tjvynfbivb7",
+        "productLink": "https://shopee.com.br/product/338537405/9511754133",
+        "offerLink": "https://s.shopee.com.br/20vW94CbT1"
       },
       "_last_price": null
     },
@@ -3003,35 +3032,6 @@
       "_last_price": null
     },
     {
-      "id": "23498545555",
-      "name": "Moedor Multifuncional de Café e Especiarias 110V com Design em Aço Inoxidável 4 Lâminas",
-      "price": 30.99,
-      "original_price": 99.97,
-      "discount": 69.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rauz-maaicb4iiwzuae",
-      "link": "https://s.shopee.com.br/4qFhWJIfyB",
-      "rating": "4.9",
-      "sales": 1697,
-      "shop": "Pinduoduo Store",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498545555,
-        "productName": "Moedor Multifuncional de Café e Especiarias 110V com Design em Aço Inoxidável 4 Lâminas",
-        "price": "30.99",
-        "priceDiscountRate": 69,
-        "commissionRate": "0.03",
-        "sales": 1697,
-        "ratingStar": "4.9",
-        "shopName": "Pinduoduo Store",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rauz-maaicb4iiwzuae",
-        "productLink": "https://shopee.com.br/product/1060793149/23498545555",
-        "offerLink": "https://s.shopee.com.br/4qFhWJIfyB"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58202717993",
       "name": "Tênis Feminino KNW Premium Cadarço Grosso Acolchoado Lançamento Modinha",
       "price": 39.9,
@@ -3463,7 +3463,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyk-mch7z6c4ouee89",
         "productLink": "https://shopee.com.br/product/1489659102/42806494664",
         "offerLink": "https://s.shopee.com.br/6VNzMlCS7M"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "26538918731",
@@ -4621,35 +4622,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-msg1gwd0j85j6d",
         "productLink": "https://shopee.com.br/product/1658934983/58204681823",
         "offerLink": "https://s.shopee.com.br/8plqHcV802"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58260912434",
-      "name": "Creatina Monohidratada Hardcore Original 100% Pura Ultimas Unidades",
-      "price": 30.9,
-      "original_price": 88.29,
-      "discount": 65.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-822xd-moehlogng7bj34",
-      "link": "https://s.shopee.com.br/1LfqkUqcmR",
-      "rating": "4.8",
-      "sales": 1204,
-      "shop": "Armazem_00",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58260912434,
-        "productName": "Creatina Monohidratada Hardcore Original 100% Pura Ultimas Unidades",
-        "price": "30.9",
-        "priceDiscountRate": 65,
-        "commissionRate": "0.13",
-        "sales": 1204,
-        "ratingStar": "4.8",
-        "shopName": "Armazem_00",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xd-moehlogng7bj34",
-        "productLink": "https://shopee.com.br/product/991509912/58260912434",
-        "offerLink": "https://s.shopee.com.br/1LfqkUqcmR"
       },
       "_last_price": null
     },
@@ -7260,6 +7232,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rep2-m8i16u5pyp4wcf",
         "productLink": "https://shopee.com.br/product/407523450/23598387814",
         "offerLink": "https://s.shopee.com.br/7Kx4aaT2Lj"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23498545555",
+      "name": "Moedor Multifuncional de Café e Especiarias 110V com Design em Aço Inoxidável 4 Lâminas",
+      "price": 39.99,
+      "original_price": 99.97,
+      "discount": 60.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rauz-maaicb4iiwzuae",
+      "link": "https://s.shopee.com.br/4qFhWJIfyB",
+      "rating": "4.9",
+      "sales": 1697,
+      "shop": "Pinduoduo Store",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498545555,
+        "productName": "Moedor Multifuncional de Café e Especiarias 110V com Design em Aço Inoxidável 4 Lâminas",
+        "price": "39.99",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.03",
+        "sales": 1697,
+        "ratingStar": "4.9",
+        "shopName": "Pinduoduo Store",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rauz-maaicb4iiwzuae",
+        "productLink": "https://shopee.com.br/product/1060793149/23498545555",
+        "offerLink": "https://s.shopee.com.br/4qFhWJIfyB"
       },
       "_last_price": null
     },
@@ -14311,35 +14312,6 @@
       "_last_price": null
     },
     {
-      "id": "24242897638",
-      "name": "Calcinha Para Incontinência Com Bolsa Coleta De Urina , Solução Hermética De Drenagem Uso Acamado , Conforto , Higiene ,",
-      "price": 32.48,
-      "original_price": 62.46,
-      "discount": 48.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823r4-mp4ly31exkhuea",
-      "link": "https://s.shopee.com.br/2LYQEW7FlJ",
-      "rating": "4.8",
-      "sales": 1682,
-      "shop": "Choice Oficial",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 24242897638,
-        "productName": "Calcinha Para Incontinência Com Bolsa Coleta De Urina , Solução Hermética De Drenagem Uso Acamado , Conforto , Higiene ,",
-        "price": "32.48",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.07",
-        "sales": 1682,
-        "ratingStar": "4.8",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r4-mp4ly31exkhuea",
-        "productLink": "https://shopee.com.br/product/1006215031/24242897638",
-        "offerLink": "https://s.shopee.com.br/2LYQEW7FlJ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58204434373",
       "name": "VENTO LIVRE Garrafa Térmica Dopaminérgica 1000ml Aço 316 com Canudo, que pode ser usada como haltere",
       "price": 92.98,
@@ -16746,6 +16718,35 @@
       "_last_price": null
     },
     {
+      "id": "24242897638",
+      "name": "Calcinha Para Incontinência Com Bolsa Coleta De Urina , Solução Hermética De Drenagem Uso Acamado , Conforto , Higiene ,",
+      "price": 34.19,
+      "original_price": 62.16,
+      "discount": 45.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823r4-mp4ly31exkhuea",
+      "link": "https://s.shopee.com.br/2LYQEW7FlJ",
+      "rating": "4.8",
+      "sales": 1682,
+      "shop": "Choice Oficial",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 24242897638,
+        "productName": "Calcinha Para Incontinência Com Bolsa Coleta De Urina , Solução Hermética De Drenagem Uso Acamado , Conforto , Higiene ,",
+        "price": "34.19",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.07",
+        "sales": 1682,
+        "ratingStar": "4.8",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r4-mp4ly31exkhuea",
+        "productLink": "https://shopee.com.br/product/1006215031/24242897638",
+        "offerLink": "https://s.shopee.com.br/2LYQEW7FlJ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20999680446",
       "name": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
       "price": 197.9,
@@ -18308,35 +18309,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mrk484bz0yyuf6",
         "productLink": "https://shopee.com.br/product/316557325/23193702716",
         "offerLink": "https://s.shopee.com.br/7AdcIbnBWV"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58257194705",
-      "name": "Panela de Pressão Inox 6L 10L - Sistema Antiexplosão - 3 Níveis - Cozimento Rápido e Fácil",
-      "price": 303.0,
-      "original_price": 531.58,
-      "discount": 43.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mn9s3srklywy29",
-      "link": "https://s.shopee.com.br/6VNvVNpisZ",
-      "rating": "4.9",
-      "sales": 740,
-      "shop": "AMFA HOME",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58257194705,
-        "productName": "Panela de Pressão Inox 6L 10L - Sistema Antiexplosão - 3 Níveis - Cozimento Rápido e Fácil",
-        "price": "303",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.13",
-        "sales": 740,
-        "ratingStar": "4.9",
-        "shopName": "AMFA HOME",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mn9s3srklywy29",
-        "productLink": "https://shopee.com.br/product/1537812254/58257194705",
-        "offerLink": "https://s.shopee.com.br/6VNvVNpisZ"
       },
       "_last_price": null
     },
@@ -20023,6 +19995,35 @@
       "_last_price": null
     },
     {
+      "id": "58260024078",
+      "name": "Kit 2 Creatina Max Titanium 300g Pura",
+      "price": 89.99,
+      "original_price": 149.98,
+      "discount": 40.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mnsw2jxtutxe75",
+      "link": "https://s.shopee.com.br/6Al56iwk1C",
+      "rating": "5",
+      "sales": 1394,
+      "shop": "Hard Extreme",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58260024078,
+        "productName": "Kit 2 Creatina Max Titanium 300g Pura",
+        "price": "89.99",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.07",
+        "sales": 1394,
+        "ratingStar": "5",
+        "shopName": "Hard Extreme",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mnsw2jxtutxe75",
+        "productLink": "https://shopee.com.br/product/338537405/58260024078",
+        "offerLink": "https://s.shopee.com.br/6Al56iwk1C"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58212534130",
       "name": "Ração Para Gato Castrado Adulto 10,1kg Sabor Carne Frango 28g Proteína Sem Corante",
       "price": 77.99,
@@ -20251,6 +20252,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260s-mkwhm62zdurl9a",
         "productLink": "https://shopee.com.br/product/1062544851/20498962219",
         "offerLink": "https://s.shopee.com.br/9zxrVqkBop"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58257194705",
+      "name": "Panela de Pressão Inox 6L 10L - Sistema Antiexplosão - 3 Níveis - Cozimento Rápido e Fácil",
+      "price": 303.0,
+      "original_price": 505.0,
+      "discount": 40.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mn9s3srklywy29",
+      "link": "https://s.shopee.com.br/6VNvVNpisZ",
+      "rating": "4.9",
+      "sales": 740,
+      "shop": "AMFA HOME",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58257194705,
+        "productName": "Panela de Pressão Inox 6L 10L - Sistema Antiexplosão - 3 Níveis - Cozimento Rápido e Fácil",
+        "price": "303",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.13",
+        "sales": 740,
+        "ratingStar": "4.9",
+        "shopName": "AMFA HOME",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mn9s3srklywy29",
+        "productLink": "https://shopee.com.br/product/1537812254/58257194705",
+        "offerLink": "https://s.shopee.com.br/6VNvVNpisZ"
       },
       "_last_price": null
     },
@@ -28371,6 +28401,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb8t6kj9b7q75",
         "productLink": "https://shopee.com.br/product/1053409943/20398003234",
         "offerLink": "https://s.shopee.com.br/2BEwLQO5sg"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "25721342244",
+      "name": "Relógio Esportivo Digital Masculino À Prova D'água Silicone Pulseira Leve De Pulso Ao Ar Livre Presente",
+      "price": 9.83,
+      "original_price": 13.11,
+      "discount": 25.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823r8-mp4n5zizxs7f75",
+      "link": "https://s.shopee.com.br/20vW97xeWM",
+      "rating": "4.7",
+      "sales": 8267,
+      "shop": "Choice Oficial",
+      "category": "relogio masculino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 25721342244,
+        "productName": "Relógio Esportivo Digital Masculino À Prova D'água Silicone Pulseira Leve De Pulso Ao Ar Livre Presente",
+        "price": "9.83",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.07",
+        "sales": 8267,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r8-mp4n5zizxs7f75",
+        "productLink": "https://shopee.com.br/product/1006215031/25721342244",
+        "offerLink": "https://s.shopee.com.br/20vW97xeWM"
       },
       "_last_price": null
     },
