@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T13:21:48.633587+00:00",
+  "updated_at": "2026-09-19T13:40:45.919080+00:00",
   "total": 1126,
   "products": [
     {
@@ -1535,8 +1535,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aj-mqgalw9z1d6od8",
         "productLink": "https://shopee.com.br/product/1737409766/58263959925",
         "offerLink": "https://s.shopee.com.br/40gaWi5rkS"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23793414141",
@@ -5401,7 +5400,7 @@
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825aq-mq2p2g0hqf409e",
       "link": "https://s.shopee.com.br/3VkJvmYZWh",
-      "rating": "4.3",
+      "rating": "4.4",
       "sales": 809,
       "shop": "SENSACIONAL.CO",
       "category": "pano microfibra",
@@ -5413,7 +5412,7 @@
         "priceDiscountRate": 63,
         "commissionRate": "0.1",
         "sales": 809,
-        "ratingStar": "4.3",
+        "ratingStar": "4.4",
         "shopName": "SENSACIONAL.CO",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aq-mq2p2g0hqf409e",
         "productLink": "https://shopee.com.br/product/1598954512/52663081504",
@@ -10010,7 +10009,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mmqtorx784jl5d",
       "link": "https://s.shopee.com.br/7VGSh5TQJG",
-      "rating": "4.7",
+      "rating": "4.8",
       "sales": 1136,
       "shop": "REAL LIFE.BR",
       "category": "roteador wifi",
@@ -10022,7 +10021,7 @@
         "priceDiscountRate": 54,
         "commissionRate": "0.03",
         "sales": 1136,
-        "ratingStar": "4.7",
+        "ratingStar": "4.8",
         "shopName": "REAL LIFE.BR",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mmqtorx784jl5d",
         "productLink": "https://shopee.com.br/product/1412882242/58207485901",
@@ -25019,6 +25018,35 @@
       "_last_price": null
     },
     {
+      "id": "19899759854",
+      "name": "Dispenser Organizador Lavanderia 2,3 e 1,5 Litros Acrílico amaciante sabão em pó Lavanderia",
+      "price": 39.9,
+      "original_price": 57.83,
+      "discount": 31.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rasi-mabtceim9ichea",
+      "link": "https://s.shopee.com.br/80CjnShb0n",
+      "rating": "4.9",
+      "sales": 428,
+      "shop": "Souna Home",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19899759854,
+        "productName": "Dispenser Organizador Lavanderia 2,3 e 1,5 Litros Acrílico amaciante sabão em pó Lavanderia",
+        "price": "39.9",
+        "priceDiscountRate": 31,
+        "commissionRate": "0.03",
+        "sales": 428,
+        "ratingStar": "4.9",
+        "shopName": "Souna Home",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rasi-mabtceim9ichea",
+        "productLink": "https://shopee.com.br/product/838022405/19899759854",
+        "offerLink": "https://s.shopee.com.br/80CjnShb0n"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22497339634",
       "name": "Elástico Extensor Academia  Para Treino De Ombro, Bíceps Tríceps  Pilates Musculação Treino Pronta Entrega",
       "price": 7.99,
@@ -30264,35 +30292,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbk6-lp5mqrx2en7yae",
         "productLink": "https://shopee.com.br/product/320275364/17134946092",
         "offerLink": "https://s.shopee.com.br/4qFhWMD44q"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22698303819",
-      "name": "Caixa Para Ferramentas Caixa De Pesca Organizadora Resistente Envio Rapido",
-      "price": 19.75,
-      "original_price": 25.0,
-      "discount": 21.0,
-      "commission": 8.01,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6zmjx1j3okwfa",
-      "link": "https://s.shopee.com.br/1ATrCF4Pq",
-      "rating": "4.6",
-      "sales": 786,
-      "shop": "Wa Magazine PP",
-      "category": "caixa de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22698303819,
-        "productName": "Caixa Para Ferramentas Caixa De Pesca Organizadora Resistente Envio Rapido",
-        "price": "19.75",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.0801",
-        "sales": 786,
-        "ratingStar": "4.6",
-        "shopName": "Wa Magazine PP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6zmjx1j3okwfa",
-        "productLink": "https://shopee.com.br/product/1278337792/22698303819",
-        "offerLink": "https://s.shopee.com.br/1ATrCF4Pq"
       },
       "_last_price": null
     },
