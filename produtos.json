@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-19T16:32:18.884307+00:00",
-  "total": 1127,
+  "updated_at": "2026-09-19T16:51:22.236326+00:00",
+  "total": 1125,
   "products": [
     {
       "id": "52011120312",
@@ -2194,8 +2194,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-msxgtp629z477b",
         "productLink": "https://shopee.com.br/product/424883518/23098214172",
         "offerLink": "https://s.shopee.com.br/3B7TXIb0Ys"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23192646152",
@@ -3960,7 +3959,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mtape51h6ubnc7",
         "productLink": "https://shopee.com.br/product/1758772368/58213479973",
         "offerLink": "https://s.shopee.com.br/6Al56lqzYT"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "18998941239",
@@ -8453,35 +8453,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mnlw9ncbyq68fe",
         "productLink": "https://shopee.com.br/product/1744660455/58258087449",
         "offerLink": "https://s.shopee.com.br/1qc5wecCW0"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23997716034",
-      "name": "Switch Outemu Para Teclado Mecânico - Azul - Marrom - Vermelho - Linear - Tátil",
-      "price": 8.59,
-      "original_price": 19.98,
-      "discount": 57.0,
-      "commission": 17.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mm3q1qlir7d2e0",
-      "link": "https://s.shopee.com.br/3qNApn6jKg",
-      "rating": "4.9",
-      "sales": 253,
-      "shop": "Eastern Shop Imports",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23997716034,
-        "productName": "Switch Outemu Para Teclado Mecânico - Azul - Marrom - Vermelho - Linear - Tátil",
-        "price": "8.59",
-        "priceDiscountRate": 57,
-        "commissionRate": "0.17",
-        "sales": 253,
-        "ratingStar": "4.9",
-        "shopName": "Eastern Shop Imports",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mm3q1qlir7d2e0",
-        "productLink": "https://shopee.com.br/product/374734112/23997716034",
-        "offerLink": "https://s.shopee.com.br/3qNApn6jKg"
       },
       "_last_price": null
     },
@@ -14162,7 +14133,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mt08ily5h8uca4",
         "productLink": "https://shopee.com.br/product/287703953/57159028091",
         "offerLink": "https://s.shopee.com.br/1LfpLmGpGZ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23498554140",
@@ -15582,35 +15554,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259k-mqehkcibdt6z33",
         "productLink": "https://shopee.com.br/product/1700077021/58202842888",
         "offerLink": "https://s.shopee.com.br/1gIgFoEyj5"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58262491279",
-      "name": "Mouse Gamer K-Snake X11 Profissional RGB 12000DPI 3 Modos Wireless 2.4G Bluetooth USB com Dock de Carregamento",
-      "price": 114.99,
-      "original_price": 212.94,
-      "discount": 46.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824hw-mphcz2t5zojm5c",
-      "link": "https://s.shopee.com.br/5forg3anTd",
-      "rating": "4.9",
-      "sales": 619,
-      "shop": "TOP VENDA",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58262491279,
-        "productName": "Mouse Gamer K-Snake X11 Profissional RGB 12000DPI 3 Modos Wireless 2.4G Bluetooth USB com Dock de Carregamento",
-        "price": "114.99",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.03",
-        "sales": 619,
-        "ratingStar": "4.9",
-        "shopName": "TOP VENDA",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824hw-mphcz2t5zojm5c",
-        "productLink": "https://shopee.com.br/product/345632883/58262491279",
-        "offerLink": "https://s.shopee.com.br/5forg3anTd"
       },
       "_last_price": null
     },
@@ -22029,7 +21972,7 @@
       "price": 18.89,
       "original_price": 29.98,
       "discount": 37.0,
-      "commission": 23.0,
+      "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mpb0thffdkhv05",
       "link": "https://s.shopee.com.br/3qNE1PG326",
       "rating": "4.8",
@@ -22042,7 +21985,7 @@
         "productName": "MALETA COM  BANDEJA PLÁSTICA REFORÇADA CAIXA ORGANIZADORA /FERRAMENTA/JARDINAGEM/PESCA",
         "price": "18.89",
         "priceDiscountRate": 37,
-        "commissionRate": "0.23",
+        "commissionRate": "0.03",
         "sales": 191,
         "ratingStar": "4.8",
         "shopName": "JLF Utilidades Do Lar",
@@ -23624,7 +23567,7 @@
       "price": 51.77,
       "original_price": 78.44,
       "discount": 34.0,
-      "commission": 7.000000000000001,
+      "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823rj-mp1jxdevztohc0",
       "link": "https://s.shopee.com.br/5AsbbrAyKE",
       "rating": "4.9",
@@ -23637,7 +23580,7 @@
         "productName": "Maleta de Pesca Reforçada Premium 3 Bandejas Caixa Organizadora Grande Preto Multiuso",
         "price": "51.77",
         "priceDiscountRate": 34,
-        "commissionRate": "0.07",
+        "commissionRate": "0.03",
         "sales": 257,
         "ratingStar": "4.9",
         "shopName": "ApexVendas",
@@ -24381,7 +24324,7 @@
       "commission": 16.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825ad-mskmer1d47igcb",
       "link": "https://s.shopee.com.br/2BEybZsahe",
-      "rating": "5",
+      "rating": "4.9",
       "sales": 95,
       "shop": "Apluzes",
       "category": "colete salva vidas",
@@ -24393,7 +24336,7 @@
         "priceDiscountRate": 33,
         "commissionRate": "0.16",
         "sales": 95,
-        "ratingStar": "5",
+        "ratingStar": "4.9",
         "shopName": "Apluzes",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ad-mskmer1d47igcb",
         "productLink": "https://shopee.com.br/product/1635231952/48867141808",
@@ -27713,7 +27656,7 @@
       "price": 19.99,
       "original_price": 27.01,
       "discount": 26.0,
-      "commission": 8.0,
+      "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81zu8-ml5ftgkgqj9i7e",
       "link": "https://s.shopee.com.br/30o71sJDit",
       "rating": "4.8",
@@ -27726,7 +27669,7 @@
         "productName": "Caixa Maleta de Pesca Arqplast com Bandeja – Resistente e Organizadora",
         "price": "19.99",
         "priceDiscountRate": 26,
-        "commissionRate": "0.08",
+        "commissionRate": "0.03",
         "sales": 200,
         "ratingStar": "4.8",
         "shopName": "MegaMix Store 18",
@@ -31449,35 +31392,6 @@
       "_last_price": null
     },
     {
-      "id": "23294313967",
-      "name": "Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos - Caixa Container que Vira Pista 8758",
-      "price": 65.99,
-      "original_price": 80.48,
-      "discount": 18.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdd8fm7lv6lu8f",
-      "link": "https://s.shopee.com.br/60ReuPOJdq",
-      "rating": "4.8",
-      "sales": 1888,
-      "shop": "TAISHAN BRINQUEDOS",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23294313967,
-        "productName": "Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos - Caixa Container que Vira Pista 8758",
-        "price": "65.99",
-        "priceDiscountRate": 18,
-        "commissionRate": "0.13",
-        "sales": 1888,
-        "ratingStar": "4.8",
-        "shopName": "TAISHAN BRINQUEDOS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdd8fm7lv6lu8f",
-        "productLink": "https://shopee.com.br/product/1453333493/23294313967",
-        "offerLink": "https://s.shopee.com.br/60ReuPOJdq"
-      },
-      "_last_price": null
-    },
-    {
       "id": "11291617189",
       "name": "MALETA CAMPEÃ DE VENDAS Multiuso CAIXA PESCA com 2 Bandejas Ferramentas, Caixa Organizadora TOY",
       "price": 28.9,
@@ -31909,6 +31823,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reqh-m8cdhwq6myz5e6",
         "productLink": "https://shopee.com.br/product/1502069336/23693885927",
         "offerLink": "https://s.shopee.com.br/7AdcITUgzE"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58254046357",
+      "name": "Teclado Gamer Semi-Mecânico USB Iluminação LED RGB Rainbow Anti-Ghosting Resistente a Agua ABNT2",
+      "price": 41.97,
+      "original_price": 49.96,
+      "discount": 16.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1n7p6463nq79",
+      "link": "https://s.shopee.com.br/5fooVj9X3H",
+      "rating": "4.8",
+      "sales": 1097,
+      "shop": "RAMI STORE COM",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58254046357,
+        "productName": "Teclado Gamer Semi-Mecânico USB Iluminação LED RGB Rainbow Anti-Ghosting Resistente a Agua ABNT2",
+        "price": "41.97",
+        "priceDiscountRate": 16,
+        "commissionRate": "0.08",
+        "sales": 1097,
+        "ratingStar": "4.8",
+        "shopName": "RAMI STORE COM",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mp1n7p6463nq79",
+        "productLink": "https://shopee.com.br/product/1362302335/58254046357",
+        "offerLink": "https://s.shopee.com.br/5fooVj9X3H"
       },
       "_last_price": null
     },
@@ -32614,7 +32557,7 @@
       "price": 21.2,
       "original_price": 24.94,
       "discount": 15.0,
-      "commission": 8.0,
+      "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mmurfl84liblf4",
       "link": "https://s.shopee.com.br/BTu3VER4t",
       "rating": "4.7",
@@ -32627,7 +32570,7 @@
         "productName": "Maleta Caixa de Ferramentas Pesca Organizadora Pro Alta Resistente Reforçada Promoção Envio Rápido!!",
         "price": "21.2",
         "priceDiscountRate": 15,
-        "commissionRate": "0.08",
+        "commissionRate": "0.03",
         "sales": 601,
         "ratingStar": "4.7",
         "shopName": "JPB  E-commerce",
