@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T17:10:43.324478+00:00",
+  "updated_at": "2026-09-19T17:29:57.992100+00:00",
   "total": 1125,
   "products": [
     {
@@ -200,8 +200,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134275-7rdxw-mdfucal40l6y57",
         "productLink": "https://shopee.com.br/product/236693678/26539956454",
         "offerLink": "https://s.shopee.com.br/8fSQlKcMol"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "49207406104",
@@ -27361,6 +27360,35 @@
       "_last_price": null
     },
     {
+      "id": "22998349138",
+      "name": "Fonte atx Seasonic 300W 80 Plus",
+      "price": 89.0,
+      "original_price": 120.27,
+      "discount": 26.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7pbe9d0oriae7",
+      "link": "https://s.shopee.com.br/2LYOnhs4MB",
+      "rating": "4.9",
+      "sales": 34,
+      "shop": "Lírio variedades",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22998349138,
+        "productName": "Fonte atx Seasonic 300W 80 Plus",
+        "price": "89",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.03",
+        "sales": 34,
+        "ratingStar": "4.9",
+        "shopName": "Lírio variedades",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7pbe9d0oriae7",
+        "productLink": "https://shopee.com.br/product/965583949/22998349138",
+        "offerLink": "https://s.shopee.com.br/2LYOnhs4MB"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58214345923",
       "name": "Kit Coala Laundry Chá Branco - 1 Lava Roupas 3L + 1 Amaciante Concentrado",
       "price": 49.9,
@@ -27769,8 +27797,8 @@
     {
       "id": "58202494237",
       "name": "Dispensador automático de desinfetante para as mãos com sensor inteligente",
-      "price": 52.99,
-      "original_price": 70.65,
+      "price": 53.99,
+      "original_price": 71.99,
       "discount": 25.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mitoejy7cuf53b",
@@ -27783,7 +27811,7 @@
       "_item": {
         "itemId": 58202494237,
         "productName": "Dispensador automático de desinfetante para as mãos com sensor inteligente",
-        "price": "52.99",
+        "price": "53.99",
         "priceDiscountRate": 25,
         "commissionRate": "0.03",
         "sales": 2086,
@@ -29822,35 +29850,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbnuspwqlx2f8e",
         "productLink": "https://shopee.com.br/product/1494297971/18498284404",
         "offerLink": "https://s.shopee.com.br/80CjI1I2ef"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22998349138",
-      "name": "Fonte atx Seasonic 300W 80 Plus",
-      "price": 95.0,
-      "original_price": 120.25,
-      "discount": 21.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7pbe9d0oriae7",
-      "link": "https://s.shopee.com.br/2LYOnhs4MB",
-      "rating": "4.9",
-      "sales": 34,
-      "shop": "Lírio variedades",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22998349138,
-        "productName": "Fonte atx Seasonic 300W 80 Plus",
-        "price": "95",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.03",
-        "sales": 34,
-        "ratingStar": "4.9",
-        "shopName": "Lírio variedades",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7pbe9d0oriae7",
-        "productLink": "https://shopee.com.br/product/965583949/22998349138",
-        "offerLink": "https://s.shopee.com.br/2LYOnhs4MB"
       },
       "_last_price": null
     },
