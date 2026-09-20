@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T01:29:36.594605+00:00",
+  "updated_at": "2026-09-20T01:48:26.692971+00:00",
   "total": 1127,
   "products": [
     {
@@ -172,7 +172,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m94jsi5hwaol47",
         "productLink": "https://shopee.com.br/product/1127030290/23593603405",
         "offerLink": "https://s.shopee.com.br/1qc5wfX7fC"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "26539956454",
@@ -5493,8 +5494,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcg3jc4sr6xsfd",
         "productLink": "https://shopee.com.br/product/1221820593/20899842747",
         "offerLink": "https://s.shopee.com.br/112yxFgP6B"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "11485271859",
@@ -16283,6 +16283,35 @@
       "_last_price": null
     },
     {
+      "id": "25758322818",
+      "name": "300pcs/Pack Silicon Fishing Line Space Bean Stoppers Cilindro Flutuador Oval Sinker Stops Equipamento De Pesca E3G2",
+      "price": 14.2,
+      "original_price": 26.3,
+      "discount": 46.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbmh-lqfui4b1hnvq5f",
+      "link": "https://s.shopee.com.br/7AdcIhKdZs",
+      "rating": "4.9",
+      "sales": 22,
+      "shop": "cfstore1.br",
+      "category": "flutuador pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 25758322818,
+        "productName": "300pcs/Pack Silicon Fishing Line Space Bean Stoppers Cilindro Flutuador Oval Sinker Stops Equipamento De Pesca E3G2",
+        "price": "14.2",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.11",
+        "sales": 22,
+        "ratingStar": "4.9",
+        "shopName": "cfstore1.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbmh-lqfui4b1hnvq5f",
+        "productLink": "https://shopee.com.br/product/242908750/25758322818",
+        "offerLink": "https://s.shopee.com.br/7AdcIhKdZs"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22992918592",
       "name": "ADESIVO PERSONALIZADO 4x4 CM | RECORTE ELETRÔNICO | IMPERMEÁVEL | LOGO DA SUA MARCA + BRINDE!",
       "price": 9.9,
@@ -17704,35 +17733,6 @@
       "_last_price": null
     },
     {
-      "id": "25758322818",
-      "name": "300pcs/Pack Silicon Fishing Line Space Bean Stoppers Cilindro Flutuador Oval Sinker Stops Equipamento De Pesca E3G2",
-      "price": 14.88,
-      "original_price": 26.57,
-      "discount": 44.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbmh-lqfui4b1hnvq5f",
-      "link": "https://s.shopee.com.br/7AdcIhKdZs",
-      "rating": "4.9",
-      "sales": 22,
-      "shop": "cfstore1.br",
-      "category": "flutuador pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 25758322818,
-        "productName": "300pcs/Pack Silicon Fishing Line Space Bean Stoppers Cilindro Flutuador Oval Sinker Stops Equipamento De Pesca E3G2",
-        "price": "14.88",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.11",
-        "sales": 22,
-        "ratingStar": "4.9",
-        "shopName": "cfstore1.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbmh-lqfui4b1hnvq5f",
-        "productLink": "https://shopee.com.br/product/242908750/25758322818",
-        "offerLink": "https://s.shopee.com.br/7AdcIhKdZs"
-      },
-      "_last_price": null
-    },
-    {
       "id": "55501913565",
       "name": "Enrolador de Linha Polinha Suporte para linha de pesca Compatível com Varas Simples e Telescópicas",
       "price": 2.5,
@@ -19048,7 +19048,7 @@
       "link": "https://s.shopee.com.br/6VNvVEg9th",
       "rating": "4.9",
       "sales": 44,
-      "shop": "acasis.br",
+      "shop": "ACASIS Store",
       "category": "ssd nvme",
       "source": "shopee",
       "_item": {
@@ -19059,7 +19059,7 @@
         "commissionRate": "0.08",
         "sales": 44,
         "ratingStar": "4.9",
-        "shopName": "acasis.br",
+        "shopName": "ACASIS Store",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mst8d0jzsw09e4",
         "productLink": "https://shopee.com.br/product/992814391/41165421078",
         "offerLink": "https://s.shopee.com.br/6VNvVEg9th"
@@ -23852,35 +23852,6 @@
       "_last_price": null
     },
     {
-      "id": "12782096688",
-      "name": "Kit S.O.S Hidratação Óleo de Rícino Shampoo e Condicionador Litrão Salon Line",
-      "price": 49.25,
-      "original_price": 73.51,
-      "discount": 33.0,
-      "commission": 21.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mq80n6l4qkub32",
-      "link": "https://s.shopee.com.br/3LQtjU8P68",
-      "rating": "4.9",
-      "sales": 4191,
-      "shop": "Salon Line",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 12782096688,
-        "productName": "Kit S.O.S Hidratação Óleo de Rícino Shampoo e Condicionador Litrão Salon Line",
-        "price": "49.25",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.21",
-        "sales": 4191,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mq80n6l4qkub32",
-        "productLink": "https://shopee.com.br/product/616222685/12782096688",
-        "offerLink": "https://s.shopee.com.br/3LQtjU8P68"
-      },
-      "_last_price": null
-    },
-    {
       "id": "14463127889",
       "name": "Kit S.O.S Hidratação Azeite de Oliva Shampoo e Condicionador Litrão Salon Line",
       "price": 49.25,
@@ -27531,6 +27502,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6wwo48snxwn8a",
         "productLink": "https://shopee.com.br/product/665367909/22593748951",
         "offerLink": "https://s.shopee.com.br/7AdcIW30uN"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "12782096688",
+      "name": "Kit S.O.S Hidratação Óleo de Rícino Shampoo e Condicionador Litrão Salon Line",
+      "price": 54.12,
+      "original_price": 73.14,
+      "discount": 26.0,
+      "commission": 21.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mq80n6l4qkub32",
+      "link": "https://s.shopee.com.br/3LQtjU8P68",
+      "rating": "4.9",
+      "sales": 4191,
+      "shop": "Salon Line",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 12782096688,
+        "productName": "Kit S.O.S Hidratação Óleo de Rícino Shampoo e Condicionador Litrão Salon Line",
+        "price": "54.12",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.21",
+        "sales": 4191,
+        "ratingStar": "4.9",
+        "shopName": "Salon Line",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mq80n6l4qkub32",
+        "productLink": "https://shopee.com.br/product/616222685/12782096688",
+        "offerLink": "https://s.shopee.com.br/3LQtjU8P68"
       },
       "_last_price": null
     },
