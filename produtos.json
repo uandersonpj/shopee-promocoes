@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-20T04:58:35.692491+00:00",
-  "total": 1129,
+  "updated_at": "2026-09-20T05:17:21.984165+00:00",
+  "total": 1130,
   "products": [
     {
       "id": "52011120312",
@@ -3354,7 +3354,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b5-mt4n85gao35x12",
         "productLink": "https://shopee.com.br/product/832040275/22495754071",
         "offerLink": "https://s.shopee.com.br/70KGtPyrVe"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "51004391053",
@@ -24984,6 +24985,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mswtj8osgjr826",
         "productLink": "https://shopee.com.br/product/316557325/20399578507",
         "offerLink": "https://s.shopee.com.br/1BMTwfv0S6"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19899759854",
+      "name": "Dispenser Organizador Lavanderia 2,3 e 1,5 Litros Acrílico amaciante sabão em pó Lavanderia",
+      "price": 39.9,
+      "original_price": 57.83,
+      "discount": 31.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rasi-mabtceim9ichea",
+      "link": "https://s.shopee.com.br/8fSUsSSSEn",
+      "rating": "4.9",
+      "sales": 422,
+      "shop": "Souna Home",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19899759854,
+        "productName": "Dispenser Organizador Lavanderia 2,3 e 1,5 Litros Acrílico amaciante sabão em pó Lavanderia",
+        "price": "39.9",
+        "priceDiscountRate": 31,
+        "commissionRate": "0.03",
+        "sales": 422,
+        "ratingStar": "4.9",
+        "shopName": "Souna Home",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rasi-mabtceim9ichea",
+        "productLink": "https://shopee.com.br/product/838022405/19899759854",
+        "offerLink": "https://s.shopee.com.br/8fSUsSSSEn"
       },
       "_last_price": null
     },
