@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T05:17:21.984165+00:00",
+  "updated_at": "2026-09-20T05:36:14.139647+00:00",
   "total": 1130,
   "products": [
     {
@@ -665,7 +665,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
         "productLink": "https://shopee.com.br/product/1266325318/21897981294",
         "offerLink": "https://s.shopee.com.br/4fwM79kwFH"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23294866358",
@@ -6861,6 +6862,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mrso0o76o9hjc8",
         "productLink": "https://shopee.com.br/product/1833299974/51660992141",
         "offerLink": "https://s.shopee.com.br/6Al9u1KfDo"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "25669672370",
+      "name": "Isca Artificial Whopper Popper 13g/10cm 6cm/6g Rotativa Flutuante Iscas De Pesca Top Água Atraindo peixes",
+      "price": 2.9,
+      "original_price": 7.44,
+      "discount": 61.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcca-lt13vvuslr1ef1",
+      "link": "https://s.shopee.com.br/3qNF7kBc2F",
+      "rating": "4.9",
+      "sales": 478,
+      "shop": "zhongyu.br",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 25669672370,
+        "productName": "Isca Artificial Whopper Popper 13g/10cm 6cm/6g Rotativa Flutuante Iscas De Pesca Top Água Atraindo peixes",
+        "price": "2.9",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.03",
+        "sales": 478,
+        "ratingStar": "4.9",
+        "shopName": "zhongyu.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcca-lt13vvuslr1ef1",
+        "productLink": "https://shopee.com.br/product/647546523/25669672370",
+        "offerLink": "https://s.shopee.com.br/3qNF7kBc2F"
       },
       "_last_price": null
     },
@@ -22578,35 +22608,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m62mppxtxh9u86",
         "productLink": "https://shopee.com.br/product/858096792/22092833789",
         "offerLink": "https://s.shopee.com.br/5VVT6mWKy4"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "25669672370",
-      "name": "Isca Artificial Whopper Popper 13g/10cm 6cm/6g Rotativa Flutuante Iscas De Pesca Top Água Atraindo peixes",
-      "price": 7.9,
-      "original_price": 12.34,
-      "discount": 36.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcca-lt13vvuslr1ef1",
-      "link": "https://s.shopee.com.br/3qNF7kBc2F",
-      "rating": "4.9",
-      "sales": 478,
-      "shop": "zhongyu.br",
-      "category": "isca artificial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 25669672370,
-        "productName": "Isca Artificial Whopper Popper 13g/10cm 6cm/6g Rotativa Flutuante Iscas De Pesca Top Água Atraindo peixes",
-        "price": "7.9",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.03",
-        "sales": 478,
-        "ratingStar": "4.9",
-        "shopName": "zhongyu.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcca-lt13vvuslr1ef1",
-        "productLink": "https://shopee.com.br/product/647546523/25669672370",
-        "offerLink": "https://s.shopee.com.br/3qNF7kBc2F"
       },
       "_last_price": null
     },
