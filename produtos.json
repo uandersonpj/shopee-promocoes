@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T21:21:53.555598+00:00",
+  "updated_at": "2026-09-20T21:41:22.610779+00:00",
   "total": 1125,
   "products": [
     {
@@ -172,7 +172,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1zzq6l901gfa2",
         "productLink": "https://shopee.com.br/product/322874822/23797686527",
         "offerLink": "https://s.shopee.com.br/7ptNt3Wj36"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23593603405",
@@ -257,8 +258,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-msxmjc85bkzr38",
         "productLink": "https://shopee.com.br/product/1198407784/23497594302",
         "offerLink": "https://s.shopee.com.br/6VO0ne85Ou"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58265198384",
@@ -2524,7 +2524,7 @@
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-820mz-mnmefs2dgykgb0",
       "link": "https://s.shopee.com.br/9peSGl6hmc",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 328,
       "shop": "yaofly.br",
       "category": "anzol",
@@ -2536,7 +2536,7 @@
         "priceDiscountRate": 71,
         "commissionRate": "0.09",
         "sales": 328,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "yaofly.br",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820mz-mnmefs2dgykgb0",
         "productLink": "https://shopee.com.br/product/1485699637/56957926618",
@@ -23129,8 +23129,8 @@
     {
       "id": "23599134541",
       "name": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
-      "price": 229.0,
-      "original_price": 352.31,
+      "price": 174.9,
+      "original_price": 269.08,
       "discount": 35.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mt48ktda0sud91",
@@ -23143,7 +23143,7 @@
       "_item": {
         "itemId": 23599134541,
         "productName": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
-        "price": "229",
+        "price": "174.9",
         "priceDiscountRate": 35,
         "commissionRate": "0.03",
         "sales": 877,
