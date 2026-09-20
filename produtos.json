@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T01:10:53.089222+00:00",
+  "updated_at": "2026-09-20T01:29:36.594605+00:00",
   "total": 1127,
   "products": [
     {
@@ -605,7 +605,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
         "productLink": "https://shopee.com.br/product/344381236/57911938287",
         "offerLink": "https://s.shopee.com.br/5AsXuoSpOo"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22494449171",
@@ -8020,8 +8021,8 @@
     {
       "id": "22092998564",
       "name": "Creatina Monohidratada Pura 1kg, 500g, 600, 300g e 150g - Dark Lab",
-      "price": 29.9,
-      "original_price": 71.19,
+      "price": 32.9,
+      "original_price": 78.33,
       "discount": 58.0,
       "commission": 26.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ld-ms0e8jfsnb45e1",
@@ -8034,7 +8035,7 @@
       "_item": {
         "itemId": 22092998564,
         "productName": "Creatina Monohidratada Pura 1kg, 500g, 600, 300g e 150g - Dark Lab",
-        "price": "29.9",
+        "price": "32.9",
         "priceDiscountRate": 58,
         "commissionRate": "0.26",
         "sales": 14811,
@@ -10421,8 +10422,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zul-mkkkrv8mwtmraf",
         "productLink": "https://shopee.com.br/product/593088966/22493277109",
         "offerLink": "https://s.shopee.com.br/3VkJvrNkg3"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22198068260",
