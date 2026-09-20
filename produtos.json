@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T08:06:45.879929+00:00",
+  "updated_at": "2026-09-20T08:25:32.091522+00:00",
   "total": 1129,
   "products": [
     {
@@ -2898,7 +2898,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820m4-mnkc728pehag67",
         "productLink": "https://shopee.com.br/product/372103398/23199448516",
         "offerLink": "https://s.shopee.com.br/4fwM7Ilhcs"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22693260071",
@@ -5251,8 +5252,8 @@
     {
       "id": "45706140613",
       "name": "100M/300M/500M Camuflada Linha De Pesca Invisível , Fluorocarbono Salpicada De Nylon , Marca Forte , 0.20mm-0.50mm",
-      "price": 20.58,
-      "original_price": 57.17,
+      "price": 29.99,
+      "original_price": 83.31,
       "discount": 64.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpt5n1hfb1n240",
@@ -5265,7 +5266,7 @@
       "_item": {
         "itemId": 45706140613,
         "productName": "100M/300M/500M Camuflada Linha De Pesca Invisível , Fluorocarbono Salpicada De Nylon , Marca Forte , 0.20mm-0.50mm",
-        "price": "20.58",
+        "price": "29.99",
         "priceDiscountRate": 64,
         "commissionRate": "0.03",
         "sales": 360,
