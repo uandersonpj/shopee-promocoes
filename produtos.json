@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T11:34:20.579363+00:00",
+  "updated_at": "2026-09-20T11:53:17.580670+00:00",
   "total": 1125,
   "products": [
     {
@@ -8667,8 +8667,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mqowmslbsmirfd",
         "productLink": "https://shopee.com.br/product/1396794386/22298882024",
         "offerLink": "https://s.shopee.com.br/2LYRpwphCJ"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23594943408",
@@ -12791,8 +12790,8 @@
     {
       "id": "58265081114",
       "name": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-      "price": 9.99,
-      "original_price": 19.98,
+      "price": 10.99,
+      "original_price": 21.98,
       "discount": 50.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
@@ -12805,7 +12804,7 @@
       "_item": {
         "itemId": 58265081114,
         "productName": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-        "price": "9.99",
+        "price": "10.99",
         "priceDiscountRate": 50,
         "commissionRate": "0.13",
         "sales": 2927,
@@ -23460,35 +23459,6 @@
       "_last_price": null
     },
     {
-      "id": "58254463290",
-      "name": "Ração Special Dog Ultralife Performance 20kg Cães Adultos Carne e Frango Premium Alta Nutrição",
-      "price": 171.9,
-      "original_price": 260.45,
-      "discount": 34.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-msho1bjgdts6a2",
-      "link": "https://s.shopee.com.br/1AX3eyZvd",
-      "rating": "4.9",
-      "sales": 1078,
-      "shop": "Topfive.Business",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58254463290,
-        "productName": "Ração Special Dog Ultralife Performance 20kg Cães Adultos Carne e Frango Premium Alta Nutrição",
-        "price": "171.9",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.03",
-        "sales": 1078,
-        "ratingStar": "4.9",
-        "shopName": "Topfive.Business",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-msho1bjgdts6a2",
-        "productLink": "https://shopee.com.br/product/327707556/58254463290",
-        "offerLink": "https://s.shopee.com.br/1AX3eyZvd"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58209434564",
       "name": "Cafeteira Elétrica Com Jarra Moderna 600ML15 Xícaras 550w",
       "price": 79.0,
@@ -27110,6 +27080,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4e-m6nn8a9m83zd6c",
         "productLink": "https://shopee.com.br/product/1502312481/45104154361",
         "offerLink": "https://s.shopee.com.br/4VcvusBZFO"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18398355263",
+      "name": "Ração pra Cães Adultos Special sabor Frango e Carne 15kg Golden",
+      "price": 144.02,
+      "original_price": 197.29,
+      "discount": 27.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259k-mg5l2f32aex893",
+      "link": "https://s.shopee.com.br/7ptNt0Y0S7",
+      "rating": "4.9",
+      "sales": 447,
+      "shop": "Chegô",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18398355263,
+        "productName": "Ração pra Cães Adultos Special sabor Frango e Carne 15kg Golden",
+        "price": "144.02",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.03",
+        "sales": 447,
+        "ratingStar": "4.9",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259k-mg5l2f32aex893",
+        "productLink": "https://shopee.com.br/product/1248266601/18398355263",
+        "offerLink": "https://s.shopee.com.br/7ptNt0Y0S7"
       },
       "_last_price": null
     },
