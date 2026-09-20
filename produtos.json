@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T00:32:54.152184+00:00",
+  "updated_at": "2026-09-20T00:52:04.802475+00:00",
   "total": 1127,
   "products": [
     {
@@ -3753,8 +3753,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ip-mptky1r9yfin49",
         "productLink": "https://shopee.com.br/product/1107644568/22193849980",
         "offerLink": "https://s.shopee.com.br/112zSe2Z29"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "51004391053",
@@ -13331,7 +13330,7 @@
       "price": 29.9,
       "original_price": 59.8,
       "discount": 50.0,
-      "commission": 3.0,
+      "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdnyjdmxoqfl3f",
       "link": "https://s.shopee.com.br/4fwHK1EZnv",
       "rating": "4.8",
@@ -13344,7 +13343,7 @@
         "productName": "Tênis Feminino calce facil Flexível Ortopédico Slip On Caminhada Unissex Antiderrapante barato",
         "price": "29.9",
         "priceDiscountRate": 50,
-        "commissionRate": "0.03",
+        "commissionRate": "0.11",
         "sales": 2937,
         "ratingStar": "4.8",
         "shopName": "ZatyShoes",
@@ -14598,7 +14597,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7azorh5y4i4dd",
         "productLink": "https://shopee.com.br/product/1619868980/22294439852",
         "offerLink": "https://s.shopee.com.br/9peNTZOQLV"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22198950257",
@@ -26810,35 +26810,6 @@
       "_last_price": null
     },
     {
-      "id": "21997920517",
-      "name": "Vara Telescópica Traíra Gomo Longo Verde 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
-      "price": 44.99,
-      "original_price": 62.49,
-      "discount": 28.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfg7-m3nns1rislrb02",
-      "link": "https://s.shopee.com.br/112yxIf3Qs",
-      "rating": "4.9",
-      "sales": 1040,
-      "shop": "JAUPESCA",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21997920517,
-        "productName": "Vara Telescópica Traíra Gomo Longo Verde 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
-        "price": "44.99",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.07",
-        "sales": 1040,
-        "ratingStar": "4.9",
-        "shopName": "JAUPESCA",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg7-m3nns1rislrb02",
-        "productLink": "https://shopee.com.br/product/954428278/21997920517",
-        "offerLink": "https://s.shopee.com.br/112yxIf3Qs"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22499048135",
       "name": "Kit 2 Suporte Vara Pesca Esportiva Barranco Médio Reforçado Portátil 30Cm 5MM",
       "price": 22.99,
@@ -27015,8 +26986,8 @@
     {
       "id": "58215953803",
       "name": "Fonte de Alimentação 500W para PC ATX AMD Intel com PCI-E 6+2 Pinos SATA IDE 120mm Bivolt",
-      "price": 108.9,
-      "original_price": 149.18,
+      "price": 109.9,
+      "original_price": 150.55,
       "discount": 27.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mrrdbzsyf40404",
@@ -27029,7 +27000,7 @@
       "_item": {
         "itemId": 58215953803,
         "productName": "Fonte de Alimentação 500W para PC ATX AMD Intel com PCI-E 6+2 Pinos SATA IDE 120mm Bivolt",
-        "price": "108.9",
+        "price": "109.9",
         "priceDiscountRate": 27,
         "commissionRate": "0.03",
         "sales": 45,
@@ -28894,6 +28865,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1jeillccxqp82",
         "productLink": "https://shopee.com.br/product/895045435/23193474101",
         "offerLink": "https://s.shopee.com.br/40gaWlmeRP"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21997920517",
+      "name": "Vara Telescópica Traíra Gomo Longo Verde 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
+      "price": 49.87,
+      "original_price": 65.62,
+      "discount": 24.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfg7-m3nns1rislrb02",
+      "link": "https://s.shopee.com.br/112yxIf3Qs",
+      "rating": "4.9",
+      "sales": 1040,
+      "shop": "JAUPESCA",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21997920517,
+        "productName": "Vara Telescópica Traíra Gomo Longo Verde 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
+        "price": "49.87",
+        "priceDiscountRate": 24,
+        "commissionRate": "0.07",
+        "sales": 1040,
+        "ratingStar": "4.9",
+        "shopName": "JAUPESCA",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg7-m3nns1rislrb02",
+        "productLink": "https://shopee.com.br/product/954428278/21997920517",
+        "offerLink": "https://s.shopee.com.br/112yxIf3Qs"
       },
       "_last_price": null
     },
