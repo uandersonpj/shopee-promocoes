@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-20T16:59:37.361573+00:00",
-  "total": 1112,
+  "updated_at": "2026-09-20T17:19:46.578426+00:00",
+  "total": 1124,
   "products": [
     {
       "id": "50203126324",
@@ -3267,8 +3267,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mrm1isre6juu61",
         "productLink": "https://shopee.com.br/product/1588692817/50815623138",
         "offerLink": "https://s.shopee.com.br/3B7YyYewwV"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "51004391053",
@@ -3383,6 +3382,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mlq1ob393uvb2b",
         "productLink": "https://shopee.com.br/product/1669666744/58206781154",
         "offerLink": "https://s.shopee.com.br/4fwMcHF47i"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23494180407",
+      "name": "Carretilha Moinho de Pesca HE 1000-7000 Metal EVA 10kg Máximo Água Salada Oceano Carretel Metálico",
+      "price": 25.99,
+      "original_price": 81.22,
+      "discount": 68.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ra1a-mbjbbhgogn4q6c",
+      "link": "https://s.shopee.com.br/80Co5NMotJ",
+      "rating": "4.7",
+      "sales": 253,
+      "shop": "DiaEconômico",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23494180407,
+        "productName": "Carretilha Moinho de Pesca HE 1000-7000 Metal EVA 10kg Máximo Água Salada Oceano Carretel Metálico",
+        "price": "25.99",
+        "priceDiscountRate": 68,
+        "commissionRate": "0.1",
+        "sales": 253,
+        "ratingStar": "4.7",
+        "shopName": "DiaEconômico",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra1a-mbjbbhgogn4q6c",
+        "productLink": "https://shopee.com.br/product/1398716274/23494180407",
+        "offerLink": "https://s.shopee.com.br/80Co5NMotJ"
       },
       "_last_price": null
     },
@@ -4662,6 +4690,64 @@
       "_last_price": null
     },
     {
+      "id": "22797770364",
+      "name": "Vara de Pesca Telescópica 1.8-3.6M Super Dura Ultra Leve Longo Alcance Profissional para Molinete Praia Mar Rio Lago",
+      "price": 26.8,
+      "original_price": 76.57,
+      "discount": 65.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcdx-ltmivw9kdxo22a",
+      "link": "https://s.shopee.com.br/30o88EaF6V",
+      "rating": "4.8",
+      "sales": 131,
+      "shop": "warm11.br",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22797770364,
+        "productName": "Vara de Pesca Telescópica 1.8-3.6M Super Dura Ultra Leve Longo Alcance Profissional para Molinete Praia Mar Rio Lago",
+        "price": "26.8",
+        "priceDiscountRate": 65,
+        "commissionRate": "0.12",
+        "sales": 131,
+        "ratingStar": "4.8",
+        "shopName": "warm11.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdx-ltmivw9kdxo22a",
+        "productLink": "https://shopee.com.br/product/1171921876/22797770364",
+        "offerLink": "https://s.shopee.com.br/30o88EaF6V"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "17137692121",
+      "name": "Carretilha de Pesca Anti Cabeleira 18 Rolamentos Freio Magnético 7.2:1 Mão Esquerda/Direita, Perfil Alto, Marine Sports",
+      "price": 79.89,
+      "original_price": 228.26,
+      "discount": 65.0,
+      "commission": 17.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxdslu8xb9fafe",
+      "link": "https://s.shopee.com.br/6L4a6JTAHD",
+      "rating": "4.8",
+      "sales": 123,
+      "shop": "CLASSI ELETRONICOS EIRELI",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 17137692121,
+        "productName": "Carretilha de Pesca Anti Cabeleira 18 Rolamentos Freio Magnético 7.2:1 Mão Esquerda/Direita, Perfil Alto, Marine Sports",
+        "price": "79.89",
+        "priceDiscountRate": 65,
+        "commissionRate": "0.17",
+        "sales": 123,
+        "ratingStar": "4.8",
+        "shopName": "CLASSI ELETRONICOS EIRELI",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxdslu8xb9fafe",
+        "productLink": "https://shopee.com.br/product/431877409/17137692121",
+        "offerLink": "https://s.shopee.com.br/6L4a6JTAHD"
+      },
+      "_last_price": null
+    },
+    {
       "id": "17570976729",
       "name": "Iscas De Pesca Artificiais Com Superfície Popper De 9,5cm/12g",
       "price": 5.6,
@@ -4716,35 +4802,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljm6gl8zhmw6e8",
         "productLink": "https://shopee.com.br/product/392271277/22691886601",
         "offerLink": "https://s.shopee.com.br/3g3ovSKdtV"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22797770364",
-      "name": "Vara de Pesca Telescópica 1.8-3.6M Super Dura Ultra Leve Longo Alcance Profissional para Molinete Praia Mar Rio Lago",
-      "price": 26.8,
-      "original_price": 76.57,
-      "discount": 65.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcdx-ltmivw9kdxo22a",
-      "link": "https://s.shopee.com.br/30o88EaF6V",
-      "rating": "4.8",
-      "sales": 131,
-      "shop": "warm11.br",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22797770364,
-        "productName": "Vara de Pesca Telescópica 1.8-3.6M Super Dura Ultra Leve Longo Alcance Profissional para Molinete Praia Mar Rio Lago",
-        "price": "26.8",
-        "priceDiscountRate": 65,
-        "commissionRate": "0.12",
-        "sales": 131,
-        "ratingStar": "4.8",
-        "shopName": "warm11.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdx-ltmivw9kdxo22a",
-        "productLink": "https://shopee.com.br/product/1171921876/22797770364",
-        "offerLink": "https://s.shopee.com.br/30o88EaF6V"
       },
       "_last_price": null
     },
@@ -6239,7 +6296,7 @@
       "rating": "4.8",
       "sales": 287,
       "shop": "GYO COMERCIO LTDA",
-      "category": "linha de pesca",
+      "category": "carretilha pesca",
       "source": "shopee",
       "_item": {
         "itemId": 20797619594,
@@ -6253,6 +6310,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk0gs1xemhhe9c",
         "productLink": "https://shopee.com.br/product/1045152671/20797619594",
         "offerLink": "https://s.shopee.com.br/1gIkXkOfGN"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22993262488",
+      "name": "Vara de pesca com carretilha 1.8M Vara De Pesca Carretel  Kit Completo Com Alta Velocidade Max Drag 30KG",
+      "price": 75.7,
+      "original_price": 199.21,
+      "discount": 62.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9h2ynh16epuf7",
+      "link": "https://s.shopee.com.br/8AWEHgMBYK",
+      "rating": "4.7",
+      "sales": 234,
+      "shop": "Bàodān Garantia oficial",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22993262488,
+        "productName": "Vara de pesca com carretilha 1.8M Vara De Pesca Carretel  Kit Completo Com Alta Velocidade Max Drag 30KG",
+        "price": "75.7",
+        "priceDiscountRate": 62,
+        "commissionRate": "0.08",
+        "sales": 234,
+        "ratingStar": "4.7",
+        "shopName": "Bàodān Garantia oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9h2ynh16epuf7",
+        "productLink": "https://shopee.com.br/product/1133907149/22993262488",
+        "offerLink": "https://s.shopee.com.br/8AWEHgMBYK"
       },
       "_last_price": null
     },
@@ -7180,7 +7266,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqdi4h8b6wao80",
         "productLink": "https://shopee.com.br/product/1397772996/29842873054",
         "offerLink": "https://s.shopee.com.br/9fL24MIUhE"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23598387814",
@@ -8078,7 +8165,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258f-mrnbx4w3e8zqf1",
         "productLink": "https://shopee.com.br/product/1912999973/58265836602",
         "offerLink": "https://s.shopee.com.br/5LC2uPPzeO"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19797926230",
@@ -8112,8 +8200,8 @@
     {
       "id": "22694463642",
       "name": "Forma Air Fryer 50/100/150/200/250 Descartável Antiaderente Redonda Forro De Papel Vegetal",
-      "price": 13.98,
-      "original_price": 33.29,
+      "price": 13.99,
+      "original_price": 33.31,
       "discount": 58.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfa2zn43hdz96b",
@@ -8126,7 +8214,7 @@
       "_item": {
         "itemId": 22694463642,
         "productName": "Forma Air Fryer 50/100/150/200/250 Descartável Antiaderente Redonda Forro De Papel Vegetal",
-        "price": "13.98",
+        "price": "13.99",
         "priceDiscountRate": 58,
         "commissionRate": "0.03",
         "sales": 2597,
@@ -8747,31 +8835,31 @@
       "_last_price": null
     },
     {
-      "id": "23898316189",
-      "name": "240Kg Carretilha De Pesca Com Marine Sports Pitching 6.2 : 1 Alta 10kg Max Molinete De Pesca Molinete Pesca Mulinete",
-      "price": 52.8,
-      "original_price": 122.79,
+      "id": "58208794622",
+      "name": "Kit Pesca Carretilha Vara + Molinete Baitcasting + Linha + Bolsa",
+      "price": 129.0,
+      "original_price": 300.0,
       "discount": 57.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfje7rr96hol5a",
-      "link": "https://s.shopee.com.br/6Al9u0CCTJ",
-      "rating": "4.7",
-      "sales": 1094,
-      "shop": "HK  STORE",
-      "category": "vara de pesca",
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mn0vov749xxccb",
+      "link": "https://s.shopee.com.br/5q8JVOV4IA",
+      "rating": "4.8",
+      "sales": 93,
+      "shop": "HI SPORTS",
+      "category": "carretilha pesca",
       "source": "shopee",
       "_item": {
-        "itemId": 23898316189,
-        "productName": "240Kg Carretilha De Pesca Com Marine Sports Pitching 6.2 : 1 Alta 10kg Max Molinete De Pesca Molinete Pesca Mulinete",
-        "price": "52.8",
+        "itemId": 58208794622,
+        "productName": "Kit Pesca Carretilha Vara + Molinete Baitcasting + Linha + Bolsa",
+        "price": "129",
         "priceDiscountRate": 57,
-        "commissionRate": "0.08",
-        "sales": 1094,
-        "ratingStar": "4.7",
-        "shopName": "HK  STORE",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfje7rr96hol5a",
-        "productLink": "https://shopee.com.br/product/1267134569/23898316189",
-        "offerLink": "https://s.shopee.com.br/6Al9u0CCTJ"
+        "commissionRate": "0.03",
+        "sales": 93,
+        "ratingStar": "4.8",
+        "shopName": "HI SPORTS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mn0vov749xxccb",
+        "productLink": "https://shopee.com.br/product/1687489154/58208794622",
+        "offerLink": "https://s.shopee.com.br/5q8JVOV4IA"
       },
       "_last_price": null
     },
@@ -9207,6 +9295,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9elqqn7nixzee",
         "productLink": "https://shopee.com.br/product/1535794969/22698842534",
         "offerLink": "https://s.shopee.com.br/8V94gAt9T5"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19899647328",
+      "name": "KIT COM RODO MÁGICO 2 EM 1 LIMPA VIDROS E JANELAS KIT COM ESPONJA DE CANTO E KIT COM 5 PANOS MICROFIBRAS CASO EXTENSÍVEL",
+      "price": 26.99,
+      "original_price": 61.34,
+      "discount": 56.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-malnl8qvto5r77",
+      "link": "https://s.shopee.com.br/905MCP7rRJ",
+      "rating": "4.7",
+      "sales": 1120,
+      "shop": "LOJA DIGITAL COMPRA",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19899647328,
+        "productName": "KIT COM RODO MÁGICO 2 EM 1 LIMPA VIDROS E JANELAS KIT COM ESPONJA DE CANTO E KIT COM 5 PANOS MICROFIBRAS CASO EXTENSÍVEL",
+        "price": "26.99",
+        "priceDiscountRate": 56,
+        "commissionRate": "0.03",
+        "sales": 1120,
+        "ratingStar": "4.7",
+        "shopName": "LOJA DIGITAL COMPRA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-malnl8qvto5r77",
+        "productLink": "https://shopee.com.br/product/731728811/19899647328",
+        "offerLink": "https://s.shopee.com.br/905MCP7rRJ"
       },
       "_last_price": null
     },
@@ -10454,6 +10571,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
         "productLink": "https://shopee.com.br/product/1059936083/23997337490",
         "offerLink": "https://s.shopee.com.br/BTwkyHVk3"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "29789318659",
+      "name": "100kg Max Metal Carretilha De Pesca Com 5.2 : 1 HK1000-7000 Alta 10kg Max Molinete De Pesca Molinete Sports Pitching Pes",
+      "price": 29.0,
+      "original_price": 63.04,
+      "discount": 54.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mcsy0v96251c40",
+      "link": "https://s.shopee.com.br/7Kx7I9PMFF",
+      "rating": "4.8",
+      "sales": 173,
+      "shop": "YJ Fishing Tackle Shop",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 29789318659,
+        "productName": "100kg Max Metal Carretilha De Pesca Com 5.2 : 1 HK1000-7000 Alta 10kg Max Molinete De Pesca Molinete Sports Pitching Pes",
+        "price": "29",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.03",
+        "sales": 173,
+        "ratingStar": "4.8",
+        "shopName": "YJ Fishing Tackle Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mcsy0v96251c40",
+        "productLink": "https://shopee.com.br/product/1550289846/29789318659",
+        "offerLink": "https://s.shopee.com.br/7Kx7I9PMFF"
       },
       "_last_price": null
     },
@@ -14456,6 +14602,35 @@
       "_last_price": null
     },
     {
+      "id": "28642994952",
+      "name": "KIT 2 Carretel Molinete Dc 7000/4000/2000 Pesca Pesada 10kg Grande 5.2:1 carretilha de pesca.",
+      "price": 93.8,
+      "original_price": 180.38,
+      "discount": 48.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8262u-mld5a49ibgun9e",
+      "link": "https://s.shopee.com.br/60RjhhUQx7",
+      "rating": "4.9",
+      "sales": 173,
+      "shop": "Loja Deepl",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 28642994952,
+        "productName": "KIT 2 Carretel Molinete Dc 7000/4000/2000 Pesca Pesada 10kg Grande 5.2:1 carretilha de pesca.",
+        "price": "93.8",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.08",
+        "sales": 173,
+        "ratingStar": "4.9",
+        "shopName": "Loja Deepl",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262u-mld5a49ibgun9e",
+        "productLink": "https://shopee.com.br/product/1541645210/28642994952",
+        "offerLink": "https://s.shopee.com.br/60RjhhUQx7"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22294439852",
       "name": "Boia infantil de natação colete flutuante de 1 a 6 anos Segurança Garantida",
       "price": 27.56,
@@ -15067,8 +15242,8 @@
     {
       "id": "22998482488",
       "name": "Sachê Friskies para Gatos – Kit com 15 Unidades – envio imediato",
-      "price": 34.9,
-      "original_price": 65.85,
+      "price": 40.99,
+      "original_price": 77.34,
       "discount": 47.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-min6so3iwow208",
@@ -15081,7 +15256,7 @@
       "_item": {
         "itemId": 22998482488,
         "productName": "Sachê Friskies para Gatos – Kit com 15 Unidades – envio imediato",
-        "price": "34.9",
+        "price": "40.99",
         "priceDiscountRate": 47,
         "commissionRate": "0.03",
         "sales": 2976,
@@ -15992,6 +16167,35 @@
       "_last_price": null
     },
     {
+      "id": "58211803676",
+      "name": "240Kg Carretilha De Pesca Com Marine Sports Pitching 6.2 : 1 Alta 10kg Max Molinete De Pesca Molinete Pesca Mulinete",
+      "price": 42.99,
+      "original_price": 79.61,
+      "discount": 46.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823po-moz60vl5kbgh34",
+      "link": "https://s.shopee.com.br/905LHDJ0rT",
+      "rating": "4.9",
+      "sales": 282,
+      "shop": "JOYBELLA ",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58211803676,
+        "productName": "240Kg Carretilha De Pesca Com Marine Sports Pitching 6.2 : 1 Alta 10kg Max Molinete De Pesca Molinete Pesca Mulinete",
+        "price": "42.99",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.07",
+        "sales": 282,
+        "ratingStar": "4.9",
+        "shopName": "JOYBELLA ",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823po-moz60vl5kbgh34",
+        "productLink": "https://shopee.com.br/product/1820598106/58211803676",
+        "offerLink": "https://s.shopee.com.br/905LHDJ0rT"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22495182396",
       "name": "Linha de Pesca Multifilamento 4 Fios 300m 100% PE Alta Resistência para Molinete e Carretilha",
       "price": 26.98,
@@ -16003,7 +16207,7 @@
       "rating": "4.8",
       "sales": 574,
       "shop": "CharmeLojaOF",
-      "category": "molinete pesca",
+      "category": "carretilha pesca",
       "source": "shopee",
       "_item": {
         "itemId": 22495182396,
@@ -16017,6 +16221,64 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mr1ap2awcruu6b",
         "productLink": "https://shopee.com.br/product/1873757607/22495182396",
         "offerLink": "https://s.shopee.com.br/3g3ovQH3CR"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58261800811",
+      "name": "220Kg Carretilha De Pesca Cana De Pesca Molinete Magnético12 + 1BB Baitcasting Fishing Reel",
+      "price": 42.99,
+      "original_price": 79.61,
+      "discount": 46.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823om-moz5tdwrg4xt7d",
+      "link": "https://s.shopee.com.br/6q0qhERGGC",
+      "rating": "4.9",
+      "sales": 151,
+      "shop": "JOYBELLA ",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58261800811,
+        "productName": "220Kg Carretilha De Pesca Cana De Pesca Molinete Magnético12 + 1BB Baitcasting Fishing Reel",
+        "price": "42.99",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.07",
+        "sales": 151,
+        "ratingStar": "4.9",
+        "shopName": "JOYBELLA ",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823om-moz5tdwrg4xt7d",
+        "productLink": "https://shopee.com.br/product/1820598106/58261800811",
+        "offerLink": "https://s.shopee.com.br/6q0qhERGGC"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58261800923",
+      "name": "Carretilha Carretel Pesca Direito ou Esquerdo 19+1 Rolamentos 7.2:1",
+      "price": 42.99,
+      "original_price": 79.61,
+      "discount": 46.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823ov-moz5zk98v8cu7f",
+      "link": "https://s.shopee.com.br/6fhQUvRtbB",
+      "rating": "4.8",
+      "sales": 188,
+      "shop": "JOYBELLA ",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58261800923,
+        "productName": "Carretilha Carretel Pesca Direito ou Esquerdo 19+1 Rolamentos 7.2:1",
+        "price": "42.99",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.07",
+        "sales": 188,
+        "ratingStar": "4.8",
+        "shopName": "JOYBELLA ",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823ov-moz5zk98v8cu7f",
+        "productLink": "https://shopee.com.br/product/1820598106/58261800923",
+        "offerLink": "https://s.shopee.com.br/6fhQUvRtbB"
       },
       "_last_price": null
     },
@@ -17815,35 +18077,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82616-ml1891o6hm2re9",
         "productLink": "https://shopee.com.br/product/1888155578/58215093163",
         "offerLink": "https://s.shopee.com.br/6q0qh7GxRE"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "16301375335",
-      "name": "Kit 4 Panos Mágico de Chão Grande Super Absorvente de Microfibra para Limpeza Geral 50x60cm",
-      "price": 20.99,
-      "original_price": 36.82,
-      "discount": 43.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82606-ml18eaile8le9c",
-      "link": "https://s.shopee.com.br/5LC2uMMfU5",
-      "rating": "4.7",
-      "sales": 1320,
-      "shop": "Power Fibra",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 16301375335,
-        "productName": "Kit 4 Panos Mágico de Chão Grande Super Absorvente de Microfibra para Limpeza Geral 50x60cm",
-        "price": "20.99",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.03",
-        "sales": 1320,
-        "ratingStar": "4.7",
-        "shopName": "Power Fibra",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82606-ml18eaile8le9c",
-        "productLink": "https://shopee.com.br/product/385874672/16301375335",
-        "offerLink": "https://s.shopee.com.br/5LC2uMMfU5"
       },
       "_last_price": null
     },
@@ -20139,6 +20372,64 @@
       "_last_price": null
     },
     {
+      "id": "23193478084",
+      "name": "Kit Pesca Esportiva: Carretilha Perfil Baixo 17+1 Rolamentos Drag 10kg + Vara Carbono 1,80m Branca",
+      "price": 179.0,
+      "original_price": 298.33,
+      "discount": 40.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mma1oopty2vb75",
+      "link": "https://s.shopee.com.br/6Al9u0Tnc8",
+      "rating": "4.9",
+      "sales": 132,
+      "shop": "GYO COMERCIO LTDA",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23193478084,
+        "productName": "Kit Pesca Esportiva: Carretilha Perfil Baixo 17+1 Rolamentos Drag 10kg + Vara Carbono 1,80m Branca",
+        "price": "179",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.08",
+        "sales": 132,
+        "ratingStar": "4.9",
+        "shopName": "GYO COMERCIO LTDA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mma1oopty2vb75",
+        "productLink": "https://shopee.com.br/product/1045152671/23193478084",
+        "offerLink": "https://s.shopee.com.br/6Al9u0Tnc8"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23197383160",
+      "name": "Vara de Pesca 1,80m Carbono Leve e Resistente Para Carretilha 2 Partes 20-50lb JOYFOX",
+      "price": 59.0,
+      "original_price": 98.33,
+      "discount": 40.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh06xj9ahlad21",
+      "link": "https://s.shopee.com.br/4fwM7FZVez",
+      "rating": "4.8",
+      "sales": 34,
+      "shop": "GYO COMERCIO LTDA",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23197383160,
+        "productName": "Vara de Pesca 1,80m Carbono Leve e Resistente Para Carretilha 2 Partes 20-50lb JOYFOX",
+        "price": "59",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.07",
+        "sales": 34,
+        "ratingStar": "4.8",
+        "shopName": "GYO COMERCIO LTDA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh06xj9ahlad21",
+        "productLink": "https://shopee.com.br/product/1045152671/23197383160",
+        "offerLink": "https://s.shopee.com.br/4fwM7FZVez"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22993564456",
       "name": "Linha De Pesca Multifilamento 300m/500m Verde Cinza Multicor 4 Fios Super Resistente PE",
       "price": 40.8,
@@ -20893,35 +21184,6 @@
       "_last_price": null
     },
     {
-      "id": "58201422912",
-      "name": "Kit 5 Panos de Chão Microfibra 70x60cm Furo para Rodo Limpeza",
-      "price": 30.99,
-      "original_price": 49.98,
-      "discount": 38.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82631-ml1869y8l8u936",
-      "link": "https://s.shopee.com.br/7fZxgeDmkN",
-      "rating": "4.8",
-      "sales": 1996,
-      "shop": "Power Fibra",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58201422912,
-        "productName": "Kit 5 Panos de Chão Microfibra 70x60cm Furo para Rodo Limpeza",
-        "price": "30.99",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.03",
-        "sales": 1996,
-        "ratingStar": "4.8",
-        "shopName": "Power Fibra",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82631-ml1869y8l8u936",
-        "productLink": "https://shopee.com.br/product/385874672/58201422912",
-        "offerLink": "https://s.shopee.com.br/7fZxgeDmkN"
-      },
-      "_last_price": null
-    },
-    {
       "id": "19097634729",
       "name": "Kit 2 Shampoo World Veterinária Dug's Clorexidina Cães & Gatos - 500 mL",
       "price": 27.88,
@@ -21150,6 +21412,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pk-mp4lwwgdkgzz36",
         "productLink": "https://shopee.com.br/product/1006215031/28205901879",
         "offerLink": "https://s.shopee.com.br/LnMxHGsP2"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18299069073",
+      "name": "Vara De Pesca Carretilha Pesca 17+1 Rolamentos JOYFOX",
+      "price": 122.55,
+      "original_price": 197.66,
+      "discount": 38.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk90kkju10qp3b",
+      "link": "https://s.shopee.com.br/7fZxglO5ZL",
+      "rating": "4.8",
+      "sales": 125,
+      "shop": "JOYFOX Loja Oficial",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18299069073,
+        "productName": "Vara De Pesca Carretilha Pesca 17+1 Rolamentos JOYFOX",
+        "price": "122.55",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.07",
+        "sales": 125,
+        "ratingStar": "4.8",
+        "shopName": "JOYFOX Loja Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk90kkju10qp3b",
+        "productLink": "https://shopee.com.br/product/1063922972/18299069073",
+        "offerLink": "https://s.shopee.com.br/7fZxglO5ZL"
       },
       "_last_price": null
     },
@@ -22165,6 +22456,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mohcwkodwlxh54",
         "productLink": "https://shopee.com.br/product/204993078/40369486402",
         "offerLink": "https://s.shopee.com.br/4B05WJ79jH"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22092833789",
+      "name": "Molinete Carretilha Pesca Carretel Longo 6000 ou 7000 13 Rolamentos 5.2:1",
+      "price": 44.99,
+      "original_price": 70.3,
+      "discount": 36.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m62mppxtxh9u86",
+      "link": "https://s.shopee.com.br/5VVT6mWKy4",
+      "rating": "4.8",
+      "sales": 140,
+      "shop": "Ideal.mix",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22092833789,
+        "productName": "Molinete Carretilha Pesca Carretel Longo 6000 ou 7000 13 Rolamentos 5.2:1",
+        "price": "44.99",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 140,
+        "ratingStar": "4.8",
+        "shopName": "Ideal.mix",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m62mppxtxh9u86",
+        "productLink": "https://shopee.com.br/product/858096792/22092833789",
+        "offerLink": "https://s.shopee.com.br/5VVT6mWKy4"
       },
       "_last_price": null
     },
@@ -28694,6 +29014,35 @@
       "_last_price": null
     },
     {
+      "id": "22498217448",
+      "name": "1 / 2 / 3 ou 5  Luva de Microfibra lavagem automotiva",
+      "price": 9.99,
+      "original_price": 12.97,
+      "discount": 23.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mg-msvlo7x3979ifc",
+      "link": "https://s.shopee.com.br/4LJVEEjrsk",
+      "rating": "4.3",
+      "sales": 1331,
+      "shop": "UNIFAST_SP",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22498217448,
+        "productName": "1 / 2 / 3 ou 5  Luva de Microfibra lavagem automotiva",
+        "price": "9.99",
+        "priceDiscountRate": 23,
+        "commissionRate": "0.08",
+        "sales": 1331,
+        "ratingStar": "4.3",
+        "shopName": "UNIFAST_SP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-msvlo7x3979ifc",
+        "productLink": "https://shopee.com.br/product/388202560/22498217448",
+        "offerLink": "https://s.shopee.com.br/4LJVEEjrsk"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23394690451",
       "name": "Principia Kit Completo Peles Sensíveis c/ Gel de Limpeza GL-02 + Creme Hidratante CH-01 + Protetor Solar PS-01 FPS 60",
       "price": 116.25,
@@ -30405,6 +30754,35 @@
       "_last_price": null
     },
     {
+      "id": "22698291367",
+      "name": "Suporte Parede 6 Varas Stick Rack Molinete Carretilha",
+      "price": 29.0,
+      "original_price": 36.25,
+      "discount": 20.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m72qhyqnddfr03",
+      "link": "https://s.shopee.com.br/gQDLyQvPo",
+      "rating": "4.9",
+      "sales": 215,
+      "shop": "Cardume Oficial",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22698291367,
+        "productName": "Suporte Parede 6 Varas Stick Rack Molinete Carretilha",
+        "price": "29",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.18",
+        "sales": 215,
+        "ratingStar": "4.9",
+        "shopName": "Cardume Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m72qhyqnddfr03",
+        "productLink": "https://shopee.com.br/product/1468670047/22698291367",
+        "offerLink": "https://s.shopee.com.br/gQDLyQvPo"
+      },
+      "_last_price": null
+    },
+    {
       "id": "41360062714",
       "name": "Vara Telescópica Bamboo Strong Green Jaú Pesca de 1,80, 2,40m 3,00m 3,90m, 4,20m e 5,40m Pesca",
       "price": 37.23,
@@ -30488,35 +30866,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1n6kvc9av1m4c",
         "productLink": "https://shopee.com.br/product/472168397/12786030836",
         "offerLink": "https://s.shopee.com.br/4fwM7Jggzm"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22698291367",
-      "name": "Suporte Parede 6 Varas Stick Rack Molinete Carretilha",
-      "price": 29.0,
-      "original_price": 36.25,
-      "discount": 20.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m72qhyqnddfr03",
-      "link": "https://s.shopee.com.br/gQDLyQvPo",
-      "rating": "4.9",
-      "sales": 215,
-      "shop": "Cardume Oficial",
-      "category": "suporte vara pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22698291367,
-        "productName": "Suporte Parede 6 Varas Stick Rack Molinete Carretilha",
-        "price": "29",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.18",
-        "sales": 215,
-        "ratingStar": "4.9",
-        "shopName": "Cardume Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m72qhyqnddfr03",
-        "productLink": "https://shopee.com.br/product/1468670047/22698291367",
-        "offerLink": "https://s.shopee.com.br/gQDLyQvPo"
       },
       "_last_price": null
     },
