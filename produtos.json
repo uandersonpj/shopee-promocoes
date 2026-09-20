@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T22:58:38.462683+00:00",
+  "updated_at": "2026-09-20T23:17:51.959752+00:00",
   "total": 1126,
   "products": [
     {
@@ -1092,8 +1092,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lzop7krz80iq1e",
         "productLink": "https://shopee.com.br/product/218996205/25391678999",
         "offerLink": "https://s.shopee.com.br/60RjhWZ5D2"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "20160799228",
@@ -3206,7 +3205,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mrm1isre6juu61",
         "productLink": "https://shopee.com.br/product/1588692817/50815623138",
         "offerLink": "https://s.shopee.com.br/3B7YyYewwV"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "51004391053",
@@ -4507,35 +4507,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-msg1gwd0j85j6d",
         "productLink": "https://shopee.com.br/product/1658934983/58204681823",
         "offerLink": "https://s.shopee.com.br/8AWEHbOCk7"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58260912434",
-      "name": "Creatina Monohidratada Hardcore Original 100% Pura Ultimas Unidades",
-      "price": 30.9,
-      "original_price": 88.29,
-      "discount": 65.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-822xd-moehlogng7bj34",
-      "link": "https://s.shopee.com.br/50ZDoQN02S",
-      "rating": "4.8",
-      "sales": 1168,
-      "shop": "Armazem_00",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58260912434,
-        "productName": "Creatina Monohidratada Hardcore Original 100% Pura Ultimas Unidades",
-        "price": "30.9",
-        "priceDiscountRate": 65,
-        "commissionRate": "0.13",
-        "sales": 1168,
-        "ratingStar": "4.8",
-        "shopName": "Armazem_00",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xd-moehlogng7bj34",
-        "productLink": "https://shopee.com.br/product/991509912/58260912434",
-        "offerLink": "https://s.shopee.com.br/50ZDoQN02S"
       },
       "_last_price": null
     },
@@ -6160,35 +6131,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf8fj8snacck60",
         "productLink": "https://shopee.com.br/product/1397772996/23993522162",
         "offerLink": "https://s.shopee.com.br/9peSGfZWlR"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "57107380712",
-      "name": "Creatina Pote 120 Cáspsulas Max Titanium",
-      "price": 30.29,
-      "original_price": 79.71,
-      "discount": 62.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82630-mlz8qzse99tx92",
-      "link": "https://s.shopee.com.br/4LJX1CPXOO",
-      "rating": "4.9",
-      "sales": 1018,
-      "shop": "Empório Natugreen",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57107380712,
-        "productName": "Creatina Pote 120 Cáspsulas Max Titanium",
-        "price": "30.29",
-        "priceDiscountRate": 62,
-        "commissionRate": "0.03",
-        "sales": 1018,
-        "ratingStar": "4.9",
-        "shopName": "Empório Natugreen",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82630-mlz8qzse99tx92",
-        "productLink": "https://shopee.com.br/product/242277934/57107380712",
-        "offerLink": "https://s.shopee.com.br/4LJX1CPXOO"
       },
       "_last_price": null
     },
@@ -10805,8 +10747,8 @@
     {
       "id": "47811321649",
       "name": "- Kit 4 Potes Herméticos 2L Para Lavanderia Com Vedação P/ Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
-      "price": 71.16,
-      "original_price": 151.4,
+      "price": 71.17,
+      "original_price": 151.43,
       "discount": 53.0,
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mosdi0wi3sat12",
@@ -10819,7 +10761,7 @@
       "_item": {
         "itemId": 47811321649,
         "productName": "- Kit 4 Potes Herméticos 2L Para Lavanderia Com Vedação P/ Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
-        "price": "71.16",
+        "price": "71.17",
         "priceDiscountRate": 53,
         "commissionRate": "0.12",
         "sales": 577,
@@ -13094,31 +13036,60 @@
       "_last_price": null
     },
     {
-      "id": "18697682647",
-      "name": "Creatina Monohidratada Pura 150g - Dark Lab",
-      "price": 29.9,
-      "original_price": 59.8,
+      "id": "47858345120",
+      "name": "Creatina Monohidratada DUX Nutrition 100% Pura 300g Original Ganho de Massa Hipertrofia Academia",
+      "price": 39.82,
+      "original_price": 79.64,
       "discount": 50.0,
-      "commission": 26.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lp-ms0cy6ve3h8kde",
-      "link": "https://s.shopee.com.br/4qFnc7NdNT",
-      "rating": "4.9",
-      "sales": 960,
-      "shop": "Dark Lab Oficial",
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lq-molilwsui7er94",
+      "link": "https://s.shopee.com.br/AUu93tWzPV",
+      "rating": "4.8",
+      "sales": 1614,
+      "shop": "EVO Fitnes",
       "category": "creatina",
       "source": "shopee",
       "_item": {
-        "itemId": 18697682647,
-        "productName": "Creatina Monohidratada Pura 150g - Dark Lab",
-        "price": "29.9",
+        "itemId": 47858345120,
+        "productName": "Creatina Monohidratada DUX Nutrition 100% Pura 300g Original Ganho de Massa Hipertrofia Academia",
+        "price": "39.82",
         "priceDiscountRate": 50,
-        "commissionRate": "0.26",
-        "sales": 960,
+        "commissionRate": "0.03",
+        "sales": 1614,
+        "ratingStar": "4.8",
+        "shopName": "EVO Fitnes",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-molilwsui7er94",
+        "productLink": "https://shopee.com.br/product/1523139407/47858345120",
+        "offerLink": "https://s.shopee.com.br/AUu93tWzPV"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "40578847143",
+      "name": "Kit com 2 Formas de Silicone Moldes Variados para Chocolate Gelatina Balas de Goma e Creatina",
+      "price": 24.99,
+      "original_price": 49.98,
+      "discount": 50.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825b1-mq7o8qhsxjbj81",
+      "link": "https://s.shopee.com.br/8AWEHbfs9H",
+      "rating": "4.9",
+      "sales": 1301,
+      "shop": "Point Mix",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 40578847143,
+        "productName": "Kit com 2 Formas de Silicone Moldes Variados para Chocolate Gelatina Balas de Goma e Creatina",
+        "price": "24.99",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 1301,
         "ratingStar": "4.9",
-        "shopName": "Dark Lab Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-ms0cy6ve3h8kde",
-        "productLink": "https://shopee.com.br/product/1242044379/18697682647",
-        "offerLink": "https://s.shopee.com.br/4qFnc7NdNT"
+        "shopName": "Point Mix",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b1-mq7o8qhsxjbj81",
+        "productLink": "https://shopee.com.br/product/325369388/40578847143",
+        "offerLink": "https://s.shopee.com.br/8AWEHbfs9H"
       },
       "_last_price": null
     },
@@ -17526,6 +17497,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-ms0d4wq8mww51a",
         "productLink": "https://shopee.com.br/product/1242044379/20497679378",
         "offerLink": "https://s.shopee.com.br/9AOlTRc47N"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "46408341183",
+      "name": "Creatina Monohidratada DUX Nutrition 100% Pura Original Hipertrofia Academia Fitness",
+      "price": 40.8,
+      "original_price": 72.86,
+      "discount": 44.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lq-molilwsui7er94",
+      "link": "https://s.shopee.com.br/8plv4pdKnL",
+      "rating": "4.8",
+      "sales": 1776,
+      "shop": "REPZILLA",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 46408341183,
+        "productName": "Creatina Monohidratada DUX Nutrition 100% Pura Original Hipertrofia Academia Fitness",
+        "price": "40.8",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.03",
+        "sales": 1776,
+        "ratingStar": "4.8",
+        "shopName": "REPZILLA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-molilwsui7er94",
+        "productLink": "https://shopee.com.br/product/1527568519/46408341183",
+        "offerLink": "https://s.shopee.com.br/8plv4pdKnL"
       },
       "_last_price": null
     },
@@ -27535,35 +27535,6 @@
       "_last_price": null
     },
     {
-      "id": "23498386191",
-      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-      "price": 235.9,
-      "original_price": 318.78,
-      "discount": 26.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-      "link": "https://s.shopee.com.br/30o886QH5l",
-      "rating": "4.9",
-      "sales": 1656,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498386191,
-        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-        "price": "235.9",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.07",
-        "sales": 1656,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-        "productLink": "https://shopee.com.br/product/504754787/23498386191",
-        "offerLink": "https://s.shopee.com.br/30o886QH5l"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23232308359",
       "name": "Colchão Carrinho Moises Colchonete Fronha 100% Algodão Menino Menina Neutro Confortável",
       "price": 27.17,
@@ -29393,8 +29364,8 @@
     {
       "id": "23821265119",
       "name": "Kit 60 Cabides Redondos Preto Adulto Envio Imediato",
-      "price": 38.99,
-      "original_price": 49.99,
+      "price": 38.98,
+      "original_price": 49.97,
       "discount": 22.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqtu78cvantra0",
@@ -29407,7 +29378,7 @@
       "_item": {
         "itemId": 23821265119,
         "productName": "Kit 60 Cabides Redondos Preto Adulto Envio Imediato",
-        "price": "38.99",
+        "price": "38.98",
         "priceDiscountRate": 22,
         "commissionRate": "0.03",
         "sales": 6687,
@@ -29445,6 +29416,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258a-msbwmmolzx8m23",
         "productLink": "https://shopee.com.br/product/616222685/16324454755",
         "offerLink": "https://s.shopee.com.br/3B7YKO4Few"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23498386191",
+      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+      "price": 249.9,
+      "original_price": 320.38,
+      "discount": 22.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+      "link": "https://s.shopee.com.br/30o886QH5l",
+      "rating": "4.9",
+      "sales": 1656,
+      "shop": "Zociella Kids",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498386191,
+        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+        "price": "249.9",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.07",
+        "sales": 1656,
+        "ratingStar": "4.9",
+        "shopName": "Zociella Kids",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+        "productLink": "https://shopee.com.br/product/504754787/23498386191",
+        "offerLink": "https://s.shopee.com.br/30o886QH5l"
       },
       "_last_price": null
     },
