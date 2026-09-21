@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T00:15:37.356128+00:00",
+  "updated_at": "2026-09-21T00:34:52.435316+00:00",
   "total": 1126,
   "products": [
     {
@@ -1206,8 +1206,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823p5-mp4meqki2g3k68",
         "productLink": "https://shopee.com.br/product/1006215031/47000945292",
         "offerLink": "https://s.shopee.com.br/2gBHjcORvH"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22497773735",
@@ -2798,7 +2797,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820lv-mnmwgkov9pfqf2",
         "productLink": "https://shopee.com.br/product/390180328/22693260071",
         "offerLink": "https://s.shopee.com.br/gQDLxvv6c"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58251073566",
@@ -4334,7 +4334,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmvvx9h1getec5",
         "productLink": "https://shopee.com.br/product/1267873709/58208583352",
         "offerLink": "https://s.shopee.com.br/7ptNt6n2mh"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19397504534",
@@ -7962,8 +7963,8 @@
     {
       "id": "25338080323",
       "name": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-      "price": 148.99,
-      "original_price": 354.74,
+      "price": 149.0,
+      "original_price": 354.76,
       "discount": 58.0,
       "commission": 20.0,
       "image": "https://cf.shopee.com.br/file/sg-11134207-823pa-mpa7rmkjv3t9e6",
@@ -7976,7 +7977,7 @@
       "_item": {
         "itemId": 25338080323,
         "productName": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-        "price": "148.99",
+        "price": "149",
         "priceDiscountRate": 58,
         "commissionRate": "0.2",
         "sales": 5881,
@@ -8049,8 +8050,8 @@
     {
       "id": "22092998564",
       "name": "Creatina Monohidratada Pura 1kg, 500g, 600, 300g e 150g - Dark Lab",
-      "price": 32.9,
-      "original_price": 78.33,
+      "price": 39.9,
+      "original_price": 95.0,
       "discount": 58.0,
       "commission": 26.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ld-ms0e8jfsnb45e1",
@@ -8063,7 +8064,7 @@
       "_item": {
         "itemId": 22092998564,
         "productName": "Creatina Monohidratada Pura 1kg, 500g, 600, 300g e 150g - Dark Lab",
-        "price": "32.9",
+        "price": "39.9",
         "priceDiscountRate": 58,
         "commissionRate": "0.26",
         "sales": 14570,
@@ -21850,31 +21851,31 @@
       "_last_price": null
     },
     {
-      "id": "54302551381",
-      "name": "Liquidificador Oster 127V 3,2 Litros 15 Velocidades + Pulsar - Preto",
+      "id": "44073559348",
+      "name": "Liquidificador Oster Preto 3,2 Litros 15 Velocidades + Pulsar Preto 220V",
       "price": 188.99,
       "original_price": 299.98,
       "discount": 37.0,
       "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhtfosufaozq57",
-      "link": "https://s.shopee.com.br/1gIkXhhPGN",
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfodest73wudf2",
+      "link": "https://s.shopee.com.br/7Kx6x5yLom",
       "rating": "4.9",
-      "sales": 1739,
+      "sales": 893,
       "shop": "DUX ELETRO LTDA",
       "category": "liquidificador",
       "source": "shopee",
       "_item": {
-        "itemId": 54302551381,
-        "productName": "Liquidificador Oster 127V 3,2 Litros 15 Velocidades + Pulsar - Preto",
+        "itemId": 44073559348,
+        "productName": "Liquidificador Oster Preto 3,2 Litros 15 Velocidades + Pulsar Preto 220V",
         "price": "188.99",
         "priceDiscountRate": 37,
         "commissionRate": "0.03",
-        "sales": 1739,
+        "sales": 893,
         "ratingStar": "4.9",
         "shopName": "DUX ELETRO LTDA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhtfosufaozq57",
-        "productLink": "https://shopee.com.br/product/1334945356/54302551381",
-        "offerLink": "https://s.shopee.com.br/1gIkXhhPGN"
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfodest73wudf2",
+        "productLink": "https://shopee.com.br/product/1334945356/44073559348",
+        "offerLink": "https://s.shopee.com.br/7Kx6x5yLom"
       },
       "_last_price": null
     },
