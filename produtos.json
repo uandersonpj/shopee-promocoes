@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T04:04:52.188849+00:00",
+  "updated_at": "2026-09-21T04:23:41.082597+00:00",
   "total": 1123,
   "products": [
     {
@@ -201,7 +201,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m94jsi5hwaol47",
         "productLink": "https://shopee.com.br/product/1127030290/23593603405",
         "offerLink": "https://s.shopee.com.br/1AWYVZS8A"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "26539956454",
@@ -7907,8 +7908,8 @@
     {
       "id": "22092998564",
       "name": "Creatina Monohidratada Pura 1kg, 500g, 600, 300g e 150g - Dark Lab",
-      "price": 29.9,
-      "original_price": 71.19,
+      "price": 32.9,
+      "original_price": 78.33,
       "discount": 58.0,
       "commission": 26.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ld-ms0e8jfsnb45e1",
@@ -7921,7 +7922,7 @@
       "_item": {
         "itemId": 22092998564,
         "productName": "Creatina Monohidratada Pura 1kg, 500g, 600, 300g e 150g - Dark Lab",
-        "price": "29.9",
+        "price": "32.9",
         "priceDiscountRate": 58,
         "commissionRate": "0.26",
         "sales": 14570,
@@ -28700,8 +28701,8 @@
     {
       "id": "23699032115",
       "name": "Casinha Plástica Cachorro N7 e N8 Porte Médio Com Colchonete",
-      "price": 149.99,
-      "original_price": 197.36,
+      "price": 189.9,
+      "original_price": 249.87,
       "discount": 24.0,
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8257w-mshaxqhyuozl87",
@@ -28714,7 +28715,7 @@
       "_item": {
         "itemId": 23699032115,
         "productName": "Casinha Plástica Cachorro N7 e N8 Porte Médio Com Colchonete",
-        "price": "149.99",
+        "price": "189.9",
         "priceDiscountRate": 24,
         "commissionRate": "0.14",
         "sales": 608,
