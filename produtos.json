@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T03:08:22.738142+00:00",
+  "updated_at": "2026-09-21T03:27:10.230912+00:00",
   "total": 1123,
   "products": [
     {
@@ -258,7 +258,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-msxmjc85bkzr38",
         "productLink": "https://shopee.com.br/product/1198407784/23497594302",
         "offerLink": "https://s.shopee.com.br/6VO0ne85Ou"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "57911938287",
@@ -11469,35 +11470,6 @@
       "_last_price": null
     },
     {
-      "id": "55756600279",
-      "name": "Kit 10 Panos de Limpeza em Microfibra Alta Absorção Multiuso",
-      "price": 17.29,
-      "original_price": 36.02,
-      "discount": 52.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82607-ml9qs5gknq4h31",
-      "link": "https://s.shopee.com.br/8AWEHZBsjM",
-      "rating": "4.6",
-      "sales": 2664,
-      "shop": "Gaia Cia",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 55756600279,
-        "productName": "Kit 10 Panos de Limpeza em Microfibra Alta Absorção Multiuso",
-        "price": "17.29",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.13",
-        "sales": 2664,
-        "ratingStar": "4.6",
-        "shopName": "Gaia Cia",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82607-ml9qs5gknq4h31",
-        "productLink": "https://shopee.com.br/product/1293439067/55756600279",
-        "offerLink": "https://s.shopee.com.br/8AWEHZBsjM"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58257784255",
       "name": "Protetor Solar Para-brisa Carro Quebra Sol Portatil Uv Painel Universal",
       "price": 18.89,
@@ -12828,6 +12800,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
         "productLink": "https://shopee.com.br/product/1625666693/58265081114",
         "offerLink": "https://s.shopee.com.br/9peSGd5XLa"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "55756600279",
+      "name": "Kit 10 Panos de Limpeza em Microfibra Alta Absorção Multiuso",
+      "price": 17.99,
+      "original_price": 35.98,
+      "discount": 50.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82607-ml9qs5gknq4h31",
+      "link": "https://s.shopee.com.br/8AWEHZBsjM",
+      "rating": "4.6",
+      "sales": 2664,
+      "shop": "Gaia Cia",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 55756600279,
+        "productName": "Kit 10 Panos de Limpeza em Microfibra Alta Absorção Multiuso",
+        "price": "17.99",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.13",
+        "sales": 2664,
+        "ratingStar": "4.6",
+        "shopName": "Gaia Cia",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82607-ml9qs5gknq4h31",
+        "productLink": "https://shopee.com.br/product/1293439067/55756600279",
+        "offerLink": "https://s.shopee.com.br/8AWEHZBsjM"
       },
       "_last_price": null
     },
@@ -21996,6 +21997,35 @@
       "_last_price": null
     },
     {
+      "id": "58264975173",
+      "name": "SSD Interno M.2 NVMe KNUP 128GB PCIe 3.0 Formato 2280 Para PC Notebook",
+      "price": 229.99,
+      "original_price": 359.36,
+      "discount": 36.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mr240gwo90qv3b",
+      "link": "https://s.shopee.com.br/2LYRKmn2dx",
+      "rating": "4.9",
+      "sales": 117,
+      "shop": "Andre Zhou Mix",
+      "category": "ssd nvme",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58264975173,
+        "productName": "SSD Interno M.2 NVMe KNUP 128GB PCIe 3.0 Formato 2280 Para PC Notebook",
+        "price": "229.99",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 117,
+        "ratingStar": "4.9",
+        "shopName": "Andre Zhou Mix",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mr240gwo90qv3b",
+        "productLink": "https://shopee.com.br/product/1526867853/58264975173",
+        "offerLink": "https://s.shopee.com.br/2LYRKmn2dx"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23798104773",
       "name": "Pasta térmica dmix 1g / 5g / 10g / 30g Computadores, Pc Gamer, Placas de video, Notebooks, Ps4 Xbox.",
       "price": 11.99,
@@ -24312,35 +24342,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mm6dy5ydiltwdb",
         "productLink": "https://shopee.com.br/product/1737125426/58257442384",
         "offerLink": "https://s.shopee.com.br/3B7YKJWbKp"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "19498104885",
-      "name": "SSD Kingston NV3 500GB M.2 NVMe PCIe – Alta Velocidade e Desempenho",
-      "price": 734.54,
-      "original_price": 1080.21,
-      "discount": 32.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m97fvgsnxjcpf7",
-      "link": "https://s.shopee.com.br/3qNGhJwRYo",
-      "rating": "5",
-      "sales": 9,
-      "shop": "BESTBYBRASILGOLD",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19498104885,
-        "productName": "SSD Kingston NV3 500GB M.2 NVMe PCIe – Alta Velocidade e Desempenho",
-        "price": "734.54",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.03",
-        "sales": 9,
-        "ratingStar": "5",
-        "shopName": "BESTBYBRASILGOLD",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m97fvgsnxjcpf7",
-        "productLink": "https://shopee.com.br/product/1494297971/19498104885",
-        "offerLink": "https://s.shopee.com.br/3qNGhJwRYo"
       },
       "_last_price": null
     },
