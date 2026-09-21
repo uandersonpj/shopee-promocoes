@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T01:32:35.906779+00:00",
+  "updated_at": "2026-09-21T01:51:43.033164+00:00",
   "total": 1126,
   "products": [
     {
@@ -57,7 +57,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qo-moodqvbtpo8yf2",
         "productLink": "https://shopee.com.br/product/1571156019/52011120312",
         "offerLink": "https://s.shopee.com.br/1Lfu98uatp"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22394636674",
@@ -3174,8 +3175,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b5-mt4n85gao35x12",
         "productLink": "https://shopee.com.br/product/832040275/22495754071",
         "offerLink": "https://s.shopee.com.br/70KGtPyrVe"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "50815623138",
@@ -13239,7 +13239,7 @@
     },
     {
       "id": "23592875532",
-      "name": "1/2/3 Formas de Silicone Quadrada 16x16cm Assadeira Air Fryer e Forno Forma para Fritadeira Elétrica com Alça",
+      "name": "1/2/3 Formas de Silicone Quadrada 18x18cm Assadeira Air Fryer e Forno Forma para Fritadeira Elétrica com Alça",
       "price": 10.0,
       "original_price": 20.0,
       "discount": 50.0,
@@ -13253,7 +13253,7 @@
       "source": "shopee",
       "_item": {
         "itemId": 23592875532,
-        "productName": "1/2/3 Formas de Silicone Quadrada 16x16cm Assadeira Air Fryer e Forno Forma para Fritadeira Elétrica com Alça",
+        "productName": "1/2/3 Formas de Silicone Quadrada 18x18cm Assadeira Air Fryer e Forno Forma para Fritadeira Elétrica com Alça",
         "price": "10",
         "priceDiscountRate": 50,
         "commissionRate": "0.03",
