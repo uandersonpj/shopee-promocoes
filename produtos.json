@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T22:53:13.576228+00:00",
+  "updated_at": "2026-09-21T23:12:24.607766+00:00",
   "total": 1120,
   "products": [
     {
@@ -859,8 +859,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a7-mgfaurmyhbt701",
         "productLink": "https://shopee.com.br/product/1127030290/58200141324",
         "offerLink": "https://s.shopee.com.br/9AOlTV5iiD"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22492388439",
@@ -1497,7 +1496,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aj-mqgalw9z1d6od8",
         "productLink": "https://shopee.com.br/product/1737409766/58263959925",
         "offerLink": "https://s.shopee.com.br/1133kPCV3j"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23793414141",
@@ -4634,7 +4634,7 @@
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-msg1gwd0j85j6d",
       "link": "https://s.shopee.com.br/8AWEHbOCk7",
-      "rating": "4.5",
+      "rating": "4.6",
       "sales": 857,
       "shop": "Sunfit Nutrition Oficial",
       "category": "whey protein",
@@ -4646,7 +4646,7 @@
         "priceDiscountRate": 65,
         "commissionRate": "0.08",
         "sales": 857,
-        "ratingStar": "4.5",
+        "ratingStar": "4.6",
         "shopName": "Sunfit Nutrition Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-msg1gwd0j85j6d",
         "productLink": "https://shopee.com.br/product/1658934983/58204681823",
@@ -12690,8 +12690,8 @@
     {
       "id": "58265081114",
       "name": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-      "price": 10.99,
-      "original_price": 21.98,
+      "price": 19.99,
+      "original_price": 39.98,
       "discount": 50.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
@@ -12704,7 +12704,7 @@
       "_item": {
         "itemId": 58265081114,
         "productName": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-        "price": "10.99",
+        "price": "19.99",
         "priceDiscountRate": 50,
         "commissionRate": "0.13",
         "sales": 3066,
@@ -13467,35 +13467,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m41pjicftjcl4d",
         "productLink": "https://shopee.com.br/product/472673093/21097992401",
         "offerLink": "https://s.shopee.com.br/8AWEHiUAyb"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "19403621266",
-      "name": "100 Pçs/Caixa Cascos De Aço Carbono Isca De Peixe Jig Pesca Círculo Acessórios Da Carpa Equipamentos De Engrenagem Face Com Perfurado",
-      "price": 11.0,
-      "original_price": 22.0,
-      "discount": 50.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/1f2d37be391f345f756d41a3f6a0d150",
-      "link": "https://s.shopee.com.br/30o8nhw1cD",
-      "rating": "4.6",
-      "sales": 216,
-      "shop": "NYAYEO Vida ao ar livre",
-      "category": "caixa de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19403621266,
-        "productName": "100 Pçs/Caixa Cascos De Aço Carbono Isca De Peixe Jig Pesca Círculo Acessórios Da Carpa Equipamentos De Engrenagem Face Com Perfurado",
-        "price": "11",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.07",
-        "sales": 216,
-        "ratingStar": "4.6",
-        "shopName": "NYAYEO Vida ao ar livre",
-        "imageUrl": "https://cf.shopee.com.br/file/1f2d37be391f345f756d41a3f6a0d150",
-        "productLink": "https://shopee.com.br/product/654851978/19403621266",
-        "offerLink": "https://s.shopee.com.br/30o8nhw1cD"
       },
       "_last_price": null
     },
@@ -16749,8 +16720,8 @@
     {
       "id": "20999680446",
       "name": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
-      "price": 197.8,
-      "original_price": 359.64,
+      "price": 197.9,
+      "original_price": 359.82,
       "discount": 45.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
@@ -16763,7 +16734,7 @@
       "_item": {
         "itemId": 20999680446,
         "productName": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
-        "price": "197.8",
+        "price": "197.9",
         "priceDiscountRate": 45,
         "commissionRate": "0.07",
         "sales": 1657,
@@ -17132,7 +17103,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-824h5-mpf76hbcqih750",
       "link": "https://s.shopee.com.br/20vawOQzHL",
-      "rating": "4.7",
+      "rating": "4.6",
       "sales": 241,
       "shop": "Natcha & Co.",
       "category": "caixa de pesca",
@@ -17144,7 +17115,7 @@
         "priceDiscountRate": 45,
         "commissionRate": "0.03",
         "sales": 241,
-        "ratingStar": "4.7",
+        "ratingStar": "4.6",
         "shopName": "Natcha & Co.",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h5-mpf76hbcqih750",
         "productLink": "https://shopee.com.br/product/1545783525/58262442513",
@@ -20720,6 +20691,35 @@
       "_last_price": null
     },
     {
+      "id": "40369486402",
+      "name": "Tênis Vizzano Feminino Casual Plataforma Macia Confortável Dia Moda Passeio Leve Conforto Flatform",
+      "price": 108.9,
+      "original_price": 178.52,
+      "discount": 39.0,
+      "commission": 25.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mohcwkodwlxh54",
+      "link": "https://s.shopee.com.br/4B05WJ79jH",
+      "rating": "4.9",
+      "sales": 2492,
+      "shop": "ZAYRON OFICIAL",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 40369486402,
+        "productName": "Tênis Vizzano Feminino Casual Plataforma Macia Confortável Dia Moda Passeio Leve Conforto Flatform",
+        "price": "108.9",
+        "priceDiscountRate": 39,
+        "commissionRate": "0.25",
+        "sales": 2492,
+        "ratingStar": "4.9",
+        "shopName": "ZAYRON OFICIAL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mohcwkodwlxh54",
+        "productLink": "https://shopee.com.br/product/204993078/40369486402",
+        "offerLink": "https://s.shopee.com.br/4B05WJ79jH"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23413221795",
       "name": "Vara Telescópica Lisa 3,60M - 40% Carbono - C.W 8-18lbs - Cmik",
       "price": 27.86,
@@ -22137,35 +22137,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mezde4nxul8n64",
         "productLink": "https://shopee.com.br/product/1451694145/22498328593",
         "offerLink": "https://s.shopee.com.br/6L4a6GUNNG"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "40369486402",
-      "name": "Tênis Vizzano Feminino Casual Plataforma Macia Confortável Dia Moda Passeio Leve Conforto Flatform",
-      "price": 114.9,
-      "original_price": 179.53,
-      "discount": 36.0,
-      "commission": 25.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mohcwkodwlxh54",
-      "link": "https://s.shopee.com.br/4B05WJ79jH",
-      "rating": "4.9",
-      "sales": 2492,
-      "shop": "ZAYRON OFICIAL",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40369486402,
-        "productName": "Tênis Vizzano Feminino Casual Plataforma Macia Confortável Dia Moda Passeio Leve Conforto Flatform",
-        "price": "114.9",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.25",
-        "sales": 2492,
-        "ratingStar": "4.9",
-        "shopName": "ZAYRON OFICIAL",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mohcwkodwlxh54",
-        "productLink": "https://shopee.com.br/product/204993078/40369486402",
-        "offerLink": "https://s.shopee.com.br/4B05WJ79jH"
       },
       "_last_price": null
     },
@@ -32432,6 +32403,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-cexmszdwrtiv93",
         "productLink": "https://shopee.com.br/product/422783736/8342258062",
         "offerLink": "https://s.shopee.com.br/4qFmJaL0O7"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22993787399",
+      "name": "Maleta Caixa de Ferramentas Pesca Organizadora Pro Alta Resistente Reforçada Promoção Envio Rápido!!",
+      "price": 21.2,
+      "original_price": 24.94,
+      "discount": 15.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mmurfl84liblf4",
+      "link": "https://s.shopee.com.br/50ZCVuFZBd",
+      "rating": "4.7",
+      "sales": 578,
+      "shop": "JPB  E-commerce",
+      "category": "caixa de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22993787399,
+        "productName": "Maleta Caixa de Ferramentas Pesca Organizadora Pro Alta Resistente Reforçada Promoção Envio Rápido!!",
+        "price": "21.2",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.08",
+        "sales": 578,
+        "ratingStar": "4.7",
+        "shopName": "JPB  E-commerce",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mmurfl84liblf4",
+        "productLink": "https://shopee.com.br/product/426635160/22993787399",
+        "offerLink": "https://s.shopee.com.br/50ZCVuFZBd"
       },
       "_last_price": null
     },
