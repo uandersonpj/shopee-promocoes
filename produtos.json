@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T01:13:23.412703+00:00",
+  "updated_at": "2026-09-21T01:32:35.906779+00:00",
   "total": 1126,
   "products": [
     {
@@ -1443,8 +1443,8 @@
     {
       "id": "23696895359",
       "name": "Armário Carrinho Organizador Multiuso Com 4 Camadas Com Rodinhas Cozinha Banheiro P M G ou Kit 3",
-      "price": 39.99,
-      "original_price": 159.96,
+      "price": 40.99,
+      "original_price": 163.96,
       "discount": 75.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98r-llp2niz8vuwnb6",
@@ -1457,7 +1457,7 @@
       "_item": {
         "itemId": 23696895359,
         "productName": "Armário Carrinho Organizador Multiuso Com 4 Camadas Com Rodinhas Cozinha Banheiro P M G ou Kit 3",
-        "price": "39.99",
+        "price": "40.99",
         "priceDiscountRate": 75,
         "commissionRate": "0.03",
         "sales": 7207,
@@ -2161,7 +2161,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-msxgtp629z477b",
         "productLink": "https://shopee.com.br/product/424883518/23098214172",
         "offerLink": "https://s.shopee.com.br/3B7YKVW5Iw"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23192646152",
@@ -3608,8 +3609,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zv8-mmrf4pozuz2d63",
         "productLink": "https://shopee.com.br/product/502537735/22993481974",
         "offerLink": "https://s.shopee.com.br/6Al9tr2qH4"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23891732730",
@@ -4946,35 +4946,6 @@
       "_last_price": null
     },
     {
-      "id": "58250184742",
-      "name": "Kit 100/200/300 Forro de Papel Descartável para Airfryer Antiaderente,Quadrado,Anti-Óleo Sem Limpeza",
-      "price": 13.98,
-      "original_price": 38.83,
-      "discount": 64.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-821ee-mggvnhpoe5n07f",
-      "link": "https://s.shopee.com.br/3g3ovMwGQh",
-      "rating": "4.8",
-      "sales": 1964,
-      "shop": "VidaBem",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58250184742,
-        "productName": "Kit 100/200/300 Forro de Papel Descartável para Airfryer Antiaderente,Quadrado,Anti-Óleo Sem Limpeza",
-        "price": "13.98",
-        "priceDiscountRate": 64,
-        "commissionRate": "0.11",
-        "sales": 1964,
-        "ratingStar": "4.8",
-        "shopName": "VidaBem",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ee-mggvnhpoe5n07f",
-        "productLink": "https://shopee.com.br/product/1647418767/58250184742",
-        "offerLink": "https://s.shopee.com.br/3g3ovMwGQh"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58250273322",
       "name": "Panela de Pressão Inox 304 6 e 10 Litros 100kPa Cozinha Rápida para Indução e Gás com Pinça para alimentos Inox",
       "price": 315.8,
@@ -6188,6 +6159,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262v-mlw2698zayh441",
         "productLink": "https://shopee.com.br/product/382524692/58256996145",
         "offerLink": "https://s.shopee.com.br/8V94gFM7yt"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58250184742",
+      "name": "Kit 100/200/300 Forro de Papel Descartável para Airfryer Antiaderente,Quadrado,Anti-Óleo Sem Limpeza",
+      "price": 14.99,
+      "original_price": 39.45,
+      "discount": 62.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-821ee-mggvnhpoe5n07f",
+      "link": "https://s.shopee.com.br/3g3ovMwGQh",
+      "rating": "4.8",
+      "sales": 1964,
+      "shop": "VidaBem",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58250184742,
+        "productName": "Kit 100/200/300 Forro de Papel Descartável para Airfryer Antiaderente,Quadrado,Anti-Óleo Sem Limpeza",
+        "price": "14.99",
+        "priceDiscountRate": 62,
+        "commissionRate": "0.11",
+        "sales": 1964,
+        "ratingStar": "4.8",
+        "shopName": "VidaBem",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ee-mggvnhpoe5n07f",
+        "productLink": "https://shopee.com.br/product/1647418767/58250184742",
+        "offerLink": "https://s.shopee.com.br/3g3ovMwGQh"
       },
       "_last_price": null
     },
@@ -9348,6 +9348,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-ms0du9lcp7ut42",
         "productLink": "https://shopee.com.br/product/1242044379/23297485141",
         "offerLink": "https://s.shopee.com.br/6Al9tvnUCZ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22194257697",
+      "name": "Kit 3 Faixas Elásticas Para Treino Hip Mini Bands – Ideal Para Academia, Exercício, Pilates e Musculação",
+      "price": 14.9,
+      "original_price": 33.86,
+      "discount": 56.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwi-mcgp6jm4rp464d",
+      "link": "https://s.shopee.com.br/9AOmFTRVAX",
+      "rating": "4.8",
+      "sales": 170,
+      "shop": "ldtbazar",
+      "category": "elastico musculacao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22194257697,
+        "productName": "Kit 3 Faixas Elásticas Para Treino Hip Mini Bands – Ideal Para Academia, Exercício, Pilates e Musculação",
+        "price": "14.9",
+        "priceDiscountRate": 56,
+        "commissionRate": "0.03",
+        "sales": 170,
+        "ratingStar": "4.8",
+        "shopName": "ldtbazar",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwi-mcgp6jm4rp464d",
+        "productLink": "https://shopee.com.br/product/1305112893/22194257697",
+        "offerLink": "https://s.shopee.com.br/9AOmFTRVAX"
       },
       "_last_price": null
     },
@@ -31069,35 +31098,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825a4-mr9pzqvf632f09",
         "productLink": "https://shopee.com.br/product/457864097/25046330542",
         "offerLink": "https://s.shopee.com.br/1gIkXdegvo"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58213755587",
-      "name": "Barra de Pilates Yoga Portátil Com Elásticos Extensor Exercício Academia Treino Musculação Roxo",
-      "price": 29.99,
-      "original_price": 37.02,
-      "discount": 19.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mqbjhb061tz6d2",
-      "link": "https://s.shopee.com.br/9fL24N9Ure",
-      "rating": "4.9",
-      "sales": 117,
-      "shop": "Mercadinho Completa",
-      "category": "elastico musculacao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58213755587,
-        "productName": "Barra de Pilates Yoga Portátil Com Elásticos Extensor Exercício Academia Treino Musculação Roxo",
-        "price": "29.99",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.13",
-        "sales": 117,
-        "ratingStar": "4.9",
-        "shopName": "Mercadinho Completa",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mqbjhb061tz6d2",
-        "productLink": "https://shopee.com.br/product/1532520364/58213755587",
-        "offerLink": "https://s.shopee.com.br/9fL24N9Ure"
       },
       "_last_price": null
     },
