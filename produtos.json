@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T04:23:41.082597+00:00",
+  "updated_at": "2026-09-21T04:42:30.925396+00:00",
   "total": 1123,
   "products": [
     {
@@ -520,7 +520,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
         "productLink": "https://shopee.com.br/product/972031390/21997150349",
         "offerLink": "https://s.shopee.com.br/5VVT6jpHhg"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21498310169",
@@ -24523,35 +24524,6 @@
       "_last_price": null
     },
     {
-      "id": "11884824502",
-      "name": "Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho",
-      "price": 51.89,
-      "original_price": 76.31,
-      "discount": 32.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7w89evfnc3552",
-      "link": "https://s.shopee.com.br/7VGXUQcw6d",
-      "rating": "4.9",
-      "sales": 1484,
-      "shop": "Marilar Presentes",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 11884824502,
-        "productName": "Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho",
-        "price": "51.89",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.08",
-        "sales": 1484,
-        "ratingStar": "4.9",
-        "shopName": "Marilar Presentes",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7w89evfnc3552",
-        "productLink": "https://shopee.com.br/product/663505037/11884824502",
-        "offerLink": "https://s.shopee.com.br/7VGXUQcw6d"
-      },
-      "_last_price": null
-    },
-    {
       "id": "27700492684",
       "name": "Óculos De Sol Sem Fio Bluetooth Proteção Para Fones De Ouvido Mulheres E Homens Acessórios De Áudio Vídeo Inteligentes",
       "price": 28.97,
@@ -30642,6 +30614,35 @@
       "_last_price": null
     },
     {
+      "id": "11884824502",
+      "name": "Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho",
+      "price": 51.9,
+      "original_price": 64.88,
+      "discount": 20.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7w89evfnc3552",
+      "link": "https://s.shopee.com.br/7VGXUQcw6d",
+      "rating": "4.9",
+      "sales": 1484,
+      "shop": "Marilar Presentes",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 11884824502,
+        "productName": "Panela de Pressao Polida Fortlar -A- LAM - Escolha o Tamanho",
+        "price": "51.9",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.08",
+        "sales": 1484,
+        "ratingStar": "4.9",
+        "shopName": "Marilar Presentes",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7w89evfnc3552",
+        "productLink": "https://shopee.com.br/product/663505037/11884824502",
+        "offerLink": "https://s.shopee.com.br/7VGXUQcw6d"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23998761112",
       "name": "Kit De Pesca 3 Vara E 3 Molinete Com Linha Maleta Acessórios",
       "price": 166.54,
@@ -31891,8 +31892,8 @@
     {
       "id": "15844579921",
       "name": "Panela De Pressao Pequena 2,5 Litros Fortlar Colorida A- LAM",
-      "price": 58.89,
-      "original_price": 70.11,
+      "price": 58.9,
+      "original_price": 70.12,
       "discount": 16.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3qffnuznbjp4a",
@@ -31905,7 +31906,7 @@
       "_item": {
         "itemId": 15844579921,
         "productName": "Panela De Pressao Pequena 2,5 Litros Fortlar Colorida A- LAM",
-        "price": "58.89",
+        "price": "58.9",
         "priceDiscountRate": 16,
         "commissionRate": "0.08",
         "sales": 989,
