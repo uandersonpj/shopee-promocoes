@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T17:45:04.570242+00:00",
+  "updated_at": "2026-09-21T18:04:20.651285+00:00",
   "total": 1122,
   "products": [
     {
@@ -172,8 +172,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1zzq6l901gfa2",
         "productLink": "https://shopee.com.br/product/322874822/23797686527",
         "offerLink": "https://s.shopee.com.br/7ptNt3Wj36"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23593603405",
@@ -3443,7 +3442,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra1a-mbjbbhgogn4q6c",
         "productLink": "https://shopee.com.br/product/1398716274/23494180407",
         "offerLink": "https://s.shopee.com.br/80Co5NMotJ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "42806494664",
@@ -3674,6 +3674,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkb1itv9v5s1c9",
         "productLink": "https://shopee.com.br/product/883941882/58263267581",
         "offerLink": "https://s.shopee.com.br/9V1bryq9Ve"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22993481974",
+      "name": "Mouse Pad Preto Gamer Extra Grande 90x40cm Preto Speed Liso",
+      "price": 9.9,
+      "original_price": 30.0,
+      "discount": 67.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-81zv8-mmrf4pozuz2d63",
+      "link": "https://s.shopee.com.br/6Al9tr2qH4",
+      "rating": "4.7",
+      "sales": 989,
+      "shop": "Amora Emporium",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22993481974,
+        "productName": "Mouse Pad Preto Gamer Extra Grande 90x40cm Preto Speed Liso",
+        "price": "9.9",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.08",
+        "sales": 989,
+        "ratingStar": "4.7",
+        "shopName": "Amora Emporium",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zv8-mmrf4pozuz2d63",
+        "productLink": "https://shopee.com.br/product/502537735/22993481974",
+        "offerLink": "https://s.shopee.com.br/6Al9tr2qH4"
       },
       "_last_price": null
     },
@@ -4584,7 +4613,7 @@
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-msg1gwd0j85j6d",
       "link": "https://s.shopee.com.br/8AWEHbOCk7",
-      "rating": "4.6",
+      "rating": "4.5",
       "sales": 833,
       "shop": "Sunfit Nutrition Oficial",
       "category": "whey protein",
@@ -4596,7 +4625,7 @@
         "priceDiscountRate": 65,
         "commissionRate": "0.08",
         "sales": 833,
-        "ratingStar": "4.6",
+        "ratingStar": "4.5",
         "shopName": "Sunfit Nutrition Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-msg1gwd0j85j6d",
         "productLink": "https://shopee.com.br/product/1658934983/58204681823",
@@ -20862,35 +20891,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qf-mpbbl1kk4mq4dd",
         "productLink": "https://shopee.com.br/product/1552226494/58262280031",
         "offerLink": "https://s.shopee.com.br/20vawB5lxd"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22591649689",
-      "name": "Mouse Gamer iluminação RGB design ergonômico confortável 4800 DPI",
-      "price": 30.96,
-      "original_price": 49.94,
-      "discount": 38.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98p-llp00ht75kbv82",
-      "link": "https://s.shopee.com.br/30oASkkqWX",
-      "rating": "4.8",
-      "sales": 641,
-      "shop": "NEZHA SHOP",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22591649689,
-        "productName": "Mouse Gamer iluminação RGB design ergonômico confortável 4800 DPI",
-        "price": "30.96",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.06",
-        "sales": 641,
-        "ratingStar": "4.8",
-        "shopName": "NEZHA SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98p-llp00ht75kbv82",
-        "productLink": "https://shopee.com.br/product/397374716/22591649689",
-        "offerLink": "https://s.shopee.com.br/30oASkkqWX"
       },
       "_last_price": null
     },
