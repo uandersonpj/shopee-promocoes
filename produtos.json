@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-21T16:08:01.567860+00:00",
-  "total": 1121,
+  "updated_at": "2026-09-21T16:27:12.370387+00:00",
+  "total": 1127,
   "products": [
     {
       "id": "50203126324",
@@ -983,7 +983,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mp21h8cy5w5i1c",
         "productLink": "https://shopee.com.br/product/1567204121/58261933291",
         "offerLink": "https://s.shopee.com.br/1BMUQTwKF1"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "57109179747",
@@ -2402,8 +2403,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lp-mqyin0g0guth55",
         "productLink": "https://shopee.com.br/product/235321669/52557307480",
         "offerLink": "https://s.shopee.com.br/2BF18V0TGc"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22594956407",
@@ -3109,7 +3109,7 @@
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l5-ms8xasbneeivf3",
       "link": "https://s.shopee.com.br/qjdYDwUum",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 121,
       "shop": "Luzul Shop",
       "category": "isca artificial",
@@ -3121,7 +3121,7 @@
         "priceDiscountRate": 69,
         "commissionRate": "0.11",
         "sales": 121,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Luzul Shop",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-ms8xasbneeivf3",
         "productLink": "https://shopee.com.br/product/750228545/58266769609",
@@ -3185,6 +3185,35 @@
         "productLink": "https://shopee.com.br/product/1368232097/58207198817",
         "offerLink": "https://s.shopee.com.br/40gfK4WR4X"
       }
+    },
+    {
+      "id": "40808171993",
+      "name": "Sougayilang Vara De Pesca Telescópica Portátil , 4 Cores , 1.8m-3.0m , Equipamento Ao Ar Livre , De Carpa , Fibra De Car",
+      "price": 52.0,
+      "original_price": 167.74,
+      "discount": 69.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mc1ssg3ocmgtac",
+      "link": "https://s.shopee.com.br/5q8KLNnCLj",
+      "rating": "4.9",
+      "sales": 99,
+      "shop": "sougayilanglocal5.br",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 40808171993,
+        "productName": "Sougayilang Vara De Pesca Telescópica Portátil , 4 Cores , 1.8m-3.0m , Equipamento Ao Ar Livre , De Carpa , Fibra De Car",
+        "price": "52",
+        "priceDiscountRate": 69,
+        "commissionRate": "0.13",
+        "sales": 99,
+        "ratingStar": "4.9",
+        "shopName": "sougayilanglocal5.br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mc1ssg3ocmgtac",
+        "productLink": "https://shopee.com.br/product/1511719153/40808171993",
+        "offerLink": "https://s.shopee.com.br/5q8KLNnCLj"
+      },
+      "_last_price": null
     },
     {
       "id": "20299250319",
@@ -3530,6 +3559,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-23020-s1jr09pmaxnva4",
         "productLink": "https://shopee.com.br/product/754127588/23026990667",
         "offerLink": "https://s.shopee.com.br/9fL24S7L7b"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "41010715629",
+      "name": "Sougayilang Vara De Pesca Giratória Telescópica Mar De Lançamento Longo Para De Robalo",
+      "price": 52.0,
+      "original_price": 162.5,
+      "discount": 68.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mot56bkfzyf572",
+      "link": "https://s.shopee.com.br/4LJYBKeMVw",
+      "rating": "4.9",
+      "sales": 79,
+      "shop": "sougayilanglocal3.br",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41010715629,
+        "productName": "Sougayilang Vara De Pesca Giratória Telescópica Mar De Lançamento Longo Para De Robalo",
+        "price": "52",
+        "priceDiscountRate": 68,
+        "commissionRate": "0.09",
+        "sales": 79,
+        "ratingStar": "4.9",
+        "shopName": "sougayilanglocal3.br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mot56bkfzyf572",
+        "productLink": "https://shopee.com.br/product/1500993597/41010715629",
+        "offerLink": "https://s.shopee.com.br/4LJYBKeMVw"
       },
       "_last_price": null
     },
@@ -4109,6 +4167,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/53f59459dfc3354c7e77164c41c2a782",
         "productLink": "https://shopee.com.br/product/769957349/18737701536",
         "offerLink": "https://s.shopee.com.br/1gIkXktKDv"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22594316058",
+      "name": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
+      "price": 22.99,
+      "original_price": 69.67,
+      "discount": 67.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
+      "link": "https://s.shopee.com.br/4VcyNddjAz",
+      "rating": "4.7",
+      "sales": 107,
+      "shop": "ATACADO PESCA E CIA",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22594316058,
+        "productName": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
+        "price": "22.99",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.07",
+        "sales": 107,
+        "ratingStar": "4.7",
+        "shopName": "ATACADO PESCA E CIA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
+        "productLink": "https://shopee.com.br/product/1595150949/22594316058",
+        "offerLink": "https://s.shopee.com.br/4VcyNddjAz"
       },
       "_last_price": null
     },
@@ -7735,6 +7822,35 @@
       "_last_price": null
     },
     {
+      "id": "22199198279",
+      "name": "Vara De Pesca Telescópica Retrátil 3,00 Metros Super Leve 40% Carbono 17Lbs",
+      "price": 29.9,
+      "original_price": 72.93,
+      "discount": 59.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820la-mo7jy3nj0wlc4e",
+      "link": "https://s.shopee.com.br/2gBKCGkhtm",
+      "rating": "4.8",
+      "sales": 59,
+      "shop": "ApexVendas",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22199198279,
+        "productName": "Vara De Pesca Telescópica Retrátil 3,00 Metros Super Leve 40% Carbono 17Lbs",
+        "price": "29.9",
+        "priceDiscountRate": 59,
+        "commissionRate": "0.07",
+        "sales": 59,
+        "ratingStar": "4.8",
+        "shopName": "ApexVendas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mo7jy3nj0wlc4e",
+        "productLink": "https://shopee.com.br/product/940287081/22199198279",
+        "offerLink": "https://s.shopee.com.br/2gBKCGkhtm"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58263407185",
       "name": "6/10/16 buracos gaiolas dobradas portátil hexágono rede de pesca peixe automático caranguejo armadilha carpa camarão",
       "price": 23.2,
@@ -9471,6 +9587,35 @@
       "_last_price": null
     },
     {
+      "id": "23298024156",
+      "name": "1 Vara de Pesca de Fibra de Vidro Telescópica",
+      "price": 19.99,
+      "original_price": 45.43,
+      "discount": 56.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7renw-m2fbi6ax9sirac",
+      "link": "https://s.shopee.com.br/40ghmifdBu",
+      "rating": "4.7",
+      "sales": 77,
+      "shop": "Diário de beleza",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23298024156,
+        "productName": "1 Vara de Pesca de Fibra de Vidro Telescópica",
+        "price": "19.99",
+        "priceDiscountRate": 56,
+        "commissionRate": "0.03",
+        "sales": 77,
+        "ratingStar": "4.7",
+        "shopName": "Diário de beleza",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7renw-m2fbi6ax9sirac",
+        "productLink": "https://shopee.com.br/product/379687599/23298024156",
+        "offerLink": "https://s.shopee.com.br/40ghmifdBu"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23594304295",
       "name": "Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Colorido Excecultivo 888",
       "price": 39.99,
@@ -9873,6 +10018,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyi-mctdgy32xaoec7",
         "productLink": "https://shopee.com.br/product/1480594679/22794276330",
         "offerLink": "https://s.shopee.com.br/7Kx7ICbYDe"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19197799521",
+      "name": "KIT 3.0m Roda de pesca telescópica para pesca marítima+Molinete 500 com linha +boia+anzol numero16",
+      "price": 89.99,
+      "original_price": 199.98,
+      "discount": 55.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mqt77ktst98g6b",
+      "link": "https://s.shopee.com.br/30oAasjRDo",
+      "rating": "4.7",
+      "sales": 59,
+      "shop": "TECH ELETRONICO LTDA",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19197799521,
+        "productName": "KIT 3.0m Roda de pesca telescópica para pesca marítima+Molinete 500 com linha +boia+anzol numero16",
+        "price": "89.99",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.03",
+        "sales": 59,
+        "ratingStar": "4.7",
+        "shopName": "TECH ELETRONICO LTDA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mqt77ktst98g6b",
+        "productLink": "https://shopee.com.br/product/1338519571/19197799521",
+        "offerLink": "https://s.shopee.com.br/30oAasjRDo"
       },
       "_last_price": null
     },
@@ -11152,35 +11326,6 @@
       "_last_price": null
     },
     {
-      "id": "23899340449",
-      "name": "Kit Podador De Galhos 3,5m + 4m Vara Telescópica 2 Serras 2 Ganchos",
-      "price": 139.99,
-      "original_price": 297.85,
-      "discount": 53.0,
-      "commission": 8.200000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-msceb66hodms2b",
-      "link": "https://s.shopee.com.br/4VcvuzUX3e",
-      "rating": "4.9",
-      "sales": 248,
-      "shop": "FerraMax-BR",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23899340449,
-        "productName": "Kit Podador De Galhos 3,5m + 4m Vara Telescópica 2 Serras 2 Ganchos",
-        "price": "139.99",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.082",
-        "sales": 248,
-        "ratingStar": "4.9",
-        "shopName": "FerraMax-BR",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-msceb66hodms2b",
-        "productLink": "https://shopee.com.br/product/1724060495/23899340449",
-        "offerLink": "https://s.shopee.com.br/4VcvuzUX3e"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23698804974",
       "name": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
       "price": 10.99,
@@ -11848,35 +11993,6 @@
       "_last_price": null
     },
     {
-      "id": "41661864285",
-      "name": "Kit 3 Varas Telescópicas Lisa / 3,60M - 40% Carbono - C.W 8-18lbs",
-      "price": 51.9,
-      "original_price": 108.12,
-      "discount": 52.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md4hll4oyux787",
-      "link": "https://s.shopee.com.br/2qUhvvasRQ",
-      "rating": "4.8",
-      "sales": 176,
-      "shop": "YJ Fishing Tackle Shop",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41661864285,
-        "productName": "Kit 3 Varas Telescópicas Lisa / 3,60M - 40% Carbono - C.W 8-18lbs",
-        "price": "51.9",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 176,
-        "ratingStar": "4.8",
-        "shopName": "YJ Fishing Tackle Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-md4hll4oyux787",
-        "productLink": "https://shopee.com.br/product/1550289846/41661864285",
-        "offerLink": "https://s.shopee.com.br/2qUhvvasRQ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58214050020",
       "name": "Placa de Video Mancer Radeon RX 580 Hellfire, 8GB, GDDR5, 256-bit, MCR-RX580-HLLF",
       "price": 975.9,
@@ -12192,6 +12308,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mqxnch3hzkli5c",
         "productLink": "https://shopee.com.br/product/882785833/18554808191",
         "offerLink": "https://s.shopee.com.br/5AsciDEvqe"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "52802387189",
+      "name": "Vara de pesca telescópica Fibra com carretilha 1.6M/1.8M/2.1M Vara De Pesca Carretel Max 30KG!!",
+      "price": 58.0,
+      "original_price": 118.37,
+      "discount": 51.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhpvz8ncokxt89",
+      "link": "https://s.shopee.com.br/4fwOZwd5py",
+      "rating": "4.7",
+      "sales": 99,
+      "shop": "Loja Deepl",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 52802387189,
+        "productName": "Vara de pesca telescópica Fibra com carretilha 1.6M/1.8M/2.1M Vara De Pesca Carretel Max 30KG!!",
+        "price": "58",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.08",
+        "sales": 99,
+        "ratingStar": "4.7",
+        "shopName": "Loja Deepl",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhpvz8ncokxt89",
+        "productLink": "https://shopee.com.br/product/1541645210/52802387189",
+        "offerLink": "https://s.shopee.com.br/4fwOZwd5py"
       },
       "_last_price": null
     },
@@ -14602,6 +14747,35 @@
       "_last_price": null
     },
     {
+      "id": "22798712425",
+      "name": "Kit De Pesca Completo 1 Vara Telescópica 12 Lbs + 1 Molinete Com Linha - Acessórios Iscas, Anzóis, Chumbadas",
+      "price": 39.0,
+      "original_price": 75.0,
+      "discount": 48.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk0gdyplhfy878",
+      "link": "https://s.shopee.com.br/5AsfArbBp3",
+      "rating": "4.7",
+      "sales": 92,
+      "shop": "HK  STORE",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22798712425,
+        "productName": "Kit De Pesca Completo 1 Vara Telescópica 12 Lbs + 1 Molinete Com Linha - Acessórios Iscas, Anzóis, Chumbadas",
+        "price": "39",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.08",
+        "sales": 92,
+        "ratingStar": "4.7",
+        "shopName": "HK  STORE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk0gdyplhfy878",
+        "productLink": "https://shopee.com.br/product/1267134569/22798712425",
+        "offerLink": "https://s.shopee.com.br/5AsfArbBp3"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23998831795",
       "name": "Canivete Portátil Resistente Pesca Cozinha Esportivo Afiado Com Capa e cordão",
       "price": 12.96,
@@ -14627,35 +14801,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7req2-mduujo8g3nmq86",
         "productLink": "https://shopee.com.br/product/1588652179/23998831795",
         "offerLink": "https://s.shopee.com.br/6L4a6MfMFI"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22798712425",
-      "name": "Kit De Pesca Completo 1 Vara Telescópica 12 Lbs + 1 Molinete Com Linha - Acessórios Iscas, Anzóis, Chumbadas",
-      "price": 39.0,
-      "original_price": 75.0,
-      "discount": 48.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk0gdyplhfy878",
-      "link": "https://s.shopee.com.br/4B06MJtXjU",
-      "rating": "4.7",
-      "sales": 92,
-      "shop": "HK  STORE",
-      "category": "chumbada",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22798712425,
-        "productName": "Kit De Pesca Completo 1 Vara Telescópica 12 Lbs + 1 Molinete Com Linha - Acessórios Iscas, Anzóis, Chumbadas",
-        "price": "39",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.08",
-        "sales": 92,
-        "ratingStar": "4.7",
-        "shopName": "HK  STORE",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk0gdyplhfy878",
-        "productLink": "https://shopee.com.br/product/1267134569/22798712425",
-        "offerLink": "https://s.shopee.com.br/4B06MJtXjU"
       },
       "_last_price": null
     },
@@ -15323,6 +15468,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mnm2elt70b9c20",
         "productLink": "https://shopee.com.br/product/801125047/23599290240",
         "offerLink": "https://s.shopee.com.br/6fhQUxZt1g"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "41166091157",
+      "name": "KIT - 240KG Vara De Pesca 1.6-2.4M Vara De Pesca Telescópica Fibra De Vidro Esportiva Ao Ar Livre Robalo Portátil",
+      "price": 29.9,
+      "original_price": 56.42,
+      "discount": 47.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mfki0hzfcr9ob0",
+      "link": "https://s.shopee.com.br/3LR0zUiAXq",
+      "rating": "4.8",
+      "sales": 59,
+      "shop": "Loja De Decoração De Lustres",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41166091157,
+        "productName": "KIT - 240KG Vara De Pesca 1.6-2.4M Vara De Pesca Telescópica Fibra De Vidro Esportiva Ao Ar Livre Robalo Portátil",
+        "price": "29.9",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.03",
+        "sales": 59,
+        "ratingStar": "4.8",
+        "shopName": "Loja De Decoração De Lustres",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mfki0hzfcr9ob0",
+        "productLink": "https://shopee.com.br/product/1480010654/41166091157",
+        "offerLink": "https://s.shopee.com.br/3LR0zUiAXq"
       },
       "_last_price": null
     },
@@ -20315,35 +20489,6 @@
       "_last_price": null
     },
     {
-      "id": "23699113373",
-      "name": "Ponteiro Retrátil Do Professor Design De Dedo Aço Inoxidável Telescópico Escola Ensino Vara Suprimentos Para Sala De Aul",
-      "price": 12.9,
-      "original_price": 21.5,
-      "discount": 40.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820me-mqr4gf1asav5b1",
-      "link": "https://s.shopee.com.br/2VrrXJc97S",
-      "rating": "4.9",
-      "sales": 147,
-      "shop": "Kuangre",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23699113373,
-        "productName": "Ponteiro Retrátil Do Professor Design De Dedo Aço Inoxidável Telescópico Escola Ensino Vara Suprimentos Para Sala De Aul",
-        "price": "12.9",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 147,
-        "ratingStar": "4.9",
-        "shopName": "Kuangre",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mqr4gf1asav5b1",
-        "productLink": "https://shopee.com.br/product/1344118295/23699113373",
-        "offerLink": "https://s.shopee.com.br/2VrrXJc97S"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22692272756",
       "name": "Saco de pesca Sambura Covo Saco Nylon P/peixe Tipo Sacola (ESCOLHA O TAMANHO)",
       "price": 12.0,
@@ -22891,6 +23036,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mnp4nu9pryf625",
         "productLink": "https://shopee.com.br/product/1552460828/58209955451",
         "offerLink": "https://s.shopee.com.br/AUu93vnqlW"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58261084738",
+      "name": "Óculos De Grau Automático Perto/Longe (Escurece no Sol)",
+      "price": 38.0,
+      "original_price": 58.46,
+      "discount": 35.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mohkzupu3itc43",
+      "link": "https://s.shopee.com.br/8KpeTymQAq",
+      "rating": "4.4",
+      "sales": 2096,
+      "shop": "MaxOfertasBr",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58261084738,
+        "productName": "Óculos De Grau Automático Perto/Longe (Escurece no Sol)",
+        "price": "38",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.11",
+        "sales": 2096,
+        "ratingStar": "4.4",
+        "shopName": "MaxOfertasBr",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mohkzupu3itc43",
+        "productLink": "https://shopee.com.br/product/1262744494/58261084738",
+        "offerLink": "https://s.shopee.com.br/8KpeTymQAq"
       },
       "_last_price": null
     },
@@ -25737,6 +25911,35 @@
       "_last_price": null
     },
     {
+      "id": "19498994816",
+      "name": "Vara Telescópica Traíra Gomo Longo Verde de 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
+      "price": 34.99,
+      "original_price": 49.99,
+      "discount": 30.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mrum3qjdefpib5",
+      "link": "https://s.shopee.com.br/1AZ1MurJ0",
+      "rating": "4.8",
+      "sales": 65,
+      "shop": "JAUPESCA",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19498994816,
+        "productName": "Vara Telescópica Traíra Gomo Longo Verde de 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
+        "price": "34.99",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.07",
+        "sales": 65,
+        "ratingStar": "4.8",
+        "shopName": "JAUPESCA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mrum3qjdefpib5",
+        "productLink": "https://shopee.com.br/product/954428278/19498994816",
+        "offerLink": "https://s.shopee.com.br/1AZ1MurJ0"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23698884797",
       "name": "Rede de Pesca Profissional para Tilápia, Traíra, Corvina, Piau, Lambari – Alta Resistência",
       "price": 27.99,
@@ -26868,35 +27071,6 @@
       "_last_price": null
     },
     {
-      "id": "56150410420",
-      "name": "Vara Telescópica Gomo Longo Traíra – Anéis de Aço | Disponível 3 m / 4 m / 5 m / 6 m – Verde Limão",
-      "price": 49.9,
-      "original_price": 68.36,
-      "discount": 27.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mge3d297ahvpf7",
-      "link": "https://s.shopee.com.br/5AsciDRzhi",
-      "rating": "4.8",
-      "sales": 214,
-      "shop": "Apolaz",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 56150410420,
-        "productName": "Vara Telescópica Gomo Longo Traíra – Anéis de Aço | Disponível 3 m / 4 m / 5 m / 6 m – Verde Limão",
-        "price": "49.9",
-        "priceDiscountRate": 27,
-        "commissionRate": "0.08",
-        "sales": 214,
-        "ratingStar": "4.8",
-        "shopName": "Apolaz",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mge3d297ahvpf7",
-        "productLink": "https://shopee.com.br/product/230579584/56150410420",
-        "offerLink": "https://s.shopee.com.br/5AsciDRzhi"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58205921489",
       "name": "SSD KNUP 512GB M.2 NVMe 3.0 2280 PCle GEN3 X4 SpeedRam 3D NAND – Upgrade Rápido e Seguro",
       "price": 699.99,
@@ -27328,6 +27502,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu8-ml5ftgkgqj9i7e",
         "productLink": "https://shopee.com.br/product/1741664222/58205198011",
         "offerLink": "https://s.shopee.com.br/W6n9dWhK4"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22926037147",
+      "name": "Kit 3 Varas Telescópicas Lisa 3,00M 40% Fibra De Carbono Ação Lenta C.W 7-17lbs Cmik",
+      "price": 66.96,
+      "original_price": 90.49,
+      "discount": 26.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134201-23020-xajaxzgagsnv23",
+      "link": "https://s.shopee.com.br/BTzDfuDy3",
+      "rating": "4.8",
+      "sales": 113,
+      "shop": "PescaShop",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22926037147,
+        "productName": "Kit 3 Varas Telescópicas Lisa 3,00M 40% Fibra De Carbono Ação Lenta C.W 7-17lbs Cmik",
+        "price": "66.96",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.03",
+        "sales": 113,
+        "ratingStar": "4.8",
+        "shopName": "PescaShop",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23020-xajaxzgagsnv23",
+        "productLink": "https://shopee.com.br/product/361954967/22926037147",
+        "offerLink": "https://s.shopee.com.br/BTzDfuDy3"
       },
       "_last_price": null
     },
@@ -28155,7 +28358,7 @@
       "rating": "4.8",
       "sales": 142,
       "shop": "MTZK Pesca",
-      "category": "vara telescopica",
+      "category": "chumbada",
       "source": "shopee",
       "_item": {
         "itemId": 17093014377,
@@ -29420,93 +29623,6 @@
       "_last_price": null
     },
     {
-      "id": "47956018833",
-      "name": "Vara Telescópica Traíra 2m 3m 4m 5m 6m 7m Anéis de Aço Pesca Pesada Alto Alcance Reforçada",
-      "price": 55.89,
-      "original_price": 71.65,
-      "discount": 22.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mki859j1y9z585",
-      "link": "https://s.shopee.com.br/4qFmJbTGNc",
-      "rating": "4.9",
-      "sales": 408,
-      "shop": "YONGXINSHENG",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 47956018833,
-        "productName": "Vara Telescópica Traíra 2m 3m 4m 5m 6m 7m Anéis de Aço Pesca Pesada Alto Alcance Reforçada",
-        "price": "55.89",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.09",
-        "sales": 408,
-        "ratingStar": "4.9",
-        "shopName": "YONGXINSHENG",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mki859j1y9z585",
-        "productLink": "https://shopee.com.br/product/544625199/47956018833",
-        "offerLink": "https://s.shopee.com.br/4qFmJbTGNc"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23897974382",
-      "name": "Kit 02 Vara Telescópica Gomo Longo JP Traira 4,00m Verde Jaú Pesca",
-      "price": 107.99,
-      "original_price": 138.45,
-      "discount": 22.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mp81hdt5r0g1b5",
-      "link": "https://s.shopee.com.br/3VkOj9YL5U",
-      "rating": "4.8",
-      "sales": 248,
-      "shop": "JAUPESCA",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23897974382,
-        "productName": "Kit 02 Vara Telescópica Gomo Longo JP Traira 4,00m Verde Jaú Pesca",
-        "price": "107.99",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.07",
-        "sales": 248,
-        "ratingStar": "4.8",
-        "shopName": "JAUPESCA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mp81hdt5r0g1b5",
-        "productLink": "https://shopee.com.br/product/954428278/23897974382",
-        "offerLink": "https://s.shopee.com.br/3VkOj9YL5U"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22498752326",
-      "name": "Kit Pesca 3 Varas Telescópica 3 Mts Estojo Acessórios boia anzol chumbada isca sino snap",
-      "price": 109.88,
-      "original_price": 140.87,
-      "discount": 22.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwlrb4xzhfr3a",
-      "link": "https://s.shopee.com.br/8fSUsgE00Y",
-      "rating": "4.9",
-      "sales": 118,
-      "shop": "CLICK & VIVA",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22498752326,
-        "productName": "Kit Pesca 3 Varas Telescópica 3 Mts Estojo Acessórios boia anzol chumbada isca sino snap",
-        "price": "109.88",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.08",
-        "sales": 118,
-        "ratingStar": "4.9",
-        "shopName": "CLICK & VIVA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwlrb4xzhfr3a",
-        "productLink": "https://shopee.com.br/product/1594633180/22498752326",
-        "offerLink": "https://s.shopee.com.br/8fSUsgE00Y"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23599155894",
       "name": "Canivete Automatico Saque Rapido Com Trava Clip de bolso metal inox Caça Pesca Camping  Escorpiao",
       "price": 38.88,
@@ -29532,6 +29648,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821e1-mgpknktz905p25",
         "productLink": "https://shopee.com.br/product/482975418/23599155894",
         "offerLink": "https://s.shopee.com.br/7ptNt7ZeCj"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22498752326",
+      "name": "Kit Pesca 3 Varas Telescópica 3 Mts Estojo Acessórios boia anzol chumbada isca sino snap",
+      "price": 109.88,
+      "original_price": 140.87,
+      "discount": 22.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwlrb4xzhfr3a",
+      "link": "https://s.shopee.com.br/8fSUsgE00Y",
+      "rating": "4.9",
+      "sales": 118,
+      "shop": "CLICK & VIVA",
+      "category": "chumbada",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22498752326,
+        "productName": "Kit Pesca 3 Varas Telescópica 3 Mts Estojo Acessórios boia anzol chumbada isca sino snap",
+        "price": "109.88",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.08",
+        "sales": 118,
+        "ratingStar": "4.9",
+        "shopName": "CLICK & VIVA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwlrb4xzhfr3a",
+        "productLink": "https://shopee.com.br/product/1594633180/22498752326",
+        "offerLink": "https://s.shopee.com.br/8fSUsgE00Y"
       },
       "_last_price": null
     },
@@ -30605,6 +30750,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcd0-lt0t2xbpm0gp2e",
         "productLink": "https://shopee.com.br/product/916909083/24269632484",
         "offerLink": "https://s.shopee.com.br/1AWYhQCom"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23098766387",
+      "name": "Kit De Pesca Completo Barato Vara Telescópica 1,70m + Molinete Com Linha e Acessórios",
+      "price": 56.9,
+      "original_price": 71.12,
+      "discount": 20.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82605-mlgempqqns3sba",
+      "link": "https://s.shopee.com.br/3g3rO6gtrs",
+      "rating": "4.8",
+      "sales": 115,
+      "shop": "ApexVendas",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23098766387,
+        "productName": "Kit De Pesca Completo Barato Vara Telescópica 1,70m + Molinete Com Linha e Acessórios",
+        "price": "56.9",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.07",
+        "sales": 115,
+        "ratingStar": "4.8",
+        "shopName": "ApexVendas",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82605-mlgempqqns3sba",
+        "productLink": "https://shopee.com.br/product/940287081/23098766387",
+        "offerLink": "https://s.shopee.com.br/3g3rO6gtrs"
       },
       "_last_price": null
     },
