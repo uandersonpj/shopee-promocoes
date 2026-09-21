@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T11:19:33.892525+00:00",
+  "updated_at": "2026-09-21T11:38:46.313665+00:00",
   "total": 1123,
   "products": [
     {
@@ -3129,8 +3129,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
         "productLink": "https://shopee.com.br/product/1368232097/58207198817",
         "offerLink": "https://s.shopee.com.br/40gfK4WR4X"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "20299250319",
@@ -7484,8 +7483,8 @@
     {
       "id": "19099843848",
       "name": "Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
-      "price": 20.54,
-      "original_price": 50.1,
+      "price": 20.55,
+      "original_price": 50.12,
       "discount": 59.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mci6w7lu1s75b8",
@@ -7498,7 +7497,7 @@
       "_item": {
         "itemId": 19099843848,
         "productName": "Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
-        "price": "20.54",
+        "price": "20.55",
         "priceDiscountRate": 59,
         "commissionRate": "0.03",
         "sales": 2100,
@@ -27462,6 +27461,35 @@
       "_last_price": null
     },
     {
+      "id": "23699032115",
+      "name": "Casinha Plástica Cachorro N7 e N8 Porte Médio Com Colchonete",
+      "price": 129.9,
+      "original_price": 175.54,
+      "discount": 26.0,
+      "commission": 14.000000000000002,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8257w-mshaxqhyuozl87",
+      "link": "https://s.shopee.com.br/5q8JVLEonC",
+      "rating": "4.6",
+      "sales": 608,
+      "shop": "ModuaDistribuidora_",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23699032115,
+        "productName": "Casinha Plástica Cachorro N7 e N8 Porte Médio Com Colchonete",
+        "price": "129.9",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.14",
+        "sales": 608,
+        "ratingStar": "4.6",
+        "shopName": "ModuaDistribuidora_",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257w-mshaxqhyuozl87",
+        "productLink": "https://shopee.com.br/product/988543100/23699032115",
+        "offerLink": "https://s.shopee.com.br/5q8JVLEonC"
+      },
+      "_last_price": null
+    },
+    {
       "id": "43050553955",
       "name": "Relógio De Quartzo De Luxo Para Homens Luminoso À Prova D'água Pulseira De Aço Inoxidável Presente De Aniversário",
       "price": 36.93,
@@ -27980,35 +28008,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mqm1omgp7zf186",
         "productLink": "https://shopee.com.br/product/1686971749/44763955954",
         "offerLink": "https://s.shopee.com.br/2gBIEYoQWP"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "19598318944",
-      "name": "Lester Premium 15kg Ração Completa para Cães Adultos Sabor Irresistível",
-      "price": 66.5,
-      "original_price": 88.67,
-      "discount": 25.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-ms2uixbi74ed57",
-      "link": "https://s.shopee.com.br/3VkPE5lFpc",
-      "rating": "4.9",
-      "sales": 564,
-      "shop": "PET__ARMARINHOS",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19598318944,
-        "productName": "Lester Premium 15kg Ração Completa para Cães Adultos Sabor Irresistível",
-        "price": "66.5",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.03",
-        "sales": 564,
-        "ratingStar": "4.9",
-        "shopName": "PET__ARMARINHOS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-ms2uixbi74ed57",
-        "productLink": "https://shopee.com.br/product/993017837/19598318944",
-        "offerLink": "https://s.shopee.com.br/3VkPE5lFpc"
       },
       "_last_price": null
     },
@@ -28647,35 +28646,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-ml83lso4whdzd8",
         "productLink": "https://shopee.com.br/product/502619181/19198493037",
         "offerLink": "https://s.shopee.com.br/8plv4oDPOQ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23699032115",
-      "name": "Casinha Plástica Cachorro N7 e N8 Porte Médio Com Colchonete",
-      "price": 189.9,
-      "original_price": 249.87,
-      "discount": 24.0,
-      "commission": 14.000000000000002,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8257w-mshaxqhyuozl87",
-      "link": "https://s.shopee.com.br/5q8JVLEonC",
-      "rating": "4.6",
-      "sales": 608,
-      "shop": "ModuaDistribuidora_",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23699032115,
-        "productName": "Casinha Plástica Cachorro N7 e N8 Porte Médio Com Colchonete",
-        "price": "189.9",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.14",
-        "sales": 608,
-        "ratingStar": "4.6",
-        "shopName": "ModuaDistribuidora_",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257w-mshaxqhyuozl87",
-        "productLink": "https://shopee.com.br/product/988543100/23699032115",
-        "offerLink": "https://s.shopee.com.br/5q8JVLEonC"
       },
       "_last_price": null
     },
@@ -29343,6 +29313,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rasn-man7dwuzomle57",
         "productLink": "https://shopee.com.br/product/1194006916/19699443228",
         "offerLink": "https://s.shopee.com.br/1Lfue6tVE1"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19598318944",
+      "name": "Lester Premium 15kg Ração Completa para Cães Adultos Sabor Irresistível",
+      "price": 68.99,
+      "original_price": 88.45,
+      "discount": 22.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-ms2uixbi74ed57",
+      "link": "https://s.shopee.com.br/3VkPE5lFpc",
+      "rating": "4.9",
+      "sales": 564,
+      "shop": "PET__ARMARINHOS",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19598318944,
+        "productName": "Lester Premium 15kg Ração Completa para Cães Adultos Sabor Irresistível",
+        "price": "68.99",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.03",
+        "sales": 564,
+        "ratingStar": "4.9",
+        "shopName": "PET__ARMARINHOS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-ms2uixbi74ed57",
+        "productLink": "https://shopee.com.br/product/993017837/19598318944",
+        "offerLink": "https://s.shopee.com.br/3VkPE5lFpc"
       },
       "_last_price": null
     },
