@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T15:10:26.258246+00:00",
+  "updated_at": "2026-09-21T15:29:45.367036+00:00",
   "total": 1121,
   "products": [
     {
@@ -474,7 +474,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
       "link": "https://s.shopee.com.br/5VVT6jpHhg",
-      "rating": "4.7",
+      "rating": "4.6",
       "sales": 7852,
       "shop": "MVO COMÉRCIO DE VARIEDADES",
       "category": "air fryer",
@@ -486,7 +486,7 @@
         "priceDiscountRate": 81,
         "commissionRate": "0.03",
         "sales": 7852,
-        "ratingStar": "4.7",
+        "ratingStar": "4.6",
         "shopName": "MVO COMÉRCIO DE VARIEDADES",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
         "productLink": "https://shopee.com.br/product/972031390/21997150349",
@@ -8454,8 +8454,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mo6y0m3644xs31",
         "productLink": "https://shopee.com.br/product/1564593552/22394970918",
         "offerLink": "https://s.shopee.com.br/4fwM77YLDS"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "20999077793",
@@ -18954,35 +18953,6 @@
       "_last_price": null
     },
     {
-      "id": "22494334861",
-      "name": "Kit 4 Panos de Chão Grande Limpeza 50x60cm Microfibra Multiuso",
-      "price": 21.99,
-      "original_price": 37.27,
-      "discount": 41.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82616-ml1891o6hm2re9",
-      "link": "https://s.shopee.com.br/4qFmJROZV2",
-      "rating": "4.6",
-      "sales": 1353,
-      "shop": "Power Fibra 2",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22494334861,
-        "productName": "Kit 4 Panos de Chão Grande Limpeza 50x60cm Microfibra Multiuso",
-        "price": "21.99",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.03",
-        "sales": 1353,
-        "ratingStar": "4.6",
-        "shopName": "Power Fibra 2",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82616-ml1891o6hm2re9",
-        "productLink": "https://shopee.com.br/product/335170333/22494334861",
-        "offerLink": "https://s.shopee.com.br/4qFmJROZV2"
-      },
-      "_last_price": null
-    },
-    {
       "id": "19499594439",
       "name": "Arranhador Para Gatos Com Casinha Playground",
       "price": 147.4,
@@ -20516,35 +20486,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82622-mlqhnya4zehb31",
         "productLink": "https://shopee.com.br/product/375201738/22299409946",
         "offerLink": "https://s.shopee.com.br/7fZxgdeWFb"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23493418176",
-      "name": "Kit 3 Panos de Chão Microfibra 70x60cm Furo para Rodo Dupla Camada",
-      "price": 21.99,
-      "original_price": 36.05,
-      "discount": 39.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8262v-ml180252vj0gcc",
-      "link": "https://s.shopee.com.br/9KiBfi7RMT",
-      "rating": "4.8",
-      "sales": 4524,
-      "shop": "Power Fibra 2",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23493418176,
-        "productName": "Kit 3 Panos de Chão Microfibra 70x60cm Furo para Rodo Dupla Camada",
-        "price": "21.99",
-        "priceDiscountRate": 39,
-        "commissionRate": "0.03",
-        "sales": 4524,
-        "ratingStar": "4.8",
-        "shopName": "Power Fibra 2",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262v-ml180252vj0gcc",
-        "productLink": "https://shopee.com.br/product/335170333/23493418176",
-        "offerLink": "https://s.shopee.com.br/9KiBfi7RMT"
       },
       "_last_price": null
     },
@@ -25391,6 +25332,35 @@
       "_last_price": null
     },
     {
+      "id": "22494334861",
+      "name": "Kit 4 Panos de Chão Grande Limpeza 50x60cm Microfibra Multiuso",
+      "price": 25.99,
+      "original_price": 37.13,
+      "discount": 30.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82616-ml1891o6hm2re9",
+      "link": "https://s.shopee.com.br/4qFmJROZV2",
+      "rating": "4.6",
+      "sales": 1353,
+      "shop": "Power Fibra 2",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22494334861,
+        "productName": "Kit 4 Panos de Chão Grande Limpeza 50x60cm Microfibra Multiuso",
+        "price": "25.99",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.03",
+        "sales": 1353,
+        "ratingStar": "4.6",
+        "shopName": "Power Fibra 2",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82616-ml1891o6hm2re9",
+        "productLink": "https://shopee.com.br/product/335170333/22494334861",
+        "offerLink": "https://s.shopee.com.br/4qFmJROZV2"
+      },
+      "_last_price": null
+    },
+    {
       "id": "14494160625",
       "name": "Kit Shampoo + Condicionador SOS Bomba Original Salon Line 200ml",
       "price": 19.95,
@@ -26290,6 +26260,35 @@
       "_last_price": null
     },
     {
+      "id": "23493418176",
+      "name": "Kit 3 Panos de Chão Microfibra 70x60cm Furo para Rodo Dupla Camada",
+      "price": 25.99,
+      "original_price": 36.1,
+      "discount": 28.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8262v-ml180252vj0gcc",
+      "link": "https://s.shopee.com.br/9KiBfi7RMT",
+      "rating": "4.8",
+      "sales": 4524,
+      "shop": "Power Fibra 2",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23493418176,
+        "productName": "Kit 3 Panos de Chão Microfibra 70x60cm Furo para Rodo Dupla Camada",
+        "price": "25.99",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.03",
+        "sales": 4524,
+        "ratingStar": "4.8",
+        "shopName": "Power Fibra 2",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262v-ml180252vj0gcc",
+        "productLink": "https://shopee.com.br/product/335170333/23493418176",
+        "offerLink": "https://s.shopee.com.br/9KiBfi7RMT"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21598000970",
       "name": "05 Un. Pano De Chão Microfibra Gigante 60x80 Multiuso",
       "price": 32.99,
@@ -26315,35 +26314,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mrruxmhgyayu5b",
         "productLink": "https://shopee.com.br/product/392233183/21598000970",
         "offerLink": "https://s.shopee.com.br/5q8JVHKlTC"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18451683386",
-      "name": "Spray Defrizante Protetor Térmico com Filtro Solar Liso Único 100ml Gaboni",
-      "price": 35.9,
-      "original_price": 49.86,
-      "discount": 28.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mraocqosln2c04",
-      "link": "https://s.shopee.com.br/905LH6zVQy",
-      "rating": "4.9",
-      "sales": 1199,
-      "shop": "Gaboni Professional",
-      "category": "protetor solar",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18451683386,
-        "productName": "Spray Defrizante Protetor Térmico com Filtro Solar Liso Único 100ml Gaboni",
-        "price": "35.9",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.11",
-        "sales": 1199,
-        "ratingStar": "4.9",
-        "shopName": "Gaboni Professional",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mraocqosln2c04",
-        "productLink": "https://shopee.com.br/product/386121109/18451683386",
-        "offerLink": "https://s.shopee.com.br/905LH6zVQy"
       },
       "_last_price": null
     },
@@ -27653,35 +27623,6 @@
       "_last_price": null
     },
     {
-      "id": "58255657495",
-      "name": "Body Splash Afrodite Garden 200ml - AURA Beauty by. Jade Picon",
-      "price": 89.0,
-      "original_price": 118.67,
-      "discount": 25.0,
-      "commission": 17.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mrhc4ue2rz0mba",
-      "link": "https://s.shopee.com.br/6Al9tufECg",
-      "rating": "4.9",
-      "sales": 2825,
-      "shop": "AURA Beauty Club",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58255657495,
-        "productName": "Body Splash Afrodite Garden 200ml - AURA Beauty by. Jade Picon",
-        "price": "89",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.17",
-        "sales": 2825,
-        "ratingStar": "4.9",
-        "shopName": "AURA Beauty Club",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mrhc4ue2rz0mba",
-        "productLink": "https://shopee.com.br/product/1741861311/58255657495",
-        "offerLink": "https://s.shopee.com.br/6Al9tufECg"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23099145010",
       "name": "Limpador Perfumado 1L UAU Ingleza Perfume Chá Branco Promo",
       "price": 8.05,
@@ -28465,6 +28406,35 @@
       "_last_price": null
     },
     {
+      "id": "22594794756",
+      "name": "Biore Protetor Solar Uv Aqua Rico Gel Spf50 Hidratante Unissex Para Clareamento (50g/ml)",
+      "price": 34.99,
+      "original_price": 46.04,
+      "discount": 24.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82603-mjh55tlj7rwg6c",
+      "link": "https://s.shopee.com.br/7VGZmQ2Hup",
+      "rating": "4.9",
+      "sales": 986,
+      "shop": "Sweet.life",
+      "category": "protetor solar",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22594794756,
+        "productName": "Biore Protetor Solar Uv Aqua Rico Gel Spf50 Hidratante Unissex Para Clareamento (50g/ml)",
+        "price": "34.99",
+        "priceDiscountRate": 24,
+        "commissionRate": "0.13",
+        "sales": 986,
+        "ratingStar": "4.9",
+        "shopName": "Sweet.life",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82603-mjh55tlj7rwg6c",
+        "productLink": "https://shopee.com.br/product/653261234/22594794756",
+        "offerLink": "https://s.shopee.com.br/7VGZmQ2Hup"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19198493037",
       "name": "NIVEA Creme Facial Antissinais 100g",
       "price": 31.9,
@@ -28780,6 +28750,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mq6gwjyd5fr7d5",
         "productLink": "https://shopee.com.br/product/373261329/58263573164",
         "offerLink": "https://s.shopee.com.br/9zxsSwvhP4"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58255657495",
+      "name": "Body Splash Afrodite Garden 200ml - AURA Beauty by. Jade Picon",
+      "price": 92.0,
+      "original_price": 119.48,
+      "discount": 23.0,
+      "commission": 17.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mrhc4ue2rz0mba",
+      "link": "https://s.shopee.com.br/6Al9tufECg",
+      "rating": "4.9",
+      "sales": 2825,
+      "shop": "AURA Beauty Club",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58255657495,
+        "productName": "Body Splash Afrodite Garden 200ml - AURA Beauty by. Jade Picon",
+        "price": "92",
+        "priceDiscountRate": 23,
+        "commissionRate": "0.17",
+        "sales": 2825,
+        "ratingStar": "4.9",
+        "shopName": "AURA Beauty Club",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mrhc4ue2rz0mba",
+        "productLink": "https://shopee.com.br/product/1741861311/58255657495",
+        "offerLink": "https://s.shopee.com.br/6Al9tufECg"
       },
       "_last_price": null
     },
