@@ -1,36 +1,7 @@
 {
-  "updated_at": "2026-09-22T17:40:07.277881+00:00",
-  "total": 1127,
+  "updated_at": "2026-09-22T17:59:31.231247+00:00",
+  "total": 1126,
   "products": [
-    {
-      "id": "58266825173",
-      "name": "Esponja de Maquiagem 4cm com Estojo – Beauty Blender para Base e Corretivo | Oferta Especial",
-      "price": 0.99,
-      "original_price": 9.9,
-      "discount": 90.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-msct0kfumux108",
-      "link": "https://s.shopee.com.br/4B09NWv1Vn",
-      "rating": "4.9",
-      "sales": 435,
-      "shop": "BEMLAR",
-      "category": "esponja",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58266825173,
-        "productName": "Esponja de Maquiagem 4cm com Estojo – Beauty Blender para Base e Corretivo | Oferta Especial",
-        "price": "0.99",
-        "priceDiscountRate": 90,
-        "commissionRate": "0.03",
-        "sales": 435,
-        "ratingStar": "4.9",
-        "shopName": "BEMLAR",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-msct0kfumux108",
-        "productLink": "https://shopee.com.br/product/1922400528/58266825173",
-        "offerLink": "https://s.shopee.com.br/4B09NWv1Vn"
-      },
-      "_last_price": null
-    },
     {
       "id": "50203126324",
       "name": "Snack Kadi Nuggets Salmão para Gatos 20g Petisco Gato",
@@ -1041,7 +1012,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mp21h8cy5w5i1c",
         "productLink": "https://shopee.com.br/product/1567204121/58261933291",
         "offerLink": "https://s.shopee.com.br/1BMUQTwKF1"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "57109179747",
@@ -2372,8 +2344,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lp-mqyin0g0guth55",
         "productLink": "https://shopee.com.br/product/235321669/52557307480",
         "offerLink": "https://s.shopee.com.br/2BF18V0TGc"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22594956407",
@@ -13008,35 +12979,6 @@
       "_last_price": null
     },
     {
-      "id": "40578847143",
-      "name": "Kit com 2 Formas de Silicone Moldes Variados para Chocolate Gelatina Balas de Goma e Creatina",
-      "price": 24.99,
-      "original_price": 49.98,
-      "discount": 50.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825b1-mq7o8qhsxjbj81",
-      "link": "https://s.shopee.com.br/8AWEHbfs9H",
-      "rating": "4.9",
-      "sales": 1281,
-      "shop": "Point Mix",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40578847143,
-        "productName": "Kit com 2 Formas de Silicone Moldes Variados para Chocolate Gelatina Balas de Goma e Creatina",
-        "price": "24.99",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.03",
-        "sales": 1281,
-        "ratingStar": "4.9",
-        "shopName": "Point Mix",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b1-mq7o8qhsxjbj81",
-        "productLink": "https://shopee.com.br/product/325369388/40578847143",
-        "offerLink": "https://s.shopee.com.br/8AWEHbfs9H"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58212041298",
       "name": "Kit 16 Itens Treino Em Casa Completo Elásticos Extensores + 5 Mini Bands Fitness Musculação Exercícios Yoga Fisioterapia",
       "price": 13.9,
@@ -14225,6 +14167,35 @@
       "_last_price": null
     },
     {
+      "id": "40578847143",
+      "name": "Kit com 2 Formas de Silicone Moldes Variados para Chocolate Gelatina Balas de Goma e Creatina",
+      "price": 25.99,
+      "original_price": 49.98,
+      "discount": 48.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825b1-mq7o8qhsxjbj81",
+      "link": "https://s.shopee.com.br/8AWEHbfs9H",
+      "rating": "4.9",
+      "sales": 1281,
+      "shop": "Point Mix",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 40578847143,
+        "productName": "Kit com 2 Formas de Silicone Moldes Variados para Chocolate Gelatina Balas de Goma e Creatina",
+        "price": "25.99",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.03",
+        "sales": 1281,
+        "ratingStar": "4.9",
+        "shopName": "Point Mix",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b1-mq7o8qhsxjbj81",
+        "productLink": "https://shopee.com.br/product/325369388/40578847143",
+        "offerLink": "https://s.shopee.com.br/8AWEHbfs9H"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18597631235",
       "name": "Kit Top Academia Musculação Para Fitness Casual Praia Treino C/ Elástico",
       "price": 26.9,
@@ -15004,6 +14975,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
         "productLink": "https://shopee.com.br/product/1727822533/58256070956",
         "offerLink": "https://s.shopee.com.br/1AWYbShNd"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22998482488",
+      "name": "Sachê Friskies para Gatos – Kit com 15 Unidades – envio imediato",
+      "price": 34.9,
+      "original_price": 65.85,
+      "discount": 47.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-min6so3iwow208",
+      "link": "https://s.shopee.com.br/4VczmD9jox",
+      "rating": "4.9",
+      "sales": 2817,
+      "shop": "Morato Agropecuária",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22998482488,
+        "productName": "Sachê Friskies para Gatos – Kit com 15 Unidades – envio imediato",
+        "price": "34.9",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.03",
+        "sales": 2817,
+        "ratingStar": "4.9",
+        "shopName": "Morato Agropecuária",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-min6so3iwow208",
+        "productLink": "https://shopee.com.br/product/1055269003/22998482488",
+        "offerLink": "https://s.shopee.com.br/4VczmD9jox"
       },
       "_last_price": null
     },
@@ -23535,8 +23535,8 @@
     {
       "id": "58206237985",
       "name": "Kit 3 a 10 Potes Herméticos 2L Dispenser Organizador Lavanderia Para Sabão em Pó Detergente Amaciante",
-      "price": 56.85,
-      "original_price": 84.85,
+      "price": 56.86,
+      "original_price": 84.87,
       "discount": 33.0,
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mrlojlsb5r7od2",
@@ -23549,7 +23549,7 @@
       "_item": {
         "itemId": 58206237985,
         "productName": "Kit 3 a 10 Potes Herméticos 2L Dispenser Organizador Lavanderia Para Sabão em Pó Detergente Amaciante",
-        "price": "56.85",
+        "price": "56.86",
         "priceDiscountRate": 33,
         "commissionRate": "0.14",
         "sales": 1769,
@@ -24486,35 +24486,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzrq3b4jnz1hb3",
         "productLink": "https://shopee.com.br/product/293152127/23697597322",
         "offerLink": "https://s.shopee.com.br/4LJZZuAN9u"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58259794589",
-      "name": "Ração Gato MiaCat Todas As Raças Filhote e Adulto 27g Proteína Sem Corante",
-      "price": 67.99,
-      "original_price": 99.99,
-      "discount": 32.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mp0u7xd7ojk03d",
-      "link": "https://s.shopee.com.br/1qcBPSuITL",
-      "rating": "4.9",
-      "sales": 955,
-      "shop": "Petistrô",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58259794589,
-        "productName": "Ração Gato MiaCat Todas As Raças Filhote e Adulto 27g Proteína Sem Corante",
-        "price": "67.99",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.08",
-        "sales": 955,
-        "ratingStar": "4.9",
-        "shopName": "Petistrô",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mp0u7xd7ojk03d",
-        "productLink": "https://shopee.com.br/product/382010808/58259794589",
-        "offerLink": "https://s.shopee.com.br/1qcBPSuITL"
       },
       "_last_price": null
     },
@@ -28755,8 +28726,8 @@
     {
       "id": "23699032115",
       "name": "Casinha Plástica Cachorro N7 e N8 Porte Médio Com Colchonete",
-      "price": 149.99,
-      "original_price": 197.36,
+      "price": 189.9,
+      "original_price": 249.87,
       "discount": 24.0,
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8257w-mshaxqhyuozl87",
@@ -28769,7 +28740,7 @@
       "_item": {
         "itemId": 23699032115,
         "productName": "Casinha Plástica Cachorro N7 e N8 Porte Médio Com Colchonete",
-        "price": "149.99",
+        "price": "189.9",
         "priceDiscountRate": 24,
         "commissionRate": "0.14",
         "sales": 620,
@@ -31914,35 +31885,6 @@
       "_last_price": null
     },
     {
-      "id": "22998482488",
-      "name": "Sachê Friskies para Gatos – Kit com 15 Unidades – envio imediato",
-      "price": 40.99,
-      "original_price": 48.8,
-      "discount": 16.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-min6so3iwow208",
-      "link": "https://s.shopee.com.br/4VczmD9jox",
-      "rating": "4.9",
-      "sales": 2817,
-      "shop": "Morato Agropecuária",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22998482488,
-        "productName": "Sachê Friskies para Gatos – Kit com 15 Unidades – envio imediato",
-        "price": "40.99",
-        "priceDiscountRate": 16,
-        "commissionRate": "0.03",
-        "sales": 2817,
-        "ratingStar": "4.9",
-        "shopName": "Morato Agropecuária",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-min6so3iwow208",
-        "productLink": "https://shopee.com.br/product/1055269003/22998482488",
-        "offerLink": "https://s.shopee.com.br/4VczmD9jox"
-      },
-      "_last_price": null
-    },
-    {
       "id": "15844579921",
       "name": "Panela De Pressao Pequena 2,5 Litros Fortlar Colorida A- LAM",
       "price": 58.9,
@@ -32461,6 +32403,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mavi19u4ixa1c4",
         "productLink": "https://shopee.com.br/product/890111735/22194163978",
         "offerLink": "https://s.shopee.com.br/7fa1NTK972"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58261183009",
+      "name": "Kit 3 Pacotes de Ração quatree supreme para Gatos Castrados  Batata Doce",
+      "price": 65.45,
+      "original_price": 77.0,
+      "discount": 15.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825ai-ms07bpsivjt4e7",
+      "link": "https://s.shopee.com.br/4LJVia2nBo",
+      "rating": "4.8",
+      "sales": 1200,
+      "shop": "Travessia Petshop",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58261183009,
+        "productName": "Kit 3 Pacotes de Ração quatree supreme para Gatos Castrados  Batata Doce",
+        "price": "65.45",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.03",
+        "sales": 1200,
+        "ratingStar": "4.8",
+        "shopName": "Travessia Petshop",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ai-ms07bpsivjt4e7",
+        "productLink": "https://shopee.com.br/product/1081502692/58261183009",
+        "offerLink": "https://s.shopee.com.br/4LJVia2nBo"
       },
       "_last_price": null
     },
