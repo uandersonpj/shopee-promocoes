@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T23:50:52.716430+00:00",
+  "updated_at": "2026-09-22T00:10:05.636666+00:00",
   "total": 1120,
   "products": [
     {
@@ -459,8 +459,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
         "productLink": "https://shopee.com.br/product/972031390/21997150349",
         "offerLink": "https://s.shopee.com.br/5VVT6jpHhg"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "21498310169",
@@ -4015,7 +4014,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkc1gjt1xc606",
         "productLink": "https://shopee.com.br/product/1362613415/42110429390",
         "offerLink": "https://s.shopee.com.br/6fhQUye5ZS"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22399450069",
@@ -4142,7 +4142,7 @@
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mrj3tt6lqjut31",
       "link": "https://s.shopee.com.br/905LHGVCq4",
-      "rating": "4.6",
+      "rating": "4.5",
       "sales": 599,
       "shop": "D2MIX",
       "category": "kit pesca",
@@ -4154,7 +4154,7 @@
         "priceDiscountRate": 67,
         "commissionRate": "0.12",
         "sales": 599,
-        "ratingStar": "4.6",
+        "ratingStar": "4.5",
         "shopName": "D2MIX",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mrj3tt6lqjut31",
         "productLink": "https://shopee.com.br/product/1614832008/23995139547",
@@ -4333,35 +4333,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra1y-mbikdnlkoa3e0e",
         "productLink": "https://shopee.com.br/product/1541927562/23294180222",
         "offerLink": "https://s.shopee.com.br/6VO0IZlTfy"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23694051921",
-      "name": "Moedor De Café Grão Sementes Elétrico Inox Portátil 110V",
-      "price": 31.99,
-      "original_price": 94.09,
-      "discount": 66.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rav9-maai861iov4a16",
-      "link": "https://s.shopee.com.br/9fL24Or1SR",
-      "rating": "4.8",
-      "sales": 1131,
-      "shop": "KARINA_Life Store",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23694051921,
-        "productName": "Moedor De Café Grão Sementes Elétrico Inox Portátil 110V",
-        "price": "31.99",
-        "priceDiscountRate": 66,
-        "commissionRate": "0.03",
-        "sales": 1131,
-        "ratingStar": "4.8",
-        "shopName": "KARINA_Life Store",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rav9-maai861iov4a16",
-        "productLink": "https://shopee.com.br/product/378597608/23694051921",
-        "offerLink": "https://s.shopee.com.br/9fL24Or1SR"
       },
       "_last_price": null
     },
@@ -8135,6 +8106,35 @@
       "_last_price": null
     },
     {
+      "id": "23694051921",
+      "name": "Moedor De Café Grão Sementes Elétrico Inox Portátil 110V",
+      "price": 39.99,
+      "original_price": 95.21,
+      "discount": 58.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rav9-maai861iov4a16",
+      "link": "https://s.shopee.com.br/9fL24Or1SR",
+      "rating": "4.8",
+      "sales": 1131,
+      "shop": "KARINA_Life Store",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23694051921,
+        "productName": "Moedor De Café Grão Sementes Elétrico Inox Portátil 110V",
+        "price": "39.99",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.03",
+        "sales": 1131,
+        "ratingStar": "4.8",
+        "shopName": "KARINA_Life Store",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rav9-maai861iov4a16",
+        "productLink": "https://shopee.com.br/product/378597608/23694051921",
+        "offerLink": "https://s.shopee.com.br/9fL24Or1SR"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22598932320",
       "name": "Relógio De Pulso Digital à Pprova De água Para Homem Cronógrafo LED Pulseira Desportiva Casual Em Silicone",
       "price": 25.49,
@@ -9059,6 +9059,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262h-mjmqfx0jzhtsaa",
         "productLink": "https://shopee.com.br/product/1006215031/27869521679",
         "offerLink": "https://s.shopee.com.br/70KHOSdwhl"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23198947232",
+      "name": "Esponja Silicone Massageadora Escova Banho Lava Corpo Todo Bucha Esfoliação",
+      "price": 10.98,
+      "original_price": 24.95,
+      "discount": 56.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824i4-mfa77ftqwufi2f",
+      "link": "https://s.shopee.com.br/3g3plE49S2",
+      "rating": "4.7",
+      "sales": 1978,
+      "shop": "Good Vibes Moment Variedade Mochila",
+      "category": "esponja",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23198947232,
+        "productName": "Esponja Silicone Massageadora Escova Banho Lava Corpo Todo Bucha Esfoliação",
+        "price": "10.98",
+        "priceDiscountRate": 56,
+        "commissionRate": "0.03",
+        "sales": 1978,
+        "ratingStar": "4.7",
+        "shopName": "Good Vibes Moment Variedade Mochila",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i4-mfa77ftqwufi2f",
+        "productLink": "https://shopee.com.br/product/392260640/23198947232",
+        "offerLink": "https://s.shopee.com.br/3g3plE49S2"
       },
       "_last_price": null
     },
@@ -19527,35 +19556,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zuo-mkms3o9zgu8266",
         "productLink": "https://shopee.com.br/product/1429781525/58255146160",
         "offerLink": "https://s.shopee.com.br/80CoaIa8g7"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58204282495",
-      "name": "Trio Esponjas Maquiagem Macrilan EP26 Para Base Pó e Corretivo Preta",
-      "price": 19.2,
-      "original_price": 32.0,
-      "discount": 40.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1u3qdjfymae6",
-      "link": "https://s.shopee.com.br/7AdhaldJMm",
-      "rating": "5",
-      "sales": 2621,
-      "shop": "PRIME COMPLETA COMERCIO E SERVICOS ",
-      "category": "esponja",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58204282495,
-        "productName": "Trio Esponjas Maquiagem Macrilan EP26 Para Base Pó e Corretivo Preta",
-        "price": "19.2",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.07",
-        "sales": 2621,
-        "ratingStar": "5",
-        "shopName": "PRIME COMPLETA COMERCIO E SERVICOS ",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1u3qdjfymae6",
-        "productLink": "https://shopee.com.br/product/1087950389/58204282495",
-        "offerLink": "https://s.shopee.com.br/7AdhaldJMm"
       },
       "_last_price": null
     },
