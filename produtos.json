@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T04:57:07.258123+00:00",
+  "updated_at": "2026-09-22T05:15:58.526508+00:00",
   "total": 1118,
   "products": [
     {
@@ -605,7 +605,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
         "productLink": "https://shopee.com.br/product/344381236/57911938287",
         "offerLink": "https://s.shopee.com.br/1gIkXabR0X"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22494449171",
@@ -3996,8 +3997,8 @@
     {
       "id": "58213479973",
       "name": "Panela de Pressão Aço Inox Fundo Triplo Pro Indução e Gás 4-8L Fechamento Externo",
-      "price": 297.8,
-      "original_price": 902.42,
+      "price": 297.77,
+      "original_price": 902.33,
       "discount": 67.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mtape51h6ubnc7",
@@ -4010,7 +4011,7 @@
       "_item": {
         "itemId": 58213479973,
         "productName": "Panela de Pressão Aço Inox Fundo Triplo Pro Indução e Gás 4-8L Fechamento Externo",
-        "price": "297.8",
+        "price": "297.77",
         "priceDiscountRate": 67,
         "commissionRate": "0.03",
         "sales": 766,
