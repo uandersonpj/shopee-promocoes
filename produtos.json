@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T05:34:46.687313+00:00",
-  "total": 1118,
+  "updated_at": "2026-09-22T05:53:34.379686+00:00",
+  "total": 1117,
   "products": [
     {
       "id": "50203126324",
@@ -202,7 +202,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m94jsi5hwaol47",
         "productLink": "https://shopee.com.br/product/1127030290/23593603405",
         "offerLink": "https://s.shopee.com.br/1AWYVZS8A"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "26539956454",
@@ -490,7 +491,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
         "productLink": "https://shopee.com.br/product/972031390/21997150349",
         "offerLink": "https://s.shopee.com.br/5VVT6jpHhg"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21498310169",
@@ -2226,35 +2228,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-msxgtp629z477b",
         "productLink": "https://shopee.com.br/product/424883518/23098214172",
         "offerLink": "https://s.shopee.com.br/3B7YKVW5Iw"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "17370976709",
-      "name": "Isca Artificial Whopper Popper 13g/35g Iscas De Pesca Top Água",
-      "price": 7.84,
-      "original_price": 28.0,
-      "discount": 72.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/38f05806d01ed654d61cc598c39391ee",
-      "link": "https://s.shopee.com.br/3g3rDUrePx",
-      "rating": "4.8",
-      "sales": 154,
-      "shop": "qqPesca.br",
-      "category": "isca artificial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 17370976709,
-        "productName": "Isca Artificial Whopper Popper 13g/35g Iscas De Pesca Top Água",
-        "price": "7.84",
-        "priceDiscountRate": 72,
-        "commissionRate": "0.03",
-        "sales": 154,
-        "ratingStar": "4.8",
-        "shopName": "qqPesca.br",
-        "imageUrl": "https://cf.shopee.com.br/file/38f05806d01ed654d61cc598c39391ee",
-        "productLink": "https://shopee.com.br/product/769957349/17370976709",
-        "offerLink": "https://s.shopee.com.br/3g3rDUrePx"
       },
       "_last_price": null
     },
@@ -28303,7 +28276,7 @@
       "discount": 25.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823qa-moorvce5znri9d",
-      "link": "https://s.shopee.com.br/905LvOtibG",
+      "link": "https://s.shopee.com.br/5q8MrRL9YV",
       "rating": "5",
       "sales": 232,
       "shop": "PROV.X",
@@ -28320,7 +28293,7 @@
         "shopName": "PROV.X",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qa-moorvce5znri9d",
         "productLink": "https://shopee.com.br/product/1702710597/58210022340",
-        "offerLink": "https://s.shopee.com.br/905LvOtibG"
+        "offerLink": "https://s.shopee.com.br/5q8MrRL9YV"
       },
       "_last_price": null
     },
