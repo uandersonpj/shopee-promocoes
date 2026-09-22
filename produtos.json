@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T03:23:02.961378+00:00",
-  "total": 1118,
+  "updated_at": "2026-09-22T03:41:53.433284+00:00",
+  "total": 1119,
   "products": [
     {
       "id": "50203126324",
@@ -230,7 +230,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134275-7rdxw-mdfucal40l6y57",
         "productLink": "https://shopee.com.br/product/236693678/26539956454",
         "offerLink": "https://s.shopee.com.br/40gfK3OB4s"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23497594302",
@@ -3991,8 +3992,8 @@
     {
       "id": "58213479973",
       "name": "Panela de Pressão Aço Inox Fundo Triplo Pro Indução e Gás 4-8L Fechamento Externo",
-      "price": 297.77,
-      "original_price": 902.33,
+      "price": 297.8,
+      "original_price": 902.42,
       "discount": 67.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mtape51h6ubnc7",
@@ -4005,7 +4006,7 @@
       "_item": {
         "itemId": 58213479973,
         "productName": "Panela de Pressão Aço Inox Fundo Triplo Pro Indução e Gás 4-8L Fechamento Externo",
-        "price": "297.77",
+        "price": "297.8",
         "priceDiscountRate": 67,
         "commissionRate": "0.03",
         "sales": 766,
@@ -6188,6 +6189,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
         "productLink": "https://shopee.com.br/product/1638239765/58205100450",
         "offerLink": "https://s.shopee.com.br/AAHIfG8Kgo"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23993522162",
+      "name": "Creatina Monohidratada Pura 1kg, 500g, 700g e  300g Refil - FTW",
+      "price": 64.9,
+      "original_price": 170.79,
+      "discount": 62.0,
+      "commission": 26.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf8fj8snacck60",
+      "link": "https://s.shopee.com.br/9peSGfZWlR",
+      "rating": "4.9",
+      "sales": 1438,
+      "shop": "Loja Oficial FTW",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23993522162,
+        "productName": "Creatina Monohidratada Pura 1kg, 500g, 700g e  300g Refil - FTW",
+        "price": "64.9",
+        "priceDiscountRate": 62,
+        "commissionRate": "0.26",
+        "sales": 1438,
+        "ratingStar": "4.9",
+        "shopName": "Loja Oficial FTW",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf8fj8snacck60",
+        "productLink": "https://shopee.com.br/product/1397772996/23993522162",
+        "offerLink": "https://s.shopee.com.br/9peSGfZWlR"
       },
       "_last_price": null
     },
@@ -21309,7 +21339,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rd6z-m793jf538svp49",
       "link": "https://s.shopee.com.br/6fhQUuslYg",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 1340,
       "shop": "br.FashLoop",
       "category": "oculos sol",
@@ -21321,7 +21351,7 @@
         "priceDiscountRate": 38,
         "commissionRate": "0.03",
         "sales": 1340,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "br.FashLoop",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd6z-m793jf538svp49",
         "productLink": "https://shopee.com.br/product/1603567416/42415723562",
