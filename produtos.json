@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T03:56:05.245815+00:00",
+  "updated_at": "2026-09-23T04:14:56.774105+00:00",
   "total": 1127,
   "products": [
     {
@@ -2192,7 +2192,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-msxgtp629z477b",
         "productLink": "https://shopee.com.br/product/424883518/23098214172",
         "offerLink": "https://s.shopee.com.br/2qUmjSC39L"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "17370976709",
@@ -20058,8 +20059,8 @@
     {
       "id": "58260024078",
       "name": "Kit 2 Creatina Max Titanium 300g Pura",
-      "price": 90.0,
-      "original_price": 150.0,
+      "price": 89.99,
+      "original_price": 149.98,
       "discount": 40.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mnsw2jxtutxe75",
@@ -20072,7 +20073,7 @@
       "_item": {
         "itemId": 58260024078,
         "productName": "Kit 2 Creatina Max Titanium 300g Pura",
-        "price": "90",
+        "price": "89.99",
         "priceDiscountRate": 40,
         "commissionRate": "0.07",
         "sales": 1482,
