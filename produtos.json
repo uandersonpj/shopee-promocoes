@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T02:01:50.760886+00:00",
+  "updated_at": "2026-09-23T02:20:56.085657+00:00",
   "total": 1126,
   "products": [
     {
@@ -688,7 +688,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mldt9agkd2x0c0",
         "productLink": "https://shopee.com.br/product/1082873638/23294866358",
         "offerLink": "https://s.shopee.com.br/4qFqfFgpqg"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22794275506",
@@ -2771,8 +2772,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfn8h5ufyu4kb0",
         "productLink": "https://shopee.com.br/product/391757444/23093824562",
         "offerLink": "https://s.shopee.com.br/1Lfu96HwTS"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "47855423393",
@@ -7940,7 +7940,7 @@
       "original_price": 39.95,
       "discount": 58.0,
       "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8258f-mrnbx4w3e8zqf1",
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259p-mrnbx4rv80le3a",
       "link": "https://s.shopee.com.br/5LC2uPPzeO",
       "rating": "4.8",
       "sales": 2358,
@@ -7956,7 +7956,7 @@
         "sales": 2358,
         "ratingStar": "4.8",
         "shopName": "FS Fit",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258f-mrnbx4w3e8zqf1",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259p-mrnbx4rv80le3a",
         "productLink": "https://shopee.com.br/product/1912999973/58265836602",
         "offerLink": "https://s.shopee.com.br/5LC2uPPzeO"
       },
@@ -14169,39 +14169,10 @@
       "_last_price": null
     },
     {
-      "id": "22298591472",
-      "name": "Ração Quatree Gourmet Gatos 10,1Kg",
-      "price": 108.99,
-      "original_price": 209.6,
-      "discount": 48.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
-      "link": "https://s.shopee.com.br/4B09NbB0Ur",
-      "rating": "4.9",
-      "sales": 3298,
-      "shop": "mypetone",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22298591472,
-        "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
-        "price": "108.99",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.12",
-        "sales": 3298,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
-        "productLink": "https://shopee.com.br/product/290073877/22298591472",
-        "offerLink": "https://s.shopee.com.br/4B09NbB0Ur"
-      },
-      "_last_price": null
-    },
-    {
       "id": "48208359433",
       "name": "Casinha de Cachorro Com Caminha N 4 ou 5 Cachorros Pequeno Médio Porte Caminha de Cachorro",
-      "price": 59.9,
-      "original_price": 115.19,
+      "price": 59.99,
+      "original_price": 115.37,
       "discount": 48.0,
       "commission": 17.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8226r-mhfcarhiudxo7d",
@@ -14214,7 +14185,7 @@
       "_item": {
         "itemId": 48208359433,
         "productName": "Casinha de Cachorro Com Caminha N 4 ou 5 Cachorros Pequeno Médio Porte Caminha de Cachorro",
-        "price": "59.9",
+        "price": "59.99",
         "priceDiscountRate": 48,
         "commissionRate": "0.17",
         "sales": 446,
@@ -14831,6 +14802,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
         "productLink": "https://shopee.com.br/product/1727822533/58256070956",
         "offerLink": "https://s.shopee.com.br/1AWYbShNd"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22298591472",
+      "name": "Ração Quatree Gourmet Gatos 10,1Kg",
+      "price": 112.99,
+      "original_price": 213.19,
+      "discount": 47.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
+      "link": "https://s.shopee.com.br/4B09NbB0Ur",
+      "rating": "4.9",
+      "sales": 3298,
+      "shop": "mypetone",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22298591472,
+        "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
+        "price": "112.99",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.12",
+        "sales": 3298,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
+        "productLink": "https://shopee.com.br/product/290073877/22298591472",
+        "offerLink": "https://s.shopee.com.br/4B09NbB0Ur"
       },
       "_last_price": null
     },
@@ -16547,8 +16547,8 @@
     {
       "id": "42071102324",
       "name": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
-      "price": 68.74,
-      "original_price": 124.98,
+      "price": 68.75,
+      "original_price": 125.0,
       "discount": 45.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
@@ -16561,7 +16561,7 @@
       "_item": {
         "itemId": 42071102324,
         "productName": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
-        "price": "68.74",
+        "price": "68.75",
         "priceDiscountRate": 45,
         "commissionRate": "0.03",
         "sales": 3885,
@@ -21390,8 +21390,8 @@
     {
       "id": "42415723562",
       "name": "Óculos De Sol Sem Aro Para Mulheres/Homens Senhora Moda Gradiente Lentes Designer UV400 Tons",
-      "price": 7.8,
-      "original_price": 12.58,
+      "price": 8.1,
+      "original_price": 13.06,
       "discount": 38.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rd6z-m793jf538svp49",
@@ -21404,7 +21404,7 @@
       "_item": {
         "itemId": 42415723562,
         "productName": "Óculos De Sol Sem Aro Para Mulheres/Homens Senhora Moda Gradiente Lentes Designer UV400 Tons",
-        "price": "7.8",
+        "price": "8.1",
         "priceDiscountRate": 38,
         "commissionRate": "0.03",
         "sales": 1346,
