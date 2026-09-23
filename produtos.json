@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T16:57:08.108963+00:00",
+  "updated_at": "2026-09-23T17:16:17.845184+00:00",
   "total": 1126,
   "products": [
     {
@@ -3439,7 +3439,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b5-mt4n85gao35x12",
         "productLink": "https://shopee.com.br/product/832040275/22495754071",
         "offerLink": "https://s.shopee.com.br/W6rx1xhKU"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "50815623138",
@@ -4075,8 +4076,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mtape51h6ubnc7",
         "productLink": "https://shopee.com.br/product/1758772368/58213479973",
         "offerLink": "https://s.shopee.com.br/2BF5wBbrpI"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "18998941239",
@@ -7036,6 +7036,35 @@
       "_last_price": null
     },
     {
+      "id": "45558377465",
+      "name": "Body Splash Divine Agapis Beauty 200ml Fragrância Sedutora Delicada Alta Fixação",
+      "price": 19.9,
+      "original_price": 49.75,
+      "discount": 60.0,
+      "commission": 21.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mrhgn8jhtczo35",
+      "link": "https://s.shopee.com.br/20vgPWku71",
+      "rating": "4.7",
+      "sales": 2474,
+      "shop": "Adora ",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 45558377465,
+        "productName": "Body Splash Divine Agapis Beauty 200ml Fragrância Sedutora Delicada Alta Fixação",
+        "price": "19.9",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.21",
+        "sales": 2474,
+        "ratingStar": "4.7",
+        "shopName": "Adora ",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mrhgn8jhtczo35",
+        "productLink": "https://shopee.com.br/product/790605924/45558377465",
+        "offerLink": "https://s.shopee.com.br/20vgPWku71"
+      },
+      "_last_price": null
+    },
+    {
       "id": "29842873054",
       "name": "Whey Protein Concentrado 1kg Refil - FTW",
       "price": 78.9,
@@ -7325,35 +7354,6 @@
       "_last_price": null
     },
     {
-      "id": "23596569225",
-      "name": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
-      "price": 40.99,
-      "original_price": 99.98,
-      "discount": 59.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
-      "link": "https://s.shopee.com.br/2LYW8VAIDL",
-      "rating": "4.8",
-      "sales": 3569,
-      "shop": "ME MERCADO",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23596569225,
-        "productName": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
-        "price": "40.99",
-        "priceDiscountRate": 59,
-        "commissionRate": "0.07",
-        "sales": 3569,
-        "ratingStar": "4.8",
-        "shopName": "ME MERCADO",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
-        "productLink": "https://shopee.com.br/product/392239188/23596569225",
-        "offerLink": "https://s.shopee.com.br/2LYW8VAIDL"
-      },
-      "_last_price": null
-    },
-    {
       "id": "43150138443",
       "name": "Estação De Acoplamento UGREEN USB HUB Para Mac Mini M4 M4 Pro M . 2 NVMe SSD 8 Tb Max 10 Gbps Portas-A E C SD TF 170 Mb/",
       "price": 289.9,
@@ -7582,6 +7582,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcu4r3lbhv5t84",
         "productLink": "https://shopee.com.br/product/1551770885/22198792838",
         "offerLink": "https://s.shopee.com.br/W6rx4EUL0"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "45054396139",
+      "name": "Ração Úmida Friskies 85g - Caixa com 15 unidades",
+      "price": 32.63,
+      "original_price": 79.59,
+      "discount": 59.0,
+      "commission": 21.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
+      "link": "https://s.shopee.com.br/qjhPTNhG9",
+      "rating": "5",
+      "sales": 14082,
+      "shop": "LeluPets",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 45054396139,
+        "productName": "Ração Úmida Friskies 85g - Caixa com 15 unidades",
+        "price": "32.63",
+        "priceDiscountRate": 59,
+        "commissionRate": "0.21",
+        "sales": 14082,
+        "ratingStar": "5",
+        "shopName": "LeluPets",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
+        "productLink": "https://shopee.com.br/product/293152127/45054396139",
+        "offerLink": "https://s.shopee.com.br/qjhPTNhG9"
       },
       "_last_price": null
     },
@@ -8568,35 +8597,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mnwxkg9plt6qf0",
         "productLink": "https://shopee.com.br/product/979724994/58210202967",
         "offerLink": "https://s.shopee.com.br/6L4etlAgij"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23098851500",
-      "name": "Kit Body Splash Dolce + Florata Red 200ml Feminino.",
-      "price": 42.9,
-      "original_price": 99.77,
-      "discount": 57.0,
-      "commission": 15.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mtdyn13q445cbb",
-      "link": "https://s.shopee.com.br/9V1hYWzhaP",
-      "rating": "4.6",
-      "sales": 2769,
-      "shop": "Ambar.cosmeticos",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23098851500,
-        "productName": "Kit Body Splash Dolce + Florata Red 200ml Feminino.",
-        "price": "42.9",
-        "priceDiscountRate": 57,
-        "commissionRate": "0.15",
-        "sales": 2769,
-        "ratingStar": "4.6",
-        "shopName": "Ambar.cosmeticos",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mtdyn13q445cbb",
-        "productLink": "https://shopee.com.br/product/1617566398/23098851500",
-        "offerLink": "https://s.shopee.com.br/9V1hYWzhaP"
       },
       "_last_price": null
     },
@@ -11971,7 +11971,7 @@
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mogswem4969yf5",
       "link": "https://s.shopee.com.br/AUuDrRu5TA",
-      "rating": "5",
+      "rating": "4.9",
       "sales": 813,
       "shop": "FIT HOUSE",
       "category": "whey protein",
@@ -11983,7 +11983,7 @@
         "priceDiscountRate": 51,
         "commissionRate": "0.07",
         "sales": 813,
-        "ratingStar": "5",
+        "ratingStar": "4.9",
         "shopName": "FIT HOUSE",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mogswem4969yf5",
         "productLink": "https://shopee.com.br/product/662618933/58211027665",
@@ -12717,6 +12717,35 @@
       "_last_price": null
     },
     {
+      "id": "54558362287",
+      "name": "Body Splash Feminino Shine Agapis Beauty 200ml Fragrância Sedutora Alta Fixação",
+      "price": 24.9,
+      "original_price": 49.8,
+      "discount": 50.0,
+      "commission": 21.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mrhgn8jhurk40c",
+      "link": "https://s.shopee.com.br/80CssqCsQZ",
+      "rating": "4.8",
+      "sales": 1375,
+      "shop": "Adora ",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 54558362287,
+        "productName": "Body Splash Feminino Shine Agapis Beauty 200ml Fragrância Sedutora Alta Fixação",
+        "price": "24.9",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.21",
+        "sales": 1375,
+        "ratingStar": "4.8",
+        "shopName": "Adora ",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mrhgn8jhurk40c",
+        "productLink": "https://shopee.com.br/product/790605924/54558362287",
+        "offerLink": "https://s.shopee.com.br/80CssqCsQZ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58211387990",
       "name": "Perfume Árabe Masculino Asad/Sara Bourbon Eau De Parfum 100ML",
       "price": 99.97,
@@ -12945,35 +12974,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mo00cdtfqygx57",
         "productLink": "https://shopee.com.br/product/1571276714/58209304205",
         "offerLink": "https://s.shopee.com.br/50ZHJMNQ9v"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "45054396139",
-      "name": "Ração Úmida Friskies 85g - Caixa com 15 unidades",
-      "price": 39.9,
-      "original_price": 79.8,
-      "discount": 50.0,
-      "commission": 21.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
-      "link": "https://s.shopee.com.br/qjhPTNhG9",
-      "rating": "5",
-      "sales": 14082,
-      "shop": "LeluPets",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45054396139,
-        "productName": "Ração Úmida Friskies 85g - Caixa com 15 unidades",
-        "price": "39.9",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.21",
-        "sales": 14082,
-        "ratingStar": "5",
-        "shopName": "LeluPets",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
-        "productLink": "https://shopee.com.br/product/293152127/45054396139",
-        "offerLink": "https://s.shopee.com.br/qjhPTNhG9"
       },
       "_last_price": null
     },
@@ -16632,6 +16632,35 @@
       "_last_price": null
     },
     {
+      "id": "23598569219",
+      "name": "Ração Golden Special Gatos Castrados Frango e Carne 3kg",
+      "price": 54.9,
+      "original_price": 99.82,
+      "discount": 45.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqinehfc",
+      "link": "https://s.shopee.com.br/AKao7hW9iU",
+      "rating": "4.9",
+      "sales": 882,
+      "shop": "SPN MARKET",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23598569219,
+        "productName": "Ração Golden Special Gatos Castrados Frango e Carne 3kg",
+        "price": "54.9",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 882,
+        "ratingStar": "4.9",
+        "shopName": "SPN MARKET",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqinehfc",
+        "productLink": "https://shopee.com.br/product/1501485889/23598569219",
+        "offerLink": "https://s.shopee.com.br/AKao7hW9iU"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58260042754",
       "name": "Mini Liquidificador Portátil De Suco De Alimentos Misturador Leite Smoothie 400ML 6 Lâminas Espremedor Elétrico",
       "price": 34.9,
@@ -16976,6 +17005,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mo34wuhsuebo5f",
         "productLink": "https://shopee.com.br/product/1748741556/58256029412",
         "offerLink": "https://s.shopee.com.br/3g3tin0Wg3"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23596569225",
+      "name": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
+      "price": 55.98,
+      "original_price": 99.96,
+      "discount": 44.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
+      "link": "https://s.shopee.com.br/2LYW8VAIDL",
+      "rating": "4.8",
+      "sales": 3569,
+      "shop": "ME MERCADO",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23596569225,
+        "productName": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
+        "price": "55.98",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.07",
+        "sales": 3569,
+        "ratingStar": "4.8",
+        "shopName": "ME MERCADO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
+        "productLink": "https://shopee.com.br/product/392239188/23596569225",
+        "offerLink": "https://s.shopee.com.br/2LYW8VAIDL"
       },
       "_last_price": null
     },
@@ -18629,35 +18687,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mosmz2tpi1a875",
         "productLink": "https://shopee.com.br/product/1295467768/52311303643",
         "offerLink": "https://s.shopee.com.br/7fa2UEE96n"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23598569219",
-      "name": "Ração Golden Special Gatos Castrados Frango e Carne 3kg",
-      "price": 57.9,
-      "original_price": 99.83,
-      "discount": 42.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqinehfc",
-      "link": "https://s.shopee.com.br/AKao7hW9iU",
-      "rating": "4.9",
-      "sales": 882,
-      "shop": "SPN MARKET",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23598569219,
-        "productName": "Ração Golden Special Gatos Castrados Frango e Carne 3kg",
-        "price": "57.9",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.03",
-        "sales": 882,
-        "ratingStar": "4.9",
-        "shopName": "SPN MARKET",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqinehfc",
-        "productLink": "https://shopee.com.br/product/1501485889/23598569219",
-        "offerLink": "https://s.shopee.com.br/AKao7hW9iU"
       },
       "_last_price": null
     },
@@ -22984,8 +23013,8 @@
     {
       "id": "23599134541",
       "name": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
-      "price": 167.9,
-      "original_price": 258.31,
+      "price": 197.9,
+      "original_price": 304.46,
       "discount": 35.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mtfch5t3i8sh33",
@@ -22998,7 +23027,7 @@
       "_item": {
         "itemId": 23599134541,
         "productName": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
-        "price": "167.9",
+        "price": "197.9",
         "priceDiscountRate": 35,
         "commissionRate": "0.03",
         "sales": 897,
@@ -26839,35 +26868,6 @@
       "_last_price": null
     },
     {
-      "id": "21997920517",
-      "name": "Vara Telescópica Traíra Gomo Longo Verde 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
-      "price": 44.99,
-      "original_price": 62.49,
-      "discount": 28.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfg7-m3nns1rislrb02",
-      "link": "https://s.shopee.com.br/8fSZg9dBYa",
-      "rating": "4.9",
-      "sales": 928,
-      "shop": "JAUPESCA",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21997920517,
-        "productName": "Vara Telescópica Traíra Gomo Longo Verde 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
-        "price": "44.99",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.07",
-        "sales": 928,
-        "ratingStar": "4.9",
-        "shopName": "JAUPESCA",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg7-m3nns1rislrb02",
-        "productLink": "https://shopee.com.br/product/954428278/21997920517",
-        "offerLink": "https://s.shopee.com.br/8fSZg9dBYa"
-      },
-      "_last_price": null
-    },
-    {
       "id": "45557096111",
       "name": "Kit Banqueta Dobrável Com Alça Suporta 150kg Reforçada Camping Rancho Pesca",
       "price": 35.9,
@@ -27676,6 +27676,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825am-meyzr06d8sn84e",
         "productLink": "https://shopee.com.br/product/1542862511/22294442451",
         "offerLink": "https://s.shopee.com.br/3B7d880ITd"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "43704328243",
+      "name": "Placa de Vídeo NVIDIA GeForce GIGABYTE RTX5060 Eagle OC 8GB GDDR7 128bit - 9VN5060EO-00-G10",
+      "price": 2999.0,
+      "original_price": 3998.67,
+      "discount": 25.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mp81ubfo1kw62c",
+      "link": "https://s.shopee.com.br/9AOq6NRi69",
+      "rating": "4.9",
+      "sales": 71,
+      "shop": "TNTinfoLoja",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 43704328243,
+        "productName": "Placa de Vídeo NVIDIA GeForce GIGABYTE RTX5060 Eagle OC 8GB GDDR7 128bit - 9VN5060EO-00-G10",
+        "price": "2999",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.03",
+        "sales": 71,
+        "ratingStar": "4.9",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mp81ubfo1kw62c",
+        "productLink": "https://shopee.com.br/product/344381236/43704328243",
+        "offerLink": "https://s.shopee.com.br/9AOq6NRi69"
       },
       "_last_price": null
     },
@@ -28492,35 +28521,6 @@
       "_last_price": null
     },
     {
-      "id": "23894331744",
-      "name": "Placa de Vídeo Gamer Ninja NVIDIA GeForce RTX 2070 Ronin, 8GB, GDDR6, Ray Tracing, GN-PV-NVRTX20708D6",
-      "price": 1949.99,
-      "original_price": 2565.78,
-      "discount": 24.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82597-mqqawru5kzy9eb",
-      "link": "https://s.shopee.com.br/8V99wDSlK0",
-      "rating": "4.9",
-      "sales": 83,
-      "shop": "Terabyte Oficial",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23894331744,
-        "productName": "Placa de Vídeo Gamer Ninja NVIDIA GeForce RTX 2070 Ronin, 8GB, GDDR6, Ray Tracing, GN-PV-NVRTX20708D6",
-        "price": "1949.99",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.03",
-        "sales": 83,
-        "ratingStar": "4.9",
-        "shopName": "Terabyte Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82597-mqqawru5kzy9eb",
-        "productLink": "https://shopee.com.br/product/1552226494/23894331744",
-        "offerLink": "https://s.shopee.com.br/8V99wDSlK0"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22396235066",
       "name": "Lava Roupas Liquido Urca Lavanda - 5L",
       "price": 29.9,
@@ -28691,6 +28691,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1jeillccxqp82",
         "productLink": "https://shopee.com.br/product/895045435/23193474101",
         "offerLink": "https://s.shopee.com.br/BU1YUb5Le"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21997920517",
+      "name": "Vara Telescópica Traíra Gomo Longo Verde 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
+      "price": 49.87,
+      "original_price": 65.62,
+      "discount": 24.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfg7-m3nns1rislrb02",
+      "link": "https://s.shopee.com.br/8fSZg9dBYa",
+      "rating": "4.9",
+      "sales": 928,
+      "shop": "JAUPESCA",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21997920517,
+        "productName": "Vara Telescópica Traíra Gomo Longo Verde 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
+        "price": "49.87",
+        "priceDiscountRate": 24,
+        "commissionRate": "0.07",
+        "sales": 928,
+        "ratingStar": "4.9",
+        "shopName": "JAUPESCA",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg7-m3nns1rislrb02",
+        "productLink": "https://shopee.com.br/product/954428278/21997920517",
+        "offerLink": "https://s.shopee.com.br/8fSZg9dBYa"
       },
       "_last_price": null
     },
@@ -31533,35 +31562,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mrhrt1o8shl2a2",
         "productLink": "https://shopee.com.br/product/616222685/22401382655",
         "offerLink": "https://s.shopee.com.br/7ptSgWMe6W"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22192693751",
-      "name": "Creme Para Pentear 3 em 1 Hidra D-Pantenol 300ml",
-      "price": 10.5,
-      "original_price": 12.65,
-      "discount": 17.0,
-      "commission": 16.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mrc4glxu562t04",
-      "link": "https://s.shopee.com.br/3g3tircVYa",
-      "rating": "4.9",
-      "sales": 7505,
-      "shop": "Salon Line",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22192693751,
-        "productName": "Creme Para Pentear 3 em 1 Hidra D-Pantenol 300ml",
-        "price": "10.5",
-        "priceDiscountRate": 17,
-        "commissionRate": "0.16",
-        "sales": 7505,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mrc4glxu562t04",
-        "productLink": "https://shopee.com.br/product/616222685/22192693751",
-        "offerLink": "https://s.shopee.com.br/3g3tircVYa"
       },
       "_last_price": null
     },
