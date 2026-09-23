@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T17:55:00.702720+00:00",
+  "updated_at": "2026-09-23T18:14:25.883078+00:00",
   "total": 1126,
   "products": [
     {
@@ -1647,7 +1647,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m16zhf1ljn7yae",
         "productLink": "https://shopee.com.br/product/451332066/23793414141",
         "offerLink": "https://s.shopee.com.br/1qcFXYUjxo"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23398852310",
@@ -15380,8 +15381,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhdo56b6dfy832",
         "productLink": "https://shopee.com.br/product/1128449458/22199268609",
         "offerLink": "https://s.shopee.com.br/7fa2UBJl06"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "18499795897",
@@ -17613,6 +17613,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820on-mo20zzyfjhtt9e",
         "productLink": "https://shopee.com.br/product/362695591/23994508588",
         "offerLink": "https://s.shopee.com.br/4fwRNC2oSu"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "41132780075",
+      "name": "- Kit 3 Pote Hermético 1,5 L C/ Bico Dosador Porta Sabão em Pó/Sabão Líquido/Amaciante Compacto Lavanderia Organizador",
+      "price": 49.25,
+      "original_price": 86.4,
+      "discount": 43.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
+      "link": "https://s.shopee.com.br/6VO562OCMl",
+      "rating": "4.8",
+      "sales": 1500,
+      "shop": "CampvendasMulticoisas",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41132780075,
+        "productName": "- Kit 3 Pote Hermético 1,5 L C/ Bico Dosador Porta Sabão em Pó/Sabão Líquido/Amaciante Compacto Lavanderia Organizador",
+        "price": "49.25",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.12",
+        "sales": 1500,
+        "ratingStar": "4.8",
+        "shopName": "CampvendasMulticoisas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
+        "productLink": "https://shopee.com.br/product/1627792845/41132780075",
+        "offerLink": "https://s.shopee.com.br/6VO562OCMl"
       },
       "_last_price": null
     },
@@ -24895,35 +24924,6 @@
       "_last_price": null
     },
     {
-      "id": "19899759854",
-      "name": "Dispenser Organizador Lavanderia 2,3 e 1,5 Litros Acrílico amaciante sabão em pó Lavanderia",
-      "price": 39.9,
-      "original_price": 57.83,
-      "discount": 31.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rasi-mabtceim9ichea",
-      "link": "https://s.shopee.com.br/7fa2wi93lP",
-      "rating": "4.9",
-      "sales": 381,
-      "shop": "Souna Home",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19899759854,
-        "productName": "Dispenser Organizador Lavanderia 2,3 e 1,5 Litros Acrílico amaciante sabão em pó Lavanderia",
-        "price": "39.9",
-        "priceDiscountRate": 31,
-        "commissionRate": "0.03",
-        "sales": 381,
-        "ratingStar": "4.9",
-        "shopName": "Souna Home",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rasi-mabtceim9ichea",
-        "productLink": "https://shopee.com.br/product/838022405/19899759854",
-        "offerLink": "https://s.shopee.com.br/7fa2wi93lP"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58212379163",
       "name": "Kit 3 Perfumes Malbec Masculinos Alta fixação",
       "price": 34.49,
@@ -26374,6 +26374,35 @@
       "_last_price": null
     },
     {
+      "id": "22998482488",
+      "name": "Sachê Friskies para Gatos – Kit com 15 Unidades – envio imediato",
+      "price": 34.9,
+      "original_price": 49.15,
+      "discount": 29.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-min6so3iwow208",
+      "link": "https://s.shopee.com.br/7KxCYBhZnc",
+      "rating": "4.9",
+      "sales": 2872,
+      "shop": "Morato Agropecuária",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22998482488,
+        "productName": "Sachê Friskies para Gatos – Kit com 15 Unidades – envio imediato",
+        "price": "34.9",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.03",
+        "sales": 2872,
+        "ratingStar": "4.9",
+        "shopName": "Morato Agropecuária",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-min6so3iwow208",
+        "productLink": "https://shopee.com.br/product/1055269003/22998482488",
+        "offerLink": "https://s.shopee.com.br/7KxCYBhZnc"
+      },
+      "_last_price": null
+    },
+    {
       "id": "11869643265",
       "name": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
       "price": 105.0,
@@ -27675,6 +27704,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825am-meyzr06d8sn84e",
         "productLink": "https://shopee.com.br/product/1542862511/22294442451",
         "offerLink": "https://s.shopee.com.br/3B7d880ITd"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "43704328243",
+      "name": "Placa de Vídeo NVIDIA GeForce GIGABYTE RTX5060 Eagle OC 8GB GDDR7 128bit - 9VN5060EO-00-G10",
+      "price": 2999.0,
+      "original_price": 3998.67,
+      "discount": 25.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mp81ubfo1kw62c",
+      "link": "https://s.shopee.com.br/9AOq6NRi69",
+      "rating": "4.9",
+      "sales": 71,
+      "shop": "TNTinfoLoja",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 43704328243,
+        "productName": "Placa de Vídeo NVIDIA GeForce GIGABYTE RTX5060 Eagle OC 8GB GDDR7 128bit - 9VN5060EO-00-G10",
+        "price": "2999",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.03",
+        "sales": 71,
+        "ratingStar": "4.9",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mp81ubfo1kw62c",
+        "productLink": "https://shopee.com.br/product/344381236/43704328243",
+        "offerLink": "https://s.shopee.com.br/9AOq6NRi69"
       },
       "_last_price": null
     },
@@ -29067,35 +29125,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwd-mdg03ohgjdxx99",
         "productLink": "https://shopee.com.br/product/1177903362/23294316602",
         "offerLink": "https://s.shopee.com.br/5q8OIoQjih"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22994317483",
-      "name": "Amaciante de Roupas Concentrado Coala Laundry - Orquídea Negra 1L",
-      "price": 17.9,
-      "original_price": 22.95,
-      "discount": 22.0,
-      "commission": 16.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdx4-mdg0jc6nlcbo42",
-      "link": "https://s.shopee.com.br/8fSZMEEQVk",
-      "rating": "4.9",
-      "sales": 1027,
-      "shop": "Coala Essências Oficial",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22994317483,
-        "productName": "Amaciante de Roupas Concentrado Coala Laundry - Orquídea Negra 1L",
-        "price": "17.9",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.16",
-        "sales": 1027,
-        "ratingStar": "4.9",
-        "shopName": "Coala Essências Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx4-mdg0jc6nlcbo42",
-        "productLink": "https://shopee.com.br/product/1177903362/22994317483",
-        "offerLink": "https://s.shopee.com.br/8fSZMEEQVk"
       },
       "_last_price": null
     },
@@ -31329,35 +31358,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbr1m4vtwjonc8",
         "productLink": "https://shopee.com.br/product/1165645795/22998698600",
         "offerLink": "https://s.shopee.com.br/qjiLgDDey"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22998482488",
-      "name": "Sachê Friskies para Gatos – Kit com 15 Unidades – envio imediato",
-      "price": 40.99,
-      "original_price": 49.99,
-      "discount": 18.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-min6so3iwow208",
-      "link": "https://s.shopee.com.br/7KxCYBhZnc",
-      "rating": "4.9",
-      "sales": 2872,
-      "shop": "Morato Agropecuária",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22998482488,
-        "productName": "Sachê Friskies para Gatos – Kit com 15 Unidades – envio imediato",
-        "price": "40.99",
-        "priceDiscountRate": 18,
-        "commissionRate": "0.03",
-        "sales": 2872,
-        "ratingStar": "4.9",
-        "shopName": "Morato Agropecuária",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-min6so3iwow208",
-        "productLink": "https://shopee.com.br/product/1055269003/22998482488",
-        "offerLink": "https://s.shopee.com.br/7KxCYBhZnc"
       },
       "_last_price": null
     },
