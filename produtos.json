@@ -1,7 +1,36 @@
 {
-  "updated_at": "2026-09-23T07:42:44.522020+00:00",
-  "total": 1127,
+  "updated_at": "2026-09-23T08:01:34.663295+00:00",
+  "total": 1128,
   "products": [
+    {
+      "id": "58266825173",
+      "name": "Esponja de Maquiagem 4cm com Estojo – Beauty Blender para Base e Corretivo | Oferta Especial",
+      "price": 0.99,
+      "original_price": 9.9,
+      "discount": 90.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-msct0kfumux108",
+      "link": "https://s.shopee.com.br/1AbM6iCyk",
+      "rating": "4.9",
+      "sales": 569,
+      "shop": "BEMLAR",
+      "category": "esponja",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58266825173,
+        "productName": "Esponja de Maquiagem 4cm com Estojo – Beauty Blender para Base e Corretivo | Oferta Especial",
+        "price": "0.99",
+        "priceDiscountRate": 90,
+        "commissionRate": "0.12",
+        "sales": 569,
+        "ratingStar": "4.9",
+        "shopName": "BEMLAR",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-msct0kfumux108",
+        "productLink": "https://shopee.com.br/product/1922400528/58266825173",
+        "offerLink": "https://s.shopee.com.br/1AbM6iCyk"
+      },
+      "_last_price": null
+    },
     {
       "id": "50203126324",
       "name": "Snack Kadi Nuggets Salmão para Gatos 20g Petisco Gato",
@@ -782,7 +811,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lzop7krz80iq1e",
         "productLink": "https://shopee.com.br/product/218996205/25391678999",
         "offerLink": "https://s.shopee.com.br/3g3tinI7nr"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19860785095",
@@ -7111,7 +7141,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rauz-maaicb4iiwzuae",
       "link": "https://s.shopee.com.br/6AlEhWnVi8",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 1885,
       "shop": "Pinduoduo Store",
       "category": "cafeteira",
@@ -7123,7 +7153,7 @@
         "priceDiscountRate": 60,
         "commissionRate": "0.03",
         "sales": 1885,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Pinduoduo Store",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rauz-maaicb4iiwzuae",
         "productLink": "https://shopee.com.br/product/1060793149/23498545555",
@@ -7302,6 +7332,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mr6gthnbpcsn5b",
         "productLink": "https://shopee.com.br/product/1593671035/22994482073",
         "offerLink": "https://s.shopee.com.br/5LC7i79eDf"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23596569225",
+      "name": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
+      "price": 40.99,
+      "original_price": 99.98,
+      "discount": 59.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
+      "link": "https://s.shopee.com.br/2LYW8VAIDL",
+      "rating": "4.8",
+      "sales": 3569,
+      "shop": "ME MERCADO",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23596569225,
+        "productName": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
+        "price": "40.99",
+        "priceDiscountRate": 59,
+        "commissionRate": "0.07",
+        "sales": 3569,
+        "ratingStar": "4.8",
+        "shopName": "ME MERCADO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
+        "productLink": "https://shopee.com.br/product/392239188/23596569225",
+        "offerLink": "https://s.shopee.com.br/2LYW8VAIDL"
       },
       "_last_price": null
     },
@@ -17133,35 +17192,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mo34wuhsuebo5f",
         "productLink": "https://shopee.com.br/product/1748741556/58256029412",
         "offerLink": "https://s.shopee.com.br/3g3tin0Wg3"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23596569225",
-      "name": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
-      "price": 55.98,
-      "original_price": 99.96,
-      "discount": 44.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
-      "link": "https://s.shopee.com.br/2LYW8VAIDL",
-      "rating": "4.8",
-      "sales": 3569,
-      "shop": "ME MERCADO",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23596569225,
-        "productName": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
-        "price": "55.98",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.07",
-        "sales": 3569,
-        "ratingStar": "4.8",
-        "shopName": "ME MERCADO",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
-        "productLink": "https://shopee.com.br/product/392239188/23596569225",
-        "offerLink": "https://s.shopee.com.br/2LYW8VAIDL"
       },
       "_last_price": null
     },
