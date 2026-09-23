@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T02:40:10.273997+00:00",
-  "total": 1126,
+  "updated_at": "2026-09-23T02:59:14.475839+00:00",
+  "total": 1125,
   "products": [
     {
       "id": "50203126324",
@@ -516,7 +516,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824jh-meid7h7zauiv8e",
         "productLink": "https://shopee.com.br/product/1006215031/42971009476",
         "offerLink": "https://s.shopee.com.br/2VrrXG8d0P"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "20199713818",
@@ -1671,8 +1672,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xl-mhzrnuntaebk12",
         "productLink": "https://shopee.com.br/product/1672861664/43476999468",
         "offerLink": "https://s.shopee.com.br/BTwl0PZTp"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "46712193198",
@@ -8916,35 +8916,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262h-mjmqfx0jzhtsaa",
         "productLink": "https://shopee.com.br/product/1006215031/27869521679",
         "offerLink": "https://s.shopee.com.br/1BMXo16RbF"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23198947232",
-      "name": "Esponja Silicone Massageadora Escova Banho Lava Corpo Todo Bucha Esfoliação",
-      "price": 10.98,
-      "original_price": 24.95,
-      "discount": 56.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824i4-mfa77ftqwufi2f",
-      "link": "https://s.shopee.com.br/3g3plE49S2",
-      "rating": "4.7",
-      "sales": 1992,
-      "shop": "Good Vibes Moment Variedade Mochila",
-      "category": "esponja",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23198947232,
-        "productName": "Esponja Silicone Massageadora Escova Banho Lava Corpo Todo Bucha Esfoliação",
-        "price": "10.98",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.03",
-        "sales": 1992,
-        "ratingStar": "4.7",
-        "shopName": "Good Vibes Moment Variedade Mochila",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i4-mfa77ftqwufi2f",
-        "productLink": "https://shopee.com.br/product/392260640/23198947232",
-        "offerLink": "https://s.shopee.com.br/3g3plE49S2"
       },
       "_last_price": null
     },
