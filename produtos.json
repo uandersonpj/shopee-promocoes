@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T11:30:18.491987+00:00",
+  "updated_at": "2026-09-23T11:49:28.728666+00:00",
   "total": 1129,
   "products": [
     {
@@ -475,7 +475,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
       "link": "https://s.shopee.com.br/6q0vUkTARG",
-      "rating": "4.7",
+      "rating": "4.6",
       "sales": 7765,
       "shop": "MVO COMÉRCIO DE VARIEDADES",
       "category": "air fryer",
@@ -487,7 +487,7 @@
         "priceDiscountRate": 81,
         "commissionRate": "0.03",
         "sales": 7765,
-        "ratingStar": "4.7",
+        "ratingStar": "4.6",
         "shopName": "MVO COMÉRCIO DE VARIEDADES",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
         "productLink": "https://shopee.com.br/product/972031390/21997150349",
@@ -666,8 +666,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
         "productLink": "https://shopee.com.br/product/1266325318/21897981294",
         "offerLink": "https://s.shopee.com.br/5foy6YLlAL"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23294866358",
@@ -12005,6 +12004,35 @@
       "_last_price": null
     },
     {
+      "id": "22392993399",
+      "name": "Hipercalórico Dark Mass 3kg Dark Lab - Whey Protein, Creatina, BCAA, Waxy Maize, Premium Mass Gainer",
+      "price": 78.9,
+      "original_price": 161.02,
+      "discount": 51.0,
+      "commission": 24.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawnmo1qj3970",
+      "link": "https://s.shopee.com.br/2gBMzar13S",
+      "rating": "4.9",
+      "sales": 1269,
+      "shop": "Dark Lab Oficial",
+      "category": "whey protein",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22392993399,
+        "productName": "Hipercalórico Dark Mass 3kg Dark Lab - Whey Protein, Creatina, BCAA, Waxy Maize, Premium Mass Gainer",
+        "price": "78.9",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.24",
+        "sales": 1269,
+        "ratingStar": "4.9",
+        "shopName": "Dark Lab Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawnmo1qj3970",
+        "productLink": "https://shopee.com.br/product/1242044379/22392993399",
+        "offerLink": "https://s.shopee.com.br/2gBMzar13S"
+      },
+      "_last_price": null
+    },
+    {
       "id": "48457191188",
       "name": "Whey Pro Max Titanium Protein Pro Com Bcaa E Aminoácidos 1kg",
       "price": 78.9,
@@ -15659,35 +15687,6 @@
       "_last_price": null
     },
     {
-      "id": "58215093163",
-      "name": "Kit 4 Panos de Chão Grande 50x60cm Microfibra para Limpeza",
-      "price": 19.99,
-      "original_price": 37.02,
-      "discount": 46.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82616-ml1891o6hm2re9",
-      "link": "https://s.shopee.com.br/60RoV8uQYb",
-      "rating": "4.6",
-      "sales": 1343,
-      "shop": "lecastore",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58215093163,
-        "productName": "Kit 4 Panos de Chão Grande 50x60cm Microfibra para Limpeza",
-        "price": "19.99",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.13",
-        "sales": 1343,
-        "ratingStar": "4.6",
-        "shopName": "lecastore",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82616-ml1891o6hm2re9",
-        "productLink": "https://shopee.com.br/product/1888155578/58215093163",
-        "offerLink": "https://s.shopee.com.br/60RoV8uQYb"
-      },
-      "_last_price": null
-    },
-    {
       "id": "56257637162",
       "name": "SHAMPOO 250 a 1LT ESCURECEDOR E RAIZES BLACK HAIR COLOR 3 EM 1 PRETO",
       "price": 11.98,
@@ -18004,6 +18003,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mriqddxnod8n6f",
         "productLink": "https://shopee.com.br/product/408653169/23615780781",
         "offerLink": "https://s.shopee.com.br/3B7d7w5DIs"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58215093163",
+      "name": "Kit 4 Panos de Chão Grande 50x60cm Microfibra para Limpeza",
+      "price": 20.99,
+      "original_price": 36.82,
+      "discount": 43.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82616-ml1891o6hm2re9",
+      "link": "https://s.shopee.com.br/60RoV8uQYb",
+      "rating": "4.6",
+      "sales": 1343,
+      "shop": "lecastore",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58215093163,
+        "productName": "Kit 4 Panos de Chão Grande 50x60cm Microfibra para Limpeza",
+        "price": "20.99",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.13",
+        "sales": 1343,
+        "ratingStar": "4.6",
+        "shopName": "lecastore",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82616-ml1891o6hm2re9",
+        "productLink": "https://shopee.com.br/product/1888155578/58215093163",
+        "offerLink": "https://s.shopee.com.br/60RoV8uQYb"
       },
       "_last_price": null
     },
@@ -21484,35 +21512,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mflkux3b9af954",
         "productLink": "https://shopee.com.br/product/1480477115/22394414025",
         "offerLink": "https://s.shopee.com.br/2gBMX2omLk"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22392993399",
-      "name": "Hipercalórico Dark Mass 3kg Dark Lab - Whey Protein, Creatina, BCAA, Waxy Maize, Premium Mass Gainer",
-      "price": 99.9,
-      "original_price": 161.13,
-      "discount": 38.0,
-      "commission": 24.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawnmo1qj3970",
-      "link": "https://s.shopee.com.br/2gBMzar13S",
-      "rating": "4.9",
-      "sales": 1269,
-      "shop": "Dark Lab Oficial",
-      "category": "whey protein",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22392993399,
-        "productName": "Hipercalórico Dark Mass 3kg Dark Lab - Whey Protein, Creatina, BCAA, Waxy Maize, Premium Mass Gainer",
-        "price": "99.9",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.24",
-        "sales": 1269,
-        "ratingStar": "4.9",
-        "shopName": "Dark Lab Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawnmo1qj3970",
-        "productLink": "https://shopee.com.br/product/1242044379/22392993399",
-        "offerLink": "https://s.shopee.com.br/2gBMzar13S"
       },
       "_last_price": null
     },
@@ -28711,8 +28710,8 @@
     {
       "id": "23699032115",
       "name": "Casinha Plástica Cachorro N7 e N8 Porte Médio Com Colchonete",
-      "price": 189.9,
-      "original_price": 249.87,
+      "price": 149.99,
+      "original_price": 197.36,
       "discount": 24.0,
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8257w-mshaxqhyuozl87",
@@ -28725,7 +28724,7 @@
       "_item": {
         "itemId": 23699032115,
         "productName": "Casinha Plástica Cachorro N7 e N8 Porte Médio Com Colchonete",
-        "price": "189.9",
+        "price": "149.99",
         "priceDiscountRate": 24,
         "commissionRate": "0.14",
         "sales": 674,
