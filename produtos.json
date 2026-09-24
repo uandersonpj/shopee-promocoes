@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T22:39:45.456259+00:00",
+  "updated_at": "2026-09-24T22:58:58.029823+00:00",
   "total": 1129,
   "products": [
     {
@@ -458,7 +458,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgzgefeazked3d",
         "productLink": "https://shopee.com.br/product/1613332918/22294440400",
         "offerLink": "https://s.shopee.com.br/113AcTkGh4"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21997150349",
@@ -689,8 +690,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mldt9agkd2x0c0",
         "productLink": "https://shopee.com.br/product/1082873638/23294866358",
         "offerLink": "https://s.shopee.com.br/3g3vI8mgGO"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22794275506",
@@ -1680,8 +1680,8 @@
     {
       "id": "46712193198",
       "name": "Anzol Auto Flip Fisgada Automático Aço Carbono Alta Resistência Pesca em Água Salgada Doce Marítima",
-      "price": 11.98,
-      "original_price": 47.92,
+      "price": 11.99,
+      "original_price": 47.96,
       "discount": 75.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-824jj-mpfvxsk51ibm93",
@@ -1694,7 +1694,7 @@
       "_item": {
         "itemId": 46712193198,
         "productName": "Anzol Auto Flip Fisgada Automático Aço Carbono Alta Resistência Pesca em Água Salgada Doce Marítima",
-        "price": "11.98",
+        "price": "11.99",
         "priceDiscountRate": 75,
         "commissionRate": "0.03",
         "sales": 540,
@@ -3065,35 +3065,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4et0gt4mdklca",
         "productLink": "https://shopee.com.br/product/406098813/18856357121",
         "offerLink": "https://s.shopee.com.br/8pm1RbC9U8"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23498545555",
-      "name": "Moedor Multifuncional de Café e Especiarias 110V com Design em Aço Inoxidável 4 Lâminas",
-      "price": 30.99,
-      "original_price": 99.97,
-      "discount": 69.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rauz-maaicb4iiwzuae",
-      "link": "https://s.shopee.com.br/9fL8RCcA63",
-      "rating": "4.8",
-      "sales": 2094,
-      "shop": "Pinduoduo Store",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498545555,
-        "productName": "Moedor Multifuncional de Café e Especiarias 110V com Design em Aço Inoxidável 4 Lâminas",
-        "price": "30.99",
-        "priceDiscountRate": 69,
-        "commissionRate": "0.03",
-        "sales": 2094,
-        "ratingStar": "4.8",
-        "shopName": "Pinduoduo Store",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rauz-maaicb4iiwzuae",
-        "productLink": "https://shopee.com.br/product/1060793149/23498545555",
-        "offerLink": "https://s.shopee.com.br/9fL8RCcA63"
       },
       "_last_price": null
     },
@@ -7207,6 +7178,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rep2-m8i16u5pyp4wcf",
         "productLink": "https://shopee.com.br/product/407523450/23598387814",
         "offerLink": "https://s.shopee.com.br/7fa4YeEB8N"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23498545555",
+      "name": "Moedor Multifuncional de Café e Especiarias 110V com Design em Aço Inoxidável 4 Lâminas",
+      "price": 39.99,
+      "original_price": 99.97,
+      "discount": 60.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rauz-maaicb4iiwzuae",
+      "link": "https://s.shopee.com.br/9fL8RCcA63",
+      "rating": "4.8",
+      "sales": 2094,
+      "shop": "Pinduoduo Store",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498545555,
+        "productName": "Moedor Multifuncional de Café e Especiarias 110V com Design em Aço Inoxidável 4 Lâminas",
+        "price": "39.99",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.03",
+        "sales": 2094,
+        "ratingStar": "4.8",
+        "shopName": "Pinduoduo Store",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rauz-maaicb4iiwzuae",
+        "productLink": "https://shopee.com.br/product/1060793149/23498545555",
+        "offerLink": "https://s.shopee.com.br/9fL8RCcA63"
       },
       "_last_price": null
     },
@@ -27708,35 +27708,6 @@
       "_last_price": null
     },
     {
-      "id": "21997920517",
-      "name": "Vara Telescópica Traíra Gomo Longo Verde 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
-      "price": 49.87,
-      "original_price": 67.39,
-      "discount": 26.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfg7-m3nns1rislrb02",
-      "link": "https://s.shopee.com.br/4qFsgLy14f",
-      "rating": "4.9",
-      "sales": 916,
-      "shop": "JAUPESCA",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21997920517,
-        "productName": "Vara Telescópica Traíra Gomo Longo Verde 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
-        "price": "49.87",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.07",
-        "sales": 916,
-        "ratingStar": "4.9",
-        "shopName": "JAUPESCA",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg7-m3nns1rislrb02",
-        "productLink": "https://shopee.com.br/product/954428278/21997920517",
-        "offerLink": "https://s.shopee.com.br/4qFsgLy14f"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58258546765",
       "name": "Boné Trucker Caça e Pesca Verde Militar Aba Curva Snapback Ajustável Tela",
       "price": 51.72,
@@ -28806,6 +28777,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1jeillccxqp82",
         "productLink": "https://shopee.com.br/product/895045435/23193474101",
         "offerLink": "https://s.shopee.com.br/LnTK2cZ1N"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21997920517",
+      "name": "Vara Telescópica Traíra Gomo Longo Verde 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
+      "price": 49.87,
+      "original_price": 65.62,
+      "discount": 24.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfg7-m3nns1rislrb02",
+      "link": "https://s.shopee.com.br/4qFsgLy14f",
+      "rating": "4.9",
+      "sales": 916,
+      "shop": "JAUPESCA",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21997920517,
+        "productName": "Vara Telescópica Traíra Gomo Longo Verde 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
+        "price": "49.87",
+        "priceDiscountRate": 24,
+        "commissionRate": "0.07",
+        "sales": 916,
+        "ratingStar": "4.9",
+        "shopName": "JAUPESCA",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg7-m3nns1rislrb02",
+        "productLink": "https://shopee.com.br/product/954428278/21997920517",
+        "offerLink": "https://s.shopee.com.br/4qFsgLy14f"
       },
       "_last_price": null
     },
