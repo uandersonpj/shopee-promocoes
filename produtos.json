@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-24T01:37:32.401413+00:00",
-  "total": 1130,
+  "updated_at": "2026-09-24T01:56:43.627028+00:00",
+  "total": 1131,
   "products": [
     {
       "id": "58266825173",
@@ -947,8 +947,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a7-mgfaurmyhbt701",
         "productLink": "https://shopee.com.br/product/1127030290/58200141324",
         "offerLink": "https://s.shopee.com.br/905Q4kkugV"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22492388439",
@@ -1642,7 +1641,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aj-mqgalw9z1d6od8",
         "productLink": "https://shopee.com.br/product/1737409766/58263959925",
         "offerLink": "https://s.shopee.com.br/60RoV9TcpL"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23793414141",
@@ -9499,35 +9499,6 @@
       "_last_price": null
     },
     {
-      "id": "23594304295",
-      "name": "Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Colorido Excecultivo 888",
-      "price": 39.99,
-      "original_price": 88.87,
-      "discount": 55.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvs-md7i52pbyqt8c2",
-      "link": "https://s.shopee.com.br/9zxxGQcPpe",
-      "rating": "4.6",
-      "sales": 2636,
-      "shop": "Global Mochilas CHL",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23594304295,
-        "productName": "Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Colorido Excecultivo 888",
-        "price": "39.99",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.09",
-        "sales": 2636,
-        "ratingStar": "4.6",
-        "shopName": "Global Mochilas CHL",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvs-md7i52pbyqt8c2",
-        "productLink": "https://shopee.com.br/product/960960972/23594304295",
-        "offerLink": "https://s.shopee.com.br/9zxxGQcPpe"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23393395960",
       "name": "Thermal Pad Térmico 1/2/3mm Para PS4, PS3, PS2, PS1, XBOX, Processador, Memória RAM, Placa de Vídeo",
       "price": 10.5,
@@ -12225,6 +12196,35 @@
       "_last_price": null
     },
     {
+      "id": "43108735992",
+      "name": "Papel Offset Opaline Liso 180g Branco Diplomata Kit 200, 100 ou 50 Folhas Masterprint",
+      "price": 11.97,
+      "original_price": 23.94,
+      "discount": 50.0,
+      "commission": 14.000000000000002,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbfn2mbuo7lk14",
+      "link": "https://s.shopee.com.br/4B0AzQ5Y1Y",
+      "rating": "5",
+      "sales": 2521,
+      "shop": "Draw Papelaria",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 43108735992,
+        "productName": "Papel Offset Opaline Liso 180g Branco Diplomata Kit 200, 100 ou 50 Folhas Masterprint",
+        "price": "11.97",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.14",
+        "sales": 2521,
+        "ratingStar": "5",
+        "shopName": "Draw Papelaria",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbfn2mbuo7lk14",
+        "productLink": "https://shopee.com.br/product/999239250/43108735992",
+        "offerLink": "https://s.shopee.com.br/4B0AzQ5Y1Y"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58256611329",
       "name": "Suporte Ajustável Placa de Vídeo GPU Anti-Sag Universal 2,6cm a 12cm Suporte Vertical GPU PC Gamer Pequeno Médio Grande",
       "price": 10.95,
@@ -12627,35 +12627,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zts-mkmmy34hv08yed",
         "productLink": "https://shopee.com.br/product/368487299/18298028063",
         "offerLink": "https://s.shopee.com.br/7VGcHsKOL3"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58217369015",
-      "name": "Limpol Sabão Lava Louças para Máquina em Pó 1 Kg",
-      "price": 39.9,
-      "original_price": 79.8,
-      "discount": 50.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825ba-mslr974nd1j8ce",
-      "link": "https://s.shopee.com.br/2gBMzWS5uS",
-      "rating": "4.9",
-      "sales": 124,
-      "shop": "ADF Beauty",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58217369015,
-        "productName": "Limpol Sabão Lava Louças para Máquina em Pó 1 Kg",
-        "price": "39.9",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.08",
-        "sales": 124,
-        "ratingStar": "4.9",
-        "shopName": "ADF Beauty",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ba-mslr974nd1j8ce",
-        "productLink": "https://shopee.com.br/product/1437441945/58217369015",
-        "offerLink": "https://s.shopee.com.br/2gBMzWS5uS"
       },
       "_last_price": null
     },
@@ -17531,6 +17502,35 @@
       "_last_price": null
     },
     {
+      "id": "23598383807",
+      "name": "Teclado Mecanico Mancer Shade MK3, Rainbow, Switch Huano Vermelho, Preto, MCR-SHM3-RBW01RD",
+      "price": 102.83,
+      "original_price": 180.4,
+      "discount": 43.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7req7-m8dm3oofp7eod5",
+      "link": "https://s.shopee.com.br/4fwQueMiH7",
+      "rating": "4.9",
+      "sales": 477,
+      "shop": "Pichau",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23598383807,
+        "productName": "Teclado Mecanico Mancer Shade MK3, Rainbow, Switch Huano Vermelho, Preto, MCR-SHM3-RBW01RD",
+        "price": "102.83",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.03",
+        "sales": 477,
+        "ratingStar": "4.9",
+        "shopName": "Pichau",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7req7-m8dm3oofp7eod5",
+        "productLink": "https://shopee.com.br/product/627750190/23598383807",
+        "offerLink": "https://s.shopee.com.br/4fwQueMiH7"
+      },
+      "_last_price": null
+    },
+    {
       "id": "56653475679",
       "name": "Teclado Gamer LED RGB Semi Mecânico Base Metal Profissional USB Luminoso Luzes Suporte Para Celular",
       "price": 50.9,
@@ -20253,6 +20253,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9qxx0p1ifpe76",
         "productLink": "https://shopee.com.br/product/1087983137/18598161767",
         "offerLink": "https://s.shopee.com.br/30oCvhQIbR"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20697354172",
+      "name": "Cafeteira Italiana Premium 6 Xícaras De Alumínio",
+      "price": 54.99,
+      "original_price": 91.65,
+      "discount": 40.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mo8bw1zmkn44c0",
+      "link": "https://s.shopee.com.br/8AWJkumkhF",
+      "rating": "4.9",
+      "sales": 865,
+      "shop": "SELLNEEDS",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20697354172,
+        "productName": "Cafeteira Italiana Premium 6 Xícaras De Alumínio",
+        "price": "54.99",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.13",
+        "sales": 865,
+        "ratingStar": "4.9",
+        "shopName": "SELLNEEDS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mo8bw1zmkn44c0",
+        "productLink": "https://shopee.com.br/product/408653169/20697354172",
+        "offerLink": "https://s.shopee.com.br/8AWJkumkhF"
       },
       "_last_price": null
     },
@@ -23910,6 +23939,35 @@
       "_last_price": null
     },
     {
+      "id": "19398130627",
+      "name": "Kit 3 Porta Amaciante Sabão Em Pó Liquido 3,6 Litros Dispenser Com Lousa Para Escrever Organizador",
+      "price": 54.7,
+      "original_price": 81.64,
+      "discount": 33.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mpefmai5ik8z18",
+      "link": "https://s.shopee.com.br/20vfjlNndU",
+      "rating": "4.8",
+      "sales": 279,
+      "shop": "Rei Dos Termicos",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19398130627,
+        "productName": "Kit 3 Porta Amaciante Sabão Em Pó Liquido 3,6 Litros Dispenser Com Lousa Para Escrever Organizador",
+        "price": "54.7",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.07",
+        "sales": 279,
+        "ratingStar": "4.8",
+        "shopName": "Rei Dos Termicos",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mpefmai5ik8z18",
+        "productLink": "https://shopee.com.br/product/328731077/19398130627",
+        "offerLink": "https://s.shopee.com.br/20vfjlNndU"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22599385841",
       "name": "Base Amaciante Concentrada 100ml Faz 20 litros perfumada tipo Conforto / Premium RENDE MUITO",
       "price": 21.99,
@@ -24515,6 +24573,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m97fvgsnxjcpf7",
         "productLink": "https://shopee.com.br/product/1494297971/19498104885",
         "offerLink": "https://s.shopee.com.br/50ZHJFD35z"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22736011414",
+      "name": "Lava Roupas Lavanderia Pro Líquido 7L Omo",
+      "price": 99.89,
+      "original_price": 146.9,
+      "discount": 32.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rau5-mau62igmy63506",
+      "link": "https://s.shopee.com.br/1qcFXT1xiD",
+      "rating": "5",
+      "sales": 35245,
+      "shop": "Braslimpo",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22736011414,
+        "productName": "Lava Roupas Lavanderia Pro Líquido 7L Omo",
+        "price": "99.89",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.06",
+        "sales": 35245,
+        "ratingStar": "5",
+        "shopName": "Braslimpo",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rau5-mau62igmy63506",
+        "productLink": "https://shopee.com.br/product/946161700/22736011414",
+        "offerLink": "https://s.shopee.com.br/1qcFXT1xiD"
       },
       "_last_price": null
     },
@@ -26632,35 +26719,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mq6n6kfmt8u821",
         "productLink": "https://shopee.com.br/product/1575539765/22994696891",
         "offerLink": "https://s.shopee.com.br/4Vd0iL5t54"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23598383807",
-      "name": "Teclado Mecanico Mancer Shade MK3, Rainbow, Switch Huano Vermelho, Preto, MCR-SHM3-RBW01RD",
-      "price": 129.59,
-      "original_price": 179.99,
-      "discount": 28.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7req7-m8dm3oofp7eod5",
-      "link": "https://s.shopee.com.br/4fwQueMiH7",
-      "rating": "4.9",
-      "sales": 477,
-      "shop": "Pichau",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23598383807,
-        "productName": "Teclado Mecanico Mancer Shade MK3, Rainbow, Switch Huano Vermelho, Preto, MCR-SHM3-RBW01RD",
-        "price": "129.59",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.03",
-        "sales": 477,
-        "ratingStar": "4.9",
-        "shopName": "Pichau",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7req7-m8dm3oofp7eod5",
-        "productLink": "https://shopee.com.br/product/627750190/23598383807",
-        "offerLink": "https://s.shopee.com.br/4fwQueMiH7"
       },
       "_last_price": null
     },
@@ -29793,35 +29851,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40puqy992k5b8",
         "productLink": "https://shopee.com.br/product/534023108/13214435371",
         "offerLink": "https://s.shopee.com.br/3B7d7uwt0b"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20175025617",
-      "name": "Dispenser Porta Detergente e Bucha Luxo Cozinha",
-      "price": 41.19,
-      "original_price": 52.14,
-      "discount": 21.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mrlrcmve9s0572",
-      "link": "https://s.shopee.com.br/60RoV7m6GU",
-      "rating": "4.9",
-      "sales": 1386,
-      "shop": "SELLNEEDS",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20175025617,
-        "productName": "Dispenser Porta Detergente e Bucha Luxo Cozinha",
-        "price": "41.19",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.13",
-        "sales": 1386,
-        "ratingStar": "4.9",
-        "shopName": "SELLNEEDS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mrlrcmve9s0572",
-        "productLink": "https://shopee.com.br/product/408653169/20175025617",
-        "offerLink": "https://s.shopee.com.br/60RoV7m6GU"
       },
       "_last_price": null
     },
