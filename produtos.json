@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-24T18:09:00.887985+00:00",
-  "total": 1127,
+  "updated_at": "2026-09-24T18:28:11.244191+00:00",
+  "total": 1125,
   "products": [
     {
       "id": "50203126324",
@@ -473,7 +473,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
       "link": "https://s.shopee.com.br/40glgmg00Y",
-      "rating": "4.7",
+      "rating": "4.6",
       "sales": 7824,
       "shop": "MVO COMÉRCIO DE VARIEDADES",
       "category": "air fryer",
@@ -485,7 +485,7 @@
         "priceDiscountRate": 81,
         "commissionRate": "0.03",
         "sales": 7824,
-        "ratingStar": "4.7",
+        "ratingStar": "4.6",
         "shopName": "MVO COMÉRCIO DE VARIEDADES",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
         "productLink": "https://shopee.com.br/product/972031390/21997150349",
@@ -1976,7 +1976,7 @@
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mnz5ipg57t3539",
       "link": "https://s.shopee.com.br/6VO6fL2UVU",
-      "rating": "5",
+      "rating": "4.9",
       "sales": 1675,
       "shop": "CANDYSTAR",
       "category": "carrinho bebe",
@@ -1988,7 +1988,7 @@
         "priceDiscountRate": 73,
         "commissionRate": "0.13",
         "sales": 1675,
-        "ratingStar": "5",
+        "ratingStar": "4.9",
         "shopName": "CANDYSTAR",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mnz5ipg57t3539",
         "productLink": "https://shopee.com.br/product/1634545368/23398908978",
@@ -3440,7 +3440,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b5-mt4n85gao35x12",
         "productLink": "https://shopee.com.br/product/832040275/22495754071",
         "offerLink": "https://s.shopee.com.br/AAHP22XsVu"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "50815623138",
@@ -4134,8 +4135,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mtape51h6ubnc7",
         "productLink": "https://shopee.com.br/product/1758772368/58213479973",
         "offerLink": "https://s.shopee.com.br/9zxyppA1QL"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "18998941239",
@@ -12777,8 +12777,8 @@
     {
       "id": "44001553177",
       "name": "Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda Pet Xixi Cão Pequeno Médio",
-      "price": 19.98,
-      "original_price": 39.96,
+      "price": 22.98,
+      "original_price": 45.96,
       "discount": 50.0,
       "commission": 10.5,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mt9tozhe1khu2f",
@@ -12791,7 +12791,7 @@
       "_item": {
         "itemId": 44001553177,
         "productName": "Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda Pet Xixi Cão Pequeno Médio",
-        "price": "19.98",
+        "price": "22.98",
         "priceDiscountRate": 50,
         "commissionRate": "0.105",
         "sales": 3221,
@@ -21881,6 +21881,35 @@
       "_last_price": null
     },
     {
+      "id": "23899161746",
+      "name": "Porta Detergente Rack Armazenamento De Cozinha Organizador Dispenser Sabão Aço Inox Para Pia",
+      "price": 31.9,
+      "original_price": 49.84,
+      "discount": 36.0,
+      "commission": 4.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8261i-mkcjnrt0gvlu4d",
+      "link": "https://s.shopee.com.br/4Vd2Iueb21",
+      "rating": "4.9",
+      "sales": 2001,
+      "shop": "Store import‘s",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23899161746,
+        "productName": "Porta Detergente Rack Armazenamento De Cozinha Organizador Dispenser Sabão Aço Inox Para Pia",
+        "price": "31.9",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.04",
+        "sales": 2001,
+        "ratingStar": "4.9",
+        "shopName": "Store import‘s",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261i-mkcjnrt0gvlu4d",
+        "productLink": "https://shopee.com.br/product/392545055/23899161746",
+        "offerLink": "https://s.shopee.com.br/4Vd2Iueb21"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22994876216",
       "name": "Cesto de roupa suja de bambu de 72 litros com tampa e alça para uso na sala de estar e no banheiro.",
       "price": 58.79,
@@ -23709,8 +23738,8 @@
     {
       "id": "58206237985",
       "name": "Kit 3 a 10 Potes Herméticos 2L Dispenser Organizador Lavanderia Para Sabão em Pó Detergente Amaciante",
-      "price": 56.85,
-      "original_price": 84.85,
+      "price": 56.86,
+      "original_price": 84.87,
       "discount": 33.0,
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mrlojlsb5r7od2",
@@ -23723,7 +23752,7 @@
       "_item": {
         "itemId": 58206237985,
         "productName": "Kit 3 a 10 Potes Herméticos 2L Dispenser Organizador Lavanderia Para Sabão em Pó Detergente Amaciante",
-        "price": "56.85",
+        "price": "56.86",
         "priceDiscountRate": 33,
         "commissionRate": "0.14",
         "sales": 1826,
@@ -27825,35 +27854,6 @@
       "_last_price": null
     },
     {
-      "id": "53710380013",
-      "name": "Detergente em Pó Lava Louças Saif 1kg e 500g",
-      "price": 29.8,
-      "original_price": 39.73,
-      "discount": 25.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mrbzgfxcptz92c",
-      "link": "https://s.shopee.com.br/6VO7enL9mw",
-      "rating": "4.9",
-      "sales": 1385,
-      "shop": "Casa Ruas",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 53710380013,
-        "productName": "Detergente em Pó Lava Louças Saif 1kg e 500g",
-        "price": "29.8",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.03",
-        "sales": 1385,
-        "ratingStar": "4.9",
-        "shopName": "Casa Ruas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mrbzgfxcptz92c",
-        "productLink": "https://shopee.com.br/product/489936264/53710380013",
-        "offerLink": "https://s.shopee.com.br/6VO7enL9mw"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58205979239",
       "name": "Principia Kit Limpa Hidrata e Protege c/ Gel de Limpeza GL-01 + Creme Hidratante CH-01 + Protetor Cor PS-05 FPS 70",
       "price": 117.73,
@@ -29851,35 +29851,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40puqy992k5b8",
         "productLink": "https://shopee.com.br/product/534023108/13214435371",
         "offerLink": "https://s.shopee.com.br/1AcwdvjA2"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20175025617",
-      "name": "Dispenser Porta Detergente e Bucha Luxo Cozinha",
-      "price": 41.19,
-      "original_price": 52.14,
-      "discount": 21.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mrlrcmve9s0572",
-      "link": "https://s.shopee.com.br/8AWLDQCJp1",
-      "rating": "4.9",
-      "sales": 1386,
-      "shop": "SELLNEEDS",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20175025617,
-        "productName": "Dispenser Porta Detergente e Bucha Luxo Cozinha",
-        "price": "41.19",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.13",
-        "sales": 1386,
-        "ratingStar": "4.9",
-        "shopName": "SELLNEEDS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mrlrcmve9s0572",
-        "productLink": "https://shopee.com.br/product/408653169/20175025617",
-        "offerLink": "https://s.shopee.com.br/8AWLDQCJp1"
       },
       "_last_price": null
     },
@@ -32606,35 +32577,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/4d04401940395723e83c424504e7086d",
         "productLink": "https://shopee.com.br/product/422783736/12480779090",
         "offerLink": "https://s.shopee.com.br/2gBO6PA3xl"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22798299188",
-      "name": "Maleta Caixa de Ferramentas Pesca Alta Resistente Reforçada Organizadora Promoção Envio Imediato",
-      "price": 21.2,
-      "original_price": 24.94,
-      "discount": 15.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mn5n7qgurf9gf0",
-      "link": "https://s.shopee.com.br/905S9BFoSN",
-      "rating": "4.7",
-      "sales": 342,
-      "shop": "Casa Dos Nichos pp",
-      "category": "caixa de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22798299188,
-        "productName": "Maleta Caixa de Ferramentas Pesca Alta Resistente Reforçada Organizadora Promoção Envio Imediato",
-        "price": "21.2",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.08",
-        "sales": 342,
-        "ratingStar": "4.7",
-        "shopName": "Casa Dos Nichos pp",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mn5n7qgurf9gf0",
-        "productLink": "https://shopee.com.br/product/256077772/22798299188",
-        "offerLink": "https://s.shopee.com.br/905S9BFoSN"
       },
       "_last_price": null
     },
