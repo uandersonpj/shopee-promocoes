@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-24T06:22:00.739473+00:00",
-  "total": 1126,
+  "updated_at": "2026-09-24T06:40:48.434419+00:00",
+  "total": 1127,
   "products": [
     {
       "id": "50203126324",
@@ -26787,6 +26787,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mpjkzcsfctmp94",
         "productLink": "https://shopee.com.br/product/1619693129/47562355175",
         "offerLink": "https://s.shopee.com.br/qjjurhU50"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "11051183096",
+      "name": "Lava Roupas Liquido Urca Azul - 5l",
+      "price": 28.49,
+      "original_price": 39.57,
+      "discount": 28.0,
+      "commission": 16.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40puqy94uut81",
+      "link": "https://s.shopee.com.br/9KiI2UkK54",
+      "rating": "4.9",
+      "sales": 2157,
+      "shop": "Casa de Gê",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 11051183096,
+        "productName": "Lava Roupas Liquido Urca Azul - 5l",
+        "price": "28.49",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.16",
+        "sales": 2157,
+        "ratingStar": "4.9",
+        "shopName": "Casa de Gê",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40puqy94uut81",
+        "productLink": "https://shopee.com.br/product/534023108/11051183096",
+        "offerLink": "https://s.shopee.com.br/9KiI2UkK54"
       },
       "_last_price": null
     },
