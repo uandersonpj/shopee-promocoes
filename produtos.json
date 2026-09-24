@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T15:54:08.684291+00:00",
+  "updated_at": "2026-09-24T16:13:31.859003+00:00",
   "total": 1123,
   "products": [
     {
@@ -1674,8 +1674,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk90kkju10qp3b",
         "productLink": "https://shopee.com.br/product/1063922972/18299069073",
         "offerLink": "https://s.shopee.com.br/20vhoH80Hj"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "43476999468",
@@ -2170,6 +2169,35 @@
       "_last_price": null
     },
     {
+      "id": "23098214172",
+      "name": "Piercing Nariz Nostril Titânio Ponto de Luz Zircônia Anzol Aba Nasal Prata Dourado",
+      "price": 13.97,
+      "original_price": 49.89,
+      "discount": 72.0,
+      "commission": 17.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-msxgtp629z477b",
+      "link": "https://s.shopee.com.br/qjjv1LhyA",
+      "rating": "4.9",
+      "sales": 856,
+      "shop": "Lapier - Piercings e Jóias de Luxo",
+      "category": "anzol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23098214172,
+        "productName": "Piercing Nariz Nostril Titânio Ponto de Luz Zircônia Anzol Aba Nasal Prata Dourado",
+        "price": "13.97",
+        "priceDiscountRate": 72,
+        "commissionRate": "0.17",
+        "sales": 856,
+        "ratingStar": "4.9",
+        "shopName": "Lapier - Piercings e Jóias de Luxo",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-msxgtp629z477b",
+        "productLink": "https://shopee.com.br/product/424883518/23098214172",
+        "offerLink": "https://s.shopee.com.br/qjjv1LhyA"
+      },
+      "_last_price": null
+    },
+    {
       "id": "17370976709",
       "name": "Isca Artificial Whopper Popper 13g/35g Iscas De Pesca Top Água",
       "price": 7.84,
@@ -2575,35 +2603,6 @@
       "_last_price": null
     },
     {
-      "id": "23098214172",
-      "name": "Piercing Nariz Nostril Titânio Ponto de Luz Zircônia Anzol Aba Nasal Prata Dourado",
-      "price": 14.47,
-      "original_price": 49.9,
-      "discount": 71.0,
-      "commission": 17.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-msxgtp629z477b",
-      "link": "https://s.shopee.com.br/qjjv1LhyA",
-      "rating": "4.9",
-      "sales": 856,
-      "shop": "Lapier - Piercings e Jóias de Luxo",
-      "category": "anzol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23098214172,
-        "productName": "Piercing Nariz Nostril Titânio Ponto de Luz Zircônia Anzol Aba Nasal Prata Dourado",
-        "price": "14.47",
-        "priceDiscountRate": 71,
-        "commissionRate": "0.17",
-        "sales": 856,
-        "ratingStar": "4.9",
-        "shopName": "Lapier - Piercings e Jóias de Luxo",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-msxgtp629z477b",
-        "productLink": "https://shopee.com.br/product/424883518/23098214172",
-        "offerLink": "https://s.shopee.com.br/qjjv1LhyA"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58263403829",
       "name": "LEMIKKLE - 136 Peças de Iscas Artificiais - Alta Performance para Pescadores",
       "price": 28.9,
@@ -2803,7 +2802,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfn8h5ufyu4kb0",
         "productLink": "https://shopee.com.br/product/391757444/23093824562",
         "offerLink": "https://s.shopee.com.br/6AlGGmgHZp"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22293844133",
@@ -4891,8 +4891,8 @@
     {
       "id": "26538918731",
       "name": "Linha De Pesca 120M Condutor De Monofilamento De Fibra De Carbono Revestido De Fluorocarbono Resistente Ao Desgaste , Ad",
-      "price": 7.69,
-      "original_price": 21.97,
+      "price": 7.0,
+      "original_price": 20.0,
       "discount": 65.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825b8-mq36i3xnt34c85",
@@ -4905,7 +4905,7 @@
       "_item": {
         "itemId": 26538918731,
         "productName": "Linha De Pesca 120M Condutor De Monofilamento De Fibra De Carbono Revestido De Fluorocarbono Resistente Ao Desgaste , Ad",
-        "price": "7.69",
+        "price": "7",
         "priceDiscountRate": 65,
         "commissionRate": "0.07",
         "sales": 591,
@@ -24606,35 +24606,6 @@
       "_last_price": null
     },
     {
-      "id": "11869643265",
-      "name": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
-      "price": 99.99,
-      "original_price": 147.04,
-      "discount": 32.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
-      "link": "https://s.shopee.com.br/1VzQjTfGfY",
-      "rating": "4.9",
-      "sales": 2443,
-      "shop": "Popular Pet",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 11869643265,
-        "productName": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
-        "price": "99.99",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.06",
-        "sales": 2443,
-        "ratingStar": "4.9",
-        "shopName": "Popular Pet",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
-        "productLink": "https://shopee.com.br/product/398944029/11869643265",
-        "offerLink": "https://s.shopee.com.br/1VzQjTfGfY"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23599134541",
       "name": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
       "price": 197.9,
@@ -26371,6 +26342,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repi-m8ibd9co7lzpef",
         "productLink": "https://shopee.com.br/product/810726528/20098102574",
         "offerLink": "https://s.shopee.com.br/8KpkqiDJjj"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "11869643265",
+      "name": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
+      "price": 105.0,
+      "original_price": 147.89,
+      "discount": 29.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
+      "link": "https://s.shopee.com.br/1VzQjTfGfY",
+      "rating": "4.9",
+      "sales": 2443,
+      "shop": "Popular Pet",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 11869643265,
+        "productName": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
+        "price": "105",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.06",
+        "sales": 2443,
+        "ratingStar": "4.9",
+        "shopName": "Popular Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
+        "productLink": "https://shopee.com.br/product/398944029/11869643265",
+        "offerLink": "https://s.shopee.com.br/1VzQjTfGfY"
       },
       "_last_price": null
     },
