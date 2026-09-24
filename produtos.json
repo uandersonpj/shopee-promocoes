@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T05:06:11.645754+00:00",
+  "updated_at": "2026-09-24T05:25:00.250089+00:00",
   "total": 1126,
   "products": [
     {
@@ -2570,7 +2570,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-msxgtp629z477b",
         "productLink": "https://shopee.com.br/product/424883518/23098214172",
         "offerLink": "https://s.shopee.com.br/qjjv1LhyA"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58263403829",
@@ -23046,35 +23047,6 @@
       "_last_price": null
     },
     {
-      "id": "23599134541",
-      "name": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
-      "price": 197.9,
-      "original_price": 304.46,
-      "discount": 35.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mtfch5t3i8sh33",
-      "link": "https://s.shopee.com.br/20vhJ6EPkA",
-      "rating": "4.8",
-      "sales": 903,
-      "shop": "Luma Connect",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23599134541,
-        "productName": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
-        "price": "197.9",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.03",
-        "sales": 903,
-        "ratingStar": "4.8",
-        "shopName": "Luma Connect",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mtfch5t3i8sh33",
-        "productLink": "https://shopee.com.br/product/734718734/23599134541",
-        "offerLink": "https://s.shopee.com.br/20vhJ6EPkA"
-      },
-      "_last_price": null
-    },
-    {
       "id": "27294190711",
       "name": "Casa Casinha de Cachorro N2 Com Colchão Caminha De Cachorro Pequeno Porto",
       "price": 28.12,
@@ -24927,6 +24899,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
         "productLink": "https://shopee.com.br/product/398944029/11869643265",
         "offerLink": "https://s.shopee.com.br/1VzQjTfGfY"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23599134541",
+      "name": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
+      "price": 197.9,
+      "original_price": 291.03,
+      "discount": 32.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mtfch5t3i8sh33",
+      "link": "https://s.shopee.com.br/20vhJ6EPkA",
+      "rating": "4.8",
+      "sales": 903,
+      "shop": "Luma Connect",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23599134541,
+        "productName": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
+        "price": "197.9",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.03",
+        "sales": 903,
+        "ratingStar": "4.8",
+        "shopName": "Luma Connect",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mtfch5t3i8sh33",
+        "productLink": "https://shopee.com.br/product/734718734/23599134541",
+        "offerLink": "https://s.shopee.com.br/20vhJ6EPkA"
       },
       "_last_price": null
     },
