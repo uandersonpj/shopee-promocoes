@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T05:25:00.250089+00:00",
+  "updated_at": "2026-09-24T05:43:51.483125+00:00",
   "total": 1126,
   "products": [
     {
@@ -2165,7 +2165,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/38f05806d01ed654d61cc598c39391ee",
         "productLink": "https://shopee.com.br/product/769957349/17370976709",
         "offerLink": "https://s.shopee.com.br/4Vd2HlTt0h"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23192646152",
@@ -8978,35 +8979,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mrop7pcd2l1ge4",
         "productLink": "https://shopee.com.br/product/1145739576/58261918789",
         "offerLink": "https://s.shopee.com.br/9AOrq9CUzH"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "54865439084",
-      "name": "Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 1200MBPS",
-      "price": 52.98,
-      "original_price": 120.41,
-      "discount": 56.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mri40ykoz47834",
-      "link": "https://s.shopee.com.br/8fSbFF589D",
-      "rating": "4.8",
-      "sales": 1235,
-      "shop": "TUDO_AQUI.br",
-      "category": "roteador wifi",
-      "source": "shopee",
-      "_item": {
-        "itemId": 54865439084,
-        "productName": "Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 1200MBPS",
-        "price": "52.98",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.03",
-        "sales": 1235,
-        "ratingStar": "4.8",
-        "shopName": "TUDO_AQUI.br",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mri40ykoz47834",
-        "productLink": "https://shopee.com.br/product/1378634963/54865439084",
-        "offerLink": "https://s.shopee.com.br/8fSbFF589D"
       },
       "_last_price": null
     },
@@ -16344,6 +16316,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qf-mpbbl1kk4mq4dd",
         "productLink": "https://shopee.com.br/product/1552226494/58262280031",
         "offerLink": "https://s.shopee.com.br/8AWKeJXyP7"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "47707636453",
+      "name": "Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 1200MBPS",
+      "price": 52.98,
+      "original_price": 96.33,
+      "discount": 45.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mrqu5qq74b2e6d",
+      "link": "https://s.shopee.com.br/AAHP1zzQ6c",
+      "rating": "4.5",
+      "sales": 544,
+      "shop": "LOJA_DO_POVO.br",
+      "category": "roteador wifi",
+      "source": "shopee",
+      "_item": {
+        "itemId": 47707636453,
+        "productName": "Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 1200MBPS",
+        "price": "52.98",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 544,
+        "ratingStar": "4.5",
+        "shopName": "LOJA_DO_POVO.br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mrqu5qq74b2e6d",
+        "productLink": "https://shopee.com.br/product/1378634997/47707636453",
+        "offerLink": "https://s.shopee.com.br/AAHP1zzQ6c"
       },
       "_last_price": null
     },
