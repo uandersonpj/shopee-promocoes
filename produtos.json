@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T07:37:15.092309+00:00",
+  "updated_at": "2026-09-24T07:56:04.908716+00:00",
   "total": 1127,
   "products": [
     {
@@ -894,7 +894,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a7-mgfaurmyhbt701",
         "productLink": "https://shopee.com.br/product/1127030290/58200141324",
         "offerLink": "https://s.shopee.com.br/9AOrqImK5a"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22492388439",
@@ -6639,6 +6640,35 @@
       "_last_price": null
     },
     {
+      "id": "42659281125",
+      "name": "Óculos De Sol Ovais Vintage Com Proteção UV400 , Armação De Metal Para Mulheres E Homens",
+      "price": 17.6,
+      "original_price": 45.13,
+      "discount": 61.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823qp-mp4m9y3qr6kr4f",
+      "link": "https://s.shopee.com.br/5LC9HGeihx",
+      "rating": "4.7",
+      "sales": 7474,
+      "shop": "Choice Oficial",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42659281125,
+        "productName": "Óculos De Sol Ovais Vintage Com Proteção UV400 , Armação De Metal Para Mulheres E Homens",
+        "price": "17.6",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.12",
+        "sales": 7474,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qp-mp4m9y3qr6kr4f",
+        "productLink": "https://shopee.com.br/product/1006215031/42659281125",
+        "offerLink": "https://s.shopee.com.br/5LC9HGeihx"
+      },
+      "_last_price": null
+    },
+    {
       "id": "51660992141",
       "name": "【Compre 2 e Ganhe 2 Grátis】Kit 10 Anzol De Pesca Anzol De Pesca Ao Ar Livre Com Prevenção Automática De Fuga De Peixes",
       "price": 7.98,
@@ -8810,35 +8840,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li3gn37h6v5h4a",
         "productLink": "https://shopee.com.br/product/432788506/22991548299",
         "offerLink": "https://s.shopee.com.br/4Vd2HimcxT"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "42659281125",
-      "name": "Óculos De Sol Ovais Vintage Com Proteção UV400 , Armação De Metal Para Mulheres E Homens",
-      "price": 17.6,
-      "original_price": 40.93,
-      "discount": 57.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823qp-mp4m9y3qr6kr4f",
-      "link": "https://s.shopee.com.br/5LC9HGeihx",
-      "rating": "4.7",
-      "sales": 7474,
-      "shop": "Choice Oficial",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42659281125,
-        "productName": "Óculos De Sol Ovais Vintage Com Proteção UV400 , Armação De Metal Para Mulheres E Homens",
-        "price": "17.6",
-        "priceDiscountRate": 57,
-        "commissionRate": "0.12",
-        "sales": 7474,
-        "ratingStar": "4.7",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qp-mp4m9y3qr6kr4f",
-        "productLink": "https://shopee.com.br/product/1006215031/42659281125",
-        "offerLink": "https://s.shopee.com.br/5LC9HGeihx"
       },
       "_last_price": null
     },
