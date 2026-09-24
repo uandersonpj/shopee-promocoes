@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T02:15:59.752987+00:00",
+  "updated_at": "2026-09-24T02:35:05.798702+00:00",
   "total": 1130,
   "products": [
     {
@@ -173,7 +173,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1zzq6l901gfa2",
         "productLink": "https://shopee.com.br/product/322874822/23797686527",
         "offerLink": "https://s.shopee.com.br/LnRkpZZff"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23593603405",
@@ -201,8 +202,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m94jsi5hwaol47",
         "productLink": "https://shopee.com.br/product/1127030290/23593603405",
         "offerLink": "https://s.shopee.com.br/1AbM45DFm"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "26539956454",
@@ -2574,8 +2574,8 @@
     {
       "id": "58265606332",
       "name": "FW Vara Pesca P/Carretilha 1,80m/1,65m 8-17lbs 2 partes Leve E e Resistente",
-      "price": 30.0,
-      "original_price": 103.45,
+      "price": 38.0,
+      "original_price": 131.03,
       "discount": 71.0,
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mrie96ths9hif0",
@@ -2588,7 +2588,7 @@
       "_item": {
         "itemId": 58265606332,
         "productName": "FW Vara Pesca P/Carretilha 1,80m/1,65m 8-17lbs 2 partes Leve E e Resistente",
-        "price": "30",
+        "price": "38",
         "priceDiscountRate": 71,
         "commissionRate": "0.11",
         "sales": 15,
@@ -7353,35 +7353,6 @@
       "_last_price": null
     },
     {
-      "id": "43150138443",
-      "name": "Estação De Acoplamento UGREEN USB HUB Para Mac Mini M4 M4 Pro M . 2 NVMe SSD 8 Tb Max 10 Gbps Portas-A E C SD TF 170 Mb/",
-      "price": 289.9,
-      "original_price": 707.07,
-      "discount": 59.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m9fq67u6pdzxd0",
-      "link": "https://s.shopee.com.br/2gBMWxLvpZ",
-      "rating": "4.9",
-      "sales": 41,
-      "shop": "Ugreen Official Shop",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 43150138443,
-        "productName": "Estação De Acoplamento UGREEN USB HUB Para Mac Mini M4 M4 Pro M . 2 NVMe SSD 8 Tb Max 10 Gbps Portas-A E C SD TF 170 Mb/",
-        "price": "289.9",
-        "priceDiscountRate": 59,
-        "commissionRate": "0.03",
-        "sales": 41,
-        "ratingStar": "4.9",
-        "shopName": "Ugreen Official Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m9fq67u6pdzxd0",
-        "productLink": "https://shopee.com.br/product/218996205/43150138443",
-        "offerLink": "https://s.shopee.com.br/2gBMWxLvpZ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58265110798",
       "name": "H'MASTON TK12 Teclado Mecânico 60% Teclado Mecanico Teclado Gamer Mecanico Teclado Mecânico Sem Fio Teclado Gamer",
       "price": 199.99,
@@ -8426,31 +8397,31 @@
       "_last_price": null
     },
     {
-      "id": "58258087449",
-      "name": "Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho Café",
-      "price": 37.99,
-      "original_price": 88.35,
+      "id": "43150138443",
+      "name": "Estação De Acoplamento UGREEN USB HUB Para Mac Mini M4 M4 Pro M . 2 NVMe SSD 8 Tb Max 10 Gbps Portas-A E C SD TF 170 Mb/",
+      "price": 299.9,
+      "original_price": 697.44,
       "discount": 57.0,
       "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mnlw9ncbyq68fe",
-      "link": "https://s.shopee.com.br/3qNJv5ztL4",
+      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m9fq67u6pdzxd0",
+      "link": "https://s.shopee.com.br/2gBMWxLvpZ",
       "rating": "4.9",
-      "sales": 7014,
-      "shop": "2 Get & Go ",
-      "category": "notebook",
+      "sales": 41,
+      "shop": "Ugreen Official Shop",
+      "category": "ssd nvme",
       "source": "shopee",
       "_item": {
-        "itemId": 58258087449,
-        "productName": "Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho Café",
-        "price": "37.99",
+        "itemId": 43150138443,
+        "productName": "Estação De Acoplamento UGREEN USB HUB Para Mac Mini M4 M4 Pro M . 2 NVMe SSD 8 Tb Max 10 Gbps Portas-A E C SD TF 170 Mb/",
+        "price": "299.9",
         "priceDiscountRate": 57,
         "commissionRate": "0.03",
-        "sales": 7014,
+        "sales": 41,
         "ratingStar": "4.9",
-        "shopName": "2 Get & Go ",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mnlw9ncbyq68fe",
-        "productLink": "https://shopee.com.br/product/1744660455/58258087449",
-        "offerLink": "https://s.shopee.com.br/3qNJv5ztL4"
+        "shopName": "Ugreen Official Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m9fq67u6pdzxd0",
+        "productLink": "https://shopee.com.br/product/218996205/43150138443",
+        "offerLink": "https://s.shopee.com.br/2gBMWxLvpZ"
       },
       "_last_price": null
     },
@@ -9495,6 +9466,64 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mq2zvsocj3eo45",
         "productLink": "https://shopee.com.br/product/1669666744/58263407185",
         "offerLink": "https://s.shopee.com.br/1LfywkPPsz"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58258087449",
+      "name": "Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho Café",
+      "price": 39.99,
+      "original_price": 88.87,
+      "discount": 55.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mnlw9ncbyq68fe",
+      "link": "https://s.shopee.com.br/3qNJv5ztL4",
+      "rating": "4.9",
+      "sales": 7014,
+      "shop": "2 Get & Go ",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58258087449,
+        "productName": "Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho Café",
+        "price": "39.99",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.03",
+        "sales": 7014,
+        "ratingStar": "4.9",
+        "shopName": "2 Get & Go ",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mnlw9ncbyq68fe",
+        "productLink": "https://shopee.com.br/product/1744660455/58258087449",
+        "offerLink": "https://s.shopee.com.br/3qNJv5ztL4"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23594304295",
+      "name": "Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Colorido Excecultivo 888",
+      "price": 39.99,
+      "original_price": 88.87,
+      "discount": 55.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvs-md7i52pbyqt8c2",
+      "link": "https://s.shopee.com.br/9zxxGQcPpe",
+      "rating": "4.6",
+      "sales": 2636,
+      "shop": "Global Mochilas CHL",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23594304295,
+        "productName": "Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Colorido Excecultivo 888",
+        "price": "39.99",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.09",
+        "sales": 2636,
+        "ratingStar": "4.6",
+        "shopName": "Global Mochilas CHL",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvs-md7i52pbyqt8c2",
+        "productLink": "https://shopee.com.br/product/960960972/23594304295",
+        "offerLink": "https://s.shopee.com.br/9zxxGQcPpe"
       },
       "_last_price": null
     },
@@ -12192,35 +12221,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh56v1mbfpxcf7",
         "productLink": "https://shopee.com.br/product/1641676028/19198335914",
         "offerLink": "https://s.shopee.com.br/2gBMFyKRnA"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "43108735992",
-      "name": "Papel Offset Opaline Liso 180g Branco Diplomata Kit 200, 100 ou 50 Folhas Masterprint",
-      "price": 11.97,
-      "original_price": 23.94,
-      "discount": 50.0,
-      "commission": 14.000000000000002,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbfn2mbuo7lk14",
-      "link": "https://s.shopee.com.br/4B0AzQ5Y1Y",
-      "rating": "5",
-      "sales": 2521,
-      "shop": "Draw Papelaria",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 43108735992,
-        "productName": "Papel Offset Opaline Liso 180g Branco Diplomata Kit 200, 100 ou 50 Folhas Masterprint",
-        "price": "11.97",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.14",
-        "sales": 2521,
-        "ratingStar": "5",
-        "shopName": "Draw Papelaria",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbfn2mbuo7lk14",
-        "productLink": "https://shopee.com.br/product/999239250/43108735992",
-        "offerLink": "https://s.shopee.com.br/4B0AzQ5Y1Y"
       },
       "_last_price": null
     },
@@ -26665,6 +26665,35 @@
       "_last_price": null
     },
     {
+      "id": "11051183096",
+      "name": "Lava Roupas Liquido Urca Azul - 5l",
+      "price": 28.49,
+      "original_price": 39.57,
+      "discount": 28.0,
+      "commission": 16.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40puqy94uut81",
+      "link": "https://s.shopee.com.br/30oCvbxWLY",
+      "rating": "4.9",
+      "sales": 2157,
+      "shop": "Casa de Gê",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 11051183096,
+        "productName": "Lava Roupas Liquido Urca Azul - 5l",
+        "price": "28.49",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.16",
+        "sales": 2157,
+        "ratingStar": "4.9",
+        "shopName": "Casa de Gê",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40puqy94uut81",
+        "productLink": "https://shopee.com.br/product/534023108/11051183096",
+        "offerLink": "https://s.shopee.com.br/30oCvbxWLY"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58263659785",
       "name": "Jimo MATA MOFO Desinfetante Uso Geral Spray 300ml",
       "price": 28.99,
@@ -31678,35 +31707,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b3-msbwtmkd0jk1cd",
         "productLink": "https://shopee.com.br/product/616222685/18156375729",
         "offerLink": "https://s.shopee.com.br/5q8OIqUGAC"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21550045026",
-      "name": "Creme Depilatório Facial Depilsam Karité 50G",
-      "price": 14.9,
-      "original_price": 17.95,
-      "discount": 17.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/4bba4d40278622219c444f699a080850",
-      "link": "https://s.shopee.com.br/1BMYkHL9b8",
-      "rating": "4.8",
-      "sales": 3447,
-      "shop": "Dana Cosmeticos",
-      "category": "creme facial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21550045026,
-        "productName": "Creme Depilatório Facial Depilsam Karité 50G",
-        "price": "14.9",
-        "priceDiscountRate": 17,
-        "commissionRate": "0.06",
-        "sales": 3447,
-        "ratingStar": "4.8",
-        "shopName": "Dana Cosmeticos",
-        "imageUrl": "https://cf.shopee.com.br/file/4bba4d40278622219c444f699a080850",
-        "productLink": "https://shopee.com.br/product/436104412/21550045026",
-        "offerLink": "https://s.shopee.com.br/1BMYkHL9b8"
       },
       "_last_price": null
     },
