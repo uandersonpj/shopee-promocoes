@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-24T16:52:09.895887+00:00",
-  "total": 1125,
+  "updated_at": "2026-09-24T17:11:31.134994+00:00",
+  "total": 1124,
   "products": [
     {
       "id": "50203126324",
@@ -462,8 +462,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgzgefeazked3d",
         "productLink": "https://shopee.com.br/product/1613332918/22294440400",
         "offerLink": "https://s.shopee.com.br/113AcTkGh4"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "21997150349",
@@ -1271,7 +1270,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823p5-mp4meqki2g3k68",
         "productLink": "https://shopee.com.br/product/1006215031/47000945292",
         "offerLink": "https://s.shopee.com.br/5q8PsEofN9"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22497773735",
@@ -7906,8 +7906,8 @@
     {
       "id": "25338080323",
       "name": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-      "price": 148.99,
-      "original_price": 354.74,
+      "price": 149.0,
+      "original_price": 354.76,
       "discount": 58.0,
       "commission": 20.0,
       "image": "https://cf.shopee.com.br/file/sg-11134207-823pa-mpa7rmkjv3t9e6",
@@ -7920,7 +7920,7 @@
       "_item": {
         "itemId": 25338080323,
         "productName": "Dr.Althea 345 Relief Cream 15ml,50ml/147 Barrier Cream 50ml",
-        "price": "148.99",
+        "price": "149",
         "priceDiscountRate": 58,
         "commissionRate": "0.2",
         "sales": 6106,
@@ -14167,35 +14167,6 @@
       "_last_price": null
     },
     {
-      "id": "23697370365",
-      "name": "Kit Top Academia Nadador Musculação Para Fitness Casual Treino C/ Elástico",
-      "price": 26.08,
-      "original_price": 50.15,
-      "discount": 48.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsl7js3appnoae",
-      "link": "https://s.shopee.com.br/AUuFQhrOfK",
-      "rating": "4.6",
-      "sales": 211,
-      "shop": "Lais Lingerie NF",
-      "category": "elastico musculacao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23697370365,
-        "productName": "Kit Top Academia Nadador Musculação Para Fitness Casual Treino C/ Elástico",
-        "price": "26.08",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.03",
-        "sales": 211,
-        "ratingStar": "4.6",
-        "shopName": "Lais Lingerie NF",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lsl7js3appnoae",
-        "productLink": "https://shopee.com.br/product/895667372/23697370365",
-        "offerLink": "https://s.shopee.com.br/AUuFQhrOfK"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22393946495",
       "name": "Ração Quatree Gourmet Cães Adultos Carne - 15Kg",
       "price": 93.9,
@@ -14830,35 +14801,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
         "productLink": "https://shopee.com.br/product/1727822533/58256070956",
         "offerLink": "https://s.shopee.com.br/AUuFQhZjJj"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18597631235",
-      "name": "Kit Top Academia Musculação Para Fitness Casual Praia Treino C/ Elástico",
-      "price": 26.9,
-      "original_price": 50.75,
-      "discount": 47.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxtrwh5co6gv6b",
-      "link": "https://s.shopee.com.br/80CuS70ujl",
-      "rating": "4.6",
-      "sales": 405,
-      "shop": "Ponto Certo Lingerie",
-      "category": "elastico musculacao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18597631235,
-        "productName": "Kit Top Academia Musculação Para Fitness Casual Praia Treino C/ Elástico",
-        "price": "26.9",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.03",
-        "sales": 405,
-        "ratingStar": "4.6",
-        "shopName": "Ponto Certo Lingerie",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxtrwh5co6gv6b",
-        "productLink": "https://shopee.com.br/product/378555563/18597631235",
-        "offerLink": "https://s.shopee.com.br/80CuS70ujl"
       },
       "_last_price": null
     },
@@ -15613,6 +15555,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5wdujp1f0s2e8",
         "productLink": "https://shopee.com.br/product/1087983137/21299595089",
         "offerLink": "https://s.shopee.com.br/1qcH6mOOFS"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22394397167",
+      "name": "Kit multifuncional de corda elástica, banda de resistência para musculação, equipamento de treinamento de força para uso",
+      "price": 26.9,
+      "original_price": 49.81,
+      "discount": 46.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-821ea-mh9lflpwxgy741",
+      "link": "https://s.shopee.com.br/20vhw6wbrI",
+      "rating": "4.8",
+      "sales": 122,
+      "shop": "nyasx4eil0",
+      "category": "elastico musculacao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22394397167,
+        "productName": "Kit multifuncional de corda elástica, banda de resistência para musculação, equipamento de treinamento de força para uso",
+        "price": "26.9",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.03",
+        "sales": 122,
+        "ratingStar": "4.8",
+        "shopName": "nyasx4eil0",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ea-mh9lflpwxgy741",
+        "productLink": "https://shopee.com.br/product/1609078353/22394397167",
+        "offerLink": "https://s.shopee.com.br/20vhw6wbrI"
       },
       "_last_price": null
     },
@@ -17183,35 +17154,6 @@
       "_last_price": null
     },
     {
-      "id": "22698451598",
-      "name": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
-      "price": 54.99,
-      "original_price": 98.2,
-      "discount": 44.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
-      "link": "https://s.shopee.com.br/6L4gSxVXk6",
-      "rating": "4.9",
-      "sales": 190,
-      "shop": "LAMPADAECOM",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22698451598,
-        "productName": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
-        "price": "54.99",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.12",
-        "sales": 190,
-        "ratingStar": "4.9",
-        "shopName": "LAMPADAECOM",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
-        "productLink": "https://shopee.com.br/product/983665337/22698451598",
-        "offerLink": "https://s.shopee.com.br/6L4gSxVXk6"
-      },
-      "_last_price": null
-    },
-    {
       "id": "57159028091",
       "name": "Base Amaciante Concentrada 50/100/250ml Faz até 50 litros perfumada tipo DOWNYEX RENDE MUITO",
       "price": 16.69,
@@ -18049,6 +17991,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4w-m6nn7taczt76a8",
         "productLink": "https://shopee.com.br/product/1356529946/27340235658",
         "offerLink": "https://s.shopee.com.br/6fhWreoK5k"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58263460939",
+      "name": "Barra de Pilates com Faixas Elásticas – Bastão para Exercícios Alongamento Treino Fitness Musculação",
+      "price": 33.98,
+      "original_price": 59.61,
+      "discount": 43.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mq400ysy3lz403",
+      "link": "https://s.shopee.com.br/9zxzlLPqrs",
+      "rating": "4.9",
+      "sales": 97,
+      "shop": "Yeeee",
+      "category": "elastico musculacao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58263460939,
+        "productName": "Barra de Pilates com Faixas Elásticas – Bastão para Exercícios Alongamento Treino Fitness Musculação",
+        "price": "33.98",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.08",
+        "sales": 97,
+        "ratingStar": "4.9",
+        "shopName": "Yeeee",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mq400ysy3lz403",
+        "productLink": "https://shopee.com.br/product/1521025879/58263460939",
+        "offerLink": "https://s.shopee.com.br/9zxzlLPqrs"
       },
       "_last_price": null
     },
@@ -20402,6 +20373,35 @@
       "_last_price": null
     },
     {
+      "id": "22698451598",
+      "name": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
+      "price": 59.9,
+      "original_price": 98.2,
+      "discount": 39.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
+      "link": "https://s.shopee.com.br/6L4gSxVXk6",
+      "rating": "4.9",
+      "sales": 190,
+      "shop": "LAMPADAECOM",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22698451598,
+        "productName": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
+        "price": "59.9",
+        "priceDiscountRate": 39,
+        "commissionRate": "0.12",
+        "sales": 190,
+        "ratingStar": "4.9",
+        "shopName": "LAMPADAECOM",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
+        "productLink": "https://shopee.com.br/product/983665337/22698451598",
+        "offerLink": "https://s.shopee.com.br/6L4gSxVXk6"
+      },
+      "_last_price": null
+    },
+    {
       "id": "57310981122",
       "name": "Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Arroz Feijão Sabão Em Pó Amaciante Produtos Limpeza",
       "price": 61.15,
@@ -22411,7 +22411,7 @@
       "commission": 18.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8258r-msk50zao3aio55",
       "link": "https://s.shopee.com.br/8fSbFTdD3W",
-      "rating": "5",
+      "rating": "4.9",
       "sales": 148,
       "shop": "Maxxo",
       "category": "suporte vara pesca",
@@ -22423,7 +22423,7 @@
         "priceDiscountRate": 36,
         "commissionRate": "0.18",
         "sales": 148,
-        "ratingStar": "5",
+        "ratingStar": "4.9",
         "shopName": "Maxxo",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258r-msk50zao3aio55",
         "productLink": "https://shopee.com.br/product/1764061146/58216191653",
@@ -30402,35 +30402,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260w-mmc374nroa2wc5",
         "productLink": "https://shopee.com.br/product/1742443094/58207777641",
         "offerLink": "https://s.shopee.com.br/7ptUFnWoo5"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21397621746",
-      "name": "Protetor De Punho Profissional Articulação Cross Trainning Munhequeira Elástica Crossfit Musculação Lpo Treino Academia",
-      "price": 27.92,
-      "original_price": 34.9,
-      "discount": 20.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbnxvzb56v8nfb",
-      "link": "https://s.shopee.com.br/6AlGGk7tSa",
-      "rating": "5",
-      "sales": 212,
-      "shop": "CROSS - SPORTSFITNESS",
-      "category": "elastico musculacao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21397621746,
-        "productName": "Protetor De Punho Profissional Articulação Cross Trainning Munhequeira Elástica Crossfit Musculação Lpo Treino Academia",
-        "price": "27.92",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.03",
-        "sales": 212,
-        "ratingStar": "5",
-        "shopName": "CROSS - SPORTSFITNESS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbnxvzb56v8nfb",
-        "productLink": "https://shopee.com.br/product/1178845158/21397621746",
-        "offerLink": "https://s.shopee.com.br/6AlGGk7tSa"
       },
       "_last_price": null
     },
