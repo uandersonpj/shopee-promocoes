@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T08:14:53.754986+00:00",
+  "updated_at": "2026-09-24T08:33:48.208157+00:00",
   "total": 1127,
   "products": [
     {
@@ -173,7 +173,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m94jsi5hwaol47",
         "productLink": "https://shopee.com.br/product/1127030290/23593603405",
         "offerLink": "https://s.shopee.com.br/5q8Ps1yFTG"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "26539956454",
@@ -2142,6 +2143,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhnwr6kx4o3n60",
         "productLink": "https://shopee.com.br/product/1239874790/58251249633",
         "offerLink": "https://s.shopee.com.br/9zxypq0t3Z"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "25074712287",
+      "name": "20 Peças Cabeça De Pesca Líderes De Linha De Aço Inoxidável Com Fivela Giratória Para Equipamento De Isca Ou Ganchos",
+      "price": 10.98,
+      "original_price": 39.21,
+      "discount": 72.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
+      "link": "https://s.shopee.com.br/3B7ehJqQJC",
+      "rating": "4.9",
+      "sales": 878,
+      "shop": "Choice Oficial",
+      "category": "linha de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 25074712287,
+        "productName": "20 Peças Cabeça De Pesca Líderes De Linha De Aço Inoxidável Com Fivela Giratória Para Equipamento De Isca Ou Ganchos",
+        "price": "10.98",
+        "priceDiscountRate": 72,
+        "commissionRate": "0.07",
+        "sales": 878,
+        "ratingStar": "4.9",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
+        "productLink": "https://shopee.com.br/product/1006215031/25074712287",
+        "offerLink": "https://s.shopee.com.br/3B7ehJqQJC"
       },
       "_last_price": null
     },
@@ -4172,35 +4202,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mn11dejo6hvoe3",
         "productLink": "https://shopee.com.br/product/1687489154/22399450069",
         "offerLink": "https://s.shopee.com.br/4qFsgMp1FO"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "25074712287",
-      "name": "20 Peças Cabeça De Pesca Líderes De Linha De Aço Inoxidável Com Fivela Giratória Para Equipamento De Isca Ou Ganchos",
-      "price": 10.98,
-      "original_price": 33.27,
-      "discount": 67.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
-      "link": "https://s.shopee.com.br/3B7ehJqQJC",
-      "rating": "4.9",
-      "sales": 878,
-      "shop": "Choice Oficial",
-      "category": "linha de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 25074712287,
-        "productName": "20 Peças Cabeça De Pesca Líderes De Linha De Aço Inoxidável Com Fivela Giratória Para Equipamento De Isca Ou Ganchos",
-        "price": "10.98",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.07",
-        "sales": 878,
-        "ratingStar": "4.9",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
-        "productLink": "https://shopee.com.br/product/1006215031/25074712287",
-        "offerLink": "https://s.shopee.com.br/3B7ehJqQJC"
       },
       "_last_price": null
     },
@@ -21665,8 +21666,8 @@
     {
       "id": "58257021649",
       "name": "Kit Capilar PROFISSIONAL BELKIT LISO OBRIGATÓRIO 03 itens de 1 LITRO: Shampoo Condicionador Mascara",
-      "price": 62.89,
-      "original_price": 99.83,
+      "price": 63.0,
+      "original_price": 100.0,
       "discount": 37.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mqgbmkntmvwi98",
@@ -21679,7 +21680,7 @@
       "_item": {
         "itemId": 58257021649,
         "productName": "Kit Capilar PROFISSIONAL BELKIT LISO OBRIGATÓRIO 03 itens de 1 LITRO: Shampoo Condicionador Mascara",
-        "price": "62.89",
+        "price": "63",
         "priceDiscountRate": 37,
         "commissionRate": "0.03",
         "sales": 1340,
