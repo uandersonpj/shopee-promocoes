@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T00:39:52.462374+00:00",
+  "updated_at": "2026-09-24T00:59:06.601049+00:00",
   "total": 1130,
   "products": [
     {
@@ -574,8 +574,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a9-meuhrokrwagy64",
         "productLink": "https://shopee.com.br/product/1553811678/21498310169",
         "offerLink": "https://s.shopee.com.br/4qFr759ykb"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "42971009476",
@@ -4973,7 +4972,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-ml7pm8mpebr88c",
         "productLink": "https://shopee.com.br/product/374734112/23418702594",
         "offerLink": "https://s.shopee.com.br/6L4fMFNTbV"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23693426827",
@@ -14515,35 +14515,6 @@
       "_last_price": null
     },
     {
-      "id": "23499364961",
-      "name": "Detergente Roupa Preta Protege O Preto | Realça A Cor | Evita Desbotamento 1kg AlvejaPro Oficial",
-      "price": 25.29,
-      "original_price": 47.72,
-      "discount": 47.0,
-      "commission": 14.000000000000002,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mll99udq0ao7d0",
-      "link": "https://s.shopee.com.br/5VVXuCo0HL",
-      "rating": "4.9",
-      "sales": 1709,
-      "shop": "AlvejaPro",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23499364961,
-        "productName": "Detergente Roupa Preta Protege O Preto | Realça A Cor | Evita Desbotamento 1kg AlvejaPro Oficial",
-        "price": "25.29",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.14",
-        "sales": 1709,
-        "ratingStar": "4.9",
-        "shopName": "AlvejaPro",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mll99udq0ao7d0",
-        "productLink": "https://shopee.com.br/product/1754933018/23499364961",
-        "offerLink": "https://s.shopee.com.br/5VVXuCo0HL"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58213273842",
       "name": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
       "price": 10.0,
@@ -14714,35 +14685,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
         "productLink": "https://shopee.com.br/product/1727822533/58256070956",
         "offerLink": "https://s.shopee.com.br/5AshVenj3s"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22298591472",
-      "name": "Ração Quatree Gourmet Gatos 10,1Kg",
-      "price": 115.99,
-      "original_price": 218.85,
-      "discount": 47.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
-      "link": "https://s.shopee.com.br/5foyZ7nvBG",
-      "rating": "4.9",
-      "sales": 3344,
-      "shop": "mypetone",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22298591472,
-        "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
-        "price": "115.99",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.12",
-        "sales": 3344,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
-        "productLink": "https://shopee.com.br/product/290073877/22298591472",
-        "offerLink": "https://s.shopee.com.br/5foyZ7nvBG"
       },
       "_last_price": null
     },
@@ -16715,6 +16657,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb3pqavbklg96",
         "productLink": "https://shopee.com.br/product/983753255/23791204929",
         "offerLink": "https://s.shopee.com.br/9fL6ruxG9x"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22298591472",
+      "name": "Ração Quatree Gourmet Gatos 10,1Kg",
+      "price": 121.74,
+      "original_price": 221.35,
+      "discount": 45.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
+      "link": "https://s.shopee.com.br/5foyZ7nvBG",
+      "rating": "4.9",
+      "sales": 3344,
+      "shop": "mypetone",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22298591472,
+        "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
+        "price": "121.74",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.12",
+        "sales": 3344,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
+        "productLink": "https://shopee.com.br/product/290073877/22298591472",
+        "offerLink": "https://s.shopee.com.br/5foyZ7nvBG"
       },
       "_last_price": null
     },
@@ -26288,6 +26259,35 @@
       "_last_price": null
     },
     {
+      "id": "23499364961",
+      "name": "Detergente Roupa Preta Protege O Preto | Realça A Cor | Evita Desbotamento 1kg AlvejaPro Oficial",
+      "price": 33.9,
+      "original_price": 47.75,
+      "discount": 29.0,
+      "commission": 14.000000000000002,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mll99udq0ao7d0",
+      "link": "https://s.shopee.com.br/5VVXuCo0HL",
+      "rating": "4.9",
+      "sales": 1709,
+      "shop": "AlvejaPro",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23499364961,
+        "productName": "Detergente Roupa Preta Protege O Preto | Realça A Cor | Evita Desbotamento 1kg AlvejaPro Oficial",
+        "price": "33.9",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.14",
+        "sales": 1709,
+        "ratingStar": "4.9",
+        "shopName": "AlvejaPro",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mll99udq0ao7d0",
+        "productLink": "https://shopee.com.br/product/1754933018/23499364961",
+        "offerLink": "https://s.shopee.com.br/5VVXuCo0HL"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22898980977",
       "name": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
       "price": 76.99,
@@ -27827,8 +27827,8 @@
     {
       "id": "58204001016",
       "name": "Percarbonato de Sódio 100% Puro Limpeza Em Geral Tira Manchas Roupas Brancas /1kg /2kg /3kg",
-      "price": 52.0,
-      "original_price": 69.33,
+      "price": 28.0,
+      "original_price": 37.33,
       "discount": 25.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjvjp1hee22qcb",
@@ -27841,7 +27841,7 @@
       "_item": {
         "itemId": 58204001016,
         "productName": "Percarbonato de Sódio 100% Puro Limpeza Em Geral Tira Manchas Roupas Brancas /1kg /2kg /3kg",
-        "price": "52",
+        "price": "28",
         "priceDiscountRate": 25,
         "commissionRate": "0.03",
         "sales": 1706,
