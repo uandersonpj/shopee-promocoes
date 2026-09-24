@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T03:32:12.210302+00:00",
+  "updated_at": "2026-09-24T03:50:58.492495+00:00",
   "total": 1125,
   "products": [
     {
@@ -551,8 +551,8 @@
     {
       "id": "42971009476",
       "name": "Óculos De Sol Polarizados Sem Moldura Ultra Leves 10g TR90 , Flexível , Confortável , Formato Quadrado Para Dirigir , Pe",
-      "price": 12.73,
-      "original_price": 67.0,
+      "price": 14.01,
+      "original_price": 73.74,
       "discount": 81.0,
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/sg-11134301-824jh-meid7h7zauiv8e",
@@ -565,7 +565,7 @@
       "_item": {
         "itemId": 42971009476,
         "productName": "Óculos De Sol Polarizados Sem Moldura Ultra Leves 10g TR90 , Flexível , Confortável , Formato Quadrado Para Dirigir , Pe",
-        "price": "12.73",
+        "price": "14.01",
         "priceDiscountRate": 81,
         "commissionRate": "0.1",
         "sales": 8779,
@@ -3437,7 +3437,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mrm1isre6juu61",
         "productLink": "https://shopee.com.br/product/1588692817/50815623138",
         "offerLink": "https://s.shopee.com.br/2gBO6H8l49"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "51004391053",
@@ -7042,7 +7043,7 @@
       "discount": 60.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134201-820m2-mqyn3fbk6ltxf3",
-      "link": "https://s.shopee.com.br/4qFsgFRNaz",
+      "link": "https://s.shopee.com.br/5fozh5HxEI",
       "rating": "4.6",
       "sales": 4505,
       "shop": "LABELLE COSMETICOS",
@@ -7059,7 +7060,7 @@
         "shopName": "LABELLE COSMETICOS",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m2-mqyn3fbk6ltxf3",
         "productLink": "https://shopee.com.br/product/958996125/58208352912",
-        "offerLink": "https://s.shopee.com.br/4qFsgFRNaz"
+        "offerLink": "https://s.shopee.com.br/5fozh5HxEI"
       },
       "_last_price": null
     },
@@ -10638,7 +10639,7 @@
       "discount": 53.0,
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
-      "link": "https://s.shopee.com.br/3B7ehA7nbE",
+      "link": "https://s.shopee.com.br/3LR4ulj2P0",
       "rating": "4.9",
       "sales": 1119,
       "shop": "GP HOME",
@@ -10655,7 +10656,7 @@
         "shopName": "GP HOME",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
         "productLink": "https://shopee.com.br/product/1270189717/29343102973",
-        "offerLink": "https://s.shopee.com.br/3B7ehA7nbE"
+        "offerLink": "https://s.shopee.com.br/3LR4ulj2P0"
       },
       "_last_price": null
     },
@@ -13009,6 +13010,35 @@
       "_last_price": null
     },
     {
+      "id": "57404370857",
+      "name": "Ração úmida Dog Chow Sabores Variados para Cães 15x85g ou 15x100g",
+      "price": 39.9,
+      "original_price": 79.8,
+      "discount": 50.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-ms2v0d0gl9mu9c",
+      "link": "https://s.shopee.com.br/4Vd2HgVlha",
+      "rating": "5",
+      "sales": 1315,
+      "shop": "LeluPets",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57404370857,
+        "productName": "Ração úmida Dog Chow Sabores Variados para Cães 15x85g ou 15x100g",
+        "price": "39.9",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.18",
+        "sales": 1315,
+        "ratingStar": "5",
+        "shopName": "LeluPets",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-ms2v0d0gl9mu9c",
+        "productLink": "https://shopee.com.br/product/293152127/57404370857",
+        "offerLink": "https://s.shopee.com.br/4Vd2HgVlha"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58209304205",
       "name": "Ração Cachorro 15kg ou 10kg Uau Dog Sabor Carne 18% Proteína",
       "price": 49.75,
@@ -13643,35 +13673,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztd-mko7wuy13u2q40",
         "productLink": "https://shopee.com.br/product/979724994/58205223096",
         "offerLink": "https://s.shopee.com.br/5Asj4rQ6v5"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "57404370857",
-      "name": "Ração úmida Dog Chow Sabores Variados para Cães 15x85g ou 15x100g",
-      "price": 39.9,
-      "original_price": 78.24,
-      "discount": 49.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-ms2v0d0gl9mu9c",
-      "link": "https://s.shopee.com.br/4Vd2HgVlha",
-      "rating": "5",
-      "sales": 1315,
-      "shop": "LeluPets",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57404370857,
-        "productName": "Ração úmida Dog Chow Sabores Variados para Cães 15x85g ou 15x100g",
-        "price": "39.9",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.18",
-        "sales": 1315,
-        "ratingStar": "5",
-        "shopName": "LeluPets",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-ms2v0d0gl9mu9c",
-        "productLink": "https://shopee.com.br/product/293152127/57404370857",
-        "offerLink": "https://s.shopee.com.br/4Vd2HgVlha"
       },
       "_last_price": null
     },
@@ -16611,7 +16612,7 @@
       "discount": 45.0,
       "commission": 18.0,
       "image": "https://cf.shopee.com.br/file/br-11134201-820l5-mp9hlxe5ga2p7e",
-      "link": "https://s.shopee.com.br/1qcH6jcngl",
+      "link": "https://s.shopee.com.br/9peYek25mF",
       "rating": "4.9",
       "sales": 3823,
       "shop": "Salon Line",
@@ -16628,7 +16629,7 @@
         "shopName": "Salon Line",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820l5-mp9hlxe5ga2p7e",
         "productLink": "https://shopee.com.br/product/616222685/21399647008",
-        "offerLink": "https://s.shopee.com.br/1qcH6jcngl"
+        "offerLink": "https://s.shopee.com.br/9peYek25mF"
       },
       "_last_price": null
     },
@@ -17249,7 +17250,7 @@
       "discount": 44.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mck45f2lr6khb7",
-      "link": "https://s.shopee.com.br/70KNGEanbH",
+      "link": "https://s.shopee.com.br/1qcH82WY0x",
       "rating": "4.8",
       "sales": 1810,
       "shop": "WCM SHOP",
@@ -17266,7 +17267,7 @@
         "shopName": "WCM SHOP",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mck45f2lr6khb7",
         "productLink": "https://shopee.com.br/product/287703953/22094256738",
-        "offerLink": "https://s.shopee.com.br/70KNGEanbH"
+        "offerLink": "https://s.shopee.com.br/1qcH82WY0x"
       },
       "_last_price": null
     },
@@ -17858,7 +17859,7 @@
       "discount": 43.0,
       "commission": 21.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfsnogvj5wqs3d",
-      "link": "https://s.shopee.com.br/LnTJx0zDd",
+      "link": "https://s.shopee.com.br/9zxyr31SRI",
       "rating": "4.9",
       "sales": 2937,
       "shop": "CasaEletro Marcon",
@@ -17875,7 +17876,7 @@
         "shopName": "CasaEletro Marcon",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfsnogvj5wqs3d",
         "productLink": "https://shopee.com.br/product/433434010/22998029026",
-        "offerLink": "https://s.shopee.com.br/LnTJx0zDd"
+        "offerLink": "https://s.shopee.com.br/9zxyr31SRI"
       },
       "_last_price": null
     },
@@ -22787,7 +22788,7 @@
       "discount": 35.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mpr27fdceolf7f",
-      "link": "https://s.shopee.com.br/2BF7VKBbd0",
+      "link": "https://s.shopee.com.br/3g3vJNhlj2",
       "rating": "4.9",
       "sales": 1301,
       "shop": "BRMAX OFICIAL",
@@ -22804,7 +22805,7 @@
         "shopName": "BRMAX OFICIAL",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mpr27fdceolf7f",
         "productLink": "https://shopee.com.br/product/399029882/58252379772",
-        "offerLink": "https://s.shopee.com.br/2BF7VKBbd0"
+        "offerLink": "https://s.shopee.com.br/3g3vJNhlj2"
       },
       "_last_price": null
     },
@@ -23037,6 +23038,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mr1zwjey4vt02e",
         "productLink": "https://shopee.com.br/product/1571276714/58262965447",
         "offerLink": "https://s.shopee.com.br/6fhWrfNWJF"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23599134541",
+      "name": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
+      "price": 197.9,
+      "original_price": 304.46,
+      "discount": 35.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mtfch5t3i8sh33",
+      "link": "https://s.shopee.com.br/20vhJ6EPkA",
+      "rating": "4.8",
+      "sales": 903,
+      "shop": "Luma Connect",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23599134541,
+        "productName": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
+        "price": "197.9",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.03",
+        "sales": 903,
+        "ratingStar": "4.8",
+        "shopName": "Luma Connect",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mtfch5t3i8sh33",
+        "productLink": "https://shopee.com.br/product/734718734/23599134541",
+        "offerLink": "https://s.shopee.com.br/20vhJ6EPkA"
       },
       "_last_price": null
     },
@@ -23947,7 +23977,7 @@
       "discount": 33.0,
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mrlojlsb5r7od2",
-      "link": "https://s.shopee.com.br/113A7BG2zd",
+      "link": "https://s.shopee.com.br/4B0BuIfrhz",
       "rating": "4.9",
       "sales": 1826,
       "shop": "LANO ECOM",
@@ -23964,7 +23994,7 @@
         "shopName": "LANO ECOM",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mrlojlsb5r7od2",
         "productLink": "https://shopee.com.br/product/1536563744/58206237985",
-        "offerLink": "https://s.shopee.com.br/113A7BG2zd"
+        "offerLink": "https://s.shopee.com.br/4B0BuIfrhz"
       },
       "_last_price": null
     },
@@ -24005,7 +24035,7 @@
       "discount": 33.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mmg50q1ihgjobd",
-      "link": "https://s.shopee.com.br/4qFsgDjr5S",
+      "link": "https://s.shopee.com.br/5q8PtOHJtL",
       "rating": "4.9",
       "sales": 5199,
       "shop": "Mercado das Essências",
@@ -24022,7 +24052,7 @@
         "shopName": "Mercado das Essências",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mmg50q1ihgjobd",
         "productLink": "https://shopee.com.br/product/1107585845/22599385841",
-        "offerLink": "https://s.shopee.com.br/4qFsgDjr5S"
+        "offerLink": "https://s.shopee.com.br/5q8PtOHJtL"
       },
       "_last_price": null
     },
@@ -24034,7 +24064,7 @@
       "discount": 33.0,
       "commission": 21.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mq80n6l4qkub32",
-      "link": "https://s.shopee.com.br/40glgiUYHs",
+      "link": "https://s.shopee.com.br/6AlGI0G3DR",
       "rating": "4.9",
       "sales": 4446,
       "shop": "Salon Line",
@@ -24051,7 +24081,7 @@
         "shopName": "Salon Line",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mq80n6l4qkub32",
         "productLink": "https://shopee.com.br/product/616222685/12782096688",
-        "offerLink": "https://s.shopee.com.br/40glgiUYHs"
+        "offerLink": "https://s.shopee.com.br/6AlGI0G3DR"
       },
       "_last_price": null
     },
@@ -24701,7 +24731,7 @@
       "discount": 32.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mqni5t3phaf47c",
-      "link": "https://s.shopee.com.br/gQJidkMTl",
+      "link": "https://s.shopee.com.br/1Lg0XAfu0X",
       "rating": "4.8",
       "sales": 1871,
       "shop": "AQUARELA DECORAÇÕES",
@@ -24718,7 +24748,7 @@
         "shopName": "AQUARELA DECORAÇÕES",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mqni5t3phaf47c",
         "productLink": "https://shopee.com.br/product/597391186/19899866990",
-        "offerLink": "https://s.shopee.com.br/gQJidkMTl"
+        "offerLink": "https://s.shopee.com.br/1Lg0XAfu0X"
       },
       "_last_price": null
     },
@@ -24893,35 +24923,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
         "productLink": "https://shopee.com.br/product/398944029/11869643265",
         "offerLink": "https://s.shopee.com.br/1VzQjTfGfY"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23599134541",
-      "name": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
-      "price": 197.9,
-      "original_price": 291.03,
-      "discount": 32.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mtfch5t3i8sh33",
-      "link": "https://s.shopee.com.br/20vhJ6EPkA",
-      "rating": "4.8",
-      "sales": 903,
-      "shop": "Luma Connect",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23599134541,
-        "productName": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
-        "price": "197.9",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.03",
-        "sales": 903,
-        "ratingStar": "4.8",
-        "shopName": "Luma Connect",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mtfch5t3i8sh33",
-        "productLink": "https://shopee.com.br/product/734718734/23599134541",
-        "offerLink": "https://s.shopee.com.br/20vhJ6EPkA"
       },
       "_last_price": null
     },
@@ -26644,7 +26645,7 @@
       "discount": 29.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwlrb4xzhfr3a",
-      "link": "https://s.shopee.com.br/9KiI2hnja9",
+      "link": "https://s.shopee.com.br/6q0x5PV05B",
       "rating": "4.9",
       "sales": 120,
       "shop": "CLICK & VIVA",
@@ -26661,7 +26662,7 @@
         "shopName": "CLICK & VIVA",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwlrb4xzhfr3a",
         "productLink": "https://shopee.com.br/product/1594633180/22498752326",
-        "offerLink": "https://s.shopee.com.br/9KiI2hnja9"
+        "offerLink": "https://s.shopee.com.br/6q0x5PV05B"
       },
       "_last_price": null
     },
@@ -26673,7 +26674,7 @@
       "discount": 29.0,
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mqrqdfz230n45c",
-      "link": "https://s.shopee.com.br/gQJimKjAX",
+      "link": "https://s.shopee.com.br/7VGdsdSSjN",
       "rating": "4.6",
       "sales": 115,
       "shop": "Max Pescas",
@@ -26690,7 +26691,7 @@
         "shopName": "Max Pescas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mqrqdfz230n45c",
         "productLink": "https://shopee.com.br/product/291545650/3956922823",
-        "offerLink": "https://s.shopee.com.br/gQJimKjAX"
+        "offerLink": "https://s.shopee.com.br/7VGdsdSSjN"
       },
       "_last_price": null
     },
@@ -27137,7 +27138,7 @@
       "discount": 27.0,
       "commission": 18.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8259g-msbwy1o9n30qbe",
-      "link": "https://s.shopee.com.br/2LYXheatfm",
+      "link": "https://s.shopee.com.br/9fL8SR2j7C",
       "rating": "4.9",
       "sales": 3439,
       "shop": "Salon Line",
@@ -27154,7 +27155,7 @@
         "shopName": "Salon Line",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-msbwy1o9n30qbe",
         "productLink": "https://shopee.com.br/product/616222685/14494160625",
-        "offerLink": "https://s.shopee.com.br/2LYXheatfm"
+        "offerLink": "https://s.shopee.com.br/9fL8SR2j7C"
       },
       "_last_price": null
     },
@@ -28529,7 +28530,7 @@
       "discount": 25.0,
       "commission": 16.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lh9iq50zmqie10",
-      "link": "https://s.shopee.com.br/9V1iF0n6FA",
+      "link": "https://s.shopee.com.br/6fhWt6VdQ8",
       "rating": "4.7",
       "sales": 143,
       "shop": "Max Pescas",
@@ -28546,7 +28547,7 @@
         "shopName": "Max Pescas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lh9iq50zmqie10",
         "productLink": "https://shopee.com.br/product/291545650/3166644344",
-        "offerLink": "https://s.shopee.com.br/9V1iF0n6FA"
+        "offerLink": "https://s.shopee.com.br/6fhWt6VdQ8"
       },
       "_last_price": null
     },
@@ -28674,7 +28675,7 @@
       "discount": 24.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7qvfx-lki79klhmzcp46",
-      "link": "https://s.shopee.com.br/7KxDeqZWvN",
+      "link": "https://s.shopee.com.br/2BF7WeVHL3",
       "rating": "4.9",
       "sales": 1704,
       "shop": "Casa de Gê",
@@ -28691,7 +28692,7 @@
         "shopName": "Casa de Gê",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvfx-lki79klhmzcp46",
         "productLink": "https://shopee.com.br/product/534023108/22396235066",
-        "offerLink": "https://s.shopee.com.br/7KxDeqZWvN"
+        "offerLink": "https://s.shopee.com.br/2BF7WeVHL3"
       },
       "_last_price": null
     },
@@ -29254,7 +29255,7 @@
       "discount": 22.0,
       "commission": 21.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8258a-msbwmmolzx8m23",
-      "link": "https://s.shopee.com.br/qjjutgbiL",
+      "link": "https://s.shopee.com.br/6L4gUJFPsU",
       "rating": "4.9",
       "sales": 4316,
       "shop": "Salon Line",
@@ -29271,7 +29272,7 @@
         "shopName": "Salon Line",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258a-msbwmmolzx8m23",
         "productLink": "https://shopee.com.br/product/616222685/16324454755",
-        "offerLink": "https://s.shopee.com.br/qjjutgbiL"
+        "offerLink": "https://s.shopee.com.br/6L4gUJFPsU"
       },
       "_last_price": null
     },
@@ -29892,7 +29893,7 @@
       "discount": 21.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mp18dhjxhy4l91",
-      "link": "https://s.shopee.com.br/4B0Bt4X2NU",
+      "link": "https://s.shopee.com.br/8AWKfjFt8z",
       "rating": "4.9",
       "sales": 1683,
       "shop": "Casa Ilume",
@@ -29909,7 +29910,7 @@
         "shopName": "Casa Ilume",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mp18dhjxhy4l91",
         "productLink": "https://shopee.com.br/product/987020544/58261911959",
-        "offerLink": "https://s.shopee.com.br/4B0Bt4X2NU"
+        "offerLink": "https://s.shopee.com.br/8AWKfjFt8z"
       },
       "_last_price": null
     },
@@ -32038,7 +32039,7 @@
       "discount": 16.0,
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltqs9gn59ou713",
-      "link": "https://s.shopee.com.br/BU37rMdBU",
+      "link": "https://s.shopee.com.br/3qNLVtgQAi",
       "rating": "4.5",
       "sales": 142,
       "shop": "Max Pescas",
@@ -32055,7 +32056,7 @@
         "shopName": "Max Pescas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltqs9gn59ou713",
         "productLink": "https://shopee.com.br/product/291545650/18799237450",
-        "offerLink": "https://s.shopee.com.br/BU37rMdBU"
+        "offerLink": "https://s.shopee.com.br/3qNLVtgQAi"
       },
       "_last_price": null
     },
@@ -32125,7 +32126,7 @@
       "discount": 15.0,
       "commission": 18.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rbmo-lneo8slh76y975",
-      "link": "https://s.shopee.com.br/4fwSTukUQR",
+      "link": "https://s.shopee.com.br/60Rq5hGgYO",
       "rating": "4.9",
       "sales": 3832,
       "shop": "Casa de Gê",
@@ -32142,7 +32143,7 @@
         "shopName": "Casa de Gê",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbmo-lneo8slh76y975",
         "productLink": "https://shopee.com.br/product/534023108/18998573561",
-        "offerLink": "https://s.shopee.com.br/4fwSTukUQR"
+        "offerLink": "https://s.shopee.com.br/60Rq5hGgYO"
       },
       "_last_price": null
     },
@@ -32154,7 +32155,7 @@
       "discount": 15.0,
       "commission": 6.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdsw7fyi4jbl20",
-      "link": "https://s.shopee.com.br/W6tWG0Lse",
+      "link": "https://s.shopee.com.br/9KiI3p3zn6",
       "rating": "4.9",
       "sales": 3711,
       "shop": "AGRONLINE loja agricola",
@@ -32171,7 +32172,7 @@
         "shopName": "AGRONLINE loja agricola",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdsw7fyi4jbl20",
         "productLink": "https://shopee.com.br/product/1494249827/18598296472",
-        "offerLink": "https://s.shopee.com.br/W6tWG0Lse"
+        "offerLink": "https://s.shopee.com.br/9KiI3p3zn6"
       },
       "_last_price": null
     },
@@ -32212,7 +32213,7 @@
       "discount": 15.0,
       "commission": 16.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rbll-lndnp4p8lq2q2e",
-      "link": "https://s.shopee.com.br/6fhWrcc4HB",
+      "link": "https://s.shopee.com.br/1VzQjQXogr",
       "rating": "4.9",
       "sales": 2168,
       "shop": "Casa de Gê",
@@ -32229,7 +32230,7 @@
         "shopName": "Casa de Gê",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbll-lndnp4p8lq2q2e",
         "productLink": "https://shopee.com.br/product/534023108/11151188105",
-        "offerLink": "https://s.shopee.com.br/6fhWrcc4HB"
+        "offerLink": "https://s.shopee.com.br/1VzQjQXogr"
       },
       "_last_price": null
     },
