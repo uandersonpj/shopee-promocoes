@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-24T02:35:05.798702+00:00",
-  "total": 1130,
+  "updated_at": "2026-09-24T02:54:07.474585+00:00",
+  "total": 1132,
   "products": [
     {
       "id": "58266825173",
@@ -546,8 +546,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
         "productLink": "https://shopee.com.br/product/972031390/21997150349",
         "offerLink": "https://s.shopee.com.br/6q0vUkTARG"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "21498310169",
@@ -4161,7 +4160,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkc1gjt1xc606",
         "productLink": "https://shopee.com.br/product/1362613415/42110429390",
         "offerLink": "https://s.shopee.com.br/1qcFXeWZxX"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "25074712287",
@@ -5853,7 +5853,7 @@
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-moj6y9k3bm6l25",
       "link": "https://s.shopee.com.br/905Q4lbusg",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 585,
       "shop": "sougayilanglocal3.br",
       "category": "vara de pesca",
@@ -5865,7 +5865,7 @@
         "priceDiscountRate": 63,
         "commissionRate": "0.09",
         "sales": 585,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "sougayilanglocal3.br",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-moj6y9k3bm6l25",
         "productLink": "https://shopee.com.br/product/1500993597/41809393497",
@@ -7030,6 +7030,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-luouxwoipd4w63",
         "productLink": "https://shopee.com.br/product/612187100/18197089486",
         "offerLink": "https://s.shopee.com.br/60RpCCOx2Z"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "45558377465",
+      "name": "Body Splash Divine Agapis Beauty 200ml Fragrância Sedutora Delicada Alta Fixação",
+      "price": 19.9,
+      "original_price": 49.75,
+      "discount": 60.0,
+      "commission": 21.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mrhgn8jhtczo35",
+      "link": "https://s.shopee.com.br/20vgPWku71",
+      "rating": "4.7",
+      "sales": 2513,
+      "shop": "Adora ",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 45558377465,
+        "productName": "Body Splash Divine Agapis Beauty 200ml Fragrância Sedutora Delicada Alta Fixação",
+        "price": "19.9",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.21",
+        "sales": 2513,
+        "ratingStar": "4.7",
+        "shopName": "Adora ",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mrhgn8jhtczo35",
+        "productLink": "https://shopee.com.br/product/790605924/45558377465",
+        "offerLink": "https://s.shopee.com.br/20vgPWku71"
       },
       "_last_price": null
     },
@@ -11587,35 +11616,6 @@
       "_last_price": null
     },
     {
-      "id": "23594439744",
-      "name": "400ML 6 Lâminas Espremedor Elétrico Mini Liquidificador Portátil De Suco De Alimentos Misturador Leite",
-      "price": 34.3,
-      "original_price": 71.46,
-      "discount": 52.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824j0-mf4w5g1wmgaw9d",
-      "link": "https://s.shopee.com.br/8plzsQukcz",
-      "rating": "4.5",
-      "sales": 5196,
-      "shop": "zapshop2",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23594439744,
-        "productName": "400ML 6 Lâminas Espremedor Elétrico Mini Liquidificador Portátil De Suco De Alimentos Misturador Leite",
-        "price": "34.3",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.11",
-        "sales": 5196,
-        "ratingStar": "4.5",
-        "shopName": "zapshop2",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824j0-mf4w5g1wmgaw9d",
-        "productLink": "https://shopee.com.br/product/1630740918/23594439744",
-        "offerLink": "https://s.shopee.com.br/8plzsQukcz"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58202079450",
       "name": "Tenis Masculino + Relogio + Meia Esportivo  Academia Corrida Caminhada Super leve e Macio",
       "price": 57.56,
@@ -12076,6 +12076,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262r-mkl2wjyyx9flf8",
         "productLink": "https://shopee.com.br/product/1406964673/22894848502",
         "offerLink": "https://s.shopee.com.br/7VGcHyiR0W"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23594439744",
+      "name": "400ML 6 Lâminas Espremedor Elétrico Mini Liquidificador Portátil De Suco De Alimentos Misturador Leite",
+      "price": 34.99,
+      "original_price": 71.41,
+      "discount": 51.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824j0-mf4w5g1wmgaw9d",
+      "link": "https://s.shopee.com.br/8plzsQukcz",
+      "rating": "4.5",
+      "sales": 5196,
+      "shop": "zapshop2",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23594439744,
+        "productName": "400ML 6 Lâminas Espremedor Elétrico Mini Liquidificador Portátil De Suco De Alimentos Misturador Leite",
+        "price": "34.99",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.11",
+        "sales": 5196,
+        "ratingStar": "4.5",
+        "shopName": "zapshop2",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824j0-mf4w5g1wmgaw9d",
+        "productLink": "https://shopee.com.br/product/1630740918/23594439744",
+        "offerLink": "https://s.shopee.com.br/8plzsQukcz"
       },
       "_last_price": null
     },
@@ -16541,6 +16570,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
         "productLink": "https://shopee.com.br/product/504754787/20999680446",
         "offerLink": "https://s.shopee.com.br/2qUmjM5bbA"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23394412512",
+      "name": "Caminhão Dinossauro 4 em 1 com pista e lancador, 6/12 carrinhos demetal",
+      "price": 110.99,
+      "original_price": 201.8,
+      "discount": 45.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824i5-mesl3uxaz30l75",
+      "link": "https://s.shopee.com.br/W6sgkjRNO",
+      "rating": "4.9",
+      "sales": 600,
+      "shop": "CANDYSTAR",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23394412512,
+        "productName": "Caminhão Dinossauro 4 em 1 com pista e lancador, 6/12 carrinhos demetal",
+        "price": "110.99",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 600,
+        "ratingStar": "4.9",
+        "shopName": "CANDYSTAR",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i5-mesl3uxaz30l75",
+        "productLink": "https://shopee.com.br/product/1634545368/23394412512",
+        "offerLink": "https://s.shopee.com.br/W6sgkjRNO"
       },
       "_last_price": null
     },
@@ -26114,6 +26172,35 @@
       "_last_price": null
     },
     {
+      "id": "47956018833",
+      "name": "Vara Telescópica Traíra 2m 3m 4m 5m 6m 7m Anéis de Aço Pesca Pesada Alto Alcance Reforçada",
+      "price": 48.9,
+      "original_price": 69.86,
+      "discount": 30.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mki859j1y9z585",
+      "link": "https://s.shopee.com.br/gQI9VJQC0",
+      "rating": "4.9",
+      "sales": 377,
+      "shop": "YONGXINSHENG",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 47956018833,
+        "productName": "Vara Telescópica Traíra 2m 3m 4m 5m 6m 7m Anéis de Aço Pesca Pesada Alto Alcance Reforçada",
+        "price": "48.9",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.09",
+        "sales": 377,
+        "ratingStar": "4.9",
+        "shopName": "YONGXINSHENG",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mki859j1y9z585",
+        "productLink": "https://shopee.com.br/product/544625199/47956018833",
+        "offerLink": "https://s.shopee.com.br/gQI9VJQC0"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19498994816",
       "name": "Vara Telescópica Traíra Gomo Longo Verde de 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
       "price": 34.99,
@@ -29507,35 +29594,6 @@
       "_last_price": null
     },
     {
-      "id": "47956018833",
-      "name": "Vara Telescópica Traíra 2m 3m 4m 5m 6m 7m Anéis de Aço Pesca Pesada Alto Alcance Reforçada",
-      "price": 55.89,
-      "original_price": 71.65,
-      "discount": 22.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mki859j1y9z585",
-      "link": "https://s.shopee.com.br/gQI9VJQC0",
-      "rating": "4.9",
-      "sales": 377,
-      "shop": "YONGXINSHENG",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 47956018833,
-        "productName": "Vara Telescópica Traíra 2m 3m 4m 5m 6m 7m Anéis de Aço Pesca Pesada Alto Alcance Reforçada",
-        "price": "55.89",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.09",
-        "sales": 377,
-        "ratingStar": "4.9",
-        "shopName": "YONGXINSHENG",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mki859j1y9z585",
-        "productLink": "https://shopee.com.br/product/544625199/47956018833",
-        "offerLink": "https://s.shopee.com.br/gQI9VJQC0"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23897974382",
       "name": "Kit 02 Vara Telescópica Gomo Longo JP Traira 4,00m Verde Jaú Pesca",
       "price": 107.99,
@@ -31711,31 +31769,31 @@
       "_last_price": null
     },
     {
-      "id": "23298210857",
-      "name": "Perfume Touti Vip Fit Lux Todas Fragrancias Masculino Feminino Luxo Alta Fixacao",
-      "price": 33.1,
-      "original_price": 39.88,
+      "id": "21550045026",
+      "name": "Creme Depilatório Facial Depilsam Karité 50G",
+      "price": 14.9,
+      "original_price": 17.95,
       "discount": 17.0,
-      "commission": 14.000000000000002,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6dzgmcihqvb27",
-      "link": "https://s.shopee.com.br/6fhWbo71gP",
-      "rating": "4.9",
-      "sales": 2823,
-      "shop": "PREEPFULL",
-      "category": "perfume",
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/4bba4d40278622219c444f699a080850",
+      "link": "https://s.shopee.com.br/1BMYkHL9b8",
+      "rating": "4.8",
+      "sales": 3447,
+      "shop": "Dana Cosmeticos",
+      "category": "creme facial",
       "source": "shopee",
       "_item": {
-        "itemId": 23298210857,
-        "productName": "Perfume Touti Vip Fit Lux Todas Fragrancias Masculino Feminino Luxo Alta Fixacao",
-        "price": "33.1",
+        "itemId": 21550045026,
+        "productName": "Creme Depilatório Facial Depilsam Karité 50G",
+        "price": "14.9",
         "priceDiscountRate": 17,
-        "commissionRate": "0.14",
-        "sales": 2823,
-        "ratingStar": "4.9",
-        "shopName": "PREEPFULL",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6dzgmcihqvb27",
-        "productLink": "https://shopee.com.br/product/1478073248/23298210857",
-        "offerLink": "https://s.shopee.com.br/6fhWbo71gP"
+        "commissionRate": "0.06",
+        "sales": 3447,
+        "ratingStar": "4.8",
+        "shopName": "Dana Cosmeticos",
+        "imageUrl": "https://cf.shopee.com.br/file/4bba4d40278622219c444f699a080850",
+        "productLink": "https://shopee.com.br/product/436104412/21550045026",
+        "offerLink": "https://s.shopee.com.br/1BMYkHL9b8"
       },
       "_last_price": null
     },
