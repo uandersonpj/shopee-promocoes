@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T00:54:36.598810+00:00",
+  "updated_at": "2026-09-25T01:13:50.018329+00:00",
   "total": 1126,
   "products": [
     {
@@ -28,7 +28,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822zt-mia9h90fnksi38",
         "productLink": "https://shopee.com.br/product/450664666/50203126324",
         "offerLink": "https://s.shopee.com.br/9AOsLOHfg5"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22394636674",
@@ -2193,8 +2194,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/38f05806d01ed654d61cc598c39391ee",
         "productLink": "https://shopee.com.br/product/769957349/17370976709",
         "offerLink": "https://s.shopee.com.br/4Vd2HlTt0h"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23192646152",
@@ -10541,7 +10541,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
         "productLink": "https://shopee.com.br/product/1270189717/29343102973",
         "offerLink": "https://s.shopee.com.br/3LR4ulj2P0"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58211030740",
@@ -11207,35 +11208,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h7-mpl0gkmwesjyea",
         "productLink": "https://shopee.com.br/product/1629595611/23198950047",
         "offerLink": "https://s.shopee.com.br/AKapERhsih"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22799125551",
-      "name": "Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escolar de Viagem e Trabalho",
-      "price": 41.99,
-      "original_price": 87.48,
-      "discount": 52.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820me-mljzudnhshdw7f",
-      "link": "https://s.shopee.com.br/1Lg0VkKK24",
-      "rating": "4.8",
-      "sales": 3409,
-      "shop": "RON CHANG",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22799125551,
-        "productName": "Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escolar de Viagem e Trabalho",
-        "price": "41.99",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 3409,
-        "ratingStar": "4.8",
-        "shopName": "RON CHANG",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mljzudnhshdw7f",
-        "productLink": "https://shopee.com.br/product/1658947107/22799125551",
-        "offerLink": "https://s.shopee.com.br/1Lg0VkKK24"
       },
       "_last_price": null
     },
@@ -12193,6 +12165,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh56v1mbfpxcf7",
         "productLink": "https://shopee.com.br/product/1641676028/19198335914",
         "offerLink": "https://s.shopee.com.br/8V9B3AdqOP"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22799125551",
+      "name": "Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escolar de Viagem e Trabalho",
+      "price": 39.99,
+      "original_price": 79.98,
+      "discount": 50.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820me-mljzudnhshdw7f",
+      "link": "https://s.shopee.com.br/1Lg0VkKK24",
+      "rating": "4.8",
+      "sales": 3409,
+      "shop": "RON CHANG",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22799125551,
+        "productName": "Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escolar de Viagem e Trabalho",
+        "price": "39.99",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 3409,
+        "ratingStar": "4.8",
+        "shopName": "RON CHANG",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mljzudnhshdw7f",
+        "productLink": "https://shopee.com.br/product/1658947107/22799125551",
+        "offerLink": "https://s.shopee.com.br/1Lg0VkKK24"
       },
       "_last_price": null
     },
@@ -14807,8 +14808,8 @@
     {
       "id": "22298591472",
       "name": "Ração Quatree Gourmet Gatos 10,1Kg",
-      "price": 112.99,
-      "original_price": 213.19,
+      "price": 115.99,
+      "original_price": 218.85,
       "discount": 47.0,
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
@@ -14821,7 +14822,7 @@
       "_item": {
         "itemId": 22298591472,
         "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
-        "price": "112.99",
+        "price": "115.99",
         "priceDiscountRate": 47,
         "commissionRate": "0.12",
         "sales": 3350,
@@ -19788,35 +19789,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mgggrav5aqz3b0",
         "productLink": "https://shopee.com.br/product/1582999046/42064038188",
         "offerLink": "https://s.shopee.com.br/6q0x3wjlIR"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22894275092",
-      "name": "Kit Carrinhos Miniatura Coleção 12 Peças Brinquedo Crianças Brincar Presente",
-      "price": 14.9,
-      "original_price": 24.83,
-      "discount": 40.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjaa6s64g0sj43",
-      "link": "https://s.shopee.com.br/80CuS5wmSd",
-      "rating": "4.8",
-      "sales": 1999,
-      "shop": "Rainha Indústria de Brinquedos",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22894275092,
-        "productName": "Kit Carrinhos Miniatura Coleção 12 Peças Brinquedo Crianças Brincar Presente",
-        "price": "14.9",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 1999,
-        "ratingStar": "4.8",
-        "shopName": "Rainha Indústria de Brinquedos",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjaa6s64g0sj43",
-        "productLink": "https://shopee.com.br/product/1593119369/22894275092",
-        "offerLink": "https://s.shopee.com.br/80CuS5wmSd"
       },
       "_last_price": null
     },
@@ -28665,35 +28637,6 @@
       "_last_price": null
     },
     {
-      "id": "22594794756",
-      "name": "Biore Protetor Solar Uv Aqua Rico Gel Spf50 Hidratante Unissex Para Clareamento (50g/ml)",
-      "price": 34.99,
-      "original_price": 46.04,
-      "discount": 24.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82603-mjh55tlj7rwg6c",
-      "link": "https://s.shopee.com.br/3B7ehC6r3G",
-      "rating": "4.9",
-      "sales": 1206,
-      "shop": "Sweet.life",
-      "category": "protetor solar",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22594794756,
-        "productName": "Biore Protetor Solar Uv Aqua Rico Gel Spf50 Hidratante Unissex Para Clareamento (50g/ml)",
-        "price": "34.99",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.13",
-        "sales": 1206,
-        "ratingStar": "4.9",
-        "shopName": "Sweet.life",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82603-mjh55tlj7rwg6c",
-        "productLink": "https://shopee.com.br/product/653261234/22594794756",
-        "offerLink": "https://s.shopee.com.br/3B7ehC6r3G"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23193474101",
       "name": "Coleira colar de cordas trançadas ajustável com plaquinha de identificação para cachorro e gato",
       "price": 18.9,
@@ -30347,6 +30290,35 @@
       "_last_price": null
     },
     {
+      "id": "22594794756",
+      "name": "Biore Protetor Solar Uv Aqua Rico Gel Spf50 Hidratante Unissex Para Clareamento (50g/ml)",
+      "price": 36.99,
+      "original_price": 46.24,
+      "discount": 20.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82603-mjh55tlj7rwg6c",
+      "link": "https://s.shopee.com.br/3B7ehC6r3G",
+      "rating": "4.9",
+      "sales": 1206,
+      "shop": "Sweet.life",
+      "category": "protetor solar",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22594794756,
+        "productName": "Biore Protetor Solar Uv Aqua Rico Gel Spf50 Hidratante Unissex Para Clareamento (50g/ml)",
+        "price": "36.99",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.13",
+        "sales": 1206,
+        "ratingStar": "4.9",
+        "shopName": "Sweet.life",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82603-mjh55tlj7rwg6c",
+        "productLink": "https://shopee.com.br/product/653261234/22594794756",
+        "offerLink": "https://s.shopee.com.br/3B7ehC6r3G"
+      },
+      "_last_price": null
+    },
+    {
       "id": "8786125317",
       "name": "NIVEA Creme Hidratante Lata 29g",
       "price": 17.49,
@@ -30372,6 +30344,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mea2rye0piwz82",
         "productLink": "https://shopee.com.br/product/502619181/8786125317",
         "offerLink": "https://s.shopee.com.br/9fL8R8zhw3"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22894275092",
+      "name": "Kit Carrinhos Miniatura Coleção 12 Peças Brinquedo Crianças Brincar Presente",
+      "price": 19.9,
+      "original_price": 24.87,
+      "discount": 20.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjaa6s64g0sj43",
+      "link": "https://s.shopee.com.br/80CuS5wmSd",
+      "rating": "4.8",
+      "sales": 1999,
+      "shop": "Rainha Indústria de Brinquedos",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22894275092,
+        "productName": "Kit Carrinhos Miniatura Coleção 12 Peças Brinquedo Crianças Brincar Presente",
+        "price": "19.9",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.03",
+        "sales": 1999,
+        "ratingStar": "4.8",
+        "shopName": "Rainha Indústria de Brinquedos",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjaa6s64g0sj43",
+        "productLink": "https://shopee.com.br/product/1593119369/22894275092",
+        "offerLink": "https://s.shopee.com.br/80CuS5wmSd"
       },
       "_last_price": null
     },
