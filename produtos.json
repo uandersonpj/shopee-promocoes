@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T17:28:59.957339+00:00",
-  "total": 1124,
+  "updated_at": "2026-09-25T17:48:13.091004+00:00",
+  "total": 1123,
   "products": [
     {
       "id": "52011120312",
@@ -91,8 +91,8 @@
     {
       "id": "58257273463",
       "name": "Caixa Saco Organizador Cobertor Casaco Guarda Roupa Ecológico Anti-Poeira Umidade Insetos Multiuso Organizers",
-      "price": 20.29,
-      "original_price": 156.08,
+      "price": 22.31,
+      "original_price": 171.62,
       "discount": 87.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mqlq416c270gf5",
@@ -105,7 +105,7 @@
       "_item": {
         "itemId": 58257273463,
         "productName": "Caixa Saco Organizador Cobertor Casaco Guarda Roupa Ecológico Anti-Poeira Umidade Insetos Multiuso Organizers",
-        "price": "20.29",
+        "price": "22.31",
         "priceDiscountRate": 87,
         "commissionRate": "0.03",
         "sales": 6260,
@@ -925,7 +925,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262f-mllw34rkbgg82a",
         "productLink": "https://shopee.com.br/product/207653029/54259002448",
         "offerLink": "https://s.shopee.com.br/9zxypuhL10"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49165555882",
@@ -2165,8 +2166,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6012yu1eit5e",
         "productLink": "https://shopee.com.br/product/1577129456/23298719961",
         "offerLink": "https://s.shopee.com.br/6q0x3xngkn"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58251249633",
@@ -5360,7 +5360,7 @@
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l5-ms8xasbneeivf3",
       "link": "https://s.shopee.com.br/3g3vIEX3hK",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 180,
       "shop": "Luzul Shop",
       "category": "isca artificial",
@@ -5372,7 +5372,7 @@
         "priceDiscountRate": 64,
         "commissionRate": "0.11",
         "sales": 180,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Luzul Shop",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-ms8xasbneeivf3",
         "productLink": "https://shopee.com.br/product/750228545/58266769609",
@@ -11381,35 +11381,6 @@
       "_last_price": null
     },
     {
-      "id": "23798203051",
-      "name": "Kit 100 forma de airfryer descartavel antiaderente de papel cozinha quadrado fritadeira cozimento",
-      "price": 13.99,
-      "original_price": 29.77,
-      "discount": 53.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-msc0ajin7hms37",
-      "link": "https://s.shopee.com.br/3VkVazU2aV",
-      "rating": "4.8",
-      "sales": 2643,
-      "shop": "Casa&C Shop",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23798203051,
-        "productName": "Kit 100 forma de airfryer descartavel antiaderente de papel cozinha quadrado fritadeira cozimento",
-        "price": "13.99",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.03",
-        "sales": 2643,
-        "ratingStar": "4.8",
-        "shopName": "Casa&C Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-msc0ajin7hms37",
-        "productLink": "https://shopee.com.br/product/1252710748/23798203051",
-        "offerLink": "https://s.shopee.com.br/3VkVazU2aV"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58265602117",
       "name": "Kit 100 Forma Airfryer Quadrada Descartável Grande",
       "price": 13.99,
@@ -11957,6 +11928,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260p-mkvx34nhyio4ff",
         "productLink": "https://shopee.com.br/product/1137412789/58205435109",
         "offerLink": "https://s.shopee.com.br/4qFuwm5QJ4"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23798203051",
+      "name": "Kit 100 forma de airfryer descartavel antiaderente de papel cozinha quadrado fritadeira cozimento",
+      "price": 15.99,
+      "original_price": 33.31,
+      "discount": 52.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-msc0ajin7hms37",
+      "link": "https://s.shopee.com.br/3VkVazU2aV",
+      "rating": "4.8",
+      "sales": 2643,
+      "shop": "Casa&C Shop",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23798203051,
+        "productName": "Kit 100 forma de airfryer descartavel antiaderente de papel cozinha quadrado fritadeira cozimento",
+        "price": "15.99",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.03",
+        "sales": 2643,
+        "ratingStar": "4.8",
+        "shopName": "Casa&C Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-msc0ajin7hms37",
+        "productLink": "https://shopee.com.br/product/1252710748/23798203051",
+        "offerLink": "https://s.shopee.com.br/3VkVazU2aV"
       },
       "_last_price": null
     },
@@ -21647,35 +21647,6 @@
       "_last_price": null
     },
     {
-      "id": "44073559348",
-      "name": "Liquidificador Oster Preto 3,2 Litros 15 Velocidades + Pulsar Preto 220V",
-      "price": 188.99,
-      "original_price": 299.98,
-      "discount": 37.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfodest73wudf2",
-      "link": "https://s.shopee.com.br/2qUonmA2Oi",
-      "rating": "4.9",
-      "sales": 909,
-      "shop": "DUX ELETRO LTDA",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 44073559348,
-        "productName": "Liquidificador Oster Preto 3,2 Litros 15 Velocidades + Pulsar Preto 220V",
-        "price": "188.99",
-        "priceDiscountRate": 37,
-        "commissionRate": "0.06",
-        "sales": 909,
-        "ratingStar": "4.9",
-        "shopName": "DUX ELETRO LTDA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfodest73wudf2",
-        "productLink": "https://shopee.com.br/product/1334945356/44073559348",
-        "offerLink": "https://s.shopee.com.br/2qUonmA2Oi"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23294925206",
       "name": "Jogo de Panela Pressão Antiaderente 4,5 Litros e 3 Litros Cozillar",
       "price": 189.0,
@@ -22547,7 +22518,7 @@
     },
     {
       "id": "58264670703",
-      "name": "Suporte Para Vara de Pesca Emborrachado 35cm Super Reforçado Piratamba Para Pesqueiro",
+      "name": "Suporte Vara de Pesca Piratamba 35cm Emborrachado Super Reforçado Pesqueiro Barranco Lago",
       "price": 34.99,
       "original_price": 54.67,
       "discount": 36.0,
@@ -22561,7 +22532,7 @@
       "source": "shopee",
       "_item": {
         "itemId": 58264670703,
-        "productName": "Suporte Para Vara de Pesca Emborrachado 35cm Super Reforçado Piratamba Para Pesqueiro",
+        "productName": "Suporte Vara de Pesca Piratamba 35cm Emborrachado Super Reforçado Pesqueiro Barranco Lago",
         "price": "34.99",
         "priceDiscountRate": 36,
         "commissionRate": "0.16",
@@ -23620,7 +23591,7 @@
     },
     {
       "id": "58216860091",
-      "name": "Suporte Vara Pesca 35cm Emborrachado Apoio Pesqueiro",
+      "name": "Suporte Vara Pesca 35cm Emborrachado Apoio Pesqueiro Barranco Haste Metálica Fixação no Solo",
       "price": 32.99,
       "original_price": 49.98,
       "discount": 34.0,
@@ -23634,7 +23605,7 @@
       "source": "shopee",
       "_item": {
         "itemId": 58216860091,
-        "productName": "Suporte Vara Pesca 35cm Emborrachado Apoio Pesqueiro",
+        "productName": "Suporte Vara Pesca 35cm Emborrachado Apoio Pesqueiro Barranco Haste Metálica Fixação no Solo",
         "price": "32.99",
         "priceDiscountRate": 34,
         "commissionRate": "0.16",
@@ -24606,7 +24577,7 @@
     },
     {
       "id": "58216826128",
-      "name": "Suporte Vara Pesca Triplo Barranco Emborrachado Reforçado",
+      "name": "Suporte Vara Pesca Triplo 3 Varas Barranco Emborrachado Reforçado Galvanizado Pesqueiro Rio",
       "price": 33.99,
       "original_price": 49.99,
       "discount": 32.0,
@@ -24620,7 +24591,7 @@
       "source": "shopee",
       "_item": {
         "itemId": 58216826128,
-        "productName": "Suporte Vara Pesca Triplo Barranco Emborrachado Reforçado",
+        "productName": "Suporte Vara Pesca Triplo 3 Varas Barranco Emborrachado Reforçado Galvanizado Pesqueiro Rio",
         "price": "33.99",
         "priceDiscountRate": 32,
         "commissionRate": "0.16",
