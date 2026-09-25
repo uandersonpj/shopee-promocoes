@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T13:57:23.418835+00:00",
+  "updated_at": "2026-09-25T14:16:36.528035+00:00",
   "total": 1127,
   "products": [
     {
@@ -721,8 +721,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
         "productLink": "https://shopee.com.br/product/1266325318/21897981294",
         "offerLink": "https://s.shopee.com.br/905Tjd0gvK"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23294866358",
@@ -5916,7 +5915,7 @@
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-moj6y9k3bm6l25",
       "link": "https://s.shopee.com.br/2gBO6N6GTI",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 585,
       "shop": "sougayilanglocal3.br",
       "category": "vara de pesca",
@@ -5928,7 +5927,7 @@
         "priceDiscountRate": 63,
         "commissionRate": "0.09",
         "sales": 585,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "sougayilanglocal3.br",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-moj6y9k3bm6l25",
         "productLink": "https://shopee.com.br/product/1500993597/41809393497",
@@ -21799,6 +21798,35 @@
       "_last_price": null
     },
     {
+      "id": "44073559348",
+      "name": "Liquidificador Oster Preto 3,2 Litros 15 Velocidades + Pulsar Preto 220V",
+      "price": 188.99,
+      "original_price": 299.98,
+      "discount": 37.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfodest73wudf2",
+      "link": "https://s.shopee.com.br/2qUonmA2Oi",
+      "rating": "4.9",
+      "sales": 909,
+      "shop": "DUX ELETRO LTDA",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 44073559348,
+        "productName": "Liquidificador Oster Preto 3,2 Litros 15 Velocidades + Pulsar Preto 220V",
+        "price": "188.99",
+        "priceDiscountRate": 37,
+        "commissionRate": "0.06",
+        "sales": 909,
+        "ratingStar": "4.9",
+        "shopName": "DUX ELETRO LTDA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfodest73wudf2",
+        "productLink": "https://shopee.com.br/product/1334945356/44073559348",
+        "offerLink": "https://s.shopee.com.br/2qUonmA2Oi"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23294925206",
       "name": "Jogo de Panela Pressão Antiaderente 4,5 Litros e 3 Litros Cozillar",
       "price": 189.0,
@@ -28701,35 +28729,6 @@
       "_last_price": null
     },
     {
-      "id": "58201469419",
-      "name": "Ração SuperPremium Bionatural Prime Para Gatos Castrados Sabor Frango 7.5kg",
-      "price": 144.52,
-      "original_price": 190.16,
-      "discount": 24.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhuibgwx00le00",
-      "link": "https://s.shopee.com.br/LnVaUnYy5",
-      "rating": "5",
-      "sales": 1790,
-      "shop": "animalzecommerce",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58201469419,
-        "productName": "Ração SuperPremium Bionatural Prime Para Gatos Castrados Sabor Frango 7.5kg",
-        "price": "144.52",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.03",
-        "sales": 1790,
-        "ratingStar": "5",
-        "shopName": "animalzecommerce",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhuibgwx00le00",
-        "productLink": "https://shopee.com.br/product/1509105042/58201469419",
-        "offerLink": "https://s.shopee.com.br/LnVaUnYy5"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23193474101",
       "name": "Coleira colar de cordas trançadas ajustável com plaquinha de identificação para cachorro e gato",
       "price": 18.9,
@@ -29886,6 +29885,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mq7oavojblds23",
         "productLink": "https://shopee.com.br/product/347988064/22736025276",
         "offerLink": "https://s.shopee.com.br/6fhWreJf7F"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58201469419",
+      "name": "Ração SuperPremium Bionatural Prime Para Gatos Castrados Sabor Frango 7.5kg",
+      "price": 149.2,
+      "original_price": 188.86,
+      "discount": 21.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhuibgwx00le00",
+      "link": "https://s.shopee.com.br/LnVaUnYy5",
+      "rating": "5",
+      "sales": 1790,
+      "shop": "animalzecommerce",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58201469419,
+        "productName": "Ração SuperPremium Bionatural Prime Para Gatos Castrados Sabor Frango 7.5kg",
+        "price": "149.2",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.03",
+        "sales": 1790,
+        "ratingStar": "5",
+        "shopName": "animalzecommerce",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhuibgwx00le00",
+        "productLink": "https://shopee.com.br/product/1509105042/58201469419",
+        "offerLink": "https://s.shopee.com.br/LnVaUnYy5"
       },
       "_last_price": null
     },
@@ -32380,35 +32408,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mp18dhjxhy4l91",
         "productLink": "https://shopee.com.br/product/987020544/58261911959",
         "offerLink": "https://s.shopee.com.br/4B0E9XYyBy"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58261183009",
-      "name": "Kit 3 Pacotes de Ração quatree supreme para Gatos Castrados  Batata Doce",
-      "price": 65.45,
-      "original_price": 77.0,
-      "discount": 15.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825ai-ms07bpsivjt4e7",
-      "link": "https://s.shopee.com.br/3VkXMJbVXu",
-      "rating": "4.9",
-      "sales": 1313,
-      "shop": "Travessia Petshop",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58261183009,
-        "productName": "Kit 3 Pacotes de Ração quatree supreme para Gatos Castrados  Batata Doce",
-        "price": "65.45",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.03",
-        "sales": 1313,
-        "ratingStar": "4.9",
-        "shopName": "Travessia Petshop",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ai-ms07bpsivjt4e7",
-        "productLink": "https://shopee.com.br/product/1081502692/58261183009",
-        "offerLink": "https://s.shopee.com.br/3VkXMJbVXu"
       },
       "_last_price": null
     },
