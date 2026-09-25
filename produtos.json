@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T05:21:16.670875+00:00",
+  "updated_at": "2026-09-25T05:40:11.791249+00:00",
   "total": 1132,
   "products": [
     {
@@ -21042,7 +21042,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-22120-5wgswet50clv4e",
         "productLink": "https://shopee.com.br/product/361954967/23413221795",
         "offerLink": "https://s.shopee.com.br/3VkVcLQpyx"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "26936065094",
@@ -21766,35 +21767,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mpb361rjh5a8c1",
         "productLink": "https://shopee.com.br/product/1627886455/58252717058",
         "offerLink": "https://s.shopee.com.br/8Kpkqize3r"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58259794589",
-      "name": "Ração Gato MiaCat Todas As Raças Filhote e Adulto 27g Proteína Sem Corante",
-      "price": 62.99,
-      "original_price": 99.98,
-      "discount": 37.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mp0u7xd7ojk03d",
-      "link": "https://s.shopee.com.br/9zxyr68uQW",
-      "rating": "4.9",
-      "sales": 900,
-      "shop": "Petistrô",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58259794589,
-        "productName": "Ração Gato MiaCat Todas As Raças Filhote e Adulto 27g Proteína Sem Corante",
-        "price": "62.99",
-        "priceDiscountRate": 37,
-        "commissionRate": "0.08",
-        "sales": 900,
-        "ratingStar": "4.9",
-        "shopName": "Petistrô",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mp0u7xd7ojk03d",
-        "productLink": "https://shopee.com.br/product/382010808/58259794589",
-        "offerLink": "https://s.shopee.com.br/9zxyr68uQW"
       },
       "_last_price": null
     },
@@ -23622,6 +23594,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-modzq7qw7fure5",
         "productLink": "https://shopee.com.br/product/1509105042/23098728972",
         "offerLink": "https://s.shopee.com.br/6VO6qzwYZs"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23598428193",
+      "name": "Ração Quatree Gourmet Gatos Castrados Delícias do Mar - 10,1Kg",
+      "price": 119.62,
+      "original_price": 181.24,
+      "discount": 34.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mpcbl750l8u8fb",
+      "link": "https://s.shopee.com.br/905S95IJ12",
+      "rating": "4.9",
+      "sales": 873,
+      "shop": "mypetone",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23598428193,
+        "productName": "Ração Quatree Gourmet Gatos Castrados Delícias do Mar - 10,1Kg",
+        "price": "119.62",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.11",
+        "sales": 873,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mpcbl750l8u8fb",
+        "productLink": "https://shopee.com.br/product/290073877/23598428193",
+        "offerLink": "https://s.shopee.com.br/905S95IJ12"
       },
       "_last_price": null
     },
