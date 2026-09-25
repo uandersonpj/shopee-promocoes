@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T17:09:33.859736+00:00",
-  "total": 1129,
+  "updated_at": "2026-09-25T17:28:59.957339+00:00",
+  "total": 1124,
   "products": [
     {
       "id": "52011120312",
@@ -10,7 +10,7 @@
       "discount": 89.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823qo-moodqvbtpo8yf2",
-      "link": "https://s.shopee.com.br/AKarUwrfWb",
+      "link": "https://s.shopee.com.br/3VkXcFh73i",
       "rating": "4.8",
       "sales": 284,
       "shop": "FLYERILING",
@@ -27,7 +27,7 @@
         "shopName": "FLYERILING",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qo-moodqvbtpo8yf2",
         "productLink": "https://shopee.com.br/product/1571156019/52011120312",
-        "offerLink": "https://s.shopee.com.br/AKarUwrfWb"
+        "offerLink": "https://s.shopee.com.br/3VkXcFh73i"
       },
       "_last_price": null
     },
@@ -1227,7 +1227,7 @@
       "rating": "4.8",
       "sales": 444,
       "shop": "Choice Oficial",
-      "category": "isca pesca",
+      "category": "caixa de pesca",
       "source": "shopee",
       "_item": {
         "itemId": 47000945292,
@@ -1703,8 +1703,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk90kkju10qp3b",
         "productLink": "https://shopee.com.br/product/1063922972/18299069073",
         "offerLink": "https://s.shopee.com.br/20vhoH80Hj"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "43476999468",
@@ -1760,35 +1759,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824jj-mpfvxsk51ibm93",
         "productLink": "https://shopee.com.br/product/321587846/46712193198",
         "offerLink": "https://s.shopee.com.br/2qUoIhE5uk"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20714562645",
-      "name": "Isca De Pesca 7g/10g/15g/20g/30g Jigging Gancho Spinner Bait Umpan Fundição Colher De Metal Jig Isca De Pesca Do Laser",
-      "price": 4.88,
-      "original_price": 19.52,
-      "discount": 75.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/80662fa48e446928168fb8a577944bc7",
-      "link": "https://s.shopee.com.br/7ptWmDQcGe",
-      "rating": "4.7",
-      "sales": 192,
-      "shop": "YQBUY.br",
-      "category": "isca pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20714562645,
-        "productName": "Isca De Pesca 7g/10g/15g/20g/30g Jigging Gancho Spinner Bait Umpan Fundição Colher De Metal Jig Isca De Pesca Do Laser",
-        "price": "4.88",
-        "priceDiscountRate": 75,
-        "commissionRate": "0.08",
-        "sales": 192,
-        "ratingStar": "4.7",
-        "shopName": "YQBUY.br",
-        "imageUrl": "https://cf.shopee.com.br/file/80662fa48e446928168fb8a577944bc7",
-        "productLink": "https://shopee.com.br/product/754127588/20714562645",
-        "offerLink": "https://s.shopee.com.br/7ptWmDQcGe"
       },
       "_last_price": null
     },
@@ -2235,7 +2205,7 @@
       "discount": 72.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/38f05806d01ed654d61cc598c39391ee",
-      "link": "https://s.shopee.com.br/4Vd2HlTt0h",
+      "link": "https://s.shopee.com.br/40goDAfD2l",
       "rating": "4.8",
       "sales": 168,
       "shop": "qqPesca.br",
@@ -2252,7 +2222,7 @@
         "shopName": "qqPesca.br",
         "imageUrl": "https://cf.shopee.com.br/file/38f05806d01ed654d61cc598c39391ee",
         "productLink": "https://shopee.com.br/product/769957349/17370976709",
-        "offerLink": "https://s.shopee.com.br/4Vd2HlTt0h"
+        "offerLink": "https://s.shopee.com.br/40goDAfD2l"
       },
       "_last_price": null
     },
@@ -2803,7 +2773,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfn8h5ufyu4kb0",
         "productLink": "https://shopee.com.br/product/391757444/23093824562",
         "offerLink": "https://s.shopee.com.br/6AlGGmgHZp"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "47855423393",
@@ -3178,6 +3149,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reny-m80vsch5y17b38",
         "productLink": "https://shopee.com.br/product/1446868970/23293866331",
         "offerLink": "https://s.shopee.com.br/2gBO6Mos7g"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21635320174",
+      "name": "3,8g/4,5cm Isca De Pesca De Peixinho Dura",
+      "price": 4.79,
+      "original_price": 15.45,
+      "discount": 69.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/4d3d9eceb4a23732c4b0f88ec5f6e5fa",
+      "link": "https://s.shopee.com.br/60Rq4WfdYu",
+      "rating": "4.8",
+      "sales": 486,
+      "shop": "tokushima01.br",
+      "category": "isca pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21635320174,
+        "productName": "3,8g/4,5cm Isca De Pesca De Peixinho Dura",
+        "price": "4.79",
+        "priceDiscountRate": 69,
+        "commissionRate": "0.07",
+        "sales": 486,
+        "ratingStar": "4.8",
+        "shopName": "tokushima01.br",
+        "imageUrl": "https://cf.shopee.com.br/file/4d3d9eceb4a23732c4b0f88ec5f6e5fa",
+        "productLink": "https://shopee.com.br/product/233660920/21635320174",
+        "offerLink": "https://s.shopee.com.br/60Rq4WfdYu"
       },
       "_last_price": null
     },
@@ -5960,35 +5960,6 @@
       "_last_price": null
     },
     {
-      "id": "23394426187",
-      "name": "Sambura de Arame Galvanizado para Manutenção de Iscas Vivas - Ideal para Pesca Esportiva",
-      "price": 29.99,
-      "original_price": 81.05,
-      "discount": 63.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbml-m5lv13aw49rf84",
-      "link": "https://s.shopee.com.br/2qUqp1jePe",
-      "rating": "4.9",
-      "sales": 301,
-      "shop": "WS Diario",
-      "category": "isca pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23394426187,
-        "productName": "Sambura de Arame Galvanizado para Manutenção de Iscas Vivas - Ideal para Pesca Esportiva",
-        "price": "29.99",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.03",
-        "sales": 301,
-        "ratingStar": "4.9",
-        "shopName": "WS Diario",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbml-m5lv13aw49rf84",
-        "productLink": "https://shopee.com.br/product/698887220/23394426187",
-        "offerLink": "https://s.shopee.com.br/2qUqp1jePe"
-      },
-      "_last_price": null
-    },
-    {
       "id": "53112635208",
       "name": "Oceano Praia Tema Parede Pendurado Decoração 100x150cm 100x200cm Mão Tecido Rede De Pesca Quarto Festa Prop",
       "price": 18.29,
@@ -6014,6 +5985,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ij-mprnjnbdx6hbb9",
         "productLink": "https://shopee.com.br/product/264980572/53112635208",
         "offerLink": "https://s.shopee.com.br/6q0x46Ar4K"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23394426187",
+      "name": "Sambura de Arame Galvanizado para Manutenção de Iscas Vivas - Ideal para Pesca Esportiva",
+      "price": 29.99,
+      "original_price": 81.05,
+      "discount": 63.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbml-m5lv13aw49rf84",
+      "link": "https://s.shopee.com.br/2qUqp1jePe",
+      "rating": "4.9",
+      "sales": 301,
+      "shop": "WS Diario",
+      "category": "rede de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23394426187,
+        "productName": "Sambura de Arame Galvanizado para Manutenção de Iscas Vivas - Ideal para Pesca Esportiva",
+        "price": "29.99",
+        "priceDiscountRate": 63,
+        "commissionRate": "0.03",
+        "sales": 301,
+        "ratingStar": "4.9",
+        "shopName": "WS Diario",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbml-m5lv13aw49rf84",
+        "productLink": "https://shopee.com.br/product/698887220/23394426187",
+        "offerLink": "https://s.shopee.com.br/2qUqp1jePe"
       },
       "_last_price": null
     },
@@ -7913,7 +7913,7 @@
       "rating": "4.6",
       "sales": 1322,
       "shop": "megarabazar",
-      "category": "caixa de pesca",
+      "category": "isca pesca",
       "source": "shopee",
       "_item": {
         "itemId": 58265078838,
@@ -9073,7 +9073,7 @@
       "rating": "4.8",
       "sales": 602,
       "shop": "MagiLeaf Wild",
-      "category": "caixa de pesca",
+      "category": "isca pesca",
       "source": "shopee",
       "_item": {
         "itemId": 58258714531,
@@ -12483,35 +12483,6 @@
       "_last_price": null
     },
     {
-      "id": "54659687727",
-      "name": "Isca Artificial Swim Jig com Pena 7g 10g 14g 21g 28g 42g 56g 85g Pesca Robalo Tucunaré Traíra， Hengjia ",
-      "price": 13.89,
-      "original_price": 28.35,
-      "discount": 51.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825a3-mr5c3zq982kl55",
-      "link": "https://s.shopee.com.br/7fa6ZuRFbd",
-      "rating": "4.9",
-      "sales": 209,
-      "shop": "ASSTA.br",
-      "category": "isca pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 54659687727,
-        "productName": "Isca Artificial Swim Jig com Pena 7g 10g 14g 21g 28g 42g 56g 85g Pesca Robalo Tucunaré Traíra， Hengjia ",
-        "price": "13.89",
-        "priceDiscountRate": 51,
-        "commissionRate": "0.03",
-        "sales": 209,
-        "ratingStar": "4.9",
-        "shopName": "ASSTA.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a3-mr5c3zq982kl55",
-        "productLink": "https://shopee.com.br/product/1779751813/54659687727",
-        "offerLink": "https://s.shopee.com.br/7fa6ZuRFbd"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18554808191",
       "name": "Caixa de Ferramentas 18.3\" Reforçada Tática Fecho Metal Maleta Organizadora para Ferramentas e Pesca",
       "price": 21.99,
@@ -13846,64 +13817,6 @@
       "_last_price": null
     },
     {
-      "id": "56607370139",
-      "name": " 5 peças isca de pesca de silicone macia com hélice, isca biônica realista, acessórios de pesca",
-      "price": 18.37,
-      "original_price": 36.74,
-      "discount": 50.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825al-mqehuahbgzr41b",
-      "link": "https://s.shopee.com.br/3g3xoYgTij",
-      "rating": "4.9",
-      "sales": 270,
-      "shop": "Choice Oficial",
-      "category": "isca pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 56607370139,
-        "productName": " 5 peças isca de pesca de silicone macia com hélice, isca biônica realista, acessórios de pesca",
-        "price": "18.37",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.08",
-        "sales": 270,
-        "ratingStar": "4.9",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825al-mqehuahbgzr41b",
-        "productLink": "https://shopee.com.br/product/1006215031/56607370139",
-        "offerLink": "https://s.shopee.com.br/3g3xoYgTij"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22687387191",
-      "name": "19 Cores Isca Para A Pesca 6,5cm/7g Dura Plástica De Com 2 Anzóis Triplos",
-      "price": 6.22,
-      "original_price": 12.44,
-      "discount": 50.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rblp-loovia3uz90z47",
-      "link": "https://s.shopee.com.br/2gBQcikHkd",
-      "rating": "4.8",
-      "sales": 189,
-      "shop": "VanFishing Isca Pesca.br",
-      "category": "isca pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22687387191,
-        "productName": "19 Cores Isca Para A Pesca 6,5cm/7g Dura Plástica De Com 2 Anzóis Triplos",
-        "price": "6.22",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.07",
-        "sales": 189,
-        "ratingStar": "4.8",
-        "shopName": "VanFishing Isca Pesca.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rblp-loovia3uz90z47",
-        "productLink": "https://shopee.com.br/product/504210070/22687387191",
-        "offerLink": "https://s.shopee.com.br/2gBQcikHkd"
-      },
-      "_last_price": null
-    },
-    {
       "id": "21097992401",
       "name": "Colete salva vidas Adulto , infantil, Pesca, pescador, caiaque, laser, Eaf.",
       "price": 59.95,
@@ -13970,7 +13883,7 @@
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820md-mmc1719mj3t359",
       "link": "https://s.shopee.com.br/7AdnU1TjPH",
-      "rating": "4.6",
+      "rating": "4.7",
       "sales": 116,
       "shop": "Loja Sao Miguel Multicoisas",
       "category": "estojo pesca",
@@ -13982,7 +13895,7 @@
         "priceDiscountRate": 50,
         "commissionRate": "0.07",
         "sales": 116,
-        "ratingStar": "4.6",
+        "ratingStar": "4.7",
         "shopName": "Loja Sao Miguel Multicoisas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mmc1719mj3t359",
         "productLink": "https://shopee.com.br/product/375688601/44857845287",
@@ -17181,35 +17094,6 @@
       "_last_price": null
     },
     {
-      "id": "58262442513",
-      "name": "Caixa De Pesca Dupla Face 12 14 Compartimentos Organizador Porta Iscas Artificiais Anzol Resistente",
-      "price": 24.9,
-      "original_price": 45.27,
-      "discount": 45.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824h5-mpf76hbcqih750",
-      "link": "https://s.shopee.com.br/3LR7PwhkOh",
-      "rating": "4.7",
-      "sales": 263,
-      "shop": "Natcha & Co.",
-      "category": "isca pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58262442513,
-        "productName": "Caixa De Pesca Dupla Face 12 14 Compartimentos Organizador Porta Iscas Artificiais Anzol Resistente",
-        "price": "24.9",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.03",
-        "sales": 263,
-        "ratingStar": "4.7",
-        "shopName": "Natcha & Co.",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h5-mpf76hbcqih750",
-        "productLink": "https://shopee.com.br/product/1545783525/58262442513",
-        "offerLink": "https://s.shopee.com.br/3LR7PwhkOh"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58214836893",
       "name": "Colete Salva Vidas Bóia Infantil Flutuador Não Fura Até 25kg Kids Segurança para Piscina e Praia (Várias Estampas)",
       "price": 43.99,
@@ -17322,6 +17206,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mlqdz8x36nlsfc",
         "productLink": "https://shopee.com.br/product/1429982972/21099570207",
         "offerLink": "https://s.shopee.com.br/9AOu6on2oJ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58262442513",
+      "name": "Caixa De Pesca Dupla Face 12 14 Compartimentos Organizador Porta Iscas Artificiais Anzol Resistente",
+      "price": 24.9,
+      "original_price": 45.27,
+      "discount": 45.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824h5-mpf76hbcqih750",
+      "link": "https://s.shopee.com.br/3LR7PwhkOh",
+      "rating": "4.7",
+      "sales": 263,
+      "shop": "Natcha & Co.",
+      "category": "caixa de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58262442513,
+        "productName": "Caixa De Pesca Dupla Face 12 14 Compartimentos Organizador Porta Iscas Artificiais Anzol Resistente",
+        "price": "24.9",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 263,
+        "ratingStar": "4.7",
+        "shopName": "Natcha & Co.",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h5-mpf76hbcqih750",
+        "productLink": "https://shopee.com.br/product/1545783525/58262442513",
+        "offerLink": "https://s.shopee.com.br/3LR7PwhkOh"
       },
       "_last_price": null
     },
@@ -22406,7 +22319,7 @@
       "price": 109.99,
       "original_price": 171.86,
       "discount": 36.0,
-      "commission": 8.0,
+      "commission": 6.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc83lzgst4gw71",
       "link": "https://s.shopee.com.br/3LR4tZHwMo",
       "rating": "4.9",
@@ -22419,7 +22332,7 @@
         "productName": "Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades",
         "price": "109.99",
         "priceDiscountRate": 36,
-        "commissionRate": "0.08",
+        "commissionRate": "0.06",
         "sales": 12829,
         "ratingStar": "4.9",
         "shopName": "LOI BRASIL",
@@ -22459,35 +22372,6 @@
       "_last_price": null
     },
     {
-      "id": "22998548653",
-      "name": "Rede Redinha Pesca Pronta Lambari Isca Malha 3 (15mm) 5 Metros",
-      "price": 28.7,
-      "original_price": 44.84,
-      "discount": 36.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcl86mua6iv5a5",
-      "link": "https://s.shopee.com.br/4LJebmdwMn",
-      "rating": "4.6",
-      "sales": 242,
-      "shop": "Absolut Cargo e Pesca",
-      "category": "isca pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22998548653,
-        "productName": "Rede Redinha Pesca Pronta Lambari Isca Malha 3 (15mm) 5 Metros",
-        "price": "28.7",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.03",
-        "sales": 242,
-        "ratingStar": "4.6",
-        "shopName": "Absolut Cargo e Pesca",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcl86mua6iv5a5",
-        "productLink": "https://shopee.com.br/product/1540748887/22998548653",
-        "offerLink": "https://s.shopee.com.br/4LJebmdwMn"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58202642165",
       "name": "Covo Armadilha Com 6 ou 8 Furos Pesca Peixes Siri Lambari Camarão Iscas Guarda Chuva/octogonal",
       "price": 16.33,
@@ -22499,7 +22383,7 @@
       "rating": "4.8",
       "sales": 870,
       "shop": "winners_time",
-      "category": "rede de pesca",
+      "category": "isca pesca",
       "source": "shopee",
       "_item": {
         "itemId": 58202642165,
@@ -22600,6 +22484,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mqvbo3ll08hv26",
         "productLink": "https://shopee.com.br/product/1321488407/22894551427",
         "offerLink": "https://s.shopee.com.br/9zxypu84UA"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22998548653",
+      "name": "Rede Redinha Pesca Pronta Lambari Isca Malha 3 (15mm) 5 Metros",
+      "price": 28.7,
+      "original_price": 44.84,
+      "discount": 36.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcl86mua6iv5a5",
+      "link": "https://s.shopee.com.br/4LJebmdwMn",
+      "rating": "4.6",
+      "sales": 242,
+      "shop": "Absolut Cargo e Pesca",
+      "category": "rede de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22998548653,
+        "productName": "Rede Redinha Pesca Pronta Lambari Isca Malha 3 (15mm) 5 Metros",
+        "price": "28.7",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 242,
+        "ratingStar": "4.6",
+        "shopName": "Absolut Cargo e Pesca",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcl86mua6iv5a5",
+        "productLink": "https://shopee.com.br/product/1540748887/22998548653",
+        "offerLink": "https://s.shopee.com.br/4LJebmdwMn"
       },
       "_last_price": null
     },
@@ -25703,35 +25616,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mrrj092pzqx33b",
         "productLink": "https://shopee.com.br/product/992983813/18599854143",
         "offerLink": "https://s.shopee.com.br/gQJibXyCk"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "54558362287",
-      "name": "Body Splash Feminino Shine Agapis Beauty 200ml Fragrância Sedutora Alta Fixação",
-      "price": 34.9,
-      "original_price": 49.86,
-      "discount": 30.0,
-      "commission": 21.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mrhgn8jhurk40c",
-      "link": "https://s.shopee.com.br/6L4iYjAqKY",
-      "rating": "4.7",
-      "sales": 2091,
-      "shop": "Adora ",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 54558362287,
-        "productName": "Body Splash Feminino Shine Agapis Beauty 200ml Fragrância Sedutora Alta Fixação",
-        "price": "34.9",
-        "priceDiscountRate": 30,
-        "commissionRate": "0.21",
-        "sales": 2091,
-        "ratingStar": "4.7",
-        "shopName": "Adora ",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mrhgn8jhurk40c",
-        "productLink": "https://shopee.com.br/product/790605924/54558362287",
-        "offerLink": "https://s.shopee.com.br/6L4iYjAqKY"
       },
       "_last_price": null
     },
@@ -29013,35 +28897,6 @@
       "_last_price": null
     },
     {
-      "id": "10971341240",
-      "name": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente",
-      "price": 120.9,
-      "original_price": 157.01,
-      "discount": 23.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mq56ui3fgwled9",
-      "link": "https://s.shopee.com.br/AAHP289O5M",
-      "rating": "4.8",
-      "sales": 828,
-      "shop": "CASABIG",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 10971341240,
-        "productName": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente",
-        "price": "120.9",
-        "priceDiscountRate": 23,
-        "commissionRate": "0.1",
-        "sales": 828,
-        "ratingStar": "4.8",
-        "shopName": "CASABIG",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mq56ui3fgwled9",
-        "productLink": "https://shopee.com.br/product/521604773/10971341240",
-        "offerLink": "https://s.shopee.com.br/AAHP289O5M"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23792805754",
       "name": "Panela De Pressão Antiaderente Fechamento Externo 3L Nacional",
       "price": 132.9,
@@ -30673,7 +30528,7 @@
       "discount": 20.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mng43m9ed3b8f7",
-      "link": "https://s.shopee.com.br/50ZIsgRyzi",
+      "link": "https://s.shopee.com.br/4B0EPTeZhm",
       "rating": "4.9",
       "sales": 323,
       "shop": "PESCASMART",
@@ -30690,7 +30545,7 @@
         "shopName": "PESCASMART",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mng43m9ed3b8f7",
         "productLink": "https://shopee.com.br/product/1788857478/58259413705",
-        "offerLink": "https://s.shopee.com.br/50ZIsgRyzi"
+        "offerLink": "https://s.shopee.com.br/4B0EPTeZhm"
       },
       "_last_price": null
     },
@@ -31068,6 +30923,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262l-mj719ez7qrd273",
         "productLink": "https://shopee.com.br/product/1531827759/58252868790",
         "offerLink": "https://s.shopee.com.br/30oEUx1Xd9"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "10971341240",
+      "name": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente",
+      "price": 120.9,
+      "original_price": 149.26,
+      "discount": 19.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mq56ui3fgwled9",
+      "link": "https://s.shopee.com.br/AAHP289O5M",
+      "rating": "4.8",
+      "sales": 828,
+      "shop": "CASABIG",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 10971341240,
+        "productName": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente",
+        "price": "120.9",
+        "priceDiscountRate": 19,
+        "commissionRate": "0.1",
+        "sales": 828,
+        "ratingStar": "4.8",
+        "shopName": "CASABIG",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mq56ui3fgwled9",
+        "productLink": "https://shopee.com.br/product/521604773/10971341240",
+        "offerLink": "https://s.shopee.com.br/AAHP289O5M"
       },
       "_last_price": null
     },
@@ -31764,35 +31648,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyp8j87yb41t75",
         "productLink": "https://shopee.com.br/product/442654024/21897783422",
         "offerLink": "https://s.shopee.com.br/2qUoIhaEOD"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22899352112",
-      "name": "KIT 5 Linha Elástica Elastic para Amarrar Isca Pesca 110m + Suporte de Linha Personalizado",
-      "price": 25.85,
-      "original_price": 31.14,
-      "discount": 17.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mpcaen1od4htbc",
-      "link": "https://s.shopee.com.br/30oH1Kj14f",
-      "rating": "4.9",
-      "sales": 254,
-      "shop": "PescadorDeOuro",
-      "category": "isca pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22899352112,
-        "productName": "KIT 5 Linha Elástica Elastic para Amarrar Isca Pesca 110m + Suporte de Linha Personalizado",
-        "price": "25.85",
-        "priceDiscountRate": 17,
-        "commissionRate": "0.03",
-        "sales": 254,
-        "ratingStar": "4.9",
-        "shopName": "PescadorDeOuro",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mpcaen1od4htbc",
-        "productLink": "https://shopee.com.br/product/1719282172/22899352112",
-        "offerLink": "https://s.shopee.com.br/30oH1Kj14f"
       },
       "_last_price": null
     },
