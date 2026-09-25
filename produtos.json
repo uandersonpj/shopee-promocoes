@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T02:11:52.568589+00:00",
+  "updated_at": "2026-09-25T02:31:00.860106+00:00",
   "total": 1126,
   "products": [
     {
@@ -861,8 +861,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltmsp1pvv6rjd7",
         "productLink": "https://shopee.com.br/product/409941475/19860785095",
         "offerLink": "https://s.shopee.com.br/LnTJyQubU"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23394267693",
@@ -6943,7 +6942,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mqv1vtdp7l6qf8",
         "productLink": "https://shopee.com.br/product/512962451/58214587344",
         "offerLink": "https://s.shopee.com.br/BU38wv5p5"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22396710686",
@@ -24576,35 +24576,6 @@
       "_last_price": null
     },
     {
-      "id": "23599134541",
-      "name": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
-      "price": 167.9,
-      "original_price": 246.91,
-      "discount": 32.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mtfch5t3i8sh33",
-      "link": "https://s.shopee.com.br/20vhJ6EPkA",
-      "rating": "4.8",
-      "sales": 920,
-      "shop": "Luma Connect",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23599134541,
-        "productName": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
-        "price": "167.9",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.03",
-        "sales": 920,
-        "ratingStar": "4.8",
-        "shopName": "Luma Connect",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mtfch5t3i8sh33",
-        "productLink": "https://shopee.com.br/product/734718734/23599134541",
-        "offerLink": "https://s.shopee.com.br/20vhJ6EPkA"
-      },
-      "_last_price": null
-    },
-    {
       "id": "27700492684",
       "name": "Óculos De Sol Sem Fio Bluetooth Proteção Para Fones De Ouvido Mulheres E Homens Acessórios De Áudio Vídeo Inteligentes",
       "price": 28.97,
@@ -24949,6 +24920,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh1wm4uewnbbc4",
         "productLink": "https://shopee.com.br/product/290073877/29243009805",
         "offerLink": "https://s.shopee.com.br/8V9BYAKD1t"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23599134541",
+      "name": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
+      "price": 167.9,
+      "original_price": 243.33,
+      "discount": 31.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mtfch5t3i8sh33",
+      "link": "https://s.shopee.com.br/20vhJ6EPkA",
+      "rating": "4.8",
+      "sales": 920,
+      "shop": "Luma Connect",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23599134541,
+        "productName": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
+        "price": "167.9",
+        "priceDiscountRate": 31,
+        "commissionRate": "0.03",
+        "sales": 920,
+        "ratingStar": "4.8",
+        "shopName": "Luma Connect",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mtfch5t3i8sh33",
+        "productLink": "https://shopee.com.br/product/734718734/23599134541",
+        "offerLink": "https://s.shopee.com.br/20vhJ6EPkA"
       },
       "_last_price": null
     },
