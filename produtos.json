@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T17:48:13.091004+00:00",
-  "total": 1123,
+  "updated_at": "2026-09-25T18:07:22.374947+00:00",
+  "total": 1122,
   "products": [
     {
       "id": "52011120312",
@@ -1732,7 +1732,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xl-mhzrnuntaebk12",
         "productLink": "https://shopee.com.br/product/1672861664/43476999468",
         "offerLink": "https://s.shopee.com.br/AUuFQnOVQx"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "46712193198",
@@ -7380,6 +7381,35 @@
       "_last_price": null
     },
     {
+      "id": "58255989668",
+      "name": "Bolsa De Moda Simples Ombro De Veludo Feminina Novo Estilo",
+      "price": 35.95,
+      "original_price": 89.88,
+      "discount": 60.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lf-ml8os09w4e1094",
+      "link": "https://s.shopee.com.br/7KxDevtIoL",
+      "rating": "4.9",
+      "sales": 3503,
+      "shop": "hui3hui3",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58255989668,
+        "productName": "Bolsa De Moda Simples Ombro De Veludo Feminina Novo Estilo",
+        "price": "35.95",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.06",
+        "sales": 3503,
+        "ratingStar": "4.9",
+        "shopName": "hui3hui3",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-ml8os09w4e1094",
+        "productLink": "https://shopee.com.br/product/1725099888/58255989668",
+        "offerLink": "https://s.shopee.com.br/7KxDevtIoL"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23893335036",
       "name": "JAMI JAMI Bolsa Mochila Feminina Grande De Ombro Com Alça Transversal De Couro PU TM9034",
       "price": 79.48,
@@ -9787,35 +9817,6 @@
       "_last_price": null
     },
     {
-      "id": "47214406847",
-      "name": "- Kit 4 Potes Hermético 1,5L Com Bico Dosador Medidor Porta Sabão em Pó /Sabão Líquido/ Amaciante Lavanderia Organizador",
-      "price": 64.07,
-      "original_price": 142.38,
-      "discount": 55.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mqysjc3ln0nb37",
-      "link": "https://s.shopee.com.br/BU4iFiSaD",
-      "rating": "4.8",
-      "sales": 470,
-      "shop": "CampvendasMulticoisas",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 47214406847,
-        "productName": "- Kit 4 Potes Hermético 1,5L Com Bico Dosador Medidor Porta Sabão em Pó /Sabão Líquido/ Amaciante Lavanderia Organizador",
-        "price": "64.07",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.12",
-        "sales": 470,
-        "ratingStar": "4.8",
-        "shopName": "CampvendasMulticoisas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqysjc3ln0nb37",
-        "productLink": "https://shopee.com.br/product/1627792845/47214406847",
-        "offerLink": "https://s.shopee.com.br/BU4iFiSaD"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23198696676",
       "name": "Kit 10 Panos de Copa de Microfibra 35x55 toalha de Prato Luxo",
       "price": 38.9,
@@ -10859,31 +10860,31 @@
       "_last_price": null
     },
     {
-      "id": "18399398811",
-      "name": "Dispenser Organizador de Lavanderia 2,3L Acrílico Porta Amaciante Sabão em Pó Sabonete Liquido",
-      "price": 49.9,
-      "original_price": 106.17,
+      "id": "47214406847",
+      "name": "- Kit 4 Potes Hermético 1,5L Com Bico Dosador Medidor Porta Sabão em Pó /Sabão Líquido/ Amaciante Lavanderia Organizador",
+      "price": 67.27,
+      "original_price": 143.13,
       "discount": 53.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mswtj8osdqmc4d",
-      "link": "https://s.shopee.com.br/2VrzUXZZql",
-      "rating": "4.9",
-      "sales": 308,
-      "shop": "Âncora Shopp",
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mqysjc3ln0nb37",
+      "link": "https://s.shopee.com.br/BU4iFiSaD",
+      "rating": "4.8",
+      "sales": 470,
+      "shop": "CampvendasMulticoisas",
       "category": "sabao em po",
       "source": "shopee",
       "_item": {
-        "itemId": 18399398811,
-        "productName": "Dispenser Organizador de Lavanderia 2,3L Acrílico Porta Amaciante Sabão em Pó Sabonete Liquido",
-        "price": "49.9",
+        "itemId": 47214406847,
+        "productName": "- Kit 4 Potes Hermético 1,5L Com Bico Dosador Medidor Porta Sabão em Pó /Sabão Líquido/ Amaciante Lavanderia Organizador",
+        "price": "67.27",
         "priceDiscountRate": 53,
-        "commissionRate": "0.03",
-        "sales": 308,
-        "ratingStar": "4.9",
-        "shopName": "Âncora Shopp",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mswtj8osdqmc4d",
-        "productLink": "https://shopee.com.br/product/316557325/18399398811",
-        "offerLink": "https://s.shopee.com.br/2VrzUXZZql"
+        "commissionRate": "0.12",
+        "sales": 470,
+        "ratingStar": "4.8",
+        "shopName": "CampvendasMulticoisas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqysjc3ln0nb37",
+        "productLink": "https://shopee.com.br/product/1627792845/47214406847",
+        "offerLink": "https://s.shopee.com.br/BU4iFiSaD"
       },
       "_last_price": null
     },
@@ -13581,35 +13582,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdnyjdmxoqfl3f",
         "productLink": "https://shopee.com.br/product/311566600/20098289822",
         "offerLink": "https://s.shopee.com.br/6fhWrheNZ6"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22194554063",
-      "name": "1/2/3 Cola Transparente Para Reparo De Sapatos – Adesivo À Prova D'água Fixação De Solas , Saltos E Bolsas (60ml)",
-      "price": 14.99,
-      "original_price": 29.98,
-      "discount": 50.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825bb-mfvjlgilwbnv28",
-      "link": "https://s.shopee.com.br/5VVZTZ0HXA",
-      "rating": "4.8",
-      "sales": 3854,
-      "shop": "LUCKY BAZAR",
-      "category": "bolsa feminina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22194554063,
-        "productName": "1/2/3 Cola Transparente Para Reparo De Sapatos – Adesivo À Prova D'água Fixação De Solas , Saltos E Bolsas (60ml)",
-        "price": "14.99",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.03",
-        "sales": 3854,
-        "ratingStar": "4.8",
-        "shopName": "LUCKY BAZAR",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825bb-mfvjlgilwbnv28",
-        "productLink": "https://shopee.com.br/product/375201738/22194554063",
-        "offerLink": "https://s.shopee.com.br/5VVZTZ0HXA"
       },
       "_last_price": null
     },
@@ -16835,8 +16807,8 @@
     {
       "id": "20999680446",
       "name": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
-      "price": 197.8,
-      "original_price": 359.64,
+      "price": 197.9,
+      "original_price": 359.82,
       "discount": 45.0,
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
@@ -16849,7 +16821,7 @@
       "_item": {
         "itemId": 20999680446,
         "productName": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
-        "price": "197.8",
+        "price": "197.9",
         "priceDiscountRate": 45,
         "commissionRate": "0.1",
         "sales": 1758,
@@ -17384,35 +17356,6 @@
       "_last_price": null
     },
     {
-      "id": "58253894256",
-      "name": "Comfort Boom Perfume Para Roupas Em Cristais 275g",
-      "price": 27.28,
-      "original_price": 48.71,
-      "discount": 44.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mrnc54pvl2pwf1",
-      "link": "https://s.shopee.com.br/9fL8R6RSHp",
-      "rating": "4.9",
-      "sales": 1122,
-      "shop": "Mga Produtos",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58253894256,
-        "productName": "Comfort Boom Perfume Para Roupas Em Cristais 275g",
-        "price": "27.28",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.09",
-        "sales": 1122,
-        "ratingStar": "4.9",
-        "shopName": "Mga Produtos",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mrnc54pvl2pwf1",
-        "productLink": "https://shopee.com.br/product/1661742891/58253894256",
-        "offerLink": "https://s.shopee.com.br/9fL8R6RSHp"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22292377811",
       "name": "Dispenser Para Detergente Sabao 2x1 Detergente Suporte Porta Bucha Esponja",
       "price": 13.99,
@@ -17844,35 +17787,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mrj213ktu8lhed",
         "productLink": "https://shopee.com.br/product/539970515/56653475679",
         "offerLink": "https://s.shopee.com.br/40glgfeQTQ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "54764399038",
-      "name": "1 a 3 Und Pote 1,5L Hermético C/ Bico Dosador Lavanderia Sabão em Pó Amaciante Multiuso Organização Compacto Resistente",
-      "price": 23.08,
-      "original_price": 40.49,
-      "discount": 43.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
-      "link": "https://s.shopee.com.br/9KiI2UB7pT",
-      "rating": "4.8",
-      "sales": 1083,
-      "shop": "CampvendasMulticoisas",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 54764399038,
-        "productName": "1 a 3 Und Pote 1,5L Hermético C/ Bico Dosador Lavanderia Sabão em Pó Amaciante Multiuso Organização Compacto Resistente",
-        "price": "23.08",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.12",
-        "sales": 1083,
-        "ratingStar": "4.8",
-        "shopName": "CampvendasMulticoisas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
-        "productLink": "https://shopee.com.br/product/1627792845/54764399038",
-        "offerLink": "https://s.shopee.com.br/9KiI2UB7pT"
       },
       "_last_price": null
     },
@@ -18743,6 +18657,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu4-mks9boy67bib69",
         "productLink": "https://shopee.com.br/product/1177903362/22398897653",
         "offerLink": "https://s.shopee.com.br/1BMaJTxoWq"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23598569219",
+      "name": "Ração Golden Special Gatos Castrados Frango e Carne 3kg",
+      "price": 57.9,
+      "original_price": 99.83,
+      "discount": 42.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqinehfc",
+      "link": "https://s.shopee.com.br/4qFuy5hJ11",
+      "rating": "4.9",
+      "sales": 905,
+      "shop": "SPN MARKET",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23598569219,
+        "productName": "Ração Golden Special Gatos Castrados Frango e Carne 3kg",
+        "price": "57.9",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.03",
+        "sales": 905,
+        "ratingStar": "4.9",
+        "shopName": "SPN MARKET",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqinehfc",
+        "productLink": "https://shopee.com.br/product/1501485889/23598569219",
+        "offerLink": "https://s.shopee.com.br/4qFuy5hJ11"
       },
       "_last_price": null
     },
@@ -19642,6 +19585,64 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820on-mo20zzyfjhtt9e",
         "productLink": "https://shopee.com.br/product/362695591/23994508588",
         "offerLink": "https://s.shopee.com.br/9fL8R5sBkz"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "41132780075",
+      "name": "- Kit 3 Pote Hermético 1,5 L C/ Bico Dosador Porta Sabão em Pó/Sabão Líquido/Amaciante Compacto Lavanderia Organizador",
+      "price": 51.71,
+      "original_price": 86.18,
+      "discount": 40.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
+      "link": "https://s.shopee.com.br/8KpkqeWWzR",
+      "rating": "4.8",
+      "sales": 1487,
+      "shop": "CampvendasMulticoisas",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41132780075,
+        "productName": "- Kit 3 Pote Hermético 1,5 L C/ Bico Dosador Porta Sabão em Pó/Sabão Líquido/Amaciante Compacto Lavanderia Organizador",
+        "price": "51.71",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.12",
+        "sales": 1487,
+        "ratingStar": "4.8",
+        "shopName": "CampvendasMulticoisas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
+        "productLink": "https://shopee.com.br/product/1627792845/41132780075",
+        "offerLink": "https://s.shopee.com.br/8KpkqeWWzR"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "54764399038",
+      "name": "1 a 3 Und Pote 1,5L Hermético C/ Bico Dosador Lavanderia Sabão em Pó Amaciante Multiuso Organização Compacto Resistente",
+      "price": 24.23,
+      "original_price": 40.38,
+      "discount": 40.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
+      "link": "https://s.shopee.com.br/9KiI2UB7pT",
+      "rating": "4.8",
+      "sales": 1083,
+      "shop": "CampvendasMulticoisas",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 54764399038,
+        "productName": "1 a 3 Und Pote 1,5L Hermético C/ Bico Dosador Lavanderia Sabão em Pó Amaciante Multiuso Organização Compacto Resistente",
+        "price": "24.23",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.12",
+        "sales": 1083,
+        "ratingStar": "4.8",
+        "shopName": "CampvendasMulticoisas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
+        "productLink": "https://shopee.com.br/product/1627792845/54764399038",
+        "offerLink": "https://s.shopee.com.br/9KiI2UB7pT"
       },
       "_last_price": null
     },
@@ -22513,8 +22514,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258r-msk50zao3aio55",
         "productLink": "https://shopee.com.br/product/1764061146/58216191653",
         "offerLink": "https://s.shopee.com.br/8fSbFTdD3W"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58264670703",
@@ -23383,35 +23383,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-modzq7qw7fure5",
         "productLink": "https://shopee.com.br/product/1509105042/23098728972",
         "offerLink": "https://s.shopee.com.br/LnVPjbLTA"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23598428193",
-      "name": "Ração Quatree Gourmet Gatos Castrados Delícias do Mar - 10,1Kg",
-      "price": 119.62,
-      "original_price": 181.24,
-      "discount": 34.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mpcbl750l8u8fb",
-      "link": "https://s.shopee.com.br/2qUqZ5e2tq",
-      "rating": "4.9",
-      "sales": 873,
-      "shop": "mypetone",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23598428193,
-        "productName": "Ração Quatree Gourmet Gatos Castrados Delícias do Mar - 10,1Kg",
-        "price": "119.62",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.11",
-        "sales": 873,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mpcbl750l8u8fb",
-        "productLink": "https://shopee.com.br/product/290073877/23598428193",
-        "offerLink": "https://s.shopee.com.br/2qUqZ5e2tq"
       },
       "_last_price": null
     },
