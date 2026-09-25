@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T08:10:35.018176+00:00",
+  "updated_at": "2026-09-25T08:29:20.774827+00:00",
   "total": 1131,
   "products": [
     {
@@ -810,7 +810,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltmsp1pvv6rjd7",
         "productLink": "https://shopee.com.br/product/409941475/19860785095",
         "offerLink": "https://s.shopee.com.br/LnTJyQubU"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23394267693",
@@ -4816,8 +4817,8 @@
     {
       "id": "26538918731",
       "name": "Linha De Pesca 120M Condutor De Monofilamento De Fibra De Carbono Revestido De Fluorocarbono Resistente Ao Desgaste , Ad",
-      "price": 7.69,
-      "original_price": 21.97,
+      "price": 7.0,
+      "original_price": 20.0,
       "discount": 65.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825b8-mq36i3xnt34c85",
@@ -4830,7 +4831,7 @@
       "_item": {
         "itemId": 26538918731,
         "productName": "Linha De Pesca 120M Condutor De Monofilamento De Fibra De Carbono Revestido De Fluorocarbono Resistente Ao Desgaste , Ad",
-        "price": "7.69",
+        "price": "7",
         "priceDiscountRate": 65,
         "commissionRate": "0.07",
         "sales": 607,
