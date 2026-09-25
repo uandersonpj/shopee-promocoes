@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T21:20:12.263613+00:00",
+  "updated_at": "2026-09-25T21:39:24.809796+00:00",
   "total": 1122,
   "products": [
     {
@@ -237,8 +237,8 @@
     {
       "id": "58265198384",
       "name": "Esponjas de Maquiagem sem Látex | Ideal para Base, Corretivo e Contorno | Acabamento Natural",
-      "price": 2.99,
-      "original_price": 17.59,
+      "price": 9.99,
+      "original_price": 58.76,
       "discount": 83.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mr6w05iemznofe",
@@ -251,7 +251,7 @@
       "_item": {
         "itemId": 58265198384,
         "productName": "Esponjas de Maquiagem sem Látex | Ideal para Base, Corretivo e Contorno | Acabamento Natural",
-        "price": "2.99",
+        "price": "9.99",
         "priceDiscountRate": 83,
         "commissionRate": "0.03",
         "sales": 5212,
@@ -1041,7 +1041,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mp21h8cy5w5i1c",
         "productLink": "https://shopee.com.br/product/1567204121/58261933291",
         "offerLink": "https://s.shopee.com.br/60Rq4Q4OWR"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23218022612",
@@ -5007,8 +5008,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-ml7pm8mpebr88c",
         "productLink": "https://shopee.com.br/product/374734112/23418702594",
         "offerLink": "https://s.shopee.com.br/5LC9H7ZLlo"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22098915849",
@@ -11586,35 +11586,6 @@
       "_last_price": null
     },
     {
-      "id": "57108039282",
-      "name": "Teclado Gamer Mecânico 61 Teclas RGB Compacto Com Fio USB-C Cabo Removível-Promoção",
-      "price": 90.99,
-      "original_price": 189.56,
-      "discount": 52.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mmij6fnxz9jcad",
-      "link": "https://s.shopee.com.br/2Vrxtuk8Vz",
-      "rating": "4.8",
-      "sales": 421,
-      "shop": "NOLM STORE",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57108039282,
-        "productName": "Teclado Gamer Mecânico 61 Teclas RGB Compacto Com Fio USB-C Cabo Removível-Promoção",
-        "price": "90.99",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 421,
-        "ratingStar": "4.8",
-        "shopName": "NOLM STORE",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mmij6fnxz9jcad",
-        "productLink": "https://shopee.com.br/product/1748398536/57108039282",
-        "offerLink": "https://s.shopee.com.br/2Vrxtuk8Vz"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23615780781",
       "name": "Kit 4 Super Panos De Chão Grandes Em Microfibra Panão 80x50",
       "price": 33.85,
@@ -12133,6 +12104,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mspyhjq7hkat53",
         "productLink": "https://shopee.com.br/product/627750190/20198149247",
         "offerLink": "https://s.shopee.com.br/9peYdNj1MQ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "57108039282",
+      "name": "Teclado Gamer Mecânico 61 Teclas RGB Compacto Com Fio USB-C Cabo Removível-Promoção",
+      "price": 93.98,
+      "original_price": 191.8,
+      "discount": 51.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mmij6fnxz9jcad",
+      "link": "https://s.shopee.com.br/2Vrxtuk8Vz",
+      "rating": "4.8",
+      "sales": 421,
+      "shop": "NOLM STORE",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57108039282,
+        "productName": "Teclado Gamer Mecânico 61 Teclas RGB Compacto Com Fio USB-C Cabo Removível-Promoção",
+        "price": "93.98",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.03",
+        "sales": 421,
+        "ratingStar": "4.8",
+        "shopName": "NOLM STORE",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mmij6fnxz9jcad",
+        "productLink": "https://shopee.com.br/product/1748398536/57108039282",
+        "offerLink": "https://s.shopee.com.br/2Vrxtuk8Vz"
       },
       "_last_price": null
     },
@@ -25513,7 +25513,7 @@
       "commission": 6.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mrez1cew2oed35",
       "link": "https://s.shopee.com.br/4B0Bt2tuhe",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 3196,
       "shop": "Usual Mix",
       "category": "fralda",
@@ -25525,7 +25525,7 @@
         "priceDiscountRate": 30,
         "commissionRate": "0.06",
         "sales": 3196,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "Usual Mix",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mrez1cew2oed35",
         "productLink": "https://shopee.com.br/product/1505860882/44915338553",
