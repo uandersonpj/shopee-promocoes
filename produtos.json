@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T03:47:07.259587+00:00",
-  "total": 1131,
+  "updated_at": "2026-09-25T04:05:59.947658+00:00",
+  "total": 1132,
   "products": [
     {
       "id": "50203126324",
@@ -4134,7 +4134,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkc1gjt1xc606",
         "productLink": "https://shopee.com.br/product/1362613415/42110429390",
         "offerLink": "https://s.shopee.com.br/2Vrxu7achw"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22399450069",
@@ -7354,6 +7355,35 @@
       "_last_price": null
     },
     {
+      "id": "43150138443",
+      "name": "Estação De Acoplamento UGREEN USB HUB Para Mac Mini M4 M4 Pro M . 2 NVMe SSD 8 Tb Max 10 Gbps Portas-A E C SD TF 170 Mb/",
+      "price": 289.9,
+      "original_price": 707.07,
+      "discount": 59.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m9fq67u6pdzxd0",
+      "link": "https://s.shopee.com.br/9V1ijsspas",
+      "rating": "4.9",
+      "sales": 41,
+      "shop": "Ugreen Official Shop",
+      "category": "ssd nvme",
+      "source": "shopee",
+      "_item": {
+        "itemId": 43150138443,
+        "productName": "Estação De Acoplamento UGREEN USB HUB Para Mac Mini M4 M4 Pro M . 2 NVMe SSD 8 Tb Max 10 Gbps Portas-A E C SD TF 170 Mb/",
+        "price": "289.9",
+        "priceDiscountRate": 59,
+        "commissionRate": "0.03",
+        "sales": 41,
+        "ratingStar": "4.9",
+        "shopName": "Ugreen Official Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m9fq67u6pdzxd0",
+        "productLink": "https://shopee.com.br/product/218996205/43150138443",
+        "offerLink": "https://s.shopee.com.br/9V1ijsspas"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58265110798",
       "name": "H'MASTON TK12 Teclado Mecânico 60% Teclado Mecanico Teclado Gamer Mecanico Teclado Mecânico Sem Fio Teclado Gamer",
       "price": 199.99,
@@ -8423,35 +8453,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mnlw9ncbyq68fe",
         "productLink": "https://shopee.com.br/product/1744660455/58258087449",
         "offerLink": "https://s.shopee.com.br/5q8Ps13Btb"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "43150138443",
-      "name": "Estação De Acoplamento UGREEN USB HUB Para Mac Mini M4 M4 Pro M . 2 NVMe SSD 8 Tb Max 10 Gbps Portas-A E C SD TF 170 Mb/",
-      "price": 299.9,
-      "original_price": 697.44,
-      "discount": 57.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m9fq67u6pdzxd0",
-      "link": "https://s.shopee.com.br/9V1ijsspas",
-      "rating": "4.9",
-      "sales": 41,
-      "shop": "Ugreen Official Shop",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 43150138443,
-        "productName": "Estação De Acoplamento UGREEN USB HUB Para Mac Mini M4 M4 Pro M . 2 NVMe SSD 8 Tb Max 10 Gbps Portas-A E C SD TF 170 Mb/",
-        "price": "299.9",
-        "priceDiscountRate": 57,
-        "commissionRate": "0.03",
-        "sales": 41,
-        "ratingStar": "4.9",
-        "shopName": "Ugreen Official Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m9fq67u6pdzxd0",
-        "productLink": "https://shopee.com.br/product/218996205/43150138443",
-        "offerLink": "https://s.shopee.com.br/9V1ijsspas"
       },
       "_last_price": null
     },
@@ -24951,6 +24952,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82596-mqo4qfdx93pn1d",
         "productLink": "https://shopee.com.br/product/940287081/22695072956",
         "offerLink": "https://s.shopee.com.br/8AWKeYsAwm"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18198179258",
+      "name": "SSD M.2 NVMe Kingston NV3 1TB - Ultra Velocidade para Seu PC ou Notebook!",
+      "price": 1129.14,
+      "original_price": 1636.43,
+      "discount": 31.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8ng9ispjn5ub3",
+      "link": "https://s.shopee.com.br/8fSbkLw0Hf",
+      "rating": "4.9",
+      "sales": 35,
+      "shop": "BESTBYBRASILGOLD",
+      "category": "ssd nvme",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18198179258,
+        "productName": "SSD M.2 NVMe Kingston NV3 1TB - Ultra Velocidade para Seu PC ou Notebook!",
+        "price": "1129.14",
+        "priceDiscountRate": 31,
+        "commissionRate": "0.03",
+        "sales": 35,
+        "ratingStar": "4.9",
+        "shopName": "BESTBYBRASILGOLD",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8ng9ispjn5ub3",
+        "productLink": "https://shopee.com.br/product/1494297971/18198179258",
+        "offerLink": "https://s.shopee.com.br/8fSbkLw0Hf"
       },
       "_last_price": null
     },
