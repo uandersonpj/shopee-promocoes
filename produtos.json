@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-24T23:56:51.809424+00:00",
-  "total": 1128,
+  "updated_at": "2026-09-25T00:16:10.136176+00:00",
+  "total": 1127,
   "products": [
     {
       "id": "50203126324",
@@ -4049,7 +4049,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mtape51h6ubnc7",
         "productLink": "https://shopee.com.br/product/1758772368/58213479973",
         "offerLink": "https://s.shopee.com.br/9zxyppA1QL"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "18998941239",
@@ -8372,8 +8373,8 @@
     {
       "id": "58258087449",
       "name": "Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho Café",
-      "price": 37.89,
-      "original_price": 88.12,
+      "price": 37.99,
+      "original_price": 88.35,
       "discount": 57.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mnlw9ncbyq68fe",
@@ -8386,7 +8387,7 @@
       "_item": {
         "itemId": 58258087449,
         "productName": "Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho Café",
-        "price": "37.89",
+        "price": "37.99",
         "priceDiscountRate": 57,
         "commissionRate": "0.03",
         "sales": 6964,
@@ -11798,7 +11799,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfutgr0uhi4g53",
       "link": "https://s.shopee.com.br/7KxDemsXQj",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 2983,
       "shop": "CLICK TECH BR",
       "category": "monitor",
@@ -11810,7 +11811,7 @@
         "priceDiscountRate": 51,
         "commissionRate": "0.03",
         "sales": 2983,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "CLICK TECH BR",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfutgr0uhi4g53",
         "productLink": "https://shopee.com.br/product/1372008216/23298641767",
@@ -14482,8 +14483,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7azorh5y4i4dd",
         "productLink": "https://shopee.com.br/product/1619868980/22294439852",
         "offerLink": "https://s.shopee.com.br/8AWKeW6egK"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22198950257",
@@ -19307,7 +19307,7 @@
       "commission": 13.05,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhkgppo9wjk2a5",
       "link": "https://s.shopee.com.br/1AcvWk8mJ",
-      "rating": "4.4",
+      "rating": "4.3",
       "sales": 1243,
       "shop": "LitoralModa",
       "category": "kit pesca",
@@ -19319,7 +19319,7 @@
         "priceDiscountRate": 41,
         "commissionRate": "0.1305",
         "sales": 1243,
-        "ratingStar": "4.4",
+        "ratingStar": "4.3",
         "shopName": "LitoralModa",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhkgppo9wjk2a5",
         "productLink": "https://shopee.com.br/product/916176093/21869568513",
@@ -21469,35 +21469,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mqgbmkntmvwi98",
         "productLink": "https://shopee.com.br/product/1772970441/58257021649",
         "offerLink": "https://s.shopee.com.br/9AOrrW4d8J"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23394690451",
-      "name": "Principia Kit Completo Peles Sensíveis c/ Gel de Limpeza GL-02 + Creme Hidratante CH-01 + Protetor Solar PS-01 FPS 60",
-      "price": 95.65,
-      "original_price": 151.83,
-      "discount": 37.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh9d339f89af1c",
-      "link": "https://s.shopee.com.br/8pm1Rc2sd2",
-      "rating": "4.9",
-      "sales": 3924,
-      "shop": "Principia Skincare",
-      "category": "protetor solar",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23394690451,
-        "productName": "Principia Kit Completo Peles Sensíveis c/ Gel de Limpeza GL-02 + Creme Hidratante CH-01 + Protetor Solar PS-01 FPS 60",
-        "price": "95.65",
-        "priceDiscountRate": 37,
-        "commissionRate": "0.13",
-        "sales": 3924,
-        "ratingStar": "4.9",
-        "shopName": "Principia Skincare",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh9d339f89af1c",
-        "productLink": "https://shopee.com.br/product/373261329/23394690451",
-        "offerLink": "https://s.shopee.com.br/8pm1Rc2sd2"
       },
       "_last_price": null
     },
@@ -27911,6 +27882,35 @@
       "_last_price": null
     },
     {
+      "id": "23394690451",
+      "name": "Principia Kit Completo Peles Sensíveis c/ Gel de Limpeza GL-02 + Creme Hidratante CH-01 + Protetor Solar PS-01 FPS 60",
+      "price": 113.23,
+      "original_price": 150.97,
+      "discount": 25.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh9d339f89af1c",
+      "link": "https://s.shopee.com.br/8pm1Rc2sd2",
+      "rating": "4.9",
+      "sales": 3924,
+      "shop": "Principia Skincare",
+      "category": "protetor solar",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23394690451,
+        "productName": "Principia Kit Completo Peles Sensíveis c/ Gel de Limpeza GL-02 + Creme Hidratante CH-01 + Protetor Solar PS-01 FPS 60",
+        "price": "113.23",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.13",
+        "sales": 3924,
+        "ratingStar": "4.9",
+        "shopName": "Principia Skincare",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh9d339f89af1c",
+        "productLink": "https://shopee.com.br/product/373261329/23394690451",
+        "offerLink": "https://s.shopee.com.br/8pm1Rc2sd2"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58208444702",
       "name": "Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu tom",
       "price": 80.99,
@@ -31967,35 +31967,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mozu0cnbzz7q3f",
         "productLink": "https://shopee.com.br/product/904040298/58211837467",
         "offerLink": "https://s.shopee.com.br/9AOrqFA92o"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "45158660671",
-      "name": "Cafeteira Espresso Lov Três Corações 1250W",
-      "price": 379.99,
-      "original_price": 452.37,
-      "discount": 16.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259z-mr0ij6f717nl64",
-      "link": "https://s.shopee.com.br/6fhWrgnaBh",
-      "rating": "4.9",
-      "sales": 806,
-      "shop": "BUMPER MAGAZINE",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45158660671,
-        "productName": "Cafeteira Espresso Lov Três Corações 1250W",
-        "price": "379.99",
-        "priceDiscountRate": 16,
-        "commissionRate": "0.11",
-        "sales": 806,
-        "ratingStar": "4.9",
-        "shopName": "BUMPER MAGAZINE",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259z-mr0ij6f717nl64",
-        "productLink": "https://shopee.com.br/product/342086228/45158660671",
-        "offerLink": "https://s.shopee.com.br/6fhWrgnaBh"
       },
       "_last_price": null
     },
