@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T18:07:22.374947+00:00",
+  "updated_at": "2026-09-25T18:26:42.638979+00:00",
   "total": 1122,
   "products": [
     {
@@ -236,8 +236,8 @@
     {
       "id": "58265198384",
       "name": "Esponjas de Maquiagem sem Látex | Ideal para Base, Corretivo e Contorno | Acabamento Natural",
-      "price": 2.99,
-      "original_price": 17.59,
+      "price": 9.99,
+      "original_price": 58.76,
       "discount": 83.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mr6w05iemznofe",
@@ -250,7 +250,7 @@
       "_item": {
         "itemId": 58265198384,
         "productName": "Esponjas de Maquiagem sem Látex | Ideal para Base, Corretivo e Contorno | Acabamento Natural",
-        "price": "2.99",
+        "price": "9.99",
         "priceDiscountRate": 83,
         "commissionRate": "0.03",
         "sales": 5208,
@@ -462,8 +462,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgzgefeazked3d",
         "productLink": "https://shopee.com.br/product/1613332918/22294440400",
         "offerLink": "https://s.shopee.com.br/113AcTkGh4"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58214760211",
@@ -1242,7 +1241,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823p5-mp4meqki2g3k68",
         "productLink": "https://shopee.com.br/product/1006215031/47000945292",
         "offerLink": "https://s.shopee.com.br/4Vd4o5dJ1o"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22497773735",
@@ -5266,6 +5266,35 @@
       "_last_price": null
     },
     {
+      "id": "58255989668",
+      "name": "Bolsa De Moda Simples Ombro De Veludo Feminina Novo Estilo",
+      "price": 31.94,
+      "original_price": 88.72,
+      "discount": 64.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lf-ml8os09w4e1094",
+      "link": "https://s.shopee.com.br/7KxDevtIoL",
+      "rating": "4.9",
+      "sales": 3503,
+      "shop": "hui3hui3",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58255989668,
+        "productName": "Bolsa De Moda Simples Ombro De Veludo Feminina Novo Estilo",
+        "price": "31.94",
+        "priceDiscountRate": 64,
+        "commissionRate": "0.06",
+        "sales": 3503,
+        "ratingStar": "4.9",
+        "shopName": "hui3hui3",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-ml8os09w4e1094",
+        "productLink": "https://shopee.com.br/product/1725099888/58255989668",
+        "offerLink": "https://s.shopee.com.br/7KxDevtIoL"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18899030241",
       "name": "1000 Peças Bolsa Elástico De Cabelo Feminino Descartável Multicolorido",
       "price": 4.99,
@@ -7377,35 +7406,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mnzq13gkvyf88f",
         "productLink": "https://shopee.com.br/product/1234991453/58212383866",
         "offerLink": "https://s.shopee.com.br/8V9B34XOqd"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58255989668",
-      "name": "Bolsa De Moda Simples Ombro De Veludo Feminina Novo Estilo",
-      "price": 35.95,
-      "original_price": 89.88,
-      "discount": 60.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lf-ml8os09w4e1094",
-      "link": "https://s.shopee.com.br/7KxDevtIoL",
-      "rating": "4.9",
-      "sales": 3503,
-      "shop": "hui3hui3",
-      "category": "bolsa feminina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58255989668,
-        "productName": "Bolsa De Moda Simples Ombro De Veludo Feminina Novo Estilo",
-        "price": "35.95",
-        "priceDiscountRate": 60,
-        "commissionRate": "0.06",
-        "sales": 3503,
-        "ratingStar": "4.9",
-        "shopName": "hui3hui3",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-ml8os09w4e1094",
-        "productLink": "https://shopee.com.br/product/1725099888/58255989668",
-        "offerLink": "https://s.shopee.com.br/7KxDevtIoL"
       },
       "_last_price": null
     },
@@ -18516,35 +18516,6 @@
       "_last_price": null
     },
     {
-      "id": "23894091776",
-      "name": "Teclado Gamer Mecânico 60% Switch Azul Profissional Cabo Removível USB Portugues ABNT2 Branco",
-      "price": 115.9,
-      "original_price": 199.83,
-      "discount": 42.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9s454j1o8y54",
-      "link": "https://s.shopee.com.br/1gIs9pWIY5",
-      "rating": "4.9",
-      "sales": 144,
-      "shop": "MixMania BR",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23894091776,
-        "productName": "Teclado Gamer Mecânico 60% Switch Azul Profissional Cabo Removível USB Portugues ABNT2 Branco",
-        "price": "115.9",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.07",
-        "sales": 144,
-        "ratingStar": "4.9",
-        "shopName": "MixMania BR",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9s454j1o8y54",
-        "productLink": "https://shopee.com.br/product/1447668497/23894091776",
-        "offerLink": "https://s.shopee.com.br/1gIs9pWIY5"
-      },
-      "_last_price": null
-    },
-    {
       "id": "50161016728",
       "name": "Kit 3 a 10 Potes Herméticos 2L Mantimentos Cozinha Grãos Arroz Organizador Lavanderia Sabão em Pó Amaciante Detergente",
       "price": 48.17,
@@ -25558,6 +25529,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mrrj092pzqx33b",
         "productLink": "https://shopee.com.br/product/992983813/18599854143",
         "offerLink": "https://s.shopee.com.br/gQJibXyCk"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "54558362287",
+      "name": "Body Splash Feminino Shine Agapis Beauty 200ml Fragrância Sedutora Alta Fixação",
+      "price": 34.9,
+      "original_price": 49.86,
+      "discount": 30.0,
+      "commission": 21.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mrhgn8jhurk40c",
+      "link": "https://s.shopee.com.br/6L4iYjAqKY",
+      "rating": "4.7",
+      "sales": 2091,
+      "shop": "Adora ",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 54558362287,
+        "productName": "Body Splash Feminino Shine Agapis Beauty 200ml Fragrância Sedutora Alta Fixação",
+        "price": "34.9",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.21",
+        "sales": 2091,
+        "ratingStar": "4.7",
+        "shopName": "Adora ",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mrhgn8jhurk40c",
+        "productLink": "https://shopee.com.br/product/790605924/54558362287",
+        "offerLink": "https://s.shopee.com.br/6L4iYjAqKY"
       },
       "_last_price": null
     },
