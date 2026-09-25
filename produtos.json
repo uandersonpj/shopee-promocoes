@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T20:22:15.646485+00:00",
+  "updated_at": "2026-09-25T20:41:28.083644+00:00",
   "total": 1122,
   "products": [
     {
@@ -1336,8 +1336,8 @@
     {
       "id": "20398528613",
       "name": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
-      "price": 11.96,
-      "original_price": 49.83,
+      "price": 11.97,
+      "original_price": 49.88,
       "discount": 76.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mmvxxzgnnoqsff",
@@ -1350,7 +1350,7 @@
       "_item": {
         "itemId": 20398528613,
         "productName": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
-        "price": "11.96",
+        "price": "11.97",
         "priceDiscountRate": 76,
         "commissionRate": "0.07",
         "sales": 6984,
@@ -1620,7 +1620,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m16zhf1ljn7yae",
         "productLink": "https://shopee.com.br/product/451332066/23793414141",
         "offerLink": "https://s.shopee.com.br/4Vd2HhMhZ2"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23398852310",
@@ -10017,8 +10018,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-min6so3iwow208",
         "productLink": "https://shopee.com.br/product/1055269003/22998482488",
         "offerLink": "https://s.shopee.com.br/113A8YhAgR"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58255958592",
@@ -14436,7 +14436,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820la-mqj7ti2uhiwx4a",
       "link": "https://s.shopee.com.br/70KPY1w86y",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 1784,
       "shop": "Shiloya L",
       "category": "perfume",
@@ -14448,7 +14448,7 @@
         "priceDiscountRate": 48,
         "commissionRate": "0.03",
         "sales": 1784,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "Shiloya L",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mqj7ti2uhiwx4a",
         "productLink": "https://shopee.com.br/product/1458574782/54663825990",
@@ -24527,7 +24527,7 @@
       "commission": 16.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820la-msa5hc5b2nt2d0",
       "link": "https://s.shopee.com.br/20vhpaWY1m",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 151,
       "shop": "Maxxo",
       "category": "suporte vara pesca",
@@ -24539,7 +24539,7 @@
         "priceDiscountRate": 32,
         "commissionRate": "0.16",
         "sales": 151,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "Maxxo",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-msa5hc5b2nt2d0",
         "productLink": "https://shopee.com.br/product/1764061146/58216826128",
