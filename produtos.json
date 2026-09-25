@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T21:58:38.991194+00:00",
-  "total": 1122,
+  "updated_at": "2026-09-25T22:17:59.806531+00:00",
+  "total": 1123,
   "products": [
     {
       "id": "52011120312",
@@ -237,8 +237,8 @@
     {
       "id": "58265198384",
       "name": "Esponjas de Maquiagem sem Látex | Ideal para Base, Corretivo e Contorno | Acabamento Natural",
-      "price": 2.99,
-      "original_price": 17.59,
+      "price": 9.99,
+      "original_price": 58.76,
       "discount": 83.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mr6w05iemznofe",
@@ -251,7 +251,7 @@
       "_item": {
         "itemId": 58265198384,
         "productName": "Esponjas de Maquiagem sem Látex | Ideal para Base, Corretivo e Contorno | Acabamento Natural",
-        "price": "2.99",
+        "price": "9.99",
         "priceDiscountRate": 83,
         "commissionRate": "0.03",
         "sales": 5212,
@@ -318,8 +318,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mmz137ddk4cg6c",
         "productLink": "https://shopee.com.br/product/1467162087/55508691646",
         "offerLink": "https://s.shopee.com.br/4LJc5KTHby"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "21897733919",
@@ -5618,6 +5617,35 @@
       "_last_price": null
     },
     {
+      "id": "22293188691",
+      "name": "Máscarafacialembastãodecháverde, remove cravos, combate a acne, hidrata, embeleza a pele do rosto, limpa e ilumina",
+      "price": 12.99,
+      "original_price": 35.11,
+      "discount": 63.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lc-movgu4pyf9j42d",
+      "link": "https://s.shopee.com.br/4fwTm3RsWE",
+      "rating": "4.6",
+      "sales": 1906,
+      "shop": "Y&Z DE COMÉRCIO",
+      "category": "creme facial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22293188691,
+        "productName": "Máscarafacialembastãodecháverde, remove cravos, combate a acne, hidrata, embeleza a pele do rosto, limpa e ilumina",
+        "price": "12.99",
+        "priceDiscountRate": 63,
+        "commissionRate": "0.03",
+        "sales": 1906,
+        "ratingStar": "4.6",
+        "shopName": "Y&Z DE COMÉRCIO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-movgu4pyf9j42d",
+        "productLink": "https://shopee.com.br/product/1079030158/22293188691",
+        "offerLink": "https://s.shopee.com.br/4fwTm3RsWE"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18499610599",
       "name": "JOYA KID Troninho infantil Assento Redutor Infantil com Escada para Vaso Sanitário",
       "price": 73.9,
@@ -5701,7 +5729,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcg3jc4sr6xsfd",
         "productLink": "https://shopee.com.br/product/1221820593/20899842747",
         "offerLink": "https://s.shopee.com.br/113A7GIDm4"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "11485271859",
@@ -27274,35 +27303,6 @@
       "_last_price": null
     },
     {
-      "id": "23498386191",
-      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-      "price": 235.9,
-      "original_price": 318.78,
-      "discount": 26.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-      "link": "https://s.shopee.com.br/7fa43Ty38b",
-      "rating": "4.9",
-      "sales": 1785,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498386191,
-        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-        "price": "235.9",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.07",
-        "sales": 1785,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-        "productLink": "https://shopee.com.br/product/504754787/23498386191",
-        "offerLink": "https://s.shopee.com.br/7fa43Ty38b"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22893283679",
       "name": "Kit 15 unid Sachê Friskies Alimento Úmido Gatos Carne Frango Atum Peixe Branco Cordeiro Salmão Peru",
       "price": 42.45,
@@ -29126,6 +29126,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mscq6sidjqx07c",
         "productLink": "https://shopee.com.br/product/1665304899/58263263481",
         "offerLink": "https://s.shopee.com.br/9V1iEos10A"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23498386191",
+      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+      "price": 249.9,
+      "original_price": 320.38,
+      "discount": 22.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+      "link": "https://s.shopee.com.br/7fa43Ty38b",
+      "rating": "4.9",
+      "sales": 1785,
+      "shop": "Zociella Kids",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498386191,
+        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+        "price": "249.9",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.07",
+        "sales": 1785,
+        "ratingStar": "4.9",
+        "shopName": "Zociella Kids",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+        "productLink": "https://shopee.com.br/product/504754787/23498386191",
+        "offerLink": "https://s.shopee.com.br/7fa43Ty38b"
       },
       "_last_price": null
     },
@@ -31392,35 +31421,6 @@
       "_last_price": null
     },
     {
-      "id": "21550045026",
-      "name": "Creme Depilatório Facial Depilsam Karité 50G",
-      "price": 14.9,
-      "original_price": 17.95,
-      "discount": 17.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/4bba4d40278622219c444f699a080850",
-      "link": "https://s.shopee.com.br/905Rdv2FI7",
-      "rating": "4.8",
-      "sales": 3449,
-      "shop": "Dana Cosmeticos",
-      "category": "creme facial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21550045026,
-        "productName": "Creme Depilatório Facial Depilsam Karité 50G",
-        "price": "14.9",
-        "priceDiscountRate": 17,
-        "commissionRate": "0.06",
-        "sales": 3449,
-        "ratingStar": "4.8",
-        "shopName": "Dana Cosmeticos",
-        "imageUrl": "https://cf.shopee.com.br/file/4bba4d40278622219c444f699a080850",
-        "productLink": "https://shopee.com.br/product/436104412/21550045026",
-        "offerLink": "https://s.shopee.com.br/905Rdv2FI7"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23298210857",
       "name": "Perfume Touti Vip Fit Lux Todas Fragrancias Masculino Feminino Luxo Alta Fixacao",
       "price": 33.1,
@@ -32490,6 +32490,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mn5n7qgurf9gf0",
         "productLink": "https://shopee.com.br/product/256077772/22798299188",
         "offerLink": "https://s.shopee.com.br/905S9BFoSN"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "13846291455",
+      "name": "10 Ponteira Inteligente 0.90 Para Vara Telescópica Pesca Tilápia Promoção",
+      "price": 19.47,
+      "original_price": 22.91,
+      "discount": 15.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnxc0tf96xn027",
+      "link": "https://s.shopee.com.br/AAHP2CpljM",
+      "rating": "4.9",
+      "sales": 164,
+      "shop": "FISGO SPORTS LTDA",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 13846291455,
+        "productName": "10 Ponteira Inteligente 0.90 Para Vara Telescópica Pesca Tilápia Promoção",
+        "price": "19.47",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.11",
+        "sales": 164,
+        "ratingStar": "4.9",
+        "shopName": "FISGO SPORTS LTDA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnxc0tf96xn027",
+        "productLink": "https://shopee.com.br/product/372438230/13846291455",
+        "offerLink": "https://s.shopee.com.br/AAHP2CpljM"
       },
       "_last_price": null
     },
