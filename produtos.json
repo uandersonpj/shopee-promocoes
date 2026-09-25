@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T07:51:51.145924+00:00",
+  "updated_at": "2026-09-25T08:10:35.018176+00:00",
   "total": 1131,
   "products": [
     {
@@ -520,7 +520,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a9-meuhrokrwagy64",
         "productLink": "https://shopee.com.br/product/1553811678/21498310169",
         "offerLink": "https://s.shopee.com.br/3qNLzc6EMs"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "42971009476",
@@ -22851,35 +22852,6 @@
       "_last_price": null
     },
     {
-      "id": "22594794756",
-      "name": "Biore Protetor Solar Uv Aqua Rico Gel Spf50 Hidratante Unissex Para Clareamento (50g/ml)",
-      "price": 29.99,
-      "original_price": 46.14,
-      "discount": 35.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82603-mjh55tlj7rwg6c",
-      "link": "https://s.shopee.com.br/3B7ehC6r3G",
-      "rating": "4.9",
-      "sales": 1206,
-      "shop": "Sweet.life",
-      "category": "protetor solar",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22594794756,
-        "productName": "Biore Protetor Solar Uv Aqua Rico Gel Spf50 Hidratante Unissex Para Clareamento (50g/ml)",
-        "price": "29.99",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.13",
-        "sales": 1206,
-        "ratingStar": "4.9",
-        "shopName": "Sweet.life",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82603-mjh55tlj7rwg6c",
-        "productLink": "https://shopee.com.br/product/653261234/22594794756",
-        "offerLink": "https://s.shopee.com.br/3B7ehC6r3G"
-      },
-      "_last_price": null
-    },
-    {
       "id": "55459894119",
       "name": "[Dhiint] Retinol Creme Para Os Olhos De Cuidados Faciais Hidratação Profunda Envelhecimento Seco Facial",
       "price": 12.82,
@@ -30416,6 +30388,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr916ovqrsp164",
         "productLink": "https://shopee.com.br/product/373261329/58265242344",
         "offerLink": "https://s.shopee.com.br/5Asj4rzEzS"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22594794756",
+      "name": "Biore Protetor Solar Uv Aqua Rico Gel Spf50 Hidratante Unissex Para Clareamento (50g/ml)",
+      "price": 36.99,
+      "original_price": 46.24,
+      "discount": 20.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82603-mjh55tlj7rwg6c",
+      "link": "https://s.shopee.com.br/3B7ehC6r3G",
+      "rating": "4.9",
+      "sales": 1206,
+      "shop": "Sweet.life",
+      "category": "protetor solar",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22594794756,
+        "productName": "Biore Protetor Solar Uv Aqua Rico Gel Spf50 Hidratante Unissex Para Clareamento (50g/ml)",
+        "price": "36.99",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.13",
+        "sales": 1206,
+        "ratingStar": "4.9",
+        "shopName": "Sweet.life",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82603-mjh55tlj7rwg6c",
+        "productLink": "https://shopee.com.br/product/653261234/22594794756",
+        "offerLink": "https://s.shopee.com.br/3B7ehC6r3G"
       },
       "_last_price": null
     },
