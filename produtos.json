@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T18:45:55.188354+00:00",
-  "total": 1121,
+  "updated_at": "2026-09-25T19:05:14.344552+00:00",
+  "total": 1120,
   "products": [
     {
       "id": "52011120312",
@@ -2369,7 +2369,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma3wxbeu4kl52a",
         "productLink": "https://shopee.com.br/product/1494995608/23798319408",
         "offerLink": "https://s.shopee.com.br/6L4gSxE0sz"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "52557307480",
@@ -2612,7 +2613,7 @@
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mrie96ths9hif0",
       "link": "https://s.shopee.com.br/AAHPXHcuiY",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 22,
       "shop": "Fairwind Fishing",
       "category": "carretilha pesca",
@@ -2624,7 +2625,7 @@
         "priceDiscountRate": 71,
         "commissionRate": "0.11",
         "sales": 22,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Fairwind Fishing",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mrie96ths9hif0",
         "productLink": "https://shopee.com.br/product/1748082627/58265606332",
@@ -3844,7 +3845,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mticu9ta4b9e66",
         "productLink": "https://shopee.com.br/product/502537735/22993481974",
         "offerLink": "https://s.shopee.com.br/7AdnSUjyAc"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23891732730",
@@ -4798,8 +4800,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-msd2spm12fif23",
         "productLink": "https://shopee.com.br/product/1768484381/58261211761",
         "offerLink": "https://s.shopee.com.br/9zxypmtIgD"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22098143818",
@@ -6752,7 +6753,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lq-mrx63z3it9mubf",
       "link": "https://s.shopee.com.br/1BMaJZHaR7",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 301,
       "shop": "MC_Service",
       "category": "casinha pet",
@@ -6764,7 +6765,7 @@
         "priceDiscountRate": 61,
         "commissionRate": "0.03",
         "sales": 301,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "MC_Service",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mrx63z3it9mubf",
         "productLink": "https://shopee.com.br/product/1862403124/58265090177",
@@ -17965,35 +17966,6 @@
       "_last_price": null
     },
     {
-      "id": "23498386191",
-      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-      "price": 169.9,
-      "original_price": 298.07,
-      "discount": 43.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-      "link": "https://s.shopee.com.br/7fa43Ty38b",
-      "rating": "4.9",
-      "sales": 1751,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498386191,
-        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-        "price": "169.9",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.07",
-        "sales": 1751,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-        "productLink": "https://shopee.com.br/product/504754787/23498386191",
-        "offerLink": "https://s.shopee.com.br/7fa43Ty38b"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58257853789",
       "name": "Kit 4 Chaveiros Academia Fitness: Haltere, Kettlebell, Anilhas e Shakeira",
       "price": 16.9,
@@ -19423,7 +19395,7 @@
       "commission": 13.05,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhkgppo9wjk2a5",
       "link": "https://s.shopee.com.br/1AcvWk8mJ",
-      "rating": "4.3",
+      "rating": "4.4",
       "sales": 1243,
       "shop": "LitoralModa",
       "category": "kit pesca",
@@ -19435,7 +19407,7 @@
         "priceDiscountRate": 41,
         "commissionRate": "0.1305",
         "sales": 1243,
-        "ratingStar": "4.3",
+        "ratingStar": "4.4",
         "shopName": "LitoralModa",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhkgppo9wjk2a5",
         "productLink": "https://shopee.com.br/product/916176093/21869568513",
@@ -24526,7 +24498,7 @@
       "commission": 16.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820la-msa5hc5b2nt2d0",
       "link": "https://s.shopee.com.br/20vhpaWY1m",
-      "rating": "4.7",
+      "rating": "4.8",
       "sales": 140,
       "shop": "Maxxo",
       "category": "suporte vara pesca",
@@ -24538,7 +24510,7 @@
         "priceDiscountRate": 32,
         "commissionRate": "0.16",
         "sales": 140,
-        "ratingStar": "4.7",
+        "ratingStar": "4.8",
         "shopName": "Maxxo",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-msa5hc5b2nt2d0",
         "productLink": "https://shopee.com.br/product/1764061146/58216826128",
@@ -27331,6 +27303,35 @@
       "_last_price": null
     },
     {
+      "id": "23498386191",
+      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+      "price": 235.9,
+      "original_price": 318.78,
+      "discount": 26.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+      "link": "https://s.shopee.com.br/7fa43Ty38b",
+      "rating": "4.9",
+      "sales": 1751,
+      "shop": "Zociella Kids",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498386191,
+        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+        "price": "235.9",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.07",
+        "sales": 1751,
+        "ratingStar": "4.9",
+        "shopName": "Zociella Kids",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+        "productLink": "https://shopee.com.br/product/504754787/23498386191",
+        "offerLink": "https://s.shopee.com.br/7fa43Ty38b"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22893283679",
       "name": "Kit 15 unid Sachê Friskies Alimento Úmido Gatos Carne Frango Atum Peixe Branco Cordeiro Salmão Peru",
       "price": 42.45,
@@ -28897,35 +28898,6 @@
       "_last_price": null
     },
     {
-      "id": "22236709679",
-      "name": "Chumbada de Pesca Oliva (1 Kg) - Escolher tamanho",
-      "price": 36.98,
-      "original_price": 48.03,
-      "discount": 23.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mehnyjunlz424a",
-      "link": "https://s.shopee.com.br/2BF7VVtLy1",
-      "rating": "4.9",
-      "sales": 66,
-      "shop": "Shot Store (Loja de Tiro) ",
-      "category": "chumbada",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22236709679,
-        "productName": "Chumbada de Pesca Oliva (1 Kg) - Escolher tamanho",
-        "price": "36.98",
-        "priceDiscountRate": 23,
-        "commissionRate": "0.07",
-        "sales": 66,
-        "ratingStar": "4.9",
-        "shopName": "Shot Store (Loja de Tiro) ",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mehnyjunlz424a",
-        "productLink": "https://shopee.com.br/product/943636156/22236709679",
-        "offerLink": "https://s.shopee.com.br/2BF7VVtLy1"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20175540165",
       "name": "1 par Luva Alongar Manga Proteção Solar UV Do Braço Esportivo De Pesca De Corrida Ciclismo Capa Fria De Gelo",
       "price": 26.99,
@@ -29798,8 +29770,8 @@
     {
       "id": "22698303819",
       "name": "Caixa Para Ferramentas Caixa De Pesca Organizadora Resistente Envio Rapido",
-      "price": 19.7,
-      "original_price": 24.94,
+      "price": 19.75,
+      "original_price": 25.0,
       "discount": 21.0,
       "commission": 8.01,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6zmjx1j3okwfa",
@@ -29812,7 +29784,7 @@
       "_item": {
         "itemId": 22698303819,
         "productName": "Caixa Para Ferramentas Caixa De Pesca Organizadora Resistente Envio Rapido",
-        "price": "19.7",
+        "price": "19.75",
         "priceDiscountRate": 21,
         "commissionRate": "0.0801",
         "sales": 589,
