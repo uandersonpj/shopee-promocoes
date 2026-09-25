@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T03:09:16.229829+00:00",
+  "updated_at": "2026-09-25T03:28:12.266378+00:00",
   "total": 1131,
   "products": [
     {
@@ -372,7 +372,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mmimeaq4koav45",
         "productLink": "https://shopee.com.br/product/1748172680/58258026087",
         "offerLink": "https://s.shopee.com.br/W6tWTcxbI"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58252375291",
@@ -6685,6 +6686,35 @@
       "_last_price": null
     },
     {
+      "id": "25669672370",
+      "name": "Isca Artificial Whopper Popper 13g/10cm 6cm/6g Rotativa Flutuante Iscas De Pesca Top Água Atraindo peixes",
+      "price": 2.9,
+      "original_price": 7.44,
+      "discount": 61.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcca-lt13vvuslr1ef1",
+      "link": "https://s.shopee.com.br/6q0x43cSs1",
+      "rating": "4.9",
+      "sales": 503,
+      "shop": "zhongyu.br",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 25669672370,
+        "productName": "Isca Artificial Whopper Popper 13g/10cm 6cm/6g Rotativa Flutuante Iscas De Pesca Top Água Atraindo peixes",
+        "price": "2.9",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.03",
+        "sales": 503,
+        "ratingStar": "4.9",
+        "shopName": "zhongyu.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcca-lt13vvuslr1ef1",
+        "productLink": "https://shopee.com.br/product/647546523/25669672370",
+        "offerLink": "https://s.shopee.com.br/6q0x43cSs1"
+      },
+      "_last_price": null
+    },
+    {
       "id": "28480376375",
       "name": "50/100 Pçs 2.2-4.5mm Luz Noite Pesca Flutuador Vara Luzes Brilho Escuro Útil Fluorescente Lightstick",
       "price": 18.82,
@@ -11528,35 +11558,6 @@
       "_last_price": null
     },
     {
-      "id": "55756600279",
-      "name": "Kit 10 Panos de Limpeza em Microfibra Alta Absorção Multiuso",
-      "price": 17.29,
-      "original_price": 36.02,
-      "discount": 52.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82607-ml9qs5gknq4h31",
-      "link": "https://s.shopee.com.br/2VrxtxIfCz",
-      "rating": "4.6",
-      "sales": 2215,
-      "shop": "Gaia Cia",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 55756600279,
-        "productName": "Kit 10 Panos de Limpeza em Microfibra Alta Absorção Multiuso",
-        "price": "17.29",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.13",
-        "sales": 2215,
-        "ratingStar": "4.6",
-        "shopName": "Gaia Cia",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82607-ml9qs5gknq4h31",
-        "productLink": "https://shopee.com.br/product/1293439067/55756600279",
-        "offerLink": "https://s.shopee.com.br/2VrxtxIfCz"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58257784255",
       "name": "Protetor Solar Para-brisa Carro Quebra Sol Portatil Uv Painel Universal",
       "price": 18.89,
@@ -12916,6 +12917,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
         "productLink": "https://shopee.com.br/product/1625666693/58265081114",
         "offerLink": "https://s.shopee.com.br/9KiI2VseL9"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "55756600279",
+      "name": "Kit 10 Panos de Limpeza em Microfibra Alta Absorção Multiuso",
+      "price": 17.99,
+      "original_price": 35.98,
+      "discount": 50.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82607-ml9qs5gknq4h31",
+      "link": "https://s.shopee.com.br/2VrxtxIfCz",
+      "rating": "4.6",
+      "sales": 2215,
+      "shop": "Gaia Cia",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 55756600279,
+        "productName": "Kit 10 Panos de Limpeza em Microfibra Alta Absorção Multiuso",
+        "price": "17.99",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.13",
+        "sales": 2215,
+        "ratingStar": "4.6",
+        "shopName": "Gaia Cia",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82607-ml9qs5gknq4h31",
+        "productLink": "https://shopee.com.br/product/1293439067/55756600279",
+        "offerLink": "https://s.shopee.com.br/2VrxtxIfCz"
       },
       "_last_price": null
     },
@@ -16921,35 +16951,6 @@
       "_last_price": null
     },
     {
-      "id": "23598569219",
-      "name": "Ração Golden Special Gatos Castrados Frango e Carne 3kg",
-      "price": 54.9,
-      "original_price": 99.82,
-      "discount": 45.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqinehfc",
-      "link": "https://s.shopee.com.br/8AWL9YLThr",
-      "rating": "4.9",
-      "sales": 905,
-      "shop": "SPN MARKET",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23598569219,
-        "productName": "Ração Golden Special Gatos Castrados Frango e Carne 3kg",
-        "price": "54.9",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.03",
-        "sales": 905,
-        "ratingStar": "4.9",
-        "shopName": "SPN MARKET",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqinehfc",
-        "productLink": "https://shopee.com.br/product/1501485889/23598569219",
-        "offerLink": "https://s.shopee.com.br/8AWL9YLThr"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58264444344",
       "name": "Cafeteiras Italiana Capacidade 4 6 9 Xicaras Aço Inoxidável Inox Moka Café Expresso YB",
       "price": 38.5,
@@ -18744,6 +18745,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mse706myzchz1b",
         "productLink": "https://shopee.com.br/product/1177903362/58267057981",
         "offerLink": "https://s.shopee.com.br/qjjurz5Co"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23598569219",
+      "name": "Ração Golden Special Gatos Castrados Frango e Carne 3kg",
+      "price": 57.9,
+      "original_price": 99.83,
+      "discount": 42.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqinehfc",
+      "link": "https://s.shopee.com.br/8AWL9YLThr",
+      "rating": "4.9",
+      "sales": 905,
+      "shop": "SPN MARKET",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23598569219,
+        "productName": "Ração Golden Special Gatos Castrados Frango e Carne 3kg",
+        "price": "57.9",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.03",
+        "sales": 905,
+        "ratingStar": "4.9",
+        "shopName": "SPN MARKET",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqinehfc",
+        "productLink": "https://shopee.com.br/product/1501485889/23598569219",
+        "offerLink": "https://s.shopee.com.br/8AWL9YLThr"
       },
       "_last_price": null
     },
@@ -22455,35 +22485,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m62mppxtxh9u86",
         "productLink": "https://shopee.com.br/product/858096792/22092833789",
         "offerLink": "https://s.shopee.com.br/80CuxIlA75"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "25669672370",
-      "name": "Isca Artificial Whopper Popper 13g/10cm 6cm/6g Rotativa Flutuante Iscas De Pesca Top Água Atraindo peixes",
-      "price": 7.9,
-      "original_price": 12.34,
-      "discount": 36.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcca-lt13vvuslr1ef1",
-      "link": "https://s.shopee.com.br/6q0x43cSs1",
-      "rating": "4.9",
-      "sales": 503,
-      "shop": "zhongyu.br",
-      "category": "isca artificial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 25669672370,
-        "productName": "Isca Artificial Whopper Popper 13g/10cm 6cm/6g Rotativa Flutuante Iscas De Pesca Top Água Atraindo peixes",
-        "price": "7.9",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.03",
-        "sales": 503,
-        "ratingStar": "4.9",
-        "shopName": "zhongyu.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcca-lt13vvuslr1ef1",
-        "productLink": "https://shopee.com.br/product/647546523/25669672370",
-        "offerLink": "https://s.shopee.com.br/6q0x43cSs1"
       },
       "_last_price": null
     },
