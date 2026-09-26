@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-26T12:35:12.304450+00:00",
-  "total": 1123,
+  "updated_at": "2026-09-26T12:54:34.954491+00:00",
+  "total": 1124,
   "products": [
     {
       "id": "52011120312",
@@ -2804,8 +2804,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfn8h5ufyu4kb0",
         "productLink": "https://shopee.com.br/product/391757444/23093824562",
         "offerLink": "https://s.shopee.com.br/6AlGGmgHZp"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "47855423393",
@@ -7572,7 +7571,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3wfdg89ffhx9a",
       "link": "https://s.shopee.com.br/7VGdr6ihUi",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 1066,
       "shop": "Oliveira Flex",
       "category": "mouse gamer",
@@ -7584,7 +7583,7 @@
         "priceDiscountRate": 59,
         "commissionRate": "0.03",
         "sales": 1066,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Oliveira Flex",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3wfdg89ffhx9a",
         "productLink": "https://shopee.com.br/product/760173021/23398082837",
@@ -27748,6 +27747,35 @@
       "_last_price": null
     },
     {
+      "id": "43704328243",
+      "name": "Placa de Vídeo NVIDIA GeForce GIGABYTE RTX5060 Eagle OC 8GB GDDR7 128bit - 9VN5060EO-00-G10",
+      "price": 2999.0,
+      "original_price": 3998.67,
+      "discount": 25.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mp81ubfo1kw62c",
+      "link": "https://s.shopee.com.br/6AlIYQ1OIY",
+      "rating": "4.9",
+      "sales": 69,
+      "shop": "TNTinfoLoja",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 43704328243,
+        "productName": "Placa de Vídeo NVIDIA GeForce GIGABYTE RTX5060 Eagle OC 8GB GDDR7 128bit - 9VN5060EO-00-G10",
+        "price": "2999",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.03",
+        "sales": 69,
+        "ratingStar": "4.9",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mp81ubfo1kw62c",
+        "productLink": "https://shopee.com.br/product/344381236/43704328243",
+        "offerLink": "https://s.shopee.com.br/6AlIYQ1OIY"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23799198110",
       "name": "Aparelho Medidor De Pressão Arterial Digital De Braço",
       "price": 44.51,
@@ -27947,6 +27975,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mq6gwjyd5fr7d5",
         "productLink": "https://shopee.com.br/product/373261329/58263573164",
         "offerLink": "https://s.shopee.com.br/3VkV5o5aNE"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "14849254746",
+      "name": "Fralda Hipopó Baby Mega Pacotão P-80 M-70 G-60 XG-50 XXG-50 XXG-40 PACOTE HIPER",
+      "price": 46.99,
+      "original_price": 62.65,
+      "discount": 25.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mo3zpt6shk3l88",
+      "link": "https://s.shopee.com.br/4fwUkQXjn0",
+      "rating": "4.9",
+      "sales": 1644,
+      "shop": "FP Farma Popular",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 14849254746,
+        "productName": "Fralda Hipopó Baby Mega Pacotão P-80 M-70 G-60 XG-50 XXG-50 XXG-40 PACOTE HIPER",
+        "price": "46.99",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.03",
+        "sales": 1644,
+        "ratingStar": "4.9",
+        "shopName": "FP Farma Popular",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mo3zpt6shk3l88",
+        "productLink": "https://shopee.com.br/product/575366874/14849254746",
+        "offerLink": "https://s.shopee.com.br/4fwUkQXjn0"
       },
       "_last_price": null
     },
@@ -28585,35 +28642,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mghzxpo3fdaf1b",
         "productLink": "https://shopee.com.br/product/290073877/22091082363",
         "offerLink": "https://s.shopee.com.br/1AcvMjmPE"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "14849254746",
-      "name": "Fralda Hipopó Baby Mega Pacotão P-80 M-70 G-60 XG-50 XXG-50 XXG-40 PACOTE HIPER",
-      "price": 47.99,
-      "original_price": 63.14,
-      "discount": 24.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mo3zpt6shk3l88",
-      "link": "https://s.shopee.com.br/4fwUkQXjn0",
-      "rating": "4.9",
-      "sales": 1644,
-      "shop": "FP Farma Popular",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 14849254746,
-        "productName": "Fralda Hipopó Baby Mega Pacotão P-80 M-70 G-60 XG-50 XXG-50 XXG-40 PACOTE HIPER",
-        "price": "47.99",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.03",
-        "sales": 1644,
-        "ratingStar": "4.9",
-        "shopName": "FP Farma Popular",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mo3zpt6shk3l88",
-        "productLink": "https://shopee.com.br/product/575366874/14849254746",
-        "offerLink": "https://s.shopee.com.br/4fwUkQXjn0"
       },
       "_last_price": null
     },
