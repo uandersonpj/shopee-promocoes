@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-26T18:40:08.113014+00:00",
-  "total": 1126,
+  "updated_at": "2026-09-26T18:59:14.488774+00:00",
+  "total": 1124,
   "products": [
     {
       "id": "52011120312",
@@ -983,7 +983,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262f-mllw34rkbgg82a",
         "productLink": "https://shopee.com.br/product/207653029/54259002448",
         "offerLink": "https://s.shopee.com.br/9zxypuhL10"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49165555882",
@@ -2166,8 +2167,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6012yu1eit5e",
         "productLink": "https://shopee.com.br/product/1577129456/23298719961",
         "offerLink": "https://s.shopee.com.br/6q0x3xngkn"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58251249633",
@@ -4607,7 +4607,7 @@
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mrm3hs9i1b0k13",
       "link": "https://s.shopee.com.br/9AOrqBBlAK",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 2085,
       "shop": "Unilimp ind",
       "category": "sabao em po",
@@ -4619,7 +4619,7 @@
         "priceDiscountRate": 65,
         "commissionRate": "0.13",
         "sales": 2085,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "Unilimp ind",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mrm3hs9i1b0k13",
         "productLink": "https://shopee.com.br/product/1736765436/58215814488",
@@ -16631,35 +16631,6 @@
       "_last_price": null
     },
     {
-      "id": "21399647008",
-      "name": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Antifrizz",
-      "price": 17.9,
-      "original_price": 32.55,
-      "discount": 45.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134201-820l5-mp9hlxe5ga2p7e",
-      "link": "https://s.shopee.com.br/1VzSztznw6",
-      "rating": "4.9",
-      "sales": 3647,
-      "shop": "Salon Line",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21399647008,
-        "productName": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Antifrizz",
-        "price": "17.9",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.18",
-        "sales": 3647,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820l5-mp9hlxe5ga2p7e",
-        "productLink": "https://shopee.com.br/product/616222685/21399647008",
-        "offerLink": "https://s.shopee.com.br/1VzSztznw6"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20999680446",
       "name": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
       "price": 197.8,
@@ -17352,35 +17323,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821do-mgpx2ntisd8t6a",
         "productLink": "https://shopee.com.br/product/1533394801/23099137392",
         "offerLink": "https://s.shopee.com.br/40glgj3gMH"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "54558362287",
-      "name": "Body Splash Feminino Shine Agapis Beauty 200ml Fragrância Sedutora Alta Fixação",
-      "price": 27.9,
-      "original_price": 49.82,
-      "discount": 44.0,
-      "commission": 21.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mrhgn8jhurk40c",
-      "link": "https://s.shopee.com.br/6L4iYjAqKY",
-      "rating": "4.7",
-      "sales": 2596,
-      "shop": "Adora ",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 54558362287,
-        "productName": "Body Splash Feminino Shine Agapis Beauty 200ml Fragrância Sedutora Alta Fixação",
-        "price": "27.9",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.21",
-        "sales": 2596,
-        "ratingStar": "4.7",
-        "shopName": "Adora ",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mrhgn8jhurk40c",
-        "productLink": "https://shopee.com.br/product/790605924/54558362287",
-        "offerLink": "https://s.shopee.com.br/6L4iYjAqKY"
       },
       "_last_price": null
     },
