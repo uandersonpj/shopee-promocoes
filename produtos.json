@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-26T20:34:39.097655+00:00",
-  "total": 1125,
+  "updated_at": "2026-09-26T20:53:47.012999+00:00",
+  "total": 1127,
   "products": [
     {
       "id": "52011120312",
@@ -3655,7 +3655,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maqajn6xwn7z9d",
       "link": "https://s.shopee.com.br/1AcvIlOaf",
-      "rating": "5",
+      "rating": "4.9",
       "sales": 43,
       "shop": "HAIYAN ZHAO",
       "category": "ssd nvme",
@@ -3667,7 +3667,7 @@
         "priceDiscountRate": 67,
         "commissionRate": "0.03",
         "sales": 43,
-        "ratingStar": "5",
+        "ratingStar": "4.9",
         "shopName": "HAIYAN ZHAO",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maqajn6xwn7z9d",
         "productLink": "https://shopee.com.br/product/1059934694/21198202231",
@@ -4048,8 +4048,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mtape51h6ubnc7",
         "productLink": "https://shopee.com.br/product/1758772368/58213479973",
         "offerLink": "https://s.shopee.com.br/8KpoXCfQb0"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "18998941239",
@@ -4367,7 +4366,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b5-mt4n85gao35x12",
         "productLink": "https://shopee.com.br/product/832040275/22495754071",
         "offerLink": "https://s.shopee.com.br/AAHP22XsVu"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22994820028",
@@ -4639,7 +4639,7 @@
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-msg1gwd0j85j6d",
       "link": "https://s.shopee.com.br/6q0x3xJ1mG",
-      "rating": "4.6",
+      "rating": "4.5",
       "sales": 1107,
       "shop": "Sunfit Nutrition Oficial",
       "category": "whey protein",
@@ -4651,7 +4651,7 @@
         "priceDiscountRate": 65,
         "commissionRate": "0.08",
         "sales": 1107,
-        "ratingStar": "4.6",
+        "ratingStar": "4.5",
         "shopName": "Sunfit Nutrition Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-msg1gwd0j85j6d",
         "productLink": "https://shopee.com.br/product/1658934983/58204681823",
@@ -10660,8 +10660,8 @@
     {
       "id": "47811321649",
       "name": "- Kit 4 Potes Herméticos 2L Para Lavanderia Com Vedação P/ Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
-      "price": 71.16,
-      "original_price": 151.4,
+      "price": 71.17,
+      "original_price": 151.43,
       "discount": 53.0,
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mosdi0wi3sat12",
@@ -10674,7 +10674,7 @@
       "_item": {
         "itemId": 47811321649,
         "productName": "- Kit 4 Potes Herméticos 2L Para Lavanderia Com Vedação P/ Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
-        "price": "71.16",
+        "price": "71.17",
         "priceDiscountRate": 53,
         "commissionRate": "0.12",
         "sales": 444,
@@ -11417,7 +11417,7 @@
       "price": 36.07,
       "original_price": 75.15,
       "discount": 52.0,
-      "commission": 3.0,
+      "commission": 6.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-824h7-mpl0gkmwesjyea",
       "link": "https://s.shopee.com.br/AKapERhsih",
       "rating": "4.2",
@@ -11430,7 +11430,7 @@
         "productName": "Mochila Grande Reforçada Impermeável Notebook Masculina Feminina Escola Trabalho",
         "price": "36.07",
         "priceDiscountRate": 52,
-        "commissionRate": "0.03",
+        "commissionRate": "0.06",
         "sales": 4826,
         "ratingStar": "4.2",
         "shopName": "KCR__SHOP",
@@ -15416,8 +15416,8 @@
     {
       "id": "51961303157",
       "name": "- Kit 3 a 10 Potes Herméticos 2L Para Lavanderia Com Vedação Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
-      "price": 54.06,
-      "original_price": 100.11,
+      "price": 55.15,
+      "original_price": 102.13,
       "discount": 46.0,
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mosjxda5lmva37",
@@ -15430,7 +15430,7 @@
       "_item": {
         "itemId": 51961303157,
         "productName": "- Kit 3 a 10 Potes Herméticos 2L Para Lavanderia Com Vedação Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
-        "price": "54.06",
+        "price": "55.15",
         "priceDiscountRate": 46,
         "commissionRate": "0.12",
         "sales": 379,
@@ -21036,6 +21036,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-ms1lze0mdedh72",
         "productLink": "https://shopee.com.br/product/627750190/18798211624",
         "offerLink": "https://s.shopee.com.br/70KQwc18Dl"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "44228846684",
+      "name": "Fonte Cougar Atlas, 650W, 80 Plus Bronze, ATX 3.1, PFC Ativo, Preto - 31AA065001P01",
+      "price": 299.0,
+      "original_price": 482.26,
+      "discount": 38.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825zn-ml25sb01c741fb",
+      "link": "https://s.shopee.com.br/5fp1wCn90i",
+      "rating": "5",
+      "sales": 29,
+      "shop": "ITX-GAMER",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 44228846684,
+        "productName": "Fonte Cougar Atlas, 650W, 80 Plus Bronze, ATX 3.1, PFC Ativo, Preto - 31AA065001P01",
+        "price": "299",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.06",
+        "sales": 29,
+        "ratingStar": "5",
+        "shopName": "ITX-GAMER",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zn-ml25sb01c741fb",
+        "productLink": "https://shopee.com.br/product/778397589/44228846684",
+        "offerLink": "https://s.shopee.com.br/5fp1wCn90i"
       },
       "_last_price": null
     },
@@ -27709,6 +27738,35 @@
       "_last_price": null
     },
     {
+      "id": "43704328243",
+      "name": "Placa de Vídeo NVIDIA GeForce GIGABYTE RTX5060 Eagle OC 8GB GDDR7 128bit - 9VN5060EO-00-G10",
+      "price": 2999.0,
+      "original_price": 3998.67,
+      "discount": 25.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mp81ubfo1kw62c",
+      "link": "https://s.shopee.com.br/6AlIYQ1OIY",
+      "rating": "4.9",
+      "sales": 76,
+      "shop": "TNTinfoLoja",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 43704328243,
+        "productName": "Placa de Vídeo NVIDIA GeForce GIGABYTE RTX5060 Eagle OC 8GB GDDR7 128bit - 9VN5060EO-00-G10",
+        "price": "2999",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.03",
+        "sales": 76,
+        "ratingStar": "4.9",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mp81ubfo1kw62c",
+        "productLink": "https://shopee.com.br/product/344381236/43704328243",
+        "offerLink": "https://s.shopee.com.br/6AlIYQ1OIY"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23799198110",
       "name": "Aparelho Medidor De Pressão Arterial Digital De Braço",
       "price": 44.51,
@@ -31310,7 +31368,7 @@
       "price": 24.9,
       "original_price": 30.0,
       "discount": 17.0,
-      "commission": 3.0,
+      "commission": 6.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lp-msyh5hl2z3t074",
       "link": "https://s.shopee.com.br/3LR4tQChyO",
       "rating": "4.9",
@@ -31323,7 +31381,7 @@
         "productName": "Teclado Usb Padrão ABNT2 Brasileiro Super Macio Notebook Pc Computador",
         "price": "24.9",
         "priceDiscountRate": 17,
-        "commissionRate": "0.03",
+        "commissionRate": "0.06",
         "sales": 3347,
         "ratingStar": "4.9",
         "shopName": "KEPEL SUPRIMENTOS",
