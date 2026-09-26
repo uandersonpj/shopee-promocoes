@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-26T22:29:39.410534+00:00",
-  "total": 1128,
+  "updated_at": "2026-09-26T22:48:50.628265+00:00",
+  "total": 1127,
   "products": [
     {
       "id": "52011120312",
@@ -1099,7 +1099,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mp21h8cy5w5i1c",
         "productLink": "https://shopee.com.br/product/1567204121/58261933291",
         "offerLink": "https://s.shopee.com.br/60Rq4Q4OWR"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23218022612",
@@ -2401,8 +2402,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lp-mqyin0g0guth55",
         "productLink": "https://shopee.com.br/product/235321669/52557307480",
         "offerLink": "https://s.shopee.com.br/1qcKn8BfMO"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22594956407",
@@ -16690,35 +16690,6 @@
       "_last_price": null
     },
     {
-      "id": "21399647008",
-      "name": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Antifrizz",
-      "price": 17.9,
-      "original_price": 32.55,
-      "discount": 45.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134201-820l5-mp9hlxe5ga2p7e",
-      "link": "https://s.shopee.com.br/1VzSztznw6",
-      "rating": "4.9",
-      "sales": 3619,
-      "shop": "Salon Line",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21399647008,
-        "productName": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Antifrizz",
-        "price": "17.9",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.18",
-        "sales": 3619,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820l5-mp9hlxe5ga2p7e",
-        "productLink": "https://shopee.com.br/product/616222685/21399647008",
-        "offerLink": "https://s.shopee.com.br/1VzSztznw6"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20999680446",
       "name": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
       "price": 197.9,
@@ -17266,35 +17237,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mmy3ny7s02dgc3",
         "productLink": "https://shopee.com.br/product/392239188/23596569225",
         "offerLink": "https://s.shopee.com.br/7fa43Xs28R"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22698451598",
-      "name": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
-      "price": 54.99,
-      "original_price": 98.2,
-      "discount": 44.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
-      "link": "https://s.shopee.com.br/AAHSiRfwSM",
-      "rating": "4.9",
-      "sales": 208,
-      "shop": "LAMPADAECOM",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22698451598,
-        "productName": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
-        "price": "54.99",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.12",
-        "sales": 208,
-        "ratingStar": "4.9",
-        "shopName": "LAMPADAECOM",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
-        "productLink": "https://shopee.com.br/product/983665337/22698451598",
-        "offerLink": "https://s.shopee.com.br/AAHSiRfwSM"
       },
       "_last_price": null
     },
@@ -17991,35 +17933,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr1lwv154lqd01",
         "productLink": "https://shopee.com.br/product/1203404824/23492924070",
         "offerLink": "https://s.shopee.com.br/50ZIsYQkG2"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23498386191",
-      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-      "price": 169.9,
-      "original_price": 298.07,
-      "discount": 43.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-      "link": "https://s.shopee.com.br/7fa43Ty38b",
-      "rating": "4.9",
-      "sales": 1845,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498386191,
-        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-        "price": "169.9",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.07",
-        "sales": 1845,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-        "productLink": "https://shopee.com.br/product/504754787/23498386191",
-        "offerLink": "https://s.shopee.com.br/7fa43Ty38b"
       },
       "_last_price": null
     },
@@ -20601,6 +20514,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkh5uyg10pvna0",
         "productLink": "https://shopee.com.br/product/387091887/23798104773",
         "offerLink": "https://s.shopee.com.br/9peYdNRd1L"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22698451598",
+      "name": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
+      "price": 59.9,
+      "original_price": 98.2,
+      "discount": 39.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
+      "link": "https://s.shopee.com.br/AAHSiRfwSM",
+      "rating": "4.9",
+      "sales": 208,
+      "shop": "LAMPADAECOM",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22698451598,
+        "productName": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
+        "price": "59.9",
+        "priceDiscountRate": 39,
+        "commissionRate": "0.12",
+        "sales": 208,
+        "ratingStar": "4.9",
+        "shopName": "LAMPADAECOM",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
+        "productLink": "https://shopee.com.br/product/983665337/22698451598",
+        "offerLink": "https://s.shopee.com.br/AAHSiRfwSM"
       },
       "_last_price": null
     },
@@ -29300,6 +29242,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mscq6sidjqx07c",
         "productLink": "https://shopee.com.br/product/1665304899/58263263481",
         "offerLink": "https://s.shopee.com.br/9V1iEos10A"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23498386191",
+      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+      "price": 249.9,
+      "original_price": 320.38,
+      "discount": 22.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+      "link": "https://s.shopee.com.br/7fa43Ty38b",
+      "rating": "4.9",
+      "sales": 1845,
+      "shop": "Zociella Kids",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498386191,
+        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+        "price": "249.9",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.07",
+        "sales": 1845,
+        "ratingStar": "4.9",
+        "shopName": "Zociella Kids",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+        "productLink": "https://shopee.com.br/product/504754787/23498386191",
+        "offerLink": "https://s.shopee.com.br/7fa43Ty38b"
       },
       "_last_price": null
     },
