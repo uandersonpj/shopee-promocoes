@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T17:23:13.756573+00:00",
+  "updated_at": "2026-09-26T17:42:25.697453+00:00",
   "total": 1124,
   "products": [
     {
@@ -172,7 +172,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m94jsi5hwaol47",
         "productLink": "https://shopee.com.br/product/1127030290/23593603405",
         "offerLink": "https://s.shopee.com.br/5q8Ps1yFTG"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "26539956454",
@@ -5609,8 +5610,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcg3jc4sr6xsfd",
         "productLink": "https://shopee.com.br/product/1221820593/20899842747",
         "offerLink": "https://s.shopee.com.br/113A7GIDm4"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "11485271859",
@@ -10020,35 +10020,6 @@
       "_last_price": null
     },
     {
-      "id": "22694408785",
-      "name": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
-      "price": 879.99,
-      "original_price": 1913.02,
-      "discount": 54.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mr97xwjossn825",
-      "link": "https://s.shopee.com.br/1AcvJ33yG",
-      "rating": "4.9",
-      "sales": 199,
-      "shop": "Xuwei Digital",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22694408785,
-        "productName": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
-        "price": "879.99",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.11",
-        "sales": 199,
-        "ratingStar": "4.9",
-        "shopName": "Xuwei Digital",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mr97xwjossn825",
-        "productLink": "https://shopee.com.br/product/956346509/22694408785",
-        "offerLink": "https://s.shopee.com.br/1AcvJ33yG"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58207485901",
       "name": "Repetidor WiFi Profissional 2800m 6 Antenas Roteador Amplificador de Sinal Modem 300Mbps",
       "price": 52.98,
@@ -10624,6 +10595,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mggkt4ezj0g00a",
         "productLink": "https://shopee.com.br/product/316333903/23499128694",
         "offerLink": "https://s.shopee.com.br/60RtkyvHtr"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22694408785",
+      "name": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
+      "price": 889.99,
+      "original_price": 1893.6,
+      "discount": 53.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mr97xwjossn825",
+      "link": "https://s.shopee.com.br/1AcvJ33yG",
+      "rating": "4.9",
+      "sales": 199,
+      "shop": "Xuwei Digital",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22694408785,
+        "productName": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
+        "price": "889.99",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.11",
+        "sales": 199,
+        "ratingStar": "4.9",
+        "shopName": "Xuwei Digital",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mr97xwjossn825",
+        "productLink": "https://shopee.com.br/product/956346509/22694408785",
+        "offerLink": "https://s.shopee.com.br/1AcvJ33yG"
       },
       "_last_price": null
     },
@@ -13611,35 +13611,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m41pjicftjcl4d",
         "productLink": "https://shopee.com.br/product/472673093/21097992401",
         "offerLink": "https://s.shopee.com.br/8Kpkqp61LP"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "19403621266",
-      "name": "100 Pçs/Caixa Cascos De Aço Carbono Isca De Peixe Jig Pesca Círculo Acessórios Da Carpa Equipamentos De Engrenagem Face Com Perfurado",
-      "price": 11.0,
-      "original_price": 22.0,
-      "discount": 50.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/1f2d37be391f345f756d41a3f6a0d150",
-      "link": "https://s.shopee.com.br/7fa7vxGPOD",
-      "rating": "4.6",
-      "sales": 214,
-      "shop": "NYAYEO Vida ao ar livre",
-      "category": "caixa de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19403621266,
-        "productName": "100 Pçs/Caixa Cascos De Aço Carbono Isca De Peixe Jig Pesca Círculo Acessórios Da Carpa Equipamentos De Engrenagem Face Com Perfurado",
-        "price": "11",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.07",
-        "sales": 214,
-        "ratingStar": "4.6",
-        "shopName": "NYAYEO Vida ao ar livre",
-        "imageUrl": "https://cf.shopee.com.br/file/1f2d37be391f345f756d41a3f6a0d150",
-        "productLink": "https://shopee.com.br/product/654851978/19403621266",
-        "offerLink": "https://s.shopee.com.br/7fa7vxGPOD"
       },
       "_last_price": null
     },
@@ -27303,6 +27274,35 @@
       "_last_price": null
     },
     {
+      "id": "58255954420",
+      "name": "SSD KNUP 512GB M.2 NVMe 2280 PCIe Gen3 x4 – 3D NAND Alta Velocidade",
+      "price": 699.99,
+      "original_price": 945.93,
+      "discount": 26.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-msod7zcg1udi07",
+      "link": "https://s.shopee.com.br/7ptWW9kF11",
+      "rating": "4.9",
+      "sales": 36,
+      "shop": "GIRL HOUSE",
+      "category": "ssd nvme",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58255954420,
+        "productName": "SSD KNUP 512GB M.2 NVMe 2280 PCIe Gen3 x4 – 3D NAND Alta Velocidade",
+        "price": "699.99",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.03",
+        "sales": 36,
+        "ratingStar": "4.9",
+        "shopName": "GIRL HOUSE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-msod7zcg1udi07",
+        "productLink": "https://shopee.com.br/product/1191862841/58255954420",
+        "offerLink": "https://s.shopee.com.br/7ptWW9kF11"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58214345923",
       "name": "Kit Coala Laundry Chá Branco - 1 Lava Roupas 3L + 1 Amaciante Concentrado",
       "price": 49.9,
@@ -29333,35 +29333,6 @@
       "_last_price": null
     },
     {
-      "id": "12746344833",
-      "name": "Ração Golden Para Gatos Adultos Sabor Frango 10,1kg",
-      "price": 131.99,
-      "original_price": 169.22,
-      "discount": 22.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mrlxqq5kmmmc2d",
-      "link": "https://s.shopee.com.br/2qUsAyoV6G",
-      "rating": "5",
-      "sales": 734,
-      "shop": "Popular Pet",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 12746344833,
-        "productName": "Ração Golden Para Gatos Adultos Sabor Frango 10,1kg",
-        "price": "131.99",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.06",
-        "sales": 734,
-        "ratingStar": "5",
-        "shopName": "Popular Pet",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mrlxqq5kmmmc2d",
-        "productLink": "https://shopee.com.br/product/398944029/12746344833",
-        "offerLink": "https://s.shopee.com.br/2qUsAyoV6G"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20698436405",
       "name": "Tênis feminino lançamento novidade leve confortável casual plataforma top!",
       "price": 49.9,
@@ -29971,6 +29942,35 @@
       "_last_price": null
     },
     {
+      "id": "22698303819",
+      "name": "Caixa Para Ferramentas Caixa De Pesca Organizadora Resistente Envio Rapido",
+      "price": 19.75,
+      "original_price": 25.0,
+      "discount": 21.0,
+      "commission": 8.01,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6zmjx1j3okwfa",
+      "link": "https://s.shopee.com.br/6VO6fSm81D",
+      "rating": "4.6",
+      "sales": 578,
+      "shop": "Wa Magazine PP",
+      "category": "caixa de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22698303819,
+        "productName": "Caixa Para Ferramentas Caixa De Pesca Organizadora Resistente Envio Rapido",
+        "price": "19.75",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.0801",
+        "sales": 578,
+        "ratingStar": "4.6",
+        "shopName": "Wa Magazine PP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6zmjx1j3okwfa",
+        "productLink": "https://shopee.com.br/product/1278337792/22698303819",
+        "offerLink": "https://s.shopee.com.br/6VO6fSm81D"
+      },
+      "_last_price": null
+    },
+    {
       "id": "57701828757",
       "name": "KIT Balaclava + Chapéu Pescador Australiano Pesca Proteção Pescoço Sol Chapeu Pescador Camping",
       "price": 39.59,
@@ -30406,6 +30406,35 @@
       "_last_price": null
     },
     {
+      "id": "12746344833",
+      "name": "Ração Golden Para Gatos Adultos Sabor Frango 10,1kg",
+      "price": 135.12,
+      "original_price": 168.9,
+      "discount": 20.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mrlxqq5kmmmc2d",
+      "link": "https://s.shopee.com.br/2qUsAyoV6G",
+      "rating": "5",
+      "sales": 734,
+      "shop": "Popular Pet",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 12746344833,
+        "productName": "Ração Golden Para Gatos Adultos Sabor Frango 10,1kg",
+        "price": "135.12",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.06",
+        "sales": 734,
+        "ratingStar": "5",
+        "shopName": "Popular Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mrlxqq5kmmmc2d",
+        "productLink": "https://shopee.com.br/product/398944029/12746344833",
+        "offerLink": "https://s.shopee.com.br/2qUsAyoV6G"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22794193064",
       "name": "Air Fryer Rosa Britânia 5,5L Cesto Pinkstone 1500W BAFE53",
       "price": 319.9,
@@ -30721,35 +30750,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gd-mdvvgvb800si3b",
         "productLink": "https://shopee.com.br/product/711794399/21199863406",
         "offerLink": "https://s.shopee.com.br/5VVZTepGU7"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58266216069",
-      "name": "PC GAMER RYZEN 7 5700G, 16GB DDR4 3200MHZ, SSD M.2 NVME 250GB, VEGA 8",
-      "price": 3078.81,
-      "original_price": 3801.0,
-      "discount": 19.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259l-mrvp9cqz7hmp4f",
-      "link": "https://s.shopee.com.br/7KxFvEm91s",
-      "rating": "5",
-      "sales": 17,
-      "shop": "Top System Informática",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58266216069,
-        "productName": "PC GAMER RYZEN 7 5700G, 16GB DDR4 3200MHZ, SSD M.2 NVME 250GB, VEGA 8",
-        "price": "3078.81",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.03",
-        "sales": 17,
-        "ratingStar": "5",
-        "shopName": "Top System Informática",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259l-mrvp9cqz7hmp4f",
-        "productLink": "https://shopee.com.br/product/1885293994/58266216069",
-        "offerLink": "https://s.shopee.com.br/7KxFvEm91s"
       },
       "_last_price": null
     },
