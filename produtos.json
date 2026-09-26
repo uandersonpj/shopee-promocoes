@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-26T00:32:36.475379+00:00",
-  "total": 1122,
+  "updated_at": "2026-09-26T00:51:52.359634+00:00",
+  "total": 1121,
   "products": [
     {
       "id": "52011120312",
@@ -574,8 +574,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824jh-meid7h7zauiv8e",
         "productLink": "https://shopee.com.br/product/1006215031/42971009476",
         "offerLink": "https://s.shopee.com.br/5VVZTZe5My"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "20199713818",
@@ -1741,7 +1740,7 @@
       "price": 11.98,
       "original_price": 47.92,
       "discount": 75.0,
-      "commission": 3.0,
+      "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-824jj-mpfvxsk51ibm93",
       "link": "https://s.shopee.com.br/2qUoIhE5uk",
       "rating": "4.8",
@@ -1754,7 +1753,7 @@
         "productName": "Anzol Auto Flip Fisgada Automático Aço Carbono Alta Resistência Pesca em Água Salgada Doce Marítima",
         "price": "11.98",
         "priceDiscountRate": 75,
-        "commissionRate": "0.03",
+        "commissionRate": "0.13",
         "sales": 545,
         "ratingStar": "4.8",
         "shopName": "Real Achados",
@@ -4745,7 +4744,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-msd2spm12fif23",
         "productLink": "https://shopee.com.br/product/1768484381/58261211761",
         "offerLink": "https://s.shopee.com.br/9zxypmtIgD"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22098143818",
@@ -19307,7 +19307,7 @@
       "commission": 13.05,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhkgppo9wjk2a5",
       "link": "https://s.shopee.com.br/1AcvWk8mJ",
-      "rating": "4.3",
+      "rating": "4.4",
       "sales": 1336,
       "shop": "LitoralModa",
       "category": "kit pesca",
@@ -19319,7 +19319,7 @@
         "priceDiscountRate": 41,
         "commissionRate": "0.1305",
         "sales": 1336,
-        "ratingStar": "4.3",
+        "ratingStar": "4.4",
         "shopName": "LitoralModa",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhkgppo9wjk2a5",
         "productLink": "https://shopee.com.br/product/916176093/21869568513",
@@ -21499,35 +21499,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mpb361rjh5a8c1",
         "productLink": "https://shopee.com.br/product/1627886455/58252717058",
         "offerLink": "https://s.shopee.com.br/8Kpkqize3r"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "44073559348",
-      "name": "Liquidificador Oster Preto 3,2 Litros 15 Velocidades + Pulsar Preto 220V",
-      "price": 188.99,
-      "original_price": 299.98,
-      "discount": 37.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfodest73wudf2",
-      "link": "https://s.shopee.com.br/2qUonmA2Oi",
-      "rating": "4.9",
-      "sales": 919,
-      "shop": "DUX ELETRO LTDA",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 44073559348,
-        "productName": "Liquidificador Oster Preto 3,2 Litros 15 Velocidades + Pulsar Preto 220V",
-        "price": "188.99",
-        "priceDiscountRate": 37,
-        "commissionRate": "0.06",
-        "sales": 919,
-        "ratingStar": "4.9",
-        "shopName": "DUX ELETRO LTDA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfodest73wudf2",
-        "productLink": "https://shopee.com.br/product/1334945356/44073559348",
-        "offerLink": "https://s.shopee.com.br/2qUonmA2Oi"
       },
       "_last_price": null
     },
@@ -24486,6 +24457,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzrq3b4jnz1hb3",
         "productLink": "https://shopee.com.br/product/293152127/23697597322",
         "offerLink": "https://s.shopee.com.br/1BMaKrgXLS"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58252868790",
+      "name": "Kit Cafeteira Dolce Gusto Mini Me Cinza e Preta + 30 cápsulas",
+      "price": 442.0,
+      "original_price": 650.0,
+      "discount": 32.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8262l-mj719ez7qrd273",
+      "link": "https://s.shopee.com.br/30oEUx1Xd9",
+      "rating": "5",
+      "sales": 631,
+      "shop": "Nescafé Dolce Gusto",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58252868790,
+        "productName": "Kit Cafeteira Dolce Gusto Mini Me Cinza e Preta + 30 cápsulas",
+        "price": "442",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.03",
+        "sales": 631,
+        "ratingStar": "5",
+        "shopName": "Nescafé Dolce Gusto",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262l-mj719ez7qrd273",
+        "productLink": "https://shopee.com.br/product/1531827759/58252868790",
+        "offerLink": "https://s.shopee.com.br/30oEUx1Xd9"
       },
       "_last_price": null
     },
@@ -30837,35 +30837,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260t-mm21ntv48iko9c",
         "productLink": "https://shopee.com.br/product/1386797050/51007468236",
         "offerLink": "https://s.shopee.com.br/2gBO6L2oJ3"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58252868790",
-      "name": "Kit Cafeteira Dolce Gusto Mini Me Cinza e Preta + 30 cápsulas",
-      "price": 527.06,
-      "original_price": 650.69,
-      "discount": 19.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8262l-mj719ez7qrd273",
-      "link": "https://s.shopee.com.br/30oEUx1Xd9",
-      "rating": "5",
-      "sales": 631,
-      "shop": "Nescafé Dolce Gusto",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58252868790,
-        "productName": "Kit Cafeteira Dolce Gusto Mini Me Cinza e Preta + 30 cápsulas",
-        "price": "527.06",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.03",
-        "sales": 631,
-        "ratingStar": "5",
-        "shopName": "Nescafé Dolce Gusto",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262l-mj719ez7qrd273",
-        "productLink": "https://shopee.com.br/product/1531827759/58252868790",
-        "offerLink": "https://s.shopee.com.br/30oEUx1Xd9"
       },
       "_last_price": null
     },
