@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T07:11:26.738256+00:00",
+  "updated_at": "2026-09-26T07:30:17.381798+00:00",
   "total": 1126,
   "products": [
     {
@@ -10032,35 +10032,6 @@
       "_last_price": null
     },
     {
-      "id": "22998482488",
-      "name": "Sachê Friskies para Gatos – Kit com 15 Unidades – envio imediato",
-      "price": 34.9,
-      "original_price": 77.56,
-      "discount": 55.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-min6so3iwow208",
-      "link": "https://s.shopee.com.br/113A8YhAgR",
-      "rating": "4.9",
-      "sales": 3023,
-      "shop": "Morato Agropecuária",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22998482488,
-        "productName": "Sachê Friskies para Gatos – Kit com 15 Unidades – envio imediato",
-        "price": "34.9",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.06",
-        "sales": 3023,
-        "ratingStar": "4.9",
-        "shopName": "Morato Agropecuária",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-min6so3iwow208",
-        "productLink": "https://shopee.com.br/product/1055269003/22998482488",
-        "offerLink": "https://s.shopee.com.br/113A8YhAgR"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58255958592",
       "name": "Tênis Feminino Casual Blogueira Confortável e Estiloso Envio Rápido",
       "price": 49.35,
@@ -14581,7 +14552,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7azorh5y4i4dd",
         "productLink": "https://shopee.com.br/product/1619868980/22294439852",
         "offerLink": "https://s.shopee.com.br/8AWKeW6egK"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22198950257",
@@ -14986,6 +14958,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
         "productLink": "https://shopee.com.br/product/1727822533/58256070956",
         "offerLink": "https://s.shopee.com.br/AUuFQhZjJj"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22998482488",
+      "name": "Sachê Friskies para Gatos – Kit com 15 Unidades – envio imediato",
+      "price": 40.99,
+      "original_price": 77.34,
+      "discount": 47.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-min6so3iwow208",
+      "link": "https://s.shopee.com.br/113A8YhAgR",
+      "rating": "4.9",
+      "sales": 3023,
+      "shop": "Morato Agropecuária",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22998482488,
+        "productName": "Sachê Friskies para Gatos – Kit com 15 Unidades – envio imediato",
+        "price": "40.99",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.06",
+        "sales": 3023,
+        "ratingStar": "4.9",
+        "shopName": "Morato Agropecuária",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-min6so3iwow208",
+        "productLink": "https://shopee.com.br/product/1055269003/22998482488",
+        "offerLink": "https://s.shopee.com.br/113A8YhAgR"
       },
       "_last_price": null
     },
