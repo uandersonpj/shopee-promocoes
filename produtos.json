@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T06:46:27.279809+00:00",
+  "updated_at": "2026-09-27T07:05:13.457441+00:00",
   "total": 1125,
   "products": [
     {
@@ -289,7 +289,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mr6w05iemznofe",
         "productLink": "https://shopee.com.br/product/1896341737/58265198384",
         "offerLink": "https://s.shopee.com.br/AUuKDiwt8C"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "47508711420",
@@ -11424,8 +11425,8 @@
     {
       "id": "23899340449",
       "name": "Kit Podador De Galhos 3,5m + 4m Vara Telescópica 2 Serras 2 Ganchos",
-      "price": 139.99,
-      "original_price": 297.85,
+      "price": 139.98,
+      "original_price": 297.83,
       "discount": 53.0,
       "commission": 8.200000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l6-msceb66hodms2b",
@@ -11438,7 +11439,7 @@
       "_item": {
         "itemId": 23899340449,
         "productName": "Kit Podador De Galhos 3,5m + 4m Vara Telescópica 2 Serras 2 Ganchos",
-        "price": "139.99",
+        "price": "139.98",
         "priceDiscountRate": 53,
         "commissionRate": "0.082",
         "sales": 248,
