@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-27T18:36:37.741260+00:00",
-  "total": 1124,
+  "updated_at": "2026-09-27T18:55:49.066085+00:00",
+  "total": 1123,
   "products": [
     {
       "id": "22394636674",
@@ -114,7 +114,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m94jsi5hwaol47",
         "productLink": "https://shopee.com.br/product/1127030290/23593603405",
         "offerLink": "https://s.shopee.com.br/2LYcUfpBjz"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49207406104",
@@ -1328,8 +1329,8 @@
     {
       "id": "20398528613",
       "name": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
-      "price": 11.96,
-      "original_price": 49.83,
+      "price": 11.97,
+      "original_price": 49.88,
       "discount": 76.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mmvxxzgnnoqsff",
@@ -1342,7 +1343,7 @@
       "_item": {
         "itemId": 20398528613,
         "productName": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
-        "price": "11.96",
+        "price": "11.97",
         "priceDiscountRate": 76,
         "commissionRate": "0.07",
         "sales": 6958,
@@ -3985,35 +3986,6 @@
       "_last_price": null
     },
     {
-      "id": "23694051921",
-      "name": "Moedor De Café Grão Sementes Elétrico Inox Portátil 110V",
-      "price": 30.95,
-      "original_price": 93.79,
-      "discount": 67.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rav9-maai861iov4a16",
-      "link": "https://s.shopee.com.br/40gqTrfkXZ",
-      "rating": "4.8",
-      "sales": 1467,
-      "shop": "KARINA_Life Store",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23694051921,
-        "productName": "Moedor De Café Grão Sementes Elétrico Inox Portátil 110V",
-        "price": "30.95",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.03",
-        "sales": 1467,
-        "ratingStar": "4.8",
-        "shopName": "KARINA_Life Store",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rav9-maai861iov4a16",
-        "productLink": "https://shopee.com.br/product/378597608/23694051921",
-        "offerLink": "https://s.shopee.com.br/40gqTrfkXZ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58213479973",
       "name": "Panela de Pressão Aço Inox Fundo Triplo Pro Indução e Gás 4-8L Fechamento Externo",
       "price": 297.77,
@@ -4647,35 +4619,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mqbjmgp0hk3l6a",
         "productLink": "https://shopee.com.br/product/1639572229/58206623391",
         "offerLink": "https://s.shopee.com.br/60RurdnAoD"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58215814488",
-      "name": "Sabão em Pó Com Percabonato Alta Limpeza",
-      "price": 7.67,
-      "original_price": 21.91,
-      "discount": 65.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mrm3hs9i1b0k13",
-      "link": "https://s.shopee.com.br/3LR9gXBNNf",
-      "rating": "4.7",
-      "sales": 2329,
-      "shop": "Unilimp ind",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58215814488,
-        "productName": "Sabão em Pó Com Percabonato Alta Limpeza",
-        "price": "7.67",
-        "priceDiscountRate": 65,
-        "commissionRate": "0.13",
-        "sales": 2329,
-        "ratingStar": "4.7",
-        "shopName": "Unilimp ind",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mrm3hs9i1b0k13",
-        "productLink": "https://shopee.com.br/product/1736765436/58215814488",
-        "offerLink": "https://s.shopee.com.br/3LR9gXBNNf"
       },
       "_last_price": null
     },
@@ -5662,8 +5605,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcg3jc4sr6xsfd",
         "productLink": "https://shopee.com.br/product/1221820593/20899842747",
         "offerLink": "https://s.shopee.com.br/113EuL0Izf"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "11485271859",
@@ -8333,6 +8275,35 @@
       "_last_price": null
     },
     {
+      "id": "23694051921",
+      "name": "Moedor De Café Grão Sementes Elétrico Inox Portátil 110V",
+      "price": 39.99,
+      "original_price": 95.21,
+      "discount": 58.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rav9-maai861iov4a16",
+      "link": "https://s.shopee.com.br/40gqTrfkXZ",
+      "rating": "4.8",
+      "sales": 1467,
+      "shop": "KARINA_Life Store",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23694051921,
+        "productName": "Moedor De Café Grão Sementes Elétrico Inox Portátil 110V",
+        "price": "39.99",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.03",
+        "sales": 1467,
+        "ratingStar": "4.8",
+        "shopName": "KARINA_Life Store",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rav9-maai861iov4a16",
+        "productLink": "https://shopee.com.br/product/378597608/23694051921",
+        "offerLink": "https://s.shopee.com.br/40gqTrfkXZ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22999454687",
       "name": "Mini Liquidificador Portátil 400ml 6 Lâminas Recarregável USB Mixer Suco Shake",
       "price": 32.9,
@@ -9754,6 +9725,35 @@
       "_last_price": null
     },
     {
+      "id": "58215814488",
+      "name": "Sabão em Pó Com Percabonato Alta Limpeza",
+      "price": 9.86,
+      "original_price": 21.91,
+      "discount": 55.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mrm3hs9i1b0k13",
+      "link": "https://s.shopee.com.br/3LR9gXBNNf",
+      "rating": "4.7",
+      "sales": 2329,
+      "shop": "Unilimp ind",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58215814488,
+        "productName": "Sabão em Pó Com Percabonato Alta Limpeza",
+        "price": "9.86",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.13",
+        "sales": 2329,
+        "ratingStar": "4.7",
+        "shopName": "Unilimp ind",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mrm3hs9i1b0k13",
+        "productLink": "https://shopee.com.br/product/1736765436/58215814488",
+        "offerLink": "https://s.shopee.com.br/3LR9gXBNNf"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58214587344",
       "name": "Detergente em pó lava louça com percarbonato 1kg",
       "price": 15.75,
@@ -10400,7 +10400,7 @@
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-82626-mm9sym8py58v5c",
       "link": "https://s.shopee.com.br/6fhbelDzz5",
-      "rating": "4.7",
+      "rating": "4.8",
       "sales": 9043,
       "shop": "Universo do Lar*",
       "category": "air fryer",
@@ -10412,7 +10412,7 @@
         "priceDiscountRate": 54,
         "commissionRate": "0.13",
         "sales": 9043,
-        "ratingStar": "4.7",
+        "ratingStar": "4.8",
         "shopName": "Universo do Lar*",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82626-mm9sym8py58v5c",
         "productLink": "https://shopee.com.br/product/1619812344/58207663151",
@@ -10764,35 +10764,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqysjc3ln0nb37",
         "productLink": "https://shopee.com.br/product/1627792845/47214406847",
         "offerLink": "https://s.shopee.com.br/8V9Fq1rhu4"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "47811321649",
-      "name": "- Kit 4 Potes Herméticos 2L Para Lavanderia Com Vedação P/ Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
-      "price": 71.17,
-      "original_price": 151.43,
-      "discount": 53.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mosdi0wi3sat12",
-      "link": "https://s.shopee.com.br/8KppdisLF3",
-      "rating": "4.9",
-      "sales": 444,
-      "shop": "CampvendasMulticoisas",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 47811321649,
-        "productName": "- Kit 4 Potes Herméticos 2L Para Lavanderia Com Vedação P/ Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
-        "price": "71.17",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.12",
-        "sales": 444,
-        "ratingStar": "4.9",
-        "shopName": "CampvendasMulticoisas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mosdi0wi3sat12",
-        "productLink": "https://shopee.com.br/product/1627792845/47811321649",
-        "offerLink": "https://s.shopee.com.br/8KppdisLF3"
       },
       "_last_price": null
     },
@@ -15665,6 +15636,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6m9l0e7xmo95",
         "productLink": "https://shopee.com.br/product/319738922/23594622047",
         "offerLink": "https://s.shopee.com.br/9fLDEAnGXB"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "51961303157",
+      "name": "- Kit 3 a 10 Potes Herméticos 2L Para Lavanderia Com Vedação Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
+      "price": 54.06,
+      "original_price": 100.11,
+      "discount": 46.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mosjxda5lmva37",
+      "link": "https://s.shopee.com.br/3g3zakwrXz",
+      "rating": "4.8",
+      "sales": 379,
+      "shop": "CampvendasMulticoisas",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 51961303157,
+        "productName": "- Kit 3 a 10 Potes Herméticos 2L Para Lavanderia Com Vedação Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
+        "price": "54.06",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.12",
+        "sales": 379,
+        "ratingStar": "4.8",
+        "shopName": "CampvendasMulticoisas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mosjxda5lmva37",
+        "productLink": "https://shopee.com.br/product/1627792845/51961303157",
+        "offerLink": "https://s.shopee.com.br/3g3zakwrXz"
       },
       "_last_price": null
     },
@@ -30575,35 +30575,6 @@
       "_last_price": null
     },
     {
-      "id": "22893504865",
-      "name": "Vara  Joker  telescopica  varias cores e medidas",
-      "price": 20.89,
-      "original_price": 26.11,
-      "discount": 20.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbgsu2l31hped9",
-      "link": "https://s.shopee.com.br/1qcLtxqNUh",
-      "rating": "4.8",
-      "sales": 523,
-      "shop": "O Recanto da Pesca e Variedades",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22893504865,
-        "productName": "Vara  Joker  telescopica  varias cores e medidas",
-        "price": "20.89",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.03",
-        "sales": 523,
-        "ratingStar": "4.8",
-        "shopName": "O Recanto da Pesca e Variedades",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbgsu2l31hped9",
-        "productLink": "https://shopee.com.br/product/337645667/22893504865",
-        "offerLink": "https://s.shopee.com.br/1qcLtxqNUh"
-      },
-      "_last_price": null
-    },
-    {
       "id": "41360062714",
       "name": "Vara Telescópica Bamboo Strong Green Jaú Pesca de 1,80, 2,40m 3,00m 3,90m, 4,20m e 5,40m Pesca",
       "price": 29.78,
@@ -31134,7 +31105,7 @@
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjun99aei8zq2a",
       "link": "https://s.shopee.com.br/113EuSsbYi",
-      "rating": "4.7",
+      "rating": "4.6",
       "sales": 169,
       "shop": "Max Pescas",
       "category": "chumbada",
@@ -31146,7 +31117,7 @@
         "priceDiscountRate": 19,
         "commissionRate": "0.1",
         "sales": 169,
-        "ratingStar": "4.7",
+        "ratingStar": "4.6",
         "shopName": "Max Pescas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjun99aei8zq2a",
         "productLink": "https://shopee.com.br/product/291545650/58203972338",
