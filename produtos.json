@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-27T17:18:20.962596+00:00",
-  "total": 1125,
+  "updated_at": "2026-09-27T17:38:00.697505+00:00",
+  "total": 1124,
   "products": [
     {
       "id": "22394636674",
@@ -603,7 +603,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mskp5ha28hdxe7",
         "productLink": "https://shopee.com.br/product/427457955/49466540071",
         "offerLink": "https://s.shopee.com.br/4qFxTJrj9a"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22494449171",
@@ -974,8 +975,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mr1vaho31o90f0",
         "productLink": "https://shopee.com.br/product/1246081278/45364806848",
         "offerLink": "https://s.shopee.com.br/2Vs2h0EY4a"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22098784824",
@@ -3866,8 +3866,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mtd0czcsu8030c",
         "productLink": "https://shopee.com.br/product/1107644568/22193849980",
         "offerLink": "https://s.shopee.com.br/AKau1Rf7FG"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22094282340",
@@ -7145,35 +7144,6 @@
       "_last_price": null
     },
     {
-      "id": "22193667311",
-      "name": "Kit Karssellé - Shampoo 1LT + Condicionador 1LT + Máscara 500g + Oleo 7ml OU 60ml",
-      "price": 39.99,
-      "original_price": 99.97,
-      "discount": 60.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mrm0k1f8sj5zd3",
-      "link": "https://s.shopee.com.br/W6zEzU5wA",
-      "rating": "4.7",
-      "sales": 1172,
-      "shop": "Valorosa Beauty Hair",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22193667311,
-        "productName": "Kit Karssellé - Shampoo 1LT + Condicionador 1LT + Máscara 500g + Oleo 7ml OU 60ml",
-        "price": "39.99",
-        "priceDiscountRate": 60,
-        "commissionRate": "0.18",
-        "sales": 1172,
-        "ratingStar": "4.7",
-        "shopName": "Valorosa Beauty Hair",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mrm0k1f8sj5zd3",
-        "productLink": "https://shopee.com.br/product/1142099481/22193667311",
-        "offerLink": "https://s.shopee.com.br/W6zEzU5wA"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18197089486",
       "name": "Camisa De Cachorro Estampada Com Desenho Animado Gato Malha Protetora Solar Para Animais De Estimação",
       "price": 6.86,
@@ -8856,35 +8826,6 @@
       "_last_price": null
     },
     {
-      "id": "22395049910",
-      "name": "Kit Shampoo 1l + Condicionador 1l + Mascara Maca Essence 500g + Óleo Argan 50ml Magike",
-      "price": 42.9,
-      "original_price": 99.77,
-      "discount": 57.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134201-820m4-mr1uno2hoyytfd",
-      "link": "https://s.shopee.com.br/BU8qNVMc4",
-      "rating": "4.7",
-      "sales": 1670,
-      "shop": "RP COSMETICOS",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22395049910,
-        "productName": "Kit Shampoo 1l + Condicionador 1l + Mascara Maca Essence 500g + Óleo Argan 50ml Magike",
-        "price": "42.9",
-        "priceDiscountRate": 57,
-        "commissionRate": "0.03",
-        "sales": 1670,
-        "ratingStar": "4.7",
-        "shopName": "RP COSMETICOS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m4-mr1uno2hoyytfd",
-        "productLink": "https://shopee.com.br/product/1737409766/22395049910",
-        "offerLink": "https://s.shopee.com.br/BU8qNVMc4"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23098851500",
       "name": "Kit Body Splash Dolce + Florata Red 200ml Feminino.",
       "price": 42.9,
@@ -9345,35 +9286,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjk3gbc3kq2q41",
         "productLink": "https://shopee.com.br/product/1204193798/56504789067",
         "offerLink": "https://s.shopee.com.br/BU7uiNQoE"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "47214406847",
-      "name": "- Kit 4 Potes Hermético 1,5L Com Bico Dosador Medidor Porta Sabão em Pó /Sabão Líquido/ Amaciante Lavanderia Organizador",
-      "price": 62.81,
-      "original_price": 142.75,
-      "discount": 56.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mqysjc3ln0nb37",
-      "link": "https://s.shopee.com.br/8V9Fq1rhu4",
-      "rating": "4.8",
-      "sales": 469,
-      "shop": "CampvendasMulticoisas",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 47214406847,
-        "productName": "- Kit 4 Potes Hermético 1,5L Com Bico Dosador Medidor Porta Sabão em Pó /Sabão Líquido/ Amaciante Lavanderia Organizador",
-        "price": "62.81",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.12",
-        "sales": 469,
-        "ratingStar": "4.8",
-        "shopName": "CampvendasMulticoisas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqysjc3ln0nb37",
-        "productLink": "https://shopee.com.br/product/1627792845/47214406847",
-        "offerLink": "https://s.shopee.com.br/8V9Fq1rhu4"
       },
       "_last_price": null
     },
@@ -9954,6 +9866,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mrxudl0bhlvoe7",
         "productLink": "https://shopee.com.br/product/988030305/20299321793",
         "offerLink": "https://s.shopee.com.br/2LYcUjIqLi"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58208352912",
+      "name": "Kit Shampoo 1l + Condicionador 1l + Mascara Maca Essence 500g + Óleo Argan 50ml Magike",
+      "price": 44.9,
+      "original_price": 99.78,
+      "discount": 55.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134201-820m2-mqyn3fbk6ltxf3",
+      "link": "https://s.shopee.com.br/70KS4bYgmk",
+      "rating": "4.6",
+      "sales": 4591,
+      "shop": "LABELLE COSMETICOS",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58208352912,
+        "productName": "Kit Shampoo 1l + Condicionador 1l + Mascara Maca Essence 500g + Óleo Argan 50ml Magike",
+        "price": "44.9",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.03",
+        "sales": 4591,
+        "ratingStar": "4.6",
+        "shopName": "LABELLE COSMETICOS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820m2-mqyn3fbk6ltxf3",
+        "productLink": "https://shopee.com.br/product/958996125/58208352912",
+        "offerLink": "https://s.shopee.com.br/70KS4bYgmk"
       },
       "_last_price": null
     },
@@ -10795,6 +10736,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkb1enn2l6v54e",
         "productLink": "https://shopee.com.br/product/359164659/58204629642",
         "offerLink": "https://s.shopee.com.br/9zy3clvPEf"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "47214406847",
+      "name": "- Kit 4 Potes Hermético 1,5L Com Bico Dosador Medidor Porta Sabão em Pó /Sabão Líquido/ Amaciante Lavanderia Organizador",
+      "price": 67.27,
+      "original_price": 143.13,
+      "discount": 53.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mqysjc3ln0nb37",
+      "link": "https://s.shopee.com.br/8V9Fq1rhu4",
+      "rating": "4.8",
+      "sales": 469,
+      "shop": "CampvendasMulticoisas",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 47214406847,
+        "productName": "- Kit 4 Potes Hermético 1,5L Com Bico Dosador Medidor Porta Sabão em Pó /Sabão Líquido/ Amaciante Lavanderia Organizador",
+        "price": "67.27",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.12",
+        "sales": 469,
+        "ratingStar": "4.8",
+        "shopName": "CampvendasMulticoisas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqysjc3ln0nb37",
+        "productLink": "https://shopee.com.br/product/1627792845/47214406847",
+        "offerLink": "https://s.shopee.com.br/8V9Fq1rhu4"
       },
       "_last_price": null
     },
@@ -16860,35 +16830,6 @@
       "_last_price": null
     },
     {
-      "id": "23093789334",
-      "name": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Restauração Intensa",
-      "price": 17.9,
-      "original_price": 32.55,
-      "discount": 45.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134201-820mg-mp9hkwcyz1fl8c",
-      "link": "https://s.shopee.com.br/1Aie4Vzx3",
-      "rating": "4.9",
-      "sales": 1745,
-      "shop": "Salon Line",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23093789334,
-        "productName": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Restauração Intensa",
-        "price": "17.9",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.18",
-        "sales": 1745,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820mg-mp9hkwcyz1fl8c",
-        "productLink": "https://shopee.com.br/product/616222685/23093789334",
-        "offerLink": "https://s.shopee.com.br/1Aie4Vzx3"
-      },
-      "_last_price": null
-    },
-    {
       "id": "42071102324",
       "name": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
       "price": 68.74,
@@ -20197,8 +20138,8 @@
     {
       "id": "23599134541",
       "name": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
-      "price": 179.9,
-      "original_price": 299.83,
+      "price": 199.99,
+      "original_price": 333.32,
       "discount": 40.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mtfch5t3i8sh33",
@@ -20211,7 +20152,7 @@
       "_item": {
         "itemId": 23599134541,
         "productName": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
-        "price": "179.9",
+        "price": "199.99",
         "priceDiscountRate": 40,
         "commissionRate": "0.03",
         "sales": 933,
@@ -31907,6 +31848,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdubv6wju4s957",
         "productLink": "https://shopee.com.br/product/534023108/19750429680",
         "offerLink": "https://s.shopee.com.br/9AOweYiqb3"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22192693751",
+      "name": "Creme Para Pentear 3 em 1 Hidra D-Pantenol 300ml",
+      "price": 10.57,
+      "original_price": 12.58,
+      "discount": 16.0,
+      "commission": 16.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mrc4glxu562t04",
+      "link": "https://s.shopee.com.br/6fhbfzZxSe",
+      "rating": "4.9",
+      "sales": 7373,
+      "shop": "Salon Line",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22192693751,
+        "productName": "Creme Para Pentear 3 em 1 Hidra D-Pantenol 300ml",
+        "price": "10.57",
+        "priceDiscountRate": 16,
+        "commissionRate": "0.16",
+        "sales": 7373,
+        "ratingStar": "4.9",
+        "shopName": "Salon Line",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mrc4glxu562t04",
+        "productLink": "https://shopee.com.br/product/616222685/22192693751",
+        "offerLink": "https://s.shopee.com.br/6fhbfzZxSe"
       },
       "_last_price": null
     },
