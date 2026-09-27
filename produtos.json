@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-27T04:15:45.207135+00:00",
-  "total": 1125,
+  "updated_at": "2026-09-27T04:34:40.370267+00:00",
+  "total": 1126,
   "products": [
     {
       "id": "57561375019",
@@ -2426,7 +2426,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lp-mqyin0g0guth55",
         "productLink": "https://shopee.com.br/product/235321669/52557307480",
         "offerLink": "https://s.shopee.com.br/5q8Uf7BGgY"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22594956407",
@@ -15532,6 +15533,35 @@
       "_last_price": null
     },
     {
+      "id": "51961303157",
+      "name": "- Kit 3 a 10 Potes Herméticos 2L Para Lavanderia Com Vedação Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
+      "price": 54.06,
+      "original_price": 100.11,
+      "discount": 46.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mosjxda5lmva37",
+      "link": "https://s.shopee.com.br/3g3zakwrXz",
+      "rating": "4.8",
+      "sales": 379,
+      "shop": "CampvendasMulticoisas",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 51961303157,
+        "productName": "- Kit 3 a 10 Potes Herméticos 2L Para Lavanderia Com Vedação Sabão em Pó Amaciante Produtos de Limpeza Organização Total",
+        "price": "54.06",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.12",
+        "sales": 379,
+        "ratingStar": "4.8",
+        "shopName": "CampvendasMulticoisas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mosjxda5lmva37",
+        "productLink": "https://shopee.com.br/product/1627792845/51961303157",
+        "offerLink": "https://s.shopee.com.br/3g3zakwrXz"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22199268609",
       "name": "Kit Spá dos Pés Amaciante de Cutículas e Calos Slim 120ml + Creme Removedor + Espátulas 483 + 222",
       "price": 26.9,
@@ -25690,7 +25720,7 @@
       "commission": 6.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mrez1cew2oed35",
       "link": "https://s.shopee.com.br/5VVeGZWiJk",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 3328,
       "shop": "Usual Mix",
       "category": "fralda",
@@ -25702,7 +25732,7 @@
         "priceDiscountRate": 30,
         "commissionRate": "0.06",
         "sales": 3328,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "Usual Mix",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mrez1cew2oed35",
         "productLink": "https://shopee.com.br/product/1505860882/44915338553",
