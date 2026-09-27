@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T12:28:47.722047+00:00",
+  "updated_at": "2026-09-27T12:47:59.565382+00:00",
   "total": 1125,
   "products": [
     {
@@ -662,8 +662,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
         "productLink": "https://shopee.com.br/product/344381236/57911938287",
         "offerLink": "https://s.shopee.com.br/1Lg5Ir1b4w"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "49466540071",
@@ -864,35 +863,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-825a2-mgdcr60zrwgcdc",
         "productLink": "https://shopee.com.br/product/1006215031/51250897834",
         "offerLink": "https://s.shopee.com.br/8V9FqA6HRG"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23526109658",
-      "name": "Moda Verão Malha De Gelo Frio Renda De Braço Longo Manga Esportivo Mulher Corrida De Ciclismo Pesca Escalada Capa De Mão Fina Proteção UV",
-      "price": 13.09,
-      "original_price": 65.45,
-      "discount": 80.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-23020-sm49b6e1vinvb4",
-      "link": "https://s.shopee.com.br/905WteS8dk",
-      "rating": "4.9",
-      "sales": 24,
-      "shop": "apaixonar.br",
-      "category": "luva pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23526109658,
-        "productName": "Moda Verão Malha De Gelo Frio Renda De Braço Longo Manga Esportivo Mulher Corrida De Ciclismo Pesca Escalada Capa De Mão Fina Proteção UV",
-        "price": "13.09",
-        "priceDiscountRate": 80,
-        "commissionRate": "0.09",
-        "sales": 24,
-        "ratingStar": "4.9",
-        "shopName": "apaixonar.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-23020-sm49b6e1vinvb4",
-        "productLink": "https://shopee.com.br/product/264596455/23526109658",
-        "offerLink": "https://s.shopee.com.br/905WteS8dk"
       },
       "_last_price": null
     },
@@ -13132,35 +13102,6 @@
       "_last_price": null
     },
     {
-      "id": "58265081114",
-      "name": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-      "price": 9.99,
-      "original_price": 19.98,
-      "discount": 50.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
-      "link": "https://s.shopee.com.br/60RurSnHmR",
-      "rating": "4.7",
-      "sales": 3932,
-      "shop": "VC5 GLOBAL",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58265081114,
-        "productName": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-        "price": "9.99",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.13",
-        "sales": 3932,
-        "ratingStar": "4.7",
-        "shopName": "VC5 GLOBAL",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
-        "productLink": "https://shopee.com.br/product/1625666693/58265081114",
-        "offerLink": "https://s.shopee.com.br/60RurSnHmR"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18098210626",
       "name": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
       "price": 8.87,
@@ -16782,6 +16723,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcf2-lt49sbjuwpg373",
         "productLink": "https://shopee.com.br/product/432843460/23092914472",
         "offerLink": "https://s.shopee.com.br/6VOBSNC7FY"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58265081114",
+      "name": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
+      "price": 10.99,
+      "original_price": 19.98,
+      "discount": 45.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
+      "link": "https://s.shopee.com.br/60RurSnHmR",
+      "rating": "4.7",
+      "sales": 3932,
+      "shop": "VC5 GLOBAL",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58265081114,
+        "productName": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
+        "price": "10.99",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.13",
+        "sales": 3932,
+        "ratingStar": "4.7",
+        "shopName": "VC5 GLOBAL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
+        "productLink": "https://shopee.com.br/product/1625666693/58265081114",
+        "offerLink": "https://s.shopee.com.br/60RurSnHmR"
       },
       "_last_price": null
     },
@@ -28411,6 +28381,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lh9iq50zmqie10",
         "productLink": "https://shopee.com.br/product/291545650/3166644344",
         "offerLink": "https://s.shopee.com.br/4qFxTVe0md"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20099892643",
+      "name": "Óculos de Sol Polarizado com Estojo Proteção UV Masculino Esportivo Pesca",
+      "price": 29.97,
+      "original_price": 39.96,
+      "discount": 25.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mq9ajsq4iqrn25",
+      "link": "https://s.shopee.com.br/20vm6IonWo",
+      "rating": "4.9",
+      "sales": 194,
+      "shop": "Benevi Store",
+      "category": "estojo pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20099892643,
+        "productName": "Óculos de Sol Polarizado com Estojo Proteção UV Masculino Esportivo Pesca",
+        "price": "29.97",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.03",
+        "sales": 194,
+        "ratingStar": "4.9",
+        "shopName": "Benevi Store",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mq9ajsq4iqrn25",
+        "productLink": "https://shopee.com.br/product/510622607/20099892643",
+        "offerLink": "https://s.shopee.com.br/20vm6IonWo"
       },
       "_last_price": null
     },
