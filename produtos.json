@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T17:38:00.697505+00:00",
+  "updated_at": "2026-09-27T17:57:57.126522+00:00",
   "total": 1124,
   "products": [
     {
@@ -200,7 +200,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-msxmjc85bkzr38",
         "productLink": "https://shopee.com.br/product/1198407784/23497594302",
         "offerLink": "https://s.shopee.com.br/4B0GgBnZzB"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58265198384",
@@ -1003,8 +1004,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-moprlplgugow2d",
         "productLink": "https://shopee.com.br/product/285626238/22098784824",
         "offerLink": "https://s.shopee.com.br/8AWPRPsya2"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58261933291",
@@ -1032,8 +1032,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mp21h8cy5w5i1c",
         "productLink": "https://shopee.com.br/product/1567204121/58261933291",
         "offerLink": "https://s.shopee.com.br/4B0Gg7tawO"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23218022612",
@@ -12836,7 +12835,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mpcfv5asp72d3a",
       "link": "https://s.shopee.com.br/905WQvzDGN",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 292,
       "shop": "DVMIX",
       "category": "teclado mecanico",
@@ -12848,7 +12847,7 @@
         "priceDiscountRate": 50,
         "commissionRate": "0.03",
         "sales": 292,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "DVMIX",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mpcfv5asp72d3a",
         "productLink": "https://shopee.com.br/product/1077830096/45562032588",
