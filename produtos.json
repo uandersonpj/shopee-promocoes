@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-27T03:56:49.997967+00:00",
-  "total": 1126,
+  "updated_at": "2026-09-27T04:15:45.207135+00:00",
+  "total": 1125,
   "products": [
     {
       "id": "57561375019",
@@ -517,7 +517,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mqye5nm7jfgl34",
         "productLink": "https://shopee.com.br/product/1730841213/58214760211",
         "offerLink": "https://s.shopee.com.br/30oJI8kzVI"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21997150349",
@@ -20573,35 +20574,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mrj213ktu8lhed",
         "productLink": "https://shopee.com.br/product/539970515/56653475679",
         "offerLink": "https://s.shopee.com.br/8fSg2K0TwH"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "45707967320",
-      "name": "Interruptores De Teclado Mecânico Clicky & Tátil , Lineares Universais Com design À Prova De Poeira , Personalizáveis E ",
-      "price": 40.64,
-      "original_price": 66.62,
-      "discount": 39.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8258e-mqehxire4zr507",
-      "link": "https://s.shopee.com.br/AAHTp4ultg",
-      "rating": "4.9",
-      "sales": 453,
-      "shop": "Choice Oficial",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45707967320,
-        "productName": "Interruptores De Teclado Mecânico Clicky & Tátil , Lineares Universais Com design À Prova De Poeira , Personalizáveis E ",
-        "price": "40.64",
-        "priceDiscountRate": 39,
-        "commissionRate": "0.09",
-        "sales": 453,
-        "ratingStar": "4.9",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258e-mqehxire4zr507",
-        "productLink": "https://shopee.com.br/product/1006215031/45707967320",
-        "offerLink": "https://s.shopee.com.br/AAHTp4ultg"
       },
       "_last_price": null
     },
