@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T06:08:49.390374+00:00",
+  "updated_at": "2026-09-27T06:27:37.970506+00:00",
   "total": 1125,
   "products": [
     {
@@ -500,7 +500,7 @@
       "price": 35.99,
       "original_price": 199.94,
       "discount": 82.0,
-      "commission": 7.000000000000001,
+      "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mqye5nm7jfgl34",
       "link": "https://s.shopee.com.br/30oJI8kzVI",
       "rating": "4.9",
@@ -513,7 +513,7 @@
         "productName": "Kit com 5 Iscas de Pesca Articuladas 9,5cm com Movimento Realista e Estojo Organizador",
         "price": "35.99",
         "priceDiscountRate": 82,
-        "commissionRate": "0.07",
+        "commissionRate": "0.03",
         "sales": 75,
         "ratingStar": "4.9",
         "shopName": "GENAI MEGA STORE",
@@ -3618,7 +3618,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyk-mch7z6c4ouee89",
         "productLink": "https://shopee.com.br/product/1489659102/42806494664",
         "offerLink": "https://s.shopee.com.br/7ptZ2wLwtH"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23494180407",
