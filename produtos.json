@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-28T20:10:57.564507+00:00",
-  "total": 1135,
+  "updated_at": "2026-09-28T20:30:06.240053+00:00",
+  "total": 1134,
   "products": [
     {
       "id": "50203126324",
@@ -954,7 +954,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262f-mllw34rkbgg82a",
         "productLink": "https://shopee.com.br/product/207653029/54259002448",
         "offerLink": "https://s.shopee.com.br/gQOVplgUz"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49165555882",
@@ -1183,7 +1184,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lzop7krz80iq1e",
         "productLink": "https://shopee.com.br/product/218996205/25391678999",
         "offerLink": "https://s.shopee.com.br/1gIvhRN49G"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19398882418",
@@ -3033,8 +3035,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
         "productLink": "https://shopee.com.br/product/1368232097/58207198817",
         "offerLink": "https://s.shopee.com.br/9AOwdROScI"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23199448516",
@@ -6738,6 +6739,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261g-mlnzb8q8uzno8b",
         "productLink": "https://shopee.com.br/product/863631861/51307036019",
         "offerLink": "https://s.shopee.com.br/6q11sGrjKp"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22193667311",
+      "name": "Kit Karssellé - Shampoo 1LT + Condicionador 1LT + Máscara 500g + Oleo 7ml OU 60ml",
+      "price": 38.99,
+      "original_price": 99.97,
+      "discount": 61.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mrm0k1f8sj5zd3",
+      "link": "https://s.shopee.com.br/3LRCQG2Ago",
+      "rating": "4.7",
+      "sales": 1253,
+      "shop": "Valorosa Beauty Hair",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22193667311,
+        "productName": "Kit Karssellé - Shampoo 1LT + Condicionador 1LT + Máscara 500g + Oleo 7ml OU 60ml",
+        "price": "38.99",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.18",
+        "sales": 1253,
+        "ratingStar": "4.7",
+        "shopName": "Valorosa Beauty Hair",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mrm0k1f8sj5zd3",
+        "productLink": "https://shopee.com.br/product/1142099481/22193667311",
+        "offerLink": "https://s.shopee.com.br/3LRCQG2Ago"
       },
       "_last_price": null
     },
@@ -12665,7 +12695,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m908o8gp6ed59c",
       "link": "https://s.shopee.com.br/BU7uhFF3c",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 339,
       "shop": "YuanMing Eletronicos",
       "category": "roteador wifi",
@@ -12677,7 +12707,7 @@
         "priceDiscountRate": 50,
         "commissionRate": "0.03",
         "sales": 339,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "YuanMing Eletronicos",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m908o8gp6ed59c",
         "productLink": "https://shopee.com.br/product/1073402143/22493943973",
@@ -12769,35 +12799,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mr3cpfe1se85f5",
         "productLink": "https://shopee.com.br/product/1289974843/58264414848",
         "offerLink": "https://s.shopee.com.br/8pm6EciFTU"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "45562032588",
-      "name": "Chaveiro Anti Estresse Teclado Mecânico Teclas Fidget Sensorial Clicker Qualidade",
-      "price": 14.99,
-      "original_price": 29.98,
-      "discount": 50.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mpcfv5asp72d3a",
-      "link": "https://s.shopee.com.br/905WQvzDGN",
-      "rating": "4.8",
-      "sales": 297,
-      "shop": "DVMIX",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45562032588,
-        "productName": "Chaveiro Anti Estresse Teclado Mecânico Teclas Fidget Sensorial Clicker Qualidade",
-        "price": "14.99",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.03",
-        "sales": 297,
-        "ratingStar": "4.8",
-        "shopName": "DVMIX",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mpcfv5asp72d3a",
-        "productLink": "https://shopee.com.br/product/1077830096/45562032588",
-        "offerLink": "https://s.shopee.com.br/905WQvzDGN"
       },
       "_last_price": null
     },
@@ -16804,6 +16805,35 @@
       "_last_price": null
     },
     {
+      "id": "22298591472",
+      "name": "Ração Quatree Gourmet Gatos 10,1Kg",
+      "price": 121.74,
+      "original_price": 221.35,
+      "discount": 45.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
+      "link": "https://s.shopee.com.br/6q11r3MdXv",
+      "rating": "4.9",
+      "sales": 3317,
+      "shop": "mypetone",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22298591472,
+        "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
+        "price": "121.74",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.12",
+        "sales": 3317,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
+        "productLink": "https://shopee.com.br/product/290073877/22298591472",
+        "offerLink": "https://s.shopee.com.br/6q11r3MdXv"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23691925276",
       "name": "Casa + Cama Caminha Pet Casinha Para Cachorro Pet Cães e Gatos N°2 Pequenos",
       "price": 32.81,
@@ -18714,35 +18744,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zus-mn30gipk4ni911",
         "productLink": "https://shopee.com.br/product/706961933/29392573808",
         "offerLink": "https://s.shopee.com.br/8pm6EjF1UF"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22298591472",
-      "name": "Ração Quatree Gourmet Gatos 10,1Kg",
-      "price": 121.74,
-      "original_price": 209.9,
-      "discount": 42.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
-      "link": "https://s.shopee.com.br/6q11r3MdXv",
-      "rating": "4.9",
-      "sales": 3317,
-      "shop": "mypetone",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22298591472,
-        "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
-        "price": "121.74",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.12",
-        "sales": 3317,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
-        "productLink": "https://shopee.com.br/product/290073877/22298591472",
-        "offerLink": "https://s.shopee.com.br/6q11r3MdXv"
       },
       "_last_price": null
     },
@@ -21101,7 +21102,7 @@
       "price": 13.25,
       "original_price": 21.37,
       "discount": 38.0,
-      "commission": 14.499999999999998,
+      "commission": 16.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mlzbvg8xfzt360",
       "link": "https://s.shopee.com.br/LnY6zAc12",
       "rating": "4.9",
@@ -21114,7 +21115,7 @@
         "productName": "Etiquetas Adesivas 3x3, 4x4 ou 5x5cm Personalizados Com Recorte",
         "price": "13.25",
         "priceDiscountRate": 38,
-        "commissionRate": "0.145",
+        "commissionRate": "0.16",
         "sales": 4515,
         "ratingStar": "4.9",
         "shopName": "Plottz.br",
@@ -32286,35 +32287,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mskcqn1114w454",
         "productLink": "https://shopee.com.br/product/1043921872/58266635989",
         "offerLink": "https://s.shopee.com.br/2Vs2gz6MKA"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18998573561",
-      "name": "Amaciante Ruth Care Colinho da Vovó - 1l",
-      "price": 7.48,
-      "original_price": 8.8,
-      "discount": 15.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbmo-lneo8slh76y975",
-      "link": "https://s.shopee.com.br/7AdsGuY3Rn",
-      "rating": "4.9",
-      "sales": 3975,
-      "shop": "Casa de Gê",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18998573561,
-        "productName": "Amaciante Ruth Care Colinho da Vovó - 1l",
-        "price": "7.48",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.18",
-        "sales": 3975,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbmo-lneo8slh76y975",
-        "productLink": "https://shopee.com.br/product/534023108/18998573561",
-        "offerLink": "https://s.shopee.com.br/7AdsGuY3Rn"
       },
       "_last_price": null
     },
