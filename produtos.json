@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T05:29:56.479987+00:00",
+  "updated_at": "2026-09-28T05:48:51.669295+00:00",
   "total": 1124,
   "products": [
     {
@@ -15677,7 +15677,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhdo56b6dfy832",
         "productLink": "https://shopee.com.br/product/1128449458/22199268609",
         "offerLink": "https://s.shopee.com.br/20vm65YG0h"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "45556074709",
@@ -22205,6 +22206,35 @@
       "_last_price": null
     },
     {
+      "id": "22994876216",
+      "name": "Cesto de roupa suja de bambu de 72 litros com tampa e alça para uso na sala de estar e no banheiro.",
+      "price": 59.69,
+      "original_price": 93.27,
+      "discount": 36.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mlqs17n357gge9",
+      "link": "https://s.shopee.com.br/3VkZsrfCjO",
+      "rating": "4.9",
+      "sales": 5327,
+      "shop": "NZ.SHOP",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22994876216,
+        "productName": "Cesto de roupa suja de bambu de 72 litros com tampa e alça para uso na sala de estar e no banheiro.",
+        "price": "59.69",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.06",
+        "sales": 5327,
+        "ratingStar": "4.9",
+        "shopName": "NZ.SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mlqs17n357gge9",
+        "productLink": "https://shopee.com.br/product/1202669405/22994876216",
+        "offerLink": "https://s.shopee.com.br/3VkZsrfCjO"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58266026469",
       "name": "Caixa Organizadora Grande 60x40x30cm Dobrável Saco para Roupas Edredom Cobertor Bege Cinza",
       "price": 13.99,
@@ -24144,35 +24174,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b7-mqyt28n3n1ty7a",
         "productLink": "https://shopee.com.br/product/1054519320/58264754299",
         "offerLink": "https://s.shopee.com.br/5LCE4EGYcR"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22994876216",
-      "name": "Cesto de roupa suja de bambu de 72 litros com tampa e alça para uso na sala de estar e no banheiro.",
-      "price": 59.69,
-      "original_price": 89.09,
-      "discount": 33.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mlqs17n357gge9",
-      "link": "https://s.shopee.com.br/3VkZsrfCjO",
-      "rating": "4.9",
-      "sales": 5327,
-      "shop": "NZ.SHOP",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22994876216,
-        "productName": "Cesto de roupa suja de bambu de 72 litros com tampa e alça para uso na sala de estar e no banheiro.",
-        "price": "59.69",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.06",
-        "sales": 5327,
-        "ratingStar": "4.9",
-        "shopName": "NZ.SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mlqs17n357gge9",
-        "productLink": "https://shopee.com.br/product/1202669405/22994876216",
-        "offerLink": "https://s.shopee.com.br/3VkZsrfCjO"
       },
       "_last_price": null
     },
