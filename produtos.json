@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-28T21:27:45.137908+00:00",
-  "total": 1134,
+  "updated_at": "2026-09-28T21:47:11.574604+00:00",
+  "total": 1133,
   "products": [
     {
       "id": "50203126324",
@@ -1704,7 +1704,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xl-mhzrnuntaebk12",
         "productLink": "https://shopee.com.br/product/1672861664/43476999468",
         "offerLink": "https://s.shopee.com.br/6q11r7L1LL"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "46712193198",
@@ -6714,35 +6715,6 @@
       "_last_price": null
     },
     {
-      "id": "22193667311",
-      "name": "Kit Karssellé - Shampoo 1LT + Condicionador 1LT + Máscara 500g + Oleo 7ml OU 60ml",
-      "price": 38.99,
-      "original_price": 99.97,
-      "discount": 61.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mrm0k1f8sj5zd3",
-      "link": "https://s.shopee.com.br/3LRCQG2Ago",
-      "rating": "4.7",
-      "sales": 1253,
-      "shop": "Valorosa Beauty Hair",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22193667311,
-        "productName": "Kit Karssellé - Shampoo 1LT + Condicionador 1LT + Máscara 500g + Oleo 7ml OU 60ml",
-        "price": "38.99",
-        "priceDiscountRate": 61,
-        "commissionRate": "0.18",
-        "sales": 1253,
-        "ratingStar": "4.7",
-        "shopName": "Valorosa Beauty Hair",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mrm0k1f8sj5zd3",
-        "productLink": "https://shopee.com.br/product/1142099481/22193667311",
-        "offerLink": "https://s.shopee.com.br/3LRCQG2Ago"
-      },
-      "_last_price": null
-    },
-    {
       "id": "9830388367",
       "name": "Mochila Maternidade Bolsa Mamãe Bebê Multifunção",
       "price": 27.55,
@@ -8195,8 +8167,8 @@
     {
       "id": "22694463642",
       "name": "Forma Air Fryer 50/100/150/200/250 Descartável Antiaderente Redonda Forro De Papel Vegetal",
-      "price": 13.98,
-      "original_price": 33.29,
+      "price": 13.99,
+      "original_price": 33.31,
       "discount": 58.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfa2zn43hdz96b",
@@ -8209,7 +8181,7 @@
       "_item": {
         "itemId": 22694463642,
         "productName": "Forma Air Fryer 50/100/150/200/250 Descartável Antiaderente Redonda Forro De Papel Vegetal",
-        "price": "13.98",
+        "price": "13.99",
         "priceDiscountRate": 58,
         "commissionRate": "0.03",
         "sales": 2568,
@@ -21445,35 +21417,6 @@
       "_last_price": null
     },
     {
-      "id": "23398569018",
-      "name": "Ração Golden Special Gatos Adultos Frango e Carne 10,1kg",
-      "price": 124.9,
-      "original_price": 201.45,
-      "discount": 38.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqefp5ee",
-      "link": "https://s.shopee.com.br/50ZNfgTcGt",
-      "rating": "5",
-      "sales": 688,
-      "shop": "SPN MARKET",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23398569018,
-        "productName": "Ração Golden Special Gatos Adultos Frango e Carne 10,1kg",
-        "price": "124.9",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.03",
-        "sales": 688,
-        "ratingStar": "5",
-        "shopName": "SPN MARKET",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqefp5ee",
-        "productLink": "https://shopee.com.br/product/1501485889/23398569018",
-        "offerLink": "https://s.shopee.com.br/50ZNfgTcGt"
-      },
-      "_last_price": null
-    },
-    {
       "id": "28205901879",
       "name": "Óculos De Sol Fotocromáticos Masculinos UV400 Polarizados Para Dirigir Diurnos E Noturnos",
       "price": 13.92,
@@ -23007,8 +22950,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258r-msk50zao3aio55",
         "productLink": "https://shopee.com.br/product/1764061146/58216191653",
         "offerLink": "https://s.shopee.com.br/LnY7EdgJ6"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58264670703",
@@ -26255,6 +26197,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltpffb3fo75k7e",
         "productLink": "https://shopee.com.br/product/382524692/23392640520",
         "offerLink": "https://s.shopee.com.br/9KiMpdvJYF"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23398569018",
+      "name": "Ração Golden Special Gatos Adultos Frango e Carne 10,1kg",
+      "price": 139.9,
+      "original_price": 199.86,
+      "discount": 30.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqefp5ee",
+      "link": "https://s.shopee.com.br/50ZNfgTcGt",
+      "rating": "5",
+      "sales": 688,
+      "shop": "SPN MARKET",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23398569018,
+        "productName": "Ração Golden Special Gatos Adultos Frango e Carne 10,1kg",
+        "price": "139.9",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.03",
+        "sales": 688,
+        "ratingStar": "5",
+        "shopName": "SPN MARKET",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqefp5ee",
+        "productLink": "https://shopee.com.br/product/1501485889/23398569018",
+        "offerLink": "https://s.shopee.com.br/50ZNfgTcGt"
       },
       "_last_price": null
     },
@@ -31131,35 +31102,6 @@
       "_last_price": null
     },
     {
-      "id": "22998936376",
-      "name": "Ração Golden Special Premium para Gatos Castrados Frango e Carne 10,1kg",
-      "price": 130.99,
-      "original_price": 161.72,
-      "discount": 19.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820li-ms648kxna22ta5",
-      "link": "https://s.shopee.com.br/AUuMVgRaNT",
-      "rating": "5",
-      "sales": 834,
-      "shop": "Chegô",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22998936376,
-        "productName": "Ração Golden Special Premium para Gatos Castrados Frango e Carne 10,1kg",
-        "price": "130.99",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.03",
-        "sales": 834,
-        "ratingStar": "5",
-        "shopName": "Chegô",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-ms648kxna22ta5",
-        "productLink": "https://shopee.com.br/product/1248266601/22998936376",
-        "offerLink": "https://s.shopee.com.br/AUuMVgRaNT"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58258988827",
       "name": "Formas Suiça para Bolo?Pudim N. 18 / 16 e 14 Air Fryer 3,5",
       "price": 12.95,
@@ -31185,35 +31127,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mn35kosak2kh10",
         "productLink": "https://shopee.com.br/product/1456505255/58258988827",
         "offerLink": "https://s.shopee.com.br/4qFxxEPtDU"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "51007468236",
-      "name": "Garrafa Térmica Café Berlim 1L Luxo Dourada Cabo de Madeira Cafeteira Chá Água Decorativo Mesa Posta",
-      "price": 61.89,
-      "original_price": 76.41,
-      "discount": 19.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8260t-mm21ntv48iko9c",
-      "link": "https://s.shopee.com.br/1BMfaUvW3a",
-      "rating": "4.8",
-      "sales": 779,
-      "shop": "Roc & Rod Megashop",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 51007468236,
-        "productName": "Garrafa Térmica Café Berlim 1L Luxo Dourada Cabo de Madeira Cafeteira Chá Água Decorativo Mesa Posta",
-        "price": "61.89",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.07",
-        "sales": 779,
-        "ratingStar": "4.8",
-        "shopName": "Roc & Rod Megashop",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260t-mm21ntv48iko9c",
-        "productLink": "https://shopee.com.br/product/1386797050/51007468236",
-        "offerLink": "https://s.shopee.com.br/1BMfaUvW3a"
       },
       "_last_price": null
     },
@@ -31914,6 +31827,35 @@
       "_last_price": null
     },
     {
+      "id": "51007468236",
+      "name": "Garrafa Térmica Café Berlim 1L Luxo Dourada Cabo de Madeira Cafeteira Chá Água Decorativo Mesa Posta",
+      "price": 62.99,
+      "original_price": 75.89,
+      "discount": 17.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8260t-mm21ntv48iko9c",
+      "link": "https://s.shopee.com.br/1BMfaUvW3a",
+      "rating": "4.8",
+      "sales": 779,
+      "shop": "Roc & Rod Megashop",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 51007468236,
+        "productName": "Garrafa Térmica Café Berlim 1L Luxo Dourada Cabo de Madeira Cafeteira Chá Água Decorativo Mesa Posta",
+        "price": "62.99",
+        "priceDiscountRate": 17,
+        "commissionRate": "0.07",
+        "sales": 779,
+        "ratingStar": "4.8",
+        "shopName": "Roc & Rod Megashop",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260t-mm21ntv48iko9c",
+        "productLink": "https://shopee.com.br/product/1386797050/51007468236",
+        "offerLink": "https://s.shopee.com.br/1BMfaUvW3a"
+      },
+      "_last_price": null
+    },
+    {
       "id": "9670439728",
       "name": "Vara de Pesca de Fibra de Vidro Telescópica",
       "price": 19.99,
@@ -32287,6 +32229,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mskcqn1114w454",
         "productLink": "https://shopee.com.br/product/1043921872/58266635989",
         "offerLink": "https://s.shopee.com.br/2Vs2gz6MKA"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18998573561",
+      "name": "Amaciante Ruth Care Colinho da Vovó - 1l",
+      "price": 7.48,
+      "original_price": 8.8,
+      "discount": 15.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbmo-lneo8slh76y975",
+      "link": "https://s.shopee.com.br/7AdsGuY3Rn",
+      "rating": "4.9",
+      "sales": 3975,
+      "shop": "Casa de Gê",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18998573561,
+        "productName": "Amaciante Ruth Care Colinho da Vovó - 1l",
+        "price": "7.48",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.18",
+        "sales": 3975,
+        "ratingStar": "4.9",
+        "shopName": "Casa de Gê",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbmo-lneo8slh76y975",
+        "productLink": "https://shopee.com.br/product/534023108/18998573561",
+        "offerLink": "https://s.shopee.com.br/7AdsGuY3Rn"
       },
       "_last_price": null
     },
