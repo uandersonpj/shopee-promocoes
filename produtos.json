@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-28T12:09:03.438359+00:00",
-  "total": 1126,
+  "updated_at": "2026-09-28T12:28:27.727701+00:00",
+  "total": 1127,
   "products": [
     {
       "id": "22394636674",
@@ -4519,8 +4519,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmvvx9h1getec5",
         "productLink": "https://shopee.com.br/product/1267873709/58208583352",
         "offerLink": "https://s.shopee.com.br/LnY7CMtHf"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "19397504534",
@@ -12674,8 +12673,8 @@
     {
       "id": "58214050020",
       "name": "Placa de Video Mancer Radeon RX 580 Hellfire, 8GB, GDDR5, 256-bit, MCR-RX580-HLLF",
-      "price": 995.9,
-      "original_price": 1991.8,
+      "price": 981.14,
+      "original_price": 1962.28,
       "discount": 50.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8257s-mqhwnf612l1o5a",
@@ -12688,7 +12687,7 @@
       "_item": {
         "itemId": 58214050020,
         "productName": "Placa de Video Mancer Radeon RX 580 Hellfire, 8GB, GDDR5, 256-bit, MCR-RX580-HLLF",
-        "price": "995.9",
+        "price": "981.14",
         "priceDiscountRate": 50,
         "commissionRate": "0.03",
         "sales": 94,
@@ -25986,7 +25985,7 @@
       "price": 29.98,
       "original_price": 42.83,
       "discount": 30.0,
-      "commission": 16.0,
+      "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lb-moh9avb3ey9scc",
       "link": "https://s.shopee.com.br/3LR9gdiHtd",
       "rating": "4.7",
@@ -25999,7 +25998,7 @@
         "productName": "Kit Cozinha Brinquedo Infantil Fogão Forno Panelinhas Xícaras Acessórios Faz de Conta",
         "price": "29.98",
         "priceDiscountRate": 30,
-        "commissionRate": "0.16",
+        "commissionRate": "0.03",
         "sales": 902,
         "ratingStar": "4.7",
         "shopName": "Amoritta Kids",
@@ -26446,12 +26445,12 @@
     },
     {
       "id": "22792891006",
-      "name": "Cafeteira Philco 15 Cafezinhos 550W 600ml PCFE01",
+      "name": "Cafeteira Philco 15 Cafezinhos 600ml 550W PCFE01",
       "price": 99.9,
       "original_price": 140.7,
       "discount": 29.0,
       "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825ar-mt8f99v8fv9k8b",
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825b3-mtnthi1n0rup8d",
       "link": "https://s.shopee.com.br/5fp4SvZP9m",
       "rating": "4.9",
       "sales": 3404,
@@ -26460,14 +26459,14 @@
       "source": "shopee",
       "_item": {
         "itemId": 22792891006,
-        "productName": "Cafeteira Philco 15 Cafezinhos 550W 600ml PCFE01",
+        "productName": "Cafeteira Philco 15 Cafezinhos 600ml 550W PCFE01",
         "price": "99.9",
         "priceDiscountRate": 29,
         "commissionRate": "0.03",
         "sales": 3404,
         "ratingStar": "4.9",
         "shopName": "Philco Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ar-mt8f99v8fv9k8b",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b3-mtnthi1n0rup8d",
         "productLink": "https://shopee.com.br/product/811034337/22792891006",
         "offerLink": "https://s.shopee.com.br/5fp4SvZP9m"
       },
@@ -30124,6 +30123,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mpcyqre3uv45e3",
         "productLink": "https://shopee.com.br/product/1538521690/53812069361",
         "offerLink": "https://s.shopee.com.br/2BFCIN7d04"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23093825328",
+      "name": "Kit Gamer RGB Teclado Semi Mecanico Mouse RGB Mousepad LED Headphone Fone Gamer Setup PC Completo",
+      "price": 62.99,
+      "original_price": 78.74,
+      "discount": 20.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mm7sz7luyfb81a",
+      "link": "https://s.shopee.com.br/8Kppdi1kcJ",
+      "rating": "4.8",
+      "sales": 240,
+      "shop": "VL_Store",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23093825328,
+        "productName": "Kit Gamer RGB Teclado Semi Mecanico Mouse RGB Mousepad LED Headphone Fone Gamer Setup PC Completo",
+        "price": "62.99",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.12",
+        "sales": 240,
+        "ratingStar": "4.8",
+        "shopName": "VL_Store",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mm7sz7luyfb81a",
+        "productLink": "https://shopee.com.br/product/1129899846/23093825328",
+        "offerLink": "https://s.shopee.com.br/8Kppdi1kcJ"
       },
       "_last_price": null
     },
