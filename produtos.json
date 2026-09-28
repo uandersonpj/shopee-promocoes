@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T05:10:26.213284+00:00",
+  "updated_at": "2026-09-28T05:29:56.479987+00:00",
   "total": 1124,
   "products": [
     {
@@ -10776,7 +10776,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
         "productLink": "https://shopee.com.br/product/1270189717/29343102973",
         "offerLink": "https://s.shopee.com.br/6VOBTet00n"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58211030740",
@@ -28555,35 +28556,6 @@
       "_last_price": null
     },
     {
-      "id": "18498545192",
-      "name": "Iniciação Luvas De Pesca Anti-UV Homens Mulheres Derrapante Primavera Verão Gelo Esportivas De Ciclismo Respirável",
-      "price": 15.26,
-      "original_price": 20.35,
-      "discount": 25.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7qvdq-lh5qf956810j1a",
-      "link": "https://s.shopee.com.br/3LR9gl1SVD",
-      "rating": "4.6",
-      "sales": 32,
-      "shop": "Exquisite Life",
-      "category": "luva pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18498545192,
-        "productName": "Iniciação Luvas De Pesca Anti-UV Homens Mulheres Derrapante Primavera Verão Gelo Esportivas De Ciclismo Respirável",
-        "price": "15.26",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.03",
-        "sales": 32,
-        "ratingStar": "4.6",
-        "shopName": "Exquisite Life",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdq-lh5qf956810j1a",
-        "productLink": "https://shopee.com.br/product/303758430/18498545192",
-        "offerLink": "https://s.shopee.com.br/3LR9gl1SVD"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22397976540",
       "name": "ADESIVO TRANSPARENTE PERSONALIZADO COM SUA LOGO | VINIL À PROVA D’ÁGUA | ETIQUETA ADESIVA PREMIUM + BRINDE",
       "price": 9.87,
@@ -28899,6 +28871,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mqrqdfz230n45c",
         "productLink": "https://shopee.com.br/product/291545650/3956922823",
         "offerLink": "https://s.shopee.com.br/3B7jURkMAL"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18498545192",
+      "name": "Iniciação Luvas De Pesca Anti-UV Homens Mulheres Derrapante Primavera Verão Gelo Esportivas De Ciclismo Respirável",
+      "price": 15.46,
+      "original_price": 20.34,
+      "discount": 24.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7qvdq-lh5qf956810j1a",
+      "link": "https://s.shopee.com.br/3LR9gl1SVD",
+      "rating": "4.6",
+      "sales": 32,
+      "shop": "Exquisite Life",
+      "category": "luva pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18498545192,
+        "productName": "Iniciação Luvas De Pesca Anti-UV Homens Mulheres Derrapante Primavera Verão Gelo Esportivas De Ciclismo Respirável",
+        "price": "15.46",
+        "priceDiscountRate": 24,
+        "commissionRate": "0.03",
+        "sales": 32,
+        "ratingStar": "4.6",
+        "shopName": "Exquisite Life",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdq-lh5qf956810j1a",
+        "productLink": "https://shopee.com.br/product/303758430/18498545192",
+        "offerLink": "https://s.shopee.com.br/3LR9gl1SVD"
       },
       "_last_price": null
     },
