@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T08:01:17.071034+00:00",
+  "updated_at": "2026-09-28T08:20:09.930744+00:00",
   "total": 1124,
   "products": [
     {
@@ -4056,7 +4056,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkc1gjt1xc606",
         "productLink": "https://shopee.com.br/product/1362613415/42110429390",
         "offerLink": "https://s.shopee.com.br/W6yJWCz43"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22399450069",
@@ -16384,35 +16385,6 @@
       "_last_price": null
     },
     {
-      "id": "18597752657",
-      "name": "Adaptador Bluetooth 5.0 USB Transmissor Áudio Sem Fio para Notebook e Carros",
-      "price": 12.99,
-      "original_price": 23.62,
-      "discount": 45.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxc-mc5skldkgkhvc8",
-      "link": "https://s.shopee.com.br/1AhiNBsh0",
-      "rating": "4.8",
-      "sales": 4330,
-      "shop": "LEGAL PLUS",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18597752657,
-        "productName": "Adaptador Bluetooth 5.0 USB Transmissor Áudio Sem Fio para Notebook e Carros",
-        "price": "12.99",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.09",
-        "sales": 4330,
-        "ratingStar": "4.8",
-        "shopName": "LEGAL PLUS",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxc-mc5skldkgkhvc8",
-        "productLink": "https://shopee.com.br/product/1027415014/18597752657",
-        "offerLink": "https://s.shopee.com.br/1AhiNBsh0"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23699007677",
       "name": "36 Etiquetas Adesivas Temperos Condimentos Mantimentos Resistente à Água Cozinha Organização Pantry 3,8x3,8",
       "price": 10.89,
@@ -17656,6 +17628,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6qy7616re3gee",
         "productLink": "https://shopee.com.br/product/184031551/29877782583",
         "offerLink": "https://s.shopee.com.br/3g405N0BpF"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18597752657",
+      "name": "Adaptador Bluetooth 5.0 USB Transmissor Áudio Sem Fio para Notebook e Carros",
+      "price": 13.83,
+      "original_price": 24.26,
+      "discount": 43.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxc-mc5skldkgkhvc8",
+      "link": "https://s.shopee.com.br/1AhiNBsh0",
+      "rating": "4.8",
+      "sales": 4330,
+      "shop": "LEGAL PLUS",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18597752657,
+        "productName": "Adaptador Bluetooth 5.0 USB Transmissor Áudio Sem Fio para Notebook e Carros",
+        "price": "13.83",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.09",
+        "sales": 4330,
+        "ratingStar": "4.8",
+        "shopName": "LEGAL PLUS",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxc-mc5skldkgkhvc8",
+        "productLink": "https://shopee.com.br/product/1027415014/18597752657",
+        "offerLink": "https://s.shopee.com.br/1AhiNBsh0"
       },
       "_last_price": null
     },
