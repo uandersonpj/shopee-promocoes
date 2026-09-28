@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-28T20:49:18.006188+00:00",
-  "total": 1135,
+  "updated_at": "2026-09-28T21:08:30.209968+00:00",
+  "total": 1134,
   "products": [
     {
       "id": "50203126324",
@@ -550,7 +550,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
         "productLink": "https://shopee.com.br/product/972031390/21997150349",
         "offerLink": "https://s.shopee.com.br/6VOBSSEdK4"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21498310169",
@@ -1675,8 +1676,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk90kkju10qp3b",
         "productLink": "https://shopee.com.br/product/1063922972/18299069073",
         "offerLink": "https://s.shopee.com.br/5Asns2rxfx"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "43476999468",
@@ -2775,35 +2775,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mrc27xzb6txjec",
         "productLink": "https://shopee.com.br/product/1650905473/58210748022",
         "offerLink": "https://s.shopee.com.br/1VzVVDCkAj"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58217170539",
-      "name": "Rampa Pet Para Cachorro Gato Caminha Ração Linha Golden Tecido Suede 52 Cm De Altura - Sentta Furniture",
-      "price": 59.0,
-      "original_price": 196.67,
-      "discount": 70.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-msfziyqwdhxj02",
-      "link": "https://s.shopee.com.br/1VzY9ePyJV",
-      "rating": "4.8",
-      "sales": 300,
-      "shop": "Sentta Furniture",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58217170539,
-        "productName": "Rampa Pet Para Cachorro Gato Caminha Ração Linha Golden Tecido Suede 52 Cm De Altura - Sentta Furniture",
-        "price": "59",
-        "priceDiscountRate": 70,
-        "commissionRate": "0.13",
-        "sales": 300,
-        "ratingStar": "4.8",
-        "shopName": "Sentta Furniture",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-msfziyqwdhxj02",
-        "productLink": "https://shopee.com.br/product/897488659/58217170539",
-        "offerLink": "https://s.shopee.com.br/1VzY9ePyJV"
       },
       "_last_price": null
     },
@@ -7236,6 +7207,35 @@
       "_last_price": null
     },
     {
+      "id": "20598270836",
+      "name": "Kit 3un Molho Especial Para Ração Cães Cremoso SALSAPETTI 250g",
+      "price": 16.0,
+      "original_price": 40.0,
+      "discount": 60.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcrto5965ulued",
+      "link": "https://s.shopee.com.br/9pedQYtPXI",
+      "rating": "4.9",
+      "sales": 736,
+      "shop": "Magazine Animal",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20598270836,
+        "productName": "Kit 3un Molho Especial Para Ração Cães Cremoso SALSAPETTI 250g",
+        "price": "16",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.08",
+        "sales": 736,
+        "ratingStar": "4.9",
+        "shopName": "Magazine Animal",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcrto5965ulued",
+        "productLink": "https://shopee.com.br/product/847641179/20598270836",
+        "offerLink": "https://s.shopee.com.br/9pedQYtPXI"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23598387814",
       "name": "Adaptador de Tomada Ultra Resistente de Porcelana para Secador Air Fryer Benjamin Bivolt 10A e 20A",
       "price": 12.73,
@@ -8827,35 +8827,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mqowmslbsmirfd",
         "productLink": "https://shopee.com.br/product/1396794386/22298882024",
         "offerLink": "https://s.shopee.com.br/AKawI3Lste"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23820180033",
-      "name": "Ração Magnus Todo Dia Adulto Raça Pequena 15 kg",
-      "price": 80.9,
-      "original_price": 188.14,
-      "discount": 57.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134201-23010-vnqeblpvjsmvdc",
-      "link": "https://s.shopee.com.br/1VzYGFWCzW",
-      "rating": "4.9",
-      "sales": 377,
-      "shop": "PORTAL PET AGRO LTDA ME",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23820180033,
-        "productName": "Ração Magnus Todo Dia Adulto Raça Pequena 15 kg",
-        "price": "80.9",
-        "priceDiscountRate": 57,
-        "commissionRate": "0.03",
-        "sales": 377,
-        "ratingStar": "4.9",
-        "shopName": "PORTAL PET AGRO LTDA ME",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23010-vnqeblpvjsmvdc",
-        "productLink": "https://shopee.com.br/product/464043565/23820180033",
-        "offerLink": "https://s.shopee.com.br/1VzYGFWCzW"
       },
       "_last_price": null
     },
@@ -11789,35 +11760,6 @@
       "_last_price": null
     },
     {
-      "id": "22392157748",
-      "name": "Ração Fórmula Natural Pro Cães Sênior Porte Mini e Pequeno 10,1kg Adimax",
-      "price": 143.99,
-      "original_price": 299.98,
-      "discount": 52.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0knrwoe0w475",
-      "link": "https://s.shopee.com.br/20vorAUIyZ",
-      "rating": "4.9",
-      "sales": 419,
-      "shop": "GP ECOMMERCE.",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22392157748,
-        "productName": "Ração Fórmula Natural Pro Cães Sênior Porte Mini e Pequeno 10,1kg Adimax",
-        "price": "143.99",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 419,
-        "ratingStar": "4.9",
-        "shopName": "GP ECOMMERCE.",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0knrwoe0w475",
-        "productLink": "https://shopee.com.br/product/442964228/22392157748",
-        "offerLink": "https://s.shopee.com.br/20vorAUIyZ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23397277498",
       "name": "02 Coleira Cães Antipulgas E Carrapatos Dugs 56cm World",
       "price": 21.48,
@@ -12799,6 +12741,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mr3cpfe1se85f5",
         "productLink": "https://shopee.com.br/product/1289974843/58264414848",
         "offerLink": "https://s.shopee.com.br/8pm6EciFTU"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "45562032588",
+      "name": "Chaveiro Anti Estresse Teclado Mecânico Teclas Fidget Sensorial Clicker Qualidade",
+      "price": 14.99,
+      "original_price": 29.98,
+      "discount": 50.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mpcfv5asp72d3a",
+      "link": "https://s.shopee.com.br/905WQvzDGN",
+      "rating": "4.8",
+      "sales": 297,
+      "shop": "DVMIX",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 45562032588,
+        "productName": "Chaveiro Anti Estresse Teclado Mecânico Teclas Fidget Sensorial Clicker Qualidade",
+        "price": "14.99",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 297,
+        "ratingStar": "4.8",
+        "shopName": "DVMIX",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mpcfv5asp72d3a",
+        "productLink": "https://shopee.com.br/product/1077830096/45562032588",
+        "offerLink": "https://s.shopee.com.br/905WQvzDGN"
       },
       "_last_price": null
     },
@@ -18719,35 +18690,6 @@
       "_last_price": null
     },
     {
-      "id": "22298591472",
-      "name": "Ração Quatree Gourmet Gatos 10,1Kg",
-      "price": 121.74,
-      "original_price": 209.9,
-      "discount": 42.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
-      "link": "https://s.shopee.com.br/6q11r3MdXv",
-      "rating": "4.9",
-      "sales": 3317,
-      "shop": "mypetone",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22298591472,
-        "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
-        "price": "121.74",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.12",
-        "sales": 3317,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
-        "productLink": "https://shopee.com.br/product/290073877/22298591472",
-        "offerLink": "https://s.shopee.com.br/6q11r3MdXv"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58201495048",
       "name": "Ração Úmida Sachê Friskies Gatos Display com 15 Sachês 85g",
       "price": 34.9,
@@ -21474,6 +21416,35 @@
       "_last_price": null
     },
     {
+      "id": "22298591472",
+      "name": "Ração Quatree Gourmet Gatos 10,1Kg",
+      "price": 135.99,
+      "original_price": 219.34,
+      "discount": 38.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
+      "link": "https://s.shopee.com.br/6q11r3MdXv",
+      "rating": "4.9",
+      "sales": 3317,
+      "shop": "mypetone",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22298591472,
+        "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
+        "price": "135.99",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.12",
+        "sales": 3317,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
+        "productLink": "https://shopee.com.br/product/290073877/22298591472",
+        "offerLink": "https://s.shopee.com.br/6q11r3MdXv"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19599842993",
       "name": "Ração Golden Special Gatos Adultos Frango e Carne 3kg",
       "price": 49.9,
@@ -21627,7 +21598,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820md-mt02ukvjvjlz4e",
       "link": "https://s.shopee.com.br/20vm6F89Ni",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 550,
       "shop": "FastEcomSP",
       "category": "isca artificial",
@@ -21639,7 +21610,7 @@
         "priceDiscountRate": 38,
         "commissionRate": "0.03",
         "sales": 550,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "FastEcomSP",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mt02ukvjvjlz4e",
         "productLink": "https://shopee.com.br/product/1058451512/18798998311",
@@ -22688,6 +22659,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261o-mlw3fa8lips3f5",
         "productLink": "https://shopee.com.br/product/1553020055/58206997101",
         "offerLink": "https://s.shopee.com.br/5fp4StwD9E"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58263775797",
+      "name": "Ração para Cachorro Cães Adultos Salt Pet 15kg Sabor Carne e Frango Premium Dog qualidade",
+      "price": 63.49,
+      "original_price": 99.2,
+      "discount": 36.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82597-mqc7sqdc4wzl2b",
+      "link": "https://s.shopee.com.br/905WR1waDx",
+      "rating": "4.9",
+      "sales": 1613,
+      "shop": "MarkPet",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58263775797,
+        "productName": "Ração para Cachorro Cães Adultos Salt Pet 15kg Sabor Carne e Frango Premium Dog qualidade",
+        "price": "63.49",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 1613,
+        "ratingStar": "4.9",
+        "shopName": "MarkPet",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82597-mqc7sqdc4wzl2b",
+        "productLink": "https://shopee.com.br/product/1777808991/58263775797",
+        "offerLink": "https://s.shopee.com.br/905WR1waDx"
       },
       "_last_price": null
     },
@@ -23881,6 +23881,35 @@
       "_last_price": null
     },
     {
+      "id": "23098728972",
+      "name": "Ração Cachorro Adulto15kg Quatree Gourmet Todas Raças Sabor Carne",
+      "price": 105.39,
+      "original_price": 159.68,
+      "discount": 34.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-modzq7qw7fure5",
+      "link": "https://s.shopee.com.br/1AhiUUqUZ",
+      "rating": "4.9",
+      "sales": 468,
+      "shop": "animalzecommerce",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23098728972,
+        "productName": "Ração Cachorro Adulto15kg Quatree Gourmet Todas Raças Sabor Carne",
+        "price": "105.39",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.03",
+        "sales": 468,
+        "ratingStar": "4.9",
+        "shopName": "animalzecommerce",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-modzq7qw7fure5",
+        "productLink": "https://shopee.com.br/product/1509105042/23098728972",
+        "offerLink": "https://s.shopee.com.br/1AhiUUqUZ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58209434564",
       "name": "Cafeteira Elétrica Com Jarra Moderna 600ML15 Xícaras 550w",
       "price": 79.0,
@@ -25012,6 +25041,35 @@
       "_last_price": null
     },
     {
+      "id": "19899866990",
+      "name": "Tigelas Comedouro Bebedouro Elevado Em MDF Suspenso Para Pets Gato Cachorro Para Agua e Raçao",
+      "price": 16.9,
+      "original_price": 24.85,
+      "discount": 32.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mqni5t3phaf47c",
+      "link": "https://s.shopee.com.br/5q8UfDQRZp",
+      "rating": "4.8",
+      "sales": 1921,
+      "shop": "AQUARELA DECORAÇÕES",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19899866990,
+        "productName": "Tigelas Comedouro Bebedouro Elevado Em MDF Suspenso Para Pets Gato Cachorro Para Agua e Raçao",
+        "price": "16.9",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.03",
+        "sales": 1921,
+        "ratingStar": "4.8",
+        "shopName": "AQUARELA DECORAÇÕES",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mqni5t3phaf47c",
+        "productLink": "https://shopee.com.br/product/597391186/19899866990",
+        "offerLink": "https://s.shopee.com.br/5q8UfDQRZp"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19398297649",
       "name": "Ração Para Cachorro 15kg Special Dog Ultralife Gold Performance Adulto Carne Frango e Batata Doce",
       "price": 129.9,
@@ -25124,35 +25182,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzrq3b4jnz1hb3",
         "productLink": "https://shopee.com.br/product/293152127/23697597322",
         "offerLink": "https://s.shopee.com.br/7ptZ2tIpW9"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "19899866990",
-      "name": "Tigelas Comedouro Bebedouro Elevado Em MDF Suspenso Para Pets Gato Cachorro Para Agua e Raçao",
-      "price": 16.9,
-      "original_price": 24.85,
-      "discount": 32.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mqni5t3phaf47c",
-      "link": "https://s.shopee.com.br/5q8UfDQRZp",
-      "rating": "4.8",
-      "sales": 1921,
-      "shop": "AQUARELA DECORAÇÕES",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19899866990,
-        "productName": "Tigelas Comedouro Bebedouro Elevado Em MDF Suspenso Para Pets Gato Cachorro Para Agua e Raçao",
-        "price": "16.9",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.03",
-        "sales": 1921,
-        "ratingStar": "4.8",
-        "shopName": "AQUARELA DECORAÇÕES",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mqni5t3phaf47c",
-        "productLink": "https://shopee.com.br/product/597391186/19899866990",
-        "offerLink": "https://s.shopee.com.br/5q8UfDQRZp"
       },
       "_last_price": null
     },
@@ -27305,8 +27334,8 @@
     {
       "id": "40128790649",
       "name": "Whey Protein Isolado Zero Lactose Isolate Protein 900g New Millen",
-      "price": 144.89,
-      "original_price": 198.48,
+      "price": 145.91,
+      "original_price": 199.88,
       "discount": 27.0,
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mrn5bhseahaccd",
@@ -27319,7 +27348,7 @@
       "_item": {
         "itemId": 40128790649,
         "productName": "Whey Protein Isolado Zero Lactose Isolate Protein 900g New Millen",
-        "price": "144.89",
+        "price": "145.91",
         "priceDiscountRate": 27,
         "commissionRate": "0.11",
         "sales": 1414,
@@ -27386,35 +27415,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mqm1omgp7zf186",
         "productLink": "https://shopee.com.br/product/1686971749/44763955954",
         "offerLink": "https://s.shopee.com.br/2Vs2h5LKQ4"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18398355263",
-      "name": "Ração pra Cães Adultos Special sabor Frango e Carne 15kg Golden",
-      "price": 144.02,
-      "original_price": 197.29,
-      "discount": 27.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259k-mg5l2f32aex893",
-      "link": "https://s.shopee.com.br/1qcOerUwJY",
-      "rating": "4.9",
-      "sales": 462,
-      "shop": "Chegô",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18398355263,
-        "productName": "Ração pra Cães Adultos Special sabor Frango e Carne 15kg Golden",
-        "price": "144.02",
-        "priceDiscountRate": 27,
-        "commissionRate": "0.03",
-        "sales": 462,
-        "ratingStar": "4.9",
-        "shopName": "Chegô",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259k-mg5l2f32aex893",
-        "productLink": "https://shopee.com.br/product/1248266601/18398355263",
-        "offerLink": "https://s.shopee.com.br/1qcOerUwJY"
       },
       "_last_price": null
     },
@@ -28088,8 +28088,8 @@
     {
       "id": "58202494237",
       "name": "Dispensador automático de desinfetante para as mãos com sensor inteligente",
-      "price": 52.99,
-      "original_price": 70.65,
+      "price": 53.99,
+      "original_price": 71.99,
       "discount": 25.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mitoejy7cuf53b",
@@ -28102,7 +28102,7 @@
       "_item": {
         "itemId": 58202494237,
         "productName": "Dispensador automático de desinfetante para as mãos com sensor inteligente",
-        "price": "52.99",
+        "price": "53.99",
         "priceDiscountRate": 25,
         "commissionRate": "0.03",
         "sales": 1800,
@@ -28401,35 +28401,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx3-mdl9srqwsudw3e",
         "productLink": "https://shopee.com.br/product/1545872929/23898553736",
         "offerLink": "https://s.shopee.com.br/20vma1afxh"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "9890385387",
-      "name": "Panela de Pressão 7 litros Polida Fortlar",
-      "price": 79.99,
-      "original_price": 106.65,
-      "discount": 25.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3owm461ccvse5",
-      "link": "https://s.shopee.com.br/6VODX8ljRf",
-      "rating": "4.9",
-      "sales": 1209,
-      "shop": "r_store1",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 9890385387,
-        "productName": "Panela de Pressão 7 litros Polida Fortlar",
-        "price": "79.99",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.08",
-        "sales": 1209,
-        "ratingStar": "4.9",
-        "shopName": "r_store1",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3owm461ccvse5",
-        "productLink": "https://shopee.com.br/product/502568539/9890385387",
-        "offerLink": "https://s.shopee.com.br/6VODX8ljRf"
       },
       "_last_price": null
     },
@@ -29246,6 +29217,35 @@
       "_last_price": null
     },
     {
+      "id": "22693991400",
+      "name": "Panela de Pressão Elétrica Electrolux por Rita Lobo 3L Preta Efficient c/ Timer (PCE15)",
+      "price": 329.9,
+      "original_price": 428.44,
+      "discount": 23.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfh7-m9yig2kb8oepe5",
+      "link": "https://s.shopee.com.br/1qcNyZ3Uv5",
+      "rating": "5",
+      "sales": 641,
+      "shop": "Electrolux",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22693991400,
+        "productName": "Panela de Pressão Elétrica Electrolux por Rita Lobo 3L Preta Efficient c/ Timer (PCE15)",
+        "price": "329.9",
+        "priceDiscountRate": 23,
+        "commissionRate": "0.03",
+        "sales": 641,
+        "ratingStar": "5",
+        "shopName": "Electrolux",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfh7-m9yig2kb8oepe5",
+        "productLink": "https://shopee.com.br/product/1526836548/22693991400",
+        "offerLink": "https://s.shopee.com.br/1qcNyZ3Uv5"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23398648677",
       "name": "Anzol base para brincos até 200 peças para bijuterias",
       "price": 12.32,
@@ -29855,31 +29855,31 @@
       "_last_price": null
     },
     {
-      "id": "13214435371",
-      "name": "Lava Roupas Liquido  Urca Azul - 3l",
-      "price": 19.9,
-      "original_price": 25.19,
+      "id": "20175025617",
+      "name": "Dispenser Porta Detergente e Bucha Luxo Cozinha",
+      "price": 41.19,
+      "original_price": 52.14,
       "discount": 21.0,
-      "commission": 16.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40puqy992k5b8",
-      "link": "https://s.shopee.com.br/7fa8rnoYds",
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mrlrcmve9s0572",
+      "link": "https://s.shopee.com.br/2qUvSrULJC",
       "rating": "4.9",
-      "sales": 2051,
-      "shop": "Casa de Gê",
+      "sales": 1359,
+      "shop": "SELLNEEDS",
       "category": "detergente",
       "source": "shopee",
       "_item": {
-        "itemId": 13214435371,
-        "productName": "Lava Roupas Liquido  Urca Azul - 3l",
-        "price": "19.9",
+        "itemId": 20175025617,
+        "productName": "Dispenser Porta Detergente e Bucha Luxo Cozinha",
+        "price": "41.19",
         "priceDiscountRate": 21,
-        "commissionRate": "0.16",
-        "sales": 2051,
+        "commissionRate": "0.13",
+        "sales": 1359,
         "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40puqy992k5b8",
-        "productLink": "https://shopee.com.br/product/534023108/13214435371",
-        "offerLink": "https://s.shopee.com.br/7fa8rnoYds"
+        "shopName": "SELLNEEDS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mrlrcmve9s0572",
+        "productLink": "https://shopee.com.br/product/408653169/20175025617",
+        "offerLink": "https://s.shopee.com.br/2qUvSrULJC"
       },
       "_last_price": null
     },
@@ -31852,35 +31852,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258l-mteh15ls1z48bb",
         "productLink": "https://shopee.com.br/product/1609042341/58204723156",
         "offerLink": "https://s.shopee.com.br/qjoi06Hho"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22393494933",
-      "name": "Pedigree Dentastix Cães Adultos Raça Grande 7 unidades 270g Petisco Cachorro Higiene Bucal Cachorro",
-      "price": 24.9,
-      "original_price": 30.0,
-      "discount": 17.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81zu2-mkv8m298c2kgcf",
-      "link": "https://s.shopee.com.br/1gIySYVZeX",
-      "rating": "5",
-      "sales": 602,
-      "shop": "Marcinho PET",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22393494933,
-        "productName": "Pedigree Dentastix Cães Adultos Raça Grande 7 unidades 270g Petisco Cachorro Higiene Bucal Cachorro",
-        "price": "24.9",
-        "priceDiscountRate": 17,
-        "commissionRate": "0.03",
-        "sales": 602,
-        "ratingStar": "5",
-        "shopName": "Marcinho PET",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu2-mkv8m298c2kgcf",
-        "productLink": "https://shopee.com.br/product/1194006916/22393494933",
-        "offerLink": "https://s.shopee.com.br/1gIySYVZeX"
       },
       "_last_price": null
     },
