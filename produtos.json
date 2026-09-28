@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T16:20:15.380542+00:00",
+  "updated_at": "2026-09-28T16:39:25.282693+00:00",
   "total": 1137,
   "products": [
     {
@@ -1357,8 +1357,8 @@
     {
       "id": "20398528613",
       "name": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
-      "price": 11.96,
-      "original_price": 49.83,
+      "price": 11.97,
+      "original_price": 49.88,
       "discount": 76.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mmvxxzgnnoqsff",
@@ -1371,7 +1371,7 @@
       "_item": {
         "itemId": 20398528613,
         "productName": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
-        "price": "11.96",
+        "price": "11.97",
         "priceDiscountRate": 76,
         "commissionRate": "0.07",
         "sales": 6792,
@@ -3231,8 +3231,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/4d3d9eceb4a23732c4b0f88ec5f6e5fa",
         "productLink": "https://shopee.com.br/product/233660920/21635320174",
         "offerLink": "https://s.shopee.com.br/LnY7BW1cu"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58203113742",
@@ -8598,35 +8597,6 @@
       "_last_price": null
     },
     {
-      "id": "58260576959",
-      "name": "Teclado Mecânico Gamer RGB 68 Teclas Eixo Vermelho USB+2.4G+BT ABNT2 TK08",
-      "price": 169.99,
-      "original_price": 395.33,
-      "discount": 57.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mos2w4d46ww35f",
-      "link": "https://s.shopee.com.br/AUuKDgtVDm",
-      "rating": "5",
-      "sales": 270,
-      "shop": "TechLar-MGS",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58260576959,
-        "productName": "Teclado Mecânico Gamer RGB 68 Teclas Eixo Vermelho USB+2.4G+BT ABNT2 TK08",
-        "price": "169.99",
-        "priceDiscountRate": 57,
-        "commissionRate": "0.13",
-        "sales": 270,
-        "ratingStar": "5",
-        "shopName": "TechLar-MGS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mos2w4d46ww35f",
-        "productLink": "https://shopee.com.br/product/1814169023/58260576959",
-        "offerLink": "https://s.shopee.com.br/AUuKDgtVDm"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20999077793",
       "name": "BB Cream/Base/Corretivo com Esponja com Formato de Cogumelo / Base Clareador Maquiagem Creme Clareador Cor Marfim e Natu",
       "price": 29.99,
@@ -10160,6 +10130,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mmqtorx784jl5d",
         "productLink": "https://shopee.com.br/product/1412882242/58207485901",
         "offerLink": "https://s.shopee.com.br/4qFxTGxTaK"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58260576959",
+      "name": "Teclado Mecânico Gamer RGB 68 Teclas Eixo Vermelho USB+2.4G+BT ABNT2 TK08",
+      "price": 169.99,
+      "original_price": 369.54,
+      "discount": 54.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mos2w4d46ww35f",
+      "link": "https://s.shopee.com.br/AUuKDgtVDm",
+      "rating": "5",
+      "sales": 270,
+      "shop": "TechLar-MGS",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58260576959,
+        "productName": "Teclado Mecânico Gamer RGB 68 Teclas Eixo Vermelho USB+2.4G+BT ABNT2 TK08",
+        "price": "169.99",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.13",
+        "sales": 270,
+        "ratingStar": "5",
+        "shopName": "TechLar-MGS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mos2w4d46ww35f",
+        "productLink": "https://shopee.com.br/product/1814169023/58260576959",
+        "offerLink": "https://s.shopee.com.br/AUuKDgtVDm"
       },
       "_last_price": null
     },
@@ -15003,7 +15002,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7azorh5y4i4dd",
         "productLink": "https://shopee.com.br/product/1619868980/22294439852",
         "offerLink": "https://s.shopee.com.br/2Vs2hAwuDo"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22198950257",
