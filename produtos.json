@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-28T03:54:44.985482+00:00",
-  "total": 1124,
+  "updated_at": "2026-09-28T04:13:36.422644+00:00",
+  "total": 1125,
   "products": [
     {
       "id": "52011120312",
@@ -5558,6 +5558,35 @@
       "_last_price": null
     },
     {
+      "id": "20899842747",
+      "name": "MIW Casinha Para Pets Gatos Grande Dobrável Portátil Fácil armazenamento",
+      "price": 55.9,
+      "original_price": 151.08,
+      "discount": 63.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcg3jc4sr6xsfd",
+      "link": "https://s.shopee.com.br/113EuL0Izf",
+      "rating": "4.9",
+      "sales": 700,
+      "shop": "Max Casa",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20899842747,
+        "productName": "MIW Casinha Para Pets Gatos Grande Dobrável Portátil Fácil armazenamento",
+        "price": "55.9",
+        "priceDiscountRate": 63,
+        "commissionRate": "0.09",
+        "sales": 700,
+        "ratingStar": "4.9",
+        "shopName": "Max Casa",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcg3jc4sr6xsfd",
+        "productLink": "https://shopee.com.br/product/1221820593/20899842747",
+        "offerLink": "https://s.shopee.com.br/113EuL0Izf"
+      },
+      "_last_price": null
+    },
+    {
       "id": "11485271859",
       "name": "Peitoral e Guia para Cachorro Coleira Caes E Gatos Colete Regulavel Confortavel para Pet Pequeno",
       "price": 14.99,
@@ -7379,7 +7408,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2tkcqtacqo0b",
         "productLink": "https://shopee.com.br/product/375688601/23292991473",
         "offerLink": "https://s.shopee.com.br/LnY7Ev8uW"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22994482073",
@@ -27247,8 +27277,8 @@
     {
       "id": "25845400895",
       "name": "Panela de Pressão 2,5 Litros Alumínio Polida Fort-Lar",
-      "price": 51.89,
-      "original_price": 71.08,
+      "price": 51.9,
+      "original_price": 71.1,
       "discount": 27.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-macy6hm46tfz71",
@@ -27261,7 +27291,7 @@
       "_item": {
         "itemId": 25845400895,
         "productName": "Panela de Pressão 2,5 Litros Alumínio Polida Fort-Lar",
-        "price": "51.89",
+        "price": "51.9",
         "priceDiscountRate": 27,
         "commissionRate": "0.08",
         "sales": 923,
@@ -30524,8 +30554,8 @@
     {
       "id": "10834033011",
       "name": "Panela de Pressao Polida Fortlar - A - Escolha o Tamanho",
-      "price": 51.59,
-      "original_price": 64.49,
+      "price": 51.9,
+      "original_price": 64.88,
       "discount": 20.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9hjjyg253wi90",
@@ -30538,7 +30568,7 @@
       "_item": {
         "itemId": 10834033011,
         "productName": "Panela de Pressao Polida Fortlar - A - Escolha o Tamanho",
-        "price": "51.59",
+        "price": "51.9",
         "priceDiscountRate": 20,
         "commissionRate": "0.08",
         "sales": 732,
