@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T04:32:34.460631+00:00",
+  "updated_at": "2026-09-28T04:51:30.242793+00:00",
   "total": 1124,
   "products": [
     {
@@ -6193,7 +6193,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvg2-lg2m7nbjxgeu6e",
         "productLink": "https://shopee.com.br/product/398944029/22195574463",
         "offerLink": "https://s.shopee.com.br/4Vd74lVWHi"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58263789803",
@@ -16896,8 +16897,8 @@
     {
       "id": "22298591472",
       "name": "Ração Quatree Gourmet Gatos 10,1Kg",
-      "price": 121.9,
-      "original_price": 221.64,
+      "price": 121.74,
+      "original_price": 221.35,
       "discount": 45.0,
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
@@ -16910,7 +16911,7 @@
       "_item": {
         "itemId": 22298591472,
         "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
-        "price": "121.9",
+        "price": "121.74",
         "priceDiscountRate": 45,
         "commissionRate": "0.12",
         "sales": 3394,
