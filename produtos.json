@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T06:45:30.464767+00:00",
+  "updated_at": "2026-09-28T07:04:23.918641+00:00",
   "total": 1124,
   "products": [
     {
@@ -374,7 +374,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mmimeaq4koav45",
         "productLink": "https://shopee.com.br/product/1748172680/58258026087",
         "offerLink": "https://s.shopee.com.br/5LCE4QtqRH"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22899238019",
@@ -1531,7 +1532,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aj-mqgalw9z1d6od8",
         "productLink": "https://shopee.com.br/product/1737409766/58263959925",
         "offerLink": "https://s.shopee.com.br/3LR9hrmeEL"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23793414141",
@@ -2961,7 +2963,7 @@
       "original_price": 60.3,
       "discount": 70.0,
       "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820la-mt3azdqcim10d1",
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mtni2hacx0cg5d",
       "link": "https://s.shopee.com.br/5fp4T2sZlJ",
       "rating": "4.9",
       "sales": 271,
@@ -2977,7 +2979,7 @@
         "sales": 271,
         "ratingStar": "4.9",
         "shopName": "CASA MISTA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mt3azdqcim10d1",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mtni2hacx0cg5d",
         "productLink": "https://shopee.com.br/product/1830268167/58264610515",
         "offerLink": "https://s.shopee.com.br/5fp4T2sZlJ"
       },
@@ -16845,8 +16847,8 @@
     {
       "id": "22298591472",
       "name": "Ração Quatree Gourmet Gatos 10,1Kg",
-      "price": 121.74,
-      "original_price": 221.35,
+      "price": 121.9,
+      "original_price": 221.64,
       "discount": 45.0,
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
@@ -16859,7 +16861,7 @@
       "_item": {
         "itemId": 22298591472,
         "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
-        "price": "121.74",
+        "price": "121.9",
         "priceDiscountRate": 45,
         "commissionRate": "0.12",
         "sales": 3394,
