@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-28T12:28:27.727701+00:00",
-  "total": 1127,
+  "updated_at": "2026-09-28T12:47:48.790332+00:00",
+  "total": 1125,
   "products": [
     {
       "id": "22394636674",
@@ -520,8 +520,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a9-meuhrokrwagy64",
         "productLink": "https://shopee.com.br/product/1553811678/21498310169",
         "offerLink": "https://s.shopee.com.br/4LJgsTw9GJ"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "42971009476",
@@ -3044,6 +3043,35 @@
       "_last_price": null
     },
     {
+      "id": "54261362044",
+      "name": "Dissipador SSD M.2 2280 NVMe Delta-CN510 ARGB 5V 3 Pinos Aura Sync",
+      "price": 40.99,
+      "original_price": 132.23,
+      "discount": 69.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mou0986n2qyt11",
+      "link": "https://s.shopee.com.br/5VVeGU8TMb",
+      "rating": "4.9",
+      "sales": 106,
+      "shop": "Belin Life ",
+      "category": "ssd nvme",
+      "source": "shopee",
+      "_item": {
+        "itemId": 54261362044,
+        "productName": "Dissipador SSD M.2 2280 NVMe Delta-CN510 ARGB 5V 3 Pinos Aura Sync",
+        "price": "40.99",
+        "priceDiscountRate": 69,
+        "commissionRate": "0.07",
+        "sales": 106,
+        "ratingStar": "4.9",
+        "shopName": "Belin Life ",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mou0986n2qyt11",
+        "productLink": "https://shopee.com.br/product/1232299933/54261362044",
+        "offerLink": "https://s.shopee.com.br/5VVeGU8TMb"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23498545555",
       "name": "Moedor Multifuncional de Café e Especiarias 110V com Design em Aço Inoxidável 4 Lâminas",
       "price": 30.99,
@@ -3649,35 +3677,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260j-mkcrvpsxe32a3a",
         "productLink": "https://shopee.com.br/product/1691112742/58254725502",
         "offerLink": "https://s.shopee.com.br/gQOVbvX7l"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58212580166",
-      "name": "2026 Smartwatch 6 Em 1 Tela AMOLED 2.02\" HD GPS NFC Monitor Saúde 120 Modos Esportivos 45mm/49mm Para Android IOS",
-      "price": 49.88,
-      "original_price": 151.15,
-      "discount": 67.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mq4lwphung8w0b",
-      "link": "https://s.shopee.com.br/3g4057k72d",
-      "rating": "4.7",
-      "sales": 2512,
-      "shop": "FLYTRY",
-      "category": "monitor",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58212580166,
-        "productName": "2026 Smartwatch 6 Em 1 Tela AMOLED 2.02\" HD GPS NFC Monitor Saúde 120 Modos Esportivos 45mm/49mm Para Android IOS",
-        "price": "49.88",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.03",
-        "sales": 2512,
-        "ratingStar": "4.7",
-        "shopName": "FLYTRY",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mq4lwphung8w0b",
-        "productLink": "https://shopee.com.br/product/1779568981/58212580166",
-        "offerLink": "https://s.shopee.com.br/3g4057k72d"
       },
       "_last_price": null
     },
@@ -5392,6 +5391,35 @@
       "_last_price": null
     },
     {
+      "id": "58206131437",
+      "name": "Monitor Fetal Doppler Ultrassom Ouvir Batimentos Bebe",
+      "price": 36.64,
+      "original_price": 99.03,
+      "discount": 63.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82625-mlcz0sr2f0un54",
+      "link": "https://s.shopee.com.br/7VGieAVWGS",
+      "rating": "4.6",
+      "sales": 1574,
+      "shop": "_BEM ESTAR88",
+      "category": "monitor",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58206131437,
+        "productName": "Monitor Fetal Doppler Ultrassom Ouvir Batimentos Bebe",
+        "price": "36.64",
+        "priceDiscountRate": 63,
+        "commissionRate": "0.03",
+        "sales": 1574,
+        "ratingStar": "4.6",
+        "shopName": "_BEM ESTAR88",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82625-mlcz0sr2f0un54",
+        "productLink": "https://shopee.com.br/product/1558233660/58206131437",
+        "offerLink": "https://s.shopee.com.br/7VGieAVWGS"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58261389057",
       "name": "Teclado Gamer Semi Mecânico Retrô UltraMax ULT-K906, Compacto 96% (100 Teclas), ABNT2",
       "price": 74.88,
@@ -5591,35 +5619,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823ol-mp4l204vwxdt28",
         "productLink": "https://shopee.com.br/product/230709939/24612462303",
         "offerLink": "https://s.shopee.com.br/4B0Im82EOg"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20899842747",
-      "name": "MIW Casinha Para Pets Gatos Grande Dobrável Portátil Fácil armazenamento",
-      "price": 55.9,
-      "original_price": 151.08,
-      "discount": 63.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcg3jc4sr6xsfd",
-      "link": "https://s.shopee.com.br/113EuL0Izf",
-      "rating": "4.9",
-      "sales": 700,
-      "shop": "Max Casa",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20899842747,
-        "productName": "MIW Casinha Para Pets Gatos Grande Dobrável Portátil Fácil armazenamento",
-        "price": "55.9",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.09",
-        "sales": 700,
-        "ratingStar": "4.9",
-        "shopName": "Max Casa",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcg3jc4sr6xsfd",
-        "productLink": "https://shopee.com.br/product/1221820593/20899842747",
-        "offerLink": "https://s.shopee.com.br/113EuL0Izf"
       },
       "_last_price": null
     },
@@ -17309,6 +17308,35 @@
       "_last_price": null
     },
     {
+      "id": "42071102324",
+      "name": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
+      "price": 69.88,
+      "original_price": 124.79,
+      "discount": 44.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
+      "link": "https://s.shopee.com.br/7KxIRwPjb3",
+      "rating": "4.9",
+      "sales": 3958,
+      "shop": "Clube Kids Baby II",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42071102324,
+        "productName": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
+        "price": "69.88",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.06",
+        "sales": 3958,
+        "ratingStar": "4.9",
+        "shopName": "Clube Kids Baby II",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
+        "productLink": "https://shopee.com.br/product/1450084195/42071102324",
+        "offerLink": "https://s.shopee.com.br/7KxIRwPjb3"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20497679378",
       "name": "Creatina Monohidratada Pura Refil 500g Dark Lab - Creatina 100% Pura",
       "price": 49.9,
@@ -17595,35 +17623,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824hn-mph61me3g83y8f",
         "productLink": "https://shopee.com.br/product/1630938913/58212490237",
         "offerLink": "https://s.shopee.com.br/4LJgsLhZgZ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "41132780075",
-      "name": "- Kit 3 Pote Hermético 1,5 L C/ Bico Dosador Porta Sabão em Pó/Sabão Líquido/Amaciante Compacto Lavanderia Organizador",
-      "price": 49.24,
-      "original_price": 86.39,
-      "discount": 43.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
-      "link": "https://s.shopee.com.br/2LYcUhWzKj",
-      "rating": "4.8",
-      "sales": 1476,
-      "shop": "CampvendasMulticoisas",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41132780075,
-        "productName": "- Kit 3 Pote Hermético 1,5 L C/ Bico Dosador Porta Sabão em Pó/Sabão Líquido/Amaciante Compacto Lavanderia Organizador",
-        "price": "49.24",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.12",
-        "sales": 1476,
-        "ratingStar": "4.8",
-        "shopName": "CampvendasMulticoisas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
-        "productLink": "https://shopee.com.br/product/1627792845/41132780075",
-        "offerLink": "https://s.shopee.com.br/2LYcUhWzKj"
       },
       "_last_price": null
     },
@@ -19654,6 +19653,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820on-mo20zzyfjhtt9e",
         "productLink": "https://shopee.com.br/product/362695591/23994508588",
         "offerLink": "https://s.shopee.com.br/8Kpq7YfzzY"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "41132780075",
+      "name": "- Kit 3 Pote Hermético 1,5 L C/ Bico Dosador Porta Sabão em Pó/Sabão Líquido/Amaciante Compacto Lavanderia Organizador",
+      "price": 51.71,
+      "original_price": 86.18,
+      "discount": 40.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
+      "link": "https://s.shopee.com.br/2LYcUhWzKj",
+      "rating": "4.8",
+      "sales": 1476,
+      "shop": "CampvendasMulticoisas",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41132780075,
+        "productName": "- Kit 3 Pote Hermético 1,5 L C/ Bico Dosador Porta Sabão em Pó/Sabão Líquido/Amaciante Compacto Lavanderia Organizador",
+        "price": "51.71",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.12",
+        "sales": 1476,
+        "ratingStar": "4.8",
+        "shopName": "CampvendasMulticoisas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
+        "productLink": "https://shopee.com.br/product/1627792845/41132780075",
+        "offerLink": "https://s.shopee.com.br/2LYcUhWzKj"
       },
       "_last_price": null
     },
@@ -27140,35 +27168,6 @@
       "_last_price": null
     },
     {
-      "id": "23995007004",
-      "name": "Mini Liquidificador Portátil 450ml com Display Digital e 8 Lâminas 3 Velocidades",
-      "price": 43.88,
-      "original_price": 60.11,
-      "discount": 27.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mpugss6pvvuq78",
-      "link": "https://s.shopee.com.br/5Asns0syZO",
-      "rating": "4.7",
-      "sales": 1735,
-      "shop": "Aola Shop ",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23995007004,
-        "productName": "Mini Liquidificador Portátil 450ml com Display Digital e 8 Lâminas 3 Velocidades",
-        "price": "43.88",
-        "priceDiscountRate": 27,
-        "commissionRate": "0.09",
-        "sales": 1735,
-        "ratingStar": "4.7",
-        "shopName": "Aola Shop ",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mpugss6pvvuq78",
-        "productLink": "https://shopee.com.br/product/1067971921/23995007004",
-        "offerLink": "https://s.shopee.com.br/5Asns0syZO"
-      },
-      "_last_price": null
-    },
-    {
       "id": "25845400895",
       "name": "Panela de Pressão 2,5 Litros Alumínio Polida Fort-Lar",
       "price": 51.9,
@@ -28590,35 +28589,6 @@
       "_last_price": null
     },
     {
-      "id": "23498924948",
-      "name": "Kit 32 Fralda Geriátrica Descartável Unissex Calcinha/Cueca Pacote Confort Master Pants P/M/G/EG",
-      "price": 79.99,
-      "original_price": 105.25,
-      "discount": 24.0,
-      "commission": 15.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfis1031340445",
-      "link": "https://s.shopee.com.br/1Lg5IumZmK",
-      "rating": "4.9",
-      "sales": 1477,
-      "shop": "NEW AGE CARE & PROTECTION",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498924948,
-        "productName": "Kit 32 Fralda Geriátrica Descartável Unissex Calcinha/Cueca Pacote Confort Master Pants P/M/G/EG",
-        "price": "79.99",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.15",
-        "sales": 1477,
-        "ratingStar": "4.9",
-        "shopName": "NEW AGE CARE & PROTECTION",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfis1031340445",
-        "productLink": "https://shopee.com.br/product/804643748/23498924948",
-        "offerLink": "https://s.shopee.com.br/1Lg5IumZmK"
-      },
-      "_last_price": null
-    },
-    {
       "id": "54166806189",
       "name": "Creatina Monohidratada - Growth Supplements - Sem sabor em pó",
       "price": 29.9,
@@ -29688,35 +29658,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6t32ri0qh3fd",
         "productLink": "https://shopee.com.br/product/1147219225/22298770966",
         "offerLink": "https://s.shopee.com.br/AKau1P2X61"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23796239641",
-      "name": "Lava Roupas Liquido Urca Lavanda - 3L",
-      "price": 19.9,
-      "original_price": 25.19,
-      "discount": 21.0,
-      "commission": 15.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7qvfm-lj2s2shmqq5z23",
-      "link": "https://s.shopee.com.br/2Vs2h0WLzk",
-      "rating": "4.9",
-      "sales": 1286,
-      "shop": "Casa de Gê",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23796239641,
-        "productName": "Lava Roupas Liquido Urca Lavanda - 3L",
-        "price": "19.9",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.15",
-        "sales": 1286,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvfm-lj2s2shmqq5z23",
-        "productLink": "https://shopee.com.br/product/534023108/23796239641",
-        "offerLink": "https://s.shopee.com.br/2Vs2h0WLzk"
       },
       "_last_price": null
     },
