@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T14:56:45.391993+00:00",
+  "updated_at": "2026-09-29T15:16:29.068782+00:00",
   "total": 1134,
   "products": [
     {
@@ -603,8 +603,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
         "productLink": "https://shopee.com.br/product/344381236/57911938287",
         "offerLink": "https://s.shopee.com.br/1Lg5Ir1b4w"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22494449171",
@@ -3888,7 +3887,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lw-msroo4begqh009",
       "link": "https://s.shopee.com.br/2qUuHC5MNp",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 41,
       "shop": "BOTHale",
       "category": "sabao em po",
@@ -3900,7 +3899,7 @@
         "priceDiscountRate": 67,
         "commissionRate": "0.03",
         "sales": 41,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "BOTHale",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-msroo4begqh009",
         "productLink": "https://shopee.com.br/product/1927684214/58267574488",
@@ -10641,7 +10640,7 @@
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-82626-mm9sym8py58v5c",
       "link": "https://s.shopee.com.br/6fhbelDzz5",
-      "rating": "4.7",
+      "rating": "4.8",
       "sales": 8547,
       "shop": "Universo do Lar*",
       "category": "air fryer",
@@ -10653,7 +10652,7 @@
         "priceDiscountRate": 54,
         "commissionRate": "0.13",
         "sales": 8547,
-        "ratingStar": "4.7",
+        "ratingStar": "4.8",
         "shopName": "Universo do Lar*",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82626-mm9sym8py58v5c",
         "productLink": "https://shopee.com.br/product/1619812344/58207663151",
@@ -13156,6 +13155,35 @@
       "_last_price": null
     },
     {
+      "id": "50355489781",
+      "name": "Essência Para Sabão Líquido e Amaciante 10ml Cheiro de Limpeza | Roupas Perfumadas",
+      "price": 9.9,
+      "original_price": 19.8,
+      "discount": 50.0,
+      "commission": 25.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk14pa9srri955",
+      "link": "https://s.shopee.com.br/8KpruIeJhk",
+      "rating": "4.8",
+      "sales": 843,
+      "shop": "AROMANIA ESSÊNCIAS SP",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 50355489781,
+        "productName": "Essência Para Sabão Líquido e Amaciante 10ml Cheiro de Limpeza | Roupas Perfumadas",
+        "price": "9.9",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.25",
+        "sales": 843,
+        "ratingStar": "4.8",
+        "shopName": "AROMANIA ESSÊNCIAS SP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk14pa9srri955",
+        "productLink": "https://shopee.com.br/product/416439522/50355489781",
+        "offerLink": "https://s.shopee.com.br/8KpruIeJhk"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58265081114",
       "name": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
       "price": 10.99,
@@ -14747,6 +14775,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mqj7ti2uhiwx4a",
         "productLink": "https://shopee.com.br/product/1458574782/54663825990",
         "offerLink": "https://s.shopee.com.br/9V1qszIOp2"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23799355108",
+      "name": "Caminhão Dinossauro Dino Engole Carrinhos Brinquedo Infantil Menino Kit Presente",
+      "price": 69.99,
+      "original_price": 134.6,
+      "discount": 48.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8260n-ml4ey8056v45bd",
+      "link": "https://s.shopee.com.br/W6yJO7YNq",
+      "rating": "4.9",
+      "sales": 851,
+      "shop": "rcacomercial",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23799355108,
+        "productName": "Caminhão Dinossauro Dino Engole Carrinhos Brinquedo Infantil Menino Kit Presente",
+        "price": "69.99",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.07",
+        "sales": 851,
+        "ratingStar": "4.9",
+        "shopName": "rcacomercial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260n-ml4ey8056v45bd",
+        "productLink": "https://shopee.com.br/product/1377920727/23799355108",
+        "offerLink": "https://s.shopee.com.br/W6yJO7YNq"
       },
       "_last_price": null
     },
@@ -18868,35 +18925,6 @@
       "_last_price": null
     },
     {
-      "id": "23799355108",
-      "name": "Caminhão Dinossauro Dino Engole Carrinhos Brinquedo Infantil Menino Kit Presente",
-      "price": 109.99,
-      "original_price": 189.64,
-      "discount": 42.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8260n-ml4ey8056v45bd",
-      "link": "https://s.shopee.com.br/W6yJO7YNq",
-      "rating": "4.9",
-      "sales": 851,
-      "shop": "rcacomercial",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23799355108,
-        "productName": "Caminhão Dinossauro Dino Engole Carrinhos Brinquedo Infantil Menino Kit Presente",
-        "price": "109.99",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.07",
-        "sales": 851,
-        "ratingStar": "4.9",
-        "shopName": "rcacomercial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260n-ml4ey8056v45bd",
-        "productLink": "https://shopee.com.br/product/1377920727/23799355108",
-        "offerLink": "https://s.shopee.com.br/W6yJO7YNq"
-      },
-      "_last_price": null
-    },
-    {
       "id": "29392573808",
       "name": "Whiskas Sachê 85g – 16 Unid +4 Grátis Leve 20",
       "price": 45.9,
@@ -19077,7 +19105,7 @@
       "original_price": 94.66,
       "discount": 42.0,
       "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lk-msy1v6ausykn5b",
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mtpeump4aosj02",
       "link": "https://s.shopee.com.br/6q11r5Lceu",
       "rating": "4.9",
       "sales": 3450,
@@ -19093,7 +19121,7 @@
         "sales": 3450,
         "ratingStar": "4.9",
         "shopName": "Club_Happy",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-msy1v6ausykn5b",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtpeump4aosj02",
         "productLink": "https://shopee.com.br/product/499950777/14263042301",
         "offerLink": "https://s.shopee.com.br/6q11r5Lceu"
       },
@@ -19212,6 +19240,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822ys-mic0mday5ipwf1",
         "productLink": "https://shopee.com.br/product/1552226494/23799229847",
         "offerLink": "https://s.shopee.com.br/20vm63LnTE"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22097785703",
+      "name": "Amplificador de sinal Wi-Fi repetidor e roteador sem fio rede sem fio através da parede Dupla pressão/2.4G - G8",
+      "price": 52.9,
+      "original_price": 89.66,
+      "discount": 41.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgekr6unijus5f",
+      "link": "https://s.shopee.com.br/3B7jUD3oxy",
+      "rating": "4.8",
+      "sales": 2309,
+      "shop": "JR905",
+      "category": "roteador wifi",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22097785703,
+        "productName": "Amplificador de sinal Wi-Fi repetidor e roteador sem fio rede sem fio através da parede Dupla pressão/2.4G - G8",
+        "price": "52.9",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.11",
+        "sales": 2309,
+        "ratingStar": "4.8",
+        "shopName": "JR905",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgekr6unijus5f",
+        "productLink": "https://shopee.com.br/product/1217782773/22097785703",
+        "offerLink": "https://s.shopee.com.br/3B7jUD3oxy"
       },
       "_last_price": null
     },
@@ -23568,8 +23625,8 @@
     {
       "id": "22298895580",
       "name": "Novo 2026 Caminhão Dinossauro engolidor e Porta-carrinhos com 4 Carrinhos de Fricção.🚚",
-      "price": 63.88,
-      "original_price": 98.28,
+      "price": 63.99,
+      "original_price": 98.45,
       "discount": 35.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me9bc6uzn1ts52",
@@ -23582,7 +23639,7 @@
       "_item": {
         "itemId": 22298895580,
         "productName": "Novo 2026 Caminhão Dinossauro engolidor e Porta-carrinhos com 4 Carrinhos de Fricção.🚚",
-        "price": "63.88",
+        "price": "63.99",
         "priceDiscountRate": 35,
         "commissionRate": "0.03",
         "sales": 941,
@@ -23939,35 +23996,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82583-mr0g4fo4zeh1b2",
         "productLink": "https://shopee.com.br/product/1552226494/58214849311",
         "offerLink": "https://s.shopee.com.br/5fp8AfaTba"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22397902815",
-      "name": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
-      "price": 26.5,
-      "original_price": 40.15,
-      "discount": 34.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
-      "link": "https://s.shopee.com.br/30oJHw7uUa",
-      "rating": "4.9",
-      "sales": 3403,
-      "shop": "MANIAPLAST",
-      "category": "desinfetante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22397902815,
-        "productName": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
-        "price": "26.5",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.1",
-        "sales": 3403,
-        "ratingStar": "4.9",
-        "shopName": "MANIAPLAST",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
-        "productLink": "https://shopee.com.br/product/882971017/22397902815",
-        "offerLink": "https://s.shopee.com.br/30oJHw7uUa"
       },
       "_last_price": null
     },
@@ -25219,35 +25247,6 @@
       "_last_price": null
     },
     {
-      "id": "22396235066",
-      "name": "Lava Roupas Liquido Urca Lavanda - 5L",
-      "price": 26.96,
-      "original_price": 39.65,
-      "discount": 32.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7qvfx-lki79klhmzcp46",
-      "link": "https://s.shopee.com.br/2BFCJir5bE",
-      "rating": "4.9",
-      "sales": 1812,
-      "shop": "Casa de Gê",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22396235066,
-        "productName": "Lava Roupas Liquido Urca Lavanda - 5L",
-        "price": "26.96",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.13",
-        "sales": 1812,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvfx-lki79klhmzcp46",
-        "productLink": "https://shopee.com.br/product/534023108/22396235066",
-        "offerLink": "https://s.shopee.com.br/2BFCJir5bE"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58213273842",
       "name": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
       "price": 12.99,
@@ -25621,35 +25620,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259t-mruwx0azd3wi1f",
         "productLink": "https://shopee.com.br/product/1289782165/58216188927",
         "offerLink": "https://s.shopee.com.br/3VkdafIWZR"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22097785703",
-      "name": "Amplificador de sinal Wi-Fi repetidor e roteador sem fio rede sem fio através da parede Dupla pressão/2.4G - G8",
-      "price": 61.99,
-      "original_price": 89.84,
-      "discount": 31.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgekr6unijus5f",
-      "link": "https://s.shopee.com.br/3B7jUD3oxy",
-      "rating": "4.8",
-      "sales": 2309,
-      "shop": "JR905",
-      "category": "roteador wifi",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22097785703,
-        "productName": "Amplificador de sinal Wi-Fi repetidor e roteador sem fio rede sem fio através da parede Dupla pressão/2.4G - G8",
-        "price": "61.99",
-        "priceDiscountRate": 31,
-        "commissionRate": "0.11",
-        "sales": 2309,
-        "ratingStar": "4.8",
-        "shopName": "JR905",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgekr6unijus5f",
-        "productLink": "https://shopee.com.br/product/1217782773/22097785703",
-        "offerLink": "https://s.shopee.com.br/3B7jUD3oxy"
       },
       "_last_price": null
     },
@@ -26230,6 +26200,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-moy8ifkag4cg98",
         "productLink": "https://shopee.com.br/product/998773037/22098500509",
         "offerLink": "https://s.shopee.com.br/gQOVcmKXk"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22397902815",
+      "name": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
+      "price": 27.99,
+      "original_price": 39.99,
+      "discount": 30.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
+      "link": "https://s.shopee.com.br/30oJHw7uUa",
+      "rating": "4.9",
+      "sales": 3403,
+      "shop": "MANIAPLAST",
+      "category": "desinfetante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22397902815,
+        "productName": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
+        "price": "27.99",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.1",
+        "sales": 3403,
+        "ratingStar": "4.9",
+        "shopName": "MANIAPLAST",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
+        "productLink": "https://shopee.com.br/product/882971017/22397902815",
+        "offerLink": "https://s.shopee.com.br/30oJHw7uUa"
       },
       "_last_price": null
     },
@@ -28873,6 +28872,35 @@
       "_last_price": null
     },
     {
+      "id": "22396235066",
+      "name": "Lava Roupas Liquido Urca Lavanda - 5L",
+      "price": 29.9,
+      "original_price": 39.34,
+      "discount": 24.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7qvfx-lki79klhmzcp46",
+      "link": "https://s.shopee.com.br/2BFCJir5bE",
+      "rating": "4.9",
+      "sales": 1812,
+      "shop": "Casa de Gê",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22396235066,
+        "productName": "Lava Roupas Liquido Urca Lavanda - 5L",
+        "price": "29.9",
+        "priceDiscountRate": 24,
+        "commissionRate": "0.13",
+        "sales": 1812,
+        "ratingStar": "4.9",
+        "shopName": "Casa de Gê",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvfx-lki79klhmzcp46",
+        "productLink": "https://shopee.com.br/product/534023108/22396235066",
+        "offerLink": "https://s.shopee.com.br/2BFCJir5bE"
+      },
+      "_last_price": null
+    },
+    {
       "id": "10951188066",
       "name": "Amaciante Urca Brisa Azul - 5l",
       "price": 18.49,
@@ -29971,35 +29999,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6t32ri0qh3fd",
         "productLink": "https://shopee.com.br/product/1147219225/22298770966",
         "offerLink": "https://s.shopee.com.br/AKau1P2X61"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23796239641",
-      "name": "Lava Roupas Liquido Urca Lavanda - 3L",
-      "price": 19.9,
-      "original_price": 25.19,
-      "discount": 21.0,
-      "commission": 15.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7qvfm-lj2s2shmqq5z23",
-      "link": "https://s.shopee.com.br/2Vs2h0WLzk",
-      "rating": "4.9",
-      "sales": 1275,
-      "shop": "Casa de Gê",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23796239641,
-        "productName": "Lava Roupas Liquido Urca Lavanda - 3L",
-        "price": "19.9",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.15",
-        "sales": 1275,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvfm-lj2s2shmqq5z23",
-        "productLink": "https://shopee.com.br/product/534023108/23796239641",
-        "offerLink": "https://s.shopee.com.br/2Vs2h0WLzk"
       },
       "_last_price": null
     },
