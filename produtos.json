@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T04:29:19.998064+00:00",
+  "updated_at": "2026-09-29T04:48:18.723839+00:00",
   "total": 1139,
   "products": [
     {
@@ -2776,7 +2776,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-msfziyqwdhxj02",
         "productLink": "https://shopee.com.br/product/897488659/58217170539",
         "offerLink": "https://s.shopee.com.br/1VzY9ePyJV"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23093824562",
@@ -3413,35 +3414,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mj9nvm63moee73",
         "productLink": "https://shopee.com.br/product/1613783173/51004391053",
         "offerLink": "https://s.shopee.com.br/7KxKXwqAy7"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23099202898",
-      "name": "Casinha Pet Resistente | Portátil Dobrável Grande para Cães e Gatos",
-      "price": 47.85,
-      "original_price": 149.53,
-      "discount": 68.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-822xf-mi4k1qf3ez2fc6",
-      "link": "https://s.shopee.com.br/7faB7A9QW6",
-      "rating": "4.9",
-      "sales": 536,
-      "shop": "MY COMERCIO",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23099202898,
-        "productName": "Casinha Pet Resistente | Portátil Dobrável Grande para Cães e Gatos",
-        "price": "47.85",
-        "priceDiscountRate": 68,
-        "commissionRate": "0.03",
-        "sales": 536,
-        "ratingStar": "4.9",
-        "shopName": "MY COMERCIO",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xf-mi4k1qf3ez2fc6",
-        "productLink": "https://shopee.com.br/product/371656735/23099202898",
-        "offerLink": "https://s.shopee.com.br/7faB7A9QW6"
       },
       "_last_price": null
     },
@@ -5759,6 +5731,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823ol-mp4l204vwxdt28",
         "productLink": "https://shopee.com.br/product/230709939/24612462303",
         "offerLink": "https://s.shopee.com.br/4B0Im82EOg"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20899842747",
+      "name": "MIW Casinha Para Pets Gatos Grande Dobrável Portátil Fácil armazenamento",
+      "price": 55.9,
+      "original_price": 151.08,
+      "discount": 63.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcg3jc4sr6xsfd",
+      "link": "https://s.shopee.com.br/113EuL0Izf",
+      "rating": "4.9",
+      "sales": 701,
+      "shop": "Max Casa",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20899842747,
+        "productName": "MIW Casinha Para Pets Gatos Grande Dobrável Portátil Fácil armazenamento",
+        "price": "55.9",
+        "priceDiscountRate": 63,
+        "commissionRate": "0.09",
+        "sales": 701,
+        "ratingStar": "4.9",
+        "shopName": "Max Casa",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcg3jc4sr6xsfd",
+        "productLink": "https://shopee.com.br/product/1221820593/20899842747",
+        "offerLink": "https://s.shopee.com.br/113EuL0Izf"
       },
       "_last_price": null
     },
