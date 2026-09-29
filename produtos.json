@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T04:10:27.858423+00:00",
+  "updated_at": "2026-09-29T04:29:19.998064+00:00",
   "total": 1139,
   "products": [
     {
@@ -644,7 +644,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
       "link": "https://s.shopee.com.br/1Lg5Ir1b4w",
-      "rating": "4.9",
+      "rating": "5",
       "sales": 543,
       "shop": "TNTinfoLoja",
       "category": "fonte atx",
@@ -656,7 +656,7 @@
         "priceDiscountRate": 80,
         "commissionRate": "0.03",
         "sales": 543,
-        "ratingStar": "4.9",
+        "ratingStar": "5",
         "shopName": "TNTinfoLoja",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
         "productLink": "https://shopee.com.br/product/344381236/57911938287",
@@ -4862,7 +4862,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-msd2spm12fif23",
         "productLink": "https://shopee.com.br/product/1768484381/58261211761",
         "offerLink": "https://s.shopee.com.br/AKau1TeRg4"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22098143818",
