@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T02:16:18.534978+00:00",
+  "updated_at": "2026-09-29T02:35:27.478320+00:00",
   "total": 1133,
   "products": [
     {
@@ -85,8 +85,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zy-mkjta30g8s1vfe",
         "productLink": "https://shopee.com.br/product/1719334016/22194876950",
         "offerLink": "https://s.shopee.com.br/4B0GgHyHoQ"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58257273463",
@@ -721,35 +720,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
         "productLink": "https://shopee.com.br/product/1266325318/21897981294",
         "offerLink": "https://s.shopee.com.br/3g42BBZjzL"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23294866358",
-      "name": "Creatina DUX 300g - 100% Pura com SELO CREAPURE Reconhecido pela ANVISA",
-      "price": 49.0,
-      "original_price": 245.0,
-      "discount": 80.0,
-      "commission": 17.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mldt9agkd2x0c0",
-      "link": "https://s.shopee.com.br/gQOVhg7IQ",
-      "rating": "4.9",
-      "sales": 1317,
-      "shop": "EMPORIUM.LIFE",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23294866358,
-        "productName": "Creatina DUX 300g - 100% Pura com SELO CREAPURE Reconhecido pela ANVISA",
-        "price": "49",
-        "priceDiscountRate": 80,
-        "commissionRate": "0.17",
-        "sales": 1317,
-        "ratingStar": "4.9",
-        "shopName": "EMPORIUM.LIFE",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mldt9agkd2x0c0",
-        "productLink": "https://shopee.com.br/product/1082873638/23294866358",
-        "offerLink": "https://s.shopee.com.br/gQOVhg7IQ"
       },
       "_last_price": null
     },
@@ -3094,7 +3064,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820m4-mnkc728pehag67",
         "productLink": "https://shopee.com.br/product/372103398/23199448516",
         "offerLink": "https://s.shopee.com.br/2Vs2hC5N0F"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22693260071",
@@ -6804,6 +6775,34 @@
       }
     },
     {
+      "id": "22193667311",
+      "name": "Kit Karssellé - Shampoo 1LT + Condicionador 1LT + Máscara 500g + Oleo 7ml OU 60ml",
+      "price": 38.99,
+      "original_price": 99.97,
+      "discount": 61.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mrm0k1f8sj5zd3",
+      "link": "https://s.shopee.com.br/3LRCQG2Ago",
+      "rating": "4.7",
+      "sales": 1253,
+      "shop": "Valorosa Beauty Hair",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22193667311,
+        "productName": "Kit Karssellé - Shampoo 1LT + Condicionador 1LT + Máscara 500g + Oleo 7ml OU 60ml",
+        "price": "38.99",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.18",
+        "sales": 1253,
+        "ratingStar": "4.7",
+        "shopName": "Valorosa Beauty Hair",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mrm0k1f8sj5zd3",
+        "productLink": "https://shopee.com.br/product/1142099481/22193667311",
+        "offerLink": "https://s.shopee.com.br/3LRCQG2Ago"
+      }
+    },
+    {
       "id": "9830388367",
       "name": "Mochila Maternidade Bolsa Mamãe Bebê Multifunção",
       "price": 27.55,
@@ -10435,7 +10434,7 @@
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-82626-mm9sym8py58v5c",
       "link": "https://s.shopee.com.br/6fhbelDzz5",
-      "rating": "4.7",
+      "rating": "4.8",
       "sales": 8547,
       "shop": "Universo do Lar*",
       "category": "air fryer",
@@ -10447,7 +10446,7 @@
         "priceDiscountRate": 54,
         "commissionRate": "0.13",
         "sales": 8547,
-        "ratingStar": "4.7",
+        "ratingStar": "4.8",
         "shopName": "Universo do Lar*",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82626-mm9sym8py58v5c",
         "productLink": "https://shopee.com.br/product/1619812344/58207663151",
@@ -20288,7 +20287,7 @@
     },
     {
       "id": "58257194705",
-      "name": "Panela de pressão de aço inoxidável compatível com múltiplos modelos, com sistema à prova de explosão e ajuste de cozime",
+      "name": "Panela de Pressão Inox 6L 10L - Sistema Antiexplosão - 3 Níveis - Cozimento Rápido e Fácil",
       "price": 319.0,
       "original_price": 531.67,
       "discount": 40.0,
@@ -20302,7 +20301,7 @@
       "source": "shopee",
       "_item": {
         "itemId": 58257194705,
-        "productName": "Panela de pressão de aço inoxidável compatível com múltiplos modelos, com sistema à prova de explosão e ajuste de cozime",
+        "productName": "Panela de Pressão Inox 6L 10L - Sistema Antiexplosão - 3 Níveis - Cozimento Rápido e Fácil",
         "price": "319",
         "priceDiscountRate": 40,
         "commissionRate": "0.13",
@@ -23704,6 +23703,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mr8u4l76wxl3cd",
         "productLink": "https://shopee.com.br/product/1654851165/22199484096",
         "offerLink": "https://s.shopee.com.br/40gswL6WEB"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "46408341183",
+      "name": "Creatina Monohidratada DUX Nutrition 100% Pura Original Hipertrofia Academia Fitness",
+      "price": 47.9,
+      "original_price": 72.58,
+      "discount": 34.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lq-molilwsui7er94",
+      "link": "https://s.shopee.com.br/3B7lmBlAyT",
+      "rating": "4.8",
+      "sales": 1369,
+      "shop": "REPZILLA",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 46408341183,
+        "productName": "Creatina Monohidratada DUX Nutrition 100% Pura Original Hipertrofia Academia Fitness",
+        "price": "47.9",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.03",
+        "sales": 1369,
+        "ratingStar": "4.8",
+        "shopName": "REPZILLA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-molilwsui7er94",
+        "productLink": "https://shopee.com.br/product/1527568519/46408341183",
+        "offerLink": "https://s.shopee.com.br/3B7lmBlAyT"
       },
       "_last_price": null
     },
@@ -31662,7 +31690,7 @@
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mtjm0hez46blbb",
       "link": "https://s.shopee.com.br/2qUt6woYFI",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 1331,
       "shop": "Vitrine360",
       "category": "condicionador",
@@ -31674,7 +31702,7 @@
         "priceDiscountRate": 17,
         "commissionRate": "0.12",
         "sales": 1331,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "Vitrine360",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mtjm0hez46blbb",
         "productLink": "https://shopee.com.br/product/1386679095/50813987839",
@@ -32230,35 +32258,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mskcqn1114w454",
         "productLink": "https://shopee.com.br/product/1043921872/58266635989",
         "offerLink": "https://s.shopee.com.br/2Vs2gz6MKA"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18998573561",
-      "name": "Amaciante Ruth Care Colinho da Vovó - 1l",
-      "price": 7.48,
-      "original_price": 8.8,
-      "discount": 15.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbmo-lneo8slh76y975",
-      "link": "https://s.shopee.com.br/7AdsGuY3Rn",
-      "rating": "4.9",
-      "sales": 3975,
-      "shop": "Casa de Gê",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18998573561,
-        "productName": "Amaciante Ruth Care Colinho da Vovó - 1l",
-        "price": "7.48",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.18",
-        "sales": 3975,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbmo-lneo8slh76y975",
-        "productLink": "https://shopee.com.br/product/534023108/18998573561",
-        "offerLink": "https://s.shopee.com.br/7AdsGuY3Rn"
       },
       "_last_price": null
     },
