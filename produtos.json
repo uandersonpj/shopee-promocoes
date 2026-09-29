@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T08:34:23.208205+00:00",
+  "updated_at": "2026-09-29T08:53:14.722662+00:00",
   "total": 1139,
   "products": [
     {
@@ -144,7 +144,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1zzq6l901gfa2",
         "productLink": "https://shopee.com.br/product/322874822/23797686527",
         "offerLink": "https://s.shopee.com.br/20vm6DDMEX"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23593603405",
@@ -5772,35 +5773,6 @@
       "_last_price": null
     },
     {
-      "id": "19297147366",
-      "name": "Espremedor Elétrico Industrial Inox p/ Suco de Laranja, Limão e Frutas com Copo Incluso",
-      "price": 54.99,
-      "original_price": 148.62,
-      "discount": 63.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lj60650831dc5a",
-      "link": "https://s.shopee.com.br/qjoi39TMO",
-      "rating": "4.5",
-      "sales": 2618,
-      "shop": "ZSZ_brasil",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19297147366,
-        "productName": "Espremedor Elétrico Industrial Inox p/ Suco de Laranja, Limão e Frutas com Copo Incluso",
-        "price": "54.99",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.09",
-        "sales": 2618,
-        "ratingStar": "4.5",
-        "shopName": "ZSZ_brasil",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lj60650831dc5a",
-        "productLink": "https://shopee.com.br/product/390307022/19297147366",
-        "offerLink": "https://s.shopee.com.br/qjoi39TMO"
-      },
-      "_last_price": null
-    },
-    {
       "id": "21997222833",
       "name": "Tênis Meia Feminino Calce Fácil Botinha Ortopédico Esportivo Sneaker Slip On Casual confortável Academia",
       "price": 22.0,
@@ -6870,6 +6842,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mrx63z3it9mubf",
         "productLink": "https://shopee.com.br/product/1862403124/58265090177",
         "offerLink": "https://s.shopee.com.br/gQOVj1ZfZ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19297147366",
+      "name": "Espremedor Elétrico Industrial Inox p/ Suco de Laranja, Limão e Frutas com Copo Incluso",
+      "price": 58.99,
+      "original_price": 151.26,
+      "discount": 61.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lj60650831dc5a",
+      "link": "https://s.shopee.com.br/qjoi39TMO",
+      "rating": "4.5",
+      "sales": 2618,
+      "shop": "ZSZ_brasil",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19297147366,
+        "productName": "Espremedor Elétrico Industrial Inox p/ Suco de Laranja, Limão e Frutas com Copo Incluso",
+        "price": "58.99",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.09",
+        "sales": 2618,
+        "ratingStar": "4.5",
+        "shopName": "ZSZ_brasil",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lj60650831dc5a",
+        "productLink": "https://shopee.com.br/product/390307022/19297147366",
+        "offerLink": "https://s.shopee.com.br/qjoi39TMO"
       },
       "_last_price": null
     },
