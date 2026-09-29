@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T03:32:41.731097+00:00",
-  "total": 1136,
+  "updated_at": "2026-09-29T03:51:30.327803+00:00",
+  "total": 1139,
   "products": [
     {
       "id": "50203126324",
@@ -371,7 +371,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823p5-mp4meqki2g3k68",
         "productLink": "https://shopee.com.br/product/1006215031/47000945292",
         "offerLink": "https://s.shopee.com.br/3g405KRrta"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58258026087",
@@ -3619,35 +3620,6 @@
       "_last_price": null
     },
     {
-      "id": "43156498472",
-      "name": "Carretilha Moinho de Pesca HE 1000-7000 Metal EVA 10kg Máximo Água Salada Oceano Carretel Metálico",
-      "price": 25.99,
-      "original_price": 81.22,
-      "discount": 68.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ra2c-mbjbdak57b6edb",
-      "link": "https://s.shopee.com.br/4qFxTQtELv",
-      "rating": "4.7",
-      "sales": 193,
-      "shop": "Luxo Acessível Shop",
-      "category": "carretilha pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 43156498472,
-        "productName": "Carretilha Moinho de Pesca HE 1000-7000 Metal EVA 10kg Máximo Água Salada Oceano Carretel Metálico",
-        "price": "25.99",
-        "priceDiscountRate": 68,
-        "commissionRate": "0.09",
-        "sales": 193,
-        "ratingStar": "4.7",
-        "shopName": "Luxo Acessível Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra2c-mbjbdak57b6edb",
-        "productLink": "https://shopee.com.br/product/1259156762/43156498472",
-        "offerLink": "https://s.shopee.com.br/4qFxTQtELv"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23026990667",
       "name": "Isca De Pesca 15g 13g 8g 5g Rã Thunder Frog Com Falsa Anzol Duplo De Aço De Alto Carbono Macia Cor Da Cauda",
       "price": 4.08,
@@ -4575,6 +4547,35 @@
       "_last_price": null
     },
     {
+      "id": "23494180407",
+      "name": "Carretilha Moinho de Pesca HE 1000-7000 Metal EVA 10kg Máximo Água Salada Oceano Carretel Metálico",
+      "price": 26.97,
+      "original_price": 79.32,
+      "discount": 66.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ra1a-mbjbbhgogn4q6c",
+      "link": "https://s.shopee.com.br/1VzYTXkvxQ",
+      "rating": "4.7",
+      "sales": 258,
+      "shop": "DiaEconômico",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23494180407,
+        "productName": "Carretilha Moinho de Pesca HE 1000-7000 Metal EVA 10kg Máximo Água Salada Oceano Carretel Metálico",
+        "price": "26.97",
+        "priceDiscountRate": 66,
+        "commissionRate": "0.1",
+        "sales": 258,
+        "ratingStar": "4.7",
+        "shopName": "DiaEconômico",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra1a-mbjbbhgogn4q6c",
+        "productLink": "https://shopee.com.br/product/1398716274/23494180407",
+        "offerLink": "https://s.shopee.com.br/1VzYTXkvxQ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "42806494664",
       "name": "Molinete HE Série 1000-7000 Carretel em Metal Empunhadura EVA 10kg Limite Marítimo Oceânico",
       "price": 26.97,
@@ -4716,6 +4717,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mqbjmgp0hk3l6a",
         "productLink": "https://shopee.com.br/product/1639572229/58206623391",
         "offerLink": "https://s.shopee.com.br/60RurdnAoD"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "26184218965",
+      "name": "SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max Baby P/M/G/XG/XXG/XXXG",
+      "price": 69.0,
+      "original_price": 197.14,
+      "discount": 65.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m9gssu7qhbpud3",
+      "link": "https://s.shopee.com.br/6AlL3nUAxw",
+      "rating": "4.9",
+      "sales": 2609,
+      "shop": "BE_LOVE.br",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 26184218965,
+        "productName": "SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max Baby P/M/G/XG/XXG/XXXG",
+        "price": "69",
+        "priceDiscountRate": 65,
+        "commissionRate": "0.03",
+        "sales": 2609,
+        "ratingStar": "4.9",
+        "shopName": "BE_LOVE.br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m9gssu7qhbpud3",
+        "productLink": "https://shopee.com.br/product/1509457194/26184218965",
+        "offerLink": "https://s.shopee.com.br/6AlL3nUAxw"
       },
       "_last_price": null
     },
@@ -14511,6 +14541,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7jsf5ww63le2e",
         "productLink": "https://shopee.com.br/product/761647073/22893843635",
         "offerLink": "https://s.shopee.com.br/2BFCIM3dIN"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23693480962",
+      "name": "Placa adaptadora FENVI M.2 NVME SSD para PCIE X1, placa de expansão SSD PCIe 3.0 4.0 para PC",
+      "price": 31.0,
+      "original_price": 59.62,
+      "discount": 48.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1j18cq91c081d",
+      "link": "https://s.shopee.com.br/70KUP9rHhs",
+      "rating": "4.9",
+      "sales": 29,
+      "shop": "E-AOS",
+      "category": "ssd nvme",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23693480962,
+        "productName": "Placa adaptadora FENVI M.2 NVME SSD para PCIE X1, placa de expansão SSD PCIe 3.0 4.0 para PC",
+        "price": "31",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.03",
+        "sales": 29,
+        "ratingStar": "4.9",
+        "shopName": "E-AOS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1j18cq91c081d",
+        "productLink": "https://shopee.com.br/product/576268811/23693480962",
+        "offerLink": "https://s.shopee.com.br/70KUP9rHhs"
       },
       "_last_price": null
     },
@@ -29968,6 +30027,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6t32ri0qh3fd",
         "productLink": "https://shopee.com.br/product/1147219225/22298770966",
         "offerLink": "https://s.shopee.com.br/AKau1P2X61"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23796239641",
+      "name": "Lava Roupas Liquido Urca Lavanda - 3L",
+      "price": 19.9,
+      "original_price": 25.19,
+      "discount": 21.0,
+      "commission": 15.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7qvfm-lj2s2shmqq5z23",
+      "link": "https://s.shopee.com.br/2Vs2h0WLzk",
+      "rating": "4.9",
+      "sales": 1275,
+      "shop": "Casa de Gê",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23796239641,
+        "productName": "Lava Roupas Liquido Urca Lavanda - 3L",
+        "price": "19.9",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.15",
+        "sales": 1275,
+        "ratingStar": "4.9",
+        "shopName": "Casa de Gê",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvfm-lj2s2shmqq5z23",
+        "productLink": "https://shopee.com.br/product/534023108/23796239641",
+        "offerLink": "https://s.shopee.com.br/2Vs2h0WLzk"
       },
       "_last_price": null
     },
