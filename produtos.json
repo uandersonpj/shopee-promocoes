@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T04:48:18.723839+00:00",
+  "updated_at": "2026-09-29T05:07:14.153389+00:00",
   "total": 1139,
   "products": [
     {
@@ -4023,7 +4023,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mtape51h6ubnc7",
         "productLink": "https://shopee.com.br/product/1758772368/58213479973",
         "offerLink": "https://s.shopee.com.br/9zy5hZYPLQ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "18998941239",
@@ -11909,35 +11910,6 @@
       "_last_price": null
     },
     {
-      "id": "22392157748",
-      "name": "Ração Fórmula Natural Pro Cães Sênior Porte Mini e Pequeno 10,1kg Adimax",
-      "price": 143.98,
-      "original_price": 299.96,
-      "discount": 52.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0knrwoe0w475",
-      "link": "https://s.shopee.com.br/20vorAUIyZ",
-      "rating": "4.9",
-      "sales": 419,
-      "shop": "GP ECOMMERCE.",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22392157748,
-        "productName": "Ração Fórmula Natural Pro Cães Sênior Porte Mini e Pequeno 10,1kg Adimax",
-        "price": "143.98",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 419,
-        "ratingStar": "4.9",
-        "shopName": "GP ECOMMERCE.",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0knrwoe0w475",
-        "productLink": "https://shopee.com.br/product/442964228/22392157748",
-        "offerLink": "https://s.shopee.com.br/20vorAUIyZ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58205435109",
       "name": "Coleira Guia Retrátil 3/5 Metros Pets Cachorro Cães Gatos Resistente com Trava até 12kg",
       "price": 14.9,
@@ -14921,6 +14893,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxtrwh5co6gv6b",
         "productLink": "https://shopee.com.br/product/378555563/18597631235",
         "offerLink": "https://s.shopee.com.br/AAHTpAf515"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22393946495",
+      "name": "Ração Quatree Gourmet Cães Adultos Carne - 15Kg",
+      "price": 93.9,
+      "original_price": 180.58,
+      "discount": 48.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9n4kl7yznm38",
+      "link": "https://s.shopee.com.br/9fLDEFu2sH",
+      "rating": "4.9",
+      "sales": 552,
+      "shop": "mypetone",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22393946495,
+        "productName": "Ração Quatree Gourmet Cães Adultos Carne - 15Kg",
+        "price": "93.9",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.11",
+        "sales": 552,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9n4kl7yznm38",
+        "productLink": "https://shopee.com.br/product/290073877/22393946495",
+        "offerLink": "https://s.shopee.com.br/9fLDEFu2sH"
       },
       "_last_price": null
     },
@@ -24149,8 +24150,8 @@
     {
       "id": "58254463290",
       "name": "Ração Special Dog Ultralife Performance 20kg Cães Adultos Carne e Frango Premium Alta Nutrição",
-      "price": 171.9,
-      "original_price": 260.45,
+      "price": 171.8,
+      "original_price": 260.3,
       "discount": 34.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lo-msho1bjgdts6a2",
@@ -24163,7 +24164,7 @@
       "_item": {
         "itemId": 58254463290,
         "productName": "Ração Special Dog Ultralife Performance 20kg Cães Adultos Carne e Frango Premium Alta Nutrição",
-        "price": "171.9",
+        "price": "171.8",
         "priceDiscountRate": 34,
         "commissionRate": "0.03",
         "sales": 1221,
