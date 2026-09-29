@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T06:41:26.495186+00:00",
+  "updated_at": "2026-09-29T07:00:13.436232+00:00",
   "total": 1139,
   "products": [
     {
@@ -1880,7 +1880,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mr1t2m2rfa4n0c",
         "productLink": "https://shopee.com.br/product/1232299933/47314807051",
         "offerLink": "https://s.shopee.com.br/qjpsAtUwN"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "41314419184",
@@ -6170,35 +6171,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvb-mn36o785y4g0a4",
         "productLink": "https://shopee.com.br/product/1569849623/58262310122",
         "offerLink": "https://s.shopee.com.br/113EuDuGRr"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58260576959",
-      "name": "Teclado Mecânico Gamer RGB 68 Teclas Eixo Vermelho USB+2.4G+BT ABNT2 TK08",
-      "price": 149.99,
-      "original_price": 394.71,
-      "discount": 62.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mos2w4d46ww35f",
-      "link": "https://s.shopee.com.br/AUuKDgtVDm",
-      "rating": "5",
-      "sales": 262,
-      "shop": "TechLar-MGS",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58260576959,
-        "productName": "Teclado Mecânico Gamer RGB 68 Teclas Eixo Vermelho USB+2.4G+BT ABNT2 TK08",
-        "price": "149.99",
-        "priceDiscountRate": 62,
-        "commissionRate": "0.13",
-        "sales": 262,
-        "ratingStar": "5",
-        "shopName": "TechLar-MGS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mos2w4d46ww35f",
-        "productLink": "https://shopee.com.br/product/1814169023/58260576959",
-        "offerLink": "https://s.shopee.com.br/AUuKDgtVDm"
       },
       "_last_price": null
     },
@@ -18812,6 +18784,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zq-mlxr0ux3s9vlaa",
         "productLink": "https://shopee.com.br/product/462357424/58207075045",
         "offerLink": "https://s.shopee.com.br/5VVgcPnis6"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23894091776",
+      "name": "Teclado Gamer Mecânico 60% Switch Azul Profissional Cabo Removível USB Portugues ABNT2 Branco",
+      "price": 115.9,
+      "original_price": 199.83,
+      "discount": 42.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9s454j1o8y54",
+      "link": "https://s.shopee.com.br/1Akcf1jJU",
+      "rating": "4.9",
+      "sales": 164,
+      "shop": "MixMania BR",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23894091776,
+        "productName": "Teclado Gamer Mecânico 60% Switch Azul Profissional Cabo Removível USB Portugues ABNT2 Branco",
+        "price": "115.9",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.07",
+        "sales": 164,
+        "ratingStar": "4.9",
+        "shopName": "MixMania BR",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9s454j1o8y54",
+        "productLink": "https://shopee.com.br/product/1447668497/23894091776",
+        "offerLink": "https://s.shopee.com.br/1Akcf1jJU"
       },
       "_last_price": null
     },
