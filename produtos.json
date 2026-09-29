@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T06:03:46.961580+00:00",
-  "total": 1138,
+  "updated_at": "2026-09-29T06:22:37.048508+00:00",
+  "total": 1139,
   "products": [
     {
       "id": "50203126324",
@@ -28,7 +28,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822zt-mia9h90fnksi38",
         "productLink": "https://shopee.com.br/product/450664666/50203126324",
         "offerLink": "https://s.shopee.com.br/AAHW74Sr3N"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "52011120312",
@@ -1299,7 +1300,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mqye5nm7jfgl34",
         "productLink": "https://shopee.com.br/product/1730841213/58214760211",
         "offerLink": "https://s.shopee.com.br/30oLPSRFQU"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22199473513",
@@ -11912,6 +11914,35 @@
       "_last_price": null
     },
     {
+      "id": "22392157748",
+      "name": "Ração Fórmula Natural Pro Cães Sênior Porte Mini e Pequeno 10,1kg Adimax",
+      "price": 143.98,
+      "original_price": 299.96,
+      "discount": 52.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0knrwoe0w475",
+      "link": "https://s.shopee.com.br/20vorAUIyZ",
+      "rating": "4.9",
+      "sales": 419,
+      "shop": "GP ECOMMERCE.",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22392157748,
+        "productName": "Ração Fórmula Natural Pro Cães Sênior Porte Mini e Pequeno 10,1kg Adimax",
+        "price": "143.98",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.03",
+        "sales": 419,
+        "ratingStar": "4.9",
+        "shopName": "GP ECOMMERCE.",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0knrwoe0w475",
+        "productLink": "https://shopee.com.br/product/442964228/22392157748",
+        "offerLink": "https://s.shopee.com.br/20vorAUIyZ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58205435109",
       "name": "Coleira Guia Retrátil 3/5 Metros Pets Cachorro Cães Gatos Resistente com Trava até 12kg",
       "price": 14.9,
@@ -14895,35 +14926,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxtrwh5co6gv6b",
         "productLink": "https://shopee.com.br/product/378555563/18597631235",
         "offerLink": "https://s.shopee.com.br/AAHTpAf515"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22393946495",
-      "name": "Ração Quatree Gourmet Cães Adultos Carne - 15Kg",
-      "price": 93.9,
-      "original_price": 180.58,
-      "discount": 48.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9n4kl7yznm38",
-      "link": "https://s.shopee.com.br/9fLDEFu2sH",
-      "rating": "4.9",
-      "sales": 552,
-      "shop": "mypetone",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22393946495,
-        "productName": "Ração Quatree Gourmet Cães Adultos Carne - 15Kg",
-        "price": "93.9",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.11",
-        "sales": 552,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9n4kl7yznm38",
-        "productLink": "https://shopee.com.br/product/290073877/22393946495",
-        "offerLink": "https://s.shopee.com.br/9fLDEFu2sH"
       },
       "_last_price": null
     },
@@ -18120,8 +18122,8 @@
     {
       "id": "22998029026",
       "name": "Easyfresh Bouquet Facilitador Finalizador Passar Roupas e Tecidos Passadoria Lavanderia 1l Spartan",
-      "price": 30.88,
-      "original_price": 54.18,
+      "price": 30.89,
+      "original_price": 54.19,
       "discount": 43.0,
       "commission": 21.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfsnogvj5wqs3d",
@@ -18134,7 +18136,7 @@
       "_item": {
         "itemId": 22998029026,
         "productName": "Easyfresh Bouquet Facilitador Finalizador Passar Roupas e Tecidos Passadoria Lavanderia 1l Spartan",
-        "price": "30.88",
+        "price": "30.89",
         "priceDiscountRate": 43,
         "commissionRate": "0.21",
         "sales": 3254,
@@ -18781,6 +18783,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mpgpxk9puxvl8e",
         "productLink": "https://shopee.com.br/product/844886591/58262473611",
         "offerLink": "https://s.shopee.com.br/W6yJJDyNi"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58207075045",
+      "name": "MDF Durável Prateleira Roteador Suporte Invisível Parede Acomoda TV Modeno Video Game",
+      "price": 35.0,
+      "original_price": 60.34,
+      "discount": 42.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825zq-mlxr0ux3s9vlaa",
+      "link": "https://s.shopee.com.br/5VVgcPnis6",
+      "rating": "4.6",
+      "sales": 172,
+      "shop": "Au&Miau Decorações",
+      "category": "roteador wifi",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58207075045,
+        "productName": "MDF Durável Prateleira Roteador Suporte Invisível Parede Acomoda TV Modeno Video Game",
+        "price": "35",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.13",
+        "sales": 172,
+        "ratingStar": "4.6",
+        "shopName": "Au&Miau Decorações",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zq-mlxr0ux3s9vlaa",
+        "productLink": "https://shopee.com.br/product/462357424/58207075045",
+        "offerLink": "https://s.shopee.com.br/5VVgcPnis6"
       },
       "_last_price": null
     },
