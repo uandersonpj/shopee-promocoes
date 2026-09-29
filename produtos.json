@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T20:05:58.247405+00:00",
+  "updated_at": "2026-09-29T20:25:10.805882+00:00",
   "total": 1128,
   "products": [
     {
@@ -230,7 +230,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-msxmjc85bkzr38",
         "productLink": "https://shopee.com.br/product/1198407784/23497594302",
         "offerLink": "https://s.shopee.com.br/4B0GgBnZzB"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58265198384",
@@ -1006,8 +1007,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mp21h8cy5w5i1c",
         "productLink": "https://shopee.com.br/product/1567204121/58261933291",
         "offerLink": "https://s.shopee.com.br/4B0Gg7tawO"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23218022612",
@@ -6043,35 +6043,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mrbmy2x8wm4l3f",
         "productLink": "https://shopee.com.br/product/1145739576/23998935659",
         "offerLink": "https://s.shopee.com.br/AAHTp3qhtZ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "45465789471",
-      "name": "Placa de Vídeo MSI NVIDIA GeForce  RTX 5050 GAMING OC  8G  912-V538-009",
-      "price": 2299.0,
-      "original_price": 6050.0,
-      "discount": 62.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825aa-mrq51qyfme4g84",
-      "link": "https://s.shopee.com.br/AAHXg8QXhf",
-      "rating": "4.9",
-      "sales": 175,
-      "shop": "TNTinfoLoja",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45465789471,
-        "productName": "Placa de Vídeo MSI NVIDIA GeForce  RTX 5050 GAMING OC  8G  912-V538-009",
-        "price": "2299",
-        "priceDiscountRate": 62,
-        "commissionRate": "0.03",
-        "sales": 175,
-        "ratingStar": "4.9",
-        "shopName": "TNTinfoLoja",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aa-mrq51qyfme4g84",
-        "productLink": "https://shopee.com.br/product/344381236/45465789471",
-        "offerLink": "https://s.shopee.com.br/AAHXg8QXhf"
       },
       "_last_price": null
     },
@@ -12716,6 +12687,35 @@
       "_last_price": null
     },
     {
+      "id": "58262995010",
+      "name": "Suporte para Placa de Vídeo Deadpool Exclusivo – GPU Ajustável Gamer Universal",
+      "price": 14.95,
+      "original_price": 29.9,
+      "discount": 50.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mpschi0yy2o0c3",
+      "link": "https://s.shopee.com.br/7faCYK2f7e",
+      "rating": "4.9",
+      "sales": 176,
+      "shop": "Funciona Bem Utilidades",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58262995010,
+        "productName": "Suporte para Placa de Vídeo Deadpool Exclusivo – GPU Ajustável Gamer Universal",
+        "price": "14.95",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 176,
+        "ratingStar": "4.9",
+        "shopName": "Funciona Bem Utilidades",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mpschi0yy2o0c3",
+        "productLink": "https://shopee.com.br/product/1555847007/58262995010",
+        "offerLink": "https://s.shopee.com.br/7faCYK2f7e"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22493943973",
       "name": "Repetidor e Roteador Wi-Fi 2800Mbps 4 Antenas Amplificador de Sinal Goldenultra",
       "price": 50.0,
@@ -14282,35 +14282,6 @@
       "_last_price": null
     },
     {
-      "id": "23397600706",
-      "name": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
-      "price": 10.9,
-      "original_price": 21.37,
-      "discount": 49.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
-      "link": "https://s.shopee.com.br/2qUt5dhk5C",
-      "rating": "4.9",
-      "sales": 6331,
-      "shop": "ES Official Shop",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23397600706,
-        "productName": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
-        "price": "10.9",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.13",
-        "sales": 6331,
-        "ratingStar": "4.9",
-        "shopName": "ES Official Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
-        "productLink": "https://shopee.com.br/product/988030305/23397600706",
-        "offerLink": "https://s.shopee.com.br/2qUt5dhk5C"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58205223096",
       "name": "Kit com 2 Suportes para Shampoo Adesivo Para Parede Cozinha e Banheiro",
       "price": 19.98,
@@ -14684,6 +14655,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zp-mk8gfy21tssg7b",
         "productLink": "https://shopee.com.br/product/1547416433/23498554140",
         "offerLink": "https://s.shopee.com.br/2BFCIPkHR0"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23397600706",
+      "name": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
+      "price": 11.8,
+      "original_price": 22.69,
+      "discount": 48.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
+      "link": "https://s.shopee.com.br/2qUt5dhk5C",
+      "rating": "4.9",
+      "sales": 6331,
+      "shop": "ES Official Shop",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23397600706,
+        "productName": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
+        "price": "11.8",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.13",
+        "sales": 6331,
+        "ratingStar": "4.9",
+        "shopName": "ES Official Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
+        "productLink": "https://shopee.com.br/product/988030305/23397600706",
+        "offerLink": "https://s.shopee.com.br/2qUt5dhk5C"
       },
       "_last_price": null
     },
@@ -24759,7 +24759,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mj6xm1e8buo5a6",
       "link": "https://s.shopee.com.br/8AWPRY7Y7A",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 2716,
       "shop": "br.FashLoop",
       "category": "oculos sol",
@@ -24771,7 +24771,7 @@
         "priceDiscountRate": 33,
         "commissionRate": "0.03",
         "sales": 2716,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "br.FashLoop",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mj6xm1e8buo5a6",
         "productLink": "https://shopee.com.br/product/1603567416/27240642031",
@@ -26607,6 +26607,35 @@
       "_last_price": null
     },
     {
+      "id": "23091599945",
+      "name": "Lava Roupas Líquido Perfect White 7L Omo",
+      "price": 99.89,
+      "original_price": 140.69,
+      "discount": 29.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7renc-m868x8znllevaa",
+      "link": "https://s.shopee.com.br/1VzZpPaPW5",
+      "rating": "5",
+      "sales": 718,
+      "shop": "Braslimpo",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23091599945,
+        "productName": "Lava Roupas Líquido Perfect White 7L Omo",
+        "price": "99.89",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.03",
+        "sales": 718,
+        "ratingStar": "5",
+        "shopName": "Braslimpo",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7renc-m868x8znllevaa",
+        "productLink": "https://shopee.com.br/product/946161700/23091599945",
+        "offerLink": "https://s.shopee.com.br/1VzZpPaPW5"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22898980977",
       "name": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
       "price": 76.99,
@@ -27009,35 +27038,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mpjkzcsfctmp94",
         "productLink": "https://shopee.com.br/product/1619693129/47562355175",
         "offerLink": "https://s.shopee.com.br/9V1n1rntsA"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "11051183096",
-      "name": "Lava Roupas Liquido Urca Azul - 5l",
-      "price": 28.49,
-      "original_price": 39.57,
-      "discount": 28.0,
-      "commission": 16.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40puqy94uut81",
-      "link": "https://s.shopee.com.br/8pm6Fwk7H1",
-      "rating": "4.9",
-      "sales": 2394,
-      "shop": "Casa de Gê",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 11051183096,
-        "productName": "Lava Roupas Liquido Urca Azul - 5l",
-        "price": "28.49",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.16",
-        "sales": 2394,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40puqy94uut81",
-        "productLink": "https://shopee.com.br/product/534023108/11051183096",
-        "offerLink": "https://s.shopee.com.br/8pm6Fwk7H1"
       },
       "_last_price": null
     },
