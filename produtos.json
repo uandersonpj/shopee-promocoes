@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T01:57:09.569967+00:00",
+  "updated_at": "2026-09-29T02:16:18.534978+00:00",
   "total": 1133,
   "products": [
     {
@@ -3065,7 +3065,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
         "productLink": "https://shopee.com.br/product/1368232097/58207198817",
         "offerLink": "https://s.shopee.com.br/9AOwdROScI"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23199448516",
@@ -6801,35 +6802,6 @@
         "productLink": "https://shopee.com.br/product/863631861/51307036019",
         "offerLink": "https://s.shopee.com.br/6q11sGrjKp"
       }
-    },
-    {
-      "id": "22193667311",
-      "name": "Kit Karssellé - Shampoo 1LT + Condicionador 1LT + Máscara 500g + Oleo 7ml OU 60ml",
-      "price": 38.99,
-      "original_price": 99.97,
-      "discount": 61.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mrm0k1f8sj5zd3",
-      "link": "https://s.shopee.com.br/3LRCQG2Ago",
-      "rating": "4.7",
-      "sales": 1253,
-      "shop": "Valorosa Beauty Hair",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22193667311,
-        "productName": "Kit Karssellé - Shampoo 1LT + Condicionador 1LT + Máscara 500g + Oleo 7ml OU 60ml",
-        "price": "38.99",
-        "priceDiscountRate": 61,
-        "commissionRate": "0.18",
-        "sales": 1253,
-        "ratingStar": "4.7",
-        "shopName": "Valorosa Beauty Hair",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mrm0k1f8sj5zd3",
-        "productLink": "https://shopee.com.br/product/1142099481/22193667311",
-        "offerLink": "https://s.shopee.com.br/3LRCQG2Ago"
-      },
-      "_last_price": null
     },
     {
       "id": "9830388367",
@@ -18691,35 +18663,6 @@
       "_last_price": null
     },
     {
-      "id": "58201495048",
-      "name": "Ração Úmida Sachê Friskies Gatos Display com 15 Sachês 85g",
-      "price": 34.9,
-      "original_price": 60.17,
-      "discount": 42.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi3e54q4fxmpbb",
-      "link": "https://s.shopee.com.br/30oJI0bEKZ",
-      "rating": "5",
-      "sales": 761,
-      "shop": "SPN MARKET",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58201495048,
-        "productName": "Ração Úmida Sachê Friskies Gatos Display com 15 Sachês 85g",
-        "price": "34.9",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.03",
-        "sales": 761,
-        "ratingStar": "5",
-        "shopName": "SPN MARKET",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi3e54q4fxmpbb",
-        "productLink": "https://shopee.com.br/product/1501485889/58201495048",
-        "offerLink": "https://s.shopee.com.br/30oJI0bEKZ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "51610131709",
       "name": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N 9",
       "price": 195.9,
@@ -24490,6 +24433,35 @@
       "_last_price": null
     },
     {
+      "id": "58201495048",
+      "name": "Ração Úmida Sachê Friskies Gatos Display com 15 Sachês 85g",
+      "price": 39.9,
+      "original_price": 59.55,
+      "discount": 33.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi3e54q4fxmpbb",
+      "link": "https://s.shopee.com.br/30oJI0bEKZ",
+      "rating": "5",
+      "sales": 761,
+      "shop": "SPN MARKET",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58201495048,
+        "productName": "Ração Úmida Sachê Friskies Gatos Display com 15 Sachês 85g",
+        "price": "39.9",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.03",
+        "sales": 761,
+        "ratingStar": "5",
+        "shopName": "SPN MARKET",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi3e54q4fxmpbb",
+        "productLink": "https://shopee.com.br/product/1501485889/58201495048",
+        "offerLink": "https://s.shopee.com.br/30oJI0bEKZ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23099337262",
       "name": "Liquidificador Britânia 2,6L 4 Velocidades Diamante 1100",
       "price": 99.9,
@@ -26180,7 +26152,7 @@
       "commission": 6.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mrez1cew2oed35",
       "link": "https://s.shopee.com.br/5VVeGZWiJk",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 3408,
       "shop": "Usual Mix",
       "category": "fralda",
@@ -26192,7 +26164,7 @@
         "priceDiscountRate": 30,
         "commissionRate": "0.06",
         "sales": 3408,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Usual Mix",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mrez1cew2oed35",
         "productLink": "https://shopee.com.br/product/1505860882/44915338553",
@@ -32258,6 +32230,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mskcqn1114w454",
         "productLink": "https://shopee.com.br/product/1043921872/58266635989",
         "offerLink": "https://s.shopee.com.br/2Vs2gz6MKA"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18998573561",
+      "name": "Amaciante Ruth Care Colinho da Vovó - 1l",
+      "price": 7.48,
+      "original_price": 8.8,
+      "discount": 15.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbmo-lneo8slh76y975",
+      "link": "https://s.shopee.com.br/7AdsGuY3Rn",
+      "rating": "4.9",
+      "sales": 3975,
+      "shop": "Casa de Gê",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18998573561,
+        "productName": "Amaciante Ruth Care Colinho da Vovó - 1l",
+        "price": "7.48",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.18",
+        "sales": 3975,
+        "ratingStar": "4.9",
+        "shopName": "Casa de Gê",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbmo-lneo8slh76y975",
+        "productLink": "https://shopee.com.br/product/534023108/18998573561",
+        "offerLink": "https://s.shopee.com.br/7AdsGuY3Rn"
       },
       "_last_price": null
     },
