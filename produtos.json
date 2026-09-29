@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T02:35:27.478320+00:00",
-  "total": 1133,
+  "updated_at": "2026-09-29T02:54:46.414434+00:00",
+  "total": 1135,
   "products": [
     {
       "id": "50203126324",
@@ -142,8 +142,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1zzq6l901gfa2",
         "productLink": "https://shopee.com.br/product/322874822/23797686527",
         "offerLink": "https://s.shopee.com.br/20vm6DDMEX"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23593603405",
@@ -1676,7 +1675,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk90kkju10qp3b",
         "productLink": "https://shopee.com.br/product/1063922972/18299069073",
         "offerLink": "https://s.shopee.com.br/5Asns2rxfx"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "43476999468",
@@ -10049,35 +10049,6 @@
       "_last_price": null
     },
     {
-      "id": "22694408785",
-      "name": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
-      "price": 879.99,
-      "original_price": 1913.02,
-      "discount": 54.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mr97xwjossn825",
-      "link": "https://s.shopee.com.br/BU7ugfyZn",
-      "rating": "4.9",
-      "sales": 195,
-      "shop": "Xuwei Digital",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22694408785,
-        "productName": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
-        "price": "879.99",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.11",
-        "sales": 195,
-        "ratingStar": "4.9",
-        "shopName": "Xuwei Digital",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mr97xwjossn825",
-        "productLink": "https://shopee.com.br/product/956346509/22694408785",
-        "offerLink": "https://s.shopee.com.br/BU7ugfyZn"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58207485901",
       "name": "Repetidor WiFi Profissional 2800m 6 Antenas Roteador Amplificador de Sinal Modem 300Mbps",
       "price": 52.98,
@@ -10712,6 +10683,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mggkt4ezj0g00a",
         "productLink": "https://shopee.com.br/product/316333903/23499128694",
         "offerLink": "https://s.shopee.com.br/1Lg5J2J5Fx"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22694408785",
+      "name": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
+      "price": 889.99,
+      "original_price": 1893.6,
+      "discount": 53.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mr97xwjossn825",
+      "link": "https://s.shopee.com.br/BU7ugfyZn",
+      "rating": "4.9",
+      "sales": 195,
+      "shop": "Xuwei Digital",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22694408785,
+        "productName": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
+        "price": "889.99",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.11",
+        "sales": 195,
+        "ratingStar": "4.9",
+        "shopName": "Xuwei Digital",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mr97xwjossn825",
+        "productLink": "https://shopee.com.br/product/956346509/22694408785",
+        "offerLink": "https://s.shopee.com.br/BU7ugfyZn"
       },
       "_last_price": null
     },
@@ -22664,6 +22664,35 @@
       "_last_price": null
     },
     {
+      "id": "58200774701",
+      "name": "Spray Limpa Air Fryer Alto Poder De Limpeza, Dissolve A Gordura Limpeza Sem Esforço 250ml 1, 2 ou 3",
+      "price": 23.99,
+      "original_price": 37.48,
+      "discount": 36.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134224-81z1k-mha3lkgidyx047",
+      "link": "https://s.shopee.com.br/2BFCIUV87e",
+      "rating": "4.7",
+      "sales": 1696,
+      "shop": "PAPEL.PAPELARIA",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58200774701,
+        "productName": "Spray Limpa Air Fryer Alto Poder De Limpeza, Dissolve A Gordura Limpeza Sem Esforço 250ml 1, 2 ou 3",
+        "price": "23.99",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.08",
+        "sales": 1696,
+        "ratingStar": "4.7",
+        "shopName": "PAPEL.PAPELARIA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134224-81z1k-mha3lkgidyx047",
+        "productLink": "https://shopee.com.br/product/1046010418/58200774701",
+        "offerLink": "https://s.shopee.com.br/2BFCIUV87e"
+      },
+      "_last_price": null
+    },
+    {
       "id": "8020679826",
       "name": "Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades",
       "price": 109.99,
@@ -26023,6 +26052,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mt5c2sqgwdfp52",
         "productLink": "https://shopee.com.br/product/1646912423/22899526183",
         "offerLink": "https://s.shopee.com.br/4fwXH01Z78"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23794938691",
+      "name": "Mini Mop Dobrável de PVA para Mesa e Uso Interno com Esponja Absorvente para Limpeza Úmida e Seca",
+      "price": 13.99,
+      "original_price": 19.99,
+      "discount": 30.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-820on-mnekgkzm0ow47b",
+      "link": "https://s.shopee.com.br/AKau1PxWTB",
+      "rating": "4.8",
+      "sales": 2387,
+      "shop": "Vencedora ",
+      "category": "esponja",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23794938691,
+        "productName": "Mini Mop Dobrável de PVA para Mesa e Uso Interno com Esponja Absorvente para Limpeza Úmida e Seca",
+        "price": "13.99",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.12",
+        "sales": 2387,
+        "ratingStar": "4.8",
+        "shopName": "Vencedora ",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820on-mnekgkzm0ow47b",
+        "productLink": "https://shopee.com.br/product/395174202/23794938691",
+        "offerLink": "https://s.shopee.com.br/AKau1PxWTB"
       },
       "_last_price": null
     },
