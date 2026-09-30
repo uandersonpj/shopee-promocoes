@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T23:55:48.732530+00:00",
-  "total": 1126,
+  "updated_at": "2026-09-30T00:15:01.244846+00:00",
+  "total": 1131,
   "products": [
     {
       "id": "50203126324",
@@ -2311,7 +2311,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma3wxbeu4kl52a",
         "productLink": "https://shopee.com.br/product/1494995608/23798319408",
         "offerLink": "https://s.shopee.com.br/113EuEC4Ml"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "52557307480",
@@ -2658,8 +2659,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-msfziyqwdhxj02",
         "productLink": "https://shopee.com.br/product/897488659/58217170539",
         "offerLink": "https://s.shopee.com.br/5VVhx8JCwd"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23093824562",
@@ -7006,6 +7006,35 @@
       "_last_price": null
     },
     {
+      "id": "23898664618",
+      "name": "Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Recarregável e 150h de Bateria",
+      "price": 39.69,
+      "original_price": 99.22,
+      "discount": 60.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbofl4hbm2ef45",
+      "link": "https://s.shopee.com.br/BU7ugBFM3",
+      "rating": "4.9",
+      "sales": 4140,
+      "shop": "TechBarato SHOP",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23898664618,
+        "productName": "Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Recarregável e 150h de Bateria",
+        "price": "39.69",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.03",
+        "sales": 4140,
+        "ratingStar": "4.9",
+        "shopName": "TechBarato SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbofl4hbm2ef45",
+        "productLink": "https://shopee.com.br/product/1331886707/23898664618",
+        "offerLink": "https://s.shopee.com.br/BU7ugBFM3"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22497915927",
       "name": "Mesa Portátil para Notebook Home Office",
       "price": 39.98,
@@ -7904,6 +7933,35 @@
       "_last_price": null
     },
     {
+      "id": "23998329987",
+      "name": "Placa Captura Video 4k Hdmi Usb 3.0",
+      "price": 79.0,
+      "original_price": 188.1,
+      "discount": 58.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7jwwqkk00qa9b",
+      "link": "https://s.shopee.com.br/6L4p75f8UG",
+      "rating": "4.9",
+      "sales": 142,
+      "shop": "PENTONCABOS",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23998329987,
+        "productName": "Placa Captura Video 4k Hdmi Usb 3.0",
+        "price": "79",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.11",
+        "sales": 142,
+        "ratingStar": "4.9",
+        "shopName": "PENTONCABOS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7jwwqkk00qa9b",
+        "productLink": "https://shopee.com.br/product/687992685/23998329987",
+        "offerLink": "https://s.shopee.com.br/6L4p75f8UG"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21699672982",
       "name": "Teclado e Mouse Kit Gamer semi mecanico RGB LED USB ABNT2 Profissional para PC Notebook",
       "price": 49.9,
@@ -8455,6 +8513,35 @@
       "_last_price": null
     },
     {
+      "id": "48510124800",
+      "name": "GTX 550Ti 4GB GDDR5 Placa Gráfica De Computador Placas De Vídeo Para Jogos PCI-Express 2.0 De Jogo Separada",
+      "price": 218.99,
+      "original_price": 509.28,
+      "discount": 57.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-820mu-mny9i996afpc4a",
+      "link": "https://s.shopee.com.br/5VVi7YiJB5",
+      "rating": "4.7",
+      "sales": 31,
+      "shop": "mEkL4dcpQ2.br",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 48510124800,
+        "productName": "GTX 550Ti 4GB GDDR5 Placa Gráfica De Computador Placas De Vídeo Para Jogos PCI-Express 2.0 De Jogo Separada",
+        "price": "218.99",
+        "priceDiscountRate": 57,
+        "commissionRate": "0.09",
+        "sales": 31,
+        "ratingStar": "4.7",
+        "shopName": "mEkL4dcpQ2.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820mu-mny9i996afpc4a",
+        "productLink": "https://shopee.com.br/product/639802491/48510124800",
+        "offerLink": "https://s.shopee.com.br/5VVi7YiJB5"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58260576959",
       "name": "Teclado Mecânico Gamer RGB 68 Teclas Eixo Vermelho USB+2.4G+BT ABNT2 TK08",
       "price": 159.99,
@@ -8886,35 +8973,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zuh-ml3uuln7tla8fe",
         "productLink": "https://shopee.com.br/product/1758938356/58255737985",
         "offerLink": "https://s.shopee.com.br/qjoi8BiO1"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23898664618",
-      "name": "Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Recarregável e 150h de Bateria",
-      "price": 43.69,
-      "original_price": 99.3,
-      "discount": 56.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbofl4hbm2ef45",
-      "link": "https://s.shopee.com.br/BU7ugBFM3",
-      "rating": "4.9",
-      "sales": 4140,
-      "shop": "TechBarato SHOP",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23898664618,
-        "productName": "Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Recarregável e 150h de Bateria",
-        "price": "43.69",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.03",
-        "sales": 4140,
-        "ratingStar": "4.9",
-        "shopName": "TechBarato SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbofl4hbm2ef45",
-        "productLink": "https://shopee.com.br/product/1331886707/23898664618",
-        "offerLink": "https://s.shopee.com.br/BU7ugBFM3"
       },
       "_last_price": null
     },
@@ -9557,6 +9615,35 @@
       "_last_price": null
     },
     {
+      "id": "23393395960",
+      "name": "Thermal Pad Térmico 1/2/3mm Para PS4, PS3, PS2, PS1, XBOX, Processador, Memória RAM, Placa de Vídeo",
+      "price": 10.5,
+      "original_price": 23.33,
+      "discount": 55.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyaushhh43q14",
+      "link": "https://s.shopee.com.br/9AP0UIULjZ",
+      "rating": "4.7",
+      "sales": 262,
+      "shop": "MAKING CASH",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23393395960,
+        "productName": "Thermal Pad Térmico 1/2/3mm Para PS4, PS3, PS2, PS1, XBOX, Processador, Memória RAM, Placa de Vídeo",
+        "price": "10.5",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.12",
+        "sales": 262,
+        "ratingStar": "4.7",
+        "shopName": "MAKING CASH",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyaushhh43q14",
+        "productLink": "https://shopee.com.br/product/234308900/23393395960",
+        "offerLink": "https://s.shopee.com.br/9AP0UIULjZ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "53706778003",
       "name": "Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 300MBPS",
       "price": 52.98,
@@ -10017,6 +10104,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mtgs7vsxaq6aeb",
         "productLink": "https://shopee.com.br/product/1480594679/22794276330",
         "offerLink": "https://s.shopee.com.br/3VkZt21Yyn"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22694408785",
+      "name": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
+      "price": 879.99,
+      "original_price": 1913.02,
+      "discount": 54.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mr97xwjossn825",
+      "link": "https://s.shopee.com.br/8KptUlXWQK",
+      "rating": "4.9",
+      "sales": 191,
+      "shop": "Xuwei Digital",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22694408785,
+        "productName": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
+        "price": "879.99",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.11",
+        "sales": 191,
+        "ratingStar": "4.9",
+        "shopName": "Xuwei Digital",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mr97xwjossn825",
+        "productLink": "https://shopee.com.br/product/956346509/22694408785",
+        "offerLink": "https://s.shopee.com.br/8KptUlXWQK"
       },
       "_last_price": null
     },
@@ -15704,6 +15820,35 @@
       "_last_price": null
     },
     {
+      "id": "22797990501",
+      "name": "Pasta Térmica Prata GD900 Para Processador, PS2, PS3, PS4, Notebook, Placa de Vídeo e PC 1G-4,8W/m·K",
+      "price": 11.7,
+      "original_price": 21.67,
+      "discount": 46.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgfjgitsxamdce",
+      "link": "https://s.shopee.com.br/2qUwnRL3vF",
+      "rating": "4.9",
+      "sales": 1658,
+      "shop": "MAKING CASH",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22797990501,
+        "productName": "Pasta Térmica Prata GD900 Para Processador, PS2, PS3, PS4, Notebook, Placa de Vídeo e PC 1G-4,8W/m·K",
+        "price": "11.7",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.11",
+        "sales": 1658,
+        "ratingStar": "4.9",
+        "shopName": "MAKING CASH",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgfjgitsxamdce",
+        "productLink": "https://shopee.com.br/product/234308900/22797990501",
+        "offerLink": "https://s.shopee.com.br/2qUwnRL3vF"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22992915236",
       "name": "Dispenser Organizador de Lavanderia 1,5L / 2,3 Acrílico Porta Amaciante Sabão em pó Sabonete Liquido Alvejante Ou Flow",
       "price": 42.9,
@@ -16512,6 +16657,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mein7k9tgvep4c",
         "productLink": "https://shopee.com.br/product/318894435/22498904690",
         "offerLink": "https://s.shopee.com.br/3B7nC3JnFL"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58262280031",
+      "name": "Placa de Vídeo Gamer Ninja NVIDIA GeForce GTX 1660 Super Ronin, 6GB GDDR6 192bit GN-PV-NVGTX1660S6D6",
+      "price": 1225.49,
+      "original_price": 2228.16,
+      "discount": 45.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823qf-mpbbl1kk4mq4dd",
+      "link": "https://s.shopee.com.br/7KxMIvbKSM",
+      "rating": "5",
+      "sales": 94,
+      "shop": "Terabyte Oficial",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58262280031,
+        "productName": "Placa de Vídeo Gamer Ninja NVIDIA GeForce GTX 1660 Super Ronin, 6GB GDDR6 192bit GN-PV-NVGTX1660S6D6",
+        "price": "1225.49",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 94,
+        "ratingStar": "5",
+        "shopName": "Terabyte Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qf-mpbbl1kk4mq4dd",
+        "productLink": "https://shopee.com.br/product/1552226494/58262280031",
+        "offerLink": "https://s.shopee.com.br/7KxMIvbKSM"
       },
       "_last_price": null
     },
@@ -17353,35 +17527,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mo34wuhsuebo5f",
         "productLink": "https://shopee.com.br/product/1748741556/58256029412",
         "offerLink": "https://s.shopee.com.br/2Vs2gy2McP"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58216511405",
-      "name": "Placa de Video Mancer Radeon RX 5700 Streaky V2, 8GB, GDDR6, 256-bit, MCR-RX5700-STKV2",
-      "price": 1489.9,
-      "original_price": 2660.54,
-      "discount": 44.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8258d-ms2txynzqk9319",
-      "link": "https://s.shopee.com.br/113JSvJxVu",
-      "rating": "4.9",
-      "sales": 55,
-      "shop": "Pichau",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58216511405,
-        "productName": "Placa de Video Mancer Radeon RX 5700 Streaky V2, 8GB, GDDR6, 256-bit, MCR-RX5700-STKV2",
-        "price": "1489.9",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.03",
-        "sales": 55,
-        "ratingStar": "4.9",
-        "shopName": "Pichau",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258d-ms2txynzqk9319",
-        "productLink": "https://shopee.com.br/product/627750190/58216511405",
-        "offerLink": "https://s.shopee.com.br/113JSvJxVu"
       },
       "_last_price": null
     },
@@ -19735,35 +19880,6 @@
       "_last_price": null
     },
     {
-      "id": "43705123611",
-      "name": "USB Para 3.5 Mm TRRS Aux Jack Cabo Trançado Adaptador De Áudio Placa De Som Estéreo Externa Conversor PC Laptop",
-      "price": 11.93,
-      "original_price": 19.88,
-      "discount": 40.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823op-mp4lwdxumrrg50",
-      "link": "https://s.shopee.com.br/qjtGcKaqr",
-      "rating": "4.8",
-      "sales": 87,
-      "shop": "Choice Oficial",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 43705123611,
-        "productName": "USB Para 3.5 Mm TRRS Aux Jack Cabo Trançado Adaptador De Áudio Placa De Som Estéreo Externa Conversor PC Laptop",
-        "price": "11.93",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.07",
-        "sales": 87,
-        "ratingStar": "4.8",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823op-mp4lwdxumrrg50",
-        "productLink": "https://shopee.com.br/product/1006215031/43705123611",
-        "offerLink": "https://s.shopee.com.br/qjtGcKaqr"
-      },
-      "_last_price": null
-    },
-    {
       "id": "19698315816",
       "name": "Teclado Mecânico AITEK Delta TM6101 60% RGB Switch Vermelho USB Com Fio ABNT2 61 Teclas",
       "price": 99.98,
@@ -21127,6 +21243,35 @@
       "_last_price": null
     },
     {
+      "id": "18798211624",
+      "name": "Placa de Video XFX Radeon RX 7600 Speedster SWFT210, 8GB, GDDR6, 128-bit, RX-76PSWFTFY",
+      "price": 2263.54,
+      "original_price": 3650.87,
+      "discount": 38.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-ms1lze0mdedh72",
+      "link": "https://s.shopee.com.br/8fSjtNWFkU",
+      "rating": "5",
+      "sales": 48,
+      "shop": "Pichau",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18798211624,
+        "productName": "Placa de Video XFX Radeon RX 7600 Speedster SWFT210, 8GB, GDDR6, 128-bit, RX-76PSWFTFY",
+        "price": "2263.54",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.03",
+        "sales": 48,
+        "ratingStar": "5",
+        "shopName": "Pichau",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-ms1lze0mdedh72",
+        "productLink": "https://shopee.com.br/product/627750190/18798211624",
+        "offerLink": "https://s.shopee.com.br/8fSjtNWFkU"
+      },
+      "_last_price": null
+    },
+    {
       "id": "44228846684",
       "name": "Fonte Cougar Atlas, 650W, 80 Plus Bronze, ATX 3.1, PFC Ativo, Preto - 31AA065001P01",
       "price": 299.0,
@@ -21703,6 +21848,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82632-mk9dovjmqt54e9",
         "productLink": "https://shopee.com.br/product/207174365/48055804188",
         "offerLink": "https://s.shopee.com.br/9AOwdT63O9"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22899341907",
+      "name": "Placa de Video PowerColor Radeon RX 9060 XT Reaper, 16GB, GDDR6, 128-bit, RX9060XT-16G-A",
+      "price": 3948.9,
+      "original_price": 6268.1,
+      "discount": 37.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8262n-mkb8fp0a0k5e1f",
+      "link": "https://s.shopee.com.br/7VGmVEah7P",
+      "rating": "5",
+      "sales": 25,
+      "shop": "Pichau",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22899341907,
+        "productName": "Placa de Video PowerColor Radeon RX 9060 XT Reaper, 16GB, GDDR6, 128-bit, RX9060XT-16G-A",
+        "price": "3948.9",
+        "priceDiscountRate": 37,
+        "commissionRate": "0.03",
+        "sales": 25,
+        "ratingStar": "5",
+        "shopName": "Pichau",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262n-mkb8fp0a0k5e1f",
+        "productLink": "https://shopee.com.br/product/627750190/22899341907",
+        "offerLink": "https://s.shopee.com.br/7VGmVEah7P"
       },
       "_last_price": null
     },
@@ -23852,35 +24026,6 @@
       "_last_price": null
     },
     {
-      "id": "23099169510",
-      "name": "Kit Liquidificador 550W Turbo Power L-99-FB + Batedeira 400W Prática - B-44-B Mondial",
-      "price": 206.91,
-      "original_price": 313.5,
-      "discount": 34.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825b8-msauhkcaes5i2c",
-      "link": "https://s.shopee.com.br/1VzXpq7BVc",
-      "rating": "4.9",
-      "sales": 1260,
-      "shop": "Dutra Máquinas",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23099169510,
-        "productName": "Kit Liquidificador 550W Turbo Power L-99-FB + Batedeira 400W Prática - B-44-B Mondial",
-        "price": "206.91",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.03",
-        "sales": 1260,
-        "ratingStar": "4.9",
-        "shopName": "Dutra Máquinas",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b8-msauhkcaes5i2c",
-        "productLink": "https://shopee.com.br/product/489001115/23099169510",
-        "offerLink": "https://s.shopee.com.br/1VzXpq7BVc"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58261084738",
       "name": "Óculos De Grau Automático Perto/Longe (Escurece no Sol)",
       "price": 39.0,
@@ -24776,35 +24921,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m97fvgsnxjcpf7",
         "productLink": "https://shopee.com.br/product/1494297971/19498104885",
         "offerLink": "https://s.shopee.com.br/905WQuv9GU"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58257777632",
-      "name": "Placa de Video PowerColor Radeon RX 9060 XT Reaper, 8GB, GDDR6, 128-bit, RX9060XT-8G-A",
-      "price": 3043.47,
-      "original_price": 4475.69,
-      "discount": 32.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82603-mmc3o1v79f6763",
-      "link": "https://s.shopee.com.br/W72s0LrWl",
-      "rating": "4.8",
-      "sales": 27,
-      "shop": "Pichau",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58257777632,
-        "productName": "Placa de Video PowerColor Radeon RX 9060 XT Reaper, 8GB, GDDR6, 128-bit, RX9060XT-8G-A",
-        "price": "3043.47",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.03",
-        "sales": 27,
-        "ratingStar": "4.8",
-        "shopName": "Pichau",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82603-mmc3o1v79f6763",
-        "productLink": "https://shopee.com.br/product/627750190/58257777632",
-        "offerLink": "https://s.shopee.com.br/W72s0LrWl"
       },
       "_last_price": null
     },
@@ -26984,6 +27100,35 @@
       "_last_price": null
     },
     {
+      "id": "21997920517",
+      "name": "Vara Telescópica Traíra Gomo Longo Verde 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
+      "price": 44.99,
+      "original_price": 62.49,
+      "discount": 28.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfg7-m3nns1rislrb02",
+      "link": "https://s.shopee.com.br/1BMf6glKPa",
+      "rating": "4.9",
+      "sales": 978,
+      "shop": "JAUPESCA",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21997920517,
+        "productName": "Vara Telescópica Traíra Gomo Longo Verde 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
+        "price": "44.99",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.07",
+        "sales": 978,
+        "ratingStar": "4.9",
+        "shopName": "JAUPESCA",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg7-m3nns1rislrb02",
+        "productLink": "https://shopee.com.br/product/954428278/21997920517",
+        "offerLink": "https://s.shopee.com.br/1BMf6glKPa"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22499048135",
       "name": "Kit 2 Suporte Vara Pesca Esportiva Barranco Médio Reforçado Portátil 30Cm 5MM",
       "price": 22.99,
@@ -27038,35 +27183,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mrum25gvd9fp13",
         "productLink": "https://shopee.com.br/product/1641676028/58266163953",
         "offerLink": "https://s.shopee.com.br/6VOBSZpP4W"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22799024930",
-      "name": "Pasta Térmica Prata GD900 4,8W/MK Notebooks Computadores Videogame Placa de vídeo console 1g 7g 15g",
-      "price": 10.99,
-      "original_price": 15.05,
-      "discount": 27.0,
-      "commission": 14.000000000000002,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mtfdgt2kljwh41",
-      "link": "https://s.shopee.com.br/9V1raXnbGb",
-      "rating": "4.9",
-      "sales": 118,
-      "shop": "Lupa Eletronicos",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22799024930,
-        "productName": "Pasta Térmica Prata GD900 4,8W/MK Notebooks Computadores Videogame Placa de vídeo console 1g 7g 15g",
-        "price": "10.99",
-        "priceDiscountRate": 27,
-        "commissionRate": "0.14",
-        "sales": 118,
-        "ratingStar": "4.9",
-        "shopName": "Lupa Eletronicos",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mtfdgt2kljwh41",
-        "productLink": "https://shopee.com.br/product/1494295469/22799024930",
-        "offerLink": "https://s.shopee.com.br/9V1raXnbGb"
       },
       "_last_price": null
     },
@@ -27680,6 +27796,35 @@
       "_last_price": null
     },
     {
+      "id": "23099169510",
+      "name": "Kit Liquidificador 550W Turbo Power L-99-FB + Batedeira 400W Prática - B-44-B Mondial",
+      "price": 229.9,
+      "original_price": 310.68,
+      "discount": 26.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825b8-msauhkcaes5i2c",
+      "link": "https://s.shopee.com.br/1VzXpq7BVc",
+      "rating": "4.9",
+      "sales": 1260,
+      "shop": "Dutra Máquinas",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23099169510,
+        "productName": "Kit Liquidificador 550W Turbo Power L-99-FB + Batedeira 400W Prática - B-44-B Mondial",
+        "price": "229.9",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.03",
+        "sales": 1260,
+        "ratingStar": "4.9",
+        "shopName": "Dutra Máquinas",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b8-msauhkcaes5i2c",
+        "productLink": "https://shopee.com.br/product/489001115/23099169510",
+        "offerLink": "https://s.shopee.com.br/1VzXpq7BVc"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23792805754",
       "name": "Panela De Pressão Antiaderente Fechamento Externo 3L Nacional",
       "price": 126.9,
@@ -27705,35 +27850,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-moo0by75zu2rbd",
         "productLink": "https://shopee.com.br/product/359066629/23792805754",
         "offerLink": "https://s.shopee.com.br/905YVjcDNO"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21997920517",
-      "name": "Vara Telescópica Traíra Gomo Longo Verde 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
-      "price": 49.87,
-      "original_price": 67.39,
-      "discount": 26.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfg7-m3nns1rislrb02",
-      "link": "https://s.shopee.com.br/1BMf6glKPa",
-      "rating": "4.9",
-      "sales": 978,
-      "shop": "JAUPESCA",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21997920517,
-        "productName": "Vara Telescópica Traíra Gomo Longo Verde 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
-        "price": "49.87",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.07",
-        "sales": 978,
-        "ratingStar": "4.9",
-        "shopName": "JAUPESCA",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg7-m3nns1rislrb02",
-        "productLink": "https://shopee.com.br/product/954428278/21997920517",
-        "offerLink": "https://s.shopee.com.br/1BMf6glKPa"
       },
       "_last_price": null
     },
@@ -29478,6 +29594,35 @@
       "_last_price": null
     },
     {
+      "id": "12823128886",
+      "name": "Creatina Monohidratada Integralmedica 60 cápsulas",
+      "price": 22.13,
+      "original_price": 28.37,
+      "discount": 22.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7renj-m2ckuwis1x9y28",
+      "link": "https://s.shopee.com.br/W6yJOgkdR",
+      "rating": "4.9",
+      "sales": 1209,
+      "shop": "Integralmedica",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 12823128886,
+        "productName": "Creatina Monohidratada Integralmedica 60 cápsulas",
+        "price": "22.13",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.03",
+        "sales": 1209,
+        "ratingStar": "4.9",
+        "shopName": "Integralmedica",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7renj-m2ckuwis1x9y28",
+        "productLink": "https://shopee.com.br/product/544014438/12823128886",
+        "offerLink": "https://s.shopee.com.br/W6yJOgkdR"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20698436405",
       "name": "Tênis feminino lançamento novidade leve confortável casual plataforma top!",
       "price": 49.9,
@@ -30290,6 +30435,35 @@
       "_last_price": null
     },
     {
+      "id": "11156463595",
+      "name": "Creatina Integralmedica 150g",
+      "price": 27.61,
+      "original_price": 34.51,
+      "discount": 20.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824i9-mpfksek5tqf6d4",
+      "link": "https://s.shopee.com.br/30oLZsloJQ",
+      "rating": "4.9",
+      "sales": 872,
+      "shop": "Integralmedica",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 11156463595,
+        "productName": "Creatina Integralmedica 150g",
+        "price": "27.61",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.03",
+        "sales": 872,
+        "ratingStar": "4.9",
+        "shopName": "Integralmedica",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i9-mpfksek5tqf6d4",
+        "productLink": "https://shopee.com.br/product/544014438/11156463595",
+        "offerLink": "https://s.shopee.com.br/30oLZsloJQ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21397621746",
       "name": "Protetor De Punho Profissional Articulação Cross Trainning Munhequeira Elástica Crossfit Musculação Lpo Treino Academia",
       "price": 27.92,
@@ -30721,35 +30895,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lirfoehomo8l4a",
         "productLink": "https://shopee.com.br/product/761647073/23596170885",
         "offerLink": "https://s.shopee.com.br/8V9FpzfWRt"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58203314751",
-      "name": "Suporte Ajustável Vertical para Placa de Vídeo GPU | Anti-Sag | Universal HD PC Gamer",
-      "price": 12.9,
-      "original_price": 15.93,
-      "discount": 19.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mqmt88f9o83m7e",
-      "link": "https://s.shopee.com.br/1BMjfEJKAx",
-      "rating": "4.9",
-      "sales": 104,
-      "shop": "AL Store Home",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58203314751,
-        "productName": "Suporte Ajustável Vertical para Placa de Vídeo GPU | Anti-Sag | Universal HD PC Gamer",
-        "price": "12.9",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.03",
-        "sales": 104,
-        "ratingStar": "4.9",
-        "shopName": "AL Store Home",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mqmt88f9o83m7e",
-        "productLink": "https://shopee.com.br/product/1038039469/58203314751",
-        "offerLink": "https://s.shopee.com.br/1BMjfEJKAx"
       },
       "_last_price": null
     },
