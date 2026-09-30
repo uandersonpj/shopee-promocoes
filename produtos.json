@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T06:18:16.241560+00:00",
+  "updated_at": "2026-09-30T06:37:13.725375+00:00",
   "total": 1127,
   "products": [
     {
@@ -7474,7 +7474,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2tkcqtacqo0b",
         "productLink": "https://shopee.com.br/product/375688601/23292991473",
         "offerLink": "https://s.shopee.com.br/7ptdqFbq19"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "43150138443",
@@ -8111,35 +8112,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-ms0d4wq8sj5x7b",
         "productLink": "https://shopee.com.br/product/1242044379/20399323829",
         "offerLink": "https://s.shopee.com.br/5q8ZSRdsu5"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20299558422",
-      "name": "Creatina Ultra Pote 300g - FTW",
-      "price": 29.9,
-      "original_price": 71.19,
-      "discount": 58.0,
-      "commission": 26.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meourptjpj4194",
-      "link": "https://s.shopee.com.br/60RzpAkorx",
-      "rating": "4.9",
-      "sales": 4029,
-      "shop": "Loja Oficial FTW",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20299558422,
-        "productName": "Creatina Ultra Pote 300g - FTW",
-        "price": "29.9",
-        "priceDiscountRate": 58,
-        "commissionRate": "0.26",
-        "sales": 4029,
-        "ratingStar": "4.9",
-        "shopName": "Loja Oficial FTW",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meourptjpj4194",
-        "productLink": "https://shopee.com.br/product/1397772996/20299558422",
-        "offerLink": "https://s.shopee.com.br/60RzpAkorx"
       },
       "_last_price": null
     },
@@ -17072,6 +17044,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb3pqavbklg96",
         "productLink": "https://shopee.com.br/product/983753255/23791204929",
         "offerLink": "https://s.shopee.com.br/5fp9QYYtAw"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "46408341183",
+      "name": "Creatina Monohidratada DUX Nutrition 100% Pura Original Hipertrofia Academia Fitness",
+      "price": 39.91,
+      "original_price": 72.56,
+      "discount": 45.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lq-molilwsui7er94",
+      "link": "https://s.shopee.com.br/9fLI1UPI8C",
+      "rating": "4.8",
+      "sales": 1339,
+      "shop": "REPZILLA",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 46408341183,
+        "productName": "Creatina Monohidratada DUX Nutrition 100% Pura Original Hipertrofia Academia Fitness",
+        "price": "39.91",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 1339,
+        "ratingStar": "4.8",
+        "shopName": "REPZILLA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-molilwsui7er94",
+        "productLink": "https://shopee.com.br/product/1527568519/46408341183",
+        "offerLink": "https://s.shopee.com.br/9fLI1UPI8C"
       },
       "_last_price": null
     },
