@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T00:53:33.742457+00:00",
+  "updated_at": "2026-09-30T01:12:48.688999+00:00",
   "total": 1130,
   "products": [
     {
@@ -1359,7 +1359,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1xeanm14pt61d",
         "productLink": "https://shopee.com.br/product/1017646777/22198016021",
         "offerLink": "https://s.shopee.com.br/AUuKDlDgAw"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "9511754133",
@@ -5495,8 +5496,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mrztp81e9kw7b1",
         "productLink": "https://shopee.com.br/product/1781912896/58265714065",
         "offerLink": "https://s.shopee.com.br/6fhbeftx3i"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "19698719773",
@@ -16698,7 +16698,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mg-msf19e3u1jpif2",
       "link": "https://s.shopee.com.br/7faCYKXSci",
-      "rating": "4.7",
+      "rating": "4.8",
       "sales": 193,
       "shop": "FLUX SHOP",
       "category": "roteador wifi",
@@ -16710,7 +16710,7 @@
         "priceDiscountRate": 45,
         "commissionRate": "0.03",
         "sales": 193,
-        "ratingStar": "4.7",
+        "ratingStar": "4.8",
         "shopName": "FLUX SHOP",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-msf19e3u1jpif2",
         "productLink": "https://shopee.com.br/product/1372012421/58207484494",
@@ -17879,35 +17879,6 @@
       "_last_price": null
     },
     {
-      "id": "40265722427",
-      "name": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
-      "price": 7.7,
-      "original_price": 13.75,
-      "discount": 44.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
-      "link": "https://s.shopee.com.br/30oJI54LLo",
-      "rating": "5",
-      "sales": 550,
-      "shop": "br.FashLoop",
-      "category": "isca artificial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40265722427,
-        "productName": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
-        "price": "7.7",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.03",
-        "sales": 550,
-        "ratingStar": "5",
-        "shopName": "br.FashLoop",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
-        "productLink": "https://shopee.com.br/product/1603567416/40265722427",
-        "offerLink": "https://s.shopee.com.br/30oJI54LLo"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23597348191",
       "name": "Kit 3 Chapéu Pescador Australiano Boné UV Proteção Solar Carpinteiro Pesca Camping Pescoço",
       "price": 38.99,
@@ -18571,6 +18542,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9h28j58zyf6c1",
         "productLink": "https://shopee.com.br/product/1267134569/18699721825",
         "offerLink": "https://s.shopee.com.br/7VGkoLfGR7"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "40265722427",
+      "name": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
+      "price": 7.7,
+      "original_price": 13.51,
+      "discount": 43.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
+      "link": "https://s.shopee.com.br/30oJI54LLo",
+      "rating": "5",
+      "sales": 550,
+      "shop": "br.FashLoop",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 40265722427,
+        "productName": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
+        "price": "7.7",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.03",
+        "sales": 550,
+        "ratingStar": "5",
+        "shopName": "br.FashLoop",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
+        "productLink": "https://shopee.com.br/product/1603567416/40265722427",
+        "offerLink": "https://s.shopee.com.br/30oJI54LLo"
       },
       "_last_price": null
     },
