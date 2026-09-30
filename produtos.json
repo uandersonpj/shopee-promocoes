@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T21:59:03.270691+00:00",
-  "total": 1106,
+  "updated_at": "2026-09-30T22:18:22.728647+00:00",
+  "total": 1107,
   "products": [
     {
       "id": "50203126324",
@@ -606,7 +606,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
         "productLink": "https://shopee.com.br/product/344381236/57911938287",
         "offerLink": "https://s.shopee.com.br/5fp9G3y4IM"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21897981294",
@@ -1469,6 +1470,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mht65f9o464h1e",
         "productLink": "https://shopee.com.br/product/1180298845/23594156062",
         "offerLink": "https://s.shopee.com.br/3LREToF508"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58263959925",
+      "name": "Kit Shampoo e Condicionador Macadamia  + Colágeno  1L – Limpeza e Hidratação Profunda Capilar",
+      "price": 25.5,
+      "original_price": 102.0,
+      "discount": 75.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825aj-mqgalw9z1d6od8",
+      "link": "https://s.shopee.com.br/6L4q4dJGel",
+      "rating": "4.7",
+      "sales": 2248,
+      "shop": "RP COSMETICOS",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58263959925,
+        "productName": "Kit Shampoo e Condicionador Macadamia  + Colágeno  1L – Limpeza e Hidratação Profunda Capilar",
+        "price": "25.5",
+        "priceDiscountRate": 75,
+        "commissionRate": "0.03",
+        "sales": 2248,
+        "ratingStar": "4.7",
+        "shopName": "RP COSMETICOS",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aj-mqgalw9z1d6od8",
+        "productLink": "https://shopee.com.br/product/1737409766/58263959925",
+        "offerLink": "https://s.shopee.com.br/6L4q4dJGel"
       },
       "_last_price": null
     },
@@ -2861,6 +2891,35 @@
       "_last_price": null
     },
     {
+      "id": "23598926898",
+      "name": "Sambura De Arame Galvanizado P/ isca viva pesca peixe vivo",
+      "price": 28.19,
+      "original_price": 93.97,
+      "discount": 70.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbml-m5lv13aw49rf84",
+      "link": "https://s.shopee.com.br/30oPL2BdsW",
+      "rating": "4.9",
+      "sales": 141,
+      "shop": "YURI.SHOP",
+      "category": "rede de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23598926898,
+        "productName": "Sambura De Arame Galvanizado P/ isca viva pesca peixe vivo",
+        "price": "28.19",
+        "priceDiscountRate": 70,
+        "commissionRate": "0.03",
+        "sales": 141,
+        "ratingStar": "4.9",
+        "shopName": "YURI.SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbml-m5lv13aw49rf84",
+        "productLink": "https://shopee.com.br/product/1202547029/23598926898",
+        "offerLink": "https://s.shopee.com.br/30oPL2BdsW"
+      },
+      "_last_price": null
+    },
+    {
       "id": "27750684593",
       "name": "SULOVEDU Chapéu De Baseball Casal , Boné De Pesca Anti-Sol De Aba Curta , 2024 Chapéus Retro Respiráveis Unisexo",
       "price": 38.06,
@@ -3002,6 +3061,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82581-mt8aolrn1cec7b",
         "productLink": "https://shopee.com.br/product/698887220/58251069728",
         "offerLink": "https://s.shopee.com.br/BUDPLsNrL"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58251073566",
+      "name": "Passaguá de Pesca 1,75m em Alumínio Retrátil Dobrável – Ideal para Lago, Rio e Pesca Esportiva",
+      "price": 29.99,
+      "original_price": 99.97,
+      "discount": 70.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-820lf-mnmxywm8r7r70e",
+      "link": "https://s.shopee.com.br/4fwdK65IUo",
+      "rating": "4.9",
+      "sales": 214,
+      "shop": "YURI.SHOP",
+      "category": "rede de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58251073566,
+        "productName": "Passaguá de Pesca 1,75m em Alumínio Retrátil Dobrável – Ideal para Lago, Rio e Pesca Esportiva",
+        "price": "29.99",
+        "priceDiscountRate": 70,
+        "commissionRate": "0.03",
+        "sales": 214,
+        "ratingStar": "4.9",
+        "shopName": "YURI.SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820lf-mnmxywm8r7r70e",
+        "productLink": "https://shopee.com.br/product/1202547029/58251073566",
+        "offerLink": "https://s.shopee.com.br/4fwdK65IUo"
       },
       "_last_price": null
     },
@@ -3262,35 +3350,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfgj-m9amfdsd1v53e7",
         "productLink": "https://shopee.com.br/product/410705973/20299250309",
         "offerLink": "https://s.shopee.com.br/8fSkpYeFeR"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "17255136776",
-      "name": "Relógio Smartwatch D20 Pro Bluetooth Coloca Foto na Tela Monitor Cardíaco Pressão Esportivo Android iPhone",
-      "price": 17.99,
-      "original_price": 56.22,
-      "discount": 68.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfgg-m9akut11lpyac0",
-      "link": "https://s.shopee.com.br/AAHYcJYXbq",
-      "rating": "4.6",
-      "sales": 2797,
-      "shop": "Marisa.store",
-      "category": "monitor",
-      "source": "shopee",
-      "_item": {
-        "itemId": 17255136776,
-        "productName": "Relógio Smartwatch D20 Pro Bluetooth Coloca Foto na Tela Monitor Cardíaco Pressão Esportivo Android iPhone",
-        "price": "17.99",
-        "priceDiscountRate": 68,
-        "commissionRate": "0.06",
-        "sales": 2797,
-        "ratingStar": "4.6",
-        "shopName": "Marisa.store",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfgg-m9akut11lpyac0",
-        "productLink": "https://shopee.com.br/product/400311012/17255136776",
-        "offerLink": "https://s.shopee.com.br/AAHYcJYXbq"
       },
       "_last_price": null
     },
@@ -5410,6 +5469,35 @@
       "_last_price": null
     },
     {
+      "id": "17255136776",
+      "name": "Relógio Smartwatch D20 Pro Bluetooth Coloca Foto na Tela Monitor Cardíaco Pressão Esportivo Android iPhone",
+      "price": 20.99,
+      "original_price": 56.73,
+      "discount": 63.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfgg-m9akut11lpyac0",
+      "link": "https://s.shopee.com.br/AAHYcJYXbq",
+      "rating": "4.6",
+      "sales": 2797,
+      "shop": "Marisa.store",
+      "category": "monitor",
+      "source": "shopee",
+      "_item": {
+        "itemId": 17255136776,
+        "productName": "Relógio Smartwatch D20 Pro Bluetooth Coloca Foto na Tela Monitor Cardíaco Pressão Esportivo Android iPhone",
+        "price": "20.99",
+        "priceDiscountRate": 63,
+        "commissionRate": "0.06",
+        "sales": 2797,
+        "ratingStar": "4.6",
+        "shopName": "Marisa.store",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfgg-m9akut11lpyac0",
+        "productLink": "https://shopee.com.br/product/400311012/17255136776",
+        "offerLink": "https://s.shopee.com.br/AAHYcJYXbq"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20297809121",
       "name": "Babá Eletrônica com Monitor Visão Noturna Áudio Bidirecional Sensor de Temperatura Monitor Infantil Digital",
       "price": 221.99,
@@ -5812,93 +5900,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-moj6y9k3bm6l25",
         "productLink": "https://shopee.com.br/product/1500993597/41809393497",
         "offerLink": "https://s.shopee.com.br/3B7oHcCt6q"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58265606332",
-      "name": "FW Vara Pesca P/Carretilha 1,80m/1,65m 8-17lbs 2 partes Leve E e Resistente",
-      "price": 30.0,
-      "original_price": 81.08,
-      "discount": 63.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mrie96ths9hif0",
-      "link": "https://s.shopee.com.br/8pmB228ugA",
-      "rating": "4.8",
-      "sales": 86,
-      "shop": "Fairwind Fishing",
-      "category": "carretilha pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58265606332,
-        "productName": "FW Vara Pesca P/Carretilha 1,80m/1,65m 8-17lbs 2 partes Leve E e Resistente",
-        "price": "30",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.11",
-        "sales": 86,
-        "ratingStar": "4.8",
-        "shopName": "Fairwind Fishing",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mrie96ths9hif0",
-        "productLink": "https://shopee.com.br/product/1748082627/58265606332",
-        "offerLink": "https://s.shopee.com.br/8pmB228ugA"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22693260211",
-      "name": "Sambura De Arame Galvanizado P/ isca viva pesca peixe vivo",
-      "price": 29.99,
-      "original_price": 81.05,
-      "discount": 63.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdyi-lzorhkgjtx524c",
-      "link": "https://s.shopee.com.br/60RzetMU19",
-      "rating": "4.9",
-      "sales": 430,
-      "shop": "Sholovi Oficial",
-      "category": "isca pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22693260211,
-        "productName": "Sambura De Arame Galvanizado P/ isca viva pesca peixe vivo",
-        "price": "29.99",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.08",
-        "sales": 430,
-        "ratingStar": "4.9",
-        "shopName": "Sholovi Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyi-lzorhkgjtx524c",
-        "productLink": "https://shopee.com.br/product/390180328/22693260211",
-        "offerLink": "https://s.shopee.com.br/60RzetMU19"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "53112635208",
-      "name": "Oceano Praia Tema Parede Pendurado Decoração 100x150cm 100x200cm Mão Tecido Rede De Pesca Quarto Festa Prop",
-      "price": 18.29,
-      "original_price": 49.43,
-      "discount": 63.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824ij-mprnjnbdx6hbb9",
-      "link": "https://s.shopee.com.br/6VOGFoKa0C",
-      "rating": "4.8",
-      "sales": 361,
-      "shop": "allland.br",
-      "category": "rede de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 53112635208,
-        "productName": "Oceano Praia Tema Parede Pendurado Decoração 100x150cm 100x200cm Mão Tecido Rede De Pesca Quarto Festa Prop",
-        "price": "18.29",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.07",
-        "sales": 361,
-        "ratingStar": "4.8",
-        "shopName": "allland.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ij-mprnjnbdx6hbb9",
-        "productLink": "https://shopee.com.br/product/264980572/53112635208",
-        "offerLink": "https://s.shopee.com.br/6VOGFoKa0C"
       },
       "_last_price": null
     },
@@ -7231,6 +7232,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mrm0k1f8sj5zd3",
         "productLink": "https://shopee.com.br/product/569696363/18899553687",
         "offerLink": "https://s.shopee.com.br/5VVj56MRLU"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18197089486",
+      "name": "Camisa De Cachorro Estampada Com Desenho Animado Gato Malha Protetora Solar Para Animais De Estimação",
+      "price": 6.86,
+      "original_price": 17.15,
+      "discount": 60.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-7r98o-luouxwoipd4w63",
+      "link": "https://s.shopee.com.br/W736cGasS",
+      "rating": "4.9",
+      "sales": 1071,
+      "shop": "julpet.br",
+      "category": "protetor solar",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18197089486,
+        "productName": "Camisa De Cachorro Estampada Com Desenho Animado Gato Malha Protetora Solar Para Animais De Estimação",
+        "price": "6.86",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.08",
+        "sales": 1071,
+        "ratingStar": "4.9",
+        "shopName": "julpet.br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-luouxwoipd4w63",
+        "productLink": "https://shopee.com.br/product/612187100/18197089486",
+        "offerLink": "https://s.shopee.com.br/W736cGasS"
       },
       "_last_price": null
     },
@@ -8855,6 +8885,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mqowmslbsmirfd",
         "productLink": "https://shopee.com.br/product/1396794386/22298882024",
         "offerLink": "https://s.shopee.com.br/4qG34Pwx59"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23820180033",
+      "name": "Ração Magnus Todo Dia Adulto Raça Pequena 15 kg",
+      "price": 80.9,
+      "original_price": 188.14,
+      "discount": 57.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134201-23010-vnqeblpvjsmvdc",
+      "link": "https://s.shopee.com.br/1qcRwl5uSI",
+      "rating": "4.9",
+      "sales": 390,
+      "shop": "PORTAL PET AGRO LTDA ME",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23820180033,
+        "productName": "Ração Magnus Todo Dia Adulto Raça Pequena 15 kg",
+        "price": "80.9",
+        "priceDiscountRate": 57,
+        "commissionRate": "0.03",
+        "sales": 390,
+        "ratingStar": "4.9",
+        "shopName": "PORTAL PET AGRO LTDA ME",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23010-vnqeblpvjsmvdc",
+        "productLink": "https://shopee.com.br/product/464043565/23820180033",
+        "offerLink": "https://s.shopee.com.br/1qcRwl5uSI"
       },
       "_last_price": null
     },
@@ -12045,8 +12104,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfk692w7qbk442",
         "productLink": "https://shopee.com.br/product/1542901362/22494499643",
         "offerLink": "https://s.shopee.com.br/1BMjtuGq9Z"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58205469373",
@@ -13095,8 +13153,8 @@
     {
       "id": "58265081114",
       "name": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-      "price": 10.99,
-      "original_price": 21.98,
+      "price": 19.99,
+      "original_price": 39.98,
       "discount": 50.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
@@ -13109,7 +13167,7 @@
       "_item": {
         "itemId": 58265081114,
         "productName": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-        "price": "10.99",
+        "price": "19.99",
         "priceDiscountRate": 50,
         "commissionRate": "0.13",
         "sales": 4510,
@@ -20401,35 +20459,6 @@
       "_last_price": null
     },
     {
-      "id": "22692272756",
-      "name": "Saco de pesca Sambura Covo Saco Nylon P/peixe Tipo Sacola (ESCOLHA O TAMANHO)",
-      "price": 12.0,
-      "original_price": 20.0,
-      "discount": 40.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98p-ll3tndlwyxbw16",
-      "link": "https://s.shopee.com.br/2gBXglZAmg",
-      "rating": "4.9",
-      "sales": 253,
-      "shop": "Fabrica da pesca",
-      "category": "rede de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22692272756,
-        "productName": "Saco de pesca Sambura Covo Saco Nylon P/peixe Tipo Sacola (ESCOLHA O TAMANHO)",
-        "price": "12",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 253,
-        "ratingStar": "4.9",
-        "shopName": "Fabrica da pesca",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98p-ll3tndlwyxbw16",
-        "productLink": "https://shopee.com.br/product/408505827/22692272756",
-        "offerLink": "https://s.shopee.com.br/2gBXglZAmg"
-      },
-      "_last_price": null
-    },
-    {
       "id": "56653475679",
       "name": "Teclado Gamer LED RGB Semi Mecânico Base Metal Profissional USB Luminoso Luzes Suporte Para Celular",
       "price": 54.9,
@@ -21673,35 +21702,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mqgbmkntmvwi98",
         "productLink": "https://shopee.com.br/product/1772970441/58257021649",
         "offerLink": "https://s.shopee.com.br/7VGnSmEpI4"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23394690451",
-      "name": "Principia Kit Completo Peles Sensíveis c/ Gel de Limpeza GL-02 + Creme Hidratante CH-01 + Protetor Solar PS-01 FPS 60",
-      "price": 95.65,
-      "original_price": 151.83,
-      "discount": 37.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh9d339f89af1c",
-      "link": "https://s.shopee.com.br/7faEIL7eVN",
-      "rating": "4.9",
-      "sales": 3396,
-      "shop": "Principia Skincare",
-      "category": "protetor solar",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23394690451,
-        "productName": "Principia Kit Completo Peles Sensíveis c/ Gel de Limpeza GL-02 + Creme Hidratante CH-01 + Protetor Solar PS-01 FPS 60",
-        "price": "95.65",
-        "priceDiscountRate": 37,
-        "commissionRate": "0.13",
-        "sales": 3396,
-        "ratingStar": "4.9",
-        "shopName": "Principia Skincare",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh9d339f89af1c",
-        "productLink": "https://shopee.com.br/product/373261329/23394690451",
-        "offerLink": "https://s.shopee.com.br/7faEIL7eVN"
       },
       "_last_price": null
     },
@@ -26462,6 +26462,35 @@
       "_last_price": null
     },
     {
+      "id": "58205243949",
+      "name": "Rede Descanso Dormir Garimpeira Camuflada Resistente Trilhas Mata Pescaria Acampamento 3,0m x1,5m",
+      "price": 38.9,
+      "original_price": 54.79,
+      "discount": 29.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81zts-ml0yixab2znnfa",
+      "link": "https://s.shopee.com.br/3B7pXLB0XZ",
+      "rating": "4.8",
+      "sales": 162,
+      "shop": "Decoralarsb",
+      "category": "rede de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58205243949,
+        "productName": "Rede Descanso Dormir Garimpeira Camuflada Resistente Trilhas Mata Pescaria Acampamento 3,0m x1,5m",
+        "price": "38.9",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.11",
+        "sales": 162,
+        "ratingStar": "4.8",
+        "shopName": "Decoralarsb",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zts-ml0yixab2znnfa",
+        "productLink": "https://shopee.com.br/product/1356561691/58205243949",
+        "offerLink": "https://s.shopee.com.br/3B7pXLB0XZ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22994696891",
       "name": "Repetidor de Sinal Wi-Fi Roteador Wireless 2.4G Sem Fio 4 Antenas Longo Alcance Potente Fácil Instalação",
       "price": 64.9,
@@ -27419,35 +27448,6 @@
       "_last_price": null
     },
     {
-      "id": "21199212964",
-      "name": "Kit Cozinha Completa: Escorredor de Louça + Lixeira 5L + Porta Detergente + Rodinho de Pia",
-      "price": 35.99,
-      "original_price": 47.99,
-      "discount": 25.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcex-lslue7zt1z3pfc",
-      "link": "https://s.shopee.com.br/AAHYdeN0o6",
-      "rating": "4.9",
-      "sales": 2968,
-      "shop": "Utilidades Alencar",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21199212964,
-        "productName": "Kit Cozinha Completa: Escorredor de Louça + Lixeira 5L + Porta Detergente + Rodinho de Pia",
-        "price": "35.99",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.09",
-        "sales": 2968,
-        "ratingStar": "4.9",
-        "shopName": "Utilidades Alencar",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcex-lslue7zt1z3pfc",
-        "productLink": "https://shopee.com.br/product/754451852/21199212964",
-        "offerLink": "https://s.shopee.com.br/AAHYdeN0o6"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58202494237",
       "name": "Dispensador automático de desinfetante para as mãos com sensor inteligente",
       "price": 52.5,
@@ -27531,6 +27531,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mrlv6sflnt38e4",
         "productLink": "https://shopee.com.br/product/916167800/58215788285",
         "offerLink": "https://s.shopee.com.br/70KWqY17Yg"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23394690451",
+      "name": "Principia Kit Completo Peles Sensíveis c/ Gel de Limpeza GL-02 + Creme Hidratante CH-01 + Protetor Solar PS-01 FPS 60",
+      "price": 113.23,
+      "original_price": 150.97,
+      "discount": 25.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh9d339f89af1c",
+      "link": "https://s.shopee.com.br/7faEIL7eVN",
+      "rating": "4.9",
+      "sales": 3396,
+      "shop": "Principia Skincare",
+      "category": "protetor solar",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23394690451,
+        "productName": "Principia Kit Completo Peles Sensíveis c/ Gel de Limpeza GL-02 + Creme Hidratante CH-01 + Protetor Solar PS-01 FPS 60",
+        "price": "113.23",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.13",
+        "sales": 3396,
+        "ratingStar": "4.9",
+        "shopName": "Principia Skincare",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh9d339f89af1c",
+        "productLink": "https://shopee.com.br/product/373261329/23394690451",
+        "offerLink": "https://s.shopee.com.br/7faEIL7eVN"
       },
       "_last_price": null
     },
@@ -30667,6 +30696,35 @@
       "_last_price": null
     },
     {
+      "id": "21199212964",
+      "name": "Kit Cozinha Completa: Escorredor de Louça + Lixeira 5L + Porta Detergente + Rodinho de Pia",
+      "price": 36.9,
+      "original_price": 45.0,
+      "discount": 18.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcex-lslue7zt1z3pfc",
+      "link": "https://s.shopee.com.br/AAHYdeN0o6",
+      "rating": "4.9",
+      "sales": 2968,
+      "shop": "Utilidades Alencar",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21199212964,
+        "productName": "Kit Cozinha Completa: Escorredor de Louça + Lixeira 5L + Porta Detergente + Rodinho de Pia",
+        "price": "36.9",
+        "priceDiscountRate": 18,
+        "commissionRate": "0.09",
+        "sales": 2968,
+        "ratingStar": "4.9",
+        "shopName": "Utilidades Alencar",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcex-lslue7zt1z3pfc",
+        "productLink": "https://shopee.com.br/product/754451852/21199212964",
+        "offerLink": "https://s.shopee.com.br/AAHYdeN0o6"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23597915053",
       "name": "Kit Sundown Fps50 200ml + Sundown Fps50 120ml",
       "price": 59.9,
@@ -31272,35 +31330,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mrc5kpu6ycxwb3",
         "productLink": "https://shopee.com.br/product/1416544509/58215414144",
         "offerLink": "https://s.shopee.com.br/113JhftSLD"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18638126633",
-      "name": "Passagua Para Pesca Em Aluminio De Otima Qualidade 92cm",
-      "price": 28.63,
-      "original_price": 34.49,
-      "discount": 17.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mtpmjs5uohdub9",
-      "link": "https://s.shopee.com.br/50ZST3QI32",
-      "rating": "4.8",
-      "sales": 266,
-      "shop": "Fabrica da pesca",
-      "category": "rede de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18638126633,
-        "productName": "Passagua Para Pesca Em Aluminio De Otima Qualidade 92cm",
-        "price": "28.63",
-        "priceDiscountRate": 17,
-        "commissionRate": "0.03",
-        "sales": 266,
-        "ratingStar": "4.8",
-        "shopName": "Fabrica da pesca",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mtpmjs5uohdub9",
-        "productLink": "https://shopee.com.br/product/408505827/18638126633",
-        "offerLink": "https://s.shopee.com.br/50ZST3QI32"
       },
       "_last_price": null
     },
