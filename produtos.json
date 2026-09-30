@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T06:56:10.576103+00:00",
-  "total": 1127,
+  "updated_at": "2026-09-30T07:15:06.367935+00:00",
+  "total": 1126,
   "products": [
     {
       "id": "50203126324",
@@ -28,7 +28,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822zt-mia9h90fnksi38",
         "productLink": "https://shopee.com.br/product/450664666/50203126324",
         "offerLink": "https://s.shopee.com.br/3g44sTz43f"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "52011120312",
@@ -4871,35 +4872,6 @@
       "_last_price": null
     },
     {
-      "id": "22797770364",
-      "name": "Vara de Pesca Telescópica 1.8-3.6M Super Dura Ultra Leve Longo Alcance Profissional para Molinete Praia Mar Rio Lago",
-      "price": 26.8,
-      "original_price": 76.57,
-      "discount": 65.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcdx-ltmivw9kdxo22a",
-      "link": "https://s.shopee.com.br/1AmVqWSdH",
-      "rating": "4.8",
-      "sales": 133,
-      "shop": "warm11.br",
-      "category": "carretilha pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22797770364,
-        "productName": "Vara de Pesca Telescópica 1.8-3.6M Super Dura Ultra Leve Longo Alcance Profissional para Molinete Praia Mar Rio Lago",
-        "price": "26.8",
-        "priceDiscountRate": 65,
-        "commissionRate": "0.12",
-        "sales": 133,
-        "ratingStar": "4.8",
-        "shopName": "warm11.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdx-ltmivw9kdxo22a",
-        "productLink": "https://shopee.com.br/product/1171921876/22797770364",
-        "offerLink": "https://s.shopee.com.br/1AmVqWSdH"
-      },
-      "_last_price": null
-    },
-    {
       "id": "17570976729",
       "name": "Iscas De Pesca Artificiais Com Superfície Popper De 9,5cm/12g",
       "price": 5.6,
@@ -5532,7 +5504,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mrztp81e9kw7b1",
         "productLink": "https://shopee.com.br/product/1781912896/58265714065",
         "offerLink": "https://s.shopee.com.br/1LgA67RMNw"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19698719773",
