@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T20:03:12.182198+00:00",
-  "total": 1114,
+  "updated_at": "2026-09-30T20:22:17.850259+00:00",
+  "total": 1113,
   "products": [
     {
       "id": "50203126324",
@@ -57,7 +57,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qo-moodqvbtpo8yf2",
         "productLink": "https://shopee.com.br/product/1571156019/52011120312",
         "offerLink": "https://s.shopee.com.br/1BMkr1S0wV"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58257273463",
@@ -229,34 +230,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-msxmjc85bkzr38",
         "productLink": "https://shopee.com.br/product/1198407784/23497594302",
         "offerLink": "https://s.shopee.com.br/LncuOWsPT"
-      }
-    },
-    {
-      "id": "57911938287",
-      "name": "Fonte ATX MSI 650W MAG 2.4 PCIE 80 Plus Bronze 306-7ZPAX39-HH9",
-      "price": 266.06,
-      "original_price": 1565.06,
-      "discount": 83.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
-      "link": "https://s.shopee.com.br/5fp9G3y4IM",
-      "rating": "5",
-      "sales": 557,
-      "shop": "TNTinfoLoja",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57911938287,
-        "productName": "Fonte ATX MSI 650W MAG 2.4 PCIE 80 Plus Bronze 306-7ZPAX39-HH9",
-        "price": "266.06",
-        "priceDiscountRate": 83,
-        "commissionRate": "0.03",
-        "sales": 557,
-        "ratingStar": "5",
-        "shopName": "TNTinfoLoja",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
-        "productLink": "https://shopee.com.br/product/344381236/57911938287",
-        "offerLink": "https://s.shopee.com.br/5fp9G3y4IM"
       }
     },
     {
@@ -603,6 +576,34 @@
         "offerLink": "https://s.shopee.com.br/905bEAcyyT"
       },
       "_last_price": null
+    },
+    {
+      "id": "57911938287",
+      "name": "Fonte ATX MSI 650W MAG 2.4 PCIE 80 Plus Bronze 306-7ZPAX39-HH9",
+      "price": 319.0,
+      "original_price": 1595.0,
+      "discount": 80.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
+      "link": "https://s.shopee.com.br/5fp9G3y4IM",
+      "rating": "5",
+      "sales": 557,
+      "shop": "TNTinfoLoja",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57911938287,
+        "productName": "Fonte ATX MSI 650W MAG 2.4 PCIE 80 Plus Bronze 306-7ZPAX39-HH9",
+        "price": "319",
+        "priceDiscountRate": 80,
+        "commissionRate": "0.03",
+        "sales": 557,
+        "ratingStar": "5",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
+        "productLink": "https://shopee.com.br/product/344381236/57911938287",
+        "offerLink": "https://s.shopee.com.br/5fp9G3y4IM"
+      }
     },
     {
       "id": "21897981294",
@@ -3235,6 +3236,35 @@
       }
     },
     {
+      "id": "20299250319",
+      "name": "Monitor digital de pressão arterial de braço totalmente automático anjgg",
+      "price": 38.99,
+      "original_price": 121.84,
+      "discount": 68.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-81zte-mmiy7u0wlgqw8c",
+      "link": "https://s.shopee.com.br/8pmB1rdcJS",
+      "rating": "4.8",
+      "sales": 5346,
+      "shop": "ANJ.GG store",
+      "category": "monitor",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20299250319,
+        "productName": "Monitor digital de pressão arterial de braço totalmente automático anjgg",
+        "price": "38.99",
+        "priceDiscountRate": 68,
+        "commissionRate": "0.1",
+        "sales": 5346,
+        "ratingStar": "4.8",
+        "shopName": "ANJ.GG store",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zte-mmiy7u0wlgqw8c",
+        "productLink": "https://shopee.com.br/product/391739739/20299250319",
+        "offerLink": "https://s.shopee.com.br/8pmB1rdcJS"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20299250309",
       "name": "Monitor digital de pressão arterial de braço totalmente automático  jorge",
       "price": 38.69,
@@ -4887,35 +4917,6 @@
       "_last_price": null
     },
     {
-      "id": "20299250319",
-      "name": "Monitor digital de pressão arterial de braço totalmente automático anjgg",
-      "price": 42.99,
-      "original_price": 119.42,
-      "discount": 64.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-81zte-mmiy7u0wlgqw8c",
-      "link": "https://s.shopee.com.br/8pmB1rdcJS",
-      "rating": "4.8",
-      "sales": 5346,
-      "shop": "ANJ.GG store",
-      "category": "monitor",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20299250319,
-        "productName": "Monitor digital de pressão arterial de braço totalmente automático anjgg",
-        "price": "42.99",
-        "priceDiscountRate": 64,
-        "commissionRate": "0.1",
-        "sales": 5346,
-        "ratingStar": "4.8",
-        "shopName": "ANJ.GG store",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zte-mmiy7u0wlgqw8c",
-        "productLink": "https://shopee.com.br/product/391739739/20299250319",
-        "offerLink": "https://s.shopee.com.br/8pmB1rdcJS"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20197677108",
       "name": "Monitor digital de pressão arterial de braço totalmente automático",
       "price": 42.99,
@@ -6129,8 +6130,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258x-msf4mu1o9q1124",
         "productLink": "https://shopee.com.br/product/832040275/23096150316",
         "offerLink": "https://s.shopee.com.br/905bEDbyd8"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23424377802",
@@ -10367,35 +10367,6 @@
       "_last_price": null
     },
     {
-      "id": "23694943548",
-      "name": "Kit 10 Panos de Microfibra Multiuso Absorção para Limpeza Doméstica Alta",
-      "price": 16.49,
-      "original_price": 35.85,
-      "discount": 54.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-820ll-mnebnollo07c63",
-      "link": "https://s.shopee.com.br/6VOGFd31ZX",
-      "rating": "4.6",
-      "sales": 2422,
-      "shop": "JupiTerra",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23694943548,
-        "productName": "Kit 10 Panos de Microfibra Multiuso Absorção para Limpeza Doméstica Alta",
-        "price": "16.49",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.03",
-        "sales": 2422,
-        "ratingStar": "4.6",
-        "shopName": "JupiTerra",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820ll-mnebnollo07c63",
-        "productLink": "https://shopee.com.br/product/1765095638/23694943548",
-        "offerLink": "https://s.shopee.com.br/6VOGFd31ZX"
-      },
-      "_last_price": null
-    },
-    {
       "id": "21799664480",
       "name": "Kit Panos de Copa de Microfibra 35x55 toalha de Prato Linda",
       "price": 28.9,
@@ -10636,7 +10607,7 @@
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-82626-mm9sym8py58v5c",
       "link": "https://s.shopee.com.br/9V1rpDTaNP",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 8285,
       "shop": "Universo do Lar*",
       "category": "air fryer",
@@ -10648,7 +10619,7 @@
         "priceDiscountRate": 54,
         "commissionRate": "0.13",
         "sales": 8285,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "Universo do Lar*",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82626-mm9sym8py58v5c",
         "productLink": "https://shopee.com.br/product/1619812344/58207663151",
@@ -11088,6 +11059,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
         "productLink": "https://shopee.com.br/product/1270189717/29343102973",
         "offerLink": "https://s.shopee.com.br/6q179Ug7pm"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58211030740",
+      "name": "DISPENSER PORTA SABÃO DETERGENTE LÍQUIDO COM BUCHA ESPONJA",
+      "price": 13.99,
+      "original_price": 29.77,
+      "discount": 53.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823r7-mogurigpiio937",
+      "link": "https://s.shopee.com.br/8V9KeaTMBg",
+      "rating": "4.8",
+      "sales": 1969,
+      "shop": "STORM SHOP",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58211030740,
+        "productName": "DISPENSER PORTA SABÃO DETERGENTE LÍQUIDO COM BUCHA ESPONJA",
+        "price": "13.99",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.07",
+        "sales": 1969,
+        "ratingStar": "4.8",
+        "shopName": "STORM SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r7-mogurigpiio937",
+        "productLink": "https://shopee.com.br/product/941242744/58211030740",
+        "offerLink": "https://s.shopee.com.br/8V9KeaTMBg"
       },
       "_last_price": null
     },
@@ -13124,8 +13124,8 @@
     {
       "id": "58265081114",
       "name": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-      "price": 10.99,
-      "original_price": 21.98,
+      "price": 19.99,
+      "original_price": 39.98,
       "discount": 50.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
@@ -13138,7 +13138,7 @@
       "_item": {
         "itemId": 58265081114,
         "productName": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-        "price": "10.99",
+        "price": "19.99",
         "priceDiscountRate": 50,
         "commissionRate": "0.13",
         "sales": 4510,
@@ -18516,35 +18516,6 @@
       "_last_price": null
     },
     {
-      "id": "50161016728",
-      "name": "Kit 3 a 10 Potes Herméticos 2L Mantimentos Cozinha Grãos Arroz Organizador Lavanderia Sabão em Pó Amaciante Detergente",
-      "price": 48.17,
-      "original_price": 83.05,
-      "discount": 42.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-moxz67k0muit4a",
-      "link": "https://s.shopee.com.br/3LRFTU1YV2",
-      "rating": "4.8",
-      "sales": 705,
-      "shop": "shopmultiprime",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 50161016728,
-        "productName": "Kit 3 a 10 Potes Herméticos 2L Mantimentos Cozinha Grãos Arroz Organizador Lavanderia Sabão em Pó Amaciante Detergente",
-        "price": "48.17",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.03",
-        "sales": 705,
-        "ratingStar": "4.8",
-        "shopName": "shopmultiprime",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-moxz67k0muit4a",
-        "productLink": "https://shopee.com.br/product/1327572074/50161016728",
-        "offerLink": "https://s.shopee.com.br/3LRFTU1YV2"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22794061718",
       "name": "Dispensers Lavanderia 1,5L e 2,3L - Amaciante, Sabão em Pó, Sabão Líquido, Tira Manchas kit/individ",
       "price": 47.9,
@@ -20691,6 +20662,35 @@
       "_last_price": null
     },
     {
+      "id": "22299409946",
+      "name": "12 Pçs + 3 Esponjas Set Conjunto De Pincéis De Maquiagem Profissional",
+      "price": 32.99,
+      "original_price": 54.08,
+      "discount": 39.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82622-mlqhnya4zehb31",
+      "link": "https://s.shopee.com.br/4LJlfdXfvT",
+      "rating": "4.9",
+      "sales": 2991,
+      "shop": "LUCKY BAZAR",
+      "category": "esponja",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22299409946,
+        "productName": "12 Pçs + 3 Esponjas Set Conjunto De Pincéis De Maquiagem Profissional",
+        "price": "32.99",
+        "priceDiscountRate": 39,
+        "commissionRate": "0.03",
+        "sales": 2991,
+        "ratingStar": "4.9",
+        "shopName": "LUCKY BAZAR",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82622-mlqhnya4zehb31",
+        "productLink": "https://shopee.com.br/product/375201738/22299409946",
+        "offerLink": "https://s.shopee.com.br/4LJlfdXfvT"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23493418176",
       "name": "Kit 3 Panos de Chão Microfibra 70x60cm Furo para Rodo Dupla Camada",
       "price": 21.99,
@@ -22253,35 +22253,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261i-mkcjnrt0gvlu4d",
         "productLink": "https://shopee.com.br/product/392545055/23899161746",
         "offerLink": "https://s.shopee.com.br/70KXLnfUUn"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58206707204",
-      "name": "12 Pçs + 3 Esponjas Set Conjunto De Pincéis De Maquiagem Profissional",
-      "price": 31.9,
-      "original_price": 49.84,
-      "discount": 36.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82610-mlovh9no3bb787",
-      "link": "https://s.shopee.com.br/8V9LiHlAjR",
-      "rating": "4.9",
-      "sales": 1926,
-      "shop": "Abcshop.br",
-      "category": "esponja",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58206707204,
-        "productName": "12 Pçs + 3 Esponjas Set Conjunto De Pincéis De Maquiagem Profissional",
-        "price": "31.9",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.03",
-        "sales": 1926,
-        "ratingStar": "4.9",
-        "shopName": "Abcshop.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82610-mlovh9no3bb787",
-        "productLink": "https://shopee.com.br/product/421446882/58206707204",
-        "offerLink": "https://s.shopee.com.br/8V9LiHlAjR"
       },
       "_last_price": null
     },
@@ -29043,35 +29014,6 @@
       "_last_price": null
     },
     {
-      "id": "58255902115",
-      "name": "Base Sabão Líquido Faz 20L – Kit Blend Concentrado 2 Frascos – Fácil de Fazer",
-      "price": 56.99,
-      "original_price": 73.06,
-      "discount": 22.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820li-mp3t5spg1berbf",
-      "link": "https://s.shopee.com.br/8fSkqtSiqh",
-      "rating": "4.9",
-      "sales": 5544,
-      "shop": "Mercado das Essências",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58255902115,
-        "productName": "Base Sabão Líquido Faz 20L – Kit Blend Concentrado 2 Frascos – Fácil de Fazer",
-        "price": "56.99",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.03",
-        "sales": 5544,
-        "ratingStar": "4.9",
-        "shopName": "Mercado das Essências",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mp3t5spg1berbf",
-        "productLink": "https://shopee.com.br/product/1107585845/58255902115",
-        "offerLink": "https://s.shopee.com.br/8fSkqtSiqh"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23821265119",
       "name": "Kit 60 Cabides Redondos Preto Adulto Envio Imediato",
       "price": 38.98,
@@ -30837,6 +30779,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mnu1b8jsl1qc98",
         "productLink": "https://shopee.com.br/product/1492668721/22594240741",
         "offerLink": "https://s.shopee.com.br/4B0LTH4nBJ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58255902115",
+      "name": "Base Sabão Líquido Faz 20L – Kit Blend Concentrado 2 Frascos – Fácil de Fazer",
+      "price": 59.99,
+      "original_price": 73.16,
+      "discount": 18.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820li-mp3t5spg1berbf",
+      "link": "https://s.shopee.com.br/8fSkqtSiqh",
+      "rating": "4.9",
+      "sales": 5544,
+      "shop": "Mercado das Essências",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58255902115,
+        "productName": "Base Sabão Líquido Faz 20L – Kit Blend Concentrado 2 Frascos – Fácil de Fazer",
+        "price": "59.99",
+        "priceDiscountRate": 18,
+        "commissionRate": "0.03",
+        "sales": 5544,
+        "ratingStar": "4.9",
+        "shopName": "Mercado das Essências",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mp3t5spg1berbf",
+        "productLink": "https://shopee.com.br/product/1107585845/58255902115",
+        "offerLink": "https://s.shopee.com.br/8fSkqtSiqh"
       },
       "_last_price": null
     },
