@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T17:09:14.550471+00:00",
-  "total": 1122,
+  "updated_at": "2026-09-30T17:28:27.538017+00:00",
+  "total": 1121,
   "products": [
     {
       "id": "50203126324",
@@ -1119,8 +1119,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lzop7krz80iq1e",
         "productLink": "https://shopee.com.br/product/218996205/25391678999",
         "offerLink": "https://s.shopee.com.br/20vrXqrRu9"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "19398882418",
@@ -1270,8 +1269,8 @@
     {
       "id": "20398528613",
       "name": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
-      "price": 11.96,
-      "original_price": 49.83,
+      "price": 11.97,
+      "original_price": 49.88,
       "discount": 76.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mmvxxzgnnoqsff",
@@ -1284,7 +1283,7 @@
       "_item": {
         "itemId": 20398528613,
         "productName": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
-        "price": "11.96",
+        "price": "11.97",
         "priceDiscountRate": 76,
         "commissionRate": "0.07",
         "sales": 6628,
@@ -1814,7 +1813,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhjxwfmquepu9f",
         "productLink": "https://shopee.com.br/product/1541644955/41314419184",
         "offerLink": "https://s.shopee.com.br/3LRETnbTxJ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22099046331",
@@ -3290,35 +3290,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/4d3d9eceb4a23732c4b0f88ec5f6e5fa",
         "productLink": "https://shopee.com.br/product/233660920/21635320174",
         "offerLink": "https://s.shopee.com.br/gQTJ33vdA"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20299250319",
-      "name": "Monitor digital de pressão arterial de braço totalmente automático anjgg",
-      "price": 38.99,
-      "original_price": 121.84,
-      "discount": 68.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-81zte-mmiy7u0wlgqw8c",
-      "link": "https://s.shopee.com.br/8pmB1rdcJS",
-      "rating": "4.8",
-      "sales": 5340,
-      "shop": "ANJ.GG store",
-      "category": "monitor",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20299250319,
-        "productName": "Monitor digital de pressão arterial de braço totalmente automático anjgg",
-        "price": "38.99",
-        "priceDiscountRate": 68,
-        "commissionRate": "0.1",
-        "sales": 5340,
-        "ratingStar": "4.8",
-        "shopName": "ANJ.GG store",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zte-mmiy7u0wlgqw8c",
-        "productLink": "https://shopee.com.br/product/391739739/20299250319",
-        "offerLink": "https://s.shopee.com.br/8pmB1rdcJS"
       },
       "_last_price": null
     },
@@ -4942,6 +4913,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljm6gl8zhmw6e8",
         "productLink": "https://shopee.com.br/product/392271277/22691886601",
         "offerLink": "https://s.shopee.com.br/2Vs7UR5HBV"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20299250319",
+      "name": "Monitor digital de pressão arterial de braço totalmente automático anjgg",
+      "price": 42.99,
+      "original_price": 119.42,
+      "discount": 64.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-81zte-mmiy7u0wlgqw8c",
+      "link": "https://s.shopee.com.br/8pmB1rdcJS",
+      "rating": "4.8",
+      "sales": 5340,
+      "shop": "ANJ.GG store",
+      "category": "monitor",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20299250319,
+        "productName": "Monitor digital de pressão arterial de braço totalmente automático anjgg",
+        "price": "42.99",
+        "priceDiscountRate": 64,
+        "commissionRate": "0.1",
+        "sales": 5340,
+        "ratingStar": "4.8",
+        "shopName": "ANJ.GG store",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zte-mmiy7u0wlgqw8c",
+        "productLink": "https://shopee.com.br/product/391739739/20299250319",
+        "offerLink": "https://s.shopee.com.br/8pmB1rdcJS"
       },
       "_last_price": null
     },
@@ -10253,35 +10253,6 @@
       "_last_price": null
     },
     {
-      "id": "22694408785",
-      "name": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
-      "price": 879.99,
-      "original_price": 1913.02,
-      "discount": 54.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mr97xwjossn825",
-      "link": "https://s.shopee.com.br/8KptUlXWQK",
-      "rating": "4.9",
-      "sales": 191,
-      "shop": "Xuwei Digital",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22694408785,
-        "productName": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
-        "price": "879.99",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.11",
-        "sales": 191,
-        "ratingStar": "4.9",
-        "shopName": "Xuwei Digital",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mr97xwjossn825",
-        "productLink": "https://shopee.com.br/product/956346509/22694408785",
-        "offerLink": "https://s.shopee.com.br/8KptUlXWQK"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58207485901",
       "name": "Repetidor WiFi Profissional 2800m 6 Antenas Roteador Amplificador de Sinal Modem 300Mbps",
       "price": 52.98,
@@ -10945,6 +10916,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mggkt4ezj0g00a",
         "productLink": "https://shopee.com.br/product/316333903/23499128694",
         "offerLink": "https://s.shopee.com.br/3B7oHelCww"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22694408785",
+      "name": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
+      "price": 889.99,
+      "original_price": 1893.6,
+      "discount": 53.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mr97xwjossn825",
+      "link": "https://s.shopee.com.br/8KptUlXWQK",
+      "rating": "4.9",
+      "sales": 191,
+      "shop": "Xuwei Digital",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22694408785,
+        "productName": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
+        "price": "889.99",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.11",
+        "sales": 191,
+        "ratingStar": "4.9",
+        "shopName": "Xuwei Digital",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mr97xwjossn825",
+        "productLink": "https://shopee.com.br/product/956346509/22694408785",
+        "offerLink": "https://s.shopee.com.br/8KptUlXWQK"
       },
       "_last_price": null
     },
@@ -16895,8 +16895,8 @@
     {
       "id": "20999680446",
       "name": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
-      "price": 197.8,
-      "original_price": 359.64,
+      "price": 197.9,
+      "original_price": 359.82,
       "discount": 45.0,
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
@@ -16909,7 +16909,7 @@
       "_item": {
         "itemId": 20999680446,
         "productName": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
-        "price": "197.8",
+        "price": "197.9",
         "priceDiscountRate": 45,
         "commissionRate": "0.1",
         "sales": 1846,
@@ -18165,6 +18165,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr1lwv154lqd01",
         "productLink": "https://shopee.com.br/product/1203404824/23492924070",
         "offerLink": "https://s.shopee.com.br/80D42OEufI"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23498386191",
+      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+      "price": 169.9,
+      "original_price": 298.07,
+      "discount": 43.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+      "link": "https://s.shopee.com.br/9fLI1TuUaz",
+      "rating": "4.9",
+      "sales": 1906,
+      "shop": "Zociella Kids",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498386191,
+        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+        "price": "169.9",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.07",
+        "sales": 1906,
+        "ratingStar": "4.9",
+        "shopName": "Zociella Kids",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+        "productLink": "https://shopee.com.br/product/504754787/23498386191",
+        "offerLink": "https://s.shopee.com.br/9fLI1TuUaz"
       },
       "_last_price": null
     },
@@ -29247,35 +29276,6 @@
       "_last_price": null
     },
     {
-      "id": "23498386191",
-      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-      "price": 249.9,
-      "original_price": 320.38,
-      "discount": 22.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-      "link": "https://s.shopee.com.br/9fLI1TuUaz",
-      "rating": "4.9",
-      "sales": 1906,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498386191,
-        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-        "price": "249.9",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.07",
-        "sales": 1906,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-        "productLink": "https://shopee.com.br/product/504754787/23498386191",
-        "offerLink": "https://s.shopee.com.br/9fLI1TuUaz"
-      },
-      "_last_price": null
-    },
-    {
       "id": "3583616499",
       "name": "Carrinho Camaro Amarelo Vira Robô Transformers Bate Volta",
       "price": 35.99,
@@ -30432,35 +30432,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134253-8258h-mqd37lg269ky83",
         "productLink": "https://shopee.com.br/product/1006215031/51263661034",
         "offerLink": "https://s.shopee.com.br/3LRETuueZz"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22893504865",
-      "name": "Vara  Joker  telescopica  varias cores e medidas",
-      "price": 20.89,
-      "original_price": 26.11,
-      "discount": 20.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbgsu2l31hped9",
-      "link": "https://s.shopee.com.br/7ptdqF2djR",
-      "rating": "4.8",
-      "sales": 505,
-      "shop": "O Recanto da Pesca e Variedades",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22893504865,
-        "productName": "Vara  Joker  telescopica  varias cores e medidas",
-        "price": "20.89",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.03",
-        "sales": 505,
-        "ratingStar": "4.8",
-        "shopName": "O Recanto da Pesca e Variedades",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbgsu2l31hped9",
-        "productLink": "https://shopee.com.br/product/337645667/22893504865",
-        "offerLink": "https://s.shopee.com.br/7ptdqF2djR"
       },
       "_last_price": null
     },
