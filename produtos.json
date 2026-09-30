@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T04:05:33.423849+00:00",
-  "total": 1128,
+  "updated_at": "2026-09-30T04:24:33.963219+00:00",
+  "total": 1127,
   "products": [
     {
       "id": "50203126324",
@@ -2082,7 +2082,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6012yu1eit5e",
         "productLink": "https://shopee.com.br/product/1577129456/23298719961",
         "offerLink": "https://s.shopee.com.br/3VkegA8lVZ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23598011105",
@@ -6019,35 +6020,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mrbmy2x8wm4l3f",
         "productLink": "https://shopee.com.br/product/1145739576/23998935659",
         "offerLink": "https://s.shopee.com.br/qjtV9Z54v"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "45465789471",
-      "name": "Placa de Vídeo MSI NVIDIA GeForce  RTX 5050 GAMING OC  8G  912-V538-009",
-      "price": 2299.0,
-      "original_price": 6050.0,
-      "discount": 62.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825aa-mrq51qyfme4g84",
-      "link": "https://s.shopee.com.br/AAHXg8QXhf",
-      "rating": "4.9",
-      "sales": 175,
-      "shop": "TNTinfoLoja",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45465789471,
-        "productName": "Placa de Vídeo MSI NVIDIA GeForce  RTX 5050 GAMING OC  8G  912-V538-009",
-        "price": "2299",
-        "priceDiscountRate": 62,
-        "commissionRate": "0.03",
-        "sales": 175,
-        "ratingStar": "4.9",
-        "shopName": "TNTinfoLoja",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aa-mrq51qyfme4g84",
-        "productLink": "https://shopee.com.br/product/344381236/45465789471",
-        "offerLink": "https://s.shopee.com.br/AAHXg8QXhf"
       },
       "_last_price": null
     },
