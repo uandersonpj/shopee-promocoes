@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T22:18:22.728647+00:00",
-  "total": 1107,
+  "updated_at": "2026-09-30T22:37:46.691083+00:00",
+  "total": 1109,
   "products": [
     {
       "id": "50203126324",
@@ -144,7 +144,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m94jsi5hwaol47",
         "productLink": "https://shopee.com.br/product/1127030290/23593603405",
         "offerLink": "https://s.shopee.com.br/8AWUEdg9fG"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49207406104",
@@ -2891,35 +2892,6 @@
       "_last_price": null
     },
     {
-      "id": "23598926898",
-      "name": "Sambura De Arame Galvanizado P/ isca viva pesca peixe vivo",
-      "price": 28.19,
-      "original_price": 93.97,
-      "discount": 70.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbml-m5lv13aw49rf84",
-      "link": "https://s.shopee.com.br/30oPL2BdsW",
-      "rating": "4.9",
-      "sales": 141,
-      "shop": "YURI.SHOP",
-      "category": "rede de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23598926898,
-        "productName": "Sambura De Arame Galvanizado P/ isca viva pesca peixe vivo",
-        "price": "28.19",
-        "priceDiscountRate": 70,
-        "commissionRate": "0.03",
-        "sales": 141,
-        "ratingStar": "4.9",
-        "shopName": "YURI.SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbml-m5lv13aw49rf84",
-        "productLink": "https://shopee.com.br/product/1202547029/23598926898",
-        "offerLink": "https://s.shopee.com.br/30oPL2BdsW"
-      },
-      "_last_price": null
-    },
-    {
       "id": "27750684593",
       "name": "SULOVEDU Chapéu De Baseball Casal , Boné De Pesca Anti-Sol De Aba Curta , 2024 Chapéus Retro Respiráveis Unisexo",
       "price": 38.06,
@@ -3061,35 +3033,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82581-mt8aolrn1cec7b",
         "productLink": "https://shopee.com.br/product/698887220/58251069728",
         "offerLink": "https://s.shopee.com.br/BUDPLsNrL"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58251073566",
-      "name": "Passaguá de Pesca 1,75m em Alumínio Retrátil Dobrável – Ideal para Lago, Rio e Pesca Esportiva",
-      "price": 29.99,
-      "original_price": 99.97,
-      "discount": 70.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-820lf-mnmxywm8r7r70e",
-      "link": "https://s.shopee.com.br/4fwdK65IUo",
-      "rating": "4.9",
-      "sales": 214,
-      "shop": "YURI.SHOP",
-      "category": "rede de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58251073566,
-        "productName": "Passaguá de Pesca 1,75m em Alumínio Retrátil Dobrável – Ideal para Lago, Rio e Pesca Esportiva",
-        "price": "29.99",
-        "priceDiscountRate": 70,
-        "commissionRate": "0.03",
-        "sales": 214,
-        "ratingStar": "4.9",
-        "shopName": "YURI.SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820lf-mnmxywm8r7r70e",
-        "productLink": "https://shopee.com.br/product/1202547029/58251073566",
-        "offerLink": "https://s.shopee.com.br/4fwdK65IUo"
       },
       "_last_price": null
     },
@@ -5904,6 +5847,64 @@
       "_last_price": null
     },
     {
+      "id": "22693260211",
+      "name": "Sambura De Arame Galvanizado P/ isca viva pesca peixe vivo",
+      "price": 29.99,
+      "original_price": 81.05,
+      "discount": 63.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdyi-lzorhkgjtx524c",
+      "link": "https://s.shopee.com.br/60RzetMU19",
+      "rating": "4.9",
+      "sales": 430,
+      "shop": "Sholovi Oficial",
+      "category": "isca pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22693260211,
+        "productName": "Sambura De Arame Galvanizado P/ isca viva pesca peixe vivo",
+        "price": "29.99",
+        "priceDiscountRate": 63,
+        "commissionRate": "0.08",
+        "sales": 430,
+        "ratingStar": "4.9",
+        "shopName": "Sholovi Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyi-lzorhkgjtx524c",
+        "productLink": "https://shopee.com.br/product/390180328/22693260211",
+        "offerLink": "https://s.shopee.com.br/60RzetMU19"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "53112635208",
+      "name": "Oceano Praia Tema Parede Pendurado Decoração 100x150cm 100x200cm Mão Tecido Rede De Pesca Quarto Festa Prop",
+      "price": 18.29,
+      "original_price": 49.43,
+      "discount": 63.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824ij-mprnjnbdx6hbb9",
+      "link": "https://s.shopee.com.br/6VOGFoKa0C",
+      "rating": "4.9",
+      "sales": 361,
+      "shop": "allland.br",
+      "category": "rede de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 53112635208,
+        "productName": "Oceano Praia Tema Parede Pendurado Decoração 100x150cm 100x200cm Mão Tecido Rede De Pesca Quarto Festa Prop",
+        "price": "18.29",
+        "priceDiscountRate": 63,
+        "commissionRate": "0.07",
+        "sales": 361,
+        "ratingStar": "4.9",
+        "shopName": "allland.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ij-mprnjnbdx6hbb9",
+        "productLink": "https://shopee.com.br/product/264980572/53112635208",
+        "offerLink": "https://s.shopee.com.br/6VOGFoKa0C"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23394426187",
       "name": "Sambura de Arame Galvanizado para Manutenção de Iscas Vivas - Ideal para Pesca Esportiva",
       "price": 29.99,
@@ -6919,8 +6920,8 @@
     {
       "id": "58203113742",
       "name": "Rede De Pesca Gaiola De Camarão Dobrável Nylon Automático Guarda-chuva Forma Armadilha com 6/10 entradas",
-      "price": 21.89,
-      "original_price": 56.13,
+      "price": 21.9,
+      "original_price": 56.15,
       "discount": 61.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820le-mqd2wnfxecjm4f",
@@ -6933,7 +6934,7 @@
       "_item": {
         "itemId": 58203113742,
         "productName": "Rede De Pesca Gaiola De Camarão Dobrável Nylon Automático Guarda-chuva Forma Armadilha com 6/10 entradas",
-        "price": "21.89",
+        "price": "21.9",
         "priceDiscountRate": 61,
         "commissionRate": "0.13",
         "sales": 919,
@@ -8943,8 +8944,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mssjbtxlgzd216",
         "productLink": "https://shopee.com.br/product/1291547401/23594943408",
         "offerLink": "https://s.shopee.com.br/W736fSeNs"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "18699301801",
@@ -18951,35 +18951,6 @@
       "_last_price": null
     },
     {
-      "id": "23694320738",
-      "name": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-      "price": 50.99,
-      "original_price": 86.42,
-      "discount": 41.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
-      "link": "https://s.shopee.com.br/3g44sNo9Td",
-      "rating": "4.8",
-      "sales": 1173,
-      "shop": "Traxen",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23694320738,
-        "productName": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-        "price": "50.99",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.03",
-        "sales": 1173,
-        "ratingStar": "4.8",
-        "shopName": "Traxen",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
-        "productLink": "https://shopee.com.br/product/786353833/23694320738",
-        "offerLink": "https://s.shopee.com.br/3g44sNo9Td"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23593130581",
       "name": "FONTE ATX 24 PINOS APARTIR DE 200 W PADRÃO - LEIA A DESCRIÇÃO",
       "price": 34.9,
@@ -19527,6 +19498,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mqqx1gayxog225",
         "productLink": "https://shopee.com.br/product/956346509/19698315816",
         "offerLink": "https://s.shopee.com.br/7Ady59MVeU"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23694320738",
+      "name": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
+      "price": 50.99,
+      "original_price": 84.98,
+      "discount": 40.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
+      "link": "https://s.shopee.com.br/3g44sNo9Td",
+      "rating": "4.8",
+      "sales": 1173,
+      "shop": "Traxen",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23694320738,
+        "productName": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
+        "price": "50.99",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 1173,
+        "ratingStar": "4.8",
+        "shopName": "Traxen",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
+        "productLink": "https://shopee.com.br/product/786353833/23694320738",
+        "offerLink": "https://s.shopee.com.br/3g44sNo9Td"
       },
       "_last_price": null
     },
@@ -20455,6 +20455,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxg-lxk0w8falx705e",
         "productLink": "https://shopee.com.br/product/943646379/21397677822",
         "offerLink": "https://s.shopee.com.br/40gvHDU64o"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22692272756",
+      "name": "Saco de pesca Sambura Covo Saco Nylon P/peixe Tipo Sacola (ESCOLHA O TAMANHO)",
+      "price": 12.0,
+      "original_price": 20.0,
+      "discount": 40.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98p-ll3tndlwyxbw16",
+      "link": "https://s.shopee.com.br/2gBXglZAmg",
+      "rating": "4.9",
+      "sales": 253,
+      "shop": "Fabrica da pesca",
+      "category": "rede de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22692272756,
+        "productName": "Saco de pesca Sambura Covo Saco Nylon P/peixe Tipo Sacola (ESCOLHA O TAMANHO)",
+        "price": "12",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 253,
+        "ratingStar": "4.9",
+        "shopName": "Fabrica da pesca",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98p-ll3tndlwyxbw16",
+        "productLink": "https://shopee.com.br/product/408505827/22692272756",
+        "offerLink": "https://s.shopee.com.br/2gBXglZAmg"
       },
       "_last_price": null
     },
@@ -24026,35 +24055,6 @@
       "_last_price": null
     },
     {
-      "id": "12782096688",
-      "name": "Kit S.O.S Hidratação Óleo de Rícino Shampoo e Condicionador Litrão Salon Line",
-      "price": 49.25,
-      "original_price": 73.51,
-      "discount": 33.0,
-      "commission": 21.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mq80n6l4qkub32",
-      "link": "https://s.shopee.com.br/9V1rqS7DE8",
-      "rating": "4.9",
-      "sales": 4471,
-      "shop": "Salon Line",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 12782096688,
-        "productName": "Kit S.O.S Hidratação Óleo de Rícino Shampoo e Condicionador Litrão Salon Line",
-        "price": "49.25",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.21",
-        "sales": 4471,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mq80n6l4qkub32",
-        "productLink": "https://shopee.com.br/product/616222685/12782096688",
-        "offerLink": "https://s.shopee.com.br/9V1rqS7DE8"
-      },
-      "_last_price": null
-    },
-    {
       "id": "14463127889",
       "name": "Kit S.O.S Hidratação Azeite de Oliva Shampoo e Condicionador Litrão Salon Line",
       "price": 49.25,
@@ -25708,6 +25708,35 @@
       "_last_price": null
     },
     {
+      "id": "58206605624",
+      "name": "Peitoral Para Cachorro + Guia Nylon Conjunto Ajustável Passeio",
+      "price": 18.9,
+      "original_price": 27.0,
+      "discount": 30.0,
+      "commission": 23.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820le-molm14xtl9fk0d",
+      "link": "https://s.shopee.com.br/2qUz9wYi11",
+      "rating": "4.9",
+      "sales": 1043,
+      "shop": "container.pet",
+      "category": "coleira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58206605624,
+        "productName": "Peitoral Para Cachorro + Guia Nylon Conjunto Ajustável Passeio",
+        "price": "18.9",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.23",
+        "sales": 1043,
+        "ratingStar": "4.9",
+        "shopName": "container.pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-molm14xtl9fk0d",
+        "productLink": "https://shopee.com.br/product/1359702491/58206605624",
+        "offerLink": "https://s.shopee.com.br/2qUz9wYi11"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20599359513",
       "name": "Kit Cozinha Brinquedo Infantil Fogão Forno Panelinhas Xícaras Acessórios Faz de Conta",
       "price": 29.98,
@@ -26462,35 +26491,6 @@
       "_last_price": null
     },
     {
-      "id": "58205243949",
-      "name": "Rede Descanso Dormir Garimpeira Camuflada Resistente Trilhas Mata Pescaria Acampamento 3,0m x1,5m",
-      "price": 38.9,
-      "original_price": 54.79,
-      "discount": 29.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81zts-ml0yixab2znnfa",
-      "link": "https://s.shopee.com.br/3B7pXLB0XZ",
-      "rating": "4.8",
-      "sales": 162,
-      "shop": "Decoralarsb",
-      "category": "rede de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58205243949,
-        "productName": "Rede Descanso Dormir Garimpeira Camuflada Resistente Trilhas Mata Pescaria Acampamento 3,0m x1,5m",
-        "price": "38.9",
-        "priceDiscountRate": 29,
-        "commissionRate": "0.11",
-        "sales": 162,
-        "ratingStar": "4.8",
-        "shopName": "Decoralarsb",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zts-ml0yixab2znnfa",
-        "productLink": "https://shopee.com.br/product/1356561691/58205243949",
-        "offerLink": "https://s.shopee.com.br/3B7pXLB0XZ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22994696891",
       "name": "Repetidor de Sinal Wi-Fi Roteador Wireless 2.4G Sem Fio 4 Antenas Longo Alcance Potente Fácil Instalação",
       "price": 64.9,
@@ -26963,7 +26963,7 @@
       "commission": 16.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825ad-mskmer1d47igcb",
       "link": "https://s.shopee.com.br/1LgA6HaWHZ",
-      "rating": "4.9",
+      "rating": "5",
       "sales": 455,
       "shop": "Apluzes",
       "category": "colete salva vidas",
@@ -26975,7 +26975,7 @@
         "priceDiscountRate": 27,
         "commissionRate": "0.16",
         "sales": 455,
-        "ratingStar": "4.9",
+        "ratingStar": "5",
         "shopName": "Apluzes",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ad-mskmer1d47igcb",
         "productLink": "https://shopee.com.br/product/1635231952/48867141808",
@@ -27183,6 +27183,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6wwo48snxwn8a",
         "productLink": "https://shopee.com.br/product/665367909/22593748951",
         "offerLink": "https://s.shopee.com.br/113JhW6Qrq"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "12782096688",
+      "name": "Kit S.O.S Hidratação Óleo de Rícino Shampoo e Condicionador Litrão Salon Line",
+      "price": 54.12,
+      "original_price": 73.14,
+      "discount": 26.0,
+      "commission": 21.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mq80n6l4qkub32",
+      "link": "https://s.shopee.com.br/9V1rqS7DE8",
+      "rating": "4.9",
+      "sales": 4471,
+      "shop": "Salon Line",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 12782096688,
+        "productName": "Kit S.O.S Hidratação Óleo de Rícino Shampoo e Condicionador Litrão Salon Line",
+        "price": "54.12",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.21",
+        "sales": 4471,
+        "ratingStar": "4.9",
+        "shopName": "Salon Line",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mq80n6l4qkub32",
+        "productLink": "https://shopee.com.br/product/616222685/12782096688",
+        "offerLink": "https://s.shopee.com.br/9V1rqS7DE8"
       },
       "_last_price": null
     },
@@ -31330,6 +31359,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mrc5kpu6ycxwb3",
         "productLink": "https://shopee.com.br/product/1416544509/58215414144",
         "offerLink": "https://s.shopee.com.br/113JhftSLD"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18638126633",
+      "name": "Passagua Para Pesca Em Aluminio De Otima Qualidade 92cm",
+      "price": 28.63,
+      "original_price": 34.49,
+      "discount": 17.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mtpmjs5uohdub9",
+      "link": "https://s.shopee.com.br/50ZST3QI32",
+      "rating": "4.8",
+      "sales": 266,
+      "shop": "Fabrica da pesca",
+      "category": "rede de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18638126633,
+        "productName": "Passagua Para Pesca Em Aluminio De Otima Qualidade 92cm",
+        "price": "28.63",
+        "priceDiscountRate": 17,
+        "commissionRate": "0.03",
+        "sales": 266,
+        "ratingStar": "4.8",
+        "shopName": "Fabrica da pesca",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mtpmjs5uohdub9",
+        "productLink": "https://shopee.com.br/product/408505827/18638126633",
+        "offerLink": "https://s.shopee.com.br/50ZST3QI32"
       },
       "_last_price": null
     },
