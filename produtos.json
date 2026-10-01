@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T18:19:01.076219+00:00",
-  "total": 1077,
+  "updated_at": "2026-10-01T18:38:05.420814+00:00",
+  "total": 1079,
   "products": [
     {
       "id": "50203126324",
@@ -143,37 +143,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m94jsi5hwaol47",
         "productLink": "https://shopee.com.br/product/1127030290/23593603405",
         "offerLink": "https://s.shopee.com.br/1Ao5GYbGN"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21897733919",
-      "name": "Creatina 250g 100% Pura Monohidratada - P&P FIT",
-      "price": 16.95,
-      "original_price": 121.07,
-      "discount": 86.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyoeedt37dlhb3",
-      "link": "https://s.shopee.com.br/905dKMyiL4",
-      "rating": "4.9",
-      "sales": 2332,
-      "shop": "P&P FIT",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21897733919,
-        "productName": "Creatina 250g 100% Pura Monohidratada - P&P FIT",
-        "price": "16.95",
-        "priceDiscountRate": 86,
-        "commissionRate": "0.03",
-        "sales": 2332,
-        "ratingStar": "4.9",
-        "shopName": "P&P FIT",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyoeedt37dlhb3",
-        "productLink": "https://shopee.com.br/product/394192376/21897733919",
-        "offerLink": "https://s.shopee.com.br/905dKMyiL4"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "49207406104",
@@ -371,6 +341,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mmz137ddk4cg6c",
         "productLink": "https://shopee.com.br/product/1467162087/55508691646",
         "offerLink": "https://s.shopee.com.br/3B7pr8q85s"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21897733919",
+      "name": "Creatina 250g 100% Pura Monohidratada - P&P FIT",
+      "price": 19.97,
+      "original_price": 117.47,
+      "discount": 83.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyoeedt37dlhb3",
+      "link": "https://s.shopee.com.br/905dKMyiL4",
+      "rating": "4.9",
+      "sales": 2332,
+      "shop": "P&P FIT",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21897733919,
+        "productName": "Creatina 250g 100% Pura Monohidratada - P&P FIT",
+        "price": "19.97",
+        "priceDiscountRate": 83,
+        "commissionRate": "0.03",
+        "sales": 2332,
+        "ratingStar": "4.9",
+        "shopName": "P&P FIT",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyoeedt37dlhb3",
+        "productLink": "https://shopee.com.br/product/394192376/21897733919",
+        "offerLink": "https://s.shopee.com.br/905dKMyiL4"
       },
       "_last_price": null
     },
@@ -865,35 +864,6 @@
       "_last_price": null
     },
     {
-      "id": "19860785095",
-      "name": "Panos De Limpeza Microfibra alta absorção Multiuso",
-      "price": 11.28,
-      "original_price": 53.71,
-      "discount": 79.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltmsp1pvv6rjd7",
-      "link": "https://s.shopee.com.br/2Vs93uarWu",
-      "rating": "4.8",
-      "sales": 3234,
-      "shop": "MOMO SHOP",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19860785095,
-        "productName": "Panos De Limpeza Microfibra alta absorção Multiuso",
-        "price": "11.28",
-        "priceDiscountRate": 79,
-        "commissionRate": "0.08",
-        "sales": 3234,
-        "ratingStar": "4.8",
-        "shopName": "MOMO SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltmsp1pvv6rjd7",
-        "productLink": "https://shopee.com.br/product/409941475/19860785095",
-        "offerLink": "https://s.shopee.com.br/2Vs93uarWu"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23394267693",
       "name": "Shampoo Escurecedor Cabelos Brancos Tonalizante Colored 300ml Efeito 100% Natural Super Resultado",
       "price": 14.99,
@@ -1091,6 +1061,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-moprlplgugow2d",
         "productLink": "https://shopee.com.br/product/285626238/22098784824",
         "offerLink": "https://s.shopee.com.br/1AoZ7uqK3"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19860785095",
+      "name": "Panos De Limpeza Microfibra alta absorção Multiuso",
+      "price": 12.28,
+      "original_price": 55.82,
+      "discount": 78.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltmsp1pvv6rjd7",
+      "link": "https://s.shopee.com.br/2Vs93uarWu",
+      "rating": "4.8",
+      "sales": 3234,
+      "shop": "MOMO SHOP",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19860785095,
+        "productName": "Panos De Limpeza Microfibra alta absorção Multiuso",
+        "price": "12.28",
+        "priceDiscountRate": 78,
+        "commissionRate": "0.08",
+        "sales": 3234,
+        "ratingStar": "4.8",
+        "shopName": "MOMO SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltmsp1pvv6rjd7",
+        "productLink": "https://shopee.com.br/product/409941475/19860785095",
+        "offerLink": "https://s.shopee.com.br/2Vs93uarWu"
       },
       "_last_price": null
     },
@@ -4104,7 +4103,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkc1gjt1xc606",
         "productLink": "https://shopee.com.br/product/1362613415/42110429390",
         "offerLink": "https://s.shopee.com.br/5fpAptgu7Z"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22399450069",
@@ -9682,7 +9682,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-820li-mnvqaq9w8g75ec",
       "link": "https://s.shopee.com.br/4VdDRaTFTU",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 1690,
       "shop": "Bela Luna Ltda.",
       "category": "pano microfibra",
@@ -9694,7 +9694,7 @@
         "priceDiscountRate": 55,
         "commissionRate": "0.03",
         "sales": 1690,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Bela Luna Ltda.",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820li-mnvqaq9w8g75ec",
         "productLink": "https://shopee.com.br/product/1577690442/23198696676",
@@ -11820,6 +11820,35 @@
       "_last_price": null
     },
     {
+      "id": "22893806671",
+      "name": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
+      "price": 39.9,
+      "original_price": 83.12,
+      "discount": 52.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
+      "link": "https://s.shopee.com.br/6q18Zzpmjx",
+      "rating": "4.8",
+      "sales": 555,
+      "shop": "Facilita Lar.",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22893806671,
+        "productName": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
+        "price": "39.9",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.13",
+        "sales": 555,
+        "ratingStar": "4.8",
+        "shopName": "Facilita Lar.",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
+        "productLink": "https://shopee.com.br/product/1461473610/22893806671",
+        "offerLink": "https://s.shopee.com.br/6q18Zzpmjx"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21997222833",
       "name": "Tênis Meia Feminino Calce Fácil Botinha Ortopédico Esportivo Sneaker Slip On Casual confortável Academia",
       "price": 28.9,
@@ -12193,6 +12222,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-ms2v0d0gl9mu9c",
         "productLink": "https://shopee.com.br/product/293152127/57404370857",
         "offerLink": "https://s.shopee.com.br/5VVkuLkD3s"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23799559042",
+      "name": "Comedouro Bebedouro Elevado Pet Gato Cachorro Pequeno Pote Ração Água Anatômico",
+      "price": 14.69,
+      "original_price": 29.98,
+      "discount": 51.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134202-8259u-mqg8iqhcojdac4",
+      "link": "https://s.shopee.com.br/1LgChbziHn",
+      "rating": "4.9",
+      "sales": 462,
+      "shop": "Sanfang Top",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23799559042,
+        "productName": "Comedouro Bebedouro Elevado Pet Gato Cachorro Pequeno Pote Ração Água Anatômico",
+        "price": "14.69",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.03",
+        "sales": 462,
+        "ratingStar": "4.9",
+        "shopName": "Sanfang Top",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134202-8259u-mqg8iqhcojdac4",
+        "productLink": "https://shopee.com.br/product/1643101321/23799559042",
+        "offerLink": "https://s.shopee.com.br/1LgChbziHn"
       },
       "_last_price": null
     },
@@ -13005,35 +13063,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mo00cdtfqygx57",
         "productLink": "https://shopee.com.br/product/1571276714/58209304205",
         "offerLink": "https://s.shopee.com.br/1qcSnDCFz0"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22392157748",
-      "name": "Ração Fórmula Natural Pro Cães Sênior Porte Mini e Pequeno 10,1kg Adimax",
-      "price": 149.9,
-      "original_price": 299.8,
-      "discount": 50.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0knrwoe0w475",
-      "link": "https://s.shopee.com.br/9pekJuhnko",
-      "rating": "4.9",
-      "sales": 446,
-      "shop": "GP ECOMMERCE.",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22392157748,
-        "productName": "Ração Fórmula Natural Pro Cães Sênior Porte Mini e Pequeno 10,1kg Adimax",
-        "price": "149.9",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.03",
-        "sales": 446,
-        "ratingStar": "4.9",
-        "shopName": "GP ECOMMERCE.",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0knrwoe0w475",
-        "productLink": "https://shopee.com.br/product/442964228/22392157748",
-        "offerLink": "https://s.shopee.com.br/9pekJuhnko"
       },
       "_last_price": null
     },
@@ -25564,35 +25593,6 @@
       "_last_price": null
     },
     {
-      "id": "23498038856",
-      "name": "140 Blocos De Montar Super Coloridos Carrinho + Rodinhas - educacional",
-      "price": 28.55,
-      "original_price": 40.21,
-      "discount": 29.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2tuxpumqwb714",
-      "link": "https://s.shopee.com.br/2gBZGFZQAr",
-      "rating": "4.7",
-      "sales": 2282,
-      "shop": "JoO Imported",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498038856,
-        "productName": "140 Blocos De Montar Super Coloridos Carrinho + Rodinhas - educacional",
-        "price": "28.55",
-        "priceDiscountRate": 29,
-        "commissionRate": "0.03",
-        "sales": 2282,
-        "ratingStar": "4.7",
-        "shopName": "JoO Imported",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2tuxpumqwb714",
-        "productLink": "https://shopee.com.br/product/399751373/23498038856",
-        "offerLink": "https://s.shopee.com.br/2gBZGFZQAr"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18299383775",
       "name": "Carrinho de Bonecas Infantil Carrinho de Bebê Reborn Carrinho de Bonecas Reborn",
       "price": 24.9,
@@ -27275,6 +27275,35 @@
       "_last_price": null
     },
     {
+      "id": "23498038856",
+      "name": "140 Blocos De Montar Super Coloridos Carrinho + Rodinhas - educacional",
+      "price": 29.85,
+      "original_price": 39.8,
+      "discount": 25.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2tuxpumqwb714",
+      "link": "https://s.shopee.com.br/2gBZGFZQAr",
+      "rating": "4.7",
+      "sales": 2282,
+      "shop": "JoO Imported",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498038856,
+        "productName": "140 Blocos De Montar Super Coloridos Carrinho + Rodinhas - educacional",
+        "price": "29.85",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.03",
+        "sales": 2282,
+        "ratingStar": "4.7",
+        "shopName": "JoO Imported",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2tuxpumqwb714",
+        "productLink": "https://shopee.com.br/product/399751373/23498038856",
+        "offerLink": "https://s.shopee.com.br/2gBZGFZQAr"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58262867330",
       "name": "Whey Beef Protein Zero Lactose Pote 900g Shark Pro",
       "price": 149.9,
@@ -28924,6 +28953,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mp18dhjxhy4l91",
         "productLink": "https://shopee.com.br/product/987020544/58261911959",
         "offerLink": "https://s.shopee.com.br/4LJnFLAsMx"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58201469419",
+      "name": "Ração SuperPremium Bionatural Prime Para Gatos Castrados Sabor Frango 7.5kg",
+      "price": 149.99,
+      "original_price": 189.86,
+      "discount": 21.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhuibgwx00le00",
+      "link": "https://s.shopee.com.br/5AsuEs7hg2",
+      "rating": "5",
+      "sales": 1936,
+      "shop": "animalzecommerce",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58201469419,
+        "productName": "Ração SuperPremium Bionatural Prime Para Gatos Castrados Sabor Frango 7.5kg",
+        "price": "149.99",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.03",
+        "sales": 1936,
+        "ratingStar": "5",
+        "shopName": "animalzecommerce",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhuibgwx00le00",
+        "productLink": "https://shopee.com.br/product/1509105042/58201469419",
+        "offerLink": "https://s.shopee.com.br/5AsuEs7hg2"
       },
       "_last_price": null
     },
