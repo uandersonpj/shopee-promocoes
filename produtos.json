@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T03:47:59.736491+00:00",
-  "total": 1054,
+  "updated_at": "2026-10-01T04:06:48.226103+00:00",
+  "total": 1055,
   "products": [
     {
       "id": "50203126324",
@@ -11788,7 +11788,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfk692w7qbk442",
         "productLink": "https://shopee.com.br/product/1542901362/22494499643",
         "offerLink": "https://s.shopee.com.br/5q8b27DM0L"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58205469373",
@@ -12750,8 +12751,8 @@
     {
       "id": "58265081114",
       "name": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-      "price": 17.9,
-      "original_price": 35.8,
+      "price": 10.99,
+      "original_price": 21.98,
       "discount": 50.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
@@ -12764,7 +12765,7 @@
       "_item": {
         "itemId": 58265081114,
         "productName": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-        "price": "17.9",
+        "price": "10.99",
         "priceDiscountRate": 50,
         "commissionRate": "0.13",
         "sales": 4510,
@@ -28084,6 +28085,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821e1-mgpknktz905p25",
         "productLink": "https://shopee.com.br/product/482975418/23599155894",
         "offerLink": "https://s.shopee.com.br/6L4rd7eMld"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22498752326",
+      "name": "Kit Pesca 3 Varas Telescópica 3 Mts Estojo Acessórios boia anzol chumbada isca sino snap",
+      "price": 109.88,
+      "original_price": 140.87,
+      "discount": 22.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwlrb4xzhfr3a",
+      "link": "https://s.shopee.com.br/2LYirnWmts",
+      "rating": "4.9",
+      "sales": 114,
+      "shop": "CLICK & VIVA",
+      "category": "chumbada",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22498752326,
+        "productName": "Kit Pesca 3 Varas Telescópica 3 Mts Estojo Acessórios boia anzol chumbada isca sino snap",
+        "price": "109.88",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.08",
+        "sales": 114,
+        "ratingStar": "4.9",
+        "shopName": "CLICK & VIVA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwlrb4xzhfr3a",
+        "productLink": "https://shopee.com.br/product/1594633180/22498752326",
+        "offerLink": "https://s.shopee.com.br/2LYirnWmts"
       },
       "_last_price": null
     },
