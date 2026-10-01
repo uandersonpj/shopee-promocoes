@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T06:18:27.713589+00:00",
+  "updated_at": "2026-10-01T06:37:15.268127+00:00",
   "total": 1055,
   "products": [
     {
@@ -7184,7 +7184,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqdi4h8b6wao80",
         "productLink": "https://shopee.com.br/product/1397772996/29842873054",
         "offerLink": "https://s.shopee.com.br/30oPerpxQk"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "24612462303",
@@ -16235,6 +16236,35 @@
       "_last_price": null
     },
     {
+      "id": "20999680446",
+      "name": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
+      "price": 197.9,
+      "original_price": 359.82,
+      "discount": 45.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
+      "link": "https://s.shopee.com.br/2qUzSYYmps",
+      "rating": "4.9",
+      "sales": 1880,
+      "shop": "Zociella Kids",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20999680446,
+        "productName": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
+        "price": "197.9",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.1",
+        "sales": 1880,
+        "ratingStar": "4.9",
+        "shopName": "Zociella Kids",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
+        "productLink": "https://shopee.com.br/product/504754787/20999680446",
+        "offerLink": "https://s.shopee.com.br/2qUzSYYmps"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23394412512",
       "name": "Caminhão Dinossauro 4 em 1 com pista e lancador, 6/12 carrinhos demetal",
       "price": 109.39,
@@ -21567,35 +21597,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltfij9pjjayg55",
         "productLink": "https://shopee.com.br/product/212844114/23997427973",
         "offerLink": "https://s.shopee.com.br/7VGp17zQFR"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20999680446",
-      "name": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
-      "price": 229.9,
-      "original_price": 359.22,
-      "discount": 36.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
-      "link": "https://s.shopee.com.br/2qUzSYYmps",
-      "rating": "4.9",
-      "sales": 1880,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20999680446,
-        "productName": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
-        "price": "229.9",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.1",
-        "sales": 1880,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
-        "productLink": "https://shopee.com.br/product/504754787/20999680446",
-        "offerLink": "https://s.shopee.com.br/2qUzSYYmps"
       },
       "_last_price": null
     },
