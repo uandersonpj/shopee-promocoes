@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T17:40:48.117339+00:00",
-  "total": 1076,
+  "updated_at": "2026-10-01T17:59:52.660428+00:00",
+  "total": 1077,
   "products": [
     {
       "id": "50203126324",
@@ -114,7 +114,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1zzq6l901gfa2",
         "productLink": "https://shopee.com.br/product/322874822/23797686527",
         "offerLink": "https://s.shopee.com.br/70KYQHdJ2t"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23593603405",
@@ -947,8 +948,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a7-mgfaurmyhbt701",
         "productLink": "https://shopee.com.br/product/1127030290/58200141324",
         "offerLink": "https://s.shopee.com.br/BUEHilimR"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22492388439",
@@ -4686,6 +4686,35 @@
       "_last_price": null
     },
     {
+      "id": "26653666612",
+      "name": "BOLONI 600pcs Linha De Pesca Flutuante Oval Tackle Borracha Leve Tampa Bobber Stopper Flutuador Bal Feijão",
+      "price": 17.23,
+      "original_price": 50.68,
+      "discount": 66.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd56-lwxskjzn44medd",
+      "link": "https://s.shopee.com.br/7faFDa8UKj",
+      "rating": "4.9",
+      "sales": 29,
+      "shop": "Boloni Loja Da Família",
+      "category": "flutuador pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 26653666612,
+        "productName": "BOLONI 600pcs Linha De Pesca Flutuante Oval Tackle Borracha Leve Tampa Bobber Stopper Flutuador Bal Feijão",
+        "price": "17.23",
+        "priceDiscountRate": 66,
+        "commissionRate": "0.03",
+        "sales": 29,
+        "ratingStar": "4.9",
+        "shopName": "Boloni Loja Da Família",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd56-lwxskjzn44medd",
+        "productLink": "https://shopee.com.br/product/191442914/26653666612",
+        "offerLink": "https://s.shopee.com.br/7faFDa8UKj"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58206623391",
       "name": "Covo Armadilha De Pesca Retrátil 16 Entradas – Lambari Camarão Isca Viva Guarda Chuva Nylon",
       "price": 21.9,
@@ -5407,35 +5436,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mqjlehkuqdc2ed",
         "productLink": "https://shopee.com.br/product/361954967/58264092360",
         "offerLink": "https://s.shopee.com.br/2Vs944bMPg"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "26653666612",
-      "name": "BOLONI 600pcs Linha De Pesca Flutuante Oval Tackle Borracha Leve Tampa Bobber Stopper Flutuador Bal Feijão",
-      "price": 18.26,
-      "original_price": 50.72,
-      "discount": 64.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd56-lwxskjzn44medd",
-      "link": "https://s.shopee.com.br/7faFDa8UKj",
-      "rating": "4.9",
-      "sales": 29,
-      "shop": "Boloni Loja Da Família",
-      "category": "flutuador pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 26653666612,
-        "productName": "BOLONI 600pcs Linha De Pesca Flutuante Oval Tackle Borracha Leve Tampa Bobber Stopper Flutuador Bal Feijão",
-        "price": "18.26",
-        "priceDiscountRate": 64,
-        "commissionRate": "0.03",
-        "sales": 29,
-        "ratingStar": "4.9",
-        "shopName": "Boloni Loja Da Família",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd56-lwxskjzn44medd",
-        "productLink": "https://shopee.com.br/product/191442914/26653666612",
-        "offerLink": "https://s.shopee.com.br/7faFDa8UKj"
       },
       "_last_price": null
     },
@@ -9326,35 +9326,6 @@
       "_last_price": null
     },
     {
-      "id": "45054396139",
-      "name": "Ração Úmida Friskies 85g - Caixa com 15 unidades",
-      "price": 34.9,
-      "original_price": 79.32,
-      "discount": 56.0,
-      "commission": 21.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
-      "link": "https://s.shopee.com.br/6fhi1d1zd6",
-      "rating": "5",
-      "sales": 15662,
-      "shop": "LeluPets",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45054396139,
-        "productName": "Ração Úmida Friskies 85g - Caixa com 15 unidades",
-        "price": "34.9",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.21",
-        "sales": 15662,
-        "ratingStar": "5",
-        "shopName": "LeluPets",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
-        "productLink": "https://shopee.com.br/product/293152127/45054396139",
-        "offerLink": "https://s.shopee.com.br/6fhi1d1zd6"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23497309877",
       "name": "Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb Cozinha",
       "price": 61.69,
@@ -9438,35 +9409,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/5794797f3d5fe25a874e953091734b51",
         "productLink": "https://shopee.com.br/product/421422443/4886594145",
         "offerLink": "https://s.shopee.com.br/6VOHpMfD3q"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23994017710",
-      "name": "KIT 10-30 Relógio De Led M4 Atacado Revenda Festa Lembrancinha Presente À Prova D'água",
-      "price": 39.9,
-      "original_price": 90.68,
-      "discount": 56.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma30h4y1s9bt78",
-      "link": "https://s.shopee.com.br/50ZU2bkv6h",
-      "rating": "4.9",
-      "sales": 1460,
-      "shop": "VlSARAH",
-      "category": "relogio masculino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23994017710,
-        "productName": "KIT 10-30 Relógio De Led M4 Atacado Revenda Festa Lembrancinha Presente À Prova D'água",
-        "price": "39.9",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.08",
-        "sales": 1460,
-        "ratingStar": "4.9",
-        "shopName": "VlSARAH",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma30h4y1s9bt78",
-        "productLink": "https://shopee.com.br/product/371651689/23994017710",
-        "offerLink": "https://s.shopee.com.br/50ZU2bkv6h"
       },
       "_last_price": null
     },
@@ -11965,6 +11907,35 @@
       "_last_price": null
     },
     {
+      "id": "23994017710",
+      "name": "KIT 10-30 Relógio De Led M4 Atacado Revenda Festa Lembrancinha Presente À Prova D'água",
+      "price": 42.9,
+      "original_price": 89.38,
+      "discount": 52.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma30h4y1s9bt78",
+      "link": "https://s.shopee.com.br/50ZU2bkv6h",
+      "rating": "4.9",
+      "sales": 1460,
+      "shop": "VlSARAH",
+      "category": "relogio masculino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23994017710,
+        "productName": "KIT 10-30 Relógio De Led M4 Atacado Revenda Festa Lembrancinha Presente À Prova D'água",
+        "price": "42.9",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.08",
+        "sales": 1460,
+        "ratingStar": "4.9",
+        "shopName": "VlSARAH",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma30h4y1s9bt78",
+        "productLink": "https://shopee.com.br/product/371651689/23994017710",
+        "offerLink": "https://s.shopee.com.br/50ZU2bkv6h"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23893325676",
       "name": "Molinete De Pesca De Metal EVA HD1000-7000 Max Arraste 10kg Cana Em Água Salgada",
       "price": 39.8,
@@ -12808,8 +12779,8 @@
     {
       "id": "58265081114",
       "name": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-      "price": 19.99,
-      "original_price": 39.98,
+      "price": 10.99,
+      "original_price": 21.98,
       "discount": 50.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
@@ -12822,7 +12793,7 @@
       "_item": {
         "itemId": 58265081114,
         "productName": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-        "price": "19.99",
+        "price": "10.99",
         "priceDiscountRate": 50,
         "commissionRate": "0.13",
         "sales": 4510,
@@ -13614,6 +13585,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mqxp07t9skjr6c",
         "productLink": "https://shopee.com.br/product/1343471577/23098743668",
         "offerLink": "https://s.shopee.com.br/4VdDSvHifc"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "45054396139",
+      "name": "Ração Úmida Friskies 85g - Caixa com 15 unidades",
+      "price": 40.9,
+      "original_price": 80.2,
+      "discount": 49.0,
+      "commission": 21.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
+      "link": "https://s.shopee.com.br/6fhi1d1zd6",
+      "rating": "5",
+      "sales": 15662,
+      "shop": "LeluPets",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 45054396139,
+        "productName": "Ração Úmida Friskies 85g - Caixa com 15 unidades",
+        "price": "40.9",
+        "priceDiscountRate": 49,
+        "commissionRate": "0.21",
+        "sales": 15662,
+        "ratingStar": "5",
+        "shopName": "LeluPets",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
+        "productLink": "https://shopee.com.br/product/293152127/45054396139",
+        "offerLink": "https://s.shopee.com.br/6fhi1d1zd6"
       },
       "_last_price": null
     },
@@ -22954,35 +22954,6 @@
       "_last_price": null
     },
     {
-      "id": "23099169510",
-      "name": "Kit Liquidificador 550W Turbo Power L-99-FB + Batedeira 400W Prática - B-44-B Mondial",
-      "price": 206.91,
-      "original_price": 313.5,
-      "discount": 34.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825b8-msauhkcaes5i2c",
-      "link": "https://s.shopee.com.br/7VGp1BOg5R",
-      "rating": "4.9",
-      "sales": 1269,
-      "shop": "Dutra Máquinas",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23099169510,
-        "productName": "Kit Liquidificador 550W Turbo Power L-99-FB + Batedeira 400W Prática - B-44-B Mondial",
-        "price": "206.91",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.03",
-        "sales": 1269,
-        "ratingStar": "4.9",
-        "shopName": "Dutra Máquinas",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b8-msauhkcaes5i2c",
-        "productLink": "https://shopee.com.br/product/489001115/23099169510",
-        "offerLink": "https://s.shopee.com.br/7VGp1BOg5R"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58261084738",
       "name": "Óculos De Grau Automático Perto/Longe (Escurece no Sol)",
       "price": 39.0,
@@ -26811,6 +26782,35 @@
       "_last_price": null
     },
     {
+      "id": "23099169510",
+      "name": "Kit Liquidificador 550W Turbo Power L-99-FB + Batedeira 400W Prática - B-44-B Mondial",
+      "price": 229.9,
+      "original_price": 310.68,
+      "discount": 26.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825b8-msauhkcaes5i2c",
+      "link": "https://s.shopee.com.br/7VGp1BOg5R",
+      "rating": "4.9",
+      "sales": 1269,
+      "shop": "Dutra Máquinas",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23099169510,
+        "productName": "Kit Liquidificador 550W Turbo Power L-99-FB + Batedeira 400W Prática - B-44-B Mondial",
+        "price": "229.9",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.03",
+        "sales": 1269,
+        "ratingStar": "4.9",
+        "shopName": "Dutra Máquinas",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b8-msauhkcaes5i2c",
+        "productLink": "https://shopee.com.br/product/489001115/23099169510",
+        "offerLink": "https://s.shopee.com.br/7VGp1BOg5R"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23792805754",
       "name": "Panela De Pressão Antiaderente Fechamento Externo 3L Nacional",
       "price": 126.9,
@@ -28924,6 +28924,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mp18dhjxhy4l91",
         "productLink": "https://shopee.com.br/product/987020544/58261911959",
         "offerLink": "https://s.shopee.com.br/4LJnFLAsMx"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "57205646686",
+      "name": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
+      "price": 181.77,
+      "original_price": 230.09,
+      "discount": 21.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
+      "link": "https://s.shopee.com.br/5LCKRBxrgn",
+      "rating": "4.9",
+      "sales": 4088,
+      "shop": "BESTBYBRASILGOLD",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57205646686,
+        "productName": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
+        "price": "181.77",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.06",
+        "sales": 4088,
+        "ratingStar": "4.9",
+        "shopName": "BESTBYBRASILGOLD",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
+        "productLink": "https://shopee.com.br/product/1494297971/57205646686",
+        "offerLink": "https://s.shopee.com.br/5LCKRBxrgn"
       },
       "_last_price": null
     },
