@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T17:59:52.660428+00:00",
+  "updated_at": "2026-10-01T18:19:01.076219+00:00",
   "total": 1077,
   "products": [
     {
@@ -315,8 +315,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
         "productLink": "https://shopee.com.br/product/344381236/57911938287",
         "offerLink": "https://s.shopee.com.br/6q18DqLNci"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58265198384",
@@ -401,7 +400,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvr-mim1d9qnfl6s9f",
         "productLink": "https://shopee.com.br/product/1603112703/22899238019",
         "offerLink": "https://s.shopee.com.br/AUuQaoJMjM"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49466540071",
@@ -9297,35 +9297,6 @@
       "_last_price": null
     },
     {
-      "id": "22392157748",
-      "name": "Ração Fórmula Natural Pro Cães Sênior Porte Mini e Pequeno 10,1kg Adimax",
-      "price": 129.9,
-      "original_price": 295.23,
-      "discount": 56.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0knrwoe0w475",
-      "link": "https://s.shopee.com.br/9pekJuhnko",
-      "rating": "4.9",
-      "sales": 446,
-      "shop": "GP ECOMMERCE.",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22392157748,
-        "productName": "Ração Fórmula Natural Pro Cães Sênior Porte Mini e Pequeno 10,1kg Adimax",
-        "price": "129.9",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.03",
-        "sales": 446,
-        "ratingStar": "4.9",
-        "shopName": "GP ECOMMERCE.",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0knrwoe0w475",
-        "productLink": "https://shopee.com.br/product/442964228/22392157748",
-        "offerLink": "https://s.shopee.com.br/9pekJuhnko"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23497309877",
       "name": "Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb Cozinha",
       "price": 61.69,
@@ -11849,35 +11820,6 @@
       "_last_price": null
     },
     {
-      "id": "22893806671",
-      "name": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
-      "price": 39.9,
-      "original_price": 83.12,
-      "discount": 52.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
-      "link": "https://s.shopee.com.br/6q18Zzpmjx",
-      "rating": "4.8",
-      "sales": 555,
-      "shop": "Facilita Lar.",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22893806671,
-        "productName": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
-        "price": "39.9",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.13",
-        "sales": 555,
-        "ratingStar": "4.8",
-        "shopName": "Facilita Lar.",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
-        "productLink": "https://shopee.com.br/product/1461473610/22893806671",
-        "offerLink": "https://s.shopee.com.br/6q18Zzpmjx"
-      },
-      "_last_price": null
-    },
-    {
       "id": "21997222833",
       "name": "Tênis Meia Feminino Calce Fácil Botinha Ortopédico Esportivo Sneaker Slip On Casual confortável Academia",
       "price": 28.9,
@@ -13063,6 +13005,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mo00cdtfqygx57",
         "productLink": "https://shopee.com.br/product/1571276714/58209304205",
         "offerLink": "https://s.shopee.com.br/1qcSnDCFz0"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22392157748",
+      "name": "Ração Fórmula Natural Pro Cães Sênior Porte Mini e Pequeno 10,1kg Adimax",
+      "price": 149.9,
+      "original_price": 299.8,
+      "discount": 50.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0knrwoe0w475",
+      "link": "https://s.shopee.com.br/9pekJuhnko",
+      "rating": "4.9",
+      "sales": 446,
+      "shop": "GP ECOMMERCE.",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22392157748,
+        "productName": "Ração Fórmula Natural Pro Cães Sênior Porte Mini e Pequeno 10,1kg Adimax",
+        "price": "149.9",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 446,
+        "ratingStar": "4.9",
+        "shopName": "GP ECOMMERCE.",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0knrwoe0w475",
+        "productLink": "https://shopee.com.br/product/442964228/22392157748",
+        "offerLink": "https://s.shopee.com.br/9pekJuhnko"
       },
       "_last_price": null
     },
@@ -17012,8 +16983,8 @@
     {
       "id": "23498303242",
       "name": "KIT 04 Body Splash ARABE SOUL 200ml FEMININO - Desodorante Perfume Corporal Alta Fixação Noite e Dia",
-      "price": 54.9,
-      "original_price": 98.04,
+      "price": 54.89,
+      "original_price": 98.02,
       "discount": 44.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m4-moimwija68064c",
@@ -17026,7 +16997,7 @@
       "_item": {
         "itemId": 23498303242,
         "productName": "KIT 04 Body Splash ARABE SOUL 200ml FEMININO - Desodorante Perfume Corporal Alta Fixação Noite e Dia",
-        "price": "54.9",
+        "price": "54.89",
         "priceDiscountRate": 44,
         "commissionRate": "0.03",
         "sales": 2187,
@@ -19470,6 +19441,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mgggrav5aqz3b0",
         "productLink": "https://shopee.com.br/product/1582999046/42064038188",
         "offerLink": "https://s.shopee.com.br/9KiTCUsRWy"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23791204929",
+      "name": "Whey Protein Isolado Iso Blend Complex 2Kg - XPro Nutrition",
+      "price": 119.99,
+      "original_price": 199.98,
+      "discount": 40.0,
+      "commission": 22.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb3pqavbklg96",
+      "link": "https://s.shopee.com.br/6AlRQgdu0X",
+      "rating": "4.8",
+      "sales": 1096,
+      "shop": "Nutrafit Suplementos e Vitaminas",
+      "category": "whey protein",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23791204929,
+        "productName": "Whey Protein Isolado Iso Blend Complex 2Kg - XPro Nutrition",
+        "price": "119.99",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.22",
+        "sales": 1096,
+        "ratingStar": "4.8",
+        "shopName": "Nutrafit Suplementos e Vitaminas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb3pqavbklg96",
+        "productLink": "https://shopee.com.br/product/983753255/23791204929",
+        "offerLink": "https://s.shopee.com.br/6AlRQgdu0X"
       },
       "_last_price": null
     },
@@ -30147,12 +30147,12 @@
     },
     {
       "id": "10602531422",
-      "name": "Colete Salva Vidas Infantil 20, 30, 50, 60 e 70kg (Pesca e Lazer)",
+      "name": "Colete Salva Vidas Infantil Marítimo EAF Pesca Lazer Ajustável 20kg 30kg 50kg 60kg 70kg",
       "price": 57.31,
       "original_price": 69.89,
       "discount": 18.0,
       "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/6f8aebdccdf7513742951244e3186cbf",
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mtsf148il62p02",
       "link": "https://s.shopee.com.br/4B0N37McV4",
       "rating": "4.9",
       "sales": 105,
@@ -30161,14 +30161,14 @@
       "source": "shopee",
       "_item": {
         "itemId": 10602531422,
-        "productName": "Colete Salva Vidas Infantil 20, 30, 50, 60 e 70kg (Pesca e Lazer)",
+        "productName": "Colete Salva Vidas Infantil Marítimo EAF Pesca Lazer Ajustável 20kg 30kg 50kg 60kg 70kg",
         "price": "57.31",
         "priceDiscountRate": 18,
         "commissionRate": "0.07",
         "sales": 105,
         "ratingStar": "4.9",
         "shopName": "MarítimoStore",
-        "imageUrl": "https://cf.shopee.com.br/file/6f8aebdccdf7513742951244e3186cbf",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mtsf148il62p02",
         "productLink": "https://shopee.com.br/product/352135917/10602531422",
         "offerLink": "https://s.shopee.com.br/4B0N37McV4"
       },
