@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T18:38:05.420814+00:00",
+  "updated_at": "2026-10-01T18:57:14.116142+00:00",
   "total": 1079,
   "products": [
     {
@@ -313,7 +313,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mr6w05iemznofe",
         "productLink": "https://shopee.com.br/product/1896341737/58265198384",
         "offerLink": "https://s.shopee.com.br/6AlRQdnqP7"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "55508691646",
@@ -975,8 +976,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262f-mllw34rkbgg82a",
         "productLink": "https://shopee.com.br/product/207653029/54259002448",
         "offerLink": "https://s.shopee.com.br/5fpApuG6O9"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "49165555882",
@@ -4637,7 +4637,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mmvvx9h1getec5",
       "link": "https://s.shopee.com.br/3VkgFttxR3",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 252,
       "shop": "Sunny.Store",
       "category": "boné pesca",
@@ -4649,7 +4649,7 @@
         "priceDiscountRate": 66,
         "commissionRate": "0.03",
         "sales": 252,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Sunny.Store",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmvvx9h1getec5",
         "productLink": "https://shopee.com.br/product/1267873709/58208583352",
@@ -12226,35 +12226,6 @@
       "_last_price": null
     },
     {
-      "id": "23799559042",
-      "name": "Comedouro Bebedouro Elevado Pet Gato Cachorro Pequeno Pote Ração Água Anatômico",
-      "price": 14.69,
-      "original_price": 29.98,
-      "discount": 51.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134202-8259u-mqg8iqhcojdac4",
-      "link": "https://s.shopee.com.br/1LgChbziHn",
-      "rating": "4.9",
-      "sales": 462,
-      "shop": "Sanfang Top",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23799559042,
-        "productName": "Comedouro Bebedouro Elevado Pet Gato Cachorro Pequeno Pote Ração Água Anatômico",
-        "price": "14.69",
-        "priceDiscountRate": 51,
-        "commissionRate": "0.03",
-        "sales": 462,
-        "ratingStar": "4.9",
-        "shopName": "Sanfang Top",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134202-8259u-mqg8iqhcojdac4",
-        "productLink": "https://shopee.com.br/product/1643101321/23799559042",
-        "offerLink": "https://s.shopee.com.br/1LgChbziHn"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22894848502",
       "name": "Coador de Café Aço Inox P/M/G Reutilizável Filtro Permanente Sem Papel (Camada Dupla)",
       "price": 21.98,
@@ -12779,8 +12750,8 @@
     {
       "id": "58265081114",
       "name": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-      "price": 10.99,
-      "original_price": 21.98,
+      "price": 19.99,
+      "original_price": 39.98,
       "discount": 50.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
@@ -12793,7 +12764,7 @@
       "_item": {
         "itemId": 58265081114,
         "productName": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-        "price": "10.99",
+        "price": "19.99",
         "priceDiscountRate": 50,
         "commissionRate": "0.13",
         "sales": 4510,
@@ -13063,6 +13034,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mo00cdtfqygx57",
         "productLink": "https://shopee.com.br/product/1571276714/58209304205",
         "offerLink": "https://s.shopee.com.br/1qcSnDCFz0"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22392157748",
+      "name": "Ração Fórmula Natural Pro Cães Sênior Porte Mini e Pequeno 10,1kg Adimax",
+      "price": 149.9,
+      "original_price": 299.8,
+      "discount": 50.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0knrwoe0w475",
+      "link": "https://s.shopee.com.br/9pekJuhnko",
+      "rating": "4.9",
+      "sales": 446,
+      "shop": "GP ECOMMERCE.",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22392157748,
+        "productName": "Ração Fórmula Natural Pro Cães Sênior Porte Mini e Pequeno 10,1kg Adimax",
+        "price": "149.9",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 446,
+        "ratingStar": "4.9",
+        "shopName": "GP ECOMMERCE.",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0knrwoe0w475",
+        "productLink": "https://shopee.com.br/product/442964228/22392157748",
+        "offerLink": "https://s.shopee.com.br/9pekJuhnko"
       },
       "_last_price": null
     },
@@ -13498,35 +13498,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262h-mjmqfx0jzhtsaa",
         "productLink": "https://shopee.com.br/product/1006215031/27869521679",
         "offerLink": "https://s.shopee.com.br/80D5c0grge"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23397600706",
-      "name": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
-      "price": 10.9,
-      "original_price": 21.37,
-      "discount": 49.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
-      "link": "https://s.shopee.com.br/5AsuEo9FWG",
-      "rating": "4.9",
-      "sales": 6430,
-      "shop": "ES Official Shop",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23397600706,
-        "productName": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
-        "price": "10.9",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.13",
-        "sales": 6430,
-        "ratingStar": "4.9",
-        "shopName": "ES Official Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
-        "productLink": "https://shopee.com.br/product/988030305/23397600706",
-        "offerLink": "https://s.shopee.com.br/5AsuEo9FWG"
       },
       "_last_price": null
     },
@@ -16194,6 +16165,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcf2-lt49sbjuwpg373",
         "productLink": "https://shopee.com.br/product/432843460/23092914472",
         "offerLink": "https://s.shopee.com.br/5q8b21p751"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23397600706",
+      "name": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
+      "price": 11.8,
+      "original_price": 21.45,
+      "discount": 45.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
+      "link": "https://s.shopee.com.br/5AsuEo9FWG",
+      "rating": "4.9",
+      "sales": 6430,
+      "shop": "ES Official Shop",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23397600706,
+        "productName": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
+        "price": "11.8",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.13",
+        "sales": 6430,
+        "ratingStar": "4.9",
+        "shopName": "ES Official Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
+        "productLink": "https://shopee.com.br/product/988030305/23397600706",
+        "offerLink": "https://s.shopee.com.br/5AsuEo9FWG"
       },
       "_last_price": null
     },
@@ -24116,8 +24116,8 @@
     {
       "id": "20599359513",
       "name": "Kit Cozinha Brinquedo Infantil Fogão Forno Panelinhas Xícaras Acessórios Faz de Conta",
-      "price": 29.98,
-      "original_price": 44.09,
+      "price": 29.99,
+      "original_price": 44.1,
       "discount": 32.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lb-moh9avb3ey9scc",
@@ -24130,7 +24130,7 @@
       "_item": {
         "itemId": 20599359513,
         "productName": "Kit Cozinha Brinquedo Infantil Fogão Forno Panelinhas Xícaras Acessórios Faz de Conta",
-        "price": "29.98",
+        "price": "29.99",
         "priceDiscountRate": 32,
         "commissionRate": "0.03",
         "sales": 879,
