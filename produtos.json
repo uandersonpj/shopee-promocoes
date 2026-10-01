@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T08:11:23.206193+00:00",
+  "updated_at": "2026-10-01T08:30:14.866234+00:00",
   "total": 1056,
   "products": [
     {
@@ -5478,7 +5478,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mrztp81e9kw7b1",
         "productLink": "https://shopee.com.br/product/1781912896/58265714065",
         "offerLink": "https://s.shopee.com.br/70KYQAT8r7"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19698719773",
@@ -11857,6 +11858,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262f-mkwr7zjyesxu26",
         "productLink": "https://shopee.com.br/product/1658949277/58205469373",
         "offerLink": "https://s.shopee.com.br/7KxOos7dxi"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22893806671",
+      "name": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
+      "price": 39.9,
+      "original_price": 83.12,
+      "discount": 52.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
+      "link": "https://s.shopee.com.br/6q18Zzpmjx",
+      "rating": "4.8",
+      "sales": 555,
+      "shop": "Facilita Lar.",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22893806671,
+        "productName": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
+        "price": "39.9",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.13",
+        "sales": 555,
+        "ratingStar": "4.8",
+        "shopName": "Facilita Lar.",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
+        "productLink": "https://shopee.com.br/product/1461473610/22893806671",
+        "offerLink": "https://s.shopee.com.br/6q18Zzpmjx"
       },
       "_last_price": null
     },
@@ -28416,35 +28446,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
         "productLink": "https://shopee.com.br/product/1494297971/57205646686",
         "offerLink": "https://s.shopee.com.br/5LCKRBxrgn"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "45158660671",
-      "name": "Cafeteira Espresso Lov Três Corações 1250W",
-      "price": 355.53,
-      "original_price": 450.04,
-      "discount": 21.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259z-mr0ij6f717nl64",
-      "link": "https://s.shopee.com.br/7ptfPn5jwn",
-      "rating": "4.9",
-      "sales": 789,
-      "shop": "BUMPER MAGAZINE",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45158660671,
-        "productName": "Cafeteira Espresso Lov Três Corações 1250W",
-        "price": "355.53",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.11",
-        "sales": 789,
-        "ratingStar": "4.9",
-        "shopName": "BUMPER MAGAZINE",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259z-mr0ij6f717nl64",
-        "productLink": "https://shopee.com.br/product/342086228/45158660671",
-        "offerLink": "https://s.shopee.com.br/7ptfPn5jwn"
       },
       "_last_price": null
     },
