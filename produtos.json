@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T04:06:48.226103+00:00",
-  "total": 1055,
+  "updated_at": "2026-10-01T04:25:38.646926+00:00",
+  "total": 1056,
   "products": [
     {
       "id": "50203126324",
@@ -8570,7 +8570,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mssjbtxlgzd216",
         "productLink": "https://shopee.com.br/product/1291547401/23594943408",
         "offerLink": "https://s.shopee.com.br/1LgBfpdpHZ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "18699301801",
@@ -15645,6 +15646,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e",
         "productLink": "https://shopee.com.br/product/829646892/42159232629",
         "offerLink": "https://s.shopee.com.br/2Vs93yZNuk"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22295054092",
+      "name": "Extensão Elétrica 20A 3 Tomadas Bivolt 110 / 220 V Para Airfryer Micro-ondas Secador 1M 2M 3 Metros",
+      "price": 25.89,
+      "original_price": 47.94,
+      "discount": 46.0,
+      "commission": 5.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mpi85szraozm11",
+      "link": "https://s.shopee.com.br/2qUzXqLI0H",
+      "rating": "4.7",
+      "sales": 1517,
+      "shop": "ToqueEstoque",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22295054092,
+        "productName": "Extensão Elétrica 20A 3 Tomadas Bivolt 110 / 220 V Para Airfryer Micro-ondas Secador 1M 2M 3 Metros",
+        "price": "25.89",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.05",
+        "sales": 1517,
+        "ratingStar": "4.7",
+        "shopName": "ToqueEstoque",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mpi85szraozm11",
+        "productLink": "https://shopee.com.br/product/1676542674/22295054092",
+        "offerLink": "https://s.shopee.com.br/2qUzXqLI0H"
       },
       "_last_price": null
     },
