@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T01:31:31.062706+00:00",
+  "updated_at": "2026-10-01T01:51:28.841109+00:00",
   "total": 1106,
   "products": [
     {
@@ -636,7 +636,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
         "productLink": "https://shopee.com.br/product/1266325318/21897981294",
         "offerLink": "https://s.shopee.com.br/4fwcZYrM5P"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23294866358",
@@ -4076,8 +4077,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mtape51h6ubnc7",
         "productLink": "https://shopee.com.br/product/1758772368/58213479973",
         "offerLink": "https://s.shopee.com.br/5fp9GBdJ2D"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "42110429390",
@@ -4395,7 +4395,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b5-mt4n85gao35x12",
         "productLink": "https://shopee.com.br/product/832040275/22495754071",
         "offerLink": "https://s.shopee.com.br/9KiRcpahxM"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22994820028",
@@ -26606,35 +26607,6 @@
       "_last_price": null
     },
     {
-      "id": "58266163953",
-      "name": "Luva Pesca 2 Dedos de Fora Meio Dedo Sem Dedo Antiderrapante Emborrachada Respirável Unissex",
-      "price": 10.07,
-      "original_price": 13.99,
-      "discount": 28.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mrum25gvd9fp13",
-      "link": "https://s.shopee.com.br/3LREU0aUdt",
-      "rating": "4.7",
-      "sales": 165,
-      "shop": "tiopescada",
-      "category": "luva pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58266163953,
-        "productName": "Luva Pesca 2 Dedos de Fora Meio Dedo Sem Dedo Antiderrapante Emborrachada Respirável Unissex",
-        "price": "10.07",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.09",
-        "sales": 165,
-        "ratingStar": "4.7",
-        "shopName": "tiopescada",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mrum25gvd9fp13",
-        "productLink": "https://shopee.com.br/product/1641676028/58266163953",
-        "offerLink": "https://s.shopee.com.br/3LREU0aUdt"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22498827883",
       "name": "Cabo De Força Cpu Atx Computador Pc Monitor 3 Pinos novo padrão 10A Tripolar Fonte",
       "price": 10.89,
@@ -26950,6 +26922,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mlmg5tia77k525",
         "productLink": "https://shopee.com.br/product/1108226774/18198165538",
         "offerLink": "https://s.shopee.com.br/8pmC1oS5rL"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58266163953",
+      "name": "Luva Pesca 2 Dedos de Fora Meio Dedo Sem Dedo Antiderrapante Emborrachada Respirável Unissex",
+      "price": 10.77,
+      "original_price": 14.75,
+      "discount": 27.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mrum25gvd9fp13",
+      "link": "https://s.shopee.com.br/3LREU0aUdt",
+      "rating": "4.7",
+      "sales": 165,
+      "shop": "tiopescada",
+      "category": "luva pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58266163953,
+        "productName": "Luva Pesca 2 Dedos de Fora Meio Dedo Sem Dedo Antiderrapante Emborrachada Respirável Unissex",
+        "price": "10.77",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.09",
+        "sales": 165,
+        "ratingStar": "4.7",
+        "shopName": "tiopescada",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mrum25gvd9fp13",
+        "productLink": "https://shopee.com.br/product/1641676028/58266163953",
+        "offerLink": "https://s.shopee.com.br/3LREU0aUdt"
       },
       "_last_price": null
     },
