@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-02T00:45:21.796282+00:00",
-  "total": 1090,
+  "updated_at": "2026-10-02T01:04:41.744196+00:00",
+  "total": 1077,
   "products": [
     {
       "id": "50203126324",
@@ -867,7 +867,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lzop7krz80iq1e",
         "productLink": "https://shopee.com.br/product/218996205/25391678999",
         "offerLink": "https://s.shopee.com.br/5AsuEkfb3w"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23394267693",
@@ -2402,8 +2403,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma3wxbeu4kl52a",
         "productLink": "https://shopee.com.br/product/1494995608/23798319408",
         "offerLink": "https://s.shopee.com.br/9fLJb2FKU0"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "52557307480",
@@ -9827,35 +9827,6 @@
       "_last_price": null
     },
     {
-      "id": "58214587344",
-      "name": "Detergente em pó lava louça com percarbonato 1kg",
-      "price": 15.75,
-      "original_price": 35.0,
-      "discount": 55.0,
-      "commission": 16.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mqv1vtdp7l6qf8",
-      "link": "https://s.shopee.com.br/4qG3qBJn89",
-      "rating": "4.7",
-      "sales": 2343,
-      "shop": "Ans Agrária",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58214587344,
-        "productName": "Detergente em pó lava louça com percarbonato 1kg",
-        "price": "15.75",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.16",
-        "sales": 2343,
-        "ratingStar": "4.7",
-        "shopName": "Ans Agrária",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mqv1vtdp7l6qf8",
-        "productLink": "https://shopee.com.br/product/512962451/58214587344",
-        "offerLink": "https://s.shopee.com.br/4qG3qBJn89"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23198696676",
       "name": "Kit 10 Panos de Copa de Microfibra 35x55 toalha de Prato Luxo",
       "price": 38.9,
@@ -10958,35 +10929,6 @@
       "_last_price": null
     },
     {
-      "id": "23097891432",
-      "name": "Porta Detergente Dispenser Sabão Liquido Esponja Bucha Inox",
-      "price": 31.68,
-      "original_price": 67.4,
-      "discount": 53.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82591-mte1gjtfrta9d6",
-      "link": "https://s.shopee.com.br/8fSmvgx8Af",
-      "rating": "4.8",
-      "sales": 1295,
-      "shop": "RIven Bazar",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23097891432,
-        "productName": "Porta Detergente Dispenser Sabão Liquido Esponja Bucha Inox",
-        "price": "31.68",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.03",
-        "sales": 1295,
-        "ratingStar": "4.8",
-        "shopName": "RIven Bazar",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82591-mte1gjtfrta9d6",
-        "productLink": "https://shopee.com.br/product/299222557/23097891432",
-        "offerLink": "https://s.shopee.com.br/8fSmvgx8Af"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23899479691",
       "name": "Aço inoxidável Suporte Porta Esponja para bucha de pia Prateleira de cozinha",
       "price": 8.58,
@@ -11070,6 +11012,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdr-ltomtv6ucsfla9",
         "productLink": "https://shopee.com.br/product/378105312/23992941253",
         "offerLink": "https://s.shopee.com.br/80D5c2xWEa"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23799369338",
+      "name": "Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Presente",
+      "price": 69.99,
+      "original_price": 148.91,
+      "discount": 53.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8261q-ml7f76qzilfsb9",
+      "link": "https://s.shopee.com.br/7AdycWII2c",
+      "rating": "4.8",
+      "sales": 3217,
+      "shop": "rcacomercial",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23799369338,
+        "productName": "Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Presente",
+        "price": "69.99",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.07",
+        "sales": 3217,
+        "ratingStar": "4.8",
+        "shopName": "rcacomercial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261q-ml7f76qzilfsb9",
+        "productLink": "https://shopee.com.br/product/1377920727/23799369338",
+        "offerLink": "https://s.shopee.com.br/7AdycWII2c"
       },
       "_last_price": null
     },
@@ -11654,64 +11625,6 @@
       "_last_price": null
     },
     {
-      "id": "58202393982",
-      "name": "Detergente Lava Louças Ypê em Pó 1Kg ou 450g para Máquina - Escolha a Quantidade",
-      "price": 25.79,
-      "original_price": 53.73,
-      "discount": 52.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820la-mmgnmeemyvwnae",
-      "link": "https://s.shopee.com.br/50ZU2UJ9nC",
-      "rating": "4.9",
-      "sales": 3098,
-      "shop": "BRMAX OFICIAL",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58202393982,
-        "productName": "Detergente Lava Louças Ypê em Pó 1Kg ou 450g para Máquina - Escolha a Quantidade",
-        "price": "25.79",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 3098,
-        "ratingStar": "4.9",
-        "shopName": "BRMAX OFICIAL",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mmgnmeemyvwnae",
-        "productLink": "https://shopee.com.br/product/399029882/58202393982",
-        "offerLink": "https://s.shopee.com.br/50ZU2UJ9nC"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23499364961",
-      "name": "Detergente Roupa Preta Protege O Preto | Realça A Cor | Evita Desbotamento 1kg AlvejaPro Oficial",
-      "price": 22.89,
-      "original_price": 47.69,
-      "discount": 52.0,
-      "commission": 16.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mll99udq0ao7d0",
-      "link": "https://s.shopee.com.br/80D68SzfWT",
-      "rating": "4.9",
-      "sales": 1792,
-      "shop": "AlvejaPro",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23499364961,
-        "productName": "Detergente Roupa Preta Protege O Preto | Realça A Cor | Evita Desbotamento 1kg AlvejaPro Oficial",
-        "price": "22.89",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.16",
-        "sales": 1792,
-        "ratingStar": "4.9",
-        "shopName": "AlvejaPro",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mll99udq0ao7d0",
-        "productLink": "https://shopee.com.br/product/1754933018/23499364961",
-        "offerLink": "https://s.shopee.com.br/80D68SzfWT"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22394970918",
       "name": "LEVE 2 PELO PREÇO DE 1 | DESINFETANTE FAZ 25 LTS CADA | LAV. FLORAL + LAVANDA GLAYDE",
       "price": 18.99,
@@ -12143,35 +12056,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
         "productLink": "https://shopee.com.br/product/1270189717/29343102973",
         "offerLink": "https://s.shopee.com.br/9KiTiuuaob"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22497433522",
-      "name": "Lauril 27% Líquido - Matéria-Prima para Sabão, Shampoos e Detergentes Espumante Líquido",
-      "price": 14.99,
-      "original_price": 30.59,
-      "discount": 51.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me008w9f5czn90",
-      "link": "https://s.shopee.com.br/AKb0ukqmmt",
-      "rating": "4.9",
-      "sales": 1393,
-      "shop": "Loja CR Clean",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22497433522,
-        "productName": "Lauril 27% Líquido - Matéria-Prima para Sabão, Shampoos e Detergentes Espumante Líquido",
-        "price": "14.99",
-        "priceDiscountRate": 51,
-        "commissionRate": "0.13",
-        "sales": 1393,
-        "ratingStar": "4.9",
-        "shopName": "Loja CR Clean",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me008w9f5czn90",
-        "productLink": "https://shopee.com.br/product/482713190/22497433522",
-        "offerLink": "https://s.shopee.com.br/AKb0ukqmmt"
       },
       "_last_price": null
     },
@@ -19687,35 +19571,6 @@
       "_last_price": null
     },
     {
-      "id": "22798836563",
-      "name": "Kit Econômico Lava Roupas em Cápsulas 5 em 1 para Toda Família Rende Mais no Dia a Dia",
-      "price": 19.99,
-      "original_price": 33.32,
-      "discount": 40.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mrex5qc0agw764",
-      "link": "https://s.shopee.com.br/5fpBMB8YFn",
-      "rating": "4.7",
-      "sales": 2106,
-      "shop": "N&D SOMBRA FLOR",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22798836563,
-        "productName": "Kit Econômico Lava Roupas em Cápsulas 5 em 1 para Toda Família Rende Mais no Dia a Dia",
-        "price": "19.99",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.13",
-        "sales": 2106,
-        "ratingStar": "4.7",
-        "shopName": "N&D SOMBRA FLOR",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mrex5qc0agw764",
-        "productLink": "https://shopee.com.br/product/1524703401/22798836563",
-        "offerLink": "https://s.shopee.com.br/5fpBMB8YFn"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58259287537",
       "name": "Desinfetante 5 Litros Bactericida Limpeza Profunda Perfume Duradouro Uso Geral Alto Rendimento",
       "price": 13.19,
@@ -20818,35 +20673,6 @@
       "_last_price": null
     },
     {
-      "id": "22092907531",
-      "name": "Kit Lixeira Cozinha 5L E Dispenser Porta Detergente Luxo",
-      "price": 67.79,
-      "original_price": 109.34,
-      "discount": 38.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mra6ut14j11h76",
-      "link": "https://s.shopee.com.br/9fLK7WtK8h",
-      "rating": "4.9",
-      "sales": 1664,
-      "shop": "SELLNEEDS",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22092907531,
-        "productName": "Kit Lixeira Cozinha 5L E Dispenser Porta Detergente Luxo",
-        "price": "67.79",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.13",
-        "sales": 1664,
-        "ratingStar": "4.9",
-        "shopName": "SELLNEEDS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mra6ut14j11h76",
-        "productLink": "https://shopee.com.br/product/408653169/22092907531",
-        "offerLink": "https://s.shopee.com.br/9fLK7WtK8h"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58201422912",
       "name": "Kit 5 Panos de Chão Microfibra 70x60cm Furo para Rodo Limpeza",
       "price": 30.99,
@@ -21572,35 +21398,6 @@
       "_last_price": null
     },
     {
-      "id": "58261962536",
-      "name": "Kit 2em1 Escorredor Talheres + Dispenser Detergente Aço Inox Bancada Cozinha",
-      "price": 24.99,
-      "original_price": 39.67,
-      "discount": 37.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mp2vbjlo25fpcb",
-      "link": "https://s.shopee.com.br/9zyAW8s3Sn",
-      "rating": "4.9",
-      "sales": 1386,
-      "shop": "NOVO DIA COMERCIO E IMPORTACAO LTDA",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58261962536,
-        "productName": "Kit 2em1 Escorredor Talheres + Dispenser Detergente Aço Inox Bancada Cozinha",
-        "price": "24.99",
-        "priceDiscountRate": 37,
-        "commissionRate": "0.09",
-        "sales": 1386,
-        "ratingStar": "4.9",
-        "shopName": "NOVO DIA COMERCIO E IMPORTACAO LTDA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mp2vbjlo25fpcb",
-        "productLink": "https://shopee.com.br/product/1348601027/58261962536",
-        "offerLink": "https://s.shopee.com.br/9zyAW8s3Sn"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58257021649",
       "name": "Kit Capilar PROFISSIONAL BELKIT LISO OBRIGATÓRIO 03 itens de 1 LITRO: Shampoo Condicionador Mascara",
       "price": 62.89,
@@ -22061,64 +21858,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mqw8ujy2tvr9f6",
         "productLink": "https://shopee.com.br/product/1177903362/58264329316",
         "offerLink": "https://s.shopee.com.br/9pejnMj9oj"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58251102584",
-      "name": "Porta Detergente Rack Armazenamento De Cozinha Organizador Dispensador De Sabão Aço Inox Para Pia",
-      "price": 31.9,
-      "original_price": 49.84,
-      "discount": 36.0,
-      "commission": 4.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8260s-mkcnugqwujuu32",
-      "link": "https://s.shopee.com.br/6VOILi5NZ0",
-      "rating": "4.8",
-      "sales": 2202,
-      "shop": "Bom DMS Brasil",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58251102584,
-        "productName": "Porta Detergente Rack Armazenamento De Cozinha Organizador Dispensador De Sabão Aço Inox Para Pia",
-        "price": "31.9",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.04",
-        "sales": 2202,
-        "ratingStar": "4.8",
-        "shopName": "Bom DMS Brasil",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260s-mkcnugqwujuu32",
-        "productLink": "https://shopee.com.br/product/1619145136/58251102584",
-        "offerLink": "https://s.shopee.com.br/6VOILi5NZ0"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23899161746",
-      "name": "Porta Detergente Rack Armazenamento De Cozinha Organizador Dispenser Sabão Aço Inox Para Pia",
-      "price": 31.9,
-      "original_price": 49.84,
-      "discount": 36.0,
-      "commission": 4.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8261i-mkcjnrt0gvlu4d",
-      "link": "https://s.shopee.com.br/6L4s9P60tz",
-      "rating": "4.9",
-      "sales": 1932,
-      "shop": "Store import‘s",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23899161746,
-        "productName": "Porta Detergente Rack Armazenamento De Cozinha Organizador Dispenser Sabão Aço Inox Para Pia",
-        "price": "31.9",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.04",
-        "sales": 1932,
-        "ratingStar": "4.9",
-        "shopName": "Store import‘s",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261i-mkcjnrt0gvlu4d",
-        "productLink": "https://shopee.com.br/product/392545055/23899161746",
-        "offerLink": "https://s.shopee.com.br/6L4s9P60tz"
       },
       "_last_price": null
     },
@@ -24385,35 +24124,6 @@
       "_last_price": null
     },
     {
-      "id": "22736011414",
-      "name": "Lava Roupas Lavanderia Pro Líquido 7L Omo",
-      "price": 99.89,
-      "original_price": 146.9,
-      "discount": 32.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rau5-mau62igmy63506",
-      "link": "https://s.shopee.com.br/4LJnFGLh90",
-      "rating": "5",
-      "sales": 40788,
-      "shop": "Braslimpo",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22736011414,
-        "productName": "Lava Roupas Lavanderia Pro Líquido 7L Omo",
-        "price": "99.89",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.06",
-        "sales": 40788,
-        "ratingStar": "5",
-        "shopName": "Braslimpo",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rau5-mau62igmy63506",
-        "productLink": "https://shopee.com.br/product/946161700/22736011414",
-        "offerLink": "https://s.shopee.com.br/4LJnFGLh90"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58213273842",
       "name": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
       "price": 12.99,
@@ -25893,35 +25603,6 @@
       "_last_price": null
     },
     {
-      "id": "23091599945",
-      "name": "Lava Roupas Líquido Perfect White 7L Omo",
-      "price": 99.89,
-      "original_price": 140.69,
-      "discount": 29.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7renc-m868x8znllevaa",
-      "link": "https://s.shopee.com.br/8pmD7zwUpg",
-      "rating": "5",
-      "sales": 818,
-      "shop": "Braslimpo",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23091599945,
-        "productName": "Lava Roupas Líquido Perfect White 7L Omo",
-        "price": "99.89",
-        "priceDiscountRate": 29,
-        "commissionRate": "0.03",
-        "sales": 818,
-        "ratingStar": "5",
-        "shopName": "Braslimpo",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7renc-m868x8znllevaa",
-        "productLink": "https://shopee.com.br/product/946161700/23091599945",
-        "offerLink": "https://s.shopee.com.br/8pmD7zwUpg"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58264791138",
       "name": "Combo Capilar PROFISSIONAL Liso Obrigatório BELKIT 1L Shampoo Condicionador Máscara + Spray Finaliz.",
       "price": 66.0,
@@ -27238,7 +26919,7 @@
       "rating": "4.9",
       "sales": 1761,
       "shop": "Lume & Lume",
-      "category": "detergente",
+      "category": "desinfetante",
       "source": "shopee",
       "_item": {
         "itemId": 58202494237,
@@ -28996,35 +28677,6 @@
       "_last_price": null
     },
     {
-      "id": "20175025617",
-      "name": "Dispenser Porta Detergente e Bucha Luxo Cozinha",
-      "price": 41.19,
-      "original_price": 52.14,
-      "discount": 21.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mrlrcmve9s0572",
-      "link": "https://s.shopee.com.br/9AP3WbvE9m",
-      "rating": "4.9",
-      "sales": 1387,
-      "shop": "SELLNEEDS",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20175025617,
-        "productName": "Dispenser Porta Detergente e Bucha Luxo Cozinha",
-        "price": "41.19",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.13",
-        "sales": 1387,
-        "ratingStar": "4.9",
-        "shopName": "SELLNEEDS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mrlrcmve9s0572",
-        "productLink": "https://shopee.com.br/product/408653169/20175025617",
-        "offerLink": "https://s.shopee.com.br/9AP3WbvE9m"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23898339097",
       "name": "DETERGENTE ENZIMATICO 5 ENZIMAS ZYMEDET GOLD 1000 ML PROLINK",
       "price": 31.6,
@@ -29253,6 +28905,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rdvf-mcbiek37dzupf2",
         "productLink": "https://shopee.com.br/product/1603567416/41865738800",
         "offerLink": "https://s.shopee.com.br/70KYQNWgpN"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58205278874",
+      "name": "Adaptador Plug Otg Usb Tipo C Fêmea Para Macho Usb Notebook Celular Tablet Kit OTG USB Conector LG",
+      "price": 8.9,
+      "original_price": 11.12,
+      "discount": 20.0,
+      "commission": 15.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mqo5qrd9xhj5aa",
+      "link": "https://s.shopee.com.br/2qUzSSbHL7",
+      "rating": "4.8",
+      "sales": 2182,
+      "shop": "LUBI Utilidades ",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58205278874,
+        "productName": "Adaptador Plug Otg Usb Tipo C Fêmea Para Macho Usb Notebook Celular Tablet Kit OTG USB Conector LG",
+        "price": "8.9",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.15",
+        "sales": 2182,
+        "ratingStar": "4.8",
+        "shopName": "LUBI Utilidades ",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mqo5qrd9xhj5aa",
+        "productLink": "https://shopee.com.br/product/252618048/58205278874",
+        "offerLink": "https://s.shopee.com.br/2qUzSSbHL7"
       },
       "_last_price": null
     },
@@ -30388,35 +30069,6 @@
       "_last_price": null
     },
     {
-      "id": "21199212964",
-      "name": "Kit Cozinha Completa: Escorredor de Louça + Lixeira 5L + Porta Detergente + Rodinho de Pia",
-      "price": 36.9,
-      "original_price": 45.0,
-      "discount": 18.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcex-lslue7zt1z3pfc",
-      "link": "https://s.shopee.com.br/5q8bYU7uuo",
-      "rating": "4.9",
-      "sales": 2923,
-      "shop": "Utilidades Alencar",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21199212964,
-        "productName": "Kit Cozinha Completa: Escorredor de Louça + Lixeira 5L + Porta Detergente + Rodinho de Pia",
-        "price": "36.9",
-        "priceDiscountRate": 18,
-        "commissionRate": "0.09",
-        "sales": 2923,
-        "ratingStar": "4.9",
-        "shopName": "Utilidades Alencar",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcex-lslue7zt1z3pfc",
-        "productLink": "https://shopee.com.br/product/754451852/21199212964",
-        "offerLink": "https://s.shopee.com.br/5q8bYU7uuo"
-      },
-      "_last_price": null
-    },
-    {
       "id": "9086098749",
       "name": "Kit Com 2 Protetor Solar blackout buba Carro Infantil Para Carro Buba Com Ventosa Protege Sol",
       "price": 25.79,
@@ -31283,35 +30935,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mskcqn1114w454",
         "productLink": "https://shopee.com.br/product/1043921872/58266635989",
         "offerLink": "https://s.shopee.com.br/113LH6mK4O"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58255902115",
-      "name": "Base Sabão Líquido Faz 20L – Kit Blend Concentrado 2 Frascos – Fácil de Fazer",
-      "price": 61.99,
-      "original_price": 72.93,
-      "discount": 15.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820li-mp3t5spg1berbf",
-      "link": "https://s.shopee.com.br/4VdDRZL3o3",
-      "rating": "4.9",
-      "sales": 5581,
-      "shop": "Mercado das Essências",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58255902115,
-        "productName": "Base Sabão Líquido Faz 20L – Kit Blend Concentrado 2 Frascos – Fácil de Fazer",
-        "price": "61.99",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.03",
-        "sales": 5581,
-        "ratingStar": "4.9",
-        "shopName": "Mercado das Essências",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mp3t5spg1berbf",
-        "productLink": "https://shopee.com.br/product/1107585845/58255902115",
-        "offerLink": "https://s.shopee.com.br/4VdDRZL3o3"
       },
       "_last_price": null
     },
