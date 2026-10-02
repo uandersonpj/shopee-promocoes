@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-02T02:39:16.758591+00:00",
-  "total": 1091,
+  "updated_at": "2026-10-02T02:58:38.353318+00:00",
+  "total": 1092,
   "products": [
     {
       "id": "50203126324",
@@ -1128,8 +1128,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mp21h8cy5w5i1c",
         "productLink": "https://shopee.com.br/product/1567204121/58261933291",
         "offerLink": "https://s.shopee.com.br/4LJnFJT4nL"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23218022612",
@@ -11068,6 +11067,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdr-ltomtv6ucsfla9",
         "productLink": "https://shopee.com.br/product/378105312/23992941253",
         "offerLink": "https://s.shopee.com.br/80D5c2xWEa"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23799369338",
+      "name": "Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Presente",
+      "price": 69.99,
+      "original_price": 148.91,
+      "discount": 53.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8261q-ml7f76qzilfsb9",
+      "link": "https://s.shopee.com.br/7AdycWII2c",
+      "rating": "4.8",
+      "sales": 3217,
+      "shop": "rcacomercial",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23799369338,
+        "productName": "Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Presente",
+        "price": "69.99",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.07",
+        "sales": 3217,
+        "ratingStar": "4.8",
+        "shopName": "rcacomercial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261q-ml7f76qzilfsb9",
+        "productLink": "https://shopee.com.br/product/1377920727/23799369338",
+        "offerLink": "https://s.shopee.com.br/7AdycWII2c"
       },
       "_last_price": null
     },
