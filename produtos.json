@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T20:24:47.407731+00:00",
+  "updated_at": "2026-10-02T20:43:57.873239+00:00",
   "total": 1107,
   "products": [
     {
@@ -28,7 +28,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822zt-mia9h90fnksi38",
         "productLink": "https://shopee.com.br/product/450664666/50203126324",
         "offerLink": "https://s.shopee.com.br/2gBZGHHDkj"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "52807406192",
@@ -200,8 +201,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134275-7rdxw-mdfucal40l6y57",
         "productLink": "https://shopee.com.br/product/236693678/26539956454",
         "offerLink": "https://s.shopee.com.br/70KYQKBpkq"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23497594302",
@@ -3849,35 +3849,6 @@
       "_last_price": null
     },
     {
-      "id": "22094282340",
-      "name": "Coleira Peitoral Cachorro E Gato, Conjunto De Guia + Coleira Tipo Colete Para Pet Pequenos E Médios",
-      "price": 13.35,
-      "original_price": 40.45,
-      "discount": 67.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdyu-mcktsj0au8xj81",
-      "link": "https://s.shopee.com.br/6VOHpKbcOo",
-      "rating": "4.9",
-      "sales": 2174,
-      "shop": "Casa Essencial_Br",
-      "category": "coleira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22094282340,
-        "productName": "Coleira Peitoral Cachorro E Gato, Conjunto De Guia + Coleira Tipo Colete Para Pet Pequenos E Médios",
-        "price": "13.35",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.03",
-        "sales": 2174,
-        "ratingStar": "4.9",
-        "shopName": "Casa Essencial_Br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyu-mcktsj0au8xj81",
-        "productLink": "https://shopee.com.br/product/1392850246/22094282340",
-        "offerLink": "https://s.shopee.com.br/6VOHpKbcOo"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58209107153",
       "name": "3/2/1 Formas de Silicone Quadrada Assadeira Air Fryer e Forno Forma para Fritadeira Elétrica com Alça",
       "price": 10.0,
@@ -5790,35 +5761,6 @@
       "_last_price": null
     },
     {
-      "id": "58265606332",
-      "name": "FW Vara Pesca P/Carretilha 1,80m/1,65m 8-17lbs 2 partes Leve E e Resistente",
-      "price": 30.0,
-      "original_price": 81.08,
-      "discount": 63.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mrie96ths9hif0",
-      "link": "https://s.shopee.com.br/3LRG3YiCRu",
-      "rating": "4.7",
-      "sales": 116,
-      "shop": "Fairwind Fishing",
-      "category": "carretilha pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58265606332,
-        "productName": "FW Vara Pesca P/Carretilha 1,80m/1,65m 8-17lbs 2 partes Leve E e Resistente",
-        "price": "30",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.11",
-        "sales": 116,
-        "ratingStar": "4.7",
-        "shopName": "Fairwind Fishing",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mrie96ths9hif0",
-        "productLink": "https://shopee.com.br/product/1748082627/58265606332",
-        "offerLink": "https://s.shopee.com.br/3LRG3YiCRu"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22693260211",
       "name": "Sambura De Arame Galvanizado P/ isca viva pesca peixe vivo",
       "price": 29.99,
@@ -6341,6 +6283,35 @@
       "_last_price": null
     },
     {
+      "id": "22094282340",
+      "name": "Coleira Peitoral Cachorro E Gato, Conjunto De Guia + Coleira Tipo Colete Para Pet Pequenos E Médios",
+      "price": 15.35,
+      "original_price": 40.39,
+      "discount": 62.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdyu-mcktsj0au8xj81",
+      "link": "https://s.shopee.com.br/6VOHpKbcOo",
+      "rating": "4.9",
+      "sales": 2174,
+      "shop": "Casa Essencial_Br",
+      "category": "coleira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22094282340,
+        "productName": "Coleira Peitoral Cachorro E Gato, Conjunto De Guia + Coleira Tipo Colete Para Pet Pequenos E Médios",
+        "price": "15.35",
+        "priceDiscountRate": 62,
+        "commissionRate": "0.03",
+        "sales": 2174,
+        "ratingStar": "4.9",
+        "shopName": "Casa Essencial_Br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyu-mcktsj0au8xj81",
+        "productLink": "https://shopee.com.br/product/1392850246/22094282340",
+        "offerLink": "https://s.shopee.com.br/6VOHpKbcOo"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58256996145",
       "name": "Kit 4 Coleiras Antiparasitária Dugs Antipulgas e Carrapatos Cães World Veterinária",
       "price": 36.9,
@@ -6836,8 +6807,8 @@
     {
       "id": "23893429110",
       "name": "70KG Molinete De Pesca Carretel De Pesca 5.2 : 1 Giratório 1000-7000 Com Cabo EVA Amarelo Escuro",
-      "price": 45.0,
-      "original_price": 115.38,
+      "price": 45.8,
+      "original_price": 117.44,
       "discount": 61.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfje7rr835s0e2",
@@ -6850,7 +6821,7 @@
       "_item": {
         "itemId": 23893429110,
         "productName": "70KG Molinete De Pesca Carretel De Pesca 5.2 : 1 Giratório 1000-7000 Com Cabo EVA Amarelo Escuro",
-        "price": "45",
+        "price": "45.8",
         "priceDiscountRate": 61,
         "commissionRate": "0.08",
         "sales": 550,
@@ -9589,35 +9560,6 @@
       "_last_price": null
     },
     {
-      "id": "58266769609",
-      "name": "Isca Artificial Soft Bait Silicone Tucunaré Traíra Corvina Kit  1/5/10",
-      "price": 17.5,
-      "original_price": 39.77,
-      "discount": 56.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-ms8xasbneeivf3",
-      "link": "https://s.shopee.com.br/5VVkdYiD3W",
-      "rating": "4.8",
-      "sales": 415,
-      "shop": "Luzul Shop",
-      "category": "isca artificial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58266769609,
-        "productName": "Isca Artificial Soft Bait Silicone Tucunaré Traíra Corvina Kit  1/5/10",
-        "price": "17.5",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.11",
-        "sales": 415,
-        "ratingStar": "4.8",
-        "shopName": "Luzul Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-ms8xasbneeivf3",
-        "productLink": "https://shopee.com.br/product/750228545/58266769609",
-        "offerLink": "https://s.shopee.com.br/5VVkdYiD3W"
-      },
-      "_last_price": null
-    },
-    {
       "id": "21885136923",
       "name": "1PC 5g/7g/10g/14g/20g Afundamento De Iscas Duras Artificiais 3D",
       "price": 6.39,
@@ -9643,6 +9585,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbkn-lmr7fglvhadsea",
         "productLink": "https://shopee.com.br/product/233078623/21885136923",
         "offerLink": "https://s.shopee.com.br/AUuR5tk2Q3"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58266772535",
+      "name": "Isca Artificial Soft Bait Silicone Tucunaré Traíra Corvina Kit  1/5/10/20",
+      "price": 17.5,
+      "original_price": 39.77,
+      "discount": 56.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825am-ms92mh9dx1qg9c",
+      "link": "https://s.shopee.com.br/5Asx0GVPYO",
+      "rating": "4.9",
+      "sales": 184,
+      "shop": "Baratao Mix",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58266772535,
+        "productName": "Isca Artificial Soft Bait Silicone Tucunaré Traíra Corvina Kit  1/5/10/20",
+        "price": "17.5",
+        "priceDiscountRate": 56,
+        "commissionRate": "0.11",
+        "sales": 184,
+        "ratingStar": "4.9",
+        "shopName": "Baratao Mix",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825am-ms92mh9dx1qg9c",
+        "productLink": "https://shopee.com.br/product/456525233/58266772535",
+        "offerLink": "https://s.shopee.com.br/5Asx0GVPYO"
       },
       "_last_price": null
     },
@@ -17299,6 +17270,35 @@
       "_last_price": null
     },
     {
+      "id": "58262442513",
+      "name": "Caixa De Pesca Dupla Face 12 14 Compartimentos Organizador Porta Iscas Artificiais Anzol Resistente",
+      "price": 24.9,
+      "original_price": 45.27,
+      "discount": 45.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824h5-mpf76hbcqih750",
+      "link": "https://s.shopee.com.br/905euRJgaM",
+      "rating": "4.6",
+      "sales": 259,
+      "shop": "Natcha & Co.",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58262442513,
+        "productName": "Caixa De Pesca Dupla Face 12 14 Compartimentos Organizador Porta Iscas Artificiais Anzol Resistente",
+        "price": "24.9",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 259,
+        "ratingStar": "4.6",
+        "shopName": "Natcha & Co.",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h5-mpf76hbcqih750",
+        "productLink": "https://shopee.com.br/product/1545783525/58262442513",
+        "offerLink": "https://s.shopee.com.br/905euRJgaM"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58214836893",
       "name": "Colete Salva Vidas Bóia Infantil Flutuador Não Fura Até 25kg Kids Segurança para Piscina e Praia (Várias Estampas)",
       "price": 43.99,
@@ -17411,35 +17411,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztg-mko5we3e3e2pbf",
         "productLink": "https://shopee.com.br/product/476143858/44423564731",
         "offerLink": "https://s.shopee.com.br/3g46SCbefc"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58262442513",
-      "name": "Caixa De Pesca Dupla Face 12 14 Compartimentos Organizador Porta Iscas Artificiais Anzol Resistente",
-      "price": 24.9,
-      "original_price": 45.27,
-      "discount": 45.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824h5-mpf76hbcqih750",
-      "link": "https://s.shopee.com.br/905euRJgaM",
-      "rating": "4.6",
-      "sales": 259,
-      "shop": "Natcha & Co.",
-      "category": "caixa de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58262442513,
-        "productName": "Caixa De Pesca Dupla Face 12 14 Compartimentos Organizador Porta Iscas Artificiais Anzol Resistente",
-        "price": "24.9",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.03",
-        "sales": 259,
-        "ratingStar": "4.6",
-        "shopName": "Natcha & Co.",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h5-mpf76hbcqih750",
-        "productLink": "https://shopee.com.br/product/1545783525/58262442513",
-        "offerLink": "https://s.shopee.com.br/905euRJgaM"
       },
       "_last_price": null
     },
@@ -20402,6 +20373,35 @@
       "_last_price": null
     },
     {
+      "id": "58265606332",
+      "name": "FW Vara Pesca P/Carretilha 1,80m/1,65m 8-17lbs 2 partes Leve E e Resistente",
+      "price": 48.0,
+      "original_price": 80.0,
+      "discount": 40.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mrie96ths9hif0",
+      "link": "https://s.shopee.com.br/3LRG3YiCRu",
+      "rating": "4.7",
+      "sales": 116,
+      "shop": "Fairwind Fishing",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58265606332,
+        "productName": "FW Vara Pesca P/Carretilha 1,80m/1,65m 8-17lbs 2 partes Leve E e Resistente",
+        "price": "48",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.11",
+        "sales": 116,
+        "ratingStar": "4.7",
+        "shopName": "Fairwind Fishing",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mrie96ths9hif0",
+        "productLink": "https://shopee.com.br/product/1748082627/58265606332",
+        "offerLink": "https://s.shopee.com.br/3LRG3YiCRu"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22993564456",
       "name": "Linha De Pesca Multifilamento 300m/500m Verde Cinza Multicor 4 Fios Super Resistente PE",
       "price": 40.8,
@@ -22834,6 +22834,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mqvbo3ll08hv26",
         "productLink": "https://shopee.com.br/product/1321488407/22894551427",
         "offerLink": "https://s.shopee.com.br/AKb0OTP8eH"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58254132701",
+      "name": "Faca Retrátil Automática com Trava  Aço Inox  Camping Pesca Churrasco",
+      "price": 24.95,
+      "original_price": 38.98,
+      "discount": 36.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzkbkxz17nkc4",
+      "link": "https://s.shopee.com.br/9fLLtVod6f",
+      "rating": "4.9",
+      "sales": 557,
+      "shop": "MAIS COMERCIO LTDA",
+      "category": "kit pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58254132701,
+        "productName": "Faca Retrátil Automática com Trava  Aço Inox  Camping Pesca Churrasco",
+        "price": "24.95",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 557,
+        "ratingStar": "4.9",
+        "shopName": "MAIS COMERCIO LTDA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzkbkxz17nkc4",
+        "productLink": "https://shopee.com.br/product/1478854168/58254132701",
+        "offerLink": "https://s.shopee.com.br/9fLLtVod6f"
       },
       "_last_price": null
     },
@@ -26376,6 +26405,35 @@
       "_last_price": null
     },
     {
+      "id": "11869643265",
+      "name": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
+      "price": 105.0,
+      "original_price": 147.89,
+      "discount": 29.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
+      "link": "https://s.shopee.com.br/6L4rd13GJ8",
+      "rating": "4.9",
+      "sales": 3378,
+      "shop": "Popular Pet",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 11869643265,
+        "productName": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
+        "price": "105",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.06",
+        "sales": 3378,
+        "ratingStar": "4.9",
+        "shopName": "Popular Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
+        "productLink": "https://shopee.com.br/product/398944029/11869643265",
+        "offerLink": "https://s.shopee.com.br/6L4rd13GJ8"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23697597322",
       "name": "Petisco Para Gatos Churu 56g - Contém 4 Tubets De 14g Cada Unidade - Vários Sabores",
       "price": 23.9,
@@ -26836,35 +26894,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b9-mg5kdxhwvw2605",
         "productLink": "https://shopee.com.br/product/1248266601/22299071731",
         "offerLink": "https://s.shopee.com.br/4B0N32BVhs"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23699045261",
-      "name": "Alimento para Gatos Filhotes Sabor Frango e Abobora Gourmet Sachê 70G Golden",
-      "price": 2.89,
-      "original_price": 4.01,
-      "discount": 28.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825a3-mg5ksa5y6q6led",
-      "link": "https://s.shopee.com.br/4qG65s1Nf1",
-      "rating": "4.9",
-      "sales": 923,
-      "shop": "Chegô",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23699045261,
-        "productName": "Alimento para Gatos Filhotes Sabor Frango e Abobora Gourmet Sachê 70G Golden",
-        "price": "2.89",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.03",
-        "sales": 923,
-        "ratingStar": "4.9",
-        "shopName": "Chegô",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a3-mg5ksa5y6q6led",
-        "productLink": "https://shopee.com.br/product/1248266601/23699045261",
-        "offerLink": "https://s.shopee.com.br/4qG65s1Nf1"
       },
       "_last_price": null
     },
@@ -27358,35 +27387,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwd-m0ac9dpy96o086",
         "productLink": "https://shopee.com.br/product/1194006916/22893283679",
         "offerLink": "https://s.shopee.com.br/60S1EP4Wz2"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58210022340",
-      "name": "Isca Artificial Savage 65 Marine Sports 6,5cm / 6g - Todas as Cores - Robalo Tucunaré Traíra Dourado",
-      "price": 38.38,
-      "original_price": 51.86,
-      "discount": 26.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823qa-moorvce5znri9d",
-      "link": "https://s.shopee.com.br/60S3WjufJk",
-      "rating": "5",
-      "sales": 277,
-      "shop": "PROV.X",
-      "category": "isca artificial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58210022340,
-        "productName": "Isca Artificial Savage 65 Marine Sports 6,5cm / 6g - Todas as Cores - Robalo Tucunaré Traíra Dourado",
-        "price": "38.38",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.03",
-        "sales": 277,
-        "ratingStar": "5",
-        "shopName": "PROV.X",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qa-moorvce5znri9d",
-        "productLink": "https://shopee.com.br/product/1702710597/58210022340",
-        "offerLink": "https://s.shopee.com.br/60S3WjufJk"
       },
       "_last_price": null
     },
@@ -29218,35 +29218,6 @@
       "_last_price": null
     },
     {
-      "id": "23599155894",
-      "name": "Canivete Automatico Saque Rapido Com Trava Clip de bolso metal inox Caça Pesca Camping  Escorpiao",
-      "price": 19.88,
-      "original_price": 25.49,
-      "discount": 22.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-821e1-mgpknktz905p25",
-      "link": "https://s.shopee.com.br/6L4rd7eMld",
-      "rating": "4.9",
-      "sales": 1030,
-      "shop": "PANDA BROTHER BR",
-      "category": "kit pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23599155894,
-        "productName": "Canivete Automatico Saque Rapido Com Trava Clip de bolso metal inox Caça Pesca Camping  Escorpiao",
-        "price": "19.88",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.03",
-        "sales": 1030,
-        "ratingStar": "4.9",
-        "shopName": "PANDA BROTHER BR",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821e1-mgpknktz905p25",
-        "productLink": "https://shopee.com.br/product/482975418/23599155894",
-        "offerLink": "https://s.shopee.com.br/6L4rd7eMld"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23997248551",
       "name": "50 Adesivos no Vinil Transparente para Potes Organizadores Temperos Mantimentos Organizador 5x3cm",
       "price": 11.5,
@@ -30175,6 +30146,35 @@
       "_last_price": null
     },
     {
+      "id": "22893504865",
+      "name": "Vara  Joker  telescopica  varias cores e medidas",
+      "price": 20.89,
+      "original_price": 26.11,
+      "discount": 20.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbgsu2l31hped9",
+      "link": "https://s.shopee.com.br/2BFIfScd5e",
+      "rating": "4.8",
+      "sales": 491,
+      "shop": "O Recanto da Pesca e Variedades",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22893504865,
+        "productName": "Vara  Joker  telescopica  varias cores e medidas",
+        "price": "20.89",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.08",
+        "sales": 491,
+        "ratingStar": "4.8",
+        "shopName": "O Recanto da Pesca e Variedades",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbgsu2l31hped9",
+        "productLink": "https://shopee.com.br/product/337645667/22893504865",
+        "offerLink": "https://s.shopee.com.br/2BFIfScd5e"
+      },
+      "_last_price": null
+    },
+    {
       "id": "24269632484",
       "name": "JOF 300M Linha De Pesca PE 4 Cordões Trançado Multifilamento Super Forte Japão Diâmetro Do Cordão De Isca 0.11-0.5mm Ferramenta De Carpa",
       "price": 22.4,
@@ -30291,31 +30291,31 @@
       "_last_price": null
     },
     {
-      "id": "58210022320",
-      "name": "Isca Artificial Rei Do Rio 80 - 8cm / 8,5g - Marine Sports Traíra Tucunaré Robalo",
-      "price": 35.8,
-      "original_price": 44.75,
+      "id": "19597387484",
+      "name": "Kit Isca Artificial Camarão Aromatizado Silicone Com Anzol 4cm 2g Pesca Robalo Tucunaré Curvina",
+      "price": 17.02,
+      "original_price": 21.27,
       "discount": 20.0,
       "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-820ll-mns3xse166mdda",
-      "link": "https://s.shopee.com.br/5VVmvowZKb",
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98r-lluxwmqjmiiff4",
+      "link": "https://s.shopee.com.br/5q8dnUSsCV",
       "rating": "4.9",
-      "sales": 148,
-      "shop": "PROV.X",
+      "sales": 230,
+      "shop": "Tralha de Ouro",
       "category": "isca artificial",
       "source": "shopee",
       "_item": {
-        "itemId": 58210022320,
-        "productName": "Isca Artificial Rei Do Rio 80 - 8cm / 8,5g - Marine Sports Traíra Tucunaré Robalo",
-        "price": "35.8",
+        "itemId": 19597387484,
+        "productName": "Kit Isca Artificial Camarão Aromatizado Silicone Com Anzol 4cm 2g Pesca Robalo Tucunaré Curvina",
+        "price": "17.02",
         "priceDiscountRate": 20,
         "commissionRate": "0.03",
-        "sales": 148,
+        "sales": 230,
         "ratingStar": "4.9",
-        "shopName": "PROV.X",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820ll-mns3xse166mdda",
-        "productLink": "https://shopee.com.br/product/1702710597/58210022320",
-        "offerLink": "https://s.shopee.com.br/5VVmvowZKb"
+        "shopName": "Tralha de Ouro",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98r-lluxwmqjmiiff4",
+        "productLink": "https://shopee.com.br/product/360052108/19597387484",
+        "offerLink": "https://s.shopee.com.br/5q8dnUSsCV"
       },
       "_last_price": null
     },
