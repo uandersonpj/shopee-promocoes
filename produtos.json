@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T18:08:42.510101+00:00",
+  "updated_at": "2026-10-02T18:27:47.760111+00:00",
   "total": 1107,
   "products": [
     {
@@ -431,7 +431,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgzgefeazked3d",
         "productLink": "https://shopee.com.br/product/1613332918/22294440400",
         "offerLink": "https://s.shopee.com.br/8pmEi8KJvJ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58258026087",
@@ -690,8 +691,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mldt9agkd2x0c0",
         "productLink": "https://shopee.com.br/product/1082873638/23294866358",
         "offerLink": "https://s.shopee.com.br/7VGpXc4QNt"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22794275506",
@@ -6025,8 +6025,8 @@
     {
       "id": "58208908770",
       "name": "Kit Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
-      "price": 75.88,
-      "original_price": 199.68,
+      "price": 75.89,
+      "original_price": 199.71,
       "discount": 62.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-81zvb-mn36o785y4g0a4",
@@ -6039,7 +6039,7 @@
       "_item": {
         "itemId": 58208908770,
         "productName": "Kit Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
-        "price": "75.88",
+        "price": "75.89",
         "priceDiscountRate": 62,
         "commissionRate": "0.03",
         "sales": 1450,
@@ -12371,35 +12371,6 @@
       "_last_price": null
     },
     {
-      "id": "48457191188",
-      "name": "Whey Pro Max Titanium Protein Pro Com Bcaa E Aminoácidos 1kg",
-      "price": 78.89,
-      "original_price": 161.0,
-      "discount": 51.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mse9dn5i5cedda",
-      "link": "https://s.shopee.com.br/6L4tjQAbBe",
-      "rating": "4.9",
-      "sales": 1543,
-      "shop": "FIT HOUSE",
-      "category": "whey protein",
-      "source": "shopee",
-      "_item": {
-        "itemId": 48457191188,
-        "productName": "Whey Pro Max Titanium Protein Pro Com Bcaa E Aminoácidos 1kg",
-        "price": "78.89",
-        "priceDiscountRate": 51,
-        "commissionRate": "0.1",
-        "sales": 1543,
-        "ratingStar": "4.9",
-        "shopName": "FIT HOUSE",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mse9dn5i5cedda",
-        "productLink": "https://shopee.com.br/product/662618933/48457191188",
-        "offerLink": "https://s.shopee.com.br/6L4tjQAbBe"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23197485445",
       "name": "Whey Protein Fuse 900g Isolate Dark Lab",
       "price": 78.9,
@@ -15995,64 +15966,6 @@
       "_last_price": null
     },
     {
-      "id": "9319243207",
-      "name": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
-      "price": 23.16,
-      "original_price": 42.89,
-      "discount": 46.0,
-      "commission": 26.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mq3n8g0o1ama14",
-      "link": "https://s.shopee.com.br/1Aobny2to",
-      "rating": "4.9",
-      "sales": 6527,
-      "shop": "KOKESHI OFICIAL",
-      "category": "creme facial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 9319243207,
-        "productName": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
-        "price": "23.16",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.26",
-        "sales": 6527,
-        "ratingStar": "4.9",
-        "shopName": "KOKESHI OFICIAL",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mq3n8g0o1ama14",
-        "productLink": "https://shopee.com.br/product/395166866/9319243207",
-        "offerLink": "https://s.shopee.com.br/1Aobny2to"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58213825769",
-      "name": "Body Splash Masculino Fragrâncias Marcantes Amadeiradas e Refrescantes",
-      "price": 10.89,
-      "original_price": 20.17,
-      "discount": 46.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mqv9nes5ioznd9",
-      "link": "https://s.shopee.com.br/2LYl9tK76G",
-      "rating": "4.5",
-      "sales": 3384,
-      "shop": "HN PERFUMES",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58213825769,
-        "productName": "Body Splash Masculino Fragrâncias Marcantes Amadeiradas e Refrescantes",
-        "price": "10.89",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.18",
-        "sales": 3384,
-        "ratingStar": "4.5",
-        "shopName": "HN PERFUMES",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mqv9nes5ioznd9",
-        "productLink": "https://shopee.com.br/product/567005872/58213825769",
-        "offerLink": "https://s.shopee.com.br/2LYl9tK76G"
-      },
-      "_last_price": null
-    },
-    {
       "id": "42071102324",
       "name": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
       "price": 67.54,
@@ -17793,6 +17706,35 @@
       "_last_price": null
     },
     {
+      "id": "22194331598",
+      "name": "Whey Pro Max Titanium Protein Pro Com Bcaa E Aminoácidos 1kg",
+      "price": 99.9,
+      "original_price": 178.39,
+      "discount": 44.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mtfc9yq6ld6p5f",
+      "link": "https://s.shopee.com.br/5VVmjtDlsP",
+      "rating": "4.9",
+      "sales": 2041,
+      "shop": "Max Titanium",
+      "category": "whey protein",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22194331598,
+        "productName": "Whey Pro Max Titanium Protein Pro Com Bcaa E Aminoácidos 1kg",
+        "price": "99.9",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.13",
+        "sales": 2041,
+        "ratingStar": "4.9",
+        "shopName": "Max Titanium",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mtfc9yq6ld6p5f",
+        "productLink": "https://shopee.com.br/product/422764082/22194331598",
+        "offerLink": "https://s.shopee.com.br/5VVmjtDlsP"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20497679378",
       "name": "Creatina Monohidratada Pura Refil 500g Dark Lab - Creatina 100% Pura",
       "price": 49.9,
@@ -18862,6 +18804,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825bb-msuuw3fmwv7ldf",
         "productLink": "https://shopee.com.br/product/1007375842/22898052964",
         "offerLink": "https://s.shopee.com.br/40gwqfDgt1"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "9319243207",
+      "name": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
+      "price": 25.09,
+      "original_price": 43.26,
+      "discount": 42.0,
+      "commission": 26.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mq3n8g0o1ama14",
+      "link": "https://s.shopee.com.br/1Aobny2to",
+      "rating": "4.9",
+      "sales": 6527,
+      "shop": "KOKESHI OFICIAL",
+      "category": "creme facial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 9319243207,
+        "productName": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
+        "price": "25.09",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.26",
+        "sales": 6527,
+        "ratingStar": "4.9",
+        "shopName": "KOKESHI OFICIAL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mq3n8g0o1ama14",
+        "productLink": "https://shopee.com.br/product/395166866/9319243207",
+        "offerLink": "https://s.shopee.com.br/1Aobny2to"
       },
       "_last_price": null
     },
@@ -20109,6 +20080,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mnybmrpa0qh00a",
         "productLink": "https://shopee.com.br/product/1270398054/23693404566",
         "offerLink": "https://s.shopee.com.br/8AWWKoSxKf"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23294818723",
+      "name": "EZ Vip Black - Eau de Parfum 100ml LANÇAMENTO EXCLUSIVO",
+      "price": 41.0,
+      "original_price": 68.33,
+      "discount": 40.0,
+      "commission": 28.000000000000004,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjrcbybsu6f700",
+      "link": "https://s.shopee.com.br/2BFKxaKkRH",
+      "rating": "4.8",
+      "sales": 3872,
+      "shop": "E'thereal Paris",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23294818723,
+        "productName": "EZ Vip Black - Eau de Parfum 100ml LANÇAMENTO EXCLUSIVO",
+        "price": "41",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.28",
+        "sales": 3872,
+        "ratingStar": "4.8",
+        "shopName": "E'thereal Paris",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjrcbybsu6f700",
+        "productLink": "https://shopee.com.br/product/1482776546/23294818723",
+        "offerLink": "https://s.shopee.com.br/2BFKxaKkRH"
       },
       "_last_price": null
     },
@@ -23419,6 +23419,35 @@
       "_last_price": null
     },
     {
+      "id": "58214849311",
+      "name": "Gabinete Gamer Rise Mode Galaxy Glass Standard V2 Led ARGB, Mid Tower, Vidro Temperado, ATX, Sem Fonte, Sem Fan, Preto",
+      "price": 369.99,
+      "original_price": 560.59,
+      "discount": 34.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82583-mr0g4fo4zeh1b2",
+      "link": "https://s.shopee.com.br/30oPenZyPO",
+      "rating": "5",
+      "sales": 31,
+      "shop": "Terabyte Oficial",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58214849311,
+        "productName": "Gabinete Gamer Rise Mode Galaxy Glass Standard V2 Led ARGB, Mid Tower, Vidro Temperado, ATX, Sem Fonte, Sem Fan, Preto",
+        "price": "369.99",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.03",
+        "sales": 31,
+        "ratingStar": "5",
+        "shopName": "Terabyte Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82583-mr0g4fo4zeh1b2",
+        "productLink": "https://shopee.com.br/product/1552226494/58214849311",
+        "offerLink": "https://s.shopee.com.br/30oPenZyPO"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58263763849",
       "name": "Aromatizante de Carro Novo Spray Perfume Para Carro Cheirinho de Concessionária Original",
       "price": 14.99,
@@ -25451,8 +25480,8 @@
     {
       "id": "52764100798",
       "name": "Conjunto De Chapéu Camuflado Jungle , Faixa De Cabeça Multiuso , Boné De Pesca , Proteção Solar Uv",
-      "price": 38.85,
-      "original_price": 56.3,
+      "price": 38.92,
+      "original_price": 56.41,
       "discount": 31.0,
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8258z-mrr1y43o5y4o25",
@@ -25465,7 +25494,7 @@
       "_item": {
         "itemId": 52764100798,
         "productName": "Conjunto De Chapéu Camuflado Jungle , Faixa De Cabeça Multiuso , Boné De Pesca , Proteção Solar Uv",
-        "price": "38.85",
+        "price": "38.92",
         "priceDiscountRate": 31,
         "commissionRate": "0.09",
         "sales": 88,
@@ -29824,35 +29853,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvq-mdl8z1k4xiokab",
         "productLink": "https://shopee.com.br/product/358069106/22498827883",
         "offerLink": "https://s.shopee.com.br/6VOHpEMeIk"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "40981574452",
-      "name": "GABINETE EXECUTIVO OFFICE ATX e MICRO ATX/MINI ATX PRETO SEM FONTE BT01 BROTHERSS",
-      "price": 79.9,
-      "original_price": 99.88,
-      "discount": 20.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mp9til7s05j745",
-      "link": "https://s.shopee.com.br/3VkiM9EGlL",
-      "rating": "4.9",
-      "sales": 150,
-      "shop": "BROTHERSS BR",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40981574452,
-        "productName": "GABINETE EXECUTIVO OFFICE ATX e MICRO ATX/MINI ATX PRETO SEM FONTE BT01 BROTHERSS",
-        "price": "79.9",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.08",
-        "sales": 150,
-        "ratingStar": "4.9",
-        "shopName": "BROTHERSS BR",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mp9til7s05j745",
-        "productLink": "https://shopee.com.br/product/439981290/40981574452",
-        "offerLink": "https://s.shopee.com.br/3VkiM9EGlL"
       },
       "_last_price": null
     },
