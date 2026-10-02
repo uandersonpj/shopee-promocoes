@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T08:36:22.175629+00:00",
+  "updated_at": "2026-10-02T08:55:09.494205+00:00",
   "total": 1098,
   "products": [
     {
@@ -1100,7 +1100,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mp21h8cy5w5i1c",
         "productLink": "https://shopee.com.br/product/1567204121/58261933291",
         "offerLink": "https://s.shopee.com.br/4LJnFJT4nL"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23218022612",
@@ -18389,8 +18390,8 @@
     {
       "id": "40265722427",
       "name": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
-      "price": 10.51,
-      "original_price": 18.44,
+      "price": 7.7,
+      "original_price": 13.51,
       "discount": 43.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
@@ -18403,7 +18404,7 @@
       "_item": {
         "itemId": 40265722427,
         "productName": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
-        "price": "10.51",
+        "price": "7.7",
         "priceDiscountRate": 43,
         "commissionRate": "0.03",
         "sales": 549,
