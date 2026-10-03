@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T22:32:56.020130+00:00",
-  "total": 1113,
+  "updated_at": "2026-10-03T22:52:06.237935+00:00",
+  "total": 1111,
   "products": [
     {
       "id": "50203126324",
@@ -1007,8 +1007,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b5-mrifmn63mzgs53",
         "productLink": "https://shopee.com.br/product/1841804999/49165555882",
         "offerLink": "https://s.shopee.com.br/8fSmPQMHPo"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "45364806848",
@@ -4321,7 +4320,7 @@
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823of-momen2gbjls2a5",
       "link": "https://s.shopee.com.br/4qG3qFI2QA",
-      "rating": "4.2",
+      "rating": "4.1",
       "sales": 64,
       "shop": "ainaini.br",
       "category": "haltere",
@@ -4333,7 +4332,7 @@
         "priceDiscountRate": 66,
         "commissionRate": "0.14",
         "sales": 64,
-        "ratingStar": "4.2",
+        "ratingStar": "4.1",
         "shopName": "ainaini.br",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823of-momen2gbjls2a5",
         "productLink": "https://shopee.com.br/product/1847512446/54311772339",
@@ -6540,7 +6539,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
         "productLink": "https://shopee.com.br/product/1595150949/22594316058",
         "offerLink": "https://s.shopee.com.br/1qcUotS1gA"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "41180569454",
@@ -10543,6 +10543,35 @@
       "_last_price": null
     },
     {
+      "id": "22799512020",
+      "name": "Saboneteira Drenável Banheiro Unico ou Dupla Camada Organizador De Parede De Armazenamento",
+      "price": 12.99,
+      "original_price": 28.24,
+      "discount": 54.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mpte6xqtua6a9b",
+      "link": "https://s.shopee.com.br/2BFKyroQrW",
+      "rating": "4.8",
+      "sales": 5025,
+      "shop": "Kaym Black",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22799512020,
+        "productName": "Saboneteira Drenável Banheiro Unico ou Dupla Camada Organizador De Parede De Armazenamento",
+        "price": "12.99",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.03",
+        "sales": 5025,
+        "ratingStar": "4.8",
+        "shopName": "Kaym Black",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mpte6xqtua6a9b",
+        "productLink": "https://shopee.com.br/product/398188570/22799512020",
+        "offerLink": "https://s.shopee.com.br/2BFKyroQrW"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23694943548",
       "name": "Kit 10 Panos de Microfibra Multiuso Absorção para Limpeza Doméstica Alta",
       "price": 16.49,
@@ -13037,6 +13066,35 @@
       "_last_price": null
     },
     {
+      "id": "58262995010",
+      "name": "Suporte para Placa de Vídeo Deadpool Exclusivo – GPU Ajustável Gamer Universal",
+      "price": 14.95,
+      "original_price": 29.9,
+      "discount": 50.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mpschi0yy2o0c3",
+      "link": "https://s.shopee.com.br/gQYZfXnSa",
+      "rating": "4.9",
+      "sales": 159,
+      "shop": "Funciona Bem Utilidades",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58262995010,
+        "productName": "Suporte para Placa de Vídeo Deadpool Exclusivo – GPU Ajustável Gamer Universal",
+        "price": "14.95",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 159,
+        "ratingStar": "4.9",
+        "shopName": "Funciona Bem Utilidades",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mpschi0yy2o0c3",
+        "productLink": "https://shopee.com.br/product/1555847007/58262995010",
+        "offerLink": "https://s.shopee.com.br/gQYZfXnSa"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22493943973",
       "name": "Repetidor e Roteador Wi-Fi 2800Mbps 4 Antenas Amplificador de Sinal Goldenultra",
       "price": 50.0,
@@ -14540,35 +14598,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mcc4llc8xbix14",
         "productLink": "https://shopee.com.br/product/1502069336/19699843252",
         "offerLink": "https://s.shopee.com.br/4qG3qCAWCE"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22799512020",
-      "name": "Saboneteira Drenável Banheiro Unico ou Dupla Camada Organizador De Parede De Armazenamento",
-      "price": 12.99,
-      "original_price": 24.98,
-      "discount": 48.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mpte6xqtua6a9b",
-      "link": "https://s.shopee.com.br/2BFKyroQrW",
-      "rating": "4.8",
-      "sales": 5025,
-      "shop": "Kaym Black",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22799512020,
-        "productName": "Saboneteira Drenável Banheiro Unico ou Dupla Camada Organizador De Parede De Armazenamento",
-        "price": "12.99",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.03",
-        "sales": 5025,
-        "ratingStar": "4.8",
-        "shopName": "Kaym Black",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mpte6xqtua6a9b",
-        "productLink": "https://shopee.com.br/product/398188570/22799512020",
-        "offerLink": "https://s.shopee.com.br/2BFKyroQrW"
       },
       "_last_price": null
     },
@@ -16292,7 +16321,7 @@
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823po-moz60vl5kbgh34",
       "link": "https://s.shopee.com.br/W74gLszC9",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 367,
       "shop": "JOYBELLA ",
       "category": "carretilha pesca",
@@ -16304,7 +16333,7 @@
         "priceDiscountRate": 46,
         "commissionRate": "0.07",
         "sales": 367,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "JOYBELLA ",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823po-moz60vl5kbgh34",
         "productLink": "https://shopee.com.br/product/1820598106/58211803676",
@@ -18285,35 +18314,6 @@
       "_last_price": null
     },
     {
-      "id": "58211968815",
-      "name": "Kit 4 Chaveiros Academia Fitness: Haltere, anilha, mini copo térmico e mini porta lata energético",
-      "price": 16.9,
-      "original_price": 29.65,
-      "discount": 43.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mqewq200sn4235",
-      "link": "https://s.shopee.com.br/905faY7iE7",
-      "rating": "5",
-      "sales": 6,
-      "shop": "Ad´s Store3 D",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58211968815,
-        "productName": "Kit 4 Chaveiros Academia Fitness: Haltere, anilha, mini copo térmico e mini porta lata energético",
-        "price": "16.9",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.03",
-        "sales": 6,
-        "ratingStar": "5",
-        "shopName": "Ad´s Store3 D",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mqewq200sn4235",
-        "productLink": "https://shopee.com.br/product/715089031/58211968815",
-        "offerLink": "https://s.shopee.com.br/905faY7iE7"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22493277109",
       "name": "2 Cápsula Café Reutilizável Dolce Gusto Preto/Transparente/Castanho Recarregável Refrescante Efectivo Promoção",
       "price": 13.59,
@@ -19765,8 +19765,8 @@
     {
       "id": "23694320738",
       "name": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-      "price": 50.99,
-      "original_price": 84.98,
+      "price": 59.99,
+      "original_price": 99.98,
       "discount": 40.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
@@ -19779,7 +19779,7 @@
       "_item": {
         "itemId": 23694320738,
         "productName": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-        "price": "50.99",
+        "price": "59.99",
         "priceDiscountRate": 40,
         "commissionRate": "0.03",
         "sales": 1165,
@@ -20136,35 +20136,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb3pqavbklg96",
         "productLink": "https://shopee.com.br/product/983753255/23791204929",
         "offerLink": "https://s.shopee.com.br/5VVoKdzqI5"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58260024078",
-      "name": "Kit 2 Creatina Max Titanium 300g Pura",
-      "price": 89.9,
-      "original_price": 149.83,
-      "discount": 40.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mnsw2jxtutxe75",
-      "link": "https://s.shopee.com.br/9AP6hO3TyR",
-      "rating": "5",
-      "sales": 1423,
-      "shop": "Hard Extreme",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58260024078,
-        "productName": "Kit 2 Creatina Max Titanium 300g Pura",
-        "price": "89.9",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.07",
-        "sales": 1423,
-        "ratingStar": "5",
-        "shopName": "Hard Extreme",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mnsw2jxtutxe75",
-        "productLink": "https://shopee.com.br/product/338537405/58260024078",
-        "offerLink": "https://s.shopee.com.br/9AP6hO3TyR"
       },
       "_last_price": null
     },
@@ -20919,35 +20890,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7m8vni9x7roa2",
         "productLink": "https://shopee.com.br/product/908041635/23398336644",
         "offerLink": "https://s.shopee.com.br/7ptg5wWcmJ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23413221795",
-      "name": "Vara Telescópica Lisa 3,60M - 40% Carbono - C.W 8-18lbs - Cmik",
-      "price": 27.86,
-      "original_price": 45.67,
-      "discount": 39.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134201-22120-5wgswet50clv4e",
-      "link": "https://s.shopee.com.br/1VzbsEfARa",
-      "rating": "4.8",
-      "sales": 382,
-      "shop": "PescaShop",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23413221795,
-        "productName": "Vara Telescópica Lisa 3,60M - 40% Carbono - C.W 8-18lbs - Cmik",
-        "price": "27.86",
-        "priceDiscountRate": 39,
-        "commissionRate": "0.03",
-        "sales": 382,
-        "ratingStar": "4.8",
-        "shopName": "PescaShop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-22120-5wgswet50clv4e",
-        "productLink": "https://shopee.com.br/product/361954967/23413221795",
-        "offerLink": "https://s.shopee.com.br/1VzbsEfARa"
       },
       "_last_price": null
     },
@@ -22195,6 +22137,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262m-mjnqv9wc55ohc2",
         "productLink": "https://shopee.com.br/product/1639518888/58253571216",
         "offerLink": "https://s.shopee.com.br/LneU1l5RQ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23413221795",
+      "name": "Vara Telescópica Lisa 3,60M - 40% Carbono - C.W 8-18lbs - Cmik",
+      "price": 28.86,
+      "original_price": 45.81,
+      "discount": 37.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134201-22120-5wgswet50clv4e",
+      "link": "https://s.shopee.com.br/1VzbsEfARa",
+      "rating": "4.8",
+      "sales": 382,
+      "shop": "PescaShop",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23413221795,
+        "productName": "Vara Telescópica Lisa 3,60M - 40% Carbono - C.W 8-18lbs - Cmik",
+        "price": "28.86",
+        "priceDiscountRate": 37,
+        "commissionRate": "0.03",
+        "sales": 382,
+        "ratingStar": "4.8",
+        "shopName": "PescaShop",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-22120-5wgswet50clv4e",
+        "productLink": "https://shopee.com.br/product/361954967/23413221795",
+        "offerLink": "https://s.shopee.com.br/1VzbsEfARa"
       },
       "_last_price": null
     },
@@ -23999,8 +23970,8 @@
     {
       "id": "58206237985",
       "name": "Kit 3 a 10 Potes Herméticos 2L Dispenser Organizador Lavanderia Para Sabão em Pó Detergente Amaciante",
-      "price": 56.85,
-      "original_price": 84.85,
+      "price": 56.86,
+      "original_price": 84.87,
       "discount": 33.0,
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mrlojlsb5r7od2",
@@ -24013,7 +23984,7 @@
       "_item": {
         "itemId": 58206237985,
         "productName": "Kit 3 a 10 Potes Herméticos 2L Dispenser Organizador Lavanderia Para Sabão em Pó Detergente Amaciante",
-        "price": "56.85",
+        "price": "56.86",
         "priceDiscountRate": 33,
         "commissionRate": "0.14",
         "sales": 1773,
@@ -28923,35 +28894,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mscq6sidjqx07c",
         "productLink": "https://shopee.com.br/product/1665304899/58263263481",
         "offerLink": "https://s.shopee.com.br/qjv4qhCuU"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23498386191",
-      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-      "price": 249.9,
-      "original_price": 320.38,
-      "discount": 22.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-      "link": "https://s.shopee.com.br/7faFDRGO1n",
-      "rating": "4.9",
-      "sales": 2064,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498386191,
-        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-        "price": "249.9",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.07",
-        "sales": 2064,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-        "productLink": "https://shopee.com.br/product/504754787/23498386191",
-        "offerLink": "https://s.shopee.com.br/7faFDRGO1n"
       },
       "_last_price": null
     },
