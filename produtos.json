@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T22:52:06.237935+00:00",
-  "total": 1111,
+  "updated_at": "2026-10-03T23:11:08.302772+00:00",
+  "total": 1110,
   "products": [
     {
       "id": "50203126324",
@@ -1615,8 +1615,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824jj-mpfvxsk51ibm93",
         "productLink": "https://shopee.com.br/product/321587846/46712193198",
         "offerLink": "https://s.shopee.com.br/7ptfPqHvvr"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22498781114",
@@ -7826,7 +7825,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3wfdg89ffhx9a",
       "link": "https://s.shopee.com.br/4VdDRY87yo",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 1022,
       "shop": "Oliveira Flex",
       "category": "mouse gamer",
@@ -7838,7 +7837,7 @@
         "priceDiscountRate": 59,
         "commissionRate": "0.03",
         "sales": 1022,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "Oliveira Flex",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3wfdg89ffhx9a",
         "productLink": "https://shopee.com.br/product/760173021/23398082837",
@@ -12749,8 +12748,8 @@
     {
       "id": "48457191188",
       "name": "Whey Pro Max Titanium Protein Pro Com Bcaa E Aminoácidos 1kg",
-      "price": 78.9,
-      "original_price": 161.02,
+      "price": 78.89,
+      "original_price": 161.0,
       "discount": 51.0,
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mse9dn5i5cedda",
@@ -12763,7 +12762,7 @@
       "_item": {
         "itemId": 48457191188,
         "productName": "Whey Pro Max Titanium Protein Pro Com Bcaa E Aminoácidos 1kg",
-        "price": "78.9",
+        "price": "78.89",
         "priceDiscountRate": 51,
         "commissionRate": "0.1",
         "sales": 1631,
@@ -20281,35 +20280,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9qxx0p1ifpe76",
         "productLink": "https://shopee.com.br/product/1087983137/18598161767",
         "offerLink": "https://s.shopee.com.br/3g46S7mP9X"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20498962219",
-      "name": "Extrator de Sucos Turbo Premium Mondial Preto e Inox 250W E-10",
-      "price": 174.0,
-      "original_price": 290.0,
-      "discount": 40.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8260s-mkwhm62zdurl9a",
-      "link": "https://s.shopee.com.br/AAHdtGTb5O",
-      "rating": "4.9",
-      "sales": 1199,
-      "shop": "Mercado Fácil",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20498962219,
-        "productName": "Extrator de Sucos Turbo Premium Mondial Preto e Inox 250W E-10",
-        "price": "174",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 1199,
-        "ratingStar": "4.9",
-        "shopName": "Mercado Fácil",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260s-mkwhm62zdurl9a",
-        "productLink": "https://shopee.com.br/product/1062544851/20498962219",
-        "offerLink": "https://s.shopee.com.br/AAHdtGTb5O"
       },
       "_last_price": null
     },
