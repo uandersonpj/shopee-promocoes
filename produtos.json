@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T22:13:47.627649+00:00",
-  "total": 1112,
+  "updated_at": "2026-10-03T22:32:56.020130+00:00",
+  "total": 1113,
   "products": [
     {
       "id": "50203126324",
@@ -3933,7 +3933,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mtape51h6ubnc7",
         "productLink": "https://shopee.com.br/product/1758772368/58213479973",
         "offerLink": "https://s.shopee.com.br/AAHaC5WGHM"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "47855423393",
@@ -8550,7 +8551,7 @@
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ll-ms3szzryadc5d0",
       "link": "https://s.shopee.com.br/30oPewjT7s",
-      "rating": "4.6",
+      "rating": "4.7",
       "sales": 95,
       "shop": "Loja do Profissional-",
       "category": "carretilha pesca",
@@ -8562,7 +8563,7 @@
         "priceDiscountRate": 58,
         "commissionRate": "0.11",
         "sales": 95,
-        "ratingStar": "4.6",
+        "ratingStar": "4.7",
         "shopName": "Loja do Profissional-",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-ms3szzryadc5d0",
         "productLink": "https://shopee.com.br/product/1911185539/58216571982",
@@ -12717,6 +12718,35 @@
       "_last_price": null
     },
     {
+      "id": "48457191188",
+      "name": "Whey Pro Max Titanium Protein Pro Com Bcaa E Aminoácidos 1kg",
+      "price": 78.9,
+      "original_price": 161.02,
+      "discount": 51.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mse9dn5i5cedda",
+      "link": "https://s.shopee.com.br/6L4tjQAbBe",
+      "rating": "4.9",
+      "sales": 1631,
+      "shop": "FIT HOUSE",
+      "category": "whey protein",
+      "source": "shopee",
+      "_item": {
+        "itemId": 48457191188,
+        "productName": "Whey Pro Max Titanium Protein Pro Com Bcaa E Aminoácidos 1kg",
+        "price": "78.9",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.1",
+        "sales": 1631,
+        "ratingStar": "4.9",
+        "shopName": "FIT HOUSE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mse9dn5i5cedda",
+        "productLink": "https://shopee.com.br/product/662618933/48457191188",
+        "offerLink": "https://s.shopee.com.br/6L4tjQAbBe"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19428227444",
       "name": "Whey Protein Blend Concentrado Isolado 1Kg + Creatina 300g + BCAA 200g + Pre treino Testo 200g - 01",
       "price": 99.8,
@@ -12835,8 +12865,8 @@
     {
       "id": "29637365319",
       "name": "Varas De Pesca 60-120lbs Completo Com Carretel Esportes Ao Ar Livre Baixo Portátil Linha",
-      "price": 39.3,
-      "original_price": 80.2,
+      "price": 39.9,
+      "original_price": 81.43,
       "discount": 51.0,
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mfjcq5qv8h7097",
@@ -12849,7 +12879,7 @@
       "_item": {
         "itemId": 29637365319,
         "productName": "Varas De Pesca 60-120lbs Completo Com Carretel Esportes Ao Ar Livre Baixo Portátil Linha",
-        "price": "39.3",
+        "price": "39.9",
         "priceDiscountRate": 51,
         "commissionRate": "0.11",
         "sales": 1047,
@@ -15210,35 +15240,6 @@
       "_last_price": null
     },
     {
-      "id": "21298202064",
-      "name": "Whey Protein Gourmet Isolado X-Nutri 907g",
-      "price": 47.7,
-      "original_price": 90.0,
-      "discount": 47.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rav0-maonwq90djz70a",
-      "link": "https://s.shopee.com.br/4fwhL730z7",
-      "rating": "4.8",
-      "sales": 681,
-      "shop": "SJG STORE LTDA",
-      "category": "whey protein",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21298202064,
-        "productName": "Whey Protein Gourmet Isolado X-Nutri 907g",
-        "price": "47.7",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.03",
-        "sales": 681,
-        "ratingStar": "4.8",
-        "shopName": "SJG STORE LTDA",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rav0-maonwq90djz70a",
-        "productLink": "https://shopee.com.br/product/1440584830/21298202064",
-        "offerLink": "https://s.shopee.com.br/4fwhL730z7"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18699254225",
       "name": "Creatina Monohidratada Pura 300g Dark Lab - 100% Pura",
       "price": 39.9,
@@ -16743,35 +16744,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcf2-lt49sbjuwpg373",
         "productLink": "https://shopee.com.br/product/432843460/23092914472",
         "offerLink": "https://s.shopee.com.br/9AP5IPqVZx"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21399647008",
-      "name": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Antifrizz",
-      "price": 17.9,
-      "original_price": 32.55,
-      "discount": 45.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134201-820l5-mp9hlxe5ga2p7e",
-      "link": "https://s.shopee.com.br/BUEo6B0ui",
-      "rating": "4.9",
-      "sales": 2962,
-      "shop": "Salon Line",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21399647008,
-        "productName": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Antifrizz",
-        "price": "17.9",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.18",
-        "sales": 2962,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820l5-mp9hlxe5ga2p7e",
-        "productLink": "https://shopee.com.br/product/616222685/21399647008",
-        "offerLink": "https://s.shopee.com.br/BUEo6B0ui"
       },
       "_last_price": null
     },
@@ -18570,8 +18542,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9h28j58zyf6c1",
         "productLink": "https://shopee.com.br/product/1267134569/18699721825",
         "offerLink": "https://s.shopee.com.br/3LRIJFYegW"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22594371178",
@@ -20165,6 +20136,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb3pqavbklg96",
         "productLink": "https://shopee.com.br/product/983753255/23791204929",
         "offerLink": "https://s.shopee.com.br/5VVoKdzqI5"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58260024078",
+      "name": "Kit 2 Creatina Max Titanium 300g Pura",
+      "price": 89.9,
+      "original_price": 149.83,
+      "discount": 40.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mnsw2jxtutxe75",
+      "link": "https://s.shopee.com.br/9AP6hO3TyR",
+      "rating": "5",
+      "sales": 1423,
+      "shop": "Hard Extreme",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58260024078,
+        "productName": "Kit 2 Creatina Max Titanium 300g Pura",
+        "price": "89.9",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.07",
+        "sales": 1423,
+        "ratingStar": "5",
+        "shopName": "Hard Extreme",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mnsw2jxtutxe75",
+        "productLink": "https://shopee.com.br/product/338537405/58260024078",
+        "offerLink": "https://s.shopee.com.br/9AP6hO3TyR"
       },
       "_last_price": null
     },
@@ -29565,6 +29565,35 @@
       "_last_price": null
     },
     {
+      "id": "57205646686",
+      "name": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
+      "price": 181.77,
+      "original_price": 230.09,
+      "discount": 21.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
+      "link": "https://s.shopee.com.br/9AP6hPyCrQ",
+      "rating": "4.9",
+      "sales": 4196,
+      "shop": "BESTBYBRASILGOLD",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57205646686,
+        "productName": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
+        "price": "181.77",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.06",
+        "sales": 4196,
+        "ratingStar": "4.9",
+        "shopName": "BESTBYBRASILGOLD",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
+        "productLink": "https://shopee.com.br/product/1494297971/57205646686",
+        "offerLink": "https://s.shopee.com.br/9AP6hPyCrQ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "17134946092",
       "name": "Linha De Pesca Monofilamento Top Platinum Carretel Grande Mazzaferro - Várias Espessuras",
       "price": 38.81,
@@ -29884,6 +29913,35 @@
       "_last_price": null
     },
     {
+      "id": "23497918564",
+      "name": "Kit Shampoo e Condicionador Hidra Maracujá Tropical 300ml",
+      "price": 17.64,
+      "original_price": 22.05,
+      "discount": 20.0,
+      "commission": 21.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259v-msbxaaf4hybk4c",
+      "link": "https://s.shopee.com.br/2Vs9aO28BG",
+      "rating": "4.9",
+      "sales": 2121,
+      "shop": "Salon Line",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23497918564,
+        "productName": "Kit Shampoo e Condicionador Hidra Maracujá Tropical 300ml",
+        "price": "17.64",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.21",
+        "sales": 2121,
+        "ratingStar": "4.9",
+        "shopName": "Salon Line",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259v-msbxaaf4hybk4c",
+        "productLink": "https://shopee.com.br/product/616222685/23497918564",
+        "offerLink": "https://s.shopee.com.br/2Vs9aO28BG"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22898980977",
       "name": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
       "price": 86.39,
@@ -30141,35 +30199,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mpcphejk4eth7f",
         "productLink": "https://shopee.com.br/product/429439423/40881634244",
         "offerLink": "https://s.shopee.com.br/113OyPTIR8"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22794193064",
-      "name": "Air Fryer Rosa Britânia 5,5L Cesto Pinkstone 1500W BAFE53",
-      "price": 319.9,
-      "original_price": 399.87,
-      "discount": 20.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825ar-mts8ryafk3yc07",
-      "link": "https://s.shopee.com.br/W78NUVCS7",
-      "rating": "5",
-      "sales": 1426,
-      "shop": "Britânia Oficial",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22794193064,
-        "productName": "Air Fryer Rosa Britânia 5,5L Cesto Pinkstone 1500W BAFE53",
-        "price": "319.9",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.03",
-        "sales": 1426,
-        "ratingStar": "5",
-        "shopName": "Britânia Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ar-mts8ryafk3yc07",
-        "productLink": "https://shopee.com.br/product/811879342/22794193064",
-        "offerLink": "https://s.shopee.com.br/W78NUVCS7"
       },
       "_last_price": null
     },
