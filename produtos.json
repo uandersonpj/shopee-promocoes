@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T18:05:20.596218+00:00",
-  "total": 1110,
+  "updated_at": "2026-10-03T18:24:22.507569+00:00",
+  "total": 1113,
   "products": [
     {
       "id": "50203126324",
@@ -1098,7 +1098,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mp21h8cy5w5i1c",
         "productLink": "https://shopee.com.br/product/1567204121/58261933291",
         "offerLink": "https://s.shopee.com.br/4LJnFJT4nL"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23218022612",
@@ -1879,8 +1880,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mr1t2m2rfa4n0c",
         "productLink": "https://shopee.com.br/product/1232299933/47314807051",
         "offerLink": "https://s.shopee.com.br/7faFDMeXgl"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "41314419184",
@@ -3818,7 +3818,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mtd0czcsu8030c",
         "productLink": "https://shopee.com.br/product/1107644568/22193849980",
         "offerLink": "https://s.shopee.com.br/8fSmvjR3Jg"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "51004391053",
@@ -5905,6 +5906,35 @@
       "_last_price": null
     },
     {
+      "id": "21998128832",
+      "name": "Suporte Ajustável Vertical para GPU Placa de Vídeo Anti Sag Universal para Gabinete PC Gamer",
+      "price": 7.49,
+      "original_price": 19.71,
+      "discount": 62.0,
+      "commission": 15.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825zr-mklbm2prptdx7f",
+      "link": "https://s.shopee.com.br/30oTLxOuis",
+      "rating": "4.8",
+      "sales": 258,
+      "shop": "MEGA1",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21998128832,
+        "productName": "Suporte Ajustável Vertical para GPU Placa de Vídeo Anti Sag Universal para Gabinete PC Gamer",
+        "price": "7.49",
+        "priceDiscountRate": 62,
+        "commissionRate": "0.15",
+        "sales": 258,
+        "ratingStar": "4.8",
+        "shopName": "MEGA1",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zr-mklbm2prptdx7f",
+        "productLink": "https://shopee.com.br/product/664761873/21998128832",
+        "offerLink": "https://s.shopee.com.br/30oTLxOuis"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58262310122",
       "name": "Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
       "price": 75.89,
@@ -5936,8 +5966,8 @@
     {
       "id": "58208908770",
       "name": "Kit Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
-      "price": 75.88,
-      "original_price": 199.68,
+      "price": 75.89,
+      "original_price": 199.71,
       "discount": 62.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-81zvb-mn36o785y4g0a4",
@@ -5950,7 +5980,7 @@
       "_item": {
         "itemId": 58208908770,
         "productName": "Kit Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
-        "price": "75.88",
+        "price": "75.89",
         "priceDiscountRate": 62,
         "commissionRate": "0.03",
         "sales": 1545,
@@ -7002,6 +7032,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbofl4hbm2ef45",
         "productLink": "https://shopee.com.br/product/1331886707/23898664618",
         "offerLink": "https://s.shopee.com.br/9fLNTyQIyb"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22998559271",
+      "name": "Suporte Ajustável Vertical Para Placa de Video GPU HD PC Colorido",
+      "price": 10.0,
+      "original_price": 25.0,
+      "discount": 60.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mag2ra9rqjynce",
+      "link": "https://s.shopee.com.br/1qcSGd9sxz",
+      "rating": "4.9",
+      "sales": 963,
+      "shop": "Casa Ilume",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22998559271,
+        "productName": "Suporte Ajustável Vertical Para Placa de Video GPU HD PC Colorido",
+        "price": "10",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.03",
+        "sales": 963,
+        "ratingStar": "4.9",
+        "shopName": "Casa Ilume",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mag2ra9rqjynce",
+        "productLink": "https://shopee.com.br/product/987020544/22998559271",
+        "offerLink": "https://s.shopee.com.br/1qcSGd9sxz"
       },
       "_last_price": null
     },
@@ -8132,6 +8191,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mtil5ptizjls12",
         "productLink": "https://shopee.com.br/product/1270300518/22198599213",
         "offerLink": "https://s.shopee.com.br/80D9UuWeMR"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23998329987",
+      "name": "Placa Captura Video 4k Hdmi Usb 3.0",
+      "price": 79.0,
+      "original_price": 188.1,
+      "discount": 58.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7jwwqkk00qa9b",
+      "link": "https://s.shopee.com.br/1VzfZCUclh",
+      "rating": "4.9",
+      "sales": 148,
+      "shop": "PENTONCABOS",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23998329987,
+        "productName": "Placa Captura Video 4k Hdmi Usb 3.0",
+        "price": "79",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.11",
+        "sales": 148,
+        "ratingStar": "4.9",
+        "shopName": "PENTONCABOS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7jwwqkk00qa9b",
+        "productLink": "https://shopee.com.br/product/687992685/23998329987",
+        "offerLink": "https://s.shopee.com.br/1VzfZCUclh"
       },
       "_last_price": null
     },
@@ -9814,6 +9902,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mnlw9ncbyq68fe",
         "productLink": "https://shopee.com.br/product/1744660455/58258087449",
         "offerLink": "https://s.shopee.com.br/1qcSGcf5MZ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23393395960",
+      "name": "Thermal Pad Térmico 1/2/3mm Para PS4, PS3, PS2, PS1, XBOX, Processador, Memória RAM, Placa de Vídeo",
+      "price": 10.5,
+      "original_price": 23.33,
+      "discount": 55.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyaushhh43q14",
+      "link": "https://s.shopee.com.br/40h0XnL6gu",
+      "rating": "4.7",
+      "sales": 283,
+      "shop": "MAKING CASH",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23393395960,
+        "productName": "Thermal Pad Térmico 1/2/3mm Para PS4, PS3, PS2, PS1, XBOX, Processador, Memória RAM, Placa de Vídeo",
+        "price": "10.5",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.12",
+        "sales": 283,
+        "ratingStar": "4.7",
+        "shopName": "MAKING CASH",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyaushhh43q14",
+        "productLink": "https://shopee.com.br/product/234308900/23393395960",
+        "offerLink": "https://s.shopee.com.br/40h0XnL6gu"
       },
       "_last_price": null
     },
@@ -12862,6 +12979,35 @@
       "_last_price": null
     },
     {
+      "id": "43108735992",
+      "name": "Papel Offset Opaline Liso 180g Branco Diplomata Kit 200, 100 ou 50 Folhas Masterprint",
+      "price": 11.97,
+      "original_price": 23.94,
+      "discount": 50.0,
+      "commission": 14.000000000000002,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbfn2mbuo7lk14",
+      "link": "https://s.shopee.com.br/qjylxyAdj",
+      "rating": "5",
+      "sales": 2866,
+      "shop": "Draw Papelaria",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 43108735992,
+        "productName": "Papel Offset Opaline Liso 180g Branco Diplomata Kit 200, 100 ou 50 Folhas Masterprint",
+        "price": "11.97",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.14",
+        "sales": 2866,
+        "ratingStar": "5",
+        "shopName": "Draw Papelaria",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbfn2mbuo7lk14",
+        "productLink": "https://shopee.com.br/product/999239250/43108735992",
+        "offerLink": "https://s.shopee.com.br/qjylxyAdj"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58256611329",
       "name": "Suporte Ajustável Placa de Vídeo GPU Anti-Sag Universal 2,6cm a 12cm Suporte Vertical GPU PC Gamer Pequeno Médio Grande",
       "price": 10.95,
@@ -12891,6 +13037,35 @@
       "_last_price": null
     },
     {
+      "id": "58207449353",
+      "name": "Suporte para Placa de Vídeo GPU Ajustável Nvidia, Radeon, Preto e Branco Universal Suporte Para Não Deixar Placa Solta",
+      "price": 8.99,
+      "original_price": 17.98,
+      "discount": 50.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lz-ms1btpayk83q0a",
+      "link": "https://s.shopee.com.br/2qV39ePY3p",
+      "rating": "4.8",
+      "sales": 202,
+      "shop": "VenezzaImperial",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58207449353,
+        "productName": "Suporte para Placa de Vídeo GPU Ajustável Nvidia, Radeon, Preto e Branco Universal Suporte Para Não Deixar Placa Solta",
+        "price": "8.99",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.08",
+        "sales": 202,
+        "ratingStar": "4.8",
+        "shopName": "VenezzaImperial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-ms1btpayk83q0a",
+        "productLink": "https://shopee.com.br/product/1528195319/58207449353",
+        "offerLink": "https://s.shopee.com.br/2qV39ePY3p"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58262995010",
       "name": "Suporte para Placa de Vídeo Deadpool Exclusivo – GPU Ajustável Gamer Universal",
       "price": 14.95,
@@ -12916,35 +13091,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mpschi0yy2o0c3",
         "productLink": "https://shopee.com.br/product/1555847007/58262995010",
         "offerLink": "https://s.shopee.com.br/gQYZfXnSa"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58261916943",
-      "name": "Suporte para Placa de Vídeo POKEMON Genga exclusivo – GPU Ajustável Gamer Universal",
-      "price": 14.95,
-      "original_price": 29.9,
-      "discount": 50.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mp1e8g0tt6o008",
-      "link": "https://s.shopee.com.br/9fLNmKkFau",
-      "rating": "4.9",
-      "sales": 40,
-      "shop": "Funciona Bem Utilidades",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58261916943,
-        "productName": "Suporte para Placa de Vídeo POKEMON Genga exclusivo – GPU Ajustável Gamer Universal",
-        "price": "14.95",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.03",
-        "sales": 40,
-        "ratingStar": "4.9",
-        "shopName": "Funciona Bem Utilidades",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mp1e8g0tt6o008",
-        "productLink": "https://shopee.com.br/product/1555847007/58261916943",
-        "offerLink": "https://s.shopee.com.br/9fLNmKkFau"
       },
       "_last_price": null
     },
@@ -14307,6 +14453,64 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdc7t5ieo1mad3",
         "productLink": "https://shopee.com.br/product/967211054/23194308436",
         "offerLink": "https://s.shopee.com.br/8pmGURTTfW"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "49010988445",
+      "name": "Kit Intel Core i5 3470 + Placa Mãe LGA1155 + Cooler | 8GB/16GB Upgrade Vídeo Integrado Desktop",
+      "price": 359.99,
+      "original_price": 692.29,
+      "discount": 48.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mojnwninyj2ece",
+      "link": "https://s.shopee.com.br/3qNaLULk1z",
+      "rating": "4.9",
+      "sales": 266,
+      "shop": "AaZ_Prime",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 49010988445,
+        "productName": "Kit Intel Core i5 3470 + Placa Mãe LGA1155 + Cooler | 8GB/16GB Upgrade Vídeo Integrado Desktop",
+        "price": "359.99",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.03",
+        "sales": 266,
+        "ratingStar": "4.9",
+        "shopName": "AaZ_Prime",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mojnwninyj2ece",
+        "productLink": "https://shopee.com.br/product/411338596/49010988445",
+        "offerLink": "https://s.shopee.com.br/3qNaLULk1z"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58204938108",
+      "name": "Suporte para Placa de Vídeo GPU Ajustável Personalizada Universal HD PC",
+      "price": 12.96,
+      "original_price": 24.92,
+      "discount": 48.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkijxx9izzeped",
+      "link": "https://s.shopee.com.br/1qcVxoTM5n",
+      "rating": "4.8",
+      "sales": 166,
+      "shop": "Fox Ecom",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58204938108,
+        "productName": "Suporte para Placa de Vídeo GPU Ajustável Personalizada Universal HD PC",
+        "price": "12.96",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.03",
+        "sales": 166,
+        "ratingStar": "4.8",
+        "shopName": "Fox Ecom",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkijxx9izzeped",
+        "productLink": "https://shopee.com.br/product/464907594/58204938108",
+        "offerLink": "https://s.shopee.com.br/1qcVxoTM5n"
       },
       "_last_price": null
     },
@@ -16543,6 +16747,35 @@
       "_last_price": null
     },
     {
+      "id": "22498904690",
+      "name": "Suporte para Placa de Vídeo GPU Ajustável Nvidia e Radeon Universal",
+      "price": 10.99,
+      "original_price": 19.98,
+      "discount": 45.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mein7k9tgvep4c",
+      "link": "https://s.shopee.com.br/gQUsUEKKm",
+      "rating": "4.9",
+      "sales": 870,
+      "shop": "AutoPecasReches",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22498904690,
+        "productName": "Suporte para Placa de Vídeo GPU Ajustável Nvidia e Radeon Universal",
+        "price": "10.99",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 870,
+        "ratingStar": "4.9",
+        "shopName": "AutoPecasReches",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mein7k9tgvep4c",
+        "productLink": "https://shopee.com.br/product/318894435/22498904690",
+        "offerLink": "https://s.shopee.com.br/gQUsUEKKm"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58207484494",
       "name": "Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 300MBPS FLUX",
       "price": 52.99,
@@ -16829,35 +17062,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/6b61e885f76c357f57eef23e3fe1ade8",
         "productLink": "https://shopee.com.br/product/354846842/17146561824",
         "offerLink": "https://s.shopee.com.br/8AWXumULup"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20999680446",
-      "name": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
-      "price": 197.9,
-      "original_price": 359.82,
-      "discount": 45.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
-      "link": "https://s.shopee.com.br/2qUzSYYmps",
-      "rating": "4.9",
-      "sales": 1932,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20999680446,
-        "productName": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
-        "price": "197.9",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.1",
-        "sales": 1932,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
-        "productLink": "https://shopee.com.br/product/504754787/20999680446",
-        "offerLink": "https://s.shopee.com.br/2qUzSYYmps"
       },
       "_last_price": null
     },
@@ -18312,35 +18516,6 @@
       "_last_price": null
     },
     {
-      "id": "58211968815",
-      "name": "Kit 4 Chaveiros Academia Fitness: Haltere, anilha, mini copo térmico e mini porta lata energético",
-      "price": 16.9,
-      "original_price": 29.65,
-      "discount": 43.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mqewq200sn4235",
-      "link": "https://s.shopee.com.br/905faY7iE7",
-      "rating": "5",
-      "sales": 6,
-      "shop": "Ad´s Store3 D",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58211968815,
-        "productName": "Kit 4 Chaveiros Academia Fitness: Haltere, anilha, mini copo térmico e mini porta lata energético",
-        "price": "16.9",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.03",
-        "sales": 6,
-        "ratingStar": "5",
-        "shopName": "Ad´s Store3 D",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mqewq200sn4235",
-        "productLink": "https://shopee.com.br/product/715089031/58211968815",
-        "offerLink": "https://s.shopee.com.br/905faY7iE7"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22493277109",
       "name": "2 Cápsula Café Reutilizável Dolce Gusto Preto/Transparente/Castanho Recarregável Refrescante Efectivo Promoção",
       "price": 13.59,
@@ -18656,35 +18831,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822wo-mi1bn3pzz5z576",
         "productLink": "https://shopee.com.br/product/1635904910/22994922779",
         "offerLink": "https://s.shopee.com.br/905co3P4lx"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58217307316",
-      "name": "GTX 750 4GB GDDR5 Placa de Vídeo 128 Bits Dual Fan para Upgrade PC HDMI VGA DVI PCI Express",
-      "price": 518.99,
-      "original_price": 894.81,
-      "discount": 42.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mskf8bcity4kd4",
-      "link": "https://s.shopee.com.br/AKb4ZYhiEy",
-      "rating": "4.9",
-      "sales": 24,
-      "shop": "Luis Cabo Digital",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58217307316,
-        "productName": "GTX 750 4GB GDDR5 Placa de Vídeo 128 Bits Dual Fan para Upgrade PC HDMI VGA DVI PCI Express",
-        "price": "518.99",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.03",
-        "sales": 24,
-        "ratingStar": "4.9",
-        "shopName": "Luis Cabo Digital",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mskf8bcity4kd4",
-        "productLink": "https://shopee.com.br/product/1539159949/58217307316",
-        "offerLink": "https://s.shopee.com.br/AKb4ZYhiEy"
       },
       "_last_price": null
     },
@@ -21009,35 +21155,6 @@
       "_last_price": null
     },
     {
-      "id": "20999493070",
-      "name": "Placa de Vídeo GTX 750 4GB GDDR5 128 Bits Dual Fan HDMI VGA DVI PCI-E 3.0 para PC Gamer",
-      "price": 559.99,
-      "original_price": 903.21,
-      "discount": 38.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mskf8bctd7gk5d",
-      "link": "https://s.shopee.com.br/8AWZzZpxdX",
-      "rating": "4.9",
-      "sales": 24,
-      "shop": "Junwei Select",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20999493070,
-        "productName": "Placa de Vídeo GTX 750 4GB GDDR5 128 Bits Dual Fan HDMI VGA DVI PCI-E 3.0 para PC Gamer",
-        "price": "559.99",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.09",
-        "sales": 24,
-        "ratingStar": "4.9",
-        "shopName": "Junwei Select",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mskf8bctd7gk5d",
-        "productLink": "https://shopee.com.br/product/1147822326/20999493070",
-        "offerLink": "https://s.shopee.com.br/8AWZzZpxdX"
-      },
-      "_last_price": null
-    },
-    {
       "id": "44228846684",
       "name": "Fonte Cougar Atlas, 650W, 80 Plus Bronze, ATX 3.1, PFC Ativo, Preto - 31AA065001P01",
       "price": 299.0,
@@ -21705,6 +21822,35 @@
       "_last_price": null
     },
     {
+      "id": "22693835808",
+      "name": "Placa Captura De Vídeo 4k 1080p 60fps Full Hd Usb 3.0 Hdmi",
+      "price": 78.9,
+      "original_price": 125.24,
+      "discount": 37.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjra6ztninsy49",
+      "link": "https://s.shopee.com.br/1gJ5lVTzQk",
+      "rating": "4.9",
+      "sales": 149,
+      "shop": "8X TECH LOJA OFICIAL",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22693835808,
+        "productName": "Placa Captura De Vídeo 4k 1080p 60fps Full Hd Usb 3.0 Hdmi",
+        "price": "78.9",
+        "priceDiscountRate": 37,
+        "commissionRate": "0.03",
+        "sales": 149,
+        "ratingStar": "4.9",
+        "shopName": "8X TECH LOJA OFICIAL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjra6ztninsy49",
+        "productLink": "https://shopee.com.br/product/1478225841/22693835808",
+        "offerLink": "https://s.shopee.com.br/1gJ5lVTzQk"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58259066940",
       "name": "Repetidor WiFi 300Mbps 4 Antenas Amplificador de Sinal Wireless 2.4GHz Roteador Extensor-G8",
       "price": 62.99,
@@ -22285,6 +22431,35 @@
       "_last_price": null
     },
     {
+      "id": "23798104773",
+      "name": "Pasta térmica dmix 1g / 5g / 10g / 30g Computadores, Pc Gamer, Placas de video, Notebooks, Ps4 Xbox.",
+      "price": 11.99,
+      "original_price": 18.73,
+      "discount": 36.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkh5uyg10pvna0",
+      "link": "https://s.shopee.com.br/5AsxvwGfK7",
+      "rating": "4.9",
+      "sales": 210,
+      "shop": "Madss Store",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23798104773,
+        "productName": "Pasta térmica dmix 1g / 5g / 10g / 30g Computadores, Pc Gamer, Placas de video, Notebooks, Ps4 Xbox.",
+        "price": "11.99",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 210,
+        "ratingStar": "4.9",
+        "shopName": "Madss Store",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkh5uyg10pvna0",
+        "productLink": "https://shopee.com.br/product/387091887/23798104773",
+        "offerLink": "https://s.shopee.com.br/5AsxvwGfK7"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58212417183",
       "name": "Placa de Vídeo Gamer Ninja NVIDIA GeForce RTX 2060 Ronin, 6GB, GDDR6, RayTracing, GN-PV-NVRTX20606D6",
       "price": 1634.99,
@@ -22310,35 +22485,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824g2-mpdyoiequ9z6e2",
         "productLink": "https://shopee.com.br/product/1552226494/58212417183",
         "offerLink": "https://s.shopee.com.br/6fhi1VrUAO"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58257777632",
-      "name": "Placa de Video PowerColor Radeon RX 9060 XT Reaper, 8GB, GDDR6, 128-bit, RX9060XT-8G-A",
-      "price": 2843.47,
-      "original_price": 4442.92,
-      "discount": 36.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82603-mmc3o1v79f6763",
-      "link": "https://s.shopee.com.br/1Vzeab4A0a",
-      "rating": "4.8",
-      "sales": 37,
-      "shop": "Pichau",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58257777632,
-        "productName": "Placa de Video PowerColor Radeon RX 9060 XT Reaper, 8GB, GDDR6, 128-bit, RX9060XT-8G-A",
-        "price": "2843.47",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.03",
-        "sales": 37,
-        "ratingStar": "4.8",
-        "shopName": "Pichau",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82603-mmc3o1v79f6763",
-        "productLink": "https://shopee.com.br/product/627750190/58257777632",
-        "offerLink": "https://s.shopee.com.br/1Vzeab4A0a"
       },
       "_last_price": null
     },
@@ -22513,6 +22659,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mli7ak1thedga0",
         "productLink": "https://shopee.com.br/product/373261329/58205979239",
         "offerLink": "https://s.shopee.com.br/905dKLPmdm"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20999680446",
+      "name": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
+      "price": 229.9,
+      "original_price": 359.22,
+      "discount": 36.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
+      "link": "https://s.shopee.com.br/2qUzSYYmps",
+      "rating": "4.9",
+      "sales": 1932,
+      "shop": "Zociella Kids",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20999680446,
+        "productName": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
+        "price": "229.9",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.1",
+        "sales": 1932,
+        "ratingStar": "4.9",
+        "shopName": "Zociella Kids",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
+        "productLink": "https://shopee.com.br/product/504754787/20999680446",
+        "offerLink": "https://s.shopee.com.br/2qUzSYYmps"
       },
       "_last_price": null
     },
@@ -23035,6 +23210,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-ms50jwtokhz8f8",
         "productLink": "https://shopee.com.br/product/1764061146/58264670703",
         "offerLink": "https://s.shopee.com.br/8pmCbjqVqI"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22693663474",
+      "name": "Cabo Displayport  Blindado 4k Reforçado 144Hz 1,8 Metros Pra Placa de Vídeo Console Monitor Projetor",
+      "price": 14.99,
+      "original_price": 23.06,
+      "discount": 35.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ra2n-m5al23uxhcao0b",
+      "link": "https://s.shopee.com.br/qjv4nDgzp",
+      "rating": "4.8",
+      "sales": 516,
+      "shop": "TAC ELETRÔNICOS",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22693663474,
+        "productName": "Cabo Displayport  Blindado 4k Reforçado 144Hz 1,8 Metros Pra Placa de Vídeo Console Monitor Projetor",
+        "price": "14.99",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.03",
+        "sales": 516,
+        "ratingStar": "4.8",
+        "shopName": "TAC ELETRÔNICOS",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra2n-m5al23uxhcao0b",
+        "productLink": "https://shopee.com.br/product/390654042/22693663474",
+        "offerLink": "https://s.shopee.com.br/qjv4nDgzp"
       },
       "_last_price": null
     },
@@ -23938,35 +24142,6 @@
       "_last_price": null
     },
     {
-      "id": "58258530532",
-      "name": "Suporte Ajustável Placa de Vídeo GPU 7cm-12cm | Vertical Universal",
-      "price": 6.99,
-      "original_price": 10.43,
-      "discount": 33.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-81zty-mmupv3s93i817c",
-      "link": "https://s.shopee.com.br/8fSqaUo3cY",
-      "rating": "4.4",
-      "sales": 90,
-      "shop": "Amx comércio",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58258530532,
-        "productName": "Suporte Ajustável Placa de Vídeo GPU 7cm-12cm | Vertical Universal",
-        "price": "6.99",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.03",
-        "sales": 90,
-        "ratingStar": "4.4",
-        "shopName": "Amx comércio",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zty-mmupv3s93i817c",
-        "productLink": "https://shopee.com.br/product/1138986733/58258530532",
-        "offerLink": "https://s.shopee.com.br/8fSqaUo3cY"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58206237985",
       "name": "Kit 3 a 10 Potes Herméticos 2L Dispenser Organizador Lavanderia Para Sabão em Pó Detergente Amaciante",
       "price": 56.85,
@@ -24547,35 +24722,6 @@
       "_last_price": null
     },
     {
-      "id": "58257442384",
-      "name": "1.000 Etiquetas Alimentos 40x40 Anvisa Couchê Validade Fabricação",
-      "price": 19.0,
-      "original_price": 27.94,
-      "discount": 32.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mm6dy5ydiltwdb",
-      "link": "https://s.shopee.com.br/7VGstzYYNO",
-      "rating": "5",
-      "sales": 2788,
-      "shop": "MS_PRINT",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58257442384,
-        "productName": "1.000 Etiquetas Alimentos 40x40 Anvisa Couchê Validade Fabricação",
-        "price": "19",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.03",
-        "sales": 2788,
-        "ratingStar": "5",
-        "shopName": "MS_PRINT",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mm6dy5ydiltwdb",
-        "productLink": "https://shopee.com.br/product/1737125426/58257442384",
-        "offerLink": "https://s.shopee.com.br/7VGstzYYNO"
-      },
-      "_last_price": null
-    },
-    {
       "id": "19498104885",
       "name": "SSD Kingston NV3 500GB M.2 NVMe PCIe – Alta Velocidade e Desempenho",
       "price": 734.54,
@@ -25036,6 +25182,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82596-mqo4qfdx93pn1d",
         "productLink": "https://shopee.com.br/product/940287081/22695072956",
         "offerLink": "https://s.shopee.com.br/4fwde5NuA6"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58216188927",
+      "name": "Pasta Térmica Prata Gd900 -  4,8W/MK Original - Computadores Videogame Placas de vídeo Notebooks Console",
+      "price": 10.99,
+      "original_price": 15.93,
+      "discount": 31.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259t-mruwx0azd3wi1f",
+      "link": "https://s.shopee.com.br/113LH6D3es",
+      "rating": "4.9",
+      "sales": 358,
+      "shop": "Melhores produtos o",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58216188927,
+        "productName": "Pasta Térmica Prata Gd900 -  4,8W/MK Original - Computadores Videogame Placas de vídeo Notebooks Console",
+        "price": "10.99",
+        "priceDiscountRate": 31,
+        "commissionRate": "0.03",
+        "sales": 358,
+        "ratingStar": "4.9",
+        "shopName": "Melhores produtos o",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259t-mruwx0azd3wi1f",
+        "productLink": "https://shopee.com.br/product/1289782165/58216188927",
+        "offerLink": "https://s.shopee.com.br/113LH6D3es"
       },
       "_last_price": null
     },
@@ -26664,35 +26839,6 @@
       "_last_price": null
     },
     {
-      "id": "58256689854",
-      "name": "Suporte para Placa de Vídeo Ghost Call of Duty exclusivo  – GPU Ajustável Gamer Universal",
-      "price": 14.26,
-      "original_price": 19.81,
-      "discount": 28.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mm7rpqnoa9s4b3",
-      "link": "https://s.shopee.com.br/8Kq0BspKIW",
-      "rating": "4.8",
-      "sales": 60,
-      "shop": "Funciona Bem Utilidades",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58256689854,
-        "productName": "Suporte para Placa de Vídeo Ghost Call of Duty exclusivo  – GPU Ajustável Gamer Universal",
-        "price": "14.26",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.03",
-        "sales": 60,
-        "ratingStar": "4.8",
-        "shopName": "Funciona Bem Utilidades",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mm7rpqnoa9s4b3",
-        "productLink": "https://shopee.com.br/product/1555847007/58256689854",
-        "offerLink": "https://s.shopee.com.br/8Kq0BspKIW"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22994696891",
       "name": "Repetidor de Sinal Wi-Fi Roteador Wireless 2.4G Sem Fio 4 Antenas Longo Alcance Potente Fácil Instalação",
       "price": 64.9,
@@ -26892,35 +27038,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b9-mg5kdxhwvw2605",
         "productLink": "https://shopee.com.br/product/1248266601/22299071731",
         "offerLink": "https://s.shopee.com.br/1LgFfLVBOU"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58262421384",
-      "name": "Placa de Video PNY GeForce RTX 5070 OC Triple Fan, 12GB, GDDR7, 192-bit, VCG507012TFXPB1-O",
-      "price": 5743.9,
-      "original_price": 7868.36,
-      "discount": 27.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824gw-mpdzrd8o4irye0",
-      "link": "https://s.shopee.com.br/8V9QOBogxZ",
-      "rating": "5",
-      "sales": 13,
-      "shop": "Pichau",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58262421384,
-        "productName": "Placa de Video PNY GeForce RTX 5070 OC Triple Fan, 12GB, GDDR7, 192-bit, VCG507012TFXPB1-O",
-        "price": "5743.9",
-        "priceDiscountRate": 27,
-        "commissionRate": "0.03",
-        "sales": 13,
-        "ratingStar": "5",
-        "shopName": "Pichau",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gw-mpdzrd8o4irye0",
-        "productLink": "https://shopee.com.br/product/627750190/58262421384",
-        "offerLink": "https://s.shopee.com.br/8V9QOBogxZ"
       },
       "_last_price": null
     },
@@ -29216,35 +29333,6 @@
       "_last_price": null
     },
     {
-      "id": "58254539071",
-      "name": "Placa de Video INNO3D GeForce RTX 5050 Twin X2, 8GB, GDDR6, 128-bit, N50502-08D6-174071N",
-      "price": 2663.9,
-      "original_price": 3372.03,
-      "discount": 21.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8262d-mk9n8fkosb9id9",
-      "link": "https://s.shopee.com.br/1gJ4mu3Wff",
-      "rating": "5",
-      "sales": 19,
-      "shop": "Pichau",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58254539071,
-        "productName": "Placa de Video INNO3D GeForce RTX 5050 Twin X2, 8GB, GDDR6, 128-bit, N50502-08D6-174071N",
-        "price": "2663.9",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.03",
-        "sales": 19,
-        "ratingStar": "5",
-        "shopName": "Pichau",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262d-mk9n8fkosb9id9",
-        "productLink": "https://shopee.com.br/product/627750190/58254539071",
-        "offerLink": "https://s.shopee.com.br/1gJ4mu3Wff"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22294553860",
       "name": "Fonte atx 230w 24 pinos - bpc-230v1.2",
       "price": 49.9,
@@ -31217,6 +31305,35 @@
       "_last_price": null
     },
     {
+      "id": "58253518870",
+      "name": "Pasta Térmica Prata Para Processador PS2 PS3 PS4 Notebook Placa de Vídeo e PC GD900 Alta Performance",
+      "price": 16.49,
+      "original_price": 19.87,
+      "discount": 17.0,
+      "commission": 11.5,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820la-mnndy9qshtkya8",
+      "link": "https://s.shopee.com.br/2VsCl2Qojr",
+      "rating": "4.9",
+      "sales": 282,
+      "shop": "Cantraiz Shop",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58253518870,
+        "productName": "Pasta Térmica Prata Para Processador PS2 PS3 PS4 Notebook Placa de Vídeo e PC GD900 Alta Performance",
+        "price": "16.49",
+        "priceDiscountRate": 17,
+        "commissionRate": "0.115",
+        "sales": 282,
+        "ratingStar": "4.9",
+        "shopName": "Cantraiz Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mnndy9qshtkya8",
+        "productLink": "https://shopee.com.br/product/296481818/58253518870",
+        "offerLink": "https://s.shopee.com.br/2VsCl2Qojr"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18598296472",
       "name": "Calisul Percarbonato 100% Pureza total - Tira Manchas Natural",
       "price": 19.09,
@@ -31623,31 +31740,31 @@
       "_last_price": null
     },
     {
-      "id": "22694689197",
-      "name": "Placa de Video Gigabyte GeForce RTX 5060 Gaming OC, 8GB, GDDR7, 128-bit, GV-N5060GAMING-OC-8GD",
-      "price": 3864.9,
-      "original_price": 4601.07,
+      "id": "20797501393",
+      "name": "Pasta Térmica Gd900 30g 4,8W/MK Computadores Videogame Placas de vídeo Notebooks Console",
+      "price": 26.87,
+      "original_price": 31.99,
       "discount": 16.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82258-mhhrblblvv2857",
-      "link": "https://s.shopee.com.br/AAHeNFiLZz",
-      "rating": "5",
-      "sales": 6,
-      "shop": "Pichau",
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lupcap4pkm7498",
+      "link": "https://s.shopee.com.br/2gBcxLQBOm",
+      "rating": "4.9",
+      "sales": 287,
+      "shop": "P.A Comercio Online",
       "category": "placa de video",
       "source": "shopee",
       "_item": {
-        "itemId": 22694689197,
-        "productName": "Placa de Video Gigabyte GeForce RTX 5060 Gaming OC, 8GB, GDDR7, 128-bit, GV-N5060GAMING-OC-8GD",
-        "price": "3864.9",
+        "itemId": 20797501393,
+        "productName": "Pasta Térmica Gd900 30g 4,8W/MK Computadores Videogame Placas de vídeo Notebooks Console",
+        "price": "26.87",
         "priceDiscountRate": 16,
-        "commissionRate": "0.03",
-        "sales": 6,
-        "ratingStar": "5",
-        "shopName": "Pichau",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82258-mhhrblblvv2857",
-        "productLink": "https://shopee.com.br/product/627750190/22694689197",
-        "offerLink": "https://s.shopee.com.br/AAHeNFiLZz"
+        "commissionRate": "0.11",
+        "sales": 287,
+        "ratingStar": "4.9",
+        "shopName": "P.A Comercio Online",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lupcap4pkm7498",
+        "productLink": "https://shopee.com.br/product/344476159/20797501393",
+        "offerLink": "https://s.shopee.com.br/2gBcxLQBOm"
       },
       "_last_price": null
     },
@@ -31764,35 +31881,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98s-llqf31v92ckr45",
         "productLink": "https://shopee.com.br/product/472168397/22296602711",
         "offerLink": "https://s.shopee.com.br/905co2L0ju"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "44966099934",
-      "name": "Placa de Vídeo PCYES GeForce RTX 5060 Ti, 16GB, GDDR7, 128-bit, PVRTX5060TIB2F16G",
-      "price": 4899.0,
-      "original_price": 5763.53,
-      "discount": 15.0,
-      "commission": 5.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82590-mrxk2d1ayryf82",
-      "link": "https://s.shopee.com.br/1LgEOI4nLZ",
-      "rating": "5",
-      "sales": 12,
-      "shop": "SETUP NINJA",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 44966099934,
-        "productName": "Placa de Vídeo PCYES GeForce RTX 5060 Ti, 16GB, GDDR7, 128-bit, PVRTX5060TIB2F16G",
-        "price": "4899",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.05",
-        "sales": 12,
-        "ratingStar": "5",
-        "shopName": "SETUP NINJA",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82590-mrxk2d1ayryf82",
-        "productLink": "https://shopee.com.br/product/1001075556/44966099934",
-        "offerLink": "https://s.shopee.com.br/1LgEOI4nLZ"
       },
       "_last_price": null
     },
