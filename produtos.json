@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T20:19:09.824271+00:00",
-  "total": 1113,
+  "updated_at": "2026-10-03T20:38:13.680449+00:00",
+  "total": 1115,
   "products": [
     {
       "id": "50203126324",
@@ -2168,7 +2168,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6012yu1eit5e",
         "productLink": "https://shopee.com.br/product/1577129456/23298719961",
         "offerLink": "https://s.shopee.com.br/4fwddwIfl9"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23598011105",
@@ -3222,7 +3223,7 @@
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-msg1gwd0j85j6d",
       "link": "https://s.shopee.com.br/5LCO8L0Td2",
-      "rating": "4.6",
+      "rating": "4.5",
       "sales": 1213,
       "shop": "Sunfit Nutrition Oficial",
       "category": "whey protein",
@@ -3234,7 +3235,7 @@
         "priceDiscountRate": 69,
         "commissionRate": "0.08",
         "sales": 1213,
-        "ratingStar": "4.6",
+        "ratingStar": "4.5",
         "shopName": "Sunfit Nutrition Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-msg1gwd0j85j6d",
         "productLink": "https://shopee.com.br/product/1658934983/58204681823",
@@ -3992,8 +3993,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkc1gjt1xc606",
         "productLink": "https://shopee.com.br/product/1362613415/42110429390",
         "offerLink": "https://s.shopee.com.br/5fpAptgu7Z"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22399450069",
@@ -7855,7 +7855,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3wfdg89ffhx9a",
       "link": "https://s.shopee.com.br/4VdDRY87yo",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 1022,
       "shop": "Oliveira Flex",
       "category": "mouse gamer",
@@ -7867,7 +7867,7 @@
         "priceDiscountRate": 59,
         "commissionRate": "0.03",
         "sales": 1022,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Oliveira Flex",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3wfdg89ffhx9a",
         "productLink": "https://shopee.com.br/product/760173021/23398082837",
@@ -10232,7 +10232,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mltd6u9pih3adb",
       "link": "https://s.shopee.com.br/3LRG3TWsp3",
-      "rating": "4.5",
+      "rating": "4.6",
       "sales": 1887,
       "shop": "LYON IMPORTADOS",
       "category": "carrinho bebe",
@@ -10244,7 +10244,7 @@
         "priceDiscountRate": 55,
         "commissionRate": "0.03",
         "sales": 1887,
-        "ratingStar": "4.5",
+        "ratingStar": "4.6",
         "shopName": "LYON IMPORTADOS",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mltd6u9pih3adb",
         "productLink": "https://shopee.com.br/product/1772240971/58206938611",
@@ -13414,6 +13414,35 @@
       "_last_price": null
     },
     {
+      "id": "51357135187",
+      "name": "Pano de Chão Microfibra 60x80cm Super Absorvente Não Solta Fiapos Seca Rápido",
+      "price": 30.9,
+      "original_price": 61.8,
+      "discount": 50.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lu-msoxkbd2c9ae53",
+      "link": "https://s.shopee.com.br/2LYirbbUrt",
+      "rating": "4.7",
+      "sales": 2598,
+      "shop": "JOIS TÊXTIL",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 51357135187,
+        "productName": "Pano de Chão Microfibra 60x80cm Super Absorvente Não Solta Fiapos Seca Rápido",
+        "price": "30.9",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.13",
+        "sales": 2598,
+        "ratingStar": "4.7",
+        "shopName": "JOIS TÊXTIL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-msoxkbd2c9ae53",
+        "productLink": "https://shopee.com.br/product/1562086133/51357135187",
+        "offerLink": "https://s.shopee.com.br/2LYirbbUrt"
+      },
+      "_last_price": null
+    },
+    {
       "id": "55756600279",
       "name": "Kit 10 Panos de Limpeza em Microfibra Alta Absorção Multiuso",
       "price": 17.99,
@@ -14250,35 +14279,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mqxp07t9skjr6c",
         "productLink": "https://shopee.com.br/product/1343471577/23098743668",
         "offerLink": "https://s.shopee.com.br/4qG7jA35Ws"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23498386191",
-      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-      "price": 153.99,
-      "original_price": 301.94,
-      "discount": 49.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-      "link": "https://s.shopee.com.br/7faFDRGO1n",
-      "rating": "4.9",
-      "sales": 2064,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498386191,
-        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-        "price": "153.99",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.07",
-        "sales": 2064,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-        "productLink": "https://shopee.com.br/product/504754787/23498386191",
-        "offerLink": "https://s.shopee.com.br/7faFDRGO1n"
       },
       "_last_price": null
     },
@@ -18454,6 +18454,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4w-m6nn7taczt76a8",
         "productLink": "https://shopee.com.br/product/1356529946/27340235658",
         "offerLink": "https://s.shopee.com.br/6AlRQhCxiT"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58211968815",
+      "name": "Kit 4 Chaveiros Academia Fitness: Haltere, anilha, mini copo térmico e mini porta lata energético",
+      "price": 16.9,
+      "original_price": 29.65,
+      "discount": 43.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mqewq200sn4235",
+      "link": "https://s.shopee.com.br/905faY7iE7",
+      "rating": "5",
+      "sales": 6,
+      "shop": "Ad´s Store3 D",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58211968815,
+        "productName": "Kit 4 Chaveiros Academia Fitness: Haltere, anilha, mini copo térmico e mini porta lata energético",
+        "price": "16.9",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.03",
+        "sales": 6,
+        "ratingStar": "5",
+        "shopName": "Ad´s Store3 D",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mqewq200sn4235",
+        "productLink": "https://shopee.com.br/product/715089031/58211968815",
+        "offerLink": "https://s.shopee.com.br/905faY7iE7"
       },
       "_last_price": null
     },
@@ -28952,6 +28981,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mscq6sidjqx07c",
         "productLink": "https://shopee.com.br/product/1665304899/58263263481",
         "offerLink": "https://s.shopee.com.br/qjv4qhCuU"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23498386191",
+      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+      "price": 249.9,
+      "original_price": 320.38,
+      "discount": 22.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+      "link": "https://s.shopee.com.br/7faFDRGO1n",
+      "rating": "4.9",
+      "sales": 2064,
+      "shop": "Zociella Kids",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498386191,
+        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+        "price": "249.9",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.07",
+        "sales": 2064,
+        "ratingStar": "4.9",
+        "shopName": "Zociella Kids",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+        "productLink": "https://shopee.com.br/product/504754787/23498386191",
+        "offerLink": "https://s.shopee.com.br/7faFDRGO1n"
       },
       "_last_price": null
     },
