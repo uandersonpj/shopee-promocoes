@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T23:11:08.302772+00:00",
-  "total": 1110,
+  "updated_at": "2026-10-03T23:30:17.863927+00:00",
+  "total": 1118,
   "products": [
     {
       "id": "50203126324",
@@ -28,7 +28,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822zt-mia9h90fnksi38",
         "productLink": "https://shopee.com.br/product/450664666/50203126324",
         "offerLink": "https://s.shopee.com.br/2BFMesS0hj"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "52807406192",
@@ -228,8 +229,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134275-7rdxw-mdfucal40l6y57",
         "productLink": "https://shopee.com.br/product/236693678/26539956454",
         "offerLink": "https://s.shopee.com.br/70KYQKBpkq"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23994401668",
@@ -1450,7 +1450,7 @@
       "price": 11.5,
       "original_price": 46.0,
       "discount": 75.0,
-      "commission": 3.0,
+      "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mht65f9o464h1e",
       "link": "https://s.shopee.com.br/4fwddtSc8d",
       "rating": "4.7",
@@ -1463,7 +1463,7 @@
         "productName": "Kit 10 Panos de Limpeza Microfibra Alta Absorção Flanela Automotivo Carro Pia 30x30cm Vidro Multiuso Pano De Limpeza",
         "price": "11.5",
         "priceDiscountRate": 75,
-        "commissionRate": "0.03",
+        "commissionRate": "0.13",
         "sales": 1282,
         "ratingStar": "4.7",
         "shopName": "JWC.EMPORIUM",
@@ -2077,6 +2077,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xl-mhzrnuntaebk12",
         "productLink": "https://shopee.com.br/product/1672861664/43476999468",
         "offerLink": "https://s.shopee.com.br/BUEHkTJaG"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58214178007",
+      "name": "Lanterna LED Recarregável USB Alta Potência Luz Verde Longo Alcance Kit Completo com Estojo para Pesca, Camping MTC8",
+      "price": 54.99,
+      "original_price": 203.67,
+      "discount": 73.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134201-820lw-mqx54fhwnytgeb",
+      "link": "https://s.shopee.com.br/70Kcy0aRR7",
+      "rating": "4.9",
+      "sales": 64,
+      "shop": "STUDIO.Tudo",
+      "category": "estojo pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58214178007,
+        "productName": "Lanterna LED Recarregável USB Alta Potência Luz Verde Longo Alcance Kit Completo com Estojo para Pesca, Camping MTC8",
+        "price": "54.99",
+        "priceDiscountRate": 73,
+        "commissionRate": "0.03",
+        "sales": 64,
+        "ratingStar": "4.9",
+        "shopName": "STUDIO.Tudo",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lw-mqx54fhwnytgeb",
+        "productLink": "https://shopee.com.br/product/475104620/58214178007",
+        "offerLink": "https://s.shopee.com.br/70Kcy0aRR7"
       },
       "_last_price": null
     },
@@ -5408,7 +5437,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mrztp81e9kw7b1",
         "productLink": "https://shopee.com.br/product/1781912896/58265714065",
         "offerLink": "https://s.shopee.com.br/70KYQAT8r7"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19698719773",
@@ -10455,6 +10485,35 @@
       "_last_price": null
     },
     {
+      "id": "58263298680",
+      "name": "Kit Pesca Completo Acessórios Anzol Marine Sports Chumbada Boia Girador + Estojo Organizador Resistente Premium",
+      "price": 39.77,
+      "original_price": 88.38,
+      "discount": 55.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mpyjwlq73pqa16",
+      "link": "https://s.shopee.com.br/60S5mAeFSl",
+      "rating": "5",
+      "sales": 66,
+      "shop": "ApexVendas",
+      "category": "estojo pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58263298680,
+        "productName": "Kit Pesca Completo Acessórios Anzol Marine Sports Chumbada Boia Girador + Estojo Organizador Resistente Premium",
+        "price": "39.77",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.07",
+        "sales": 66,
+        "ratingStar": "5",
+        "shopName": "ApexVendas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mpyjwlq73pqa16",
+        "productLink": "https://shopee.com.br/product/940287081/58263298680",
+        "offerLink": "https://s.shopee.com.br/60S5mAeFSl"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58207485901",
       "name": "Repetidor WiFi Profissional 2800m 6 Antenas Roteador Amplificador de Sinal Modem 300Mbps",
       "price": 52.98,
@@ -10538,35 +10597,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mts0wtv0d4ht62",
         "productLink": "https://shopee.com.br/product/1619038531/22994350581",
         "offerLink": "https://s.shopee.com.br/6AlRQdWJY2"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22799512020",
-      "name": "Saboneteira Drenável Banheiro Unico ou Dupla Camada Organizador De Parede De Armazenamento",
-      "price": 12.99,
-      "original_price": 28.24,
-      "discount": 54.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mpte6xqtua6a9b",
-      "link": "https://s.shopee.com.br/2BFKyroQrW",
-      "rating": "4.8",
-      "sales": 5025,
-      "shop": "Kaym Black",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22799512020,
-        "productName": "Saboneteira Drenável Banheiro Unico ou Dupla Camada Organizador De Parede De Armazenamento",
-        "price": "12.99",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.03",
-        "sales": 5025,
-        "ratingStar": "4.8",
-        "shopName": "Kaym Black",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mpte6xqtua6a9b",
-        "productLink": "https://shopee.com.br/product/398188570/22799512020",
-        "offerLink": "https://s.shopee.com.br/2BFKyroQrW"
       },
       "_last_price": null
     },
@@ -10890,35 +10920,6 @@
       "_last_price": null
     },
     {
-      "id": "23893325676",
-      "name": "Molinete De Pesca De Metal EVA HD1000-7000 Max Arraste 10kg Cana Em Água Salgada",
-      "price": 38.0,
-      "original_price": 82.61,
-      "discount": 54.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfje3r8xov0gce",
-      "link": "https://s.shopee.com.br/gQUseacBv",
-      "rating": "4.9",
-      "sales": 680,
-      "shop": "HK  STORE",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23893325676,
-        "productName": "Molinete De Pesca De Metal EVA HD1000-7000 Max Arraste 10kg Cana Em Água Salgada",
-        "price": "38",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.08",
-        "sales": 680,
-        "ratingStar": "4.9",
-        "shopName": "HK  STORE",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfje3r8xov0gce",
-        "productLink": "https://shopee.com.br/product/1267134569/23893325676",
-        "offerLink": "https://s.shopee.com.br/gQUseacBv"
-      },
-      "_last_price": null
-    },
-    {
       "id": "29789318659",
       "name": "100kg Max Metal Carretilha De Pesca Com 5.2 : 1 HK1000-7000 Alta 10kg Max Molinete De Pesca Molinete Sports Pitching Pes",
       "price": 29.0,
@@ -11089,6 +11090,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mggkt4ezj0g00a",
         "productLink": "https://shopee.com.br/product/316333903/23499128694",
         "offerLink": "https://s.shopee.com.br/3qNWeVsgl9"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23199659542",
+      "name": "Kit Pesca 500 Anzóis Chinu Nº 3 ao 12 em Aço Carbono com Estojo Organizador",
+      "price": 22.99,
+      "original_price": 49.98,
+      "discount": 54.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259f-mr34qby1hgr0c0",
+      "link": "https://s.shopee.com.br/7VGtYvYXQA",
+      "rating": "4.7",
+      "sales": 61,
+      "shop": "MK HOUSE ",
+      "category": "estojo pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23199659542,
+        "productName": "Kit Pesca 500 Anzóis Chinu Nº 3 ao 12 em Aço Carbono com Estojo Organizador",
+        "price": "22.99",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.03",
+        "sales": 61,
+        "ratingStar": "4.7",
+        "shopName": "MK HOUSE ",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mr34qby1hgr0c0",
+        "productLink": "https://shopee.com.br/product/1443730896/23199659542",
+        "offerLink": "https://s.shopee.com.br/7VGtYvYXQA"
       },
       "_last_price": null
     },
@@ -11785,6 +11815,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rffe-m9jv6vrrei7d7f",
         "productLink": "https://shopee.com.br/product/1006215031/41357615567",
         "offerLink": "https://s.shopee.com.br/AAHaC6izJC"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23893325676",
+      "name": "Molinete De Pesca De Metal EVA HD1000-7000 Max Arraste 10kg Cana Em Água Salgada",
+      "price": 38.0,
+      "original_price": 80.85,
+      "discount": 53.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfje3r8xov0gce",
+      "link": "https://s.shopee.com.br/gQUseacBv",
+      "rating": "4.9",
+      "sales": 680,
+      "shop": "HK  STORE",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23893325676,
+        "productName": "Molinete De Pesca De Metal EVA HD1000-7000 Max Arraste 10kg Cana Em Água Salgada",
+        "price": "38",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.08",
+        "sales": 680,
+        "ratingStar": "4.9",
+        "shopName": "HK  STORE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfje3r8xov0gce",
+        "productLink": "https://shopee.com.br/product/1267134569/23893325676",
+        "offerLink": "https://s.shopee.com.br/gQUseacBv"
       },
       "_last_price": null
     },
@@ -14601,6 +14660,35 @@
       "_last_price": null
     },
     {
+      "id": "22799512020",
+      "name": "Saboneteira Drenável Banheiro Unico ou Dupla Camada Organizador De Parede De Armazenamento",
+      "price": 12.99,
+      "original_price": 24.98,
+      "discount": 48.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mpte6xqtua6a9b",
+      "link": "https://s.shopee.com.br/2BFKyroQrW",
+      "rating": "4.8",
+      "sales": 5025,
+      "shop": "Kaym Black",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22799512020,
+        "productName": "Saboneteira Drenável Banheiro Unico ou Dupla Camada Organizador De Parede De Armazenamento",
+        "price": "12.99",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.03",
+        "sales": 5025,
+        "ratingStar": "4.8",
+        "shopName": "Kaym Black",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mpte6xqtua6a9b",
+        "productLink": "https://shopee.com.br/product/398188570/22799512020",
+        "offerLink": "https://s.shopee.com.br/2BFKyroQrW"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18098210626",
       "name": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
       "price": 8.87,
@@ -15090,6 +15178,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwv-ly4py9sfn9qef3",
         "productLink": "https://shopee.com.br/product/1228962740/29806177637",
         "offerLink": "https://s.shopee.com.br/30oPf0QFnt"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21197653338",
+      "name": "ESTOJO ORGANIZADOR , PESCA, FERRAMENTAS , PARAFUSOS EM GERAL TOY 25392",
+      "price": 20.9,
+      "original_price": 40.19,
+      "discount": 48.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lt13ish2j4lpb7",
+      "link": "https://s.shopee.com.br/6q1Clhb4m6",
+      "rating": "4.8",
+      "sales": 71,
+      "shop": "Sancamix",
+      "category": "estojo pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21197653338,
+        "productName": "ESTOJO ORGANIZADOR , PESCA, FERRAMENTAS , PARAFUSOS EM GERAL TOY 25392",
+        "price": "20.9",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.03",
+        "sales": 71,
+        "ratingStar": "4.8",
+        "shopName": "Sancamix",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lt13ish2j4lpb7",
+        "productLink": "https://shopee.com.br/product/468558432/21197653338",
+        "offerLink": "https://s.shopee.com.br/6q1Clhb4m6"
       },
       "_last_price": null
     },
@@ -16718,35 +16835,6 @@
       "_last_price": null
     },
     {
-      "id": "21998001825",
-      "name": "Esponja de banho lava costa Silicone anti bacteriano cores sortido",
-      "price": 10.99,
-      "original_price": 19.98,
-      "discount": 45.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ra1c-m548tvxdhm0wde",
-      "link": "https://s.shopee.com.br/6fhi1YlwO0",
-      "rating": "4.7",
-      "sales": 8387,
-      "shop": "Luxor Comercial",
-      "category": "esponja",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21998001825,
-        "productName": "Esponja de banho lava costa Silicone anti bacteriano cores sortido",
-        "price": "10.99",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.03",
-        "sales": 8387,
-        "ratingStar": "4.7",
-        "shopName": "Luxor Comercial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra1c-m548tvxdhm0wde",
-        "productLink": "https://shopee.com.br/product/222975446/21998001825",
-        "offerLink": "https://s.shopee.com.br/6fhi1YlwO0"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23092914472",
       "name": "Kit 2 Gancho Aço Inoxidável com Adesivo para Esponja de Cozinha",
       "price": 10.99,
@@ -17530,6 +17618,35 @@
       "_last_price": null
     },
     {
+      "id": "43108735992",
+      "name": "Papel Offset Opaline Liso 180g Branco Diplomata Kit 200, 100 ou 50 Folhas Masterprint",
+      "price": 45.0,
+      "original_price": 80.36,
+      "discount": 44.0,
+      "commission": 14.000000000000002,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbfn2mbuo7lk14",
+      "link": "https://s.shopee.com.br/qjylxyAdj",
+      "rating": "5",
+      "sales": 2928,
+      "shop": "Draw Papelaria",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 43108735992,
+        "productName": "Papel Offset Opaline Liso 180g Branco Diplomata Kit 200, 100 ou 50 Folhas Masterprint",
+        "price": "45",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.14",
+        "sales": 2928,
+        "ratingStar": "5",
+        "shopName": "Draw Papelaria",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbfn2mbuo7lk14",
+        "productLink": "https://shopee.com.br/product/999239250/43108735992",
+        "offerLink": "https://s.shopee.com.br/qjylxyAdj"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58216511405",
       "name": "Placa de Video Mancer Radeon RX 5700 Streaky V2, 8GB, GDDR6, 256-bit, MCR-RX5700-STKV2",
       "price": 1489.9,
@@ -18023,6 +18140,35 @@
       "_last_price": null
     },
     {
+      "id": "58254191315",
+      "name": "Estojo Organizador De Pesca Dupla Face Maleta Para Iscas E Acessórios 12/14 Divisórias",
+      "price": 27.9,
+      "original_price": 49.82,
+      "discount": 44.0,
+      "commission": 16.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8260l-mk0matpd6cxt68",
+      "link": "https://s.shopee.com.br/7faJlEXu5B",
+      "rating": "4.7",
+      "sales": 68,
+      "shop": "RICCO & CRIATIVO IMPORTS",
+      "category": "estojo pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58254191315,
+        "productName": "Estojo Organizador De Pesca Dupla Face Maleta Para Iscas E Acessórios 12/14 Divisórias",
+        "price": "27.9",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.16",
+        "sales": 68,
+        "ratingStar": "4.7",
+        "shopName": "RICCO & CRIATIVO IMPORTS",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260l-mk0matpd6cxt68",
+        "productLink": "https://shopee.com.br/product/1592831479/58254191315",
+        "offerLink": "https://s.shopee.com.br/7faJlEXu5B"
+      },
+      "_last_price": null
+    },
+    {
       "id": "29877782583",
       "name": "2 Peças Luvas De Strass Para Rede De Pesca Feminina , Mangas De Infantil Sem Dedos , Acessórios De Cena Dos Anos 80 , Dr",
       "price": 15.04,
@@ -18222,6 +18368,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mn3cmeqnyfwh53",
         "productLink": "https://shopee.com.br/product/1564593552/22994148851",
         "offerLink": "https://s.shopee.com.br/BUEHbt9iQ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21998001825",
+      "name": "Esponja de banho lava costa Silicone anti bacteriano cores sortido",
+      "price": 11.5,
+      "original_price": 20.18,
+      "discount": 43.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ra1c-m548tvxdhm0wde",
+      "link": "https://s.shopee.com.br/6fhi1YlwO0",
+      "rating": "4.7",
+      "sales": 8387,
+      "shop": "Luxor Comercial",
+      "category": "esponja",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21998001825,
+        "productName": "Esponja de banho lava costa Silicone anti bacteriano cores sortido",
+        "price": "11.5",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.03",
+        "sales": 8387,
+        "ratingStar": "4.7",
+        "shopName": "Luxor Comercial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra1c-m548tvxdhm0wde",
+        "productLink": "https://shopee.com.br/product/222975446/21998001825",
+        "offerLink": "https://s.shopee.com.br/6fhi1YlwO0"
       },
       "_last_price": null
     },
@@ -20135,6 +20310,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb3pqavbklg96",
         "productLink": "https://shopee.com.br/product/983753255/23791204929",
         "offerLink": "https://s.shopee.com.br/5VVoKdzqI5"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58260024078",
+      "name": "Kit 2 Creatina Max Titanium 300g Pura",
+      "price": 89.9,
+      "original_price": 149.83,
+      "discount": 40.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mnsw2jxtutxe75",
+      "link": "https://s.shopee.com.br/9AP6hO3TyR",
+      "rating": "5",
+      "sales": 1423,
+      "shop": "Hard Extreme",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58260024078,
+        "productName": "Kit 2 Creatina Max Titanium 300g Pura",
+        "price": "89.9",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.07",
+        "sales": 1423,
+        "ratingStar": "5",
+        "shopName": "Hard Extreme",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mnsw2jxtutxe75",
+        "productLink": "https://shopee.com.br/product/338537405/58260024078",
+        "offerLink": "https://s.shopee.com.br/9AP6hO3TyR"
       },
       "_last_price": null
     },
@@ -23938,6 +24142,35 @@
       "_last_price": null
     },
     {
+      "id": "18399883704",
+      "name": "Kit pesca 2 varas Telescópicas 1,80 mts e 3,00 mts estojo com acessórios isca boinha chumbada e Anzol",
+      "price": 59.5,
+      "original_price": 90.15,
+      "discount": 34.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdumhz8lo8mx48",
+      "link": "https://s.shopee.com.br/7ptjxXXGkC",
+      "rating": "4.7",
+      "sales": 49,
+      "shop": "ATACADO PESCA E CIA",
+      "category": "estojo pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18399883704,
+        "productName": "Kit pesca 2 varas Telescópicas 1,80 mts e 3,00 mts estojo com acessórios isca boinha chumbada e Anzol",
+        "price": "59.5",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.07",
+        "sales": 49,
+        "ratingStar": "4.7",
+        "shopName": "ATACADO PESCA E CIA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdumhz8lo8mx48",
+        "productLink": "https://shopee.com.br/product/1595150949/18399883704",
+        "offerLink": "https://s.shopee.com.br/7ptjxXXGkC"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58206237985",
       "name": "Kit 3 a 10 Potes Herméticos 2L Dispenser Organizador Lavanderia Para Sabão em Pó Detergente Amaciante",
       "price": 56.86,
@@ -24547,35 +24780,6 @@
       "_last_price": null
     },
     {
-      "id": "58257442384",
-      "name": "1.000 Etiquetas Alimentos 40x40 Anvisa Couchê Validade Fabricação",
-      "price": 19.0,
-      "original_price": 27.94,
-      "discount": 32.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mm6dy5ydiltwdb",
-      "link": "https://s.shopee.com.br/7VGstzYYNO",
-      "rating": "5",
-      "sales": 2786,
-      "shop": "MS_PRINT",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58257442384,
-        "productName": "1.000 Etiquetas Alimentos 40x40 Anvisa Couchê Validade Fabricação",
-        "price": "19",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.03",
-        "sales": 2786,
-        "ratingStar": "5",
-        "shopName": "MS_PRINT",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mm6dy5ydiltwdb",
-        "productLink": "https://shopee.com.br/product/1737125426/58257442384",
-        "offerLink": "https://s.shopee.com.br/7VGstzYYNO"
-      },
-      "_last_price": null
-    },
-    {
       "id": "19498104885",
       "name": "SSD Kingston NV3 500GB M.2 NVMe PCIe – Alta Velocidade e Desempenho",
       "price": 734.54,
@@ -25007,35 +25211,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfy2av7acd8g3c",
         "productLink": "https://shopee.com.br/product/344487407/23294539279",
         "offerLink": "https://s.shopee.com.br/6L4rd6EN6W"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22695072956",
-      "name": "Kit Maleta Pesca 3 Bandejas Caixa Grande + Estojo Multiuso",
-      "price": 60.77,
-      "original_price": 89.37,
-      "discount": 32.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82596-mqo4qfdx93pn1d",
-      "link": "https://s.shopee.com.br/4fwde5NuA6",
-      "rating": "4.9",
-      "sales": 181,
-      "shop": "ApexVendas",
-      "category": "estojo pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22695072956,
-        "productName": "Kit Maleta Pesca 3 Bandejas Caixa Grande + Estojo Multiuso",
-        "price": "60.77",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.07",
-        "sales": 181,
-        "ratingStar": "4.9",
-        "shopName": "ApexVendas",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82596-mqo4qfdx93pn1d",
-        "productLink": "https://shopee.com.br/product/940287081/22695072956",
-        "offerLink": "https://s.shopee.com.br/4fwde5NuA6"
       },
       "_last_price": null
     },
@@ -26921,6 +27096,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a3-mg5ksa5y6q6led",
         "productLink": "https://shopee.com.br/product/1248266601/23699045261",
         "offerLink": "https://s.shopee.com.br/113PGjWS4a"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "55263851347",
+      "name": "Bolsa EVA acolchoada para carretilha de pesca Baitcasting, estojo moldado em neoprene, leve, resistente e protetor para",
+      "price": 25.26,
+      "original_price": 35.08,
+      "discount": 28.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8258j-mro68liyt6h4d4",
+      "link": "https://s.shopee.com.br/5fpFNYfW8j",
+      "rating": "5",
+      "sales": 57,
+      "shop": "Choice Oficial",
+      "category": "estojo pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 55263851347,
+        "productName": "Bolsa EVA acolchoada para carretilha de pesca Baitcasting, estojo moldado em neoprene, leve, resistente e protetor para",
+        "price": "25.26",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.09",
+        "sales": 57,
+        "ratingStar": "5",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258j-mro68liyt6h4d4",
+        "productLink": "https://shopee.com.br/product/1006215031/55263851347",
+        "offerLink": "https://s.shopee.com.br/5fpFNYfW8j"
       },
       "_last_price": null
     },
@@ -30405,6 +30609,35 @@
       "_last_price": null
     },
     {
+      "id": "48163008422",
+      "name": "Óculos De Sol Polarizados Aviador Clássico Unissex Proteção Uv Para Dirigir Pesca Ao Ar Livre Com Estojo De",
+      "price": 27.42,
+      "original_price": 34.27,
+      "discount": 20.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8258n-mq7cms8p2o7gd0",
+      "link": "https://s.shopee.com.br/5VVpBFg9Ti",
+      "rating": "4.7",
+      "sales": 84,
+      "shop": "Choice Oficial",
+      "category": "estojo pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 48163008422,
+        "productName": "Óculos De Sol Polarizados Aviador Clássico Unissex Proteção Uv Para Dirigir Pesca Ao Ar Livre Com Estojo De",
+        "price": "27.42",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.09",
+        "sales": 84,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258n-mq7cms8p2o7gd0",
+        "productLink": "https://shopee.com.br/product/1006215031/48163008422",
+        "offerLink": "https://s.shopee.com.br/5VVpBFg9Ti"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58266216069",
       "name": "PC GAMER RYZEN 7 5700G, 16GB DDR4 3200MHZ, SSD M.2 NVME 250GB, VEGA 8",
       "price": 3078.81,
@@ -30575,35 +30808,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m64i1woremya09",
         "productLink": "https://shopee.com.br/product/1294889654/23298198782",
         "offerLink": "https://s.shopee.com.br/7ptj6vUtOQ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22998936376",
-      "name": "Ração Golden Special Premium para Gatos Castrados Frango e Carne 10,1kg",
-      "price": 129.99,
-      "original_price": 160.48,
-      "discount": 19.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820li-ms648kxna22ta5",
-      "link": "https://s.shopee.com.br/3qNadwLfJt",
-      "rating": "5",
-      "sales": 1096,
-      "shop": "Chegô",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22998936376,
-        "productName": "Ração Golden Special Premium para Gatos Castrados Frango e Carne 10,1kg",
-        "price": "129.99",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.03",
-        "sales": 1096,
-        "ratingStar": "5",
-        "shopName": "Chegô",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-ms648kxna22ta5",
-        "productLink": "https://shopee.com.br/product/1248266601/22998936376",
-        "offerLink": "https://s.shopee.com.br/3qNadwLfJt"
       },
       "_last_price": null
     },
@@ -31793,6 +31997,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98s-llqf31v92ckr45",
         "productLink": "https://shopee.com.br/product/472168397/22296602711",
         "offerLink": "https://s.shopee.com.br/905co2L0ju"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18799237450",
+      "name": "Kit de Pesca Premium Estojo Com Chumbadas Caixa com Divisórias Pesos Variados Chumbo De Pesca Pescaria Pesqueiro Pratico",
+      "price": 39.48,
+      "original_price": 47.0,
+      "discount": 16.0,
+      "commission": 14.000000000000002,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltqs9gn59ou713",
+      "link": "https://s.shopee.com.br/5q8fZresnk",
+      "rating": "4.5",
+      "sales": 93,
+      "shop": "Max Pescas",
+      "category": "estojo pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18799237450,
+        "productName": "Kit de Pesca Premium Estojo Com Chumbadas Caixa com Divisórias Pesos Variados Chumbo De Pesca Pescaria Pesqueiro Pratico",
+        "price": "39.48",
+        "priceDiscountRate": 16,
+        "commissionRate": "0.14",
+        "sales": 93,
+        "ratingStar": "4.5",
+        "shopName": "Max Pescas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltqs9gn59ou713",
+        "productLink": "https://shopee.com.br/product/291545650/18799237450",
+        "offerLink": "https://s.shopee.com.br/5q8fZresnk"
       },
       "_last_price": null
     },
