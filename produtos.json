@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-04T08:19:28.861550+00:00",
-  "total": 1114,
+  "updated_at": "2026-10-04T08:38:25.646898+00:00",
+  "total": 1115,
   "products": [
     {
       "id": "50203126324",
@@ -897,7 +897,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lzop7krz80iq1e",
         "productLink": "https://shopee.com.br/product/218996205/25391678999",
         "offerLink": "https://s.shopee.com.br/30oUS0NUHw"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23394267693",
@@ -1447,6 +1448,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mafoc9gj36hb88",
         "productLink": "https://shopee.com.br/product/1384231985/23498458783",
         "offerLink": "https://s.shopee.com.br/4LJs2c9pqv"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58202416470",
+      "name": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
+      "price": 4.98,
+      "original_price": 19.92,
+      "discount": 75.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
+      "link": "https://s.shopee.com.br/50ZYpjezWZ",
+      "rating": "4.8",
+      "sales": 11891,
+      "shop": "LUCIOshopping",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58202416470,
+        "productName": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
+        "price": "4.98",
+        "priceDiscountRate": 75,
+        "commissionRate": "0.03",
+        "sales": 11891,
+        "ratingStar": "4.8",
+        "shopName": "LUCIOshopping",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
+        "productLink": "https://shopee.com.br/product/1691846378/58202416470",
+        "offerLink": "https://s.shopee.com.br/50ZYpjezWZ"
       },
       "_last_price": null
     },
@@ -17837,8 +17867,8 @@
     {
       "id": "19197753511",
       "name": "Kit 6 Formas Airfryer Tamanhos Variados Silicone Antiaderente Microondas Lavável com Alça",
-      "price": 16.99,
-      "original_price": 30.34,
+      "price": 12.99,
+      "original_price": 23.2,
       "discount": 44.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rdye-lxl7ea3p8rbg09",
@@ -17851,7 +17881,7 @@
       "_item": {
         "itemId": 19197753511,
         "productName": "Kit 6 Formas Airfryer Tamanhos Variados Silicone Antiaderente Microondas Lavável com Alça",
-        "price": "16.99",
+        "price": "12.99",
         "priceDiscountRate": 44,
         "commissionRate": "0.03",
         "sales": 1599,
