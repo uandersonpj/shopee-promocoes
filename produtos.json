@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-04T15:18:45.148620+00:00",
-  "total": 1110,
+  "updated_at": "2026-10-04T15:37:38.999586+00:00",
+  "total": 1111,
   "products": [
     {
       "id": "58210104632",
@@ -1646,8 +1646,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk90kkju10qp3b",
         "productLink": "https://shopee.com.br/product/1063922972/18299069073",
         "offerLink": "https://s.shopee.com.br/9zyEn2f7yh"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "46712193198",
@@ -16919,6 +16918,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
         "productLink": "https://shopee.com.br/product/988030305/23397600706",
         "offerLink": "https://s.shopee.com.br/1gJ6rbrgI7"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21399647008",
+      "name": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Antifrizz",
+      "price": 17.9,
+      "original_price": 32.55,
+      "discount": 45.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/br-11134201-820l5-mp9hlxe5ga2p7e",
+      "link": "https://s.shopee.com.br/1BMr0IM5Uj",
+      "rating": "4.9",
+      "sales": 2962,
+      "shop": "Salon Line",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21399647008,
+        "productName": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Antifrizz",
+        "price": "17.9",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.18",
+        "sales": 2962,
+        "ratingStar": "4.9",
+        "shopName": "Salon Line",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820l5-mp9hlxe5ga2p7e",
+        "productLink": "https://shopee.com.br/product/616222685/21399647008",
+        "offerLink": "https://s.shopee.com.br/1BMr0IM5Uj"
       },
       "_last_price": null
     },
