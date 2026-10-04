@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-04T04:51:49.032552+00:00",
-  "total": 1114,
+  "updated_at": "2026-10-04T05:10:44.635987+00:00",
+  "total": 1116,
   "products": [
     {
       "id": "50203126324",
@@ -1642,7 +1642,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824jj-mpfvxsk51ibm93",
         "productLink": "https://shopee.com.br/product/321587846/46712193198",
         "offerLink": "https://s.shopee.com.br/2BFNSezg2J"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22498781114",
@@ -14978,6 +14979,64 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82628-mk9k0g1w4jk058",
         "productLink": "https://shopee.com.br/product/1594597334/49955791557",
         "offerLink": "https://s.shopee.com.br/1gJ6rkwmC7"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22294439852",
+      "name": "Boia infantil de natação colete flutuante de 1 a 6 anos Segurança Garantida",
+      "price": 27.56,
+      "original_price": 53.0,
+      "discount": 48.0,
+      "commission": 20.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7azorh5y4i4dd",
+      "link": "https://s.shopee.com.br/1qcX44DwlW",
+      "rating": "4.8",
+      "sales": 938,
+      "shop": "LOJA Celt 05",
+      "category": "colete salva vidas",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22294439852,
+        "productName": "Boia infantil de natação colete flutuante de 1 a 6 anos Segurança Garantida",
+        "price": "27.56",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.2",
+        "sales": 938,
+        "ratingStar": "4.8",
+        "shopName": "LOJA Celt 05",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7azorh5y4i4dd",
+        "productLink": "https://shopee.com.br/product/1619868980/22294439852",
+        "offerLink": "https://s.shopee.com.br/1qcX44DwlW"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22198950257",
+      "name": "Boia infantil de natação colete flutuante de 1 a 6 anos Nova Promoção Com Trave De Segurança",
+      "price": 27.56,
+      "original_price": 53.0,
+      "discount": 48.0,
+      "commission": 20.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mm1x29cyrxfkc5",
+      "link": "https://s.shopee.com.br/2LYnezC2kh",
+      "rating": "4.8",
+      "sales": 665,
+      "shop": "LOJA Celt 05",
+      "category": "colete salva vidas",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22198950257,
+        "productName": "Boia infantil de natação colete flutuante de 1 a 6 anos Nova Promoção Com Trave De Segurança",
+        "price": "27.56",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.2",
+        "sales": 665,
+        "ratingStar": "4.8",
+        "shopName": "LOJA Celt 05",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mm1x29cyrxfkc5",
+        "productLink": "https://shopee.com.br/product/1619868980/22198950257",
+        "offerLink": "https://s.shopee.com.br/2LYnezC2kh"
       },
       "_last_price": null
     },
@@ -29627,35 +29686,6 @@
       "_last_price": null
     },
     {
-      "id": "57205646686",
-      "name": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
-      "price": 181.77,
-      "original_price": 230.09,
-      "discount": 21.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
-      "link": "https://s.shopee.com.br/9AP6hPyCrQ",
-      "rating": "4.9",
-      "sales": 4196,
-      "shop": "BESTBYBRASILGOLD",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57205646686,
-        "productName": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
-        "price": "181.77",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.06",
-        "sales": 4196,
-        "ratingStar": "4.9",
-        "shopName": "BESTBYBRASILGOLD",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
-        "productLink": "https://shopee.com.br/product/1494297971/57205646686",
-        "offerLink": "https://s.shopee.com.br/9AP6hPyCrQ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "17134946092",
       "name": "Linha De Pesca Monofilamento Top Platinum Carretel Grande Mazzaferro - Várias Espessuras",
       "price": 38.81,
@@ -30261,6 +30291,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mpcphejk4eth7f",
         "productLink": "https://shopee.com.br/product/429439423/40881634244",
         "offerLink": "https://s.shopee.com.br/9fLOOO7wEZ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22794193064",
+      "name": "Air Fryer Rosa Britânia 5,5L Cesto Pinkstone 1500W BAFE53",
+      "price": 319.9,
+      "original_price": 399.87,
+      "discount": 20.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825ar-mts8ryafk3yc07",
+      "link": "https://s.shopee.com.br/8V9R0FCNbS",
+      "rating": "5",
+      "sales": 1426,
+      "shop": "Britânia Oficial",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22794193064,
+        "productName": "Air Fryer Rosa Britânia 5,5L Cesto Pinkstone 1500W BAFE53",
+        "price": "319.9",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.03",
+        "sales": 1426,
+        "ratingStar": "5",
+        "shopName": "Britânia Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ar-mts8ryafk3yc07",
+        "productLink": "https://shopee.com.br/product/811879342/22794193064",
+        "offerLink": "https://s.shopee.com.br/8V9R0FCNbS"
       },
       "_last_price": null
     },
