@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T06:45:10.378186+00:00",
+  "updated_at": "2026-10-04T07:04:02.051655+00:00",
   "total": 1115,
   "products": [
     {
@@ -287,7 +287,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-msxmjc85bkzr38",
         "productLink": "https://shopee.com.br/product/1198407784/23497594302",
         "offerLink": "https://s.shopee.com.br/60S61fltJi"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "57911938287",
@@ -7908,35 +7909,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mci6w7lu1s75b8",
         "productLink": "https://shopee.com.br/product/767498858/19099843848",
         "offerLink": "https://s.shopee.com.br/W79TV8Rei"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22198792838",
-      "name": "Carrinho de Controle Remoto Sem fio Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
-      "price": 20.45,
-      "original_price": 49.88,
-      "discount": 59.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcu4r3lbhv5t84",
-      "link": "https://s.shopee.com.br/9V1yC2aBOc",
-      "rating": "4.8",
-      "sales": 990,
-      "shop": "LifeToys",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22198792838,
-        "productName": "Carrinho de Controle Remoto Sem fio Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
-        "price": "20.45",
-        "priceDiscountRate": 59,
-        "commissionRate": "0.03",
-        "sales": 990,
-        "ratingStar": "4.8",
-        "shopName": "LifeToys",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcu4r3lbhv5t84",
-        "productLink": "https://shopee.com.br/product/1551770885/22198792838",
-        "offerLink": "https://s.shopee.com.br/9V1yC2aBOc"
       },
       "_last_price": null
     },
@@ -23916,6 +23888,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mr0al1uy9z47a0",
         "productLink": "https://shopee.com.br/product/1295467768/22894246754",
         "offerLink": "https://s.shopee.com.br/9fLLtMsCE0"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22198792838",
+      "name": "Carrinho de Controle Remoto Sem fio Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
+      "price": 26.55,
+      "original_price": 40.23,
+      "discount": 34.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcu4r3lbhv5t84",
+      "link": "https://s.shopee.com.br/9V1yC2aBOc",
+      "rating": "4.8",
+      "sales": 990,
+      "shop": "LifeToys",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22198792838,
+        "productName": "Carrinho de Controle Remoto Sem fio Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
+        "price": "26.55",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.03",
+        "sales": 990,
+        "ratingStar": "4.8",
+        "shopName": "LifeToys",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcu4r3lbhv5t84",
+        "productLink": "https://shopee.com.br/product/1551770885/22198792838",
+        "offerLink": "https://s.shopee.com.br/9V1yC2aBOc"
       },
       "_last_price": null
     },
