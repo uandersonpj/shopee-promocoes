@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T09:16:12.986441+00:00",
+  "updated_at": "2026-10-04T09:35:06.307482+00:00",
   "total": 1114,
   "products": [
     {
@@ -3752,7 +3752,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825b2-mskr1qyo0cn62a",
       "link": "https://s.shopee.com.br/9AP7napDXr",
-      "rating": "4.6",
+      "rating": "4.7",
       "sales": 30,
       "shop": "PetMimo ⭐",
       "category": "luva pesca",
@@ -3764,7 +3764,7 @@
         "priceDiscountRate": 68,
         "commissionRate": "0.03",
         "sales": 30,
-        "ratingStar": "4.6",
+        "ratingStar": "4.7",
         "shopName": "PetMimo ⭐",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b2-mskr1qyo0cn62a",
         "productLink": "https://shopee.com.br/product/1883428458/58266396801",
@@ -10414,35 +10414,6 @@
       "_last_price": null
     },
     {
-      "id": "22799512020",
-      "name": "Saboneteira Drenável Banheiro Unico ou Dupla Camada Organizador De Parede De Armazenamento",
-      "price": 12.99,
-      "original_price": 28.24,
-      "discount": 54.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mpte6xqtua6a9b",
-      "link": "https://s.shopee.com.br/1AssXy1ft",
-      "rating": "4.8",
-      "sales": 5025,
-      "shop": "Kaym Black",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22799512020,
-        "productName": "Saboneteira Drenável Banheiro Unico ou Dupla Camada Organizador De Parede De Armazenamento",
-        "price": "12.99",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.03",
-        "sales": 5025,
-        "ratingStar": "4.8",
-        "shopName": "Kaym Black",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mpte6xqtua6a9b",
-        "productLink": "https://shopee.com.br/product/398188570/22799512020",
-        "offerLink": "https://s.shopee.com.br/1AssXy1ft"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23694943548",
       "name": "Kit 10 Panos de Microfibra Multiuso Absorção para Limpeza Doméstica Alta",
       "price": 16.49,
@@ -14532,6 +14503,35 @@
       "_last_price": null
     },
     {
+      "id": "22799512020",
+      "name": "Saboneteira Drenável Banheiro Unico ou Dupla Camada Organizador De Parede De Armazenamento",
+      "price": 12.99,
+      "original_price": 24.98,
+      "discount": 48.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mpte6xqtua6a9b",
+      "link": "https://s.shopee.com.br/1AssXy1ft",
+      "rating": "4.8",
+      "sales": 5025,
+      "shop": "Kaym Black",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22799512020,
+        "productName": "Saboneteira Drenável Banheiro Unico ou Dupla Camada Organizador De Parede De Armazenamento",
+        "price": "12.99",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.03",
+        "sales": 5025,
+        "ratingStar": "4.8",
+        "shopName": "Kaym Black",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mpte6xqtua6a9b",
+        "productLink": "https://shopee.com.br/product/398188570/22799512020",
+        "offerLink": "https://s.shopee.com.br/1AssXy1ft"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18098210626",
       "name": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
       "price": 8.87,
@@ -16848,6 +16848,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
         "productLink": "https://shopee.com.br/product/988030305/23397600706",
         "offerLink": "https://s.shopee.com.br/1gJ6rbrgI7"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21399647008",
+      "name": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Antifrizz",
+      "price": 17.9,
+      "original_price": 32.55,
+      "discount": 45.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/br-11134201-820l5-mp9hlxe5ga2p7e",
+      "link": "https://s.shopee.com.br/BUEo6B0ui",
+      "rating": "4.9",
+      "sales": 2962,
+      "shop": "Salon Line",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21399647008,
+        "productName": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Antifrizz",
+        "price": "17.9",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.18",
+        "sales": 2962,
+        "ratingStar": "4.9",
+        "shopName": "Salon Line",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820l5-mp9hlxe5ga2p7e",
+        "productLink": "https://shopee.com.br/product/616222685/21399647008",
+        "offerLink": "https://s.shopee.com.br/BUEo6B0ui"
       },
       "_last_price": null
     },
@@ -29985,35 +30014,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mt5br5wntgjpc6",
         "productLink": "https://shopee.com.br/product/410663728/23898339097",
         "offerLink": "https://s.shopee.com.br/3B7ueMChjT"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23497918564",
-      "name": "Kit Shampoo e Condicionador Hidra Maracujá Tropical 300ml",
-      "price": 17.64,
-      "original_price": 22.05,
-      "discount": 20.0,
-      "commission": 21.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259v-msbxaaf4hybk4c",
-      "link": "https://s.shopee.com.br/BUJ6A4PJ1",
-      "rating": "4.9",
-      "sales": 2121,
-      "shop": "Salon Line",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23497918564,
-        "productName": "Kit Shampoo e Condicionador Hidra Maracujá Tropical 300ml",
-        "price": "17.64",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.21",
-        "sales": 2121,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259v-msbxaaf4hybk4c",
-        "productLink": "https://shopee.com.br/product/616222685/23497918564",
-        "offerLink": "https://s.shopee.com.br/BUJ6A4PJ1"
       },
       "_last_price": null
     },
