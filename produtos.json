@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T07:04:02.051655+00:00",
+  "updated_at": "2026-10-04T07:22:52.678666+00:00",
   "total": 1115,
   "products": [
     {
@@ -57,7 +57,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-msxmjc87thc46e",
         "productLink": "https://shopee.com.br/product/1198407784/52807406192",
         "offerLink": "https://s.shopee.com.br/7Ae3PohRwr"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21099546181",
@@ -30680,8 +30681,8 @@
     {
       "id": "25046330542",
       "name": "Celimax Brightening Pore+ Dark Spot Cream 35ml, 7ml",
-      "price": 146.29,
-      "original_price": 180.6,
+      "price": 42.7,
+      "original_price": 52.72,
       "discount": 19.0,
       "commission": 25.0,
       "image": "https://cf.shopee.com.br/file/sg-11134207-825a4-mr9pzqvf632f09",
@@ -30694,7 +30695,7 @@
       "_item": {
         "itemId": 25046330542,
         "productName": "Celimax Brightening Pore+ Dark Spot Cream 35ml, 7ml",
-        "price": "146.29",
+        "price": "42.7",
         "priceDiscountRate": 19,
         "commissionRate": "0.25",
         "sales": 6412,
