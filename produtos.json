@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T20:23:16.359977+00:00",
+  "updated_at": "2026-10-04T20:42:14.723571+00:00",
   "total": 1108,
   "products": [
     {
@@ -3125,7 +3125,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
         "productLink": "https://shopee.com.br/product/1368232097/58207198817",
         "offerLink": "https://s.shopee.com.br/1qcX454k9x"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23199448516",
@@ -6744,8 +6745,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mrm0k1f8sj5zd3",
         "productLink": "https://shopee.com.br/product/1142099481/22193667311",
         "offerLink": "https://s.shopee.com.br/20vxzpIuo2"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "9830388367",
@@ -9148,7 +9148,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820md-mtux4jfgihaa2c",
         "productLink": "https://shopee.com.br/product/1291547401/23594943408",
         "offerLink": "https://s.shopee.com.br/4qG8dUrLZN"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22694532907",
@@ -29999,35 +30000,6 @@
       "_last_price": null
     },
     {
-      "id": "22998936376",
-      "name": "Ração Golden Special Premium para Gatos Castrados Frango e Carne 10,1kg",
-      "price": 128.78,
-      "original_price": 160.97,
-      "discount": 20.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820li-ms648kxna22ta5",
-      "link": "https://s.shopee.com.br/7faK0hOktO",
-      "rating": "5",
-      "sales": 1129,
-      "shop": "Chegô",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22998936376,
-        "productName": "Ração Golden Special Premium para Gatos Castrados Frango e Carne 10,1kg",
-        "price": "128.78",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.03",
-        "sales": 1129,
-        "ratingStar": "5",
-        "shopName": "Chegô",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-ms648kxna22ta5",
-        "productLink": "https://shopee.com.br/product/1248266601/22998936376",
-        "offerLink": "https://s.shopee.com.br/7faK0hOktO"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23193474101",
       "name": "Coleira colar de cordas trançadas ajustável com plaquinha de identificação para cachorro e gato",
       "price": 19.9,
@@ -30488,6 +30460,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m64i1woremya09",
         "productLink": "https://shopee.com.br/product/1294889654/23298198782",
         "offerLink": "https://s.shopee.com.br/7ptj6vUtOQ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22998936376",
+      "name": "Ração Golden Special Premium para Gatos Castrados Frango e Carne 10,1kg",
+      "price": 129.99,
+      "original_price": 160.48,
+      "discount": 19.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820li-ms648kxna22ta5",
+      "link": "https://s.shopee.com.br/7faK0hOktO",
+      "rating": "5",
+      "sales": 1129,
+      "shop": "Chegô",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22998936376,
+        "productName": "Ração Golden Special Premium para Gatos Castrados Frango e Carne 10,1kg",
+        "price": "129.99",
+        "priceDiscountRate": 19,
+        "commissionRate": "0.03",
+        "sales": 1129,
+        "ratingStar": "5",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-ms648kxna22ta5",
+        "productLink": "https://shopee.com.br/product/1248266601/22998936376",
+        "offerLink": "https://s.shopee.com.br/7faK0hOktO"
       },
       "_last_price": null
     },
