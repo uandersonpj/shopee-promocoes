@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T11:10:10.667525+00:00",
+  "updated_at": "2026-10-04T11:29:10.775179+00:00",
   "total": 1111,
   "products": [
     {
@@ -260,8 +260,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h0-merktp2c64g1a0",
         "productLink": "https://shopee.com.br/product/627750190/23994401668",
         "offerLink": "https://s.shopee.com.br/1LgGSxyE6Z"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23497594302",
@@ -10382,35 +10381,6 @@
       "_last_price": null
     },
     {
-      "id": "22799512020",
-      "name": "Saboneteira Drenável Banheiro Unico ou Dupla Camada Organizador De Parede De Armazenamento",
-      "price": 12.99,
-      "original_price": 28.24,
-      "discount": 54.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mpte6xqtua6a9b",
-      "link": "https://s.shopee.com.br/1AssXy1ft",
-      "rating": "4.8",
-      "sales": 5025,
-      "shop": "Kaym Black",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22799512020,
-        "productName": "Saboneteira Drenável Banheiro Unico ou Dupla Camada Organizador De Parede De Armazenamento",
-        "price": "12.99",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.03",
-        "sales": 5025,
-        "ratingStar": "4.8",
-        "shopName": "Kaym Black",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mpte6xqtua6a9b",
-        "productLink": "https://shopee.com.br/product/398188570/22799512020",
-        "offerLink": "https://s.shopee.com.br/1AssXy1ft"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23694943548",
       "name": "Kit 10 Panos de Microfibra Multiuso Absorção para Limpeza Doméstica Alta",
       "price": 16.49,
@@ -14496,6 +14466,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mcc4llc8xbix14",
         "productLink": "https://shopee.com.br/product/1502069336/19699843252",
         "offerLink": "https://s.shopee.com.br/1qcX3ur2x8"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22799512020",
+      "name": "Saboneteira Drenável Banheiro Unico ou Dupla Camada Organizador De Parede De Armazenamento",
+      "price": 12.99,
+      "original_price": 24.98,
+      "discount": 48.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mpte6xqtua6a9b",
+      "link": "https://s.shopee.com.br/1AssXy1ft",
+      "rating": "4.8",
+      "sales": 5025,
+      "shop": "Kaym Black",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22799512020,
+        "productName": "Saboneteira Drenável Banheiro Unico ou Dupla Camada Organizador De Parede De Armazenamento",
+        "price": "12.99",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.03",
+        "sales": 5025,
+        "ratingStar": "4.8",
+        "shopName": "Kaym Black",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mpte6xqtua6a9b",
+        "productLink": "https://shopee.com.br/product/398188570/22799512020",
+        "offerLink": "https://s.shopee.com.br/1AssXy1ft"
       },
       "_last_price": null
     },
