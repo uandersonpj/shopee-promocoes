@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T21:58:41.649741+00:00",
+  "updated_at": "2026-10-04T22:17:34.388061+00:00",
   "total": 1108,
   "products": [
     {
@@ -488,7 +488,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgzgefeazked3d",
         "productLink": "https://shopee.com.br/product/1613332918/22294440400",
         "offerLink": "https://s.shopee.com.br/8V9R0KJ9wx"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58258026087",
@@ -719,8 +720,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mldt9agkd2x0c0",
         "productLink": "https://shopee.com.br/product/1082873638/23294866358",
         "offerLink": "https://s.shopee.com.br/BUJ4tj3An"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22794275506",
@@ -8458,8 +8458,8 @@
     {
       "id": "22694463642",
       "name": "Forma Air Fryer 50/100/150/200/250 Descartável Antiaderente Redonda Forro De Papel Vegetal",
-      "price": 13.98,
-      "original_price": 33.29,
+      "price": 13.99,
+      "original_price": 33.31,
       "discount": 58.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfa2zn43hdz96b",
@@ -8472,7 +8472,7 @@
       "_item": {
         "itemId": 22694463642,
         "productName": "Forma Air Fryer 50/100/150/200/250 Descartável Antiaderente Redonda Forro De Papel Vegetal",
-        "price": "13.98",
+        "price": "13.99",
         "priceDiscountRate": 58,
         "commissionRate": "0.03",
         "sales": 2595,
@@ -11209,35 +11209,6 @@
       "_last_price": null
     },
     {
-      "id": "58211030740",
-      "name": "DISPENSER PORTA SABÃO DETERGENTE LÍQUIDO COM BUCHA ESPONJA",
-      "price": 13.99,
-      "original_price": 29.77,
-      "discount": 53.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823r7-mogurigpiio937",
-      "link": "https://s.shopee.com.br/40h1dtR8Am",
-      "rating": "4.8",
-      "sales": 2500,
-      "shop": "STORM SHOP",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58211030740,
-        "productName": "DISPENSER PORTA SABÃO DETERGENTE LÍQUIDO COM BUCHA ESPONJA",
-        "price": "13.99",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.07",
-        "sales": 2500,
-        "ratingStar": "4.8",
-        "shopName": "STORM SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r7-mogurigpiio937",
-        "productLink": "https://shopee.com.br/product/941242744/58211030740",
-        "offerLink": "https://s.shopee.com.br/40h1dtR8Am"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23899479691",
       "name": "Aço inoxidável Suporte Porta Esponja para bucha de pia Prateleira de cozinha",
       "price": 8.58,
@@ -11350,6 +11321,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mt487crkc4xw70",
         "productLink": "https://shopee.com.br/product/1869973924/58265448506",
         "offerLink": "https://s.shopee.com.br/2LYnes1Sw1"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23799369338",
+      "name": "Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Presente",
+      "price": 69.99,
+      "original_price": 148.91,
+      "discount": 53.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8261q-ml7f76qzilfsb9",
+      "link": "https://s.shopee.com.br/2VsDrB0pb2",
+      "rating": "4.8",
+      "sales": 3336,
+      "shop": "rcacomercial",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23799369338,
+        "productName": "Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Presente",
+        "price": "69.99",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.07",
+        "sales": 3336,
+        "ratingStar": "4.8",
+        "shopName": "rcacomercial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261q-ml7f76qzilfsb9",
+        "productLink": "https://shopee.com.br/product/1377920727/23799369338",
+        "offerLink": "https://s.shopee.com.br/2VsDrB0pb2"
       },
       "_last_price": null
     },
@@ -16864,35 +16864,6 @@
       "_last_price": null
     },
     {
-      "id": "21399647008",
-      "name": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Antifrizz",
-      "price": 17.9,
-      "original_price": 32.55,
-      "discount": 45.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134201-820l5-mp9hlxe5ga2p7e",
-      "link": "https://s.shopee.com.br/1BMr0IM5Uj",
-      "rating": "4.9",
-      "sales": 2871,
-      "shop": "Salon Line",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21399647008,
-        "productName": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Antifrizz",
-        "price": "17.9",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.18",
-        "sales": 2871,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820l5-mp9hlxe5ga2p7e",
-        "productLink": "https://shopee.com.br/product/616222685/21399647008",
-        "offerLink": "https://s.shopee.com.br/1BMr0IM5Uj"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58215448917",
       "name": "Kit Shampoo e Condicionador + Cronograma Capilar Hidratação/ Nutrição e Reconstrução",
       "price": 29.9,
@@ -19155,6 +19126,35 @@
       "_last_price": null
     },
     {
+      "id": "23694320738",
+      "name": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
+      "price": 50.99,
+      "original_price": 86.42,
+      "discount": 41.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
+      "link": "https://s.shopee.com.br/5Asz20jdJw",
+      "rating": "4.8",
+      "sales": 1142,
+      "shop": "Traxen",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23694320738,
+        "productName": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
+        "price": "50.99",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.03",
+        "sales": 1142,
+        "ratingStar": "4.8",
+        "shopName": "Traxen",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
+        "productLink": "https://shopee.com.br/product/786353833/23694320738",
+        "offerLink": "https://s.shopee.com.br/5Asz20jdJw"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23897962057",
       "name": "Fonte TGT Enfield, 500W, ATX Bivolt, Preto, TGT-EFD-BK01",
       "price": 134.99,
@@ -19731,35 +19731,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mqqx1gayxog225",
         "productLink": "https://shopee.com.br/product/956346509/19698315816",
         "offerLink": "https://s.shopee.com.br/113Q4LhpNt"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23694320738",
-      "name": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-      "price": 50.99,
-      "original_price": 84.98,
-      "discount": 40.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
-      "link": "https://s.shopee.com.br/5Asz20jdJw",
-      "rating": "4.8",
-      "sales": 1142,
-      "shop": "Traxen",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23694320738,
-        "productName": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-        "price": "50.99",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 1142,
-        "ratingStar": "4.8",
-        "shopName": "Traxen",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
-        "productLink": "https://shopee.com.br/product/786353833/23694320738",
-        "offerLink": "https://s.shopee.com.br/5Asz20jdJw"
       },
       "_last_price": null
     },
@@ -29358,6 +29329,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6t32ri0qh3fd",
         "productLink": "https://shopee.com.br/product/1147219225/22298770966",
         "offerLink": "https://s.shopee.com.br/7Ae3PhOLfU"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20175025617",
+      "name": "Dispenser Porta Detergente e Bucha Luxo Cozinha",
+      "price": 41.19,
+      "original_price": 52.14,
+      "discount": 21.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mrlrcmve9s0572",
+      "link": "https://s.shopee.com.br/5q8fpFl5iJ",
+      "rating": "4.9",
+      "sales": 1373,
+      "shop": "SELLNEEDS",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20175025617,
+        "productName": "Dispenser Porta Detergente e Bucha Luxo Cozinha",
+        "price": "41.19",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.13",
+        "sales": 1373,
+        "ratingStar": "4.9",
+        "shopName": "SELLNEEDS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mrlrcmve9s0572",
+        "productLink": "https://shopee.com.br/product/408653169/20175025617",
+        "offerLink": "https://s.shopee.com.br/5q8fpFl5iJ"
       },
       "_last_price": null
     },
