@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-05T01:44:47.960443+00:00",
-  "total": 1105,
+  "updated_at": "2026-10-05T02:03:40.490782+00:00",
+  "total": 1106,
   "products": [
     {
       "id": "58210104632",
@@ -343,8 +343,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-msxmjc85bkzr38",
         "productLink": "https://shopee.com.br/product/1198407784/23497594302",
         "offerLink": "https://s.shopee.com.br/60S61fltJi"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "57911938287",
@@ -10016,7 +10015,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mqv1vtdp7l6qf8",
         "productLink": "https://shopee.com.br/product/512962451/58214587344",
         "offerLink": "https://s.shopee.com.br/1VzgfI1aV3"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23198696676",
@@ -19298,6 +19298,35 @@
       "_last_price": null
     },
     {
+      "id": "19699704487",
+      "name": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
+      "price": 176.4,
+      "original_price": 298.98,
+      "discount": 41.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
+      "link": "https://s.shopee.com.br/113Q4Q6Xdt",
+      "rating": "4.9",
+      "sales": 995,
+      "shop": "Monkey toys",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19699704487,
+        "productName": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
+        "price": "176.4",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.07",
+        "sales": 995,
+        "ratingStar": "4.9",
+        "shopName": "Monkey toys",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
+        "productLink": "https://shopee.com.br/product/406894684/19699704487",
+        "offerLink": "https://s.shopee.com.br/113Q4Q6Xdt"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23198212585",
       "name": "Whey Ultra Protein Concentrado Pote 900g - FTW",
       "price": 64.9,
@@ -27215,35 +27244,6 @@
       "_last_price": null
     },
     {
-      "id": "56150410420",
-      "name": "Vara Telescópica Gomo Longo Traíra – Anéis de Aço | Disponível 3 m / 4 m / 5 m / 6 m – Verde Limão",
-      "price": 49.9,
-      "original_price": 68.36,
-      "discount": 27.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mge3d297ahvpf7",
-      "link": "https://s.shopee.com.br/4fwiRHtxPK",
-      "rating": "4.8",
-      "sales": 367,
-      "shop": "Apolaz",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 56150410420,
-        "productName": "Vara Telescópica Gomo Longo Traíra – Anéis de Aço | Disponível 3 m / 4 m / 5 m / 6 m – Verde Limão",
-        "price": "49.9",
-        "priceDiscountRate": 27,
-        "commissionRate": "0.08",
-        "sales": 367,
-        "ratingStar": "4.8",
-        "shopName": "Apolaz",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mge3d297ahvpf7",
-        "productLink": "https://shopee.com.br/product/230579584/56150410420",
-        "offerLink": "https://s.shopee.com.br/4fwiRHtxPK"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18198165538",
       "name": "Caixa Estojo Organizador até 4 Maleta Parafuso Pesca porcas Agulha Aviamentos ferramenta",
       "price": 18.9,
@@ -29125,6 +29125,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b1-mqz0pmbmpz4404",
         "productLink": "https://shopee.com.br/product/1459376727/56651005420",
         "offerLink": "https://s.shopee.com.br/2gBe3bAm53"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "56150410420",
+      "name": "Vara Telescópica Gomo Longo Traíra – Anéis de Aço | Disponível 3 m / 4 m / 5 m / 6 m – Verde Limão",
+      "price": 49.9,
+      "original_price": 63.97,
+      "discount": 22.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mge3d297ahvpf7",
+      "link": "https://s.shopee.com.br/4fwiRHtxPK",
+      "rating": "4.8",
+      "sales": 367,
+      "shop": "Apolaz",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 56150410420,
+        "productName": "Vara Telescópica Gomo Longo Traíra – Anéis de Aço | Disponível 3 m / 4 m / 5 m / 6 m – Verde Limão",
+        "price": "49.9",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.08",
+        "sales": 367,
+        "ratingStar": "4.8",
+        "shopName": "Apolaz",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mge3d297ahvpf7",
+        "productLink": "https://shopee.com.br/product/230579584/56150410420",
+        "offerLink": "https://s.shopee.com.br/4fwiRHtxPK"
       },
       "_last_price": null
     },
