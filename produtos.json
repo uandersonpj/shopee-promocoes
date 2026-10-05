@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T06:27:32.757429+00:00",
+  "updated_at": "2026-10-05T06:46:22.086827+00:00",
   "total": 1109,
   "products": [
     {
@@ -2284,7 +2284,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/38f05806d01ed654d61cc598c39391ee",
         "productLink": "https://shopee.com.br/product/769957349/17370976709",
         "offerLink": "https://s.shopee.com.br/1qcVosoxfQ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23192646152",
@@ -24790,35 +24791,6 @@
       "_last_price": null
     },
     {
-      "id": "23799198110",
-      "name": "Aparelho Medidor De Pressão Arterial Digital De Braço",
-      "price": 40.3,
-      "original_price": 59.26,
-      "discount": 32.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-822wr-mi5uo9k4z9q958",
-      "link": "https://s.shopee.com.br/7Ae3Pfl9bl",
-      "rating": "4.9",
-      "sales": 7359,
-      "shop": "EletroTop Store",
-      "category": "monitor",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23799198110,
-        "productName": "Aparelho Medidor De Pressão Arterial Digital De Braço",
-        "price": "40.3",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.03",
-        "sales": 7359,
-        "ratingStar": "4.9",
-        "shopName": "EletroTop Store",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822wr-mi5uo9k4z9q958",
-        "productLink": "https://shopee.com.br/product/1553736756/23799198110",
-        "offerLink": "https://s.shopee.com.br/7Ae3Pfl9bl"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23598383807",
       "name": "Teclado Mecanico Mancer Shade MK3, Rainbow, Switch Huano Vermelho, Preto, MCR-SHM3-RBW01RD",
       "price": 121.9,
@@ -28614,6 +28586,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mqrqdfz230n45c",
         "productLink": "https://shopee.com.br/product/291545650/3956922823",
         "offerLink": "https://s.shopee.com.br/6fhmoyLP5e"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23799198110",
+      "name": "Aparelho Medidor De Pressão Arterial Digital De Braço",
+      "price": 45.98,
+      "original_price": 59.71,
+      "discount": 23.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-822wr-mi5uo9k4z9q958",
+      "link": "https://s.shopee.com.br/7Ae3Pfl9bl",
+      "rating": "4.9",
+      "sales": 7359,
+      "shop": "EletroTop Store",
+      "category": "monitor",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23799198110,
+        "productName": "Aparelho Medidor De Pressão Arterial Digital De Braço",
+        "price": "45.98",
+        "priceDiscountRate": 23,
+        "commissionRate": "0.03",
+        "sales": 7359,
+        "ratingStar": "4.9",
+        "shopName": "EletroTop Store",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822wr-mi5uo9k4z9q958",
+        "productLink": "https://shopee.com.br/product/1553736756/23799198110",
+        "offerLink": "https://s.shopee.com.br/7Ae3Pfl9bl"
       },
       "_last_price": null
     },
