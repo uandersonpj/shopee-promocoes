@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T01:20:56.480793+00:00",
-  "total": 1110,
+  "updated_at": "2026-10-06T01:39:45.001376+00:00",
+  "total": 1112,
   "products": [
     {
       "id": "58210104632",
@@ -1883,8 +1883,8 @@
     {
       "id": "41314419184",
       "name": "120ml  Limpador De Vidro Esponja Automotiva Escova De Limpeza Para-Brisa Óleo Filme Agente De Polimento Anti Mancha",
-      "price": 17.99,
-      "original_price": 66.63,
+      "price": 9.99,
+      "original_price": 37.0,
       "discount": 73.0,
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhjxwfmquepu9f",
@@ -1897,7 +1897,7 @@
       "_item": {
         "itemId": 41314419184,
         "productName": "120ml  Limpador De Vidro Esponja Automotiva Escova De Limpeza Para-Brisa Óleo Filme Agente De Polimento Anti Mancha",
-        "price": "17.99",
+        "price": "9.99",
         "priceDiscountRate": 73,
         "commissionRate": "0.11",
         "sales": 2403,
@@ -4715,8 +4715,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyk-mch7z6c4ouee89",
         "productLink": "https://shopee.com.br/product/1489659102/42806494664",
         "offerLink": "https://s.shopee.com.br/5VVpQlaOlg"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58252789748",
@@ -6805,6 +6804,35 @@
       "_last_price": null
     },
     {
+      "id": "58265090177",
+      "name": "Casinha Plástica para Cachorro N9 Extra Grande -",
+      "price": 188.0,
+      "original_price": 482.05,
+      "discount": 61.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lq-mrx63z3it9mubf",
+      "link": "https://s.shopee.com.br/5LCPEPpRYX",
+      "rating": "4.7",
+      "sales": 742,
+      "shop": "MC_Service",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58265090177,
+        "productName": "Casinha Plástica para Cachorro N9 Extra Grande -",
+        "price": "188",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.03",
+        "sales": 742,
+        "ratingStar": "4.7",
+        "shopName": "MC_Service",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mrx63z3it9mubf",
+        "productLink": "https://shopee.com.br/product/1862403124/58265090177",
+        "offerLink": "https://s.shopee.com.br/5LCPEPpRYX"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19297147366",
       "name": "Espremedor Elétrico Industrial Inox p/ Suco de Laranja, Limão e Frutas com Copo Incluso",
       "price": 58.99,
@@ -8570,7 +8598,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mrztp81e9kw7b1",
         "productLink": "https://shopee.com.br/product/1781912896/58265714065",
         "offerLink": "https://s.shopee.com.br/30oUS3DL4Q"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "20499092615",
@@ -9559,35 +9588,6 @@
       "_last_price": null
     },
     {
-      "id": "23298193983",
-      "name": "Colete Boia De Braço e Peito Salva Vidas Piscina Verão Praia Infantil Kids Tema Varios Modelos Menino Até 25kg Não Fura",
-      "price": 39.9,
-      "original_price": 90.68,
-      "discount": 56.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5ymm8a74imo89",
-      "link": "https://s.shopee.com.br/30oXVzU9Cl",
-      "rating": "4.8",
-      "sales": 370,
-      "shop": "SublimaFácil",
-      "category": "colete salva vidas",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23298193983,
-        "productName": "Colete Boia De Braço e Peito Salva Vidas Piscina Verão Praia Infantil Kids Tema Varios Modelos Menino Até 25kg Não Fura",
-        "price": "39.9",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.08",
-        "sales": 370,
-        "ratingStar": "4.8",
-        "shopName": "SublimaFácil",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5ymm8a74imo89",
-        "productLink": "https://shopee.com.br/product/1092916780/23298193983",
-        "offerLink": "https://s.shopee.com.br/30oXVzU9Cl"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58258087449",
       "name": "Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho Café",
       "price": 39.99,
@@ -10552,7 +10552,7 @@
       "discount": 54.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mtpn8wol4tmob2",
-      "link": "https://s.shopee.com.br/2gBe3asy9t",
+      "link": "https://s.shopee.com.br/2gBh7NVPsf",
       "rating": "4.9",
       "sales": 279,
       "shop": "chetsvests",
@@ -10569,7 +10569,7 @@
         "shopName": "chetsvests",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mtpn8wol4tmob2",
         "productLink": "https://shopee.com.br/product/1791706043/58258189007",
-        "offerLink": "https://s.shopee.com.br/2gBe3asy9t"
+        "offerLink": "https://s.shopee.com.br/2gBh7NVPsf"
       },
       "_last_price": null
     },
@@ -14546,6 +14546,63 @@
       "_last_price": null
     },
     {
+      "id": "22294439852",
+      "name": "Boia infantil de natação colete flutuante de 1 a 6 anos Segurança Garantida",
+      "price": 27.56,
+      "original_price": 53.0,
+      "discount": 48.0,
+      "commission": 20.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7azorh5y4i4dd",
+      "link": "https://s.shopee.com.br/1qcX44DwlW",
+      "rating": "4.8",
+      "sales": 900,
+      "shop": "LOJA Celt 05",
+      "category": "colete salva vidas",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22294439852,
+        "productName": "Boia infantil de natação colete flutuante de 1 a 6 anos Segurança Garantida",
+        "price": "27.56",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.2",
+        "sales": 900,
+        "ratingStar": "4.8",
+        "shopName": "LOJA Celt 05",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7azorh5y4i4dd",
+        "productLink": "https://shopee.com.br/product/1619868980/22294439852",
+        "offerLink": "https://s.shopee.com.br/1qcX44DwlW"
+      }
+    },
+    {
+      "id": "22198950257",
+      "name": "Boia infantil de natação colete flutuante de 1 a 6 anos Nova Promoção Com Trave De Segurança",
+      "price": 27.56,
+      "original_price": 53.0,
+      "discount": 48.0,
+      "commission": 20.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mm1x29cyrxfkc5",
+      "link": "https://s.shopee.com.br/2LYnezC2kh",
+      "rating": "4.8",
+      "sales": 644,
+      "shop": "LOJA Celt 05",
+      "category": "colete salva vidas",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22198950257,
+        "productName": "Boia infantil de natação colete flutuante de 1 a 6 anos Nova Promoção Com Trave De Segurança",
+        "price": "27.56",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.2",
+        "sales": 644,
+        "ratingStar": "4.8",
+        "shopName": "LOJA Celt 05",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mm1x29cyrxfkc5",
+        "productLink": "https://shopee.com.br/product/1619868980/22198950257",
+        "offerLink": "https://s.shopee.com.br/2LYnezC2kh"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19499542961",
       "name": "Colete De Natação Infantil Boia Salva Vidas Inflável Ideal Praia e Piscina Trava de Segurança Resistente",
       "price": 12.99,
@@ -17181,35 +17238,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mlqdz8x36nlsfc",
         "productLink": "https://shopee.com.br/product/1429982972/21099570207",
         "offerLink": "https://s.shopee.com.br/50ZYpt1tLT"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "44423564731",
-      "name": "Boia Infantil Colete Flutuador Premium Com Bracadeira De Segurança 1 a 7 Anos NÃO FURA AcquaFun",
-      "price": 43.99,
-      "original_price": 79.98,
-      "discount": 45.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztg-mko5we3e3e2pbf",
-      "link": "https://s.shopee.com.br/50ZbtfMX95",
-      "rating": "4.9",
-      "sales": 363,
-      "shop": "Tuka Brinquedos & Presentes",
-      "category": "colete salva vidas",
-      "source": "shopee",
-      "_item": {
-        "itemId": 44423564731,
-        "productName": "Boia Infantil Colete Flutuador Premium Com Bracadeira De Segurança 1 a 7 Anos NÃO FURA AcquaFun",
-        "price": "43.99",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.11",
-        "sales": 363,
-        "ratingStar": "4.9",
-        "shopName": "Tuka Brinquedos & Presentes",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztg-mko5we3e3e2pbf",
-        "productLink": "https://shopee.com.br/product/476143858/44423564731",
-        "offerLink": "https://s.shopee.com.br/50ZbtfMX95"
       },
       "_last_price": null
     },
@@ -20085,6 +20113,35 @@
       "_last_price": null
     },
     {
+      "id": "43828181509",
+      "name": "Rampa Casa de Gato Toca Para Gatos Arranhador Brinquedo Playground MDF Carpete 30x47x30cm",
+      "price": 29.9,
+      "original_price": 49.83,
+      "discount": 40.0,
+      "commission": 14.000000000000002,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjppm99xbuh244",
+      "link": "https://s.shopee.com.br/4fwiRBryuK",
+      "rating": "4.6",
+      "sales": 1837,
+      "shop": "ACB UTILIDADES",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 43828181509,
+        "productName": "Rampa Casa de Gato Toca Para Gatos Arranhador Brinquedo Playground MDF Carpete 30x47x30cm",
+        "price": "29.9",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.14",
+        "sales": 1837,
+        "ratingStar": "4.6",
+        "shopName": "ACB UTILIDADES",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjppm99xbuh244",
+        "productLink": "https://shopee.com.br/product/775360591/43828181509",
+        "offerLink": "https://s.shopee.com.br/4fwiRBryuK"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58253767614",
       "name": "Arranhador Gato Rampa Anti Estresse Casinha Brinquedo Tóca 30x47cm",
       "price": 29.9,
@@ -21506,6 +21563,35 @@
       "_last_price": null
     },
     {
+      "id": "48055804188",
+      "name": "🔥4 Pçs Suporte De Vara De Pesca De Metal Ajustável Quadro Fixo Suprimentos",
+      "price": 57.85,
+      "original_price": 93.31,
+      "discount": 38.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82632-mk9dovjmqt54e9",
+      "link": "https://s.shopee.com.br/5Asz2EV6sK",
+      "rating": "4.7",
+      "sales": 26,
+      "shop": "tameiadzig.br",
+      "category": "suporte vara pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 48055804188,
+        "productName": "🔥4 Pçs Suporte De Vara De Pesca De Metal Ajustável Quadro Fixo Suprimentos",
+        "price": "57.85",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.07",
+        "sales": 26,
+        "ratingStar": "4.7",
+        "shopName": "tameiadzig.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82632-mk9dovjmqt54e9",
+        "productLink": "https://shopee.com.br/product/207174365/48055804188",
+        "offerLink": "https://s.shopee.com.br/5Asz2EV6sK"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23799229847",
       "name": "SSD Kingston NV3, 500GB, M.2 NVMe, 2280, PCIe 4.0, Leitura 5000MBs e Gravação 3000MBs, SNV3S/500G",
       "price": 869.99,
@@ -21589,35 +21675,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjra6ztninsy49",
         "productLink": "https://shopee.com.br/product/1478225841/22693835808",
         "offerLink": "https://s.shopee.com.br/AUuVNnCXDg"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58259066940",
-      "name": "Repetidor WiFi 300Mbps 4 Antenas Amplificador de Sinal Wireless 2.4GHz Roteador Extensor-G8",
-      "price": 62.99,
-      "original_price": 99.98,
-      "discount": 37.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mny3i5vsyqroec",
-      "link": "https://s.shopee.com.br/4LJs2TDXUm",
-      "rating": "4.7",
-      "sales": 7,
-      "shop": "jieke701",
-      "category": "roteador wifi",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58259066940,
-        "productName": "Repetidor WiFi 300Mbps 4 Antenas Amplificador de Sinal Wireless 2.4GHz Roteador Extensor-G8",
-        "price": "62.99",
-        "priceDiscountRate": 37,
-        "commissionRate": "0.11",
-        "sales": 7,
-        "ratingStar": "4.7",
-        "shopName": "jieke701",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mny3i5vsyqroec",
-        "productLink": "https://shopee.com.br/product/1654609614/58259066940",
-        "offerLink": "https://s.shopee.com.br/4LJs2TDXUm"
       },
       "_last_price": null
     },
@@ -22579,35 +22636,6 @@
       "_last_price": null
     },
     {
-      "id": "21598777670",
-      "name": "Casinha Pet Cachorro N3 + Caminha Para Cachorro Casinha Para Cachorro Caminha de Cachorro",
-      "price": 44.9,
-      "original_price": 70.16,
-      "discount": 36.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcwg5y18qnsxd2",
-      "link": "https://s.shopee.com.br/30oXVuJ2JV",
-      "rating": "4.8",
-      "sales": 489,
-      "shop": "Pet Tobby",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21598777670,
-        "productName": "Casinha Pet Cachorro N3 + Caminha Para Cachorro Casinha Para Cachorro Caminha de Cachorro",
-        "price": "44.9",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.11",
-        "sales": 489,
-        "ratingStar": "4.8",
-        "shopName": "Pet Tobby",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcwg5y18qnsxd2",
-        "productLink": "https://shopee.com.br/product/829646892/21598777670",
-        "offerLink": "https://s.shopee.com.br/30oXVuJ2JV"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22498328593",
       "name": "Kit Transportador Ajustável para Cães e Gatos com Coleira de Malha para Todas as Estações",
       "price": 18.71,
@@ -23304,35 +23332,6 @@
       "_last_price": null
     },
     {
-      "id": "58209955451",
-      "name": "Descalcificante Limpa Cafeteira Expresso Maquina Nespresso Dolce Gusto 3 Corações Café Dentro Limpez",
-      "price": 17.89,
-      "original_price": 27.52,
-      "discount": 35.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mnp4nu9pryf625",
-      "link": "https://s.shopee.com.br/50ZYpohVdO",
-      "rating": "4.9",
-      "sales": 1782,
-      "shop": "Oferta Day",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58209955451,
-        "productName": "Descalcificante Limpa Cafeteira Expresso Maquina Nespresso Dolce Gusto 3 Corações Café Dentro Limpez",
-        "price": "17.89",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.18",
-        "sales": 1782,
-        "ratingStar": "4.9",
-        "shopName": "Oferta Day",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mnp4nu9pryf625",
-        "productLink": "https://shopee.com.br/product/1552460828/58209955451",
-        "offerLink": "https://s.shopee.com.br/50ZYpohVdO"
-      },
-      "_last_price": null
-    },
-    {
       "id": "51608731933",
       "name": "Panela de Pressão 4,5L Com Visor Fechamento Interno Antiaderente MTA CORES",
       "price": 149.99,
@@ -23797,35 +23796,6 @@
       "_last_price": null
     },
     {
-      "id": "13435249728",
-      "name": "Caminha Casinha Pet Cama GG Grande Cachorro Grande Cão e Gato",
-      "price": 65.99,
-      "original_price": 99.98,
-      "discount": 34.0,
-      "commission": 23.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivnw76gufwia0",
-      "link": "https://s.shopee.com.br/3B7xiDIOyW",
-      "rating": "4.9",
-      "sales": 436,
-      "shop": "Sono Pet",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 13435249728,
-        "productName": "Caminha Casinha Pet Cama GG Grande Cachorro Grande Cão e Gato",
-        "price": "65.99",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.23",
-        "sales": 436,
-        "ratingStar": "4.9",
-        "shopName": "Sono Pet",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivnw76gufwia0",
-        "productLink": "https://shopee.com.br/product/491375846/13435249728",
-        "offerLink": "https://s.shopee.com.br/3B7xiDIOyW"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58261084738",
       "name": "Óculos De Grau Automático Perto/Longe (Escurece no Sol)",
       "price": 39.0,
@@ -23967,6 +23937,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6dbywlo5kslf5",
         "productLink": "https://shopee.com.br/product/596156024/23998205183",
         "offerLink": "https://s.shopee.com.br/9zyEn68iK6"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20597494947",
+      "name": "Saca Areia Fixador Âncora Suporte Guarda Sol E Vara De Pesca Praia Verão Camping Cores Variadas",
+      "price": 19.74,
+      "original_price": 29.91,
+      "discount": 34.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbl1-lnvsaqnslu3qe2",
+      "link": "https://s.shopee.com.br/2VsDrKfGI4",
+      "rating": "4.9",
+      "sales": 56,
+      "shop": "PENSOU.COMPROU.LEVOU",
+      "category": "suporte vara pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20597494947,
+        "productName": "Saca Areia Fixador Âncora Suporte Guarda Sol E Vara De Pesca Praia Verão Camping Cores Variadas",
+        "price": "19.74",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.03",
+        "sales": 56,
+        "ratingStar": "4.9",
+        "shopName": "PENSOU.COMPROU.LEVOU",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbl1-lnvsaqnslu3qe2",
+        "productLink": "https://shopee.com.br/product/1074001909/20597494947",
+        "offerLink": "https://s.shopee.com.br/2VsDrKfGI4"
       },
       "_last_price": null
     },
@@ -28639,6 +28638,35 @@
       "_last_price": null
     },
     {
+      "id": "23497638085",
+      "name": "Colete Salva Vidas Wave Jogá Infantil Adulto Flutuação Cor",
+      "price": 77.02,
+      "original_price": 101.34,
+      "discount": 24.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxz-m08rn05paasuf1",
+      "link": "https://s.shopee.com.br/4fwiRH3A1N",
+      "rating": "4.9",
+      "sales": 485,
+      "shop": "FL Ship",
+      "category": "colete salva vidas",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23497638085,
+        "productName": "Colete Salva Vidas Wave Jogá Infantil Adulto Flutuação Cor",
+        "price": "77.02",
+        "priceDiscountRate": 24,
+        "commissionRate": "0.03",
+        "sales": 485,
+        "ratingStar": "4.9",
+        "shopName": "FL Ship",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxz-m08rn05paasuf1",
+        "productLink": "https://shopee.com.br/product/1218728182/23497638085",
+        "offerLink": "https://s.shopee.com.br/4fwiRH3A1N"
+      },
+      "_last_price": null
+    },
+    {
       "id": "45557096111",
       "name": "Kit Banqueta Dobrável Com Alça Suporta 150kg Reforçada Camping Rancho Pesca",
       "price": 37.9,
@@ -29244,6 +29272,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zun-mkylo39wp728f3",
         "productLink": "https://shopee.com.br/product/264378857/58205432494",
         "offerLink": "https://s.shopee.com.br/6L4wQHkcdk"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "56651005420",
+      "name": "Boia Colete Infantil",
+      "price": 64.99,
+      "original_price": 83.32,
+      "discount": 22.0,
+      "commission": 25.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825b1-mqz0pmbmpz4404",
+      "link": "https://s.shopee.com.br/2gBe3bAm53",
+      "rating": "4.9",
+      "sales": 412,
+      "shop": "WON Esportes",
+      "category": "colete salva vidas",
+      "source": "shopee",
+      "_item": {
+        "itemId": 56651005420,
+        "productName": "Boia Colete Infantil",
+        "price": "64.99",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.25",
+        "sales": 412,
+        "ratingStar": "4.9",
+        "shopName": "WON Esportes",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b1-mqz0pmbmpz4404",
+        "productLink": "https://shopee.com.br/product/1459376727/56651005420",
+        "offerLink": "https://s.shopee.com.br/2gBe3bAm53"
       },
       "_last_price": null
     },
@@ -30118,6 +30175,35 @@
       "_last_price": null
     },
     {
+      "id": "58209955451",
+      "name": "Descalcificante Limpa Cafeteira Expresso Maquina Nespresso Dolce Gusto 3 Corações Café Dentro Limpez",
+      "price": 21.9,
+      "original_price": 27.37,
+      "discount": 20.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mnp4nu9pryf625",
+      "link": "https://s.shopee.com.br/50ZYpohVdO",
+      "rating": "4.9",
+      "sales": 1782,
+      "shop": "Oferta Day",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58209955451,
+        "productName": "Descalcificante Limpa Cafeteira Expresso Maquina Nespresso Dolce Gusto 3 Corações Café Dentro Limpez",
+        "price": "21.9",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.18",
+        "sales": 1782,
+        "ratingStar": "4.9",
+        "shopName": "Oferta Day",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mnp4nu9pryf625",
+        "productLink": "https://shopee.com.br/product/1552460828/58209955451",
+        "offerLink": "https://s.shopee.com.br/50ZYpohVdO"
+      },
+      "_last_price": null
+    },
+    {
       "id": "51263661034",
       "name": "Conjunto de 2 óculos de sol feminino, estilo retrô clássico, com armação redonda de metal, design coreano, proteção UV",
       "price": 13.0,
@@ -30346,35 +30432,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me7jrmrfqww3cd",
         "productLink": "https://shopee.com.br/product/1316730580/41054174116",
         "offerLink": "https://s.shopee.com.br/4LJs2hYHZF"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21199863406",
-      "name": "Suportes De Vara Ultra light De Pesca pesqueiro Para Peixes tilápia Suporte Praia Aço Inoxidável Ajustável 360 Graus",
-      "price": 35.92,
-      "original_price": 44.9,
-      "discount": 20.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824gd-mdvvgvb800si3b",
-      "link": "https://s.shopee.com.br/40h4hs3CMM",
-      "rating": "4.8",
-      "sales": 58,
-      "shop": "Blend.Bella LTDA",
-      "category": "suporte vara pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21199863406,
-        "productName": "Suportes De Vara Ultra light De Pesca pesqueiro Para Peixes tilápia Suporte Praia Aço Inoxidável Ajustável 360 Graus",
-        "price": "35.92",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.03",
-        "sales": 58,
-        "ratingStar": "4.8",
-        "shopName": "Blend.Bella LTDA",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gd-mdvvgvb800si3b",
-        "productLink": "https://shopee.com.br/product/711794399/21199863406",
-        "offerLink": "https://s.shopee.com.br/40h4hs3CMM"
       },
       "_last_price": null
     },
