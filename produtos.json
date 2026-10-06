@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T20:56:50.199696+00:00",
-  "total": 1115,
+  "updated_at": "2026-10-06T21:15:51.903368+00:00",
+  "total": 1118,
   "products": [
     {
       "id": "50203126324",
@@ -925,7 +925,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyp5enbirpg574",
         "productLink": "https://shopee.com.br/product/443105265/23897691943",
         "offerLink": "https://s.shopee.com.br/4B0U6mynf3"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58200141324",
@@ -1882,8 +1883,8 @@
     {
       "id": "41314419184",
       "name": "120ml  Limpador De Vidro Esponja Automotiva Escova De Limpeza Para-Brisa Óleo Filme Agente De Polimento Anti Mancha",
-      "price": 9.99,
-      "original_price": 37.0,
+      "price": 17.99,
+      "original_price": 66.63,
       "discount": 73.0,
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhjxwfmquepu9f",
@@ -1896,7 +1897,7 @@
       "_item": {
         "itemId": 41314419184,
         "productName": "120ml  Limpador De Vidro Esponja Automotiva Escova De Limpeza Para-Brisa Óleo Filme Agente De Polimento Anti Mancha",
-        "price": "9.99",
+        "price": "17.99",
         "priceDiscountRate": 73,
         "commissionRate": "0.11",
         "sales": 2445,
@@ -2108,6 +2109,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mlz2c2b6jrie01",
         "productLink": "https://shopee.com.br/product/1384102065/18997980494",
         "offerLink": "https://s.shopee.com.br/905lSIrdIf"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58266336951",
+      "name": "Vara de Pesca Lure Telescópica Spinning 1,65m Recolhida 43cm Vara Carbono Portátil para Pesca Tucunaré Água Doce",
+      "price": 39.99,
+      "original_price": 148.11,
+      "discount": 73.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mtolww79jgn783",
+      "link": "https://s.shopee.com.br/9zyJAvpHO9",
+      "rating": "5",
+      "sales": 81,
+      "shop": "MagiLeaf Outdoor",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58266336951,
+        "productName": "Vara de Pesca Lure Telescópica Spinning 1,65m Recolhida 43cm Vara Carbono Portátil para Pesca Tucunaré Água Doce",
+        "price": "39.99",
+        "priceDiscountRate": 73,
+        "commissionRate": "0.07",
+        "sales": 81,
+        "ratingStar": "5",
+        "shopName": "MagiLeaf Outdoor",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mtolww79jgn783",
+        "productLink": "https://shopee.com.br/product/1506274241/58266336951",
+        "offerLink": "https://s.shopee.com.br/9zyJAvpHO9"
       },
       "_last_price": null
     },
@@ -2542,8 +2572,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820mv-mnf4zio1phxcc1",
         "productLink": "https://shopee.com.br/product/1623372329/23399440790",
         "offerLink": "https://s.shopee.com.br/3VkpJ2JmyZ"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "54850610196",
@@ -3469,6 +3498,35 @@
       }
     },
     {
+      "id": "40808171993",
+      "name": "Sougayilang Vara De Pesca Telescópica Portátil , 4 Cores , 1.8m-3.0m , Equipamento Ao Ar Livre , De Carpa , Fibra De Car",
+      "price": 52.0,
+      "original_price": 167.74,
+      "discount": 69.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mc1ssg3ocmgtac",
+      "link": "https://s.shopee.com.br/9pesycpuj4",
+      "rating": "4.9",
+      "sales": 105,
+      "shop": "sougayilanglocal5.br",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 40808171993,
+        "productName": "Sougayilang Vara De Pesca Telescópica Portátil , 4 Cores , 1.8m-3.0m , Equipamento Ao Ar Livre , De Carpa , Fibra De Car",
+        "price": "52",
+        "priceDiscountRate": 69,
+        "commissionRate": "0.13",
+        "sales": 105,
+        "ratingStar": "4.9",
+        "shopName": "sougayilanglocal5.br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mc1ssg3ocmgtac",
+        "productLink": "https://shopee.com.br/product/1511719153/40808171993",
+        "offerLink": "https://s.shopee.com.br/9pesycpuj4"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20299250319",
       "name": "Monitor digital de pressão arterial de braço totalmente automático anjgg",
       "price": 38.99,
@@ -4222,6 +4280,35 @@
       "_last_price": null
     },
     {
+      "id": "22594316058",
+      "name": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
+      "price": 22.99,
+      "original_price": 69.67,
+      "discount": 67.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
+      "link": "https://s.shopee.com.br/8AWezYwG6q",
+      "rating": "4.7",
+      "sales": 82,
+      "shop": "ATACADO PESCA E CIA",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22594316058,
+        "productName": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
+        "price": "22.99",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.07",
+        "sales": 82,
+        "ratingStar": "4.7",
+        "shopName": "ATACADO PESCA E CIA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
+        "productLink": "https://shopee.com.br/product/1595150949/22594316058",
+        "offerLink": "https://s.shopee.com.br/8AWezYwG6q"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23995139547",
       "name": "Faca De Frutas Aço Inox Com Bainha Mini Faca Para Piquenique caça pesca camping churrasco",
       "price": 9.98,
@@ -4247,35 +4334,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mrj3tt6lqjut31",
         "productLink": "https://shopee.com.br/product/1614832008/23995139547",
         "offerLink": "https://s.shopee.com.br/7faK0o08TV"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22594316058",
-      "name": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
-      "price": 22.99,
-      "original_price": 69.67,
-      "discount": 67.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
-      "link": "https://s.shopee.com.br/905jrkeJLm",
-      "rating": "4.7",
-      "sales": 82,
-      "shop": "ATACADO PESCA E CIA",
-      "category": "chumbada",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22594316058,
-        "productName": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
-        "price": "22.99",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.07",
-        "sales": 82,
-        "ratingStar": "4.7",
-        "shopName": "ATACADO PESCA E CIA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
-        "productLink": "https://shopee.com.br/product/1595150949/22594316058",
-        "offerLink": "https://s.shopee.com.br/905jrkeJLm"
       },
       "_last_price": null
     },
@@ -5523,35 +5581,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mslmq9g7mwas80",
         "productLink": "https://shopee.com.br/product/324680904/3958758961",
         "offerLink": "https://s.shopee.com.br/4VdIEvR0P2"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58264092360",
-      "name": "Kit Vara Telescópica Lisa Ultra Leve Retrátil 40% Fibra De Carbono 1,80m 2,10m 2,40m 3,00m 3,60m 4,00m 4,50m 5,40m Cmik",
-      "price": 35.68,
-      "original_price": 99.11,
-      "discount": 64.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mqjlehkuqdc2ed",
-      "link": "https://s.shopee.com.br/4B0RqMvrQB",
-      "rating": "4.9",
-      "sales": 616,
-      "shop": "PescaShop",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58264092360,
-        "productName": "Kit Vara Telescópica Lisa Ultra Leve Retrátil 40% Fibra De Carbono 1,80m 2,10m 2,40m 3,00m 3,60m 4,00m 4,50m 5,40m Cmik",
-        "price": "35.68",
-        "priceDiscountRate": 64,
-        "commissionRate": "0.03",
-        "sales": 616,
-        "ratingStar": "4.9",
-        "shopName": "PescaShop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mqjlehkuqdc2ed",
-        "productLink": "https://shopee.com.br/product/361954967/58264092360",
-        "offerLink": "https://s.shopee.com.br/4B0RqMvrQB"
       },
       "_last_price": null
     },
@@ -7099,7 +7128,7 @@
       "commission": 24.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8258c-mr7glt25yfia49",
       "link": "https://s.shopee.com.br/3B7ueMzAb8",
-      "rating": "4.3",
+      "rating": "4.2",
       "sales": 571,
       "shop": "F6 Personalizados",
       "category": "pano microfibra",
@@ -7111,7 +7140,7 @@
         "priceDiscountRate": 60,
         "commissionRate": "0.24",
         "sales": 571,
-        "ratingStar": "4.3",
+        "ratingStar": "4.2",
         "shopName": "F6 Personalizados",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258c-mr7glt25yfia49",
         "productLink": "https://shopee.com.br/product/697901648/46915030093",
@@ -7475,7 +7504,7 @@
       "discount": 60.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9h2ynh16epuf7",
-      "link": "https://s.shopee.com.br/AUuVNxdDxk",
+      "link": "https://s.shopee.com.br/4qGD1NoA4N",
       "rating": "4.7",
       "sales": 277,
       "shop": "Bàodān Garantia oficial",
@@ -7492,7 +7521,7 @@
         "shopName": "Bàodān Garantia oficial",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9h2ynh16epuf7",
         "productLink": "https://shopee.com.br/product/1133907149/22993262488",
-        "offerLink": "https://s.shopee.com.br/AUuVNxdDxk"
+        "offerLink": "https://s.shopee.com.br/4qGD1NoA4N"
       },
       "_last_price": null
     },
@@ -10131,6 +10160,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mtgs7vsxaq6aeb",
         "productLink": "https://shopee.com.br/product/1480594679/22794276330",
         "offerLink": "https://s.shopee.com.br/3Vkl39Fzva"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22594566643",
+      "name": "Vara Telescópica Bali 88% Carbono 5.4m  Albatroz",
+      "price": 89.99,
+      "original_price": 199.98,
+      "discount": 55.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825b7-mg5o18qgkgem55",
+      "link": "https://s.shopee.com.br/80DEnFwtRp",
+      "rating": "4.7",
+      "sales": 80,
+      "shop": "SSR ESTRELA",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22594566643,
+        "productName": "Vara Telescópica Bali 88% Carbono 5.4m  Albatroz",
+        "price": "89.99",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.11",
+        "sales": 80,
+        "ratingStar": "4.7",
+        "shopName": "SSR ESTRELA",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b7-mg5o18qgkgem55",
+        "productLink": "https://shopee.com.br/product/1480594679/22594566643",
+        "offerLink": "https://s.shopee.com.br/80DEnFwtRp"
       },
       "_last_price": null
     },
@@ -15849,12 +15907,12 @@
     },
     {
       "id": "22998482488",
-      "name": "Sachê Friskies para Gatos – Kit com 15 Unidades – envio imediato",
+      "name": "Kit 15 Unidades de Sachês Friskies Original para Gatos Adultos Ração Úmida 85g - Escolha o Sabor",
       "price": 41.49,
       "original_price": 76.83,
       "discount": 46.0,
       "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-min6so3iwow208",
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mtzp049rfh8j75",
       "link": "https://s.shopee.com.br/AUuXSiDAuy",
       "rating": "4.9",
       "sales": 3516,
@@ -15863,14 +15921,14 @@
       "source": "shopee",
       "_item": {
         "itemId": 22998482488,
-        "productName": "Sachê Friskies para Gatos – Kit com 15 Unidades – envio imediato",
+        "productName": "Kit 15 Unidades de Sachês Friskies Original para Gatos Adultos Ração Úmida 85g - Escolha o Sabor",
         "price": "41.49",
         "priceDiscountRate": 46,
         "commissionRate": "0.06",
         "sales": 3516,
         "ratingStar": "4.9",
         "shopName": "Morato Agropecuária",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-min6so3iwow208",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mtzp049rfh8j75",
         "productLink": "https://shopee.com.br/product/1055269003/22998482488",
         "offerLink": "https://s.shopee.com.br/AUuXSiDAuy"
       },
@@ -17015,7 +17073,7 @@
       "discount": 45.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lq-mtd6a5qmhurn42",
-      "link": "https://s.shopee.com.br/6q1D1DVK3o",
+      "link": "https://s.shopee.com.br/4fwmp4onPK",
       "rating": "4.8",
       "sales": 430,
       "shop": "MagiLeaf Wild",
@@ -17032,7 +17090,7 @@
         "shopName": "MagiLeaf Wild",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mtd6a5qmhurn42",
         "productLink": "https://shopee.com.br/product/1600162028/58208800511",
-        "offerLink": "https://s.shopee.com.br/6q1D1DVK3o"
+        "offerLink": "https://s.shopee.com.br/4fwmp4onPK"
       },
       "_last_price": null
     },
@@ -17653,7 +17711,7 @@
       "discount": 44.0,
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv3adwowef8dea",
-      "link": "https://s.shopee.com.br/20vwqFKwx7",
+      "link": "https://s.shopee.com.br/4B0WE9qhQB",
       "rating": "4.7",
       "sales": 185,
       "shop": "Produuuu",
@@ -17670,7 +17728,7 @@
         "shopName": "Produuuu",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv3adwowef8dea",
         "productLink": "https://shopee.com.br/product/316475205/22293005116",
-        "offerLink": "https://s.shopee.com.br/20vwqFKwx7"
+        "offerLink": "https://s.shopee.com.br/4B0WE9qhQB"
       },
       "_last_price": null
     },
@@ -19509,7 +19567,7 @@
       "discount": 41.0,
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mtsmpj3pp6v424",
-      "link": "https://s.shopee.com.br/6VOMceQm0N",
+      "link": "https://s.shopee.com.br/2gBiROwPT0",
       "rating": "4.7",
       "sales": 355,
       "shop": "Loja Sao Miguel Multicoisas",
@@ -19526,7 +19584,7 @@
         "shopName": "Loja Sao Miguel Multicoisas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mtsmpj3pp6v424",
         "productLink": "https://shopee.com.br/product/375688601/42620071435",
-        "offerLink": "https://s.shopee.com.br/6VOMceQm0N"
+        "offerLink": "https://s.shopee.com.br/2gBiROwPT0"
       },
       "_last_price": null
     },
@@ -21017,7 +21075,7 @@
       "discount": 39.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134201-22120-5wgswet50clv4e",
-      "link": "https://s.shopee.com.br/30oUSE0In2",
+      "link": "https://s.shopee.com.br/50ZdDgnWjM",
       "rating": "4.8",
       "sales": 358,
       "shop": "PescaShop",
@@ -21034,7 +21092,7 @@
         "shopName": "PescaShop",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-22120-5wgswet50clv4e",
         "productLink": "https://shopee.com.br/product/361954967/23413221795",
-        "offerLink": "https://s.shopee.com.br/30oUSE0In2"
+        "offerLink": "https://s.shopee.com.br/50ZdDgnWjM"
       },
       "_last_price": null
     },
@@ -22206,7 +22264,7 @@
       "discount": 37.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mja7widet5ojfe",
-      "link": "https://s.shopee.com.br/4qG9JB7fkL",
+      "link": "https://s.shopee.com.br/30oYq0v8n2",
       "rating": "4.9",
       "sales": 362,
       "shop": "Calicanto Distribuidora",
@@ -22223,7 +22281,7 @@
         "shopName": "Calicanto Distribuidora",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mja7widet5ojfe",
         "productLink": "https://shopee.com.br/product/389215968/23199279881",
-        "offerLink": "https://s.shopee.com.br/4qG9JB7fkL"
+        "offerLink": "https://s.shopee.com.br/30oYq0v8n2"
       },
       "_last_price": null
     },
@@ -25592,6 +25650,35 @@
       "_last_price": null
     },
     {
+      "id": "58209513764",
+      "name": "KIT COM 03 VARA TELESCOPICAS REDFOX NEW FUJIAMA 65% CARBONO",
+      "price": 51.0,
+      "original_price": 73.91,
+      "discount": 31.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mqyt920ftsee19",
+      "link": "https://s.shopee.com.br/AUuZlqnNNG",
+      "rating": "4.9",
+      "sales": 72,
+      "shop": "REDFOX PESCA",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58209513764,
+        "productName": "KIT COM 03 VARA TELESCOPICAS REDFOX NEW FUJIAMA 65% CARBONO",
+        "price": "51",
+        "priceDiscountRate": 31,
+        "commissionRate": "0.11",
+        "sales": 72,
+        "ratingStar": "4.9",
+        "shopName": "REDFOX PESCA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mqyt920ftsee19",
+        "productLink": "https://shopee.com.br/product/594036051/58209513764",
+        "offerLink": "https://s.shopee.com.br/AUuZlqnNNG"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23294557627",
       "name": "kit 2 Blusas Térmicas Uv 50 Segunda Pele Manga Longa Unissex Praia Moto Pesca Casual Ciclista",
       "price": 34.49,
@@ -26034,7 +26121,7 @@
       "discount": 30.0,
       "commission": 18.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mn49jc94sf7ka1",
-      "link": "https://s.shopee.com.br/6fhmouVxOn",
+      "link": "https://s.shopee.com.br/5At3PzmtOP",
       "rating": "4.7",
       "sales": 427,
       "shop": "Pereira Lima Variedades",
@@ -26051,7 +26138,7 @@
         "shopName": "Pereira Lima Variedades",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mn49jc94sf7ka1",
         "productLink": "https://shopee.com.br/product/1589345123/23099448490",
-        "offerLink": "https://s.shopee.com.br/6fhmouVxOn"
+        "offerLink": "https://s.shopee.com.br/5At3PzmtOP"
       },
       "_last_price": null
     },
@@ -26110,35 +26197,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257w-ms37brvyy7ewce",
         "productLink": "https://shopee.com.br/product/733707036/12392388153",
         "offerLink": "https://s.shopee.com.br/1LgGT8y2s1"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "19498994816",
-      "name": "Vara Telescópica Traíra Gomo Longo Verde de 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
-      "price": 34.99,
-      "original_price": 49.99,
-      "discount": 30.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mrum3qjdefpib5",
-      "link": "https://s.shopee.com.br/1gJ6rm5NUu",
-      "rating": "4.8",
-      "sales": 183,
-      "shop": "JAUPESCA",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19498994816,
-        "productName": "Vara Telescópica Traíra Gomo Longo Verde de 2.20m, 3.00m, 4.00m, 5.00m, 6.00m ou 7.00mm de 10-20lbs - Jaú Pesca",
-        "price": "34.99",
-        "priceDiscountRate": 30,
-        "commissionRate": "0.07",
-        "sales": 183,
-        "ratingStar": "4.8",
-        "shopName": "JAUPESCA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mrum3qjdefpib5",
-        "productLink": "https://shopee.com.br/product/954428278/19498994816",
-        "offerLink": "https://s.shopee.com.br/1gJ6rm5NUu"
       },
       "_last_price": null
     },
@@ -26781,6 +26839,64 @@
       "_last_price": null
     },
     {
+      "id": "18099289396",
+      "name": "Vara Telescópica RedFox Fujiama– 65% Carbono, Resistência Profissional (1,80m a 5,00m) unidade",
+      "price": 27.7,
+      "original_price": 39.01,
+      "discount": 29.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mqyt920fsdtye0",
+      "link": "https://s.shopee.com.br/9fLSmJqY43",
+      "rating": "4.8",
+      "sales": 87,
+      "shop": "REDFOX PESCA",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18099289396,
+        "productName": "Vara Telescópica RedFox Fujiama– 65% Carbono, Resistência Profissional (1,80m a 5,00m) unidade",
+        "price": "27.7",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.11",
+        "sales": 87,
+        "ratingStar": "4.8",
+        "shopName": "REDFOX PESCA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mqyt920fsdtye0",
+        "productLink": "https://shopee.com.br/product/594036051/18099289396",
+        "offerLink": "https://s.shopee.com.br/9fLSmJqY43"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22498752326",
+      "name": "Kit Pesca 3 Varas Telescópica 3 Mts Estojo Acessórios boia anzol chumbada isca sino snap",
+      "price": 99.98,
+      "original_price": 140.82,
+      "discount": 29.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwlrb4xzhfr3a",
+      "link": "https://s.shopee.com.br/AAHjNEoe3A",
+      "rating": "4.9",
+      "sales": 109,
+      "shop": "CLICK & VIVA",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22498752326,
+        "productName": "Kit Pesca 3 Varas Telescópica 3 Mts Estojo Acessórios boia anzol chumbada isca sino snap",
+        "price": "99.98",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.08",
+        "sales": 109,
+        "ratingStar": "4.9",
+        "shopName": "CLICK & VIVA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwlrb4xzhfr3a",
+        "productLink": "https://shopee.com.br/product/1594633180/22498752326",
+        "offerLink": "https://s.shopee.com.br/AAHjNEoe3A"
+      },
+      "_last_price": null
+    },
+    {
       "id": "17093014377",
       "name": "Kit De Pesca Completo 1 Vara Telescópica + 1 Molinete Com Linha - Acessórios Iscas, Anzóis, Chumbada",
       "price": 56.99,
@@ -26792,7 +26908,7 @@
       "rating": "4.8",
       "sales": 142,
       "shop": "MTZK Pesca",
-      "category": "vara telescopica",
+      "category": "chumbada",
       "source": "shopee",
       "_item": {
         "itemId": 17093014377,
@@ -26806,35 +26922,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261t-mlgekb6c1amgd8",
         "productLink": "https://shopee.com.br/product/865469111/17093014377",
         "offerLink": "https://s.shopee.com.br/70KfKuDWNc"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22498752326",
-      "name": "Kit Pesca 3 Varas Telescópica 3 Mts Estojo Acessórios boia anzol chumbada isca sino snap",
-      "price": 99.98,
-      "original_price": 140.82,
-      "discount": 29.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwlrb4xzhfr3a",
-      "link": "https://s.shopee.com.br/1LgJHrMPb8",
-      "rating": "4.9",
-      "sales": 109,
-      "shop": "CLICK & VIVA",
-      "category": "chumbada",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22498752326,
-        "productName": "Kit Pesca 3 Varas Telescópica 3 Mts Estojo Acessórios boia anzol chumbada isca sino snap",
-        "price": "99.98",
-        "priceDiscountRate": 29,
-        "commissionRate": "0.08",
-        "sales": 109,
-        "ratingStar": "4.9",
-        "shopName": "CLICK & VIVA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwlrb4xzhfr3a",
-        "productLink": "https://shopee.com.br/product/1594633180/22498752326",
-        "offerLink": "https://s.shopee.com.br/1LgJHrMPb8"
       },
       "_last_price": null
     },
@@ -29333,35 +29420,6 @@
       "_last_price": null
     },
     {
-      "id": "41360062714",
-      "name": "Vara Telescópica Bamboo Strong Green Jaú Pesca de 1,80, 2,40m 3,00m 3,90m, 4,20m e 5,40m Pesca",
-      "price": 29.78,
-      "original_price": 38.18,
-      "discount": 22.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxq-mcknjtool2mr2d",
-      "link": "https://s.shopee.com.br/2gBe3c1ZT0",
-      "rating": "4.8",
-      "sales": 361,
-      "shop": "JAUPESCA",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41360062714,
-        "productName": "Vara Telescópica Bamboo Strong Green Jaú Pesca de 1,80, 2,40m 3,00m 3,90m, 4,20m e 5,40m Pesca",
-        "price": "29.78",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.07",
-        "sales": 361,
-        "ratingStar": "4.8",
-        "shopName": "JAUPESCA",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxq-mcknjtool2mr2d",
-        "productLink": "https://shopee.com.br/product/954428278/41360062714",
-        "offerLink": "https://s.shopee.com.br/2gBe3c1ZT0"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23997248551",
       "name": "50 Adesivos no Vinil Transparente para Potes Organizadores Temperos Mantimentos Organizador 5x3cm",
       "price": 11.5,
@@ -30373,6 +30431,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98r-lluxwmqjmiiff4",
         "productLink": "https://shopee.com.br/product/360052108/19597387484",
         "offerLink": "https://s.shopee.com.br/4VdLwuzY0d"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "24276224233",
+      "name": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
+      "price": 35.55,
+      "original_price": 44.44,
+      "discount": 20.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
+      "link": "https://s.shopee.com.br/8V9VOAuzQw",
+      "rating": "4.7",
+      "sales": 109,
+      "shop": "Choice Oficial",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 24276224233,
+        "productName": "Vara de Pesca Telescópica de Fibra de Carbono Leve 3M Rocha Giratória Alta Resistência",
+        "price": "35.55",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.13",
+        "sales": 109,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratm-malt5tkewrxe6b",
+        "productLink": "https://shopee.com.br/product/1006215031/24276224233",
+        "offerLink": "https://s.shopee.com.br/8V9VOAuzQw"
       },
       "_last_price": null
     },
@@ -31515,7 +31602,7 @@
       "discount": 17.0,
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/c54610b699f470c1fdb5813554e73e32",
-      "link": "https://s.shopee.com.br/4qG8datK4N",
+      "link": "https://s.shopee.com.br/2qV8dhvm83",
       "rating": "4.7",
       "sales": 374,
       "shop": "HUIZAI.BR",
@@ -31532,7 +31619,7 @@
         "shopName": "HUIZAI.BR",
         "imageUrl": "https://cf.shopee.com.br/file/c54610b699f470c1fdb5813554e73e32",
         "productLink": "https://shopee.com.br/product/438547769/9670439728",
-        "offerLink": "https://s.shopee.com.br/4qG8datK4N"
+        "offerLink": "https://s.shopee.com.br/2qV8dhvm83"
       },
       "_last_price": null
     },
