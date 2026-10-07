@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T00:07:27.829381+00:00",
-  "total": 1111,
+  "updated_at": "2026-10-07T00:26:32.797109+00:00",
+  "total": 1112,
   "products": [
     {
       "id": "50203126324",
@@ -3905,7 +3905,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mtd0czcsu8030c",
         "productLink": "https://shopee.com.br/product/1107644568/22193849980",
         "offerLink": "https://s.shopee.com.br/2qV4Fm8pnL"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58209107153",
@@ -9361,7 +9362,7 @@
       "commission": 19.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8259f-msgkvfvn2sju02",
       "link": "https://s.shopee.com.br/8Kq0nwmHTG",
-      "rating": "4.7",
+      "rating": "4.6",
       "sales": 3702,
       "shop": "BIG MO",
       "category": "liquidificador",
@@ -9373,7 +9374,7 @@
         "priceDiscountRate": 56,
         "commissionRate": "0.19",
         "sales": 3702,
-        "ratingStar": "4.7",
+        "ratingStar": "4.6",
         "shopName": "BIG MO",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-msgkvfvn2sju02",
         "productLink": "https://shopee.com.br/product/807597901/23497309877",
@@ -13595,7 +13596,7 @@
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mtkd2rdm7yf45c",
       "link": "https://s.shopee.com.br/2LYnf02q96",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 169,
       "shop": "Casa Feliz 1166",
       "category": "vara telescopica",
@@ -13607,7 +13608,7 @@
         "priceDiscountRate": 50,
         "commissionRate": "0.08",
         "sales": 169,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Casa Feliz 1166",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtkd2rdm7yf45c",
         "productLink": "https://shopee.com.br/product/1894458973/58216732509",
@@ -15675,35 +15676,6 @@
       "_last_price": null
     },
     {
-      "id": "58213437798",
-      "name": "Body Splash Inspirado em Perfumes Importados com Essência Concentrada e Fragrância Marcante",
-      "price": 10.89,
-      "original_price": 20.17,
-      "discount": 46.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mqv9nes5wqo3cf",
-      "link": "https://s.shopee.com.br/1BMu7pS0iu",
-      "rating": "4.5",
-      "sales": 1998,
-      "shop": "HN PERFUMES",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58213437798,
-        "productName": "Body Splash Inspirado em Perfumes Importados com Essência Concentrada e Fragrância Marcante",
-        "price": "10.89",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.18",
-        "sales": 1998,
-        "ratingStar": "4.5",
-        "shopName": "HN PERFUMES",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mqv9nes5wqo3cf",
-        "productLink": "https://shopee.com.br/product/567005872/58213437798",
-        "offerLink": "https://s.shopee.com.br/1BMu7pS0iu"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23699413977",
       "name": "Creatina Monohidratada 300g Soufit Pink Lemonade",
       "price": 99.0,
@@ -16516,6 +16488,35 @@
       "_last_price": null
     },
     {
+      "id": "58213437798",
+      "name": "Body Splash Inspirado em Perfumes Importados com Essência Concentrada e Fragrância Marcante",
+      "price": 10.9,
+      "original_price": 19.82,
+      "discount": 45.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mqv9nes5wqo3cf",
+      "link": "https://s.shopee.com.br/1BMu7pS0iu",
+      "rating": "4.5",
+      "sales": 1998,
+      "shop": "HN PERFUMES",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58213437798,
+        "productName": "Body Splash Inspirado em Perfumes Importados com Essência Concentrada e Fragrância Marcante",
+        "price": "10.9",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.18",
+        "sales": 1998,
+        "ratingStar": "4.5",
+        "shopName": "HN PERFUMES",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mqv9nes5wqo3cf",
+        "productLink": "https://shopee.com.br/product/567005872/58213437798",
+        "offerLink": "https://s.shopee.com.br/1BMu7pS0iu"
+      },
+      "_last_price": null
+    },
+    {
       "id": "42071102324",
       "name": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
       "price": 68.74,
@@ -16570,35 +16571,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maab9aclh7smf5",
         "productLink": "https://shopee.com.br/product/816564186/17882461983",
         "offerLink": "https://s.shopee.com.br/9zyIUuYQoH"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20999680446",
-      "name": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
-      "price": 197.9,
-      "original_price": 359.82,
-      "discount": 45.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
-      "link": "https://s.shopee.com.br/9APBZJnAfO",
-      "rating": "4.9",
-      "sales": 2043,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20999680446,
-        "productName": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
-        "price": "197.9",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.1",
-        "sales": 2043,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
-        "productLink": "https://shopee.com.br/product/504754787/20999680446",
-        "offerLink": "https://s.shopee.com.br/9APBZJnAfO"
       },
       "_last_price": null
     },
@@ -17295,6 +17267,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mck45f2lr6khb7",
         "productLink": "https://shopee.com.br/product/287703953/22094256738",
         "offerLink": "https://s.shopee.com.br/7ptkCvLoJg"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23498303242",
+      "name": "KIT 04 Body Splash ARABE SOUL 200ml FEMININO - Desodorante Perfume Corporal Alta Fixação Noite e Dia",
+      "price": 54.89,
+      "original_price": 98.02,
+      "discount": 44.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m4-moimwija68064c",
+      "link": "https://s.shopee.com.br/5fpJaboPIo",
+      "rating": "4.8",
+      "sales": 2399,
+      "shop": "Cosméticos Relive",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498303242,
+        "productName": "KIT 04 Body Splash ARABE SOUL 200ml FEMININO - Desodorante Perfume Corporal Alta Fixação Noite e Dia",
+        "price": "54.89",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.03",
+        "sales": 2399,
+        "ratingStar": "4.8",
+        "shopName": "Cosméticos Relive",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-moimwija68064c",
+        "productLink": "https://shopee.com.br/product/1343471577/23498303242",
+        "offerLink": "https://s.shopee.com.br/5fpJaboPIo"
       },
       "_last_price": null
     },
@@ -22374,6 +22375,35 @@
       "_last_price": null
     },
     {
+      "id": "20999680446",
+      "name": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
+      "price": 229.9,
+      "original_price": 359.22,
+      "discount": 36.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
+      "link": "https://s.shopee.com.br/9APBZJnAfO",
+      "rating": "4.9",
+      "sales": 2043,
+      "shop": "Zociella Kids",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20999680446,
+        "productName": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
+        "price": "229.9",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.1",
+        "sales": 2043,
+        "ratingStar": "4.9",
+        "shopName": "Zociella Kids",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mrlw65ccp8n9e4",
+        "productLink": "https://shopee.com.br/product/504754787/20999680446",
+        "offerLink": "https://s.shopee.com.br/9APBZJnAfO"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23198212585",
       "name": "Whey Ultra Protein Concentrado Pote 900g - FTW",
       "price": 69.99,
@@ -27241,8 +27271,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mlmg5tia77k525",
         "productLink": "https://shopee.com.br/product/1108226774/18198165538",
         "offerLink": "https://s.shopee.com.br/qjzsH3H6z"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58255745911",
