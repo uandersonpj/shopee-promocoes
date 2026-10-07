@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T02:20:47.055441+00:00",
-  "total": 1114,
+  "updated_at": "2026-10-07T02:39:37.372803+00:00",
+  "total": 1113,
   "products": [
     {
       "id": "50203126324",
@@ -1590,7 +1590,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk90kkju10qp3b",
         "productLink": "https://shopee.com.br/product/1063922972/18299069073",
         "offerLink": "https://s.shopee.com.br/AKb7J20pc4"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "46712193198",
@@ -4080,8 +4081,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkc1gjt1xc606",
         "productLink": "https://shopee.com.br/product/1362613415/42110429390",
         "offerLink": "https://s.shopee.com.br/30oUSEHtwP"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22399450069",
@@ -13068,8 +13068,8 @@
     {
       "id": "19099843848",
       "name": "Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
-      "price": 21.55,
-      "original_price": 43.1,
+      "price": 24.99,
+      "original_price": 49.98,
       "discount": 50.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mci6w7lu1s75b8",
@@ -13082,7 +13082,7 @@
       "_item": {
         "itemId": 19099843848,
         "productName": "Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
-        "price": "21.55",
+        "price": "24.99",
         "priceDiscountRate": 50,
         "commissionRate": "0.03",
         "sales": 2100,
@@ -16082,35 +16082,6 @@
       "_last_price": null
     },
     {
-      "id": "19197496222",
-      "name": "Fonte de energia alimentação, Fita Led 12V 3A Bivolt AC/DC Adapter 2,5mm",
-      "price": 10.99,
-      "original_price": 19.98,
-      "discount": 45.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbnl-lnuahplohrsld7",
-      "link": "https://s.shopee.com.br/2LYnem41kg",
-      "rating": "4.8",
-      "sales": 2795,
-      "shop": "ZSZ_SHOP",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19197496222,
-        "productName": "Fonte de energia alimentação, Fita Led 12V 3A Bivolt AC/DC Adapter 2,5mm",
-        "price": "10.99",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.11",
-        "sales": 2795,
-        "ratingStar": "4.8",
-        "shopName": "ZSZ_SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbnl-lnuahplohrsld7",
-        "productLink": "https://shopee.com.br/product/987393610/19197496222",
-        "offerLink": "https://s.shopee.com.br/2LYnem41kg"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22498904690",
       "name": "Suporte para Placa de Vídeo GPU Ajustável Nvidia e Radeon Universal",
       "price": 10.99,
@@ -17677,6 +17648,35 @@
       "_last_price": null
     },
     {
+      "id": "19197496222",
+      "name": "Fonte de energia alimentação, Fita Led 12V 3A Bivolt AC/DC Adapter 2,5mm",
+      "price": 11.5,
+      "original_price": 20.18,
+      "discount": 43.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbnl-lnuahplohrsld7",
+      "link": "https://s.shopee.com.br/2LYnem41kg",
+      "rating": "4.8",
+      "sales": 2795,
+      "shop": "ZSZ_SHOP",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19197496222,
+        "productName": "Fonte de energia alimentação, Fita Led 12V 3A Bivolt AC/DC Adapter 2,5mm",
+        "price": "11.5",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.11",
+        "sales": 2795,
+        "ratingStar": "4.8",
+        "shopName": "ZSZ_SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbnl-lnuahplohrsld7",
+        "productLink": "https://shopee.com.br/product/987393610/19197496222",
+        "offerLink": "https://s.shopee.com.br/2LYnem41kg"
+      },
+      "_last_price": null
+    },
+    {
       "id": "41165421078",
       "name": "ACASIS 10Gbps M.2 NVMe SSD Enclosure USB C Estação de Conexão Magnética Compatível com iPhone15-18 ProRes",
       "price": 230.0,
@@ -17963,35 +17963,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr1lwv154lqd01",
         "productLink": "https://shopee.com.br/product/1203404824/23492924070",
         "offerLink": "https://s.shopee.com.br/70KdDQ2Awp"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23498386191",
-      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-      "price": 169.9,
-      "original_price": 298.07,
-      "discount": 43.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-      "link": "https://s.shopee.com.br/8Kq4ZmqLMB",
-      "rating": "4.9",
-      "sales": 2123,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498386191,
-        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-        "price": "169.9",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.1",
-        "sales": 2123,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-        "productLink": "https://shopee.com.br/product/504754787/23498386191",
-        "offerLink": "https://s.shopee.com.br/8Kq4ZmqLMB"
       },
       "_last_price": null
     },
@@ -28405,35 +28376,6 @@
       "_last_price": null
     },
     {
-      "id": "22998698600",
-      "name": "Carrinho De Controle Remoto Preto Com Farol Linha Premium Top",
-      "price": 41.9,
-      "original_price": 55.13,
-      "discount": 24.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbr1m4vtwjonc8",
-      "link": "https://s.shopee.com.br/BUMqmLQvp",
-      "rating": "4.9",
-      "sales": 1288,
-      "shop": "UTILIDADES VC LTDA",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22998698600,
-        "productName": "Carrinho De Controle Remoto Preto Com Farol Linha Premium Top",
-        "price": "41.9",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.03",
-        "sales": 1288,
-        "ratingStar": "4.9",
-        "shopName": "UTILIDADES VC LTDA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbr1m4vtwjonc8",
-        "productLink": "https://shopee.com.br/product/1165645795/22998698600",
-        "offerLink": "https://s.shopee.com.br/BUMqmLQvp"
-      },
-      "_last_price": null
-    },
-    {
       "id": "40128790649",
       "name": "Whey Protein Isolado Zero Lactose Isolate Protein 900g New Millen",
       "price": 150.99,
@@ -29010,6 +28952,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mscq6sidjqx07c",
         "productLink": "https://shopee.com.br/product/1665304899/58263263481",
         "offerLink": "https://s.shopee.com.br/4qG8dQspDE"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23498386191",
+      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+      "price": 249.9,
+      "original_price": 320.38,
+      "discount": 22.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+      "link": "https://s.shopee.com.br/8Kq4ZmqLMB",
+      "rating": "4.9",
+      "sales": 2123,
+      "shop": "Zociella Kids",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498386191,
+        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+        "price": "249.9",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.1",
+        "sales": 2123,
+        "ratingStar": "4.9",
+        "shopName": "Zociella Kids",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+        "productLink": "https://shopee.com.br/product/504754787/23498386191",
+        "offerLink": "https://s.shopee.com.br/8Kq4ZmqLMB"
       },
       "_last_price": null
     },
