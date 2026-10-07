@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T01:04:43.583445+00:00",
-  "total": 1111,
+  "updated_at": "2026-10-07T01:23:53.874283+00:00",
+  "total": 1113,
   "products": [
     {
       "id": "50203126324",
@@ -1041,7 +1041,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mr1vaho31o90f0",
         "productLink": "https://shopee.com.br/product/1246081278/45364806848",
         "offerLink": "https://s.shopee.com.br/7faK0c4z0S"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19860785095",
@@ -3355,7 +3356,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i9-mfra08dv9dl91a",
         "productLink": "https://shopee.com.br/product/1643589827/20399896346",
         "offerLink": "https://s.shopee.com.br/5Asz27gsIR"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19097980221",
@@ -8284,8 +8286,8 @@
     {
       "id": "22999454687",
       "name": "Mini Liquidificador Portátil 400ml 6 Lâminas Recarregável USB Mixer Suco Shake",
-      "price": 32.57,
-      "original_price": 77.55,
+      "price": 32.9,
+      "original_price": 78.33,
       "discount": 58.0,
       "commission": 4.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-82621-mlh3gn4xczk470",
@@ -8298,7 +8300,7 @@
       "_item": {
         "itemId": 22999454687,
         "productName": "Mini Liquidificador Portátil 400ml 6 Lâminas Recarregável USB Mixer Suco Shake",
-        "price": "32.57",
+        "price": "32.9",
         "priceDiscountRate": 58,
         "commissionRate": "0.04",
         "sales": 1341,
@@ -9210,8 +9212,8 @@
     {
       "id": "22198468630",
       "name": "Halter Dumbell Emborrachado Sextavado Cromado De 10 LBS / 15 LBS / 20 LBS / 25 LBS / 30 LBS / 35 LBS / 40 LBS Um único h",
-      "price": 87.22,
-      "original_price": 198.23,
+      "price": 114.24,
+      "original_price": 259.64,
       "discount": 56.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m973tgge58ah6c",
@@ -9224,7 +9226,7 @@
       "_item": {
         "itemId": 22198468630,
         "productName": "Halter Dumbell Emborrachado Sextavado Cromado De 10 LBS / 15 LBS / 20 LBS / 25 LBS / 30 LBS / 35 LBS / 40 LBS Um único h",
-        "price": "87.22",
+        "price": "114.24",
         "priceDiscountRate": 56,
         "commissionRate": "0.03",
         "sales": 95,
@@ -10219,6 +10221,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma9wv94ocq0m00",
         "productLink": "https://shopee.com.br/product/871392240/23193620740",
         "offerLink": "https://s.shopee.com.br/4fwiR8kOTr"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "54558362287",
+      "name": "Body Splash Feminino Shine Agapis Beauty 200ml Fragrância Sedutora Alta Fixação",
+      "price": 22.9,
+      "original_price": 49.78,
+      "discount": 54.0,
+      "commission": 21.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mrhgn8jhurk40c",
+      "link": "https://s.shopee.com.br/5q8jgPAFFN",
+      "rating": "4.7",
+      "sales": 6615,
+      "shop": "Adora ",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 54558362287,
+        "productName": "Body Splash Feminino Shine Agapis Beauty 200ml Fragrância Sedutora Alta Fixação",
+        "price": "22.9",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.21",
+        "sales": 6615,
+        "ratingStar": "4.7",
+        "shopName": "Adora ",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mrhgn8jhurk40c",
+        "productLink": "https://shopee.com.br/product/790605924/54558362287",
+        "offerLink": "https://s.shopee.com.br/5q8jgPAFFN"
       },
       "_last_price": null
     },
@@ -12858,8 +12889,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mqv1vtdp7l6qf8",
         "productLink": "https://shopee.com.br/product/512962451/58214587344",
         "offerLink": "https://s.shopee.com.br/1VzgfI1aV3"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23498554140",
@@ -17104,7 +17134,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m2-ms49ru84t4hx17",
       "link": "https://s.shopee.com.br/2gBibkNWxd",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 257,
       "shop": "Mecon.Com",
       "category": "sabao em po",
@@ -17116,7 +17146,7 @@
         "priceDiscountRate": 44,
         "commissionRate": "0.03",
         "sales": 257,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Mecon.Com",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-ms49ru84t4hx17",
         "productLink": "https://shopee.com.br/product/1613378439/46264258913",
@@ -17933,6 +17963,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr1lwv154lqd01",
         "productLink": "https://shopee.com.br/product/1203404824/23492924070",
         "offerLink": "https://s.shopee.com.br/70KdDQ2Awp"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23498386191",
+      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+      "price": 169.9,
+      "original_price": 298.07,
+      "discount": 43.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+      "link": "https://s.shopee.com.br/8Kq4ZmqLMB",
+      "rating": "4.9",
+      "sales": 2123,
+      "shop": "Zociella Kids",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498386191,
+        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+        "price": "169.9",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.1",
+        "sales": 2123,
+        "ratingStar": "4.9",
+        "shopName": "Zociella Kids",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+        "productLink": "https://shopee.com.br/product/504754787/23498386191",
+        "offerLink": "https://s.shopee.com.br/8Kq4ZmqLMB"
       },
       "_last_price": null
     },
@@ -20833,35 +20892,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rff9-m9e4mo9p3kpd4a",
         "productLink": "https://shopee.com.br/product/1206815216/26936065094",
         "offerLink": "https://s.shopee.com.br/1qcX430wi9"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "29777745435",
-      "name": "Boonie Chapéu Balaclava Terno Dobrável Macio Proteção Solar Boné De Pesca Respirável Pescador Caça Ao Ar Livre Amplo Pro",
-      "price": 33.92,
-      "original_price": 55.61,
-      "discount": 39.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823pf-mp4mrk33iknhaf",
-      "link": "https://s.shopee.com.br/4fwiRHG9cd",
-      "rating": "4.9",
-      "sales": 440,
-      "shop": "Choice Oficial",
-      "category": "boné pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 29777745435,
-        "productName": "Boonie Chapéu Balaclava Terno Dobrável Macio Proteção Solar Boné De Pesca Respirável Pescador Caça Ao Ar Livre Amplo Pro",
-        "price": "33.92",
-        "priceDiscountRate": 39,
-        "commissionRate": "0.13",
-        "sales": 440,
-        "ratingStar": "4.9",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pf-mp4mrk33iknhaf",
-        "productLink": "https://shopee.com.br/product/1006215031/29777745435",
-        "offerLink": "https://s.shopee.com.br/4fwiRHG9cd"
       },
       "_last_price": null
     },
@@ -23939,6 +23969,35 @@
       "_last_price": null
     },
     {
+      "id": "23698978626",
+      "name": "Carrinho Rolimã Infantil Super Car com Volante 360 - Castela",
+      "price": 123.99,
+      "original_price": 185.06,
+      "discount": 33.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82288-mhjvplolmbd1bb",
+      "link": "https://s.shopee.com.br/AUuZ9li5xm",
+      "rating": "4.8",
+      "sales": 941,
+      "shop": "Mais Barato Brinquedos",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23698978626,
+        "productName": "Carrinho Rolimã Infantil Super Car com Volante 360 - Castela",
+        "price": "123.99",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.13",
+        "sales": 941,
+        "ratingStar": "4.8",
+        "shopName": "Mais Barato Brinquedos",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82288-mhjvplolmbd1bb",
+        "productLink": "https://shopee.com.br/product/446413605/23698978626",
+        "offerLink": "https://s.shopee.com.br/AUuZ9li5xm"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58201486139",
       "name": "Ração Úmida Dog Chow Cães - Display com 15 Sachês 85g",
       "price": 39.9,
@@ -25298,6 +25357,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pa-mp4mmfls7rpde7",
         "productLink": "https://shopee.com.br/product/1006215031/26487009662",
         "offerLink": "https://s.shopee.com.br/W79TZgEWO"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "29777745435",
+      "name": "Boonie Chapéu Balaclava Terno Dobrável Macio Proteção Solar Boné De Pesca Respirável Pescador Caça Ao Ar Livre Amplo Pro",
+      "price": 38.45,
+      "original_price": 55.72,
+      "discount": 31.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823pf-mp4mrk33iknhaf",
+      "link": "https://s.shopee.com.br/4fwiRHG9cd",
+      "rating": "4.9",
+      "sales": 440,
+      "shop": "Choice Oficial",
+      "category": "boné pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 29777745435,
+        "productName": "Boonie Chapéu Balaclava Terno Dobrável Macio Proteção Solar Boné De Pesca Respirável Pescador Caça Ao Ar Livre Amplo Pro",
+        "price": "38.45",
+        "priceDiscountRate": 31,
+        "commissionRate": "0.13",
+        "sales": 440,
+        "ratingStar": "4.9",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pf-mp4mrk33iknhaf",
+        "productLink": "https://shopee.com.br/product/1006215031/29777745435",
+        "offerLink": "https://s.shopee.com.br/4fwiRHG9cd"
       },
       "_last_price": null
     },
@@ -28893,35 +28981,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mscq6sidjqx07c",
         "productLink": "https://shopee.com.br/product/1665304899/58263263481",
         "offerLink": "https://s.shopee.com.br/4qG8dQspDE"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23498386191",
-      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-      "price": 249.9,
-      "original_price": 320.38,
-      "discount": 22.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-      "link": "https://s.shopee.com.br/8Kq4ZmqLMB",
-      "rating": "4.9",
-      "sales": 2123,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498386191,
-        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-        "price": "249.9",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.1",
-        "sales": 2123,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-        "productLink": "https://shopee.com.br/product/504754787/23498386191",
-        "offerLink": "https://s.shopee.com.br/8Kq4ZmqLMB"
       },
       "_last_price": null
     },
