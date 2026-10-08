@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T23:35:33.612471+00:00",
-  "total": 1126,
+  "updated_at": "2026-10-08T23:54:42.407321+00:00",
+  "total": 1124,
   "products": [
     {
       "id": "58210104632",
@@ -56,7 +56,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822zt-mia9h90fnksi38",
         "productLink": "https://shopee.com.br/product/450664666/50203126324",
         "offerLink": "https://s.shopee.com.br/1BMxWBUNp1"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "52807406192",
@@ -2191,8 +2192,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/38f05806d01ed654d61cc598c39391ee",
         "productLink": "https://shopee.com.br/product/769957349/17370976709",
         "offerLink": "https://s.shopee.com.br/gQgq5Gpe9"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23192646152",
@@ -7787,35 +7787,6 @@
       "_last_price": null
     },
     {
-      "id": "22297461641",
-      "name": "Refil Agua Perfumada Odorizante de Ambientes e Tecidos Roupas Tecidos Lençois 1L",
-      "price": 37.14,
-      "original_price": 90.59,
-      "discount": 59.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ld-moh707bak07a30",
-      "link": "https://s.shopee.com.br/6AldPNf8Fn",
-      "rating": "4.8",
-      "sales": 1136,
-      "shop": "Notável Aroma",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22297461641,
-        "productName": "Refil Agua Perfumada Odorizante de Ambientes e Tecidos Roupas Tecidos Lençois 1L",
-        "price": "37.14",
-        "priceDiscountRate": 59,
-        "commissionRate": "0.03",
-        "sales": 1136,
-        "ratingStar": "4.8",
-        "shopName": "Notável Aroma",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-moh707bak07a30",
-        "productLink": "https://shopee.com.br/product/1207367861/22297461641",
-        "offerLink": "https://s.shopee.com.br/6AldPNf8Fn"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22894975184",
       "name": "Kit 2 Suportes para Shampoo para Uso no Banheiro na Parede Prateleira com Auto Adesivo",
       "price": 19.97,
@@ -12683,35 +12654,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mlmm7ada5ngl9d",
         "productLink": "https://shopee.com.br/product/880109374/58256611329",
         "offerLink": "https://s.shopee.com.br/4qGFotl9Yz"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58262995010",
-      "name": "Suporte para Placa de Vídeo Deadpool Exclusivo – GPU Ajustável Gamer Universal",
-      "price": 14.95,
-      "original_price": 29.9,
-      "discount": 50.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mpschi0yy2o0c3",
-      "link": "https://s.shopee.com.br/6VOTmXsDiQ",
-      "rating": "4.9",
-      "sales": 153,
-      "shop": "Funciona Bem Utilidades",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58262995010,
-        "productName": "Suporte para Placa de Vídeo Deadpool Exclusivo – GPU Ajustável Gamer Universal",
-        "price": "14.95",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.03",
-        "sales": 153,
-        "ratingStar": "4.9",
-        "shopName": "Funciona Bem Utilidades",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mpschi0yy2o0c3",
-        "productLink": "https://shopee.com.br/product/1555847007/58262995010",
-        "offerLink": "https://s.shopee.com.br/6VOTmXsDiQ"
       },
       "_last_price": null
     },
@@ -18603,6 +18545,35 @@
       "_last_price": null
     },
     {
+      "id": "55712165667",
+      "name": "Ração Premium 10,1kg Frango Carne Peixe para Gatos Todos Portes Alta Nutrição 27% Proteina Promoção Filhotes e Adultos",
+      "price": 69.88,
+      "original_price": 120.48,
+      "discount": 42.0,
+      "commission": 14.000000000000002,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mraqv7m0ow0515",
+      "link": "https://s.shopee.com.br/5VVwaraOAj",
+      "rating": "4.9",
+      "sales": 826,
+      "shop": "FATPET",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 55712165667,
+        "productName": "Ração Premium 10,1kg Frango Carne Peixe para Gatos Todos Portes Alta Nutrição 27% Proteina Promoção Filhotes e Adultos",
+        "price": "69.88",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.14",
+        "sales": 826,
+        "ratingStar": "4.9",
+        "shopName": "FATPET",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mraqv7m0ow0515",
+        "productLink": "https://shopee.com.br/product/421503156/55712165667",
+        "offerLink": "https://s.shopee.com.br/5VVwaraOAj"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22999395063",
       "name": "Cafeteira Italiana Inox Espresso Fogão Gás ou Indução.",
       "price": 39.99,
@@ -19765,8 +19736,8 @@
     {
       "id": "23394200396",
       "name": "Kit Sabonete + Hidratante + Esfoliante Rhenuks 200ml Corpo e Rosto 10 fragrâncias",
-      "price": 29.98,
-      "original_price": 49.97,
+      "price": 29.99,
+      "original_price": 49.98,
       "discount": 40.0,
       "commission": 21.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mqhpurv94nb423",
@@ -19779,7 +19750,7 @@
       "_item": {
         "itemId": 23394200396,
         "productName": "Kit Sabonete + Hidratante + Esfoliante Rhenuks 200ml Corpo e Rosto 10 fragrâncias",
-        "price": "29.98",
+        "price": "29.99",
         "priceDiscountRate": 40,
         "commissionRate": "0.21",
         "sales": 3262,
@@ -27157,6 +27128,35 @@
       "_last_price": null
     },
     {
+      "id": "22197602404",
+      "name": "Casinha Cachorro N5 Casa Porte Pequeno Com Proteção Raios UV  desmontável  Lavável",
+      "price": 51.0,
+      "original_price": 69.86,
+      "discount": 27.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mtf7xo9iscg26e",
+      "link": "https://s.shopee.com.br/1VznpWBcAZ",
+      "rating": "4.5",
+      "sales": 589,
+      "shop": "De AZ casa",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22197602404,
+        "productName": "Casinha Cachorro N5 Casa Porte Pequeno Com Proteção Raios UV  desmontável  Lavável",
+        "price": "51",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.03",
+        "sales": 589,
+        "ratingStar": "4.5",
+        "shopName": "De AZ casa",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtf7xo9iscg26e",
+        "productLink": "https://shopee.com.br/product/1246701013/22197602404",
+        "offerLink": "https://s.shopee.com.br/1VznpWBcAZ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18899851719",
       "name": "Cafeteira Oster Inox Compacta 0,75L",
       "price": 109.9,
@@ -29274,35 +29274,6 @@
       "_last_price": null
     },
     {
-      "id": "11869643265",
-      "name": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
-      "price": 114.99,
-      "original_price": 147.42,
-      "discount": 22.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
-      "link": "https://s.shopee.com.br/30obhYNP62",
-      "rating": "4.9",
-      "sales": 4126,
-      "shop": "Popular Pet",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 11869643265,
-        "productName": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
-        "price": "114.99",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.06",
-        "sales": 4126,
-        "ratingStar": "4.9",
-        "shopName": "Popular Pet",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
-        "productLink": "https://shopee.com.br/product/398944029/11869643265",
-        "offerLink": "https://s.shopee.com.br/30obhYNP62"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22798180508",
       "name": "Tênis Sapatênis Casual Feminino Lançamento Detalhe Coração Moda Básico",
       "price": 27.2,
@@ -30749,35 +30720,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mrlxqq5kmmmc2d",
         "productLink": "https://shopee.com.br/product/398944029/12746344833",
         "offerLink": "https://s.shopee.com.br/50Zg5EFn2c"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22197602404",
-      "name": "Casinha Cachorro N5 Casa Porte Pequeno Com Proteção Raios UV  desmontável  Lavável",
-      "price": 64.9,
-      "original_price": 80.12,
-      "discount": 19.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mtf7xo9iscg26e",
-      "link": "https://s.shopee.com.br/1VznpWBcAZ",
-      "rating": "4.5",
-      "sales": 589,
-      "shop": "De AZ casa",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22197602404,
-        "productName": "Casinha Cachorro N5 Casa Porte Pequeno Com Proteção Raios UV  desmontável  Lavável",
-        "price": "64.9",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.03",
-        "sales": 589,
-        "ratingStar": "4.5",
-        "shopName": "De AZ casa",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtf7xo9iscg26e",
-        "productLink": "https://shopee.com.br/product/1246701013/22197602404",
-        "offerLink": "https://s.shopee.com.br/1VznpWBcAZ"
       },
       "_last_price": null
     },
