@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T23:16:29.148843+00:00",
+  "updated_at": "2026-10-08T23:35:33.612471+00:00",
   "total": 1126,
   "products": [
     {
@@ -257,8 +257,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134275-7rdxw-mdfucal40l6y57",
         "productLink": "https://shopee.com.br/product/236693678/26539956454",
         "offerLink": "https://s.shopee.com.br/1BMxR0avYf"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "55508691646",
@@ -3332,7 +3331,7 @@
       "price": 40.99,
       "original_price": 132.23,
       "discount": 69.0,
-      "commission": 3.0,
+      "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mou0986n2qyt11",
       "link": "https://s.shopee.com.br/LnqRCthKw",
       "rating": "4.9",
@@ -3345,7 +3344,7 @@
         "productName": "Dissipador SSD M.2 2280 NVMe Delta-CN510 ARGB 5V 3 Pinos Aura Sync",
         "price": "40.99",
         "priceDiscountRate": 69,
-        "commissionRate": "0.03",
+        "commissionRate": "0.07",
         "sales": 154,
         "ratingStar": "4.9",
         "shopName": "Belin Life ",
@@ -5876,35 +5875,6 @@
       "_last_price": null
     },
     {
-      "id": "23998935659",
-      "name": "Dissipador de Calor SSD M.2 NVMe 2280 com Thermal Pad",
-      "price": 16.99,
-      "original_price": 44.71,
-      "discount": 62.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mrbmy2x8wm4l3f",
-      "link": "https://s.shopee.com.br/2VsL1BlRwR",
-      "rating": "5",
-      "sales": 78,
-      "shop": "LexRocks Infinity",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23998935659,
-        "productName": "Dissipador de Calor SSD M.2 NVMe 2280 com Thermal Pad",
-        "price": "16.99",
-        "priceDiscountRate": 62,
-        "commissionRate": "0.03",
-        "sales": 78,
-        "ratingStar": "5",
-        "shopName": "LexRocks Infinity",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mrbmy2x8wm4l3f",
-        "productLink": "https://shopee.com.br/product/1145739576/23998935659",
-        "offerLink": "https://s.shopee.com.br/2VsL1BlRwR"
-      },
-      "_last_price": null
-    },
-    {
       "id": "43150138443",
       "name": "Estação De Acoplamento UGREEN USB HUB Para Mac Mini M4 M4 Pro M . 2 NVMe SSD 8 Tb Max 10 Gbps Portas-A E C SD TF 170 Mb/",
       "price": 269.99,
@@ -6490,7 +6460,7 @@
       "price": 162.31,
       "original_price": 416.18,
       "discount": 61.0,
-      "commission": 3.0,
+      "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8258q-mr70cqnwrgg2d4",
       "link": "https://s.shopee.com.br/5fpMn0ZOWP",
       "rating": "5",
@@ -6503,7 +6473,7 @@
         "productName": "HUADISK SSD PCIe Gen 3 128GB M.2 NVMe para notebook, desktop e PC",
         "price": "162.31",
         "priceDiscountRate": 61,
-        "commissionRate": "0.03",
+        "commissionRate": "0.13",
         "sales": 8,
         "ratingStar": "5",
         "shopName": "Brand Choice",
@@ -6945,6 +6915,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbofl4hbm2ef45",
         "productLink": "https://shopee.com.br/product/1331886707/23898664618",
         "offerLink": "https://s.shopee.com.br/1LgNd2YUuR"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23998935659",
+      "name": "Dissipador de Calor SSD M.2 NVMe 2280 com Thermal Pad",
+      "price": 17.99,
+      "original_price": 44.97,
+      "discount": 60.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mrbmy2x8wm4l3f",
+      "link": "https://s.shopee.com.br/2VsL1BlRwR",
+      "rating": "5",
+      "sales": 78,
+      "shop": "LexRocks Infinity",
+      "category": "ssd nvme",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23998935659,
+        "productName": "Dissipador de Calor SSD M.2 NVMe 2280 com Thermal Pad",
+        "price": "17.99",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.03",
+        "sales": 78,
+        "ratingStar": "5",
+        "shopName": "LexRocks Infinity",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mrbmy2x8wm4l3f",
+        "productLink": "https://shopee.com.br/product/1145739576/23998935659",
+        "offerLink": "https://s.shopee.com.br/2VsL1BlRwR"
       },
       "_last_price": null
     },
@@ -8520,7 +8519,7 @@
       "discount": 57.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8262u-ml55346ycd8ve4",
-      "link": "https://s.shopee.com.br/9fLVYOJMIH",
+      "link": "https://s.shopee.com.br/50ZgYvOc6E",
       "rating": "4.9",
       "sales": 38,
       "shop": "TNTinfoLoja",
@@ -8537,7 +8536,7 @@
         "shopName": "TNTinfoLoja",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262u-ml55346ycd8ve4",
         "productLink": "https://shopee.com.br/product/344381236/46856458828",
-        "offerLink": "https://s.shopee.com.br/9fLVYOJMIH"
+        "offerLink": "https://s.shopee.com.br/50ZgYvOc6E"
       },
       "_last_price": null
     },
@@ -8567,7 +8566,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mrztp81e9kw7b1",
         "productLink": "https://shopee.com.br/product/1781912896/58265714065",
         "offerLink": "https://s.shopee.com.br/5q8mzN6slz"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "20499092615",
@@ -8972,35 +8972,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259r-mtxv7ho7670m45",
         "productLink": "https://shopee.com.br/product/1179518791/23994933674",
         "offerLink": "https://s.shopee.com.br/7AeAa4DLYC"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58261918789",
-      "name": "Dissipador de Calor Para SSD NVME e Vídeo Game com Thermal Pad",
-      "price": 16.99,
-      "original_price": 38.61,
-      "discount": 56.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mrop7pcd2l1ge4",
-      "link": "https://s.shopee.com.br/3LRS0iiHFg",
-      "rating": "4.9",
-      "sales": 77,
-      "shop": "LexRocks Infinity",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58261918789,
-        "productName": "Dissipador de Calor Para SSD NVME e Vídeo Game com Thermal Pad",
-        "price": "16.99",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.03",
-        "sales": 77,
-        "ratingStar": "4.9",
-        "shopName": "LexRocks Infinity",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mrop7pcd2l1ge4",
-        "productLink": "https://shopee.com.br/product/1145739576/58261918789",
-        "offerLink": "https://s.shopee.com.br/3LRS0iiHFg"
       },
       "_last_price": null
     },
@@ -10189,6 +10160,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mtgs7vsxaq6aeb",
         "productLink": "https://shopee.com.br/product/1480594679/22794276330",
         "offerLink": "https://s.shopee.com.br/5q8mzcIQG4"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58261918789",
+      "name": "Dissipador de Calor Para SSD NVME e Vídeo Game com Thermal Pad",
+      "price": 17.99,
+      "original_price": 39.11,
+      "discount": 54.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mrop7pcd2l1ge4",
+      "link": "https://s.shopee.com.br/3LRS0iiHFg",
+      "rating": "4.9",
+      "sales": 77,
+      "shop": "LexRocks Infinity",
+      "category": "ssd nvme",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58261918789,
+        "productName": "Dissipador de Calor Para SSD NVME e Vídeo Game com Thermal Pad",
+        "price": "17.99",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.03",
+        "sales": 77,
+        "ratingStar": "4.9",
+        "shopName": "LexRocks Infinity",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mrop7pcd2l1ge4",
+        "productLink": "https://shopee.com.br/product/1145739576/58261918789",
+        "offerLink": "https://s.shopee.com.br/3LRS0iiHFg"
       },
       "_last_price": null
     },
@@ -11534,7 +11534,7 @@
       "discount": 52.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfzf7uvntlacfc",
-      "link": "https://s.shopee.com.br/6AldNxWgOg",
+      "link": "https://s.shopee.com.br/4VdPy0QW7D",
       "rating": "4.9",
       "sales": 58,
       "shop": "Ankco Shop",
@@ -11551,7 +11551,7 @@
         "shopName": "Ankco Shop",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfzf7uvntlacfc",
         "productLink": "https://shopee.com.br/product/717396632/23799033529",
-        "offerLink": "https://s.shopee.com.br/6AldNxWgOg"
+        "offerLink": "https://s.shopee.com.br/4VdPy0QW7D"
       },
       "_last_price": null
     },
@@ -12687,6 +12687,35 @@
       "_last_price": null
     },
     {
+      "id": "58262995010",
+      "name": "Suporte para Placa de Vídeo Deadpool Exclusivo – GPU Ajustável Gamer Universal",
+      "price": 14.95,
+      "original_price": 29.9,
+      "discount": 50.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mpschi0yy2o0c3",
+      "link": "https://s.shopee.com.br/6VOTmXsDiQ",
+      "rating": "4.9",
+      "sales": 153,
+      "shop": "Funciona Bem Utilidades",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58262995010,
+        "productName": "Suporte para Placa de Vídeo Deadpool Exclusivo – GPU Ajustável Gamer Universal",
+        "price": "14.95",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 153,
+        "ratingStar": "4.9",
+        "shopName": "Funciona Bem Utilidades",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mpschi0yy2o0c3",
+        "productLink": "https://shopee.com.br/product/1555847007/58262995010",
+        "offerLink": "https://s.shopee.com.br/6VOTmXsDiQ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22493943973",
       "name": "Repetidor e Roteador Wi-Fi 2800Mbps 4 Antenas Amplificador de Sinal Goldenultra",
       "price": 50.0,
@@ -12926,7 +12955,7 @@
       "discount": 50.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfyg7aiofh1g38",
-      "link": "https://s.shopee.com.br/60SDBeXJjf",
+      "link": "https://s.shopee.com.br/gQhOxf6tU",
       "rating": "4.9",
       "sales": 74,
       "shop": "Ankco Shop",
@@ -12943,7 +12972,7 @@
         "shopName": "Ankco Shop",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfyg7aiofh1g38",
         "productLink": "https://shopee.com.br/product/717396632/22094564100",
-        "offerLink": "https://s.shopee.com.br/60SDBeXJjf"
+        "offerLink": "https://s.shopee.com.br/gQhOxf6tU"
       },
       "_last_price": null
     },
@@ -12955,7 +12984,7 @@
       "discount": 50.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjjze7avo4jq51",
-      "link": "https://s.shopee.com.br/7faRAiQyM5",
+      "link": "https://s.shopee.com.br/Lnr0LgNZW",
       "rating": "4.9",
       "sales": 72,
       "shop": "MixMania BR",
@@ -12972,7 +13001,7 @@
         "shopName": "MixMania BR",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjjze7avo4jq51",
         "productLink": "https://shopee.com.br/product/1447668497/23894064438",
-        "offerLink": "https://s.shopee.com.br/7faRAiQyM5"
+        "offerLink": "https://s.shopee.com.br/Lnr0LgNZW"
       },
       "_last_price": null
     },
@@ -14753,7 +14782,7 @@
       "discount": 47.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825a9-mrk640wdpqma90",
-      "link": "https://s.shopee.com.br/5fpMn2YaPd",
+      "link": "https://s.shopee.com.br/113XnZdqDa",
       "rating": "5",
       "sales": 35,
       "shop": "Terabyte Oficial",
@@ -14770,7 +14799,7 @@
         "shopName": "Terabyte Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a9-mrk640wdpqma90",
         "productLink": "https://shopee.com.br/product/1552226494/58215698683",
-        "offerLink": "https://s.shopee.com.br/5fpMn2YaPd"
+        "offerLink": "https://s.shopee.com.br/113XnZdqDa"
       },
       "_last_price": null
     },
@@ -15476,7 +15505,7 @@
       "price": 379.0,
       "original_price": 701.85,
       "discount": 46.0,
-      "commission": 3.0,
+      "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mnfvemk7fchw90",
       "link": "https://s.shopee.com.br/2qVBPnkBGf",
       "rating": "5",
@@ -15489,7 +15518,7 @@
         "productName": "Ssd M.2 2280 Nvme 256gb Knup Kp-hd813 Para Pc E Notebook Preto",
         "price": "379",
         "priceDiscountRate": 46,
-        "commissionRate": "0.03",
+        "commissionRate": "0.08",
         "sales": 31,
         "ratingStar": "5",
         "shopName": "Seu Meu Estilo",
@@ -17709,7 +17738,7 @@
       "price": 230.0,
       "original_price": 403.51,
       "discount": 43.0,
-      "commission": 3.0,
+      "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mst8d0jzsw09e4",
       "link": "https://s.shopee.com.br/1LgNd2ptJE",
       "rating": "4.9",
@@ -17722,7 +17751,7 @@
         "productName": "ACASIS 10Gbps M.2 NVMe SSD Enclosure USB C Estação de Conexão Magnética Compatível com iPhone15-18 ProRes",
         "price": "230",
         "priceDiscountRate": 43,
-        "commissionRate": "0.03",
+        "commissionRate": "0.08",
         "sales": 61,
         "ratingStar": "4.9",
         "shopName": "ACASIS Store",
@@ -18019,35 +18048,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr1lwv154lqd01",
         "productLink": "https://shopee.com.br/product/1203404824/23492924070",
         "offerLink": "https://s.shopee.com.br/4qGFnYnoXX"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23498386191",
-      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-      "price": 169.9,
-      "original_price": 298.07,
-      "discount": 43.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-      "link": "https://s.shopee.com.br/6q1KBHA7eF",
-      "rating": "4.9",
-      "sales": 2228,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498386191,
-        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-        "price": "169.9",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.1",
-        "sales": 2228,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-        "productLink": "https://shopee.com.br/product/504754787/23498386191",
-        "offerLink": "https://s.shopee.com.br/6q1KBHA7eF"
       },
       "_last_price": null
     },
@@ -18599,35 +18599,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mrgbnogn02knc2",
         "productLink": "https://shopee.com.br/product/1009890604/52115007524",
         "offerLink": "https://s.shopee.com.br/40h8tOJb4K"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "55712165667",
-      "name": "Ração Premium 10,1kg Frango Carne Peixe para Gatos Todos Portes Alta Nutrição 27% Proteina Promoção Filhotes e Adultos",
-      "price": 69.88,
-      "original_price": 120.48,
-      "discount": 42.0,
-      "commission": 14.000000000000002,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mraqv7m0ow0515",
-      "link": "https://s.shopee.com.br/5VVwaraOAj",
-      "rating": "4.9",
-      "sales": 826,
-      "shop": "FATPET",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 55712165667,
-        "productName": "Ração Premium 10,1kg Frango Carne Peixe para Gatos Todos Portes Alta Nutrição 27% Proteina Promoção Filhotes e Adultos",
-        "price": "69.88",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.14",
-        "sales": 826,
-        "ratingStar": "4.9",
-        "shopName": "FATPET",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mraqv7m0ow0515",
-        "productLink": "https://shopee.com.br/product/421503156/55712165667",
-        "offerLink": "https://s.shopee.com.br/5VVwaraOAj"
       },
       "_last_price": null
     },
@@ -19498,35 +19469,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/c09f0fbd455b065b796fbedfb3c45cf1",
         "productLink": "https://shopee.com.br/product/504210070/10928841452",
         "offerLink": "https://s.shopee.com.br/5fpMnL9JPC"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23994508588",
-      "name": "Cabo De Força Tripolar 1.5 Metros ATX Energia PC Impressora Monitor Panela Elétrica Fio Fonte Tomada",
-      "price": 17.9,
-      "original_price": 29.83,
-      "discount": 40.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-820on-mo20zzyfjhtt9e",
-      "link": "https://s.shopee.com.br/6fhtysUmNz",
-      "rating": "4.8",
-      "sales": 43,
-      "shop": "Mundo Controles Remoto e Cia",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23994508588,
-        "productName": "Cabo De Força Tripolar 1.5 Metros ATX Energia PC Impressora Monitor Panela Elétrica Fio Fonte Tomada",
-        "price": "17.9",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 43,
-        "ratingStar": "4.8",
-        "shopName": "Mundo Controles Remoto e Cia",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820on-mo20zzyfjhtt9e",
-        "productLink": "https://shopee.com.br/product/362695591/23994508588",
-        "offerLink": "https://s.shopee.com.br/6fhtysUmNz"
       },
       "_last_price": null
     },
@@ -20930,7 +20872,7 @@
       "discount": 38.0,
       "commission": 6.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825zn-ml25sb01c741fb",
-      "link": "https://s.shopee.com.br/7VH0yPRbh4",
+      "link": "https://s.shopee.com.br/W7HCefkEZ",
       "rating": "5",
       "sales": 36,
       "shop": "ITX-GAMER",
@@ -20947,7 +20889,7 @@
         "shopName": "ITX-GAMER",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zn-ml25sb01c741fb",
         "productLink": "https://shopee.com.br/product/778397589/44228846684",
-        "offerLink": "https://s.shopee.com.br/7VH0yPRbh4"
+        "offerLink": "https://s.shopee.com.br/W7HCefkEZ"
       },
       "_last_price": null
     },
@@ -21445,6 +21387,35 @@
       "_last_price": null
     },
     {
+      "id": "23893374635",
+      "name": "Kit Com Fogareiro Portátil a Gás Camping Pesca Viagem Acendimento Automático Com Maleta Fogão a Gás Portátil",
+      "price": 74.8,
+      "original_price": 120.65,
+      "discount": 38.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mnzb4l8ut3b439",
+      "link": "https://s.shopee.com.br/6L53dAprv5",
+      "rating": "4.8",
+      "sales": 528,
+      "shop": "ípsilonstore",
+      "category": "kit pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23893374635,
+        "productName": "Kit Com Fogareiro Portátil a Gás Camping Pesca Viagem Acendimento Automático Com Maleta Fogão a Gás Portátil",
+        "price": "74.8",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.03",
+        "sales": 528,
+        "ratingStar": "4.8",
+        "shopName": "ípsilonstore",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mnzb4l8ut3b439",
+        "productLink": "https://shopee.com.br/product/220627519/23893374635",
+        "offerLink": "https://s.shopee.com.br/6L53dAprv5"
+      },
+      "_last_price": null
+    },
+    {
       "id": "48055804188",
       "name": "🔥4 Pçs Suporte De Vara De Pesca De Metal Ajustável Quadro Fixo Suprimentos",
       "price": 57.85,
@@ -21539,7 +21510,7 @@
       "discount": 37.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-81zve-miku7m3h36dg64",
-      "link": "https://s.shopee.com.br/6L53aGW33h",
+      "link": "https://s.shopee.com.br/4LJzlhR9SA",
       "rating": "5",
       "sales": 48,
       "shop": "Terabyte Oficial",
@@ -21556,7 +21527,7 @@
         "shopName": "Terabyte Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zve-miku7m3h36dg64",
         "productLink": "https://shopee.com.br/product/1552226494/23699232471",
-        "offerLink": "https://s.shopee.com.br/6L53aGW33h"
+        "offerLink": "https://s.shopee.com.br/4LJzlhR9SA"
       },
       "_last_price": null
     },
@@ -23308,7 +23279,7 @@
       "discount": 34.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr7f6x36awbo80",
-      "link": "https://s.shopee.com.br/5q8mzLXx4e",
+      "link": "https://s.shopee.com.br/qk7bGeTYX",
       "rating": "4.7",
       "sales": 9,
       "shop": "onispes",
@@ -23325,7 +23296,7 @@
         "shopName": "onispes",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr7f6x36awbo80",
         "productLink": "https://shopee.com.br/product/379996229/16874427264",
-        "offerLink": "https://s.shopee.com.br/5q8mzLXx4e"
+        "offerLink": "https://s.shopee.com.br/qk7bGeTYX"
       },
       "_last_price": null
     },
@@ -25906,6 +25877,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mtfch5t3i8sh33",
         "productLink": "https://shopee.com.br/product/734718734/23599134541",
         "offerLink": "https://s.shopee.com.br/gQgpzEmrC"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58206605624",
+      "name": "Peitoral Para Cachorro + Guia Nylon Conjunto Ajustável Passeio",
+      "price": 18.9,
+      "original_price": 27.0,
+      "discount": 30.0,
+      "commission": 23.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820le-molm14xtl9fk0d",
+      "link": "https://s.shopee.com.br/5VVwy7HCIz",
+      "rating": "4.9",
+      "sales": 993,
+      "shop": "container.pet",
+      "category": "coleira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58206605624,
+        "productName": "Peitoral Para Cachorro + Guia Nylon Conjunto Ajustável Passeio",
+        "price": "18.9",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.23",
+        "sales": 993,
+        "ratingStar": "4.9",
+        "shopName": "container.pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-molm14xtl9fk0d",
+        "productLink": "https://shopee.com.br/product/1359702491/58206605624",
+        "offerLink": "https://s.shopee.com.br/5VVwy7HCIz"
       },
       "_last_price": null
     },
@@ -29187,6 +29187,35 @@
       "_last_price": null
     },
     {
+      "id": "23498386191",
+      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+      "price": 249.9,
+      "original_price": 320.38,
+      "discount": 22.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+      "link": "https://s.shopee.com.br/6q1KBHA7eF",
+      "rating": "4.9",
+      "sales": 2228,
+      "shop": "Zociella Kids",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498386191,
+        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+        "price": "249.9",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.1",
+        "sales": 2228,
+        "ratingStar": "4.9",
+        "shopName": "Zociella Kids",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+        "productLink": "https://shopee.com.br/product/504754787/23498386191",
+        "offerLink": "https://s.shopee.com.br/6q1KBHA7eF"
+      },
+      "_last_price": null
+    },
+    {
       "id": "3583616499",
       "name": "Carrinho Camaro Amarelo Vira Robô Transformers Bate Volta",
       "price": 35.99,
@@ -29241,6 +29270,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj4ayj8rseme88",
         "productLink": "https://shopee.com.br/product/1242044379/22097495429",
         "offerLink": "https://s.shopee.com.br/BUQOHjcX2"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "11869643265",
+      "name": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
+      "price": 114.99,
+      "original_price": 147.42,
+      "discount": 22.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
+      "link": "https://s.shopee.com.br/30obhYNP62",
+      "rating": "4.9",
+      "sales": 4126,
+      "shop": "Popular Pet",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 11869643265,
+        "productName": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
+        "price": "114.99",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.06",
+        "sales": 4126,
+        "ratingStar": "4.9",
+        "shopName": "Popular Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
+        "productLink": "https://shopee.com.br/product/398944029/11869643265",
+        "offerLink": "https://s.shopee.com.br/30obhYNP62"
       },
       "_last_price": null
     },
@@ -29448,35 +29506,6 @@
       "_last_price": null
     },
     {
-      "id": "45557096111",
-      "name": "Kit Banqueta Dobrável Com Alça Suporta 150kg Reforçada Camping Rancho Pesca",
-      "price": 37.9,
-      "original_price": 48.59,
-      "discount": 22.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mlp37yq2ldza90",
-      "link": "https://s.shopee.com.br/6q1KBSEcEA",
-      "rating": "5",
-      "sales": 1186,
-      "shop": "TUDO UD",
-      "category": "kit pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45557096111,
-        "productName": "Kit Banqueta Dobrável Com Alça Suporta 150kg Reforçada Camping Rancho Pesca",
-        "price": "37.9",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.03",
-        "sales": 1186,
-        "ratingStar": "5",
-        "shopName": "TUDO UD",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mlp37yq2ldza90",
-        "productLink": "https://shopee.com.br/product/763085885/45557096111",
-        "offerLink": "https://s.shopee.com.br/6q1KBSEcEA"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22898098377",
       "name": "Suporte Vara Para Pesca Expositor De Parede 7 Varas",
       "price": 20.5,
@@ -29629,7 +29658,7 @@
       "discount": 21.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbnuspwqlx2f8e",
-      "link": "https://s.shopee.com.br/7Kxam6SF23",
+      "link": "https://s.shopee.com.br/20w4zPa2Bs",
       "rating": "4.7",
       "sales": 52,
       "shop": "BESTBYBRASILGOLD",
@@ -29646,7 +29675,7 @@
         "shopName": "BESTBYBRASILGOLD",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbnuspwqlx2f8e",
         "productLink": "https://shopee.com.br/product/1494297971/18498284404",
-        "offerLink": "https://s.shopee.com.br/7Kxam6SF23"
+        "offerLink": "https://s.shopee.com.br/20w4zPa2Bs"
       },
       "_last_price": null
     },
@@ -30673,7 +30702,7 @@
       "discount": 19.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7tk2e7ezmhg1d",
-      "link": "https://s.shopee.com.br/7AeAZnSsN2",
+      "link": "https://s.shopee.com.br/2BFVBiZOqv",
       "rating": "5",
       "sales": 42,
       "shop": "FIRESHOP.NET.BR",
@@ -30690,7 +30719,7 @@
         "shopName": "FIRESHOP.NET.BR",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7tk2e7ezmhg1d",
         "productLink": "https://shopee.com.br/product/293906934/20799651636",
-        "offerLink": "https://s.shopee.com.br/7AeAZnSsN2"
+        "offerLink": "https://s.shopee.com.br/2BFVBiZOqv"
       },
       "_last_price": null
     },
@@ -31565,35 +31594,6 @@
       "_last_price": null
     },
     {
-      "id": "23197376436",
-      "name": "Coleira World Dug's 17g Antipulgas para Cães - 56cm",
-      "price": 10.89,
-      "original_price": 13.12,
-      "discount": 17.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2oom1rsw242",
-      "link": "https://s.shopee.com.br/LnqRNkr0d",
-      "rating": "4.9",
-      "sales": 5117,
-      "shop": "mypetone",
-      "category": "coleira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23197376436,
-        "productName": "Coleira World Dug's 17g Antipulgas para Cães - 56cm",
-        "price": "10.89",
-        "priceDiscountRate": 17,
-        "commissionRate": "0.11",
-        "sales": 5117,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2oom1rsw242",
-        "productLink": "https://shopee.com.br/product/290073877/23197376436",
-        "offerLink": "https://s.shopee.com.br/LnqRNkr0d"
-      },
-      "_last_price": null
-    },
-    {
       "id": "51007468236",
       "name": "Garrafa Térmica Café Berlim 1L Luxo Dourada Cabo de Madeira Cafeteira Chá Água Decorativo Mesa Posta",
       "price": 62.89,
@@ -31978,7 +31978,7 @@
       "discount": 15.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8261a-mmfcoke24zr577",
-      "link": "https://s.shopee.com.br/6q1KBBU930",
+      "link": "https://s.shopee.com.br/2VsLaKY8B1",
       "rating": "5",
       "sales": 25,
       "shop": "guanjun zhang3",
@@ -31995,7 +31995,7 @@
         "shopName": "guanjun zhang3",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261a-mmfcoke24zr577",
         "productLink": "https://shopee.com.br/product/1528033198/58207867891",
-        "offerLink": "https://s.shopee.com.br/6q1KBBU930"
+        "offerLink": "https://s.shopee.com.br/2VsLaKY8B1"
       },
       "_last_price": null
     },
