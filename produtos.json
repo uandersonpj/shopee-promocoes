@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T21:21:59.825221+00:00",
-  "total": 1128,
+  "updated_at": "2026-10-08T21:41:20.440676+00:00",
+  "total": 1127,
   "products": [
     {
       "id": "58210104632",
@@ -431,7 +431,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgzgefeazked3d",
         "productLink": "https://shopee.com.br/product/1613332918/22294440400",
         "offerLink": "https://s.shopee.com.br/5fpMnIWjHS"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58258026087",
@@ -2866,35 +2867,6 @@
       "_last_price": null
     },
     {
-      "id": "23335280590",
-      "name": "Kit Cozinha Infantil Completa Peças Educativa Batedeira Liquidificador Panelinha Brinquedo",
-      "price": 44.95,
-      "original_price": 149.83,
-      "discount": 70.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mozhhm64qqdh56",
-      "link": "https://s.shopee.com.br/7VH0yZJEj5",
-      "rating": "4.8",
-      "sales": 674,
-      "shop": "UnoToys",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23335280590,
-        "productName": "Kit Cozinha Infantil Completa Peças Educativa Batedeira Liquidificador Panelinha Brinquedo",
-        "price": "44.95",
-        "priceDiscountRate": 70,
-        "commissionRate": "0.03",
-        "sales": 674,
-        "ratingStar": "4.8",
-        "shopName": "UnoToys",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mozhhm64qqdh56",
-        "productLink": "https://shopee.com.br/product/330057410/23335280590",
-        "offerLink": "https://s.shopee.com.br/7VH0yZJEj5"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23093824562",
       "name": "Tênis Casual Branco Feminino Masculino Conforto Premium Academia Original",
       "price": 29.9,
@@ -3703,8 +3675,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mrm1isre6juu61",
         "productLink": "https://shopee.com.br/product/1588692817/50815623138",
         "offerLink": "https://s.shopee.com.br/8pmOjU7Jtu"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "51004391053",
@@ -7440,6 +7411,35 @@
       "_last_price": null
     },
     {
+      "id": "23335280590",
+      "name": "Kit Cozinha Infantil Completa Peças Educativa Batedeira Liquidificador Panelinha Brinquedo",
+      "price": 59.95,
+      "original_price": 149.88,
+      "discount": 60.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mozhhm64qqdh56",
+      "link": "https://s.shopee.com.br/7VH0yZJEj5",
+      "rating": "4.8",
+      "sales": 674,
+      "shop": "UnoToys",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23335280590,
+        "productName": "Kit Cozinha Infantil Completa Peças Educativa Batedeira Liquidificador Panelinha Brinquedo",
+        "price": "59.95",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.03",
+        "sales": 674,
+        "ratingStar": "4.8",
+        "shopName": "UnoToys",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mozhhm64qqdh56",
+        "productLink": "https://shopee.com.br/product/330057410/23335280590",
+        "offerLink": "https://s.shopee.com.br/7VH0yZJEj5"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21997222833",
       "name": "Tênis Meia Feminino Calce Fácil Botinha Ortopédico Esportivo Sneaker Slip On Casual confortável Academia",
       "price": 23.9,
@@ -7871,35 +7871,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mci6w7lu1s75b8",
         "productLink": "https://shopee.com.br/product/767498858/19099843848",
         "offerLink": "https://s.shopee.com.br/6fhtyyAkzC"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22198792838",
-      "name": "Carrinho de Controle Remoto Sem fio Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
-      "price": 20.55,
-      "original_price": 50.12,
-      "discount": 59.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcu4r3lbhv5t84",
-      "link": "https://s.shopee.com.br/4fwpcgItfp",
-      "rating": "4.8",
-      "sales": 1295,
-      "shop": "LifeToys",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22198792838,
-        "productName": "Carrinho de Controle Remoto Sem fio Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
-        "price": "20.55",
-        "priceDiscountRate": 59,
-        "commissionRate": "0.03",
-        "sales": 1295,
-        "ratingStar": "4.8",
-        "shopName": "LifeToys",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcu4r3lbhv5t84",
-        "productLink": "https://shopee.com.br/product/1551770885/22198792838",
-        "offerLink": "https://s.shopee.com.br/4fwpcgItfp"
       },
       "_last_price": null
     },
@@ -24026,6 +23997,35 @@
       "_last_price": null
     },
     {
+      "id": "22198792838",
+      "name": "Carrinho de Controle Remoto Sem fio Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
+      "price": 26.85,
+      "original_price": 40.07,
+      "discount": 33.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcu4r3lbhv5t84",
+      "link": "https://s.shopee.com.br/4fwpcgItfp",
+      "rating": "4.8",
+      "sales": 1295,
+      "shop": "LifeToys",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22198792838,
+        "productName": "Carrinho de Controle Remoto Sem fio Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
+        "price": "26.85",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.03",
+        "sales": 1295,
+        "ratingStar": "4.8",
+        "shopName": "LifeToys",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcu4r3lbhv5t84",
+        "productLink": "https://shopee.com.br/product/1551770885/22198792838",
+        "offerLink": "https://s.shopee.com.br/4fwpcgItfp"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58201486139",
       "name": "Ração Úmida Dog Chow Cães - Display com 15 Sachês 85g",
       "price": 39.9,
@@ -25906,6 +25906,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mtfch5t3i8sh33",
         "productLink": "https://shopee.com.br/product/734718734/23599134541",
         "offerLink": "https://s.shopee.com.br/gQgpzEmrC"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58206605624",
+      "name": "Peitoral Para Cachorro + Guia Nylon Conjunto Ajustável Passeio",
+      "price": 18.9,
+      "original_price": 27.0,
+      "discount": 30.0,
+      "commission": 23.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820le-molm14xtl9fk0d",
+      "link": "https://s.shopee.com.br/5VVwy7HCIz",
+      "rating": "4.9",
+      "sales": 993,
+      "shop": "container.pet",
+      "category": "coleira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58206605624,
+        "productName": "Peitoral Para Cachorro + Guia Nylon Conjunto Ajustável Passeio",
+        "price": "18.9",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.23",
+        "sales": 993,
+        "ratingStar": "4.9",
+        "shopName": "container.pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-molm14xtl9fk0d",
+        "productLink": "https://shopee.com.br/product/1359702491/58206605624",
+        "offerLink": "https://s.shopee.com.br/5VVwy7HCIz"
       },
       "_last_price": null
     },
@@ -31594,35 +31623,6 @@
       "_last_price": null
     },
     {
-      "id": "23197376436",
-      "name": "Coleira World Dug's 17g Antipulgas para Cães - 56cm",
-      "price": 10.89,
-      "original_price": 13.12,
-      "discount": 17.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2oom1rsw242",
-      "link": "https://s.shopee.com.br/LnqRNkr0d",
-      "rating": "4.9",
-      "sales": 5117,
-      "shop": "mypetone",
-      "category": "coleira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23197376436,
-        "productName": "Coleira World Dug's 17g Antipulgas para Cães - 56cm",
-        "price": "10.89",
-        "priceDiscountRate": 17,
-        "commissionRate": "0.11",
-        "sales": 5117,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2oom1rsw242",
-        "productLink": "https://shopee.com.br/product/290073877/23197376436",
-        "offerLink": "https://s.shopee.com.br/LnqRNkr0d"
-      },
-      "_last_price": null
-    },
-    {
       "id": "51007468236",
       "name": "Garrafa Térmica Café Berlim 1L Luxo Dourada Cabo de Madeira Cafeteira Chá Água Decorativo Mesa Posta",
       "price": 62.89,
@@ -32257,35 +32257,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9hjjyg253wi90",
         "productLink": "https://shopee.com.br/product/502568539/10834033011",
         "offerLink": "https://s.shopee.com.br/80DHZUdOtz"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22398783591",
-      "name": "Linha de nylon para pipa 3000 ate 12000 jardas artesanato - pesca lote exclusivo",
-      "price": 20.99,
-      "original_price": 24.69,
-      "discount": 15.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfc3m9xcwohw4a",
-      "link": "https://s.shopee.com.br/3qNibswNiG",
-      "rating": "4.7",
-      "sales": 375,
-      "shop": "Cabo de Guerra Distribuidora 01",
-      "category": "linha de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22398783591,
-        "productName": "Linha de nylon para pipa 3000 ate 12000 jardas artesanato - pesca lote exclusivo",
-        "price": "20.99",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.07",
-        "sales": 375,
-        "ratingStar": "4.7",
-        "shopName": "Cabo de Guerra Distribuidora 01",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfc3m9xcwohw4a",
-        "productLink": "https://shopee.com.br/product/888186330/22398783591",
-        "offerLink": "https://s.shopee.com.br/3qNibswNiG"
       },
       "_last_price": null
     },
