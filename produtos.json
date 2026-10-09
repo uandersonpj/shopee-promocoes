@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T07:30:15.332370+00:00",
-  "total": 1126,
+  "updated_at": "2026-10-09T07:48:59.680319+00:00",
+  "total": 1125,
   "products": [
     {
       "id": "58210104632",
@@ -288,7 +288,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
         "productLink": "https://shopee.com.br/product/344381236/57911938287",
         "offerLink": "https://s.shopee.com.br/8pmOYrMWyw"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "55508691646",
@@ -6490,35 +6491,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820nd-mnrai13o7nra62",
         "productLink": "https://shopee.com.br/product/1787956512/41180569454",
         "offerLink": "https://s.shopee.com.br/7KxamPgdJg"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "54864944788",
-      "name": "HUADISK SSD PCIe Gen 3 128GB M.2 NVMe para notebook, desktop e PC",
-      "price": 162.31,
-      "original_price": 416.18,
-      "discount": 61.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8258q-mr70cqnwrgg2d4",
-      "link": "https://s.shopee.com.br/5fpMn0ZOWP",
-      "rating": "5",
-      "sales": 8,
-      "shop": "Brand Choice",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 54864944788,
-        "productName": "HUADISK SSD PCIe Gen 3 128GB M.2 NVMe para notebook, desktop e PC",
-        "price": "162.31",
-        "priceDiscountRate": 61,
-        "commissionRate": "0.13",
-        "sales": 8,
-        "ratingStar": "5",
-        "shopName": "Brand Choice",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258q-mr70cqnwrgg2d4",
-        "productLink": "https://shopee.com.br/product/1672861664/54864944788",
-        "offerLink": "https://s.shopee.com.br/5fpMn0ZOWP"
       },
       "_last_price": null
     },
