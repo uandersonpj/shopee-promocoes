@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T05:37:29.980293+00:00",
-  "total": 1123,
+  "updated_at": "2026-10-09T05:56:18.113826+00:00",
+  "total": 1125,
   "products": [
     {
       "id": "58210104632",
@@ -4630,7 +4630,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmvvx9h1getec5",
         "productLink": "https://shopee.com.br/product/1267873709/58208583352",
         "offerLink": "https://s.shopee.com.br/4VdPP9FAgr"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19397504534",
@@ -19510,6 +19511,35 @@
       "_last_price": null
     },
     {
+      "id": "23994508588",
+      "name": "Cabo De Força Tripolar 1.5 Metros ATX Energia PC Impressora Monitor Panela Elétrica Fio Fonte Tomada",
+      "price": 17.9,
+      "original_price": 29.83,
+      "discount": 40.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-820on-mo20zzyfjhtt9e",
+      "link": "https://s.shopee.com.br/6fhtysUmNz",
+      "rating": "4.8",
+      "sales": 43,
+      "shop": "Mundo Controles Remoto e Cia",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23994508588,
+        "productName": "Cabo De Força Tripolar 1.5 Metros ATX Energia PC Impressora Monitor Panela Elétrica Fio Fonte Tomada",
+        "price": "17.9",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 43,
+        "ratingStar": "4.8",
+        "shopName": "Mundo Controles Remoto e Cia",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820on-mo20zzyfjhtt9e",
+        "productLink": "https://shopee.com.br/product/362695591/23994508588",
+        "offerLink": "https://s.shopee.com.br/6fhtysUmNz"
+      },
+      "_last_price": null
+    },
+    {
       "id": "54764399038",
       "name": "1 a 3 Und Pote 1,5L Hermético C/ Bico Dosador Lavanderia Sabão em Pó Amaciante Multiuso Organização Compacto Resistente",
       "price": 26.23,
@@ -20144,6 +20174,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9qxx0p1ifpe76",
         "productLink": "https://shopee.com.br/product/1087983137/18598161767",
         "offerLink": "https://s.shopee.com.br/905olJDrQd"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20498962219",
+      "name": "Extrator de Sucos Turbo Premium Mondial Preto e Inox 250W E-10",
+      "price": 174.0,
+      "original_price": 290.0,
+      "discount": 40.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8260s-mkwhm62zdurl9a",
+      "link": "https://s.shopee.com.br/5VVwatQqmd",
+      "rating": "4.9",
+      "sales": 1034,
+      "shop": "Mercado Fácil",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20498962219,
+        "productName": "Extrator de Sucos Turbo Premium Mondial Preto e Inox 250W E-10",
+        "price": "174",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 1034,
+        "ratingStar": "4.9",
+        "shopName": "Mercado Fácil",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260s-mkwhm62zdurl9a",
+        "productLink": "https://shopee.com.br/product/1062544851/20498962219",
+        "offerLink": "https://s.shopee.com.br/5VVwatQqmd"
       },
       "_last_price": null
     },
