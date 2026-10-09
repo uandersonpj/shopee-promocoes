@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T08:07:47.640925+00:00",
-  "total": 1126,
+  "updated_at": "2026-10-09T08:26:36.235075+00:00",
+  "total": 1127,
   "products": [
     {
       "id": "58210104632",
@@ -955,7 +955,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm5-lln14dkqwcs917",
         "productLink": "https://shopee.com.br/product/504210070/22492388439",
         "offerLink": "https://s.shopee.com.br/AAHm9afWUg"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49165555882",
@@ -2524,7 +2525,7 @@
     },
     {
       "id": "23399440790",
-      "name": "Halter Dumbell Emborrachado Sextavado Cromado De 20lb(9,1kg) Um único haltere 1 Unidade",
+      "name": "Kulmai Halter Dumbbell Sextavado Emborrachado Cromado para Musculação Academia Fitness Treino em Casa",
       "price": 57.82,
       "original_price": 199.38,
       "discount": 71.0,
@@ -2538,7 +2539,7 @@
       "source": "shopee",
       "_item": {
         "itemId": 23399440790,
-        "productName": "Halter Dumbell Emborrachado Sextavado Cromado De 20lb(9,1kg) Um único haltere 1 Unidade",
+        "productName": "Kulmai Halter Dumbbell Sextavado Emborrachado Cromado para Musculação Academia Fitness Treino em Casa",
         "price": "57.82",
         "priceDiscountRate": 71,
         "commissionRate": "0.03",
@@ -4375,6 +4376,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823of-momen2gbjls2a5",
         "productLink": "https://shopee.com.br/product/1847512446/54311772339",
         "offerLink": "https://s.shopee.com.br/9Kif9tDOsL"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23298719961",
+      "name": "Halter Dumbell Emborrachado Sextavado Cromado De 20lb(9.1kg) Um único haltere 1 Unidade",
+      "price": 118.0,
+      "original_price": 347.06,
+      "discount": 66.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6012yu1eit5e",
+      "link": "https://s.shopee.com.br/9pevkoBUrS",
+      "rating": "4.9",
+      "sales": 42,
+      "shop": "Runify",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23298719961,
+        "productName": "Halter Dumbell Emborrachado Sextavado Cromado De 20lb(9.1kg) Um único haltere 1 Unidade",
+        "price": "118",
+        "priceDiscountRate": 66,
+        "commissionRate": "0.03",
+        "sales": 42,
+        "ratingStar": "4.9",
+        "shopName": "Runify",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6012yu1eit5e",
+        "productLink": "https://shopee.com.br/product/1577129456/23298719961",
+        "offerLink": "https://s.shopee.com.br/9pevkoBUrS"
       },
       "_last_price": null
     },
@@ -6852,7 +6882,7 @@
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mq2zvsocj3eo45",
       "link": "https://s.shopee.com.br/80DHZc9dN5",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 513,
       "shop": "SPOETRY Brasil",
       "category": "rede de pesca",
@@ -6864,7 +6894,7 @@
         "priceDiscountRate": 61,
         "commissionRate": "0.13",
         "sales": 513,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "SPOETRY Brasil",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mq2zvsocj3eo45",
         "productLink": "https://shopee.com.br/product/1669666744/58263407185",
@@ -13949,35 +13979,6 @@
       "_last_price": null
     },
     {
-      "id": "41357615567",
-      "name": "Óculos De Sol Fotochromáticos Retro Quadrados Com Proteção Uv E Estrutura Leve, Ideais Para Praia, Ciclismo E viagens",
-      "price": 9.44,
-      "original_price": 18.51,
-      "discount": 49.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134301-7rffe-m9jv6vrrei7d7f",
-      "link": "https://s.shopee.com.br/9V25MGxklB",
-      "rating": "4.8",
-      "sales": 3283,
-      "shop": "Choice Oficial",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41357615567,
-        "productName": "Óculos De Sol Fotochromáticos Retro Quadrados Com Proteção Uv E Estrutura Leve, Ideais Para Praia, Ciclismo E viagens",
-        "price": "9.44",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.07",
-        "sales": 3283,
-        "ratingStar": "4.8",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rffe-m9jv6vrrei7d7f",
-        "productLink": "https://shopee.com.br/product/1006215031/41357615567",
-        "offerLink": "https://s.shopee.com.br/9V25MGxklB"
-      },
-      "_last_price": null
-    },
-    {
       "id": "48857230908",
       "name": "Vara de pesca telescópica, suave e ultraleve, ideal para diversas situações, com comprimentos de 2,4 m e 3,6 m",
       "price": 19.8,
@@ -16932,6 +16933,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mt1j3ec9l4p1ed",
         "productLink": "https://shopee.com.br/product/1637361439/23598937582",
         "offerLink": "https://s.shopee.com.br/2VsL1P6fJ5"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "41357615567",
+      "name": "Óculos De Sol Fotochromáticos Retro Quadrados Com Proteção Uv E Estrutura Leve, Ideais Para Praia, Ciclismo E viagens",
+      "price": 10.2,
+      "original_price": 18.55,
+      "discount": 45.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134301-7rffe-m9jv6vrrei7d7f",
+      "link": "https://s.shopee.com.br/9V25MGxklB",
+      "rating": "4.8",
+      "sales": 3283,
+      "shop": "Choice Oficial",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41357615567,
+        "productName": "Óculos De Sol Fotochromáticos Retro Quadrados Com Proteção Uv E Estrutura Leve, Ideais Para Praia, Ciclismo E viagens",
+        "price": "10.2",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.07",
+        "sales": 3283,
+        "ratingStar": "4.8",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rffe-m9jv6vrrei7d7f",
+        "productLink": "https://shopee.com.br/product/1006215031/41357615567",
+        "offerLink": "https://s.shopee.com.br/9V25MGxklB"
       },
       "_last_price": null
     },
@@ -20271,35 +20301,6 @@
       "_last_price": null
     },
     {
-      "id": "40154100897",
-      "name": "Relógio Esportivo Masculino Ativo | Pulseira Plástica, Hora, Luz e Data | Ótima Opção de Presente para Férias.",
-      "price": 11.96,
-      "original_price": 19.93,
-      "discount": 40.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134301-82580-ms4wf6mkfqiw8b",
-      "link": "https://s.shopee.com.br/905olLhv7D",
-      "rating": "4.8",
-      "sales": 2662,
-      "shop": "Choice Oficial",
-      "category": "relogio masculino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40154100897,
-        "productName": "Relógio Esportivo Masculino Ativo | Pulseira Plástica, Hora, Luz e Data | Ótima Opção de Presente para Férias.",
-        "price": "11.96",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.07",
-        "sales": 2662,
-        "ratingStar": "4.8",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-82580-ms4wf6mkfqiw8b",
-        "productLink": "https://shopee.com.br/product/1006215031/40154100897",
-        "offerLink": "https://s.shopee.com.br/905olLhv7D"
-      },
-      "_last_price": null
-    },
-    {
       "id": "43508355535",
       "name": "(Apenas Cinza) Óculos De Sol Gradientes Retangulares Sem Aro – Tons De Proteção UV Da Moda Para Festas E Viagens Ao Ar L",
       "price": 9.33,
@@ -21462,8 +21463,8 @@
     {
       "id": "25614629818",
       "name": "Boné De Beisebol Masculino Camuflado Com Caveira , Chapéu Tático Para Pesca E Caminhada Ao Ar Livre O Verão",
-      "price": 31.24,
-      "original_price": 50.39,
+      "price": 31.56,
+      "original_price": 50.9,
       "discount": 38.0,
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvq-mcakt9br8pflf2",
@@ -21476,7 +21477,7 @@
       "_item": {
         "itemId": 25614629818,
         "productName": "Boné De Beisebol Masculino Camuflado Com Caveira , Chapéu Tático Para Pesca E Caminhada Ao Ar Livre O Verão",
-        "price": "31.24",
+        "price": "31.56",
         "priceDiscountRate": 38,
         "commissionRate": "0.14",
         "sales": 355,
@@ -23312,6 +23313,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mtxqzdu17vgia9",
         "productLink": "https://shopee.com.br/product/342086228/51608731933",
         "offerLink": "https://s.shopee.com.br/6fhtz2iTbb"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "40154100897",
+      "name": "Relógio Esportivo Masculino Ativo | Pulseira Plástica, Hora, Luz e Data | Ótima Opção de Presente para Férias.",
+      "price": 12.92,
+      "original_price": 19.88,
+      "discount": 35.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134301-82580-ms4wf6mkfqiw8b",
+      "link": "https://s.shopee.com.br/905olLhv7D",
+      "rating": "4.8",
+      "sales": 2662,
+      "shop": "Choice Oficial",
+      "category": "relogio masculino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 40154100897,
+        "productName": "Relógio Esportivo Masculino Ativo | Pulseira Plástica, Hora, Luz e Data | Ótima Opção de Presente para Férias.",
+        "price": "12.92",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.07",
+        "sales": 2662,
+        "ratingStar": "4.8",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-82580-ms4wf6mkfqiw8b",
+        "productLink": "https://shopee.com.br/product/1006215031/40154100897",
+        "offerLink": "https://s.shopee.com.br/905olLhv7D"
       },
       "_last_price": null
     },
