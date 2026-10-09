@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T15:47:22.400180+00:00",
-  "total": 1128,
+  "updated_at": "2026-10-09T16:06:36.878275+00:00",
+  "total": 1127,
   "products": [
     {
       "id": "58210104632",
@@ -533,7 +533,7 @@
       "commission": 17.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820le-mo5m3lm7da841f",
       "link": "https://s.shopee.com.br/W7HteTYEz",
-      "rating": "4.2",
+      "rating": "4.3",
       "sales": 1861,
       "shop": "Nobre.Essências",
       "category": "perfume",
@@ -545,7 +545,7 @@
         "priceDiscountRate": 81,
         "commissionRate": "0.17",
         "sales": 1861,
-        "ratingStar": "4.2",
+        "ratingStar": "4.3",
         "shopName": "Nobre.Essências",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mo5m3lm7da841f",
         "productLink": "https://shopee.com.br/product/1654851165/58210532717",
@@ -2544,8 +2544,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6012yu1eit5e",
         "productLink": "https://shopee.com.br/product/1577129456/23298719961",
         "offerLink": "https://s.shopee.com.br/9pevkoBUrS"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23399440790",
@@ -2921,7 +2920,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfn8h5ufyu4kb0",
         "productLink": "https://shopee.com.br/product/391757444/23093824562",
         "offerLink": "https://s.shopee.com.br/1LgNdFT6oC"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "47855423393",
@@ -9181,8 +9181,8 @@
     {
       "id": "22697337602",
       "name": "Casinha Cachorro N6 Porte Pequeno com Colchonete Casa Pet Proteção Raios UV Resistente",
-      "price": 63.39,
-      "original_price": 144.07,
+      "price": 63.4,
+      "original_price": 144.09,
       "discount": 56.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825a7-mt6qx0csu4uee8",
@@ -9195,7 +9195,7 @@
       "_item": {
         "itemId": 22697337602,
         "productName": "Casinha Cachorro N6 Porte Pequeno com Colchonete Casa Pet Proteção Raios UV Resistente",
-        "price": "63.39",
+        "price": "63.4",
         "priceDiscountRate": 56,
         "commissionRate": "0.03",
         "sales": 698,
@@ -11495,35 +11495,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfzf7uvntlacfc",
         "productLink": "https://shopee.com.br/product/717396632/23799033529",
         "offerLink": "https://s.shopee.com.br/4VdPy0QW7D"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "47214406847",
-      "name": "- Kit 4 Potes Hermético 1,5L Com Bico Dosador Medidor Porta Sabão em Pó /Sabão Líquido/ Amaciante Lavanderia Organizador",
-      "price": 69.27,
-      "original_price": 144.31,
-      "discount": 52.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mqysjc3ln0nb37",
-      "link": "https://s.shopee.com.br/AKbDguPAeB",
-      "rating": "4.8",
-      "sales": 392,
-      "shop": "CampvendasMulticoisas",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 47214406847,
-        "productName": "- Kit 4 Potes Hermético 1,5L Com Bico Dosador Medidor Porta Sabão em Pó /Sabão Líquido/ Amaciante Lavanderia Organizador",
-        "price": "69.27",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.12",
-        "sales": 392,
-        "ratingStar": "4.8",
-        "shopName": "CampvendasMulticoisas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqysjc3ln0nb37",
-        "productLink": "https://shopee.com.br/product/1627792845/47214406847",
-        "offerLink": "https://s.shopee.com.br/AKbDguPAeB"
       },
       "_last_price": null
     },
@@ -17705,6 +17676,35 @@
       "_last_price": null
     },
     {
+      "id": "23498386191",
+      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+      "price": 169.9,
+      "original_price": 298.07,
+      "discount": 43.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+      "link": "https://s.shopee.com.br/6q1KBHA7eF",
+      "rating": "4.9",
+      "sales": 2228,
+      "shop": "Zociella Kids",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498386191,
+        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+        "price": "169.9",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.1",
+        "sales": 2228,
+        "ratingStar": "4.9",
+        "shopName": "Zociella Kids",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+        "productLink": "https://shopee.com.br/product/504754787/23498386191",
+        "offerLink": "https://s.shopee.com.br/6q1KBHA7eF"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23394412512",
       "name": "Caminhão Dinossauro 4 em 1 com pista e lancador, 6/12 carrinhos demetal",
       "price": 113.39,
@@ -20868,8 +20868,8 @@
     {
       "id": "19297977722",
       "name": "Kit 2 Conjuntos Body Bebê Menino Fofo + Short Tapa Fralda Estampas Sortidas RN ao GG Enxoval, maternidade",
-      "price": 49.95,
-      "original_price": 80.56,
+      "price": 49.99,
+      "original_price": 80.63,
       "discount": 38.0,
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ly-motrvx7s1k3ka3",
@@ -20882,7 +20882,7 @@
       "_item": {
         "itemId": 19297977722,
         "productName": "Kit 2 Conjuntos Body Bebê Menino Fofo + Short Tapa Fralda Estampas Sortidas RN ao GG Enxoval, maternidade",
-        "price": "49.95",
+        "price": "49.99",
         "priceDiscountRate": 38,
         "commissionRate": "0.09",
         "sales": 950,
@@ -22780,6 +22780,35 @@
       "_last_price": null
     },
     {
+      "id": "23399135643",
+      "name": "Kit Etiquetas Transparentes para Lavanderia Sabão em Pó Amaciante Percarbonato Vinil à Prova d’Água",
+      "price": 10.72,
+      "original_price": 16.49,
+      "discount": 35.0,
+      "commission": 19.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lk-msfu9vwal4hw32",
+      "link": "https://s.shopee.com.br/40hA6eVGNh",
+      "rating": "4.9",
+      "sales": 215,
+      "shop": "Decor & Cole",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23399135643,
+        "productName": "Kit Etiquetas Transparentes para Lavanderia Sabão em Pó Amaciante Percarbonato Vinil à Prova d’Água",
+        "price": "10.72",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.19",
+        "sales": 215,
+        "ratingStar": "4.9",
+        "shopName": "Decor & Cole",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-msfu9vwal4hw32",
+        "productLink": "https://shopee.com.br/product/1009974689/23399135643",
+        "offerLink": "https://s.shopee.com.br/40hA6eVGNh"
+      },
+      "_last_price": null
+    },
+    {
       "id": "49061198035",
       "name": "Desinfetante Super Concentrado Herbal Pet Eliminador Odor Quaternario Amonia +15 1L - Rende Muito",
       "price": 25.99,
@@ -23101,8 +23130,8 @@
     {
       "id": "23399039236",
       "name": "Caixa Térmica Portátil Praia Camping Viagem Pesca Piquenique 42 Litros Promoção Envio Rápido",
-      "price": 77.35,
-      "original_price": 119.0,
+      "price": 77.4,
+      "original_price": 119.08,
       "discount": 35.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9pkezyocn519",
@@ -23115,7 +23144,7 @@
       "_item": {
         "itemId": 23399039236,
         "productName": "Caixa Térmica Portátil Praia Camping Viagem Pesca Piquenique 42 Litros Promoção Envio Rápido",
-        "price": "77.35",
+        "price": "77.4",
         "priceDiscountRate": 35,
         "commissionRate": "0.08",
         "sales": 301,
@@ -29276,35 +29305,6 @@
       "_last_price": null
     },
     {
-      "id": "23498386191",
-      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-      "price": 249.9,
-      "original_price": 320.38,
-      "discount": 22.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-      "link": "https://s.shopee.com.br/6q1KBHA7eF",
-      "rating": "4.9",
-      "sales": 2228,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498386191,
-        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-        "price": "249.9",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.1",
-        "sales": 2228,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-        "productLink": "https://shopee.com.br/product/504754787/23498386191",
-        "offerLink": "https://s.shopee.com.br/6q1KBHA7eF"
-      },
-      "_last_price": null
-    },
-    {
       "id": "3583616499",
       "name": "Carrinho Camaro Amarelo Vira Robô Transformers Bate Volta",
       "price": 35.99,
@@ -31679,35 +31679,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4946jqt4u693f",
         "productLink": "https://shopee.com.br/product/446247790/9787295031",
         "offerLink": "https://s.shopee.com.br/AUuchH6HZ1"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23197376436",
-      "name": "Coleira World Dug's 17g Antipulgas para Cães - 56cm",
-      "price": 10.89,
-      "original_price": 13.12,
-      "discount": 17.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2oom1rsw242",
-      "link": "https://s.shopee.com.br/LnqRNkr0d",
-      "rating": "4.9",
-      "sales": 5117,
-      "shop": "mypetone",
-      "category": "coleira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23197376436,
-        "productName": "Coleira World Dug's 17g Antipulgas para Cães - 56cm",
-        "price": "10.89",
-        "priceDiscountRate": 17,
-        "commissionRate": "0.11",
-        "sales": 5117,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2oom1rsw242",
-        "productLink": "https://shopee.com.br/product/290073877/23197376436",
-        "offerLink": "https://s.shopee.com.br/LnqRNkr0d"
       },
       "_last_price": null
     },
