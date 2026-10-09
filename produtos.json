@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T21:18:46.718680+00:00",
-  "total": 1123,
+  "updated_at": "2026-10-09T21:38:28.743518+00:00",
+  "total": 1122,
   "products": [
     {
       "id": "58210104632",
@@ -558,7 +558,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
       "link": "https://s.shopee.com.br/40h8o7stVE",
-      "rating": "4.6",
+      "rating": "4.7",
       "sales": 7188,
       "shop": "MVO COMÉRCIO DE VARIEDADES",
       "category": "air fryer",
@@ -570,7 +570,7 @@
         "priceDiscountRate": 81,
         "commissionRate": "0.03",
         "sales": 7188,
-        "ratingStar": "4.6",
+        "ratingStar": "4.7",
         "shopName": "MVO COMÉRCIO DE VARIEDADES",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
         "productLink": "https://shopee.com.br/product/972031390/21997150349",
@@ -1793,8 +1793,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfje7rr835s0e2",
         "productLink": "https://shopee.com.br/product/1267134569/23893429110",
         "offerLink": "https://s.shopee.com.br/8Kq7y8WvIi"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58263320947",
@@ -3212,7 +3211,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820m4-mnkc728pehag67",
         "productLink": "https://shopee.com.br/product/372103398/23199448516",
         "offerLink": "https://s.shopee.com.br/7VH0ygC4sE"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22693260071",
@@ -3716,7 +3716,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mrm1isre6juu61",
       "link": "https://s.shopee.com.br/8pmOjU7Jtu",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 1780,
       "shop": "DivinaBelezaWeb",
       "category": "protetor solar",
@@ -3728,7 +3728,7 @@
         "priceDiscountRate": 68,
         "commissionRate": "0.03",
         "sales": 1780,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "DivinaBelezaWeb",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mrm1isre6juu61",
         "productLink": "https://shopee.com.br/product/1588692817/50815623138",
@@ -9180,35 +9180,6 @@
       "_last_price": null
     },
     {
-      "id": "45054396139",
-      "name": "Ração Úmida Friskies 85g - Caixa com 15 unidades",
-      "price": 34.9,
-      "original_price": 79.32,
-      "discount": 56.0,
-      "commission": 21.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
-      "link": "https://s.shopee.com.br/gQgpysmyK",
-      "rating": "5",
-      "sales": 15271,
-      "shop": "LeluPets",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45054396139,
-        "productName": "Ração Úmida Friskies 85g - Caixa com 15 unidades",
-        "price": "34.9",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.21",
-        "sales": 15271,
-        "ratingStar": "5",
-        "shopName": "LeluPets",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
-        "productLink": "https://shopee.com.br/product/293152127/45054396139",
-        "offerLink": "https://s.shopee.com.br/gQgpysmyK"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22998482488",
       "name": "Kit 15 Unidades de Sachês Friskies Original para Gatos Adultos Ração Úmida 85g - Escolha o Sabor",
       "price": 34.0,
@@ -13849,6 +13820,35 @@
       "_last_price": null
     },
     {
+      "id": "45054396139",
+      "name": "Ração Úmida Friskies 85g - Caixa com 15 unidades",
+      "price": 40.9,
+      "original_price": 80.2,
+      "discount": 49.0,
+      "commission": 21.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
+      "link": "https://s.shopee.com.br/gQgpysmyK",
+      "rating": "5",
+      "sales": 15271,
+      "shop": "LeluPets",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 45054396139,
+        "productName": "Ração Úmida Friskies 85g - Caixa com 15 unidades",
+        "price": "40.9",
+        "priceDiscountRate": 49,
+        "commissionRate": "0.21",
+        "sales": 15271,
+        "ratingStar": "5",
+        "shopName": "LeluPets",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
+        "productLink": "https://shopee.com.br/product/293152127/45054396139",
+        "offerLink": "https://s.shopee.com.br/gQgpysmyK"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23594439744",
       "name": "400ML 6 Lâminas Espremedor Elétrico Mini Liquidificador Portátil De Suco De Alimentos Misturador Leite",
       "price": 36.89,
@@ -16727,7 +16727,7 @@
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2gjoxgoo3l77",
       "link": "https://s.shopee.com.br/gQgq15Jmm",
-      "rating": "5",
+      "rating": "4.9",
       "sales": 659,
       "shop": "Mimorada Store",
       "category": "panela pressao",
@@ -16739,7 +16739,7 @@
         "priceDiscountRate": 45,
         "commissionRate": "0.12",
         "sales": 659,
-        "ratingStar": "5",
+        "ratingStar": "4.9",
         "shopName": "Mimorada Store",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2gjoxgoo3l77",
         "productLink": "https://shopee.com.br/product/842996464/21357829581",
@@ -17133,7 +17133,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m2-ms49ru84t4hx17",
       "link": "https://s.shopee.com.br/9zyNIIQRK5",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 329,
       "shop": "Mecon.Com",
       "category": "sabao em po",
@@ -17145,7 +17145,7 @@
         "priceDiscountRate": 44,
         "commissionRate": "0.03",
         "sales": 329,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Mecon.Com",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-ms49ru84t4hx17",
         "productLink": "https://shopee.com.br/product/1613378439/46264258913",
@@ -27485,7 +27485,7 @@
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekctgxrndogf4",
       "link": "https://s.shopee.com.br/113XFwWr7H",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 899,
       "shop": "Shantou Ecommerce",
       "category": "carrinho bebe",
@@ -27497,7 +27497,7 @@
         "priceDiscountRate": 26,
         "commissionRate": "0.11",
         "sales": 899,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "Shantou Ecommerce",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekctgxrndogf4",
         "productLink": "https://shopee.com.br/product/1257363873/23598068812",
@@ -31997,35 +31997,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mt8lgbq7d0qo6b",
         "productLink": "https://shopee.com.br/product/1027982682/23098884809",
         "offerLink": "https://s.shopee.com.br/9pevkireed"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23593572198",
-      "name": "Carrinho Rolimã Zig Zag Car 360 Roda Led Infantil - Castela",
-      "price": 217.99,
-      "original_price": 256.46,
-      "discount": 15.0,
-      "commission": 15.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekctgxrndogf4",
-      "link": "https://s.shopee.com.br/W7IDMfl2V",
-      "rating": "4.8",
-      "sales": 719,
-      "shop": "Mais Barato Brinquedos",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23593572198,
-        "productName": "Carrinho Rolimã Zig Zag Car 360 Roda Led Infantil - Castela",
-        "price": "217.99",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.15",
-        "sales": 719,
-        "ratingStar": "4.8",
-        "shopName": "Mais Barato Brinquedos",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekctgxrndogf4",
-        "productLink": "https://shopee.com.br/product/446413605/23593572198",
-        "offerLink": "https://s.shopee.com.br/W7IDMfl2V"
       },
       "_last_price": null
     },
