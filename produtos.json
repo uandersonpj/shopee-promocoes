@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T06:52:44.216702+00:00",
+  "updated_at": "2026-10-09T07:11:27.403880+00:00",
   "total": 1126,
   "products": [
     {
@@ -1240,7 +1240,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mt38wyvxh81x6a",
         "productLink": "https://shopee.com.br/product/1345043704/22497773735",
         "offerLink": "https://s.shopee.com.br/BUQF6tgct"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22394331157",
@@ -30013,8 +30014,8 @@
     {
       "id": "57205646686",
       "name": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
-      "price": 181.77,
-      "original_price": 230.09,
+      "price": 181.75,
+      "original_price": 230.06,
       "discount": 21.0,
       "commission": 6.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
@@ -30027,7 +30028,7 @@
       "_item": {
         "itemId": 57205646686,
         "productName": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
-        "price": "181.77",
+        "price": "181.75",
         "priceDiscountRate": 21,
         "commissionRate": "0.06",
         "sales": 4259,
