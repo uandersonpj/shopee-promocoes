@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-10T16:26:20.861285+00:00",
-  "total": 1132,
+  "updated_at": "2026-10-10T16:45:47.744054+00:00",
+  "total": 1131,
   "products": [
     {
       "id": "58210104632",
@@ -533,7 +533,7 @@
       "commission": 17.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820le-mo5m3lm7da841f",
       "link": "https://s.shopee.com.br/W7HteTYEz",
-      "rating": "4.2",
+      "rating": "4.3",
       "sales": 1997,
       "shop": "Nobre.Essências",
       "category": "perfume",
@@ -545,13 +545,12 @@
         "priceDiscountRate": 81,
         "commissionRate": "0.17",
         "sales": 1997,
-        "ratingStar": "4.2",
+        "ratingStar": "4.3",
         "shopName": "Nobre.Essências",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mo5m3lm7da841f",
         "productLink": "https://shopee.com.br/product/1654851165/58210532717",
         "offerLink": "https://s.shopee.com.br/W7HteTYEz"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "21997150349",
@@ -982,7 +981,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm5-lln14dkqwcs917",
         "productLink": "https://shopee.com.br/product/504210070/22492388439",
         "offerLink": "https://s.shopee.com.br/AAHm9afWUg"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49165555882",
@@ -1273,34 +1273,6 @@
         "offerLink": "https://s.shopee.com.br/BUQF6tgct"
       },
       "_last_price": null
-    },
-    {
-      "id": "18398161750",
-      "name": "HUAWEI WiFi AX2S | Roteador | WS7000 V2 |  Dual Band | 4 Antenas | 5 GHz Wi-Fi 6",
-      "price": 114.0,
-      "original_price": 495.65,
-      "discount": 77.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me9rity3qqkg1d",
-      "link": "https://s.shopee.com.br/6L53bfAF1s",
-      "rating": "5",
-      "sales": 264,
-      "shop": "HUAWEI Loja Oficial",
-      "category": "roteador wifi",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18398161750,
-        "productName": "HUAWEI WiFi AX2S | Roteador | WS7000 V2 |  Dual Band | 4 Antenas | 5 GHz Wi-Fi 6",
-        "price": "114",
-        "priceDiscountRate": 77,
-        "commissionRate": "0.03",
-        "sales": 264,
-        "ratingStar": "5",
-        "shopName": "HUAWEI Loja Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me9rity3qqkg1d",
-        "productLink": "https://shopee.com.br/product/1494995608/18398161750",
-        "offerLink": "https://s.shopee.com.br/6L53bfAF1s"
-      }
     },
     {
       "id": "18299069073",
@@ -2926,6 +2898,34 @@
       "_last_price": null
     },
     {
+      "id": "18398161750",
+      "name": "HUAWEI WiFi AX2S | Roteador | WS7000 V2 |  Dual Band | 4 Antenas | 5 GHz Wi-Fi 6",
+      "price": 149.0,
+      "original_price": 496.67,
+      "discount": 70.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me9rity3qqkg1d",
+      "link": "https://s.shopee.com.br/6L53bfAF1s",
+      "rating": "5",
+      "sales": 264,
+      "shop": "HUAWEI Loja Oficial",
+      "category": "roteador wifi",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18398161750,
+        "productName": "HUAWEI WiFi AX2S | Roteador | WS7000 V2 |  Dual Band | 4 Antenas | 5 GHz Wi-Fi 6",
+        "price": "149",
+        "priceDiscountRate": 70,
+        "commissionRate": "0.03",
+        "sales": 264,
+        "ratingStar": "5",
+        "shopName": "HUAWEI Loja Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me9rity3qqkg1d",
+        "productLink": "https://shopee.com.br/product/1494995608/18398161750",
+        "offerLink": "https://s.shopee.com.br/6L53bfAF1s"
+      }
+    },
+    {
       "id": "21798030664",
       "name": "Teclado Gamer/ Escritório Com Fio RGB LED Iluminado  Com 68 Teclados Mecânicos",
       "price": 89.0,
@@ -3009,35 +3009,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mqtap867cnb78a",
         "productLink": "https://shopee.com.br/product/400434768/58206930308",
         "offerLink": "https://s.shopee.com.br/2VsO983LDp"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "9212570285",
-      "name": "Creatina Suplemento Monohidratada em Pó 100% Pura Importada - Soldiers Nutrition",
-      "price": 33.9,
-      "original_price": 113.0,
-      "discount": 70.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mpwm1rqctatfc5",
-      "link": "https://s.shopee.com.br/3g4IPTDBCf",
-      "rating": "4.9",
-      "sales": 30009,
-      "shop": "Soldiers Nutrition",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 9212570285,
-        "productName": "Creatina Suplemento Monohidratada em Pó 100% Pura Importada - Soldiers Nutrition",
-        "price": "33.9",
-        "priceDiscountRate": 70,
-        "commissionRate": "0.18",
-        "sales": 30009,
-        "ratingStar": "4.9",
-        "shopName": "Soldiers Nutrition",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpwm1rqctatfc5",
-        "productLink": "https://shopee.com.br/product/347988064/9212570285",
-        "offerLink": "https://s.shopee.com.br/3g4IPTDBCf"
       },
       "_last_price": null
     },
@@ -5041,35 +5012,6 @@
       "_last_price": null
     },
     {
-      "id": "22797770364",
-      "name": "Vara de Pesca Telescópica 1.8-3.6M Super Dura Ultra Leve Longo Alcance Profissional para Molinete Praia Mar Rio Lago",
-      "price": 26.8,
-      "original_price": 76.57,
-      "discount": 65.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcdx-ltmivw9kdxo22a",
-      "link": "https://s.shopee.com.br/7ptrNHkTov",
-      "rating": "4.8",
-      "sales": 135,
-      "shop": "warm11.br",
-      "category": "carretilha pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22797770364,
-        "productName": "Vara de Pesca Telescópica 1.8-3.6M Super Dura Ultra Leve Longo Alcance Profissional para Molinete Praia Mar Rio Lago",
-        "price": "26.8",
-        "priceDiscountRate": 65,
-        "commissionRate": "0.12",
-        "sales": 135,
-        "ratingStar": "4.8",
-        "shopName": "warm11.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdx-ltmivw9kdxo22a",
-        "productLink": "https://shopee.com.br/product/1171921876/22797770364",
-        "offerLink": "https://s.shopee.com.br/7ptrNHkTov"
-      },
-      "_last_price": null
-    },
-    {
       "id": "17137692121",
       "name": "Carretilha de Pesca Anti Cabeleira 18 Rolamentos Freio Magnético 7.2:1 Mão Esquerda/Direita, Perfil Alto, Marine Sports",
       "price": 79.49,
@@ -5331,35 +5273,6 @@
       "_last_price": null
     },
     {
-      "id": "23694425028",
-      "name": "Prateleira Sapateira 9 Andares De Metal E Plastico Organizador Multiuso Prata Para Sapatos Calçados a",
-      "price": 36.07,
-      "original_price": 100.19,
-      "discount": 64.0,
-      "commission": 4.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvo-mcb1mf1khcohec",
-      "link": "https://s.shopee.com.br/4LJzCd3K2C",
-      "rating": "4.9",
-      "sales": 6487,
-      "shop": "Bom DMS Brasil",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23694425028,
-        "productName": "Prateleira Sapateira 9 Andares De Metal E Plastico Organizador Multiuso Prata Para Sapatos Calçados a",
-        "price": "36.07",
-        "priceDiscountRate": 64,
-        "commissionRate": "0.04",
-        "sales": 6487,
-        "ratingStar": "4.9",
-        "shopName": "Bom DMS Brasil",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvo-mcb1mf1khcohec",
-        "productLink": "https://shopee.com.br/product/1619145136/23694425028",
-        "offerLink": "https://s.shopee.com.br/4LJzCd3K2C"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58215441377",
       "name": "Kit 12/24/36 Forminhas Silicone Cupcake Empadinha Air Fryer",
       "price": 8.99,
@@ -5530,6 +5443,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mslmq9g7mwas80",
         "productLink": "https://shopee.com.br/product/324680904/3958758961",
         "offerLink": "https://s.shopee.com.br/AUucY6twjL"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22797770364",
+      "name": "Vara de Pesca Telescópica 1.8-3.6M Super Dura Ultra Leve Longo Alcance Profissional para Molinete Praia Mar Rio Lago",
+      "price": 26.8,
+      "original_price": 74.44,
+      "discount": 64.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcdx-ltmivw9kdxo22a",
+      "link": "https://s.shopee.com.br/7ptrNHkTov",
+      "rating": "4.8",
+      "sales": 135,
+      "shop": "warm11.br",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22797770364,
+        "productName": "Vara de Pesca Telescópica 1.8-3.6M Super Dura Ultra Leve Longo Alcance Profissional para Molinete Praia Mar Rio Lago",
+        "price": "26.8",
+        "priceDiscountRate": 64,
+        "commissionRate": "0.12",
+        "sales": 135,
+        "ratingStar": "4.8",
+        "shopName": "warm11.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdx-ltmivw9kdxo22a",
+        "productLink": "https://shopee.com.br/product/1171921876/22797770364",
+        "offerLink": "https://s.shopee.com.br/7ptrNHkTov"
       },
       "_last_price": null
     },
@@ -6254,6 +6196,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m275pnv5hbnq94",
         "productLink": "https://shopee.com.br/product/771750144/21797631048",
         "offerLink": "https://s.shopee.com.br/2VsL1GAIkf"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23694425028",
+      "name": "Prateleira Sapateira 9 Andares De Metal E Plastico Organizador Multiuso Prata Para Sapatos Calçados a",
+      "price": 37.99,
+      "original_price": 99.97,
+      "discount": 62.0,
+      "commission": 4.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvo-mcb1mf1khcohec",
+      "link": "https://s.shopee.com.br/4LJzCd3K2C",
+      "rating": "4.9",
+      "sales": 6487,
+      "shop": "Bom DMS Brasil",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23694425028,
+        "productName": "Prateleira Sapateira 9 Andares De Metal E Plastico Organizador Multiuso Prata Para Sapatos Calçados a",
+        "price": "37.99",
+        "priceDiscountRate": 62,
+        "commissionRate": "0.04",
+        "sales": 6487,
+        "ratingStar": "4.9",
+        "shopName": "Bom DMS Brasil",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvo-mcb1mf1khcohec",
+        "productLink": "https://shopee.com.br/product/1619145136/23694425028",
+        "offerLink": "https://s.shopee.com.br/4LJzCd3K2C"
       },
       "_last_price": null
     },
@@ -14235,8 +14206,8 @@
     {
       "id": "48208359433",
       "name": "Casinha de Cachorro Com Caminha N 4 ou 5 Cachorros Pequeno Médio Porte Caminha de Cachorro",
-      "price": 66.44,
-      "original_price": 130.27,
+      "price": 59.9,
+      "original_price": 117.45,
       "discount": 49.0,
       "commission": 17.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8226r-mhfcarhiudxo7d",
@@ -14249,7 +14220,7 @@
       "_item": {
         "itemId": 48208359433,
         "productName": "Casinha de Cachorro Com Caminha N 4 ou 5 Cachorros Pequeno Médio Porte Caminha de Cachorro",
-        "price": "66.44",
+        "price": "59.9",
         "priceDiscountRate": 49,
         "commissionRate": "0.17",
         "sales": 816,
@@ -19917,6 +19888,35 @@
       "_last_price": null
     },
     {
+      "id": "58255146160",
+      "name": "Mini Rodo Esfregão Absorvente Portátil Limpeza Multifuncional Mop de Mesa Limpeza Esponja Absorvente",
+      "price": 14.99,
+      "original_price": 24.98,
+      "discount": 40.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81zuo-mkms3o9zgu8266",
+      "link": "https://s.shopee.com.br/9fLVZpIbX2",
+      "rating": "4.8",
+      "sales": 2731,
+      "shop": "MaisKCompra Store",
+      "category": "esponja",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58255146160,
+        "productName": "Mini Rodo Esfregão Absorvente Portátil Limpeza Multifuncional Mop de Mesa Limpeza Esponja Absorvente",
+        "price": "14.99",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.08",
+        "sales": 2731,
+        "ratingStar": "4.8",
+        "shopName": "MaisKCompra Store",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zuo-mkms3o9zgu8266",
+        "productLink": "https://shopee.com.br/product/1429781525/58255146160",
+        "offerLink": "https://s.shopee.com.br/9fLVZpIbX2"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58250455338",
       "name": "Luva Microfibra Grande: Lavar Carro e Limpeza Automotiva",
       "price": 11.99,
@@ -22672,35 +22672,6 @@
       "_last_price": null
     },
     {
-      "id": "58255146160",
-      "name": "Mini Rodo Esfregão Absorvente Portátil Limpeza Multifuncional Mop de Mesa Limpeza Esponja Absorvente",
-      "price": 15.99,
-      "original_price": 24.98,
-      "discount": 36.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81zuo-mkms3o9zgu8266",
-      "link": "https://s.shopee.com.br/9fLVZpIbX2",
-      "rating": "4.8",
-      "sales": 2731,
-      "shop": "MaisKCompra Store",
-      "category": "esponja",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58255146160,
-        "productName": "Mini Rodo Esfregão Absorvente Portátil Limpeza Multifuncional Mop de Mesa Limpeza Esponja Absorvente",
-        "price": "15.99",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.08",
-        "sales": 2731,
-        "ratingStar": "4.8",
-        "shopName": "MaisKCompra Store",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zuo-mkms3o9zgu8266",
-        "productLink": "https://shopee.com.br/product/1429781525/58255146160",
-        "offerLink": "https://s.shopee.com.br/9fLVZpIbX2"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23794994613",
       "name": "Escorredor Kitchen Rack Aço Inoxidável Organizador Louça Preto Pia Kitchen Rack Aço Ino",
       "price": 76.8,
@@ -23306,35 +23277,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258o-msbwr4svgah18a",
         "productLink": "https://shopee.com.br/product/616222685/14463127889",
         "offerLink": "https://s.shopee.com.br/9zyP4toScu"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22298895580",
-      "name": "Novo 2026 Caminhão Dinossauro engolidor e Porta-carrinhos com 4 Carrinhos de Fricção.🚚",
-      "price": 63.99,
-      "original_price": 98.45,
-      "discount": 35.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me9bc6uzn1ts52",
-      "link": "https://s.shopee.com.br/6AldO3Cf03",
-      "rating": "4.9",
-      "sales": 2372,
-      "shop": "ESTRELAS E MAR",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22298895580,
-        "productName": "Novo 2026 Caminhão Dinossauro engolidor e Porta-carrinhos com 4 Carrinhos de Fricção.🚚",
-        "price": "63.99",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.03",
-        "sales": 2372,
-        "ratingStar": "4.9",
-        "shopName": "ESTRELAS E MAR",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me9bc6uzn1ts52",
-        "productLink": "https://shopee.com.br/product/1098567159/22298895580",
-        "offerLink": "https://s.shopee.com.br/6AldO3Cf03"
       },
       "_last_price": null
     },
@@ -24901,35 +24843,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mqni5t3phaf47c",
         "productLink": "https://shopee.com.br/product/597391186/19899866990",
         "offerLink": "https://s.shopee.com.br/6AlgL9y5Z6"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "19398297649",
-      "name": "Ração Para Cachorro 15kg Special Dog Ultralife Gold Performance Adulto Carne Frango e Batata Doce",
-      "price": 129.9,
-      "original_price": 191.03,
-      "discount": 32.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mobx7hnycrgjc0",
-      "link": "https://s.shopee.com.br/5q8mzTDBof",
-      "rating": "4.9",
-      "sales": 1508,
-      "shop": "animalzecommerce",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19398297649,
-        "productName": "Ração Para Cachorro 15kg Special Dog Ultralife Gold Performance Adulto Carne Frango e Batata Doce",
-        "price": "129.9",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.03",
-        "sales": 1508,
-        "ratingStar": "4.9",
-        "shopName": "animalzecommerce",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mobx7hnycrgjc0",
-        "productLink": "https://shopee.com.br/product/1509105042/19398297649",
-        "offerLink": "https://s.shopee.com.br/5q8mzTDBof"
       },
       "_last_price": null
     },
@@ -27225,35 +27138,6 @@
       "_last_price": null
     },
     {
-      "id": "58265242344",
-      "name": "Principia kit com 2 Protetores solares com cor PS-05-escolha seu tom",
-      "price": 77.99,
-      "original_price": 108.32,
-      "discount": 28.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr916ovqrsp164",
-      "link": "https://s.shopee.com.br/9fLYewWOLX",
-      "rating": "4.9",
-      "sales": 2129,
-      "shop": "Principia Skincare",
-      "category": "protetor solar",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58265242344,
-        "productName": "Principia kit com 2 Protetores solares com cor PS-05-escolha seu tom",
-        "price": "77.99",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.13",
-        "sales": 2129,
-        "ratingStar": "4.9",
-        "shopName": "Principia Skincare",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr916ovqrsp164",
-        "productLink": "https://shopee.com.br/product/373261329/58265242344",
-        "offerLink": "https://s.shopee.com.br/9fLYewWOLX"
-      },
-      "_last_price": null
-    },
-    {
       "id": "47006078407",
       "name": "Kit Prateleira Expositora Acrílica Transparente para Doces e perfumes | Base Decorativa para Festa e Mesa de Doces",
       "price": 38.05,
@@ -27341,6 +27225,35 @@
       "_last_price": null
     },
     {
+      "id": "19398297649",
+      "name": "Ração Para Cachorro 15kg Special Dog Ultralife Gold Performance Adulto Carne Frango e Batata Doce",
+      "price": 136.99,
+      "original_price": 190.26,
+      "discount": 28.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mobx7hnycrgjc0",
+      "link": "https://s.shopee.com.br/5q8mzTDBof",
+      "rating": "4.9",
+      "sales": 1508,
+      "shop": "animalzecommerce",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19398297649,
+        "productName": "Ração Para Cachorro 15kg Special Dog Ultralife Gold Performance Adulto Carne Frango e Batata Doce",
+        "price": "136.99",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.03",
+        "sales": 1508,
+        "ratingStar": "4.9",
+        "shopName": "animalzecommerce",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mobx7hnycrgjc0",
+        "productLink": "https://shopee.com.br/product/1509105042/19398297649",
+        "offerLink": "https://s.shopee.com.br/5q8mzTDBof"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22296602711",
       "name": "Rede de Pesca Malha 5,6,7,8,9,10, 11, 12, 13, 14, 16 Fio 0,25 com 2 Metros de Altura",
       "price": 93.9,
@@ -27395,6 +27308,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwo-lxlkc48y5z0qbe",
         "productLink": "https://shopee.com.br/product/290073877/20799325352",
         "offerLink": "https://s.shopee.com.br/60SDBhjNAs"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22693185466",
+      "name": "Carrinho Ônibus Escolar Transparente com Engrenagens- Com Luz e Som- Movimentação por Inércia (Fricção)- Brinquedo",
+      "price": 14.99,
+      "original_price": 20.53,
+      "discount": 27.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rff4-m355q8wymnruce",
+      "link": "https://s.shopee.com.br/1LgNeYVaRN",
+      "rating": "4.7",
+      "sales": 1215,
+      "shop": "leve bazar",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22693185466,
+        "productName": "Carrinho Ônibus Escolar Transparente com Engrenagens- Com Luz e Som- Movimentação por Inércia (Fricção)- Brinquedo",
+        "price": "14.99",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.03",
+        "sales": 1215,
+        "ratingStar": "4.7",
+        "shopName": "leve bazar",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rff4-m355q8wymnruce",
+        "productLink": "https://shopee.com.br/product/1318087887/22693185466",
+        "offerLink": "https://s.shopee.com.br/1LgNeYVaRN"
       },
       "_last_price": null
     },
@@ -27859,35 +27801,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwd-m0ac9dpy96o086",
         "productLink": "https://shopee.com.br/product/1194006916/22893283679",
         "offerLink": "https://s.shopee.com.br/3B81trMll5"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58201469419",
-      "name": "Ração SuperPremium Bionatural Prime Para Gatos Castrados Sabor Frango 7.5kg",
-      "price": 140.25,
-      "original_price": 189.53,
-      "discount": 26.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhuibgwx00le00",
-      "link": "https://s.shopee.com.br/7faU7usNWZ",
-      "rating": "5",
-      "sales": 1757,
-      "shop": "animalzecommerce",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58201469419,
-        "productName": "Ração SuperPremium Bionatural Prime Para Gatos Castrados Sabor Frango 7.5kg",
-        "price": "140.25",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.03",
-        "sales": 1757,
-        "ratingStar": "5",
-        "shopName": "animalzecommerce",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhuibgwx00le00",
-        "productLink": "https://shopee.com.br/product/1509105042/58201469419",
-        "offerLink": "https://s.shopee.com.br/7faU7usNWZ"
       },
       "_last_price": null
     },
@@ -30154,6 +30067,35 @@
       "_last_price": null
     },
     {
+      "id": "58201469419",
+      "name": "Ração SuperPremium Bionatural Prime Para Gatos Castrados Sabor Frango 7.5kg",
+      "price": 149.19,
+      "original_price": 188.85,
+      "discount": 21.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhuibgwx00le00",
+      "link": "https://s.shopee.com.br/7faU7usNWZ",
+      "rating": "5",
+      "sales": 1757,
+      "shop": "animalzecommerce",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58201469419,
+        "productName": "Ração SuperPremium Bionatural Prime Para Gatos Castrados Sabor Frango 7.5kg",
+        "price": "149.19",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.03",
+        "sales": 1757,
+        "ratingStar": "5",
+        "shopName": "animalzecommerce",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhuibgwx00le00",
+        "productLink": "https://shopee.com.br/product/1509105042/58201469419",
+        "offerLink": "https://s.shopee.com.br/7faU7usNWZ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "57205646686",
       "name": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
       "price": 181.75,
@@ -30527,6 +30469,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mm1wtgtq87408a",
         "productLink": "https://shopee.com.br/product/373261329/22898980977",
         "offerLink": "https://s.shopee.com.br/20w4QMl4DN"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58265242344",
+      "name": "Principia kit com 2 Protetores solares com cor PS-05-escolha seu tom",
+      "price": 86.39,
+      "original_price": 107.99,
+      "discount": 20.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr916ovqrsp164",
+      "link": "https://s.shopee.com.br/9fLYewWOLX",
+      "rating": "4.9",
+      "sales": 2129,
+      "shop": "Principia Skincare",
+      "category": "protetor solar",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58265242344,
+        "productName": "Principia kit com 2 Protetores solares com cor PS-05-escolha seu tom",
+        "price": "86.39",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.13",
+        "sales": 2129,
+        "ratingStar": "4.9",
+        "shopName": "Principia Skincare",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr916ovqrsp164",
+        "productLink": "https://shopee.com.br/product/373261329/58265242344",
+        "offerLink": "https://s.shopee.com.br/9fLYewWOLX"
       },
       "_last_price": null
     },
