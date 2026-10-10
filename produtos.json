@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-10T15:27:22.293650+00:00",
-  "total": 1134,
+  "updated_at": "2026-10-10T15:47:06.802381+00:00",
+  "total": 1132,
   "products": [
     {
       "id": "58210104632",
@@ -86,7 +86,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-msxmjc87thc46e",
         "productLink": "https://shopee.com.br/product/1198407784/52807406192",
         "offerLink": "https://s.shopee.com.br/9Kif9xKn1m"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21099546181",
@@ -460,35 +461,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-824jh-meid7h7zauiv8e",
         "productLink": "https://shopee.com.br/product/1006215031/42971009476",
         "offerLink": "https://s.shopee.com.br/9Kif9xyO68"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23399029450",
-      "name": "Bóia Infantil Colete Salva Vidas Inflável Piscina Praia",
-      "price": 15.99,
-      "original_price": 88.83,
-      "discount": 82.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lq-mu0tycy1648x73",
-      "link": "https://s.shopee.com.br/gQgq63Mni",
-      "rating": "4.8",
-      "sales": 196,
-      "shop": "HELPLO",
-      "category": "colete salva vidas",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23399029450,
-        "productName": "Bóia Infantil Colete Salva Vidas Inflável Piscina Praia",
-        "price": "15.99",
-        "priceDiscountRate": 82,
-        "commissionRate": "0.11",
-        "sales": 196,
-        "ratingStar": "4.8",
-        "shopName": "HELPLO",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mu0tycy1648x73",
-        "productLink": "https://shopee.com.br/product/1298416721/23399029450",
-        "offerLink": "https://s.shopee.com.br/gQgq63Mni"
       },
       "_last_price": null
     },
@@ -1239,6 +1211,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820op-mnafxlvkxr7k25",
         "productLink": "https://shopee.com.br/product/1807048168/57109179747",
         "offerLink": "https://s.shopee.com.br/7VH0yb5Moz"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23399029450",
+      "name": "Bóia Infantil Colete Salva Vidas Inflável Piscina Praia",
+      "price": 19.69,
+      "original_price": 89.5,
+      "discount": 78.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lq-mu0tycy1648x73",
+      "link": "https://s.shopee.com.br/gQgq63Mni",
+      "rating": "4.8",
+      "sales": 196,
+      "shop": "HELPLO",
+      "category": "colete salva vidas",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23399029450,
+        "productName": "Bóia Infantil Colete Salva Vidas Inflável Piscina Praia",
+        "price": "19.69",
+        "priceDiscountRate": 78,
+        "commissionRate": "0.11",
+        "sales": 196,
+        "ratingStar": "4.8",
+        "shopName": "HELPLO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mu0tycy1648x73",
+        "productLink": "https://shopee.com.br/product/1298416721/23399029450",
+        "offerLink": "https://s.shopee.com.br/gQgq63Mni"
       },
       "_last_price": null
     },
@@ -3587,8 +3588,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/4d3d9eceb4a23732c4b0f88ec5f6e5fa",
         "productLink": "https://shopee.com.br/product/233660920/21635320174",
         "offerLink": "https://s.shopee.com.br/4fwr4YXxM8"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "17255136776",
@@ -3674,6 +3674,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mrm1isre6juu61",
         "productLink": "https://shopee.com.br/product/1588692817/50815623138",
         "offerLink": "https://s.shopee.com.br/8pmOjU7Jtu"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18623190615",
+      "name": "Par Manguito Com Dedo Proteção Solar UV50+ Manga Esportiva Protetor Solar Uv Mangas",
+      "price": 7.99,
+      "original_price": 24.97,
+      "discount": 68.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/b00547f24fc70a45e7e053d7ad172265",
+      "link": "https://s.shopee.com.br/8pmRfPZZ2O",
+      "rating": "4.5",
+      "sales": 621,
+      "shop": "hengben4.br",
+      "category": "protetor solar",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18623190615,
+        "productName": "Par Manguito Com Dedo Proteção Solar UV50+ Manga Esportiva Protetor Solar Uv Mangas",
+        "price": "7.99",
+        "priceDiscountRate": 68,
+        "commissionRate": "0.13",
+        "sales": 621,
+        "ratingStar": "4.5",
+        "shopName": "hengben4.br",
+        "imageUrl": "https://cf.shopee.com.br/file/b00547f24fc70a45e7e053d7ad172265",
+        "productLink": "https://shopee.com.br/product/412809126/18623190615",
+        "offerLink": "https://s.shopee.com.br/8pmRfPZZ2O"
       },
       "_last_price": null
     },
@@ -6316,6 +6345,35 @@
       "_last_price": null
     },
     {
+      "id": "22294256002",
+      "name": "Miniatura Fusquinha Carrinho De Ferro Fusca Fricção Abre Porta",
+      "price": 16.99,
+      "original_price": 44.71,
+      "discount": 62.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxg-mci7tatwspgme5",
+      "link": "https://s.shopee.com.br/9APICF4LCY",
+      "rating": "4.8",
+      "sales": 795,
+      "shop": "MSFilm",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22294256002,
+        "productName": "Miniatura Fusquinha Carrinho De Ferro Fusca Fricção Abre Porta",
+        "price": "16.99",
+        "priceDiscountRate": 62,
+        "commissionRate": "0.03",
+        "sales": 795,
+        "ratingStar": "4.8",
+        "shopName": "MSFilm",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxg-mci7tatwspgme5",
+        "productLink": "https://shopee.com.br/product/301195728/22294256002",
+        "offerLink": "https://s.shopee.com.br/9APICF4LCY"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58256996145",
       "name": "Kit 4 Coleiras Antiparasitária Dugs Antipulgas e Carrapatos Cães World Veterinária",
       "price": 36.9,
@@ -7878,35 +7936,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mor9xtvj1lvk61",
         "productLink": "https://shopee.com.br/product/462426918/22894975184",
         "offerLink": "https://s.shopee.com.br/80DHZNbl7S"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "19099843848",
-      "name": "Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
-      "price": 20.55,
-      "original_price": 50.12,
-      "discount": 59.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mci6w7lu1s75b8",
-      "link": "https://s.shopee.com.br/6fhtyyAkzC",
-      "rating": "4.7",
-      "sales": 2368,
-      "shop": "Toy's Shopp",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19099843848,
-        "productName": "Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
-        "price": "20.55",
-        "priceDiscountRate": 59,
-        "commissionRate": "0.03",
-        "sales": 2368,
-        "ratingStar": "4.7",
-        "shopName": "Toy's Shopp",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mci6w7lu1s75b8",
-        "productLink": "https://shopee.com.br/product/767498858/19099843848",
-        "offerLink": "https://s.shopee.com.br/6fhtyyAkzC"
       },
       "_last_price": null
     },
@@ -12058,35 +12087,6 @@
       "_last_price": null
     },
     {
-      "id": "58205435109",
-      "name": "Coleira Guia Retrátil 3/5 Metros Pets Cachorro Cães Gatos Resistente com Trava até 12kg",
-      "price": 14.9,
-      "original_price": 31.04,
-      "discount": 52.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8260p-mkvx34nhyio4ff",
-      "link": "https://s.shopee.com.br/6fhxCKGBN5",
-      "rating": "4.8",
-      "sales": 1067,
-      "shop": "Abelume Store",
-      "category": "coleira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58205435109,
-        "productName": "Coleira Guia Retrátil 3/5 Metros Pets Cachorro Cães Gatos Resistente com Trava até 12kg",
-        "price": "14.9",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 1067,
-        "ratingStar": "4.8",
-        "shopName": "Abelume Store",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260p-mkvx34nhyio4ff",
-        "productLink": "https://shopee.com.br/product/1137412789/58205435109",
-        "offerLink": "https://s.shopee.com.br/6fhxCKGBN5"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22893806671",
       "name": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
       "price": 39.45,
@@ -12377,6 +12377,35 @@
       "_last_price": null
     },
     {
+      "id": "19099843848",
+      "name": "Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
+      "price": 24.85,
+      "original_price": 50.71,
+      "discount": 51.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mci6w7lu1s75b8",
+      "link": "https://s.shopee.com.br/6fhtyyAkzC",
+      "rating": "4.7",
+      "sales": 2368,
+      "shop": "Toy's Shopp",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19099843848,
+        "productName": "Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
+        "price": "24.85",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.03",
+        "sales": 2368,
+        "ratingStar": "4.7",
+        "shopName": "Toy's Shopp",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mci6w7lu1s75b8",
+        "productLink": "https://shopee.com.br/product/767498858/19099843848",
+        "offerLink": "https://s.shopee.com.br/6fhtyyAkzC"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23197485445",
       "name": "Whey Protein Fuse 900g Isolate Dark Lab",
       "price": 78.9,
@@ -12489,6 +12518,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a7-mt6qx0csu4uee8",
         "productLink": "https://shopee.com.br/product/734718734/22697337602",
         "offerLink": "https://s.shopee.com.br/BUQF4GgsB"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58216213723",
+      "name": "Coleira Peitoral Cachorro Gato Cães Confortável Pequenos e Médios Reflexiva Kit Guia + Coleira Ajustável",
+      "price": 18.99,
+      "original_price": 38.76,
+      "discount": 51.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825bc-mrvn8tt5ztagcb",
+      "link": "https://s.shopee.com.br/AKbDh0E11b",
+      "rating": "4.9",
+      "sales": 1001,
+      "shop": "Promoforce10",
+      "category": "coleira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58216213723,
+        "productName": "Coleira Peitoral Cachorro Gato Cães Confortável Pequenos e Médios Reflexiva Kit Guia + Coleira Ajustável",
+        "price": "18.99",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.07",
+        "sales": 1001,
+        "ratingStar": "4.9",
+        "shopName": "Promoforce10",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825bc-mrvn8tt5ztagcb",
+        "productLink": "https://shopee.com.br/product/1917618230/58216213723",
+        "offerLink": "https://s.shopee.com.br/AKbDh0E11b"
       },
       "_last_price": null
     },
@@ -15132,35 +15190,6 @@
       "_last_price": null
     },
     {
-      "id": "58256070956",
-      "name": "Camiseta Unissex 100% algodao Oversized One More Rep Estampa Haltere Fitness Treino para Academia envio rapido",
-      "price": 44.52,
-      "original_price": 84.0,
-      "discount": 47.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
-      "link": "https://s.shopee.com.br/1qceE6fx6B",
-      "rating": "4.9",
-      "sales": 16,
-      "shop": "Tees Simples BR",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58256070956,
-        "productName": "Camiseta Unissex 100% algodao Oversized One More Rep Estampa Haltere Fitness Treino para Academia envio rapido",
-        "price": "44.52",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.03",
-        "sales": 16,
-        "ratingStar": "4.9",
-        "shopName": "Tees Simples BR",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
-        "productLink": "https://shopee.com.br/product/1727822533/58256070956",
-        "offerLink": "https://s.shopee.com.br/1qceE6fx6B"
-      },
-      "_last_price": null
-    },
-    {
       "id": "57960684492",
       "name": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
       "price": 10.22,
@@ -15186,6 +15215,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
         "productLink": "https://shopee.com.br/product/252308329/57960684492",
         "offerLink": "https://s.shopee.com.br/8Kq7y3HCuJ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58256070956",
+      "name": "Camiseta Unissex 100% algodao Oversized One More Rep Estampa Haltere Fitness Treino para Academia envio rapido",
+      "price": 44.52,
+      "original_price": 84.0,
+      "discount": 47.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
+      "link": "https://s.shopee.com.br/1qceE6fx6B",
+      "rating": "4.9",
+      "sales": 16,
+      "shop": "Tees Simples BR",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58256070956,
+        "productName": "Camiseta Unissex 100% algodao Oversized One More Rep Estampa Haltere Fitness Treino para Academia envio rapido",
+        "price": "44.52",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.03",
+        "sales": 16,
+        "ratingStar": "4.9",
+        "shopName": "Tees Simples BR",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
+        "productLink": "https://shopee.com.br/product/1727822533/58256070956",
+        "offerLink": "https://s.shopee.com.br/1qceE6fx6B"
       },
       "_last_price": null
     },
@@ -16201,35 +16259,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mpi85szraozm11",
         "productLink": "https://shopee.com.br/product/1676542674/22295054092",
         "offerLink": "https://s.shopee.com.br/W7IAlwStz"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "29637365319",
-      "name": "Varas De Pesca 60-120lbs Completo Com Carretel Esportes Ao Ar Livre Baixo Portátil Linha",
-      "price": 39.95,
-      "original_price": 73.98,
-      "discount": 46.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mfjcq5qv8h7097",
-      "link": "https://s.shopee.com.br/4qGFnmMEHx",
-      "rating": "4.8",
-      "sales": 895,
-      "shop": "BD Boutique De Lustres",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 29637365319,
-        "productName": "Varas De Pesca 60-120lbs Completo Com Carretel Esportes Ao Ar Livre Baixo Portátil Linha",
-        "price": "39.95",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.11",
-        "sales": 895,
-        "ratingStar": "4.8",
-        "shopName": "BD Boutique De Lustres",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mfjcq5qv8h7097",
-        "productLink": "https://shopee.com.br/product/1489642227/29637365319",
-        "offerLink": "https://s.shopee.com.br/4qGFnmMEHx"
       },
       "_last_price": null
     },
@@ -17512,8 +17541,8 @@
     {
       "id": "22999395063",
       "name": "Cafeteira Italiana Inox Espresso Fogão Gás ou Indução.",
-      "price": 39.99,
-      "original_price": 71.41,
+      "price": 44.49,
+      "original_price": 79.45,
       "discount": 44.0,
       "commission": 5.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mly6z4jt0um8a0",
@@ -17526,7 +17555,7 @@
       "_item": {
         "itemId": 22999395063,
         "productName": "Cafeteira Italiana Inox Espresso Fogão Gás ou Indução.",
-        "price": "39.99",
+        "price": "44.49",
         "priceDiscountRate": 44,
         "commissionRate": "0.05",
         "sales": 1319,
@@ -18960,6 +18989,35 @@
       "_last_price": null
     },
     {
+      "id": "29637365319",
+      "name": "Varas De Pesca 60-120lbs Completo Com Carretel Esportes Ao Ar Livre Baixo Portátil Linha",
+      "price": 39.95,
+      "original_price": 68.88,
+      "discount": 42.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mfjcq5qv8h7097",
+      "link": "https://s.shopee.com.br/4qGFnmMEHx",
+      "rating": "4.8",
+      "sales": 895,
+      "shop": "BD Boutique De Lustres",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 29637365319,
+        "productName": "Varas De Pesca 60-120lbs Completo Com Carretel Esportes Ao Ar Livre Baixo Portátil Linha",
+        "price": "39.95",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.11",
+        "sales": 895,
+        "ratingStar": "4.8",
+        "shopName": "BD Boutique De Lustres",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mfjcq5qv8h7097",
+        "productLink": "https://shopee.com.br/product/1489642227/29637365319",
+        "offerLink": "https://s.shopee.com.br/4qGFnmMEHx"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22197604954",
       "name": "Vara De Pesca 1.8M Completa + Molinete máxtração 50 kg Ao Ar Livre Resistente E Durável",
       "price": 38.0,
@@ -19333,35 +19391,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mp7xcaguk1s064",
         "productLink": "https://shopee.com.br/product/1446536761/23893212954",
         "offerLink": "https://s.shopee.com.br/3g4IPV3Mm0"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58265641981",
-      "name": "Casinha de Cachorro Grande Porte N8 ou N9 Casa Pet Big Casa de Cachorro",
-      "price": 167.9,
-      "original_price": 284.58,
-      "discount": 41.0,
-      "commission": 17.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8258l-mrj0ts8i0tmtdc",
-      "link": "https://s.shopee.com.br/1gJH8IUVAi",
-      "rating": "4.7",
-      "sales": 347,
-      "shop": "veonvoimport",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58265641981,
-        "productName": "Casinha de Cachorro Grande Porte N8 ou N9 Casa Pet Big Casa de Cachorro",
-        "price": "167.9",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.17",
-        "sales": 347,
-        "ratingStar": "4.7",
-        "shopName": "veonvoimport",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258l-mrj0ts8i0tmtdc",
-        "productLink": "https://shopee.com.br/product/1477680057/58265641981",
-        "offerLink": "https://s.shopee.com.br/1gJH8IUVAi"
       },
       "_last_price": null
     },
@@ -21427,8 +21456,8 @@
     {
       "id": "22394414025",
       "name": "Kit 32 Fraldas Geriátricas Unissex ConfortMaster Pants  P/M G/EG Calcinha/Cueca Incontinência Severa",
-      "price": 77.98,
-      "original_price": 125.77,
+      "price": 77.99,
+      "original_price": 125.79,
       "discount": 38.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mflkux3b9af954",
@@ -21441,7 +21470,7 @@
       "_item": {
         "itemId": 22394414025,
         "productName": "Kit 32 Fraldas Geriátricas Unissex ConfortMaster Pants  P/M G/EG Calcinha/Cueca Incontinência Severa",
-        "price": "77.98",
+        "price": "77.99",
         "priceDiscountRate": 38,
         "commissionRate": "0.03",
         "sales": 1903,
@@ -23020,35 +23049,6 @@
       "_last_price": null
     },
     {
-      "id": "22498328593",
-      "name": "Kit Transportador Ajustável para Cães e Gatos com Coleira de Malha para Todas as Estações",
-      "price": 18.71,
-      "original_price": 29.23,
-      "discount": 36.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mezde4nxul8n64",
-      "link": "https://s.shopee.com.br/7VH4BrD0gI",
-      "rating": "4.9",
-      "sales": 1145,
-      "shop": "Atisen",
-      "category": "coleira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22498328593,
-        "productName": "Kit Transportador Ajustável para Cães e Gatos com Coleira de Malha para Todas as Estações",
-        "price": "18.71",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.1",
-        "sales": 1145,
-        "ratingStar": "4.9",
-        "shopName": "Atisen",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mezde4nxul8n64",
-        "productLink": "https://shopee.com.br/product/1451694145/22498328593",
-        "offerLink": "https://s.shopee.com.br/7VH4BrD0gI"
-      },
-      "_last_price": null
-    },
-    {
       "id": "8020679826",
       "name": "Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades",
       "price": 109.99,
@@ -23364,35 +23364,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258o-msbwr4svgah18a",
         "productLink": "https://shopee.com.br/product/616222685/14463127889",
         "offerLink": "https://s.shopee.com.br/9zyP4toScu"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22298895580",
-      "name": "Novo 2026 Caminhão Dinossauro engolidor e Porta-carrinhos com 4 Carrinhos de Fricção.🚚",
-      "price": 63.99,
-      "original_price": 98.45,
-      "discount": 35.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me9bc6uzn1ts52",
-      "link": "https://s.shopee.com.br/6AldO3Cf03",
-      "rating": "4.9",
-      "sales": 2372,
-      "shop": "ESTRELAS E MAR",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22298895580,
-        "productName": "Novo 2026 Caminhão Dinossauro engolidor e Porta-carrinhos com 4 Carrinhos de Fricção.🚚",
-        "price": "63.99",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.03",
-        "sales": 2372,
-        "ratingStar": "4.9",
-        "shopName": "ESTRELAS E MAR",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me9bc6uzn1ts52",
-        "productLink": "https://shopee.com.br/product/1098567159/22298895580",
-        "offerLink": "https://s.shopee.com.br/6AldO3Cf03"
       },
       "_last_price": null
     },
@@ -25021,35 +24992,6 @@
       "_last_price": null
     },
     {
-      "id": "11869643265",
-      "name": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
-      "price": 99.99,
-      "original_price": 147.04,
-      "discount": 32.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
-      "link": "https://s.shopee.com.br/30obhYNP62",
-      "rating": "4.9",
-      "sales": 4276,
-      "shop": "Popular Pet",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 11869643265,
-        "productName": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
-        "price": "99.99",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.06",
-        "sales": 4276,
-        "ratingStar": "4.9",
-        "shopName": "Popular Pet",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
-        "productLink": "https://shopee.com.br/product/398944029/11869643265",
-        "offerLink": "https://s.shopee.com.br/30obhYNP62"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23697597322",
       "name": "Petisco Para Gatos Churu 56g - Contém 4 Tubets De 14g Cada Unidade - Vários Sabores",
       "price": 22.9,
@@ -26125,8 +26067,8 @@
     {
       "id": "58254138962",
       "name": "Kit Shampoo + Condicionador + Máscara + Ativador de Cachos + Creme de Pentear SOS Cachos Kids Hidratação",
-      "price": 77.6,
-      "original_price": 110.86,
+      "price": 77.7,
+      "original_price": 111.0,
       "discount": 30.0,
       "commission": 18.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzueege6fwgeb",
@@ -26139,7 +26081,7 @@
       "_item": {
         "itemId": 58254138962,
         "productName": "Kit Shampoo + Condicionador + Máscara + Ativador de Cachos + Creme de Pentear SOS Cachos Kids Hidratação",
-        "price": "77.6",
+        "price": "77.7",
         "priceDiscountRate": 30,
         "commissionRate": "0.18",
         "sales": 1609,
@@ -26380,35 +26322,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-molm14xtl9fk0d",
         "productLink": "https://shopee.com.br/product/1359702491/58206605624",
         "offerLink": "https://s.shopee.com.br/5VVwy7HCIz"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18899192318",
-      "name": "Peitoral para Cachorro Grande com Guia Antipuxão Regulável | Pitbull, Rottweiler, Doberman e Raças Fortes",
-      "price": 18.2,
-      "original_price": 26.0,
-      "discount": 30.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mrkb6xnxi7lx76",
-      "link": "https://s.shopee.com.br/7ptuaTBk0K",
-      "rating": "4.7",
-      "sales": 521,
-      "shop": "WORLD DOS ANIMAIS",
-      "category": "coleira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18899192318,
-        "productName": "Peitoral para Cachorro Grande com Guia Antipuxão Regulável | Pitbull, Rottweiler, Doberman e Raças Fortes",
-        "price": "18.2",
-        "priceDiscountRate": 30,
-        "commissionRate": "0.03",
-        "sales": 521,
-        "ratingStar": "4.7",
-        "shopName": "WORLD DOS ANIMAIS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mrkb6xnxi7lx76",
-        "productLink": "https://shopee.com.br/product/995130453/18899192318",
-        "offerLink": "https://s.shopee.com.br/7ptuaTBk0K"
       },
       "_last_price": null
     },
@@ -27598,6 +27511,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mqm1omgp7zf186",
         "productLink": "https://shopee.com.br/product/1686971749/44763955954",
         "offerLink": "https://s.shopee.com.br/3VkvAFqVI5"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22197602404",
+      "name": "Casinha Cachorro N5 Casa Porte Pequeno Com Proteção Raios UV  desmontável  Lavável",
+      "price": 51.0,
+      "original_price": 69.86,
+      "discount": 27.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mtf7xo9iscg26e",
+      "link": "https://s.shopee.com.br/1VznpWBcAZ",
+      "rating": "4.5",
+      "sales": 580,
+      "shop": "De AZ casa",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22197602404,
+        "productName": "Casinha Cachorro N5 Casa Porte Pequeno Com Proteção Raios UV  desmontável  Lavável",
+        "price": "51",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.03",
+        "sales": 580,
+        "ratingStar": "4.5",
+        "shopName": "De AZ casa",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtf7xo9iscg26e",
+        "productLink": "https://shopee.com.br/product/1246701013/22197602404",
+        "offerLink": "https://s.shopee.com.br/1VznpWBcAZ"
       },
       "_last_price": null
     },
@@ -29632,6 +29574,35 @@
       "_last_price": null
     },
     {
+      "id": "11869643265",
+      "name": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
+      "price": 114.99,
+      "original_price": 147.42,
+      "discount": 22.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
+      "link": "https://s.shopee.com.br/30obhYNP62",
+      "rating": "4.9",
+      "sales": 4276,
+      "shop": "Popular Pet",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 11869643265,
+        "productName": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
+        "price": "114.99",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.06",
+        "sales": 4276,
+        "ratingStar": "4.9",
+        "shopName": "Popular Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
+        "productLink": "https://shopee.com.br/product/398944029/11869643265",
+        "offerLink": "https://s.shopee.com.br/30obhYNP62"
+      },
+      "_last_price": null
+    },
+    {
       "id": "10971341240",
       "name": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente",
       "price": 121.41,
@@ -30676,35 +30647,6 @@
       "_last_price": null
     },
     {
-      "id": "58205500149",
-      "name": "Coleira Pet Personalizada para Cachorro Gato Macho Fêmea – Com Nome Gravado",
-      "price": 25.52,
-      "original_price": 31.9,
-      "discount": 20.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820la-mnxqibkrl4ap39",
-      "link": "https://s.shopee.com.br/7faUOACNLJ",
-      "rating": "4.9",
-      "sales": 712,
-      "shop": "ACESSEI AKI",
-      "category": "coleira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58205500149,
-        "productName": "Coleira Pet Personalizada para Cachorro Gato Macho Fêmea – Com Nome Gravado",
-        "price": "25.52",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.18",
-        "sales": 712,
-        "ratingStar": "4.9",
-        "shopName": "ACESSEI AKI",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mnxqibkrl4ap39",
-        "productLink": "https://shopee.com.br/product/1253682425/58205500149",
-        "offerLink": "https://s.shopee.com.br/7faUOACNLJ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "51263661034",
       "name": "Conjunto de 2 óculos de sol feminino, estilo retrô clássico, com armação redonda de metal, design coreano, proteção UV",
       "price": 13.0,
@@ -31459,6 +31401,35 @@
       "_last_price": null
     },
     {
+      "id": "55816802474",
+      "name": "Whey Protein Concentrado Growth Supplements",
+      "price": 220.41,
+      "original_price": 268.79,
+      "discount": 18.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8258y-msdkb3hgwi6ade",
+      "link": "https://s.shopee.com.br/6L53jcM90o",
+      "rating": "4.9",
+      "sales": 4052,
+      "shop": "GROWTH SUPPLEMENTS",
+      "category": "whey protein",
+      "source": "shopee",
+      "_item": {
+        "itemId": 55816802474,
+        "productName": "Whey Protein Concentrado Growth Supplements",
+        "price": "220.41",
+        "priceDiscountRate": 18,
+        "commissionRate": "0.06",
+        "sales": 4052,
+        "ratingStar": "4.9",
+        "shopName": "GROWTH SUPPLEMENTS",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258y-msdkb3hgwi6ade",
+        "productLink": "https://shopee.com.br/product/1876581966/55816802474",
+        "offerLink": "https://s.shopee.com.br/6L53jcM90o"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23097346417",
       "name": "Liquidificador Rosa Britânia 1400W 3L 12 Velocidades BLQ1300RS",
       "price": 139.9,
@@ -32122,35 +32093,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mozu0cnbzz7q3f",
         "productLink": "https://shopee.com.br/product/904040298/58211837467",
         "offerLink": "https://s.shopee.com.br/9fLVhk9SFm"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22693991174",
-      "name": "Coleira para Cães/Gatos Contra Pulgas, Carrapatos e Leishmaniose, Proteção Ajustável de Silicone Anti-Mosquito 8 Meses",
-      "price": 17.99,
-      "original_price": 21.42,
-      "discount": 16.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9xu5qteawhuf3",
-      "link": "https://s.shopee.com.br/6q1NOdFY26",
-      "rating": "4.8",
-      "sales": 838,
-      "shop": "Mercadinho Completa",
-      "category": "coleira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22693991174,
-        "productName": "Coleira para Cães/Gatos Contra Pulgas, Carrapatos e Leishmaniose, Proteção Ajustável de Silicone Anti-Mosquito 8 Meses",
-        "price": "17.99",
-        "priceDiscountRate": 16,
-        "commissionRate": "0.13",
-        "sales": 838,
-        "ratingStar": "4.8",
-        "shopName": "Mercadinho Completa",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9xu5qteawhuf3",
-        "productLink": "https://shopee.com.br/product/1532520364/22693991174",
-        "offerLink": "https://s.shopee.com.br/6q1NOdFY26"
       },
       "_last_price": null
     },
