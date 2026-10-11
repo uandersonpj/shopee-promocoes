@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T16:48:40.194129+00:00",
-  "total": 1128,
+  "updated_at": "2026-10-11T17:08:09.807104+00:00",
+  "total": 1130,
   "products": [
     {
       "id": "58210104632",
@@ -1063,7 +1063,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mu0tycy1648x73",
         "productLink": "https://shopee.com.br/product/1298416721/23399029450",
         "offerLink": "https://s.shopee.com.br/AAHqwb31BG"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "29293277544",
@@ -2133,35 +2134,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxu-mcwcg2khd6evec",
         "productLink": "https://shopee.com.br/product/627750190/22594284546",
         "offerLink": "https://s.shopee.com.br/1LgSQAjxjx"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22193849980",
-      "name": "Sérum Clareador de Manchas Facial - Hidratante 30ml",
-      "price": 15.29,
-      "original_price": 54.61,
-      "discount": 72.0,
-      "commission": 23.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mtd0czcsu8030c",
-      "link": "https://s.shopee.com.br/30ogPIG0Gs",
-      "rating": "4.8",
-      "sales": 2495,
-      "shop": "jessiemporio",
-      "category": "creme facial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22193849980,
-        "productName": "Sérum Clareador de Manchas Facial - Hidratante 30ml",
-        "price": "15.29",
-        "priceDiscountRate": 72,
-        "commissionRate": "0.23",
-        "sales": 2495,
-        "ratingStar": "4.8",
-        "shopName": "jessiemporio",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mtd0czcsu8030c",
-        "productLink": "https://shopee.com.br/product/1107644568/22193849980",
-        "offerLink": "https://s.shopee.com.br/30ogPIG0Gs"
       },
       "_last_price": null
     },
@@ -3728,6 +3700,35 @@
       "_last_price": null
     },
     {
+      "id": "23099202898",
+      "name": "Casinha Pet Resistente | Portátil Dobrável Grande para Cães e Gatos",
+      "price": 47.85,
+      "original_price": 149.53,
+      "discount": 68.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-822xf-mi4k1qf3ez2fc6",
+      "link": "https://s.shopee.com.br/80DMUb9Mwg",
+      "rating": "4.9",
+      "sales": 464,
+      "shop": "MY COMERCIO",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23099202898,
+        "productName": "Casinha Pet Resistente | Portátil Dobrável Grande para Cães e Gatos",
+        "price": "47.85",
+        "priceDiscountRate": 68,
+        "commissionRate": "0.03",
+        "sales": 464,
+        "ratingStar": "4.9",
+        "shopName": "MY COMERCIO",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xf-mi4k1qf3ez2fc6",
+        "productLink": "https://shopee.com.br/product/371656735/23099202898",
+        "offerLink": "https://s.shopee.com.br/80DMUb9Mwg"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23026990667",
       "name": "Isca De Pesca 15g 13g 8g 5g Rã Thunder Frog Com Falsa Anzol Duplo De Aço De Alto Carbono Macia Cor Da Cauda",
       "price": 4.08,
@@ -3927,6 +3928,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rblp-lmkqj16uwzfd84",
         "productLink": "https://shopee.com.br/product/1034291231/23891732730",
         "offerLink": "https://s.shopee.com.br/7ptwBUiDPT"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22193849980",
+      "name": "Sérum Clareador de Manchas Facial - Hidratante 30ml",
+      "price": 17.99,
+      "original_price": 54.52,
+      "discount": 67.0,
+      "commission": 23.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mtd0czcsu8030c",
+      "link": "https://s.shopee.com.br/30ogPIG0Gs",
+      "rating": "4.8",
+      "sales": 2495,
+      "shop": "jessiemporio",
+      "category": "creme facial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22193849980,
+        "productName": "Sérum Clareador de Manchas Facial - Hidratante 30ml",
+        "price": "17.99",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.23",
+        "sales": 2495,
+        "ratingStar": "4.8",
+        "shopName": "jessiemporio",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mtd0czcsu8030c",
+        "productLink": "https://shopee.com.br/product/1107644568/22193849980",
+        "offerLink": "https://s.shopee.com.br/30ogPIG0Gs"
       },
       "_last_price": null
     },
@@ -4713,35 +4743,6 @@
       "_last_price": null
     },
     {
-      "id": "47100924313",
-      "name": "[baipestoner] Chaveiro Com Halteres Para Academia Moda 3D PVC Haltere Chave De Carro Carteira Mochila Pingente Presentes",
-      "price": 12.74,
-      "original_price": 36.4,
-      "discount": 65.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-821cz-mgq3slrsdqmh67",
-      "link": "https://s.shopee.com.br/4LK3zlx3bp",
-      "rating": "5",
-      "sales": 24,
-      "shop": "baipestoner.br",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 47100924313,
-        "productName": "[baipestoner] Chaveiro Com Halteres Para Academia Moda 3D PVC Haltere Chave De Carro Carteira Mochila Pingente Presentes",
-        "price": "12.74",
-        "priceDiscountRate": 65,
-        "commissionRate": "0.03",
-        "sales": 24,
-        "ratingStar": "5",
-        "shopName": "baipestoner.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821cz-mgq3slrsdqmh67",
-        "productLink": "https://shopee.com.br/product/589726853/47100924313",
-        "offerLink": "https://s.shopee.com.br/4LK3zlx3bp"
-      },
-      "_last_price": null
-    },
-    {
       "id": "44756145784",
       "name": "Haltere Ajustável Colorido 24kg Com Base Elite Pro 4kg",
       "price": 609.0,
@@ -4767,6 +4768,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsyy1vntp8g61",
         "productLink": "https://shopee.com.br/product/1613783173/44756145784",
         "offerLink": "https://s.shopee.com.br/4B0dnSxgwo"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "47100924313",
+      "name": "[baipestoner] Chaveiro Com Halteres Para Academia Moda 3D PVC Haltere Chave De Carro Carteira Mochila Pingente Presentes",
+      "price": 12.74,
+      "original_price": 36.4,
+      "discount": 65.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-821cz-mgq3slrsdqmh67",
+      "link": "https://s.shopee.com.br/4LK3zlx3bp",
+      "rating": "5",
+      "sales": 24,
+      "shop": "baipestoner.br",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 47100924313,
+        "productName": "[baipestoner] Chaveiro Com Halteres Para Academia Moda 3D PVC Haltere Chave De Carro Carteira Mochila Pingente Presentes",
+        "price": "12.74",
+        "priceDiscountRate": 65,
+        "commissionRate": "0.03",
+        "sales": 24,
+        "ratingStar": "5",
+        "shopName": "baipestoner.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821cz-mgq3slrsdqmh67",
+        "productLink": "https://shopee.com.br/product/589726853/47100924313",
+        "offerLink": "https://s.shopee.com.br/4LK3zlx3bp"
       },
       "_last_price": null
     },
@@ -5612,6 +5642,35 @@
       "_last_price": null
     },
     {
+      "id": "11485271859",
+      "name": "Peitoral e Guia para Cachorro Coleira Caes E Gatos Colete Regulavel Confortavel para Pet Pequeno",
+      "price": 14.84,
+      "original_price": 40.11,
+      "discount": 63.0,
+      "commission": 19.0,
+      "image": "https://cf.shopee.com.br/file/61acc9ceab520f01c88143404e1ea3dd",
+      "link": "https://s.shopee.com.br/80DIuiMtlB",
+      "rating": "4.9",
+      "sales": 1183,
+      "shop": "OThe Pets",
+      "category": "coleira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 11485271859,
+        "productName": "Peitoral e Guia para Cachorro Coleira Caes E Gatos Colete Regulavel Confortavel para Pet Pequeno",
+        "price": "14.84",
+        "priceDiscountRate": 63,
+        "commissionRate": "0.19",
+        "sales": 1183,
+        "ratingStar": "4.9",
+        "shopName": "OThe Pets",
+        "imageUrl": "https://cf.shopee.com.br/file/61acc9ceab520f01c88143404e1ea3dd",
+        "productLink": "https://shopee.com.br/product/321570462/11485271859",
+        "offerLink": "https://s.shopee.com.br/80DIuiMtlB"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23335280590",
       "name": "Kit Cozinha Infantil Completa Peças Educativa Batedeira Liquidificador Panelinha Brinquedo",
       "price": 54.95,
@@ -5840,8 +5899,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zr-mklbm2prptdx7f",
         "productLink": "https://shopee.com.br/product/664761873/21998128832",
         "offerLink": "https://s.shopee.com.br/6L58Ogxw7l"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58262310122",
@@ -6681,6 +6739,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mrx63z3it9mubf",
         "productLink": "https://shopee.com.br/product/1862403124/58265090177",
         "offerLink": "https://s.shopee.com.br/8KqCl8ucme"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23094783913",
+      "name": "Casinha de cachorro grande portátil dobrável para cachorros e gatos resistente",
+      "price": 49.89,
+      "original_price": 127.92,
+      "discount": 61.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-822yi-mi7jaepknytecf",
+      "link": "https://s.shopee.com.br/AUuhTBzqsD",
+      "rating": "5",
+      "sales": 227,
+      "shop": "casa eletronico ltda",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23094783913,
+        "productName": "Casinha de cachorro grande portátil dobrável para cachorros e gatos resistente",
+        "price": "49.89",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.03",
+        "sales": 227,
+        "ratingStar": "5",
+        "shopName": "casa eletronico ltda",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822yi-mi7jaepknytecf",
+        "productLink": "https://shopee.com.br/product/885874536/23094783913",
+        "offerLink": "https://s.shopee.com.br/AUuhTBzqsD"
       },
       "_last_price": null
     },
@@ -7928,35 +8015,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mor9xtvj1lvk61",
         "productLink": "https://shopee.com.br/product/462426918/22894975184",
         "offerLink": "https://s.shopee.com.br/AAHqwRxvKL"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "19099843848",
-      "name": "Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
-      "price": 20.55,
-      "original_price": 50.12,
-      "discount": 59.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mci6w7lu1s75b8",
-      "link": "https://s.shopee.com.br/3B86bcAUmI",
-      "rating": "4.7",
-      "sales": 2469,
-      "shop": "Toy's Shopp",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19099843848,
-        "productName": "Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
-        "price": "20.55",
-        "priceDiscountRate": 59,
-        "commissionRate": "0.03",
-        "sales": 2469,
-        "ratingStar": "4.7",
-        "shopName": "Toy's Shopp",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mci6w7lu1s75b8",
-        "productLink": "https://shopee.com.br/product/767498858/19099843848",
-        "offerLink": "https://s.shopee.com.br/3B86bcAUmI"
       },
       "_last_price": null
     },
@@ -9349,6 +9407,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mtzp049rfh8j75",
         "productLink": "https://shopee.com.br/product/1055269003/22998482488",
         "offerLink": "https://s.shopee.com.br/AUuhL7Uhz6"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22793480756",
+      "name": "Casinha Toca Cama Iglu 2 Em 1 Cachorro Cão E Gato Tam P, M e G",
+      "price": 39.9,
+      "original_price": 90.68,
+      "discount": 56.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mtyiydhax1j4ab",
+      "link": "https://s.shopee.com.br/AKbHGt0UDA",
+      "rating": "4.9",
+      "sales": 392,
+      "shop": "Lili Pet - caminhas de Luxo",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22793480756,
+        "productName": "Casinha Toca Cama Iglu 2 Em 1 Cachorro Cão E Gato Tam P, M e G",
+        "price": "39.9",
+        "priceDiscountRate": 56,
+        "commissionRate": "0.03",
+        "sales": 392,
+        "ratingStar": "4.9",
+        "shopName": "Lili Pet - caminhas de Luxo",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mtyiydhax1j4ab",
+        "productLink": "https://shopee.com.br/product/1263417212/22793480756",
+        "offerLink": "https://s.shopee.com.br/AKbHGt0UDA"
       },
       "_last_price": null
     },
@@ -12311,6 +12398,35 @@
       "_last_price": null
     },
     {
+      "id": "19099843848",
+      "name": "Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
+      "price": 24.99,
+      "original_price": 51.0,
+      "discount": 51.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mci6w7lu1s75b8",
+      "link": "https://s.shopee.com.br/3B86bcAUmI",
+      "rating": "4.7",
+      "sales": 2469,
+      "shop": "Toy's Shopp",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19099843848,
+        "productName": "Carrinho de Controle Remoto Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
+        "price": "24.99",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.03",
+        "sales": 2469,
+        "ratingStar": "4.7",
+        "shopName": "Toy's Shopp",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mci6w7lu1s75b8",
+        "productLink": "https://shopee.com.br/product/767498858/19099843848",
+        "offerLink": "https://s.shopee.com.br/3B86bcAUmI"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23197485445",
       "name": "Whey Protein Fuse 900g Isolate Dark Lab",
       "price": 78.9,
@@ -13993,6 +14109,35 @@
       "_last_price": null
     },
     {
+      "id": "58203174132",
+      "name": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
+      "price": 179.9,
+      "original_price": 352.75,
+      "discount": 49.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mt3xdpt7bjt3e6",
+      "link": "https://s.shopee.com.br/AAHr4a17YB",
+      "rating": "4.8",
+      "sales": 290,
+      "shop": "De AZ casa",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58203174132,
+        "productName": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
+        "price": "179.9",
+        "priceDiscountRate": 49,
+        "commissionRate": "0.03",
+        "sales": 290,
+        "ratingStar": "4.8",
+        "shopName": "De AZ casa",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mt3xdpt7bjt3e6",
+        "productLink": "https://shopee.com.br/product/1246701013/58203174132",
+        "offerLink": "https://s.shopee.com.br/AAHr4a17YB"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22897562777",
       "name": "KIT 03 Formas de Silicone Quadrada Antiaderente Assadeira Air Fryer Forno Forma para Fritadeira Elétrica c Alça QUADRADA",
       "price": 20.49,
@@ -14457,31 +14602,31 @@
       "_last_price": null
     },
     {
-      "id": "48208359433",
-      "name": "Casinha de Cachorro Com Caminha N 4 ou 5 Cachorros Pequeno Médio Porte Caminha de Cachorro",
-      "price": 59.9,
-      "original_price": 115.19,
+      "id": "23594325190",
+      "name": "Tênis casual Feminino Coração Leve e Confortável Dia dia",
+      "price": 25.9,
+      "original_price": 49.81,
       "discount": 48.0,
-      "commission": 17.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8226r-mhfcarhiudxo7d",
-      "link": "https://s.shopee.com.br/9zyQkCoHPC",
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdkak7ycblch90",
+      "link": "https://s.shopee.com.br/7KxfZKfxLB",
       "rating": "4.8",
-      "sales": 816,
-      "shop": "Pet Charm",
-      "category": "casinha pet",
+      "sales": 2277,
+      "shop": "Filoh calçados",
+      "category": "tenis feminino",
       "source": "shopee",
       "_item": {
-        "itemId": 48208359433,
-        "productName": "Casinha de Cachorro Com Caminha N 4 ou 5 Cachorros Pequeno Médio Porte Caminha de Cachorro",
-        "price": "59.9",
+        "itemId": 23594325190,
+        "productName": "Tênis casual Feminino Coração Leve e Confortável Dia dia",
+        "price": "25.9",
         "priceDiscountRate": 48,
-        "commissionRate": "0.17",
-        "sales": 816,
+        "commissionRate": "0.03",
+        "sales": 2277,
         "ratingStar": "4.8",
-        "shopName": "Pet Charm",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8226r-mhfcarhiudxo7d",
-        "productLink": "https://shopee.com.br/product/908280603/48208359433",
-        "offerLink": "https://s.shopee.com.br/9zyQkCoHPC"
+        "shopName": "Filoh calçados",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdkak7ycblch90",
+        "productLink": "https://shopee.com.br/product/375080873/23594325190",
+        "offerLink": "https://s.shopee.com.br/7KxfZKfxLB"
       },
       "_last_price": null
     },
@@ -15004,6 +15149,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
         "productLink": "https://shopee.com.br/product/252308329/57960684492",
         "offerLink": "https://s.shopee.com.br/2LYzc64ffd"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23291705289",
+      "name": "Casinha Comedouro para Pássaros Livres Tratador Azul em Madeira Porta Ração Aves e Habitat Natural",
+      "price": 39.85,
+      "original_price": 75.19,
+      "discount": 47.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820la-mn4aamb3tse8f1",
+      "link": "https://s.shopee.com.br/9fLaTf31Z6",
+      "rating": "4.7",
+      "sales": 335,
+      "shop": "Martinez Madeiras",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23291705289,
+        "productName": "Casinha Comedouro para Pássaros Livres Tratador Azul em Madeira Porta Ração Aves e Habitat Natural",
+        "price": "39.85",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.03",
+        "sales": 335,
+        "ratingStar": "4.7",
+        "shopName": "Martinez Madeiras",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mn4aamb3tse8f1",
+        "productLink": "https://shopee.com.br/product/818196730/23291705289",
+        "offerLink": "https://s.shopee.com.br/9fLaTf31Z6"
       },
       "_last_price": null
     },
@@ -15877,35 +16051,6 @@
       "_last_price": null
     },
     {
-      "id": "42159232629",
-      "name": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
-      "price": 37.91,
-      "original_price": 70.2,
-      "discount": 46.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e",
-      "link": "https://s.shopee.com.br/1LgSQHLGzD",
-      "rating": "4.8",
-      "sales": 2051,
-      "shop": "Pet Tobby",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42159232629,
-        "productName": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
-        "price": "37.91",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.11",
-        "sales": 2051,
-        "ratingStar": "4.8",
-        "shopName": "Pet Tobby",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e",
-        "productLink": "https://shopee.com.br/product/829646892/42159232629",
-        "offerLink": "https://s.shopee.com.br/1LgSQHLGzD"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22295054092",
       "name": "Extensão Elétrica 20A 3 Tomadas Bivolt 110 / 220 V Para Airfryer Micro-ondas Secador 1M 2M 3 Metros",
       "price": 25.89,
@@ -16627,35 +16772,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-molilwsui7er94",
         "productLink": "https://shopee.com.br/product/1523139407/47858345120",
         "offerLink": "https://s.shopee.com.br/8V9cxQPOES"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23691925276",
-      "name": "Casa + Cama Caminha Pet Casinha Para Cachorro Pet Cães e Gatos N°2 Pequenos",
-      "price": 32.81,
-      "original_price": 59.65,
-      "discount": 45.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825at-mty6cg1jd9fnf9",
-      "link": "https://s.shopee.com.br/9pf0Xtouk5",
-      "rating": "4.6",
-      "sales": 516,
-      "shop": "Pet Tobby",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23691925276,
-        "productName": "Casa + Cama Caminha Pet Casinha Para Cachorro Pet Cães e Gatos N°2 Pequenos",
-        "price": "32.81",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.11",
-        "sales": 516,
-        "ratingStar": "4.6",
-        "shopName": "Pet Tobby",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825at-mty6cg1jd9fnf9",
-        "productLink": "https://shopee.com.br/product/829646892/23691925276",
-        "offerLink": "https://s.shopee.com.br/9pf0Xtouk5"
       },
       "_last_price": null
     },
@@ -17414,35 +17530,6 @@
       "_last_price": null
     },
     {
-      "id": "23594325190",
-      "name": "Tênis casual Feminino Coração Leve e Confortável Dia dia",
-      "price": 27.95,
-      "original_price": 49.91,
-      "discount": 44.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdkak7ycblch90",
-      "link": "https://s.shopee.com.br/7KxfZKfxLB",
-      "rating": "4.8",
-      "sales": 2277,
-      "shop": "Filoh calçados",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23594325190,
-        "productName": "Tênis casual Feminino Coração Leve e Confortável Dia dia",
-        "price": "27.95",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.03",
-        "sales": 2277,
-        "ratingStar": "4.8",
-        "shopName": "Filoh calçados",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdkak7ycblch90",
-        "productLink": "https://shopee.com.br/product/375080873/23594325190",
-        "offerLink": "https://s.shopee.com.br/7KxfZKfxLB"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23699513929",
       "name": "Tenis Masculino + Relogio + 1 Par de Meia Esportivo Corrida Treino Super leve e Macio",
       "price": 55.95,
@@ -17932,35 +18019,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i5-mesl3uxaz30l75",
         "productLink": "https://shopee.com.br/product/1634545368/23394412512",
         "offerLink": "https://s.shopee.com.br/70KpAevu0B"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "42668101068",
-      "name": "Quadriciclo Elétrico Carro Compact Infantil com Controle Remoto Carrinho de Passeio com Farol",
-      "price": 569.8,
-      "original_price": 999.65,
-      "discount": 43.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meepoqlqrif56a",
-      "link": "https://s.shopee.com.br/3B86gzU6nV",
-      "rating": "4.9",
-      "sales": 707,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42668101068,
-        "productName": "Quadriciclo Elétrico Carro Compact Infantil com Controle Remoto Carrinho de Passeio com Farol",
-        "price": "569.8",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.07",
-        "sales": 707,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meepoqlqrif56a",
-        "productLink": "https://shopee.com.br/product/504754787/42668101068",
-        "offerLink": "https://s.shopee.com.br/3B86gzU6nV"
       },
       "_last_price": null
     },
@@ -18893,35 +18951,6 @@
       "_last_price": null
     },
     {
-      "id": "54006288355",
-      "name": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N 9",
-      "price": 199.99,
-      "original_price": 338.97,
-      "discount": 41.0,
-      "commission": 14.000000000000002,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mr79ijb85yx0d3",
-      "link": "https://s.shopee.com.br/6VOYZm1bVd",
-      "rating": "4.7",
-      "sales": 311,
-      "shop": "Pet Charm",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 54006288355,
-        "productName": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N 9",
-        "price": "199.99",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.14",
-        "sales": 311,
-        "ratingStar": "4.7",
-        "shopName": "Pet Charm",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mr79ijb85yx0d3",
-        "productLink": "https://shopee.com.br/product/908280603/54006288355",
-        "offerLink": "https://s.shopee.com.br/6VOYZm1bVd"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58265641981",
       "name": "Casinha de Cachorro Grande Porte N8 ou N9 Casa Pet Big Casa de Cachorro",
       "price": 167.9,
@@ -19701,6 +19730,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mq6jipzdmy9t19",
         "productLink": "https://shopee.com.br/product/1702515942/23899507130",
         "offerLink": "https://s.shopee.com.br/5VW1Nw5PXP"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22097612446",
+      "name": "Arranhador Gato Rampa Anti Estresse Brinquedo Tóca Casinha Ricapet",
+      "price": 29.98,
+      "original_price": 49.97,
+      "discount": 40.0,
+      "commission": 23.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mnvoqejygz5w9f",
+      "link": "https://s.shopee.com.br/9pf0fy2OE9",
+      "rating": "4.5",
+      "sales": 309,
+      "shop": "Ricapet_",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22097612446,
+        "productName": "Arranhador Gato Rampa Anti Estresse Brinquedo Tóca Casinha Ricapet",
+        "price": "29.98",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.23",
+        "sales": 309,
+        "ratingStar": "4.5",
+        "shopName": "Ricapet_",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mnvoqejygz5w9f",
+        "productLink": "https://shopee.com.br/product/422190247/22097612446",
+        "offerLink": "https://s.shopee.com.br/9pf0fy2OE9"
       },
       "_last_price": null
     },
@@ -22924,35 +22982,6 @@
       "_last_price": null
     },
     {
-      "id": "27294190711",
-      "name": "Casa Casinha de Cachorro N2 Com Colchão Caminha De Cachorro Pequeno Porto",
-      "price": 28.12,
-      "original_price": 43.26,
-      "discount": 35.0,
-      "commission": 14.000000000000002,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk5yysr12l1fb9",
-      "link": "https://s.shopee.com.br/8AWmYpvG7f",
-      "rating": "4.6",
-      "sales": 898,
-      "shop": "Pet Charm",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 27294190711,
-        "productName": "Casa Casinha de Cachorro N2 Com Colchão Caminha De Cachorro Pequeno Porto",
-        "price": "28.12",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.14",
-        "sales": 898,
-        "ratingStar": "4.6",
-        "shopName": "Pet Charm",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk5yysr12l1fb9",
-        "productLink": "https://shopee.com.br/product/908280603/27294190711",
-        "offerLink": "https://s.shopee.com.br/8AWmYpvG7f"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58209955451",
       "name": "Descalcificante Limpa Cafeteira Expresso Maquina Nespresso Dolce Gusto 3 Corações Café Dentro Limpez",
       "price": 17.87,
@@ -24055,6 +24084,35 @@
       "_last_price": null
     },
     {
+      "id": "58256584208",
+      "name": "Comedouro Casinha para Pássaros em Madeira Pinus Ideal para Aves com Corda de Sisal",
+      "price": 26.9,
+      "original_price": 40.15,
+      "discount": 33.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-msq3qr3hpl3bd9",
+      "link": "https://s.shopee.com.br/9zyQsH1kt8",
+      "rating": "4.9",
+      "sales": 324,
+      "shop": "ACB_Home",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58256584208,
+        "productName": "Comedouro Casinha para Pássaros em Madeira Pinus Ideal para Aves com Corda de Sisal",
+        "price": "26.9",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.13",
+        "sales": 324,
+        "ratingStar": "4.9",
+        "shopName": "ACB_Home",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-msq3qr3hpl3bd9",
+        "productLink": "https://shopee.com.br/product/1610896010/58256584208",
+        "offerLink": "https://s.shopee.com.br/9zyQsH1kt8"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58257435876",
       "name": "Relógio Feminino MINI Digital Prata LED Unissex Visor Grande Aço Inoxidável Masculino Feminino Retrô Moderno",
       "price": 19.99,
@@ -25070,6 +25128,35 @@
       "_last_price": null
     },
     {
+      "id": "18396954115",
+      "name": "Casinha Plástica Cachorro N5 e N6 Porte Pequeno Médio Com Colchonete",
+      "price": 54.9,
+      "original_price": 79.57,
+      "discount": 31.0,
+      "commission": 15.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-820o0-mny8r876yeipf3",
+      "link": "https://s.shopee.com.br/8AWmgu8jbj",
+      "rating": "4.6",
+      "sales": 380,
+      "shop": "ModuaDistribuidora_",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18396954115,
+        "productName": "Casinha Plástica Cachorro N5 e N6 Porte Pequeno Médio Com Colchonete",
+        "price": "54.9",
+        "priceDiscountRate": 31,
+        "commissionRate": "0.15",
+        "sales": 380,
+        "ratingStar": "4.6",
+        "shopName": "ModuaDistribuidora_",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820o0-mny8r876yeipf3",
+        "productLink": "https://shopee.com.br/product/988543100/18396954115",
+        "offerLink": "https://s.shopee.com.br/8AWmgu8jbj"
+      },
+      "_last_price": null
+    },
+    {
       "id": "12237278339",
       "name": "Liquidificador 3 velocidades Turbo Power preto - L-99FB - Mondial",
       "price": 121.42,
@@ -25795,35 +25882,6 @@
       "_last_price": null
     },
     {
-      "id": "23599134541",
-      "name": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
-      "price": 179.9,
-      "original_price": 257.0,
-      "discount": 30.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mu3ikiuq0ferdd",
-      "link": "https://s.shopee.com.br/8V9cxRtzRh",
-      "rating": "4.8",
-      "sales": 771,
-      "shop": "Luma Connect",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23599134541,
-        "productName": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
-        "price": "179.9",
-        "priceDiscountRate": 30,
-        "commissionRate": "0.03",
-        "sales": 771,
-        "ratingStar": "4.8",
-        "shopName": "Luma Connect",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mu3ikiuq0ferdd",
-        "productLink": "https://shopee.com.br/product/734718734/23599134541",
-        "offerLink": "https://s.shopee.com.br/8V9cxRtzRh"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18699301801",
       "name": "Casinha Cachorro Cama N6 Casa Porte Pequeno Com Proteção Raios UV  desmontável",
       "price": 91.0,
@@ -26462,6 +26520,35 @@
       "_last_price": null
     },
     {
+      "id": "58208582003",
+      "name": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
+      "price": 49.99,
+      "original_price": 70.41,
+      "discount": 29.0,
+      "commission": 14.000000000000002,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-81zvq-mmvvas3b8av966",
+      "link": "https://s.shopee.com.br/5fpRaF4mCO",
+      "rating": "4.8",
+      "sales": 839,
+      "shop": "MATILHA ",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58208582003,
+        "productName": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
+        "price": "49.99",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.14",
+        "sales": 839,
+        "ratingStar": "4.8",
+        "shopName": "MATILHA ",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvq-mmvvas3b8av966",
+        "productLink": "https://shopee.com.br/product/406376010/58208582003",
+        "offerLink": "https://s.shopee.com.br/5fpRaF4mCO"
+      },
+      "_last_price": null
+    },
+    {
       "id": "11327686991",
       "name": "Peitoral de cachorro grande médio ou pequeno porte coleira guia Boxer Labrador Akita pastor pitbull",
       "price": 19.87,
@@ -27038,35 +27125,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262d-mk9n8fkosb9id9",
         "productLink": "https://shopee.com.br/product/627750190/58254539071",
         "offerLink": "https://s.shopee.com.br/5LCbCr1k9f"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58262421384",
-      "name": "Placa de Video PNY GeForce RTX 5070 OC Triple Fan, 12GB, GDDR7, 192-bit, VCG507012TFXPB1-O",
-      "price": 5743.9,
-      "original_price": 7868.36,
-      "discount": 27.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824gw-mpdzrd8o4irye0",
-      "link": "https://s.shopee.com.br/7AeFODulR6",
-      "rating": "5",
-      "sales": 26,
-      "shop": "Pichau",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58262421384,
-        "productName": "Placa de Video PNY GeForce RTX 5070 OC Triple Fan, 12GB, GDDR7, 192-bit, VCG507012TFXPB1-O",
-        "price": "5743.9",
-        "priceDiscountRate": 27,
-        "commissionRate": "0.03",
-        "sales": 26,
-        "ratingStar": "5",
-        "shopName": "Pichau",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gw-mpdzrd8o4irye0",
-        "productLink": "https://shopee.com.br/product/627750190/58262421384",
-        "offerLink": "https://s.shopee.com.br/7AeFODulR6"
       },
       "_last_price": null
     },
@@ -28053,35 +28111,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mp2w6hbug7i9b5",
         "productLink": "https://shopee.com.br/product/1842516237/22799500311",
         "offerLink": "https://s.shopee.com.br/20w9DVIjdP"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "40311503918",
-      "name": "Casinha de Cachorro Grande e Medio Porte N6 Desmontável Casa Plastica com Proteção UV Resistente",
-      "price": 119.61,
-      "original_price": 159.48,
-      "discount": 25.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhic0s00k1dv1c",
-      "link": "https://s.shopee.com.br/9V2A9HqBQ3",
-      "rating": "4.9",
-      "sales": 646,
-      "shop": "Pet Tobby",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40311503918,
-        "productName": "Casinha de Cachorro Grande e Medio Porte N6 Desmontável Casa Plastica com Proteção UV Resistente",
-        "price": "119.61",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.13",
-        "sales": 646,
-        "ratingStar": "4.9",
-        "shopName": "Pet Tobby",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhic0s00k1dv1c",
-        "productLink": "https://shopee.com.br/product/829646892/40311503918",
-        "offerLink": "https://s.shopee.com.br/9V2A9HqBQ3"
       },
       "_last_price": null
     },
@@ -29416,35 +29445,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxq-mcknjtool2mr2d",
         "productLink": "https://shopee.com.br/product/954428278/41360062714",
         "offerLink": "https://s.shopee.com.br/20w9DbTIwo"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "45557096111",
-      "name": "Kit Banqueta Dobrável Com Alça Suporta 150kg Reforçada Camping Rancho Pesca",
-      "price": 37.9,
-      "original_price": 48.59,
-      "discount": 22.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mlp37yq2ldza90",
-      "link": "https://s.shopee.com.br/LnvEXrSH6",
-      "rating": "5",
-      "sales": 1293,
-      "shop": "TUDO UD",
-      "category": "kit pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45557096111,
-        "productName": "Kit Banqueta Dobrável Com Alça Suporta 150kg Reforçada Camping Rancho Pesca",
-        "price": "37.9",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.03",
-        "sales": 1293,
-        "ratingStar": "5",
-        "shopName": "TUDO UD",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mlp37yq2ldza90",
-        "productLink": "https://shopee.com.br/product/763085885/45557096111",
-        "offerLink": "https://s.shopee.com.br/LnvEXrSH6"
       },
       "_last_price": null
     },
@@ -31972,6 +31972,35 @@
       "_last_price": null
     },
     {
+      "id": "25645909731",
+      "name": "Placa de Video GeForce NVIDIA MSI  RTX5060TI 8g Shadow 2x Oc Plus 8gb Gddr7 128 Bits - 912-V536-023",
+      "price": 3499.0,
+      "original_price": 4116.47,
+      "discount": 15.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mc27rkvpzra0f9",
+      "link": "https://s.shopee.com.br/905sEkczeJ",
+      "rating": "5",
+      "sales": 16,
+      "shop": "TNTinfoLoja",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 25645909731,
+        "productName": "Placa de Video GeForce NVIDIA MSI  RTX5060TI 8g Shadow 2x Oc Plus 8gb Gddr7 128 Bits - 912-V536-023",
+        "price": "3499",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.03",
+        "sales": 16,
+        "ratingStar": "5",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mc27rkvpzra0f9",
+        "productLink": "https://shopee.com.br/product/344381236/25645909731",
+        "offerLink": "https://s.shopee.com.br/905sEkczeJ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58215017520",
       "name": "Kit Suporte Roteador Parede Sem Furo Fita Dupla Face Organizador WiFi Universal",
       "price": 8.07,
@@ -32171,6 +32200,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekctgxrndogf4",
         "productLink": "https://shopee.com.br/product/446413605/23593572198",
         "offerLink": "https://s.shopee.com.br/5fpRaD0yi3"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "26565842194",
+      "name": "8 Peças Porca De Haltere , Haste Coleiras Para Barras De Halteres , Acessórios Esportivos De Treinamento",
+      "price": 24.56,
+      "original_price": 28.89,
+      "discount": 15.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rene-m1x6eixhhmpwaa",
+      "link": "https://s.shopee.com.br/6Ali9n6GyQ",
+      "rating": "4.9",
+      "sales": 7,
+      "shop": "hukou33.br",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 26565842194,
+        "productName": "8 Peças Porca De Haltere , Haste Coleiras Para Barras De Halteres , Acessórios Esportivos De Treinamento",
+        "price": "24.56",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.09",
+        "sales": 7,
+        "ratingStar": "4.9",
+        "shopName": "hukou33.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rene-m1x6eixhhmpwaa",
+        "productLink": "https://shopee.com.br/product/207148383/26565842194",
+        "offerLink": "https://s.shopee.com.br/6Ali9n6GyQ"
       },
       "_last_price": null
     },
