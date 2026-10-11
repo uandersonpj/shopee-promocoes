@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T01:20:13.752571+00:00",
-  "total": 1132,
+  "updated_at": "2026-10-11T01:39:46.362741+00:00",
+  "total": 1131,
   "products": [
     {
       "id": "58210104632",
@@ -3766,7 +3766,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mtape51h6ubnc7",
         "productLink": "https://shopee.com.br/product/1758772368/58213479973",
         "offerLink": "https://s.shopee.com.br/8pmOZ1aED4"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23026990667",
@@ -7126,8 +7127,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mrm0k1f8sj5zd3",
         "productLink": "https://shopee.com.br/product/569696363/18899553687",
         "offerLink": "https://s.shopee.com.br/2gBp1VeTjh"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58208352912",
@@ -10463,35 +10463,6 @@
       "_last_price": null
     },
     {
-      "id": "23199659542",
-      "name": "Kit Pesca 500 Anzóis Chinu Nº 3 ao 12 em Aço Carbono com Estojo Organizador",
-      "price": 22.99,
-      "original_price": 49.98,
-      "discount": 54.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259f-mr34qby1hgr0c0",
-      "link": "https://s.shopee.com.br/4VdTBj0NT1",
-      "rating": "4.7",
-      "sales": 75,
-      "shop": "MK HOUSE ",
-      "category": "estojo pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23199659542,
-        "productName": "Kit Pesca 500 Anzóis Chinu Nº 3 ao 12 em Aço Carbono com Estojo Organizador",
-        "price": "22.99",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.03",
-        "sales": 75,
-        "ratingStar": "4.7",
-        "shopName": "MK HOUSE ",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mr34qby1hgr0c0",
-        "productLink": "https://shopee.com.br/product/1443730896/23199659542",
-        "offerLink": "https://s.shopee.com.br/4VdTBj0NT1"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58266854519",
       "name": "Mochila casual feminina, pode guardar notebook de 15,6 polegadas, com costas acolchoadas para aliviar o peso",
       "price": 79.9,
@@ -10871,8 +10842,8 @@
     {
       "id": "22092998564",
       "name": "Creatina Monohidratada Pura 1kg, 500g, 600, 300g e 150g - Dark Lab",
-      "price": 29.9,
-      "original_price": 63.62,
+      "price": 32.9,
+      "original_price": 70.0,
       "discount": 53.0,
       "commission": 26.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ld-ms0e8jfsnb45e1",
@@ -10885,7 +10856,7 @@
       "_item": {
         "itemId": 22092998564,
         "productName": "Creatina Monohidratada Pura 1kg, 500g, 600, 300g e 150g - Dark Lab",
-        "price": "29.9",
+        "price": "32.9",
         "priceDiscountRate": 53,
         "commissionRate": "0.26",
         "sales": 12334,
@@ -11710,35 +11681,6 @@
       "_last_price": null
     },
     {
-      "id": "22392993399",
-      "name": "Hipercalórico Dark Mass 3kg Dark Lab - Whey Protein, Creatina, BCAA, Waxy Maize, Premium Mass Gainer",
-      "price": 76.9,
-      "original_price": 160.21,
-      "discount": 52.0,
-      "commission": 24.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawnmo1qj3970",
-      "link": "https://s.shopee.com.br/9APGIpaj6y",
-      "rating": "4.9",
-      "sales": 2298,
-      "shop": "Dark Lab Oficial",
-      "category": "whey protein",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22392993399,
-        "productName": "Hipercalórico Dark Mass 3kg Dark Lab - Whey Protein, Creatina, BCAA, Waxy Maize, Premium Mass Gainer",
-        "price": "76.9",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.24",
-        "sales": 2298,
-        "ratingStar": "4.9",
-        "shopName": "Dark Lab Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawnmo1qj3970",
-        "productLink": "https://shopee.com.br/product/1242044379/22392993399",
-        "offerLink": "https://s.shopee.com.br/9APGIpaj6y"
-      },
-      "_last_price": null
-    },
-    {
       "id": "52352168399",
       "name": "Pasta de Amendoim com Whey Protein 600g Dr Peanut",
       "price": 48.0,
@@ -12286,6 +12228,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzaxtiavhw6de4",
         "productLink": "https://shopee.com.br/product/1242044379/23197485445",
         "offerLink": "https://s.shopee.com.br/6q1KKXKEzx"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22392993399",
+      "name": "Hipercalórico Dark Mass 3kg Dark Lab - Whey Protein, Creatina, BCAA, Waxy Maize, Premium Mass Gainer",
+      "price": 78.9,
+      "original_price": 161.02,
+      "discount": 51.0,
+      "commission": 24.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawnmo1qj3970",
+      "link": "https://s.shopee.com.br/9APGIpaj6y",
+      "rating": "4.9",
+      "sales": 2298,
+      "shop": "Dark Lab Oficial",
+      "category": "whey protein",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22392993399,
+        "productName": "Hipercalórico Dark Mass 3kg Dark Lab - Whey Protein, Creatina, BCAA, Waxy Maize, Premium Mass Gainer",
+        "price": "78.9",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.24",
+        "sales": 2298,
+        "ratingStar": "4.9",
+        "shopName": "Dark Lab Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawnmo1qj3970",
+        "productLink": "https://shopee.com.br/product/1242044379/22392993399",
+        "offerLink": "https://s.shopee.com.br/9APGIpaj6y"
       },
       "_last_price": null
     },
@@ -13885,35 +13856,6 @@
       "_last_price": null
     },
     {
-      "id": "23493597502",
-      "name": "Kit Organizador de Pia Elegance 3 em 1 – Lixeira 4,8L, Rodinho e Porta Detergente",
-      "price": 19.9,
-      "original_price": 39.02,
-      "discount": 49.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8258h-mg6z52ruwydn36",
-      "link": "https://s.shopee.com.br/6VOXSKtlxV",
-      "rating": "4.9",
-      "sales": 1084,
-      "shop": "Win.Commerce",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23493597502,
-        "productName": "Kit Organizador de Pia Elegance 3 em 1 – Lixeira 4,8L, Rodinho e Porta Detergente",
-        "price": "19.9",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.03",
-        "sales": 1084,
-        "ratingStar": "4.9",
-        "shopName": "Win.Commerce",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258h-mg6z52ruwydn36",
-        "productLink": "https://shopee.com.br/product/849977839/23493597502",
-        "offerLink": "https://s.shopee.com.br/6VOXSKtlxV"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58205223096",
       "name": "Kit com 2 Suportes para Shampoo Adesivo Para Parede Cozinha e Banheiro",
       "price": 19.98,
@@ -14494,35 +14436,6 @@
       "_last_price": null
     },
     {
-      "id": "23293253949",
-      "name": "Whey Protein Concentrado 1Kg Dark Lab",
-      "price": 118.92,
-      "original_price": 228.69,
-      "discount": 48.0,
-      "commission": 24.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzkq1yrpylqtc1",
-      "link": "https://s.shopee.com.br/905ouWBzba",
-      "rating": "4.9",
-      "sales": 912,
-      "shop": "Dark Lab Oficial",
-      "category": "whey protein",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23293253949,
-        "productName": "Whey Protein Concentrado 1Kg Dark Lab",
-        "price": "118.92",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.24",
-        "sales": 912,
-        "ratingStar": "4.9",
-        "shopName": "Dark Lab Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzkq1yrpylqtc1",
-        "productLink": "https://shopee.com.br/product/1242044379/23293253949",
-        "offerLink": "https://s.shopee.com.br/905ouWBzba"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18597631235",
       "name": "Kit Top Academia Musculação Para Fitness Casual Praia Treino C/ Elástico",
       "price": 26.9,
@@ -15016,35 +14929,6 @@
       "_last_price": null
     },
     {
-      "id": "58256070956",
-      "name": "Camiseta Unissex 100% algodao Oversized One More Rep Estampa Haltere Fitness Treino para Academia envio rapido",
-      "price": 44.52,
-      "original_price": 84.0,
-      "discount": 47.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
-      "link": "https://s.shopee.com.br/1qceE6fx6B",
-      "rating": "4.9",
-      "sales": 16,
-      "shop": "Tees Simples BR",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58256070956,
-        "productName": "Camiseta Unissex 100% algodao Oversized One More Rep Estampa Haltere Fitness Treino para Academia envio rapido",
-        "price": "44.52",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.03",
-        "sales": 16,
-        "ratingStar": "4.9",
-        "shopName": "Tees Simples BR",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
-        "productLink": "https://shopee.com.br/product/1727822533/58256070956",
-        "offerLink": "https://s.shopee.com.br/1qceE6fx6B"
-      },
-      "_last_price": null
-    },
-    {
       "id": "57960684492",
       "name": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
       "price": 10.22,
@@ -15070,6 +14954,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
         "productLink": "https://shopee.com.br/product/252308329/57960684492",
         "offerLink": "https://s.shopee.com.br/8Kq7y3HCuJ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58256070956",
+      "name": "Camiseta Unissex 100% algodao Oversized One More Rep Estampa Haltere Fitness Treino para Academia envio rapido",
+      "price": 44.52,
+      "original_price": 84.0,
+      "discount": 47.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
+      "link": "https://s.shopee.com.br/1qceE6fx6B",
+      "rating": "4.9",
+      "sales": 16,
+      "shop": "Tees Simples BR",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58256070956,
+        "productName": "Camiseta Unissex 100% algodao Oversized One More Rep Estampa Haltere Fitness Treino para Academia envio rapido",
+        "price": "44.52",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.03",
+        "sales": 16,
+        "ratingStar": "4.9",
+        "shopName": "Tees Simples BR",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
+        "productLink": "https://shopee.com.br/product/1727822533/58256070956",
+        "offerLink": "https://s.shopee.com.br/1qceE6fx6B"
       },
       "_last_price": null
     },
@@ -19801,6 +19714,35 @@
       "_last_price": null
     },
     {
+      "id": "58255146160",
+      "name": "Mini Rodo Esfregão Absorvente Portátil Limpeza Multifuncional Mop de Mesa Limpeza Esponja Absorvente",
+      "price": 14.99,
+      "original_price": 24.98,
+      "discount": 40.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81zuo-mkms3o9zgu8266",
+      "link": "https://s.shopee.com.br/9fLVZpIbX2",
+      "rating": "4.8",
+      "sales": 2770,
+      "shop": "MaisKCompra Store",
+      "category": "esponja",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58255146160,
+        "productName": "Mini Rodo Esfregão Absorvente Portátil Limpeza Multifuncional Mop de Mesa Limpeza Esponja Absorvente",
+        "price": "14.99",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.08",
+        "sales": 2770,
+        "ratingStar": "4.8",
+        "shopName": "MaisKCompra Store",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zuo-mkms3o9zgu8266",
+        "productLink": "https://shopee.com.br/product/1429781525/58255146160",
+        "offerLink": "https://s.shopee.com.br/9fLVZpIbX2"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58258909286",
       "name": "Panos de Chão Gigante Microfibra Multiuso 60x80 Alta Absorção",
       "price": 29.9,
@@ -21889,6 +21831,35 @@
       "_last_price": null
     },
     {
+      "id": "22299409946",
+      "name": "12 Pçs + 3 Esponjas Set Conjunto De Pincéis De Maquiagem Profissional",
+      "price": 33.9,
+      "original_price": 53.81,
+      "discount": 37.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82622-mlqhnya4zehb31",
+      "link": "https://s.shopee.com.br/8fSyNzMPYw",
+      "rating": "4.9",
+      "sales": 2803,
+      "shop": "LUCKY BAZAR",
+      "category": "esponja",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22299409946,
+        "productName": "12 Pçs + 3 Esponjas Set Conjunto De Pincéis De Maquiagem Profissional",
+        "price": "33.9",
+        "priceDiscountRate": 37,
+        "commissionRate": "0.03",
+        "sales": 2803,
+        "ratingStar": "4.9",
+        "shopName": "LUCKY BAZAR",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82622-mlqhnya4zehb31",
+        "productLink": "https://shopee.com.br/product/375201738/22299409946",
+        "offerLink": "https://s.shopee.com.br/8fSyNzMPYw"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58213273842",
       "name": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
       "price": 11.99,
@@ -22529,8 +22500,8 @@
     {
       "id": "23794994613",
       "name": "Escorredor Kitchen Rack Aço Inoxidável Organizador Louça Preto Pia Kitchen Rack Aço Ino",
-      "price": 76.8,
-      "original_price": 120.0,
+      "price": 76.9,
+      "original_price": 120.16,
       "discount": 36.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mpc0kpszssu82c",
@@ -22543,7 +22514,7 @@
       "_item": {
         "itemId": 23794994613,
         "productName": "Escorredor Kitchen Rack Aço Inoxidável Organizador Louça Preto Pia Kitchen Rack Aço Ino",
-        "price": "76.8",
+        "price": "76.9",
         "priceDiscountRate": 36,
         "commissionRate": "0.03",
         "sales": 5876,
@@ -23136,6 +23107,35 @@
       "_last_price": null
     },
     {
+      "id": "23293253949",
+      "name": "Whey Protein Concentrado 1Kg Dark Lab",
+      "price": 149.9,
+      "original_price": 230.62,
+      "discount": 35.0,
+      "commission": 24.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzkq1yrpylqtc1",
+      "link": "https://s.shopee.com.br/905ouWBzba",
+      "rating": "4.9",
+      "sales": 912,
+      "shop": "Dark Lab Oficial",
+      "category": "whey protein",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23293253949,
+        "productName": "Whey Protein Concentrado 1Kg Dark Lab",
+        "price": "149.9",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.24",
+        "sales": 912,
+        "ratingStar": "4.9",
+        "shopName": "Dark Lab Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzkq1yrpylqtc1",
+        "productLink": "https://shopee.com.br/product/1242044379/23293253949",
+        "offerLink": "https://s.shopee.com.br/905ouWBzba"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58201486139",
       "name": "Ração Úmida Dog Chow Cães - Display com 15 Sachês 85g",
       "price": 38.9,
@@ -23480,35 +23480,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/a6822b8520131f55b2b9311bc1613329",
         "productLink": "https://shopee.com.br/product/379996229/14587417405",
         "offerLink": "https://s.shopee.com.br/8AWkik1hKW"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58206707204",
-      "name": "12 Pçs + 3 Esponjas Set Conjunto De Pincéis De Maquiagem Profissional",
-      "price": 32.9,
-      "original_price": 49.85,
-      "discount": 34.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82610-mlovh9no3bb787",
-      "link": "https://s.shopee.com.br/7VH4IWUtq2",
-      "rating": "4.9",
-      "sales": 2099,
-      "shop": "Abcshop.br",
-      "category": "esponja",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58206707204,
-        "productName": "12 Pçs + 3 Esponjas Set Conjunto De Pincéis De Maquiagem Profissional",
-        "price": "32.9",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.03",
-        "sales": 2099,
-        "ratingStar": "4.9",
-        "shopName": "Abcshop.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82610-mlovh9no3bb787",
-        "productLink": "https://shopee.com.br/product/421446882/58206707204",
-        "offerLink": "https://s.shopee.com.br/7VH4IWUtq2"
       },
       "_last_price": null
     },
@@ -27979,35 +27950,6 @@
       "_last_price": null
     },
     {
-      "id": "58215922293",
-      "name": "Fonte NZXT C750 Bronze, 750W, 80 Plus Bronze, PFC Ativo, ATX 3.1, Preto, PA-7B3BB-US",
-      "price": 379.99,
-      "original_price": 506.65,
-      "discount": 25.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8258t-mrqdweruuw3r6f",
-      "link": "https://s.shopee.com.br/8V9YAFNneu",
-      "rating": "4.9",
-      "sales": 318,
-      "shop": "Terabyte Oficial",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58215922293,
-        "productName": "Fonte NZXT C750 Bronze, 750W, 80 Plus Bronze, PFC Ativo, ATX 3.1, Preto, PA-7B3BB-US",
-        "price": "379.99",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.03",
-        "sales": 318,
-        "ratingStar": "4.9",
-        "shopName": "Terabyte Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258t-mrqdweruuw3r6f",
-        "productLink": "https://shopee.com.br/product/1552226494/58215922293",
-        "offerLink": "https://s.shopee.com.br/8V9YAFNneu"
-      },
-      "_last_price": null
-    },
-    {
       "id": "56756696208",
       "name": "Fonte Cooler Master ATX 3.1 750W MWE Gold 750 V3 PFC Ativo 80 Plus Gold",
       "price": 389.0,
@@ -28729,35 +28671,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbr1m4vtwjonc8",
         "productLink": "https://shopee.com.br/product/1165645795/22998698600",
         "offerLink": "https://s.shopee.com.br/W7Gf1Yl86"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22097495429",
-      "name": "Whey Protein Fuse Isolate Fuse 1,8kg - Dark Lab",
-      "price": 174.9,
-      "original_price": 230.13,
-      "discount": 24.0,
-      "commission": 24.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj4ayj8rseme88",
-      "link": "https://s.shopee.com.br/20w7WsU2hJ",
-      "rating": "4.9",
-      "sales": 995,
-      "shop": "Dark Lab Oficial",
-      "category": "whey protein",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22097495429,
-        "productName": "Whey Protein Fuse Isolate Fuse 1,8kg - Dark Lab",
-        "price": "174.9",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.24",
-        "sales": 995,
-        "ratingStar": "4.9",
-        "shopName": "Dark Lab Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj4ayj8rseme88",
-        "productLink": "https://shopee.com.br/product/1242044379/22097495429",
-        "offerLink": "https://s.shopee.com.br/20w7WsU2hJ"
       },
       "_last_price": null
     },
@@ -29512,6 +29425,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mn4yzx3kxamc9d",
         "productLink": "https://shopee.com.br/product/385632559/3583616499",
         "offerLink": "https://s.shopee.com.br/3qNid9M4MY"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22097495429",
+      "name": "Whey Protein Fuse Isolate Fuse 1,8kg - Dark Lab",
+      "price": 179.9,
+      "original_price": 230.64,
+      "discount": 22.0,
+      "commission": 24.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj4ayj8rseme88",
+      "link": "https://s.shopee.com.br/20w7WsU2hJ",
+      "rating": "4.9",
+      "sales": 995,
+      "shop": "Dark Lab Oficial",
+      "category": "whey protein",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22097495429,
+        "productName": "Whey Protein Fuse Isolate Fuse 1,8kg - Dark Lab",
+        "price": "179.9",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.24",
+        "sales": 995,
+        "ratingStar": "4.9",
+        "shopName": "Dark Lab Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj4ayj8rseme88",
+        "productLink": "https://shopee.com.br/product/1242044379/22097495429",
+        "offerLink": "https://s.shopee.com.br/20w7WsU2hJ"
       },
       "_last_price": null
     },
@@ -30962,6 +30904,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me7jrmrfqww3cd",
         "productLink": "https://shopee.com.br/product/1316730580/41054174116",
         "offerLink": "https://s.shopee.com.br/7VH0yi2KgL"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20799651636",
+      "name": "Testador de Fonte Digital Display LCD Alimentação ATX 20/24 PINOS SATA BTX/ITX",
+      "price": 56.98,
+      "original_price": 70.35,
+      "discount": 19.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7tk2e7ezmhg1d",
+      "link": "https://s.shopee.com.br/9APIqtFrBC",
+      "rating": "5",
+      "sales": 44,
+      "shop": "FIRESHOP.NET.BR",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20799651636,
+        "productName": "Testador de Fonte Digital Display LCD Alimentação ATX 20/24 PINOS SATA BTX/ITX",
+        "price": "56.98",
+        "priceDiscountRate": 19,
+        "commissionRate": "0.03",
+        "sales": 44,
+        "ratingStar": "5",
+        "shopName": "FIRESHOP.NET.BR",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7tk2e7ezmhg1d",
+        "productLink": "https://shopee.com.br/product/293906934/20799651636",
+        "offerLink": "https://s.shopee.com.br/9APIqtFrBC"
       },
       "_last_price": null
     },
