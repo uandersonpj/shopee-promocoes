@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T04:37:14.445505+00:00",
-  "total": 1125,
+  "updated_at": "2026-10-11T04:56:33.795867+00:00",
+  "total": 1124,
   "products": [
     {
       "id": "58210104632",
@@ -4167,7 +4167,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
         "productLink": "https://shopee.com.br/product/1595150949/22594316058",
         "offerLink": "https://s.shopee.com.br/AUucZWtWmI"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58208348035",
@@ -6263,7 +6264,7 @@
       "original_price": 105.21,
       "discount": 62.0,
       "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mu2zttsy52wz4e",
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mu5xc1qr8w784d",
       "link": "https://s.shopee.com.br/7KxamM4NwF",
       "rating": "4.9",
       "sales": 207,
@@ -6279,7 +6280,7 @@
         "sales": 207,
         "ratingStar": "4.9",
         "shopName": "Cosmic.br",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mu2zttsy52wz4e",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mu5xc1qr8w784d",
         "productLink": "https://shopee.com.br/product/1410139466/29593910226",
         "offerLink": "https://s.shopee.com.br/7KxamM4NwF"
       },
@@ -19216,6 +19217,35 @@
       "_last_price": null
     },
     {
+      "id": "58265641981",
+      "name": "Casinha de Cachorro Grande Porte N8 ou N9 Casa Pet Big Casa de Cachorro",
+      "price": 167.9,
+      "original_price": 284.58,
+      "discount": 41.0,
+      "commission": 17.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8258l-mrj0ts8i0tmtdc",
+      "link": "https://s.shopee.com.br/1gJH8IUVAi",
+      "rating": "4.7",
+      "sales": 351,
+      "shop": "veonvoimport",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58265641981,
+        "productName": "Casinha de Cachorro Grande Porte N8 ou N9 Casa Pet Big Casa de Cachorro",
+        "price": "167.9",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.17",
+        "sales": 351,
+        "ratingStar": "4.7",
+        "shopName": "veonvoimport",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258l-mrj0ts8i0tmtdc",
+        "productLink": "https://shopee.com.br/product/1477680057/58265641981",
+        "offerLink": "https://s.shopee.com.br/1gJH8IUVAi"
+      },
+      "_last_price": null
+    },
+    {
       "id": "26790623882",
       "name": "Capas Para Orelhas De Cachorro SKEC , Protetor De Orelha Calmante Cães Antirruído Com Redução De Ruído , Protetores Ajus",
       "price": 31.73,
@@ -25190,35 +25220,6 @@
       "_last_price": null
     },
     {
-      "id": "22697337602",
-      "name": "Casinha Cachorro N6 Porte Pequeno com Colchonete Casa Pet Proteção Raios UV Resistente",
-      "price": 99.99,
-      "original_price": 144.91,
-      "discount": 31.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825a7-mt6qx0csu4uee8",
-      "link": "https://s.shopee.com.br/BUQF4GgsB",
-      "rating": "4.8",
-      "sales": 735,
-      "shop": "Luma Connect",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22697337602,
-        "productName": "Casinha Cachorro N6 Porte Pequeno com Colchonete Casa Pet Proteção Raios UV Resistente",
-        "price": "99.99",
-        "priceDiscountRate": 31,
-        "commissionRate": "0.03",
-        "sales": 735,
-        "ratingStar": "4.8",
-        "shopName": "Luma Connect",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a7-mt6qx0csu4uee8",
-        "productLink": "https://shopee.com.br/product/734718734/22697337602",
-        "offerLink": "https://s.shopee.com.br/BUQF4GgsB"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22698826661",
       "name": "Casinha cama toca Iglu 3 Em 1  Cão E Gato,Tamanhos P, M, G e GG, com almofada removível fundo impermeável",
       "price": 34.5,
@@ -25998,35 +25999,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259n-mt6qw1jmxnnm38",
         "productLink": "https://shopee.com.br/product/1246701013/18699301801",
         "offerLink": "https://s.shopee.com.br/1qceE8ALUb"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23692954758",
-      "name": "Casinha Cachorro N6 Casa Porte pequeno Com Proteção Raios UV  desmontável | ENVIO RÁPIDO",
-      "price": 93.99,
-      "original_price": 134.27,
-      "discount": 30.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825ah-mt6qxft2e22s91",
-      "link": "https://s.shopee.com.br/6VOV7x6TSH",
-      "rating": "4.8",
-      "sales": 467,
-      "shop": "Luma Connect",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23692954758,
-        "productName": "Casinha Cachorro N6 Casa Porte pequeno Com Proteção Raios UV  desmontável | ENVIO RÁPIDO",
-        "price": "93.99",
-        "priceDiscountRate": 30,
-        "commissionRate": "0.03",
-        "sales": 467,
-        "ratingStar": "4.8",
-        "shopName": "Luma Connect",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ah-mt6qxft2e22s91",
-        "productLink": "https://shopee.com.br/product/734718734/23692954758",
-        "offerLink": "https://s.shopee.com.br/6VOV7x6TSH"
       },
       "_last_price": null
     },
