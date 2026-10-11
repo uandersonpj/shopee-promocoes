@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T07:45:54.954530+00:00",
-  "total": 1124,
+  "updated_at": "2026-10-11T08:04:48.833025+00:00",
+  "total": 1126,
   "products": [
     {
       "id": "58210104632",
@@ -1765,7 +1765,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfje7rr835s0e2",
         "productLink": "https://shopee.com.br/product/1267134569/23893429110",
         "offerLink": "https://s.shopee.com.br/8Kq7y8WvIi"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58266336951",
@@ -20009,6 +20010,35 @@
       "_last_price": null
     },
     {
+      "id": "23899507130",
+      "name": "Casinha cama toca Iglu 3 Em 1 Cão E Gato,Tamanhos P, M, G  ",
+      "price": 39.0,
+      "original_price": 65.0,
+      "discount": 40.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mq6jipzdmy9t19",
+      "link": "https://s.shopee.com.br/6AlejL7k8F",
+      "rating": "4.9",
+      "sales": 516,
+      "shop": "Patinhas.Pet",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23899507130,
+        "productName": "Casinha cama toca Iglu 3 Em 1 Cão E Gato,Tamanhos P, M, G  ",
+        "price": "39",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 516,
+        "ratingStar": "4.9",
+        "shopName": "Patinhas.Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mq6jipzdmy9t19",
+        "productLink": "https://shopee.com.br/product/1702515942/23899507130",
+        "offerLink": "https://s.shopee.com.br/6AlejL7k8F"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18598161767",
       "name": "Coleira Guia Retrátil 3/5 Metros  Pets Cachorro Cães Gatos Resistente Com Trava Até 11.33kg",
       "price": 16.9,
@@ -20643,6 +20673,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23010-es46z9kzafmv7d",
         "productLink": "https://shopee.com.br/product/398944029/10869646245",
         "offerLink": "https://s.shopee.com.br/6fhww4wBYH"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23893212954",
+      "name": "Cama Toca Iglu 3 em 1 para Cachorro e Gato Tamanho P M G",
+      "price": 38.94,
+      "original_price": 63.84,
+      "discount": 39.0,
+      "commission": 14.000000000000002,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mp7xcaguk1s064",
+      "link": "https://s.shopee.com.br/3g4IPV3Mm0",
+      "rating": "4.9",
+      "sales": 710,
+      "shop": "MAJUQUIM PET",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23893212954,
+        "productName": "Cama Toca Iglu 3 em 1 para Cachorro e Gato Tamanho P M G",
+        "price": "38.94",
+        "priceDiscountRate": 39,
+        "commissionRate": "0.14",
+        "sales": 710,
+        "ratingStar": "4.9",
+        "shopName": "MAJUQUIM PET",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mp7xcaguk1s064",
+        "productLink": "https://shopee.com.br/product/1446536761/23893212954",
+        "offerLink": "https://s.shopee.com.br/3g4IPV3Mm0"
       },
       "_last_price": null
     },
