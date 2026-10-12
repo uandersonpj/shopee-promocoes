@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T06:07:31.744694+00:00",
+  "updated_at": "2026-10-12T06:26:25.034149+00:00",
   "total": 1126,
   "products": [
     {
@@ -4201,7 +4201,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
         "productLink": "https://shopee.com.br/product/1595150949/22594316058",
         "offerLink": "https://s.shopee.com.br/3qNnrEwEKN"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58208348035",
@@ -9017,8 +9018,8 @@
     {
       "id": "22198468630",
       "name": "Halter Dumbell Emborrachado Sextavado Cromado De 10/15/20/25/30/35/40 LBS Um único haltere",
-      "price": 114.23,
-      "original_price": 259.61,
+      "price": 114.24,
+      "original_price": 259.64,
       "discount": 56.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m973tgge58ah6c",
@@ -9031,7 +9032,7 @@
       "_item": {
         "itemId": 22198468630,
         "productName": "Halter Dumbell Emborrachado Sextavado Cromado De 10/15/20/25/30/35/40 LBS Um único haltere",
-        "price": "114.23",
+        "price": "114.24",
         "priceDiscountRate": 56,
         "commissionRate": "0.03",
         "sales": 115,
