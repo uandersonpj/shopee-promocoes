@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T00:39:18.903931+00:00",
-  "total": 1126,
+  "updated_at": "2026-10-12T00:58:54.520197+00:00",
+  "total": 1124,
   "products": [
     {
       "id": "58210104632",
@@ -1389,7 +1389,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1xeanm14pt61d",
         "productLink": "https://shopee.com.br/product/1017646777/22198016021",
         "offerLink": "https://s.shopee.com.br/2VsPoNvR1b"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "42068096428",
@@ -3590,35 +3591,6 @@
       "_last_price": null
     },
     {
-      "id": "23094996785",
-      "name": "Dissipador SSD NVMe M.2 2280 Delta-CN510 - LED RGB 5V Aura Macho Fêmea",
-      "price": 41.59,
-      "original_price": 129.97,
-      "discount": 68.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823q6-motzwijgdl3f17",
-      "link": "https://s.shopee.com.br/70KpW4jETv",
-      "rating": "4.9",
-      "sales": 21,
-      "shop": "Inovar Top",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23094996785,
-        "productName": "Dissipador SSD NVMe M.2 2280 Delta-CN510 - LED RGB 5V Aura Macho Fêmea",
-        "price": "41.59",
-        "priceDiscountRate": 68,
-        "commissionRate": "0.07",
-        "sales": 21,
-        "ratingStar": "4.9",
-        "shopName": "Inovar Top",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823q6-motzwijgdl3f17",
-        "productLink": "https://shopee.com.br/product/944725778/23094996785",
-        "offerLink": "https://s.shopee.com.br/70KpW4jETv"
-      },
-      "_last_price": null
-    },
-    {
       "id": "17255136776",
       "name": "Relógio Smartwatch D20 Pro Bluetooth Coloca Foto na Tela Monitor Cardíaco Pressão Esportivo Android iPhone",
       "price": 17.99,
@@ -4775,35 +4747,6 @@
       "_last_price": null
     },
     {
-      "id": "44756145784",
-      "name": "Haltere Ajustável Colorido 24kg Com Base Elite Pro 4kg",
-      "price": 609.0,
-      "original_price": 1740.0,
-      "discount": 65.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsyy1vntp8g61",
-      "link": "https://s.shopee.com.br/4B0dnSxgwo",
-      "rating": "4.9",
-      "sales": 29,
-      "shop": "keepgoingmax.br",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 44756145784,
-        "productName": "Haltere Ajustável Colorido 24kg Com Base Elite Pro 4kg",
-        "price": "609",
-        "priceDiscountRate": 65,
-        "commissionRate": "0.03",
-        "sales": 29,
-        "ratingStar": "4.9",
-        "shopName": "keepgoingmax.br",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsyy1vntp8g61",
-        "productLink": "https://shopee.com.br/product/1613783173/44756145784",
-        "offerLink": "https://s.shopee.com.br/4B0dnSxgwo"
-      },
-      "_last_price": null
-    },
-    {
       "id": "47100924313",
       "name": "[baipestoner] Chaveiro Com Halteres Para Academia Moda 3D PVC Haltere Chave De Carro Carteira Mochila Pingente Presentes",
       "price": 12.74,
@@ -4829,6 +4772,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821cz-mgq3slrsdqmh67",
         "productLink": "https://shopee.com.br/product/589726853/47100924313",
         "offerLink": "https://s.shopee.com.br/4LK3zlx3bp"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "44756145784",
+      "name": "Haltere Ajustável Colorido 24kg Com Base Elite Pro 4kg",
+      "price": 609.0,
+      "original_price": 1740.0,
+      "discount": 65.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsyy1vntp8g61",
+      "link": "https://s.shopee.com.br/4B0dnSxgwo",
+      "rating": "4.9",
+      "sales": 29,
+      "shop": "keepgoingmax.br",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 44756145784,
+        "productName": "Haltere Ajustável Colorido 24kg Com Base Elite Pro 4kg",
+        "price": "609",
+        "priceDiscountRate": 65,
+        "commissionRate": "0.03",
+        "sales": 29,
+        "ratingStar": "4.9",
+        "shopName": "keepgoingmax.br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsyy1vntp8g61",
+        "productLink": "https://shopee.com.br/product/1613783173/44756145784",
+        "offerLink": "https://s.shopee.com.br/4B0dnSxgwo"
       },
       "_last_price": null
     },
@@ -5176,35 +5148,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mticu9ta4b9e66",
         "productLink": "https://shopee.com.br/product/502537735/22993481974",
         "offerLink": "https://s.shopee.com.br/9APJkZG8qL"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58215814488",
-      "name": "Sabão em Pó Com Percabonato Alta Limpeza",
-      "price": 7.82,
-      "original_price": 21.72,
-      "discount": 64.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mrm3hs9i1b0k13",
-      "link": "https://s.shopee.com.br/AAHqwPlSop",
-      "rating": "4.7",
-      "sales": 5290,
-      "shop": "Unilimp ind",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58215814488,
-        "productName": "Sabão em Pó Com Percabonato Alta Limpeza",
-        "price": "7.82",
-        "priceDiscountRate": 64,
-        "commissionRate": "0.13",
-        "sales": 5290,
-        "ratingStar": "4.7",
-        "shopName": "Unilimp ind",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mrm3hs9i1b0k13",
-        "productLink": "https://shopee.com.br/product/1736765436/58215814488",
-        "offerLink": "https://s.shopee.com.br/AAHqwPlSop"
       },
       "_last_price": null
     },
@@ -8624,8 +8567,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mrztp81e9kw7b1",
         "productLink": "https://shopee.com.br/product/1781912896/58265714065",
         "offerLink": "https://s.shopee.com.br/6L58NNvSZ2"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "20499092615",
@@ -27100,6 +27042,35 @@
       "_last_price": null
     },
     {
+      "id": "22693185466",
+      "name": "Carrinho Ônibus Escolar Transparente com Engrenagens- Com Luz e Som- Movimentação por Inércia (Fricção)- Brinquedo",
+      "price": 14.99,
+      "original_price": 20.53,
+      "discount": 27.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rff4-m355q8wymnruce",
+      "link": "https://s.shopee.com.br/1qcjAZvSUL",
+      "rating": "4.7",
+      "sales": 1270,
+      "shop": "leve bazar",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22693185466,
+        "productName": "Carrinho Ônibus Escolar Transparente com Engrenagens- Com Luz e Som- Movimentação por Inércia (Fricção)- Brinquedo",
+        "price": "14.99",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.03",
+        "sales": 1270,
+        "ratingStar": "4.7",
+        "shopName": "leve bazar",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rff4-m355q8wymnruce",
+        "productLink": "https://shopee.com.br/product/1318087887/22693185466",
+        "offerLink": "https://s.shopee.com.br/1qcjAZvSUL"
+      },
+      "_last_price": null
+    },
+    {
       "id": "44763955954",
       "name": "Ração Cachorro Premium 5kg Amor Dog Carne 18% Proteina Adulto Todas Raças",
       "price": 26.07,
@@ -32084,35 +32055,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekctgxrndogf4",
         "productLink": "https://shopee.com.br/product/446413605/23593572198",
         "offerLink": "https://s.shopee.com.br/5fpRaD0yi3"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "26565842194",
-      "name": "8 Peças Porca De Haltere , Haste Coleiras Para Barras De Halteres , Acessórios Esportivos De Treinamento",
-      "price": 24.56,
-      "original_price": 28.89,
-      "discount": 15.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rene-m1x6eixhhmpwaa",
-      "link": "https://s.shopee.com.br/6Ali9n6GyQ",
-      "rating": "4.9",
-      "sales": 8,
-      "shop": "hukou33.br",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 26565842194,
-        "productName": "8 Peças Porca De Haltere , Haste Coleiras Para Barras De Halteres , Acessórios Esportivos De Treinamento",
-        "price": "24.56",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.09",
-        "sales": 8,
-        "ratingStar": "4.9",
-        "shopName": "hukou33.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rene-m1x6eixhhmpwaa",
-        "productLink": "https://shopee.com.br/product/207148383/26565842194",
-        "offerLink": "https://s.shopee.com.br/6Ali9n6GyQ"
       },
       "_last_price": null
     },
