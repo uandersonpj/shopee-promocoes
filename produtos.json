@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T01:57:34.137990+00:00",
+  "updated_at": "2026-10-12T02:17:06.440209+00:00",
   "total": 1127,
   "products": [
     {
@@ -954,7 +954,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mr1vaho31o90f0",
         "productLink": "https://shopee.com.br/product/1246081278/45364806848",
         "offerLink": "https://s.shopee.com.br/80DMMQtiDS"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19860785095",
@@ -1681,35 +1682,6 @@
       "_last_price": null
     },
     {
-      "id": "58256902298",
-      "name": "1 CORANTE DE 500ML PARA SABÃO LÍQUIDO, DETERGENTE, DESINFETANTE, AMACIANTE, SABÃO EM PÓ, SABÃO EM BARRA, DIFUSORES P7",
-      "price": 13.0,
-      "original_price": 50.0,
-      "discount": 74.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mls4vl4u95vr88",
-      "link": "https://s.shopee.com.br/LnvELMtmC",
-      "rating": "4.8",
-      "sales": 373,
-      "shop": "2i01457rom",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58256902298,
-        "productName": "1 CORANTE DE 500ML PARA SABÃO LÍQUIDO, DETERGENTE, DESINFETANTE, AMACIANTE, SABÃO EM PÓ, SABÃO EM BARRA, DIFUSORES P7",
-        "price": "13",
-        "priceDiscountRate": 74,
-        "commissionRate": "0.13",
-        "sales": 373,
-        "ratingStar": "4.8",
-        "shopName": "2i01457rom",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mls4vl4u95vr88",
-        "productLink": "https://shopee.com.br/product/1744899243/58256902298",
-        "offerLink": "https://s.shopee.com.br/LnvELMtmC"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23118736011",
       "name": "5/10/20 Peças Pano Absorvente Anti Óleo Para Cozinha /Pano De Microfibra /Toalha De Limpeza De Cozinha/Toalha De Mesa",
       "price": 11.99,
@@ -1793,35 +1765,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262f-ml3p8fq62c5g00",
         "productLink": "https://shopee.com.br/product/1127030290/23593847901",
         "offerLink": "https://s.shopee.com.br/30ogPNE3GU"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23893429110",
-      "name": "70KG Molinete De Pesca Carretel De Pesca 5.2 : 1 Giratório 1000-7000 Com Cabo EVA Amarelo Escuro",
-      "price": 28.03,
-      "original_price": 107.81,
-      "discount": 74.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfje7rr835s0e2",
-      "link": "https://s.shopee.com.br/LnvQc5sJF",
-      "rating": "4.9",
-      "sales": 601,
-      "shop": "HK  STORE",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23893429110,
-        "productName": "70KG Molinete De Pesca Carretel De Pesca 5.2 : 1 Giratório 1000-7000 Com Cabo EVA Amarelo Escuro",
-        "price": "28.03",
-        "priceDiscountRate": 74,
-        "commissionRate": "0.08",
-        "sales": 601,
-        "ratingStar": "4.9",
-        "shopName": "HK  STORE",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfje7rr835s0e2",
-        "productLink": "https://shopee.com.br/product/1267134569/23893429110",
-        "offerLink": "https://s.shopee.com.br/LnvQc5sJF"
       },
       "_last_price": null
     },
@@ -2460,6 +2403,35 @@
         "productLink": "https://shopee.com.br/product/235321669/52557307480",
         "offerLink": "https://s.shopee.com.br/70KpAa6rMa"
       }
+    },
+    {
+      "id": "58256902298",
+      "name": "1 CORANTE DE 500ML PARA SABÃO LÍQUIDO, DETERGENTE, DESINFETANTE, AMACIANTE, SABÃO EM PÓ, SABÃO EM BARRA, DIFUSORES P7",
+      "price": 14.5,
+      "original_price": 50.0,
+      "discount": 71.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mls4vl4u95vr88",
+      "link": "https://s.shopee.com.br/LnvELMtmC",
+      "rating": "4.8",
+      "sales": 373,
+      "shop": "2i01457rom",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58256902298,
+        "productName": "1 CORANTE DE 500ML PARA SABÃO LÍQUIDO, DETERGENTE, DESINFETANTE, AMACIANTE, SABÃO EM PÓ, SABÃO EM BARRA, DIFUSORES P7",
+        "price": "14.5",
+        "priceDiscountRate": 71,
+        "commissionRate": "0.13",
+        "sales": 373,
+        "ratingStar": "4.8",
+        "shopName": "2i01457rom",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mls4vl4u95vr88",
+        "productLink": "https://shopee.com.br/product/1744899243/58256902298",
+        "offerLink": "https://s.shopee.com.br/LnvELMtmC"
+      },
+      "_last_price": null
     },
     {
       "id": "22594956407",
@@ -5207,8 +5179,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mq1wjms9613757",
         "productLink": "https://shopee.com.br/product/1552402777/53602161553",
         "offerLink": "https://s.shopee.com.br/60SHylezY8"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58216213723",
@@ -5271,8 +5242,8 @@
     {
       "id": "58250273322",
       "name": "Panela de Pressão Inox 304 6 e 10 Litros 100kPa Cozinha Rápida para Indução e Gás com Pinça para alimentos Inox",
-      "price": 328.0,
-      "original_price": 911.11,
+      "price": 298.26,
+      "original_price": 828.5,
       "discount": 64.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mrzlw2b0rvgla8",
@@ -5285,7 +5256,7 @@
       "_item": {
         "itemId": 58250273322,
         "productName": "Panela de Pressão Inox 304 6 e 10 Litros 100kPa Cozinha Rápida para Indução e Gás com Pinça para alimentos Inox",
-        "price": "328",
+        "price": "298.26",
         "priceDiscountRate": 64,
         "commissionRate": "0.08",
         "sales": 855,
@@ -8046,6 +8017,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md622mukljxu8b",
         "productLink": "https://shopee.com.br/product/377119308/14796214327",
         "offerLink": "https://s.shopee.com.br/7VH5lcFBoI"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23893429110",
+      "name": "70KG Molinete De Pesca Carretel De Pesca 5.2 : 1 Giratório 1000-7000 Com Cabo EVA Amarelo Escuro",
+      "price": 45.8,
+      "original_price": 111.71,
+      "discount": 59.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfje7rr835s0e2",
+      "link": "https://s.shopee.com.br/LnvQc5sJF",
+      "rating": "4.9",
+      "sales": 601,
+      "shop": "HK  STORE",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23893429110,
+        "productName": "70KG Molinete De Pesca Carretel De Pesca 5.2 : 1 Giratório 1000-7000 Com Cabo EVA Amarelo Escuro",
+        "price": "45.8",
+        "priceDiscountRate": 59,
+        "commissionRate": "0.08",
+        "sales": 601,
+        "ratingStar": "4.9",
+        "shopName": "HK  STORE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfje7rr835s0e2",
+        "productLink": "https://shopee.com.br/product/1267134569/23893429110",
+        "offerLink": "https://s.shopee.com.br/LnvQc5sJF"
       },
       "_last_price": null
     },
@@ -22838,6 +22838,35 @@
       "_last_price": null
     },
     {
+      "id": "41431933338",
+      "name": "Porta Frios Hermético com Tampa de Silicone | Organizador de Geladeira para Queijo, Presunto e Frios",
+      "price": 16.9,
+      "original_price": 26.0,
+      "discount": 35.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824it-mptpksw3yxan5a",
+      "link": "https://s.shopee.com.br/AKbH8kJch3",
+      "rating": "4.6",
+      "sales": 4279,
+      "shop": "Click.Lar",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41431933338,
+        "productName": "Porta Frios Hermético com Tampa de Silicone | Organizador de Geladeira para Queijo, Presunto e Frios",
+        "price": "16.9",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.03",
+        "sales": 4279,
+        "ratingStar": "4.6",
+        "shopName": "Click.Lar",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824it-mptpksw3yxan5a",
+        "productLink": "https://shopee.com.br/product/1558991312/41431933338",
+        "offerLink": "https://s.shopee.com.br/AKbH8kJch3"
+      },
+      "_last_price": null
+    },
+    {
       "id": "16301375335",
       "name": "Kit 4 Panos Mágico de Chão Grande Super Absorvente de Microfibra para Limpeza Geral 50x60cm",
       "price": 23.99,
@@ -24429,35 +24458,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra2n-mbebm15ltjrk86",
         "productLink": "https://shopee.com.br/product/627750190/23094170351",
         "offerLink": "https://s.shopee.com.br/9zyQk6UdVQ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "41431933338",
-      "name": "Porta Frios Hermético com Tampa de Silicone | Organizador de Geladeira para Queijo, Presunto e Frios",
-      "price": 17.5,
-      "original_price": 25.74,
-      "discount": 32.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824it-mptpksw3yxan5a",
-      "link": "https://s.shopee.com.br/AKbH8kJch3",
-      "rating": "4.6",
-      "sales": 4279,
-      "shop": "Click.Lar",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41431933338,
-        "productName": "Porta Frios Hermético com Tampa de Silicone | Organizador de Geladeira para Queijo, Presunto e Frios",
-        "price": "17.5",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.03",
-        "sales": 4279,
-        "ratingStar": "4.6",
-        "shopName": "Click.Lar",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824it-mptpksw3yxan5a",
-        "productLink": "https://shopee.com.br/product/1558991312/41431933338",
-        "offerLink": "https://s.shopee.com.br/AKbH8kJch3"
       },
       "_last_price": null
     },
@@ -27038,35 +27038,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262d-mk9n8fkosb9id9",
         "productLink": "https://shopee.com.br/product/627750190/58254539071",
         "offerLink": "https://s.shopee.com.br/5LCbCr1k9f"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58262421384",
-      "name": "Placa de Video PNY GeForce RTX 5070 OC Triple Fan, 12GB, GDDR7, 192-bit, VCG507012TFXPB1-O",
-      "price": 5743.9,
-      "original_price": 7868.36,
-      "discount": 27.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824gw-mpdzrd8o4irye0",
-      "link": "https://s.shopee.com.br/7AeFODulR6",
-      "rating": "5",
-      "sales": 27,
-      "shop": "Pichau",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58262421384,
-        "productName": "Placa de Video PNY GeForce RTX 5070 OC Triple Fan, 12GB, GDDR7, 192-bit, VCG507012TFXPB1-O",
-        "price": "5743.9",
-        "priceDiscountRate": 27,
-        "commissionRate": "0.03",
-        "sales": 27,
-        "ratingStar": "5",
-        "shopName": "Pichau",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gw-mpdzrd8o4irye0",
-        "productLink": "https://shopee.com.br/product/627750190/58262421384",
-        "offerLink": "https://s.shopee.com.br/7AeFODulR6"
       },
       "_last_price": null
     },
@@ -31910,6 +31881,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxk-mdqd16pct8kk29",
         "productLink": "https://shopee.com.br/product/344381236/40004443645",
         "offerLink": "https://s.shopee.com.br/9fLaMolFML"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "25645909731",
+      "name": "Placa de Video GeForce NVIDIA MSI  RTX5060TI 8g Shadow 2x Oc Plus 8gb Gddr7 128 Bits - 912-V536-023",
+      "price": 3499.0,
+      "original_price": 4116.47,
+      "discount": 15.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mc27rkvpzra0f9",
+      "link": "https://s.shopee.com.br/905sEkczeJ",
+      "rating": "5",
+      "sales": 22,
+      "shop": "TNTinfoLoja",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 25645909731,
+        "productName": "Placa de Video GeForce NVIDIA MSI  RTX5060TI 8g Shadow 2x Oc Plus 8gb Gddr7 128 Bits - 912-V536-023",
+        "price": "3499",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.03",
+        "sales": 22,
+        "ratingStar": "5",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mc27rkvpzra0f9",
+        "productLink": "https://shopee.com.br/product/344381236/25645909731",
+        "offerLink": "https://s.shopee.com.br/905sEkczeJ"
       },
       "_last_price": null
     },
