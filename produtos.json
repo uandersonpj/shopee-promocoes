@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T13:47:59.013447+00:00",
-  "total": 1120,
+  "updated_at": "2026-10-12T14:07:37.779965+00:00",
+  "total": 1119,
   "products": [
     {
       "id": "58210104632",
@@ -259,8 +259,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134275-7rdxw-mdfucal40l6y57",
         "productLink": "https://shopee.com.br/product/236693678/26539956454",
         "offerLink": "https://s.shopee.com.br/4qGKan5n8d"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "57911938287",
@@ -525,8 +524,8 @@
     {
       "id": "21897981294",
       "name": "Attracione Men (Perfume Masculino com Feromônios Ativados)",
-      "price": 57.0,
-      "original_price": 285.0,
+      "price": 59.0,
+      "original_price": 295.0,
       "discount": 80.0,
       "commission": 26.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
@@ -539,7 +538,7 @@
       "_item": {
         "itemId": 21897981294,
         "productName": "Attracione Men (Perfume Masculino com Feromônios Ativados)",
-        "price": "57",
+        "price": "59",
         "priceDiscountRate": 80,
         "commissionRate": "0.26",
         "sales": 3079,
@@ -9653,8 +9652,8 @@
     {
       "id": "17686897164",
       "name": "Kit Cozinha Infantil Brinquedo peça Air Fryer Panela Fogão Comidinha Eletrodoméstico Utensílio",
-      "price": 39.94,
-      "original_price": 88.76,
+      "price": 39.95,
+      "original_price": 88.78,
       "discount": 55.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mos9uk8pk937ff",
@@ -9667,7 +9666,7 @@
       "_item": {
         "itemId": 17686897164,
         "productName": "Kit Cozinha Infantil Brinquedo peça Air Fryer Panela Fogão Comidinha Eletrodoméstico Utensílio",
-        "price": "39.94",
+        "price": "39.95",
         "priceDiscountRate": 55,
         "commissionRate": "0.03",
         "sales": 805,
@@ -27108,6 +27107,35 @@
       "_last_price": null
     },
     {
+      "id": "22693185466",
+      "name": "Carrinho Ônibus Escolar Transparente com Engrenagens- Com Luz e Som- Movimentação por Inércia (Fricção)- Brinquedo",
+      "price": 14.99,
+      "original_price": 20.53,
+      "discount": 27.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rff4-m355q8wymnruce",
+      "link": "https://s.shopee.com.br/1qcjAZvSUL",
+      "rating": "4.8",
+      "sales": 1270,
+      "shop": "leve bazar",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22693185466,
+        "productName": "Carrinho Ônibus Escolar Transparente com Engrenagens- Com Luz e Som- Movimentação por Inércia (Fricção)- Brinquedo",
+        "price": "14.99",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.03",
+        "sales": 1270,
+        "ratingStar": "4.8",
+        "shopName": "leve bazar",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rff4-m355q8wymnruce",
+        "productLink": "https://shopee.com.br/product/1318087887/22693185466",
+        "offerLink": "https://s.shopee.com.br/1qcjAZvSUL"
+      },
+      "_last_price": null
+    },
+    {
       "id": "44763955954",
       "name": "Ração Cachorro Premium 5kg Amor Dog Carne 18% Proteina Adulto Todas Raças",
       "price": 26.07,
@@ -27365,35 +27393,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258a-msbwmmolzx8m23",
         "productLink": "https://shopee.com.br/product/616222685/16324454755",
         "offerLink": "https://s.shopee.com.br/1gJIopUHZW"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58201469419",
-      "name": "Ração SuperPremium Bionatural Prime Para Gatos Castrados Sabor Frango 7.5kg",
-      "price": 140.25,
-      "original_price": 189.53,
-      "discount": 26.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhuibgwx00le00",
-      "link": "https://s.shopee.com.br/3g4OVgDbkf",
-      "rating": "5",
-      "sales": 1641,
-      "shop": "animalzecommerce",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58201469419,
-        "productName": "Ração SuperPremium Bionatural Prime Para Gatos Castrados Sabor Frango 7.5kg",
-        "price": "140.25",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.03",
-        "sales": 1641,
-        "ratingStar": "5",
-        "shopName": "animalzecommerce",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhuibgwx00le00",
-        "productLink": "https://shopee.com.br/product/1509105042/58201469419",
-        "offerLink": "https://s.shopee.com.br/3g4OVgDbkf"
       },
       "_last_price": null
     },
@@ -28989,6 +28988,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj4ayj8rseme88",
         "productLink": "https://shopee.com.br/product/1242044379/22097495429",
         "offerLink": "https://s.shopee.com.br/20w9MtGcI3"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "11869643265",
+      "name": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
+      "price": 114.99,
+      "original_price": 147.42,
+      "discount": 22.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
+      "link": "https://s.shopee.com.br/80DMMWeE3b",
+      "rating": "4.9",
+      "sales": 4502,
+      "shop": "Popular Pet",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 11869643265,
+        "productName": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
+        "price": "114.99",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.06",
+        "sales": 4502,
+        "ratingStar": "4.9",
+        "shopName": "Popular Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
+        "productLink": "https://shopee.com.br/product/398944029/11869643265",
+        "offerLink": "https://s.shopee.com.br/80DMMWeE3b"
       },
       "_last_price": null
     },
@@ -31918,64 +31946,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mt8lgbq7d0qo6b",
         "productLink": "https://shopee.com.br/product/1027982682/23098884809",
         "offerLink": "https://s.shopee.com.br/5fpRa9xzuq"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23593572198",
-      "name": "Carrinho Rolimã Zig Zag Car 360 Roda Led Infantil - Castela",
-      "price": 217.99,
-      "original_price": 256.46,
-      "discount": 15.0,
-      "commission": 15.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekctgxrndogf4",
-      "link": "https://s.shopee.com.br/5fpRaD0yi3",
-      "rating": "4.8",
-      "sales": 932,
-      "shop": "Mais Barato Brinquedos",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23593572198,
-        "productName": "Carrinho Rolimã Zig Zag Car 360 Roda Led Infantil - Castela",
-        "price": "217.99",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.15",
-        "sales": 932,
-        "ratingStar": "4.8",
-        "shopName": "Mais Barato Brinquedos",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekctgxrndogf4",
-        "productLink": "https://shopee.com.br/product/446413605/23593572198",
-        "offerLink": "https://s.shopee.com.br/5fpRaD0yi3"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "26565842194",
-      "name": "8 Peças Porca De Haltere , Haste Coleiras Para Barras De Halteres , Acessórios Esportivos De Treinamento",
-      "price": 24.56,
-      "original_price": 28.89,
-      "discount": 15.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rene-m1x6eixhhmpwaa",
-      "link": "https://s.shopee.com.br/6Ali9n6GyQ",
-      "rating": "4.9",
-      "sales": 8,
-      "shop": "hukou33.br",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 26565842194,
-        "productName": "8 Peças Porca De Haltere , Haste Coleiras Para Barras De Halteres , Acessórios Esportivos De Treinamento",
-        "price": "24.56",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.09",
-        "sales": 8,
-        "ratingStar": "4.9",
-        "shopName": "hukou33.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rene-m1x6eixhhmpwaa",
-        "productLink": "https://shopee.com.br/product/207148383/26565842194",
-        "offerLink": "https://s.shopee.com.br/6Ali9n6GyQ"
       },
       "_last_price": null
     },
