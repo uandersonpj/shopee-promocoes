@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T08:00:43.639348+00:00",
-  "total": 1126,
+  "updated_at": "2026-10-12T08:19:37.041947+00:00",
+  "total": 1127,
   "products": [
     {
       "id": "58210104632",
@@ -5102,7 +5102,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mq1wjms9613757",
         "productLink": "https://shopee.com.br/product/1552402777/53602161553",
         "offerLink": "https://s.shopee.com.br/60SHylezY8"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58216213723",
@@ -12030,6 +12031,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
         "productLink": "https://shopee.com.br/product/1270189717/29343102973",
         "offerLink": "https://s.shopee.com.br/3Vkx0AoVcP"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58256681617",
+      "name": "Base Amaciante Concentrada 100ml faz 20 litros  Varias Fragrâncias",
+      "price": 19.5,
+      "original_price": 39.8,
+      "discount": 51.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mlo03sx34wef14",
+      "link": "https://s.shopee.com.br/7ptw23C0Ih",
+      "rating": "4.9",
+      "sales": 979,
+      "shop": "Evolution Essências",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58256681617,
+        "productName": "Base Amaciante Concentrada 100ml faz 20 litros  Varias Fragrâncias",
+        "price": "19.5",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.03",
+        "sales": 979,
+        "ratingStar": "4.9",
+        "shopName": "Evolution Essências",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mlo03sx34wef14",
+        "productLink": "https://shopee.com.br/product/402665763/58256681617",
+        "offerLink": "https://s.shopee.com.br/7ptw23C0Ih"
       },
       "_last_price": null
     },
