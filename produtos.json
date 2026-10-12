@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T17:24:05.196829+00:00",
+  "updated_at": "2026-10-12T17:43:40.163576+00:00",
   "total": 1117,
   "products": [
     {
@@ -458,8 +458,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
         "productLink": "https://shopee.com.br/product/972031390/21997150349",
         "offerLink": "https://s.shopee.com.br/8pmTM4RiGm"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "42971009476",
@@ -574,7 +573,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mldt9agkd2x0c0",
         "productLink": "https://shopee.com.br/product/1082873638/23294866358",
         "offerLink": "https://s.shopee.com.br/8fT39jOktb"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22794275506",
@@ -3471,8 +3471,8 @@
     {
       "id": "50815623138",
       "name": "Sunless Protetor Solar FPS 70 200g | Facial 30g | Kit FPS 70 | FPS 60 + Vitamina C | Escolha a Variação",
-      "price": 15.89,
-      "original_price": 49.66,
+      "price": 15.9,
+      "original_price": 49.69,
       "discount": 68.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mrm1isre6juu61",
@@ -3485,7 +3485,7 @@
       "_item": {
         "itemId": 50815623138,
         "productName": "Sunless Protetor Solar FPS 70 200g | Facial 30g | Kit FPS 70 | FPS 60 + Vitamina C | Escolha a Variação",
-        "price": "15.89",
+        "price": "15.9",
         "priceDiscountRate": 68,
         "commissionRate": "0.03",
         "sales": 1913,
@@ -7558,8 +7558,8 @@
     {
       "id": "18350470458",
       "name": "Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana",
-      "price": 29.8,
-      "original_price": 72.68,
+      "price": 29.9,
+      "original_price": 72.93,
       "discount": 59.0,
       "commission": 5.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lkz9ur4r4lj3c1",
@@ -7572,7 +7572,7 @@
       "_item": {
         "itemId": 18350470458,
         "productName": "Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana",
-        "price": "29.8",
+        "price": "29.9",
         "priceDiscountRate": 59,
         "commissionRate": "0.05",
         "sales": 2163,
@@ -11761,35 +11761,6 @@
       "_last_price": null
     },
     {
-      "id": "22893806671",
-      "name": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
-      "price": 39.9,
-      "original_price": 83.12,
-      "discount": 52.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
-      "link": "https://s.shopee.com.br/1qcj1DA1r4",
-      "rating": "4.8",
-      "sales": 713,
-      "shop": "Facilita Lar.",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22893806671,
-        "productName": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
-        "price": "39.9",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.13",
-        "sales": 713,
-        "ratingStar": "4.8",
-        "shopName": "Facilita Lar.",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
-        "productLink": "https://shopee.com.br/product/1461473610/22893806671",
-        "offerLink": "https://s.shopee.com.br/1qcj1DA1r4"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20399869941",
       "name": "Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente",
       "price": 28.52,
@@ -14512,6 +14483,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8226r-mhfcarhiudxo7d",
         "productLink": "https://shopee.com.br/product/908280603/48208359433",
         "offerLink": "https://s.shopee.com.br/9zyQkCoHPC"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22893806671",
+      "name": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
+      "price": 39.9,
+      "original_price": 76.73,
+      "discount": 48.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
+      "link": "https://s.shopee.com.br/1qcj1DA1r4",
+      "rating": "4.8",
+      "sales": 713,
+      "shop": "Facilita Lar.",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22893806671,
+        "productName": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
+        "price": "39.9",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.13",
+        "sales": 713,
+        "ratingStar": "4.8",
+        "shopName": "Facilita Lar.",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
+        "productLink": "https://shopee.com.br/product/1461473610/22893806671",
+        "offerLink": "https://s.shopee.com.br/1qcj1DA1r4"
       },
       "_last_price": null
     },
@@ -24810,35 +24810,6 @@
       "_last_price": null
     },
     {
-      "id": "20399578507",
-      "name": "Kit 4un Dispenser Flow 1,5 Litros Porta Sabão Líquido em Pó Amaciante Alvejante Organizador Armário de Lavanderia",
-      "price": 137.0,
-      "original_price": 198.55,
-      "discount": 31.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mswtj8osgjr826",
-      "link": "https://s.shopee.com.br/9KilG0Telo",
-      "rating": "4.9",
-      "sales": 595,
-      "shop": "Âncora Shopp",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20399578507,
-        "productName": "Kit 4un Dispenser Flow 1,5 Litros Porta Sabão Líquido em Pó Amaciante Alvejante Organizador Armário de Lavanderia",
-        "price": "137",
-        "priceDiscountRate": 31,
-        "commissionRate": "0.13",
-        "sales": 595,
-        "ratingStar": "4.9",
-        "shopName": "Âncora Shopp",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mswtj8osgjr826",
-        "productLink": "https://shopee.com.br/product/316557325/20399578507",
-        "offerLink": "https://s.shopee.com.br/9KilG0Telo"
-      },
-      "_last_price": null
-    },
-    {
       "id": "48363589367",
       "name": "Body Vestido Infantil Canelado Tapa Fralda De Pressão Conforto Kit 2, Kit 3 e Unidade",
       "price": 29.99,
@@ -27333,35 +27304,6 @@
       "_last_price": null
     },
     {
-      "id": "58201469419",
-      "name": "Ração SuperPremium Bionatural Prime Para Gatos Castrados Sabor Frango 7.5kg",
-      "price": 140.25,
-      "original_price": 189.53,
-      "discount": 26.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhuibgwx00le00",
-      "link": "https://s.shopee.com.br/3g4OVgDbkf",
-      "rating": "5",
-      "sales": 1641,
-      "shop": "animalzecommerce",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58201469419,
-        "productName": "Ração SuperPremium Bionatural Prime Para Gatos Castrados Sabor Frango 7.5kg",
-        "price": "140.25",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.03",
-        "sales": 1641,
-        "ratingStar": "5",
-        "shopName": "animalzecommerce",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhuibgwx00le00",
-        "productLink": "https://shopee.com.br/product/1509105042/58201469419",
-        "offerLink": "https://s.shopee.com.br/3g4OVgDbkf"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23099169510",
       "name": "Kit Liquidificador 550W Turbo Power L-99-FB + Batedeira 400W Prática - B-44-B Mondial",
       "price": 229.9,
@@ -27561,6 +27503,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261u-mldmrrimxzic34",
         "productLink": "https://shopee.com.br/product/344381236/56756696208",
         "offerLink": "https://s.shopee.com.br/9APJkZXoCB"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20399578507",
+      "name": "Kit 4un Dispenser Flow 1,5 Litros Porta Sabão Líquido em Pó Amaciante Alvejante Organizador Armário de Lavanderia",
+      "price": 149.59,
+      "original_price": 199.45,
+      "discount": 25.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mswtj8osgjr826",
+      "link": "https://s.shopee.com.br/9KilG0Telo",
+      "rating": "4.9",
+      "sales": 595,
+      "shop": "Âncora Shopp",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20399578507,
+        "productName": "Kit 4un Dispenser Flow 1,5 Litros Porta Sabão Líquido em Pó Amaciante Alvejante Organizador Armário de Lavanderia",
+        "price": "149.59",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.13",
+        "sales": 595,
+        "ratingStar": "4.9",
+        "shopName": "Âncora Shopp",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mswtj8osgjr826",
+        "productLink": "https://shopee.com.br/product/316557325/20399578507",
+        "offerLink": "https://s.shopee.com.br/9KilG0Telo"
       },
       "_last_price": null
     },
@@ -28872,8 +28843,8 @@
     {
       "id": "23498386191",
       "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-      "price": 249.8,
-      "original_price": 320.26,
+      "price": 249.9,
+      "original_price": 320.38,
       "discount": 22.0,
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
@@ -28886,7 +28857,7 @@
       "_item": {
         "itemId": 23498386191,
         "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-        "price": "249.8",
+        "price": "249.9",
         "priceDiscountRate": 22,
         "commissionRate": "0.1",
         "sales": 2400,
@@ -28924,6 +28895,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj4ayj8rseme88",
         "productLink": "https://shopee.com.br/product/1242044379/22097495429",
         "offerLink": "https://s.shopee.com.br/20w9MtGcI3"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "11869643265",
+      "name": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
+      "price": 114.99,
+      "original_price": 147.42,
+      "discount": 22.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
+      "link": "https://s.shopee.com.br/80DMMWeE3b",
+      "rating": "4.9",
+      "sales": 4502,
+      "shop": "Popular Pet",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 11869643265,
+        "productName": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
+        "price": "114.99",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.06",
+        "sales": 4502,
+        "ratingStar": "4.9",
+        "shopName": "Popular Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
+        "productLink": "https://shopee.com.br/product/398944029/11869643265",
+        "offerLink": "https://s.shopee.com.br/80DMMWeE3b"
       },
       "_last_price": null
     },
