@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T11:11:17.422920+00:00",
+  "updated_at": "2026-10-12T11:30:52.582941+00:00",
   "total": 1128,
   "products": [
     {
@@ -1273,8 +1273,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdo0op4e052x6a",
         "productLink": "https://shopee.com.br/product/1537241850/22394331157",
         "offerLink": "https://s.shopee.com.br/5q8rnoppSt"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "20398528613",
@@ -23461,35 +23460,6 @@
       "_last_price": null
     },
     {
-      "id": "22397902815",
-      "name": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
-      "price": 26.5,
-      "original_price": 40.15,
-      "discount": 34.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
-      "link": "https://s.shopee.com.br/8AWmYkoTq7",
-      "rating": "4.9",
-      "sales": 3728,
-      "shop": "MANIAPLAST",
-      "category": "desinfetante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22397902815,
-        "productName": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
-        "price": "26.5",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.1",
-        "sales": 3728,
-        "ratingStar": "4.9",
-        "shopName": "MANIAPLAST",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
-        "productLink": "https://shopee.com.br/product/882971017/22397902815",
-        "offerLink": "https://s.shopee.com.br/8AWmYkoTq7"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58201422912",
       "name": "Kit 5 Panos de Chão Microfibra 70x60cm Furo para Rodo Limpeza",
       "price": 32.99,
@@ -25748,6 +25718,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mmg50q1ihgjobd",
         "productLink": "https://shopee.com.br/product/1107585845/22599385841",
         "offerLink": "https://s.shopee.com.br/AUuhL26Bz3"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22397902815",
+      "name": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
+      "price": 27.99,
+      "original_price": 39.99,
+      "discount": 30.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
+      "link": "https://s.shopee.com.br/8AWmYkoTq7",
+      "rating": "4.9",
+      "sales": 3728,
+      "shop": "MANIAPLAST",
+      "category": "desinfetante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22397902815,
+        "productName": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
+        "price": "27.99",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.1",
+        "sales": 3728,
+        "ratingStar": "4.9",
+        "shopName": "MANIAPLAST",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
+        "productLink": "https://shopee.com.br/product/882971017/22397902815",
+        "offerLink": "https://s.shopee.com.br/8AWmYkoTq7"
       },
       "_last_price": null
     },
