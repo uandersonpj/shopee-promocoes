@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T05:08:57.588585+00:00",
+  "updated_at": "2026-10-12T05:27:48.734853+00:00",
   "total": 1127,
   "products": [
     {
@@ -4750,7 +4750,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-msd2spm12fif23",
         "productLink": "https://shopee.com.br/product/1768484381/58261211761",
         "offerLink": "https://s.shopee.com.br/5q8rmX8jxV"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23592921540",
@@ -18581,6 +18582,35 @@
       "_last_price": null
     },
     {
+      "id": "55712165667",
+      "name": "Ração Premium 10,1kg Frango Carne Peixe para Gatos Todos Portes Alta Nutrição 27% Proteina Promoção Filhotes e Adultos",
+      "price": 69.88,
+      "original_price": 120.48,
+      "discount": 42.0,
+      "commission": 14.000000000000002,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mraqv7m0ow0515",
+      "link": "https://s.shopee.com.br/5VW2Kna2dG",
+      "rating": "4.9",
+      "sales": 836,
+      "shop": "FATPET",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 55712165667,
+        "productName": "Ração Premium 10,1kg Frango Carne Peixe para Gatos Todos Portes Alta Nutrição 27% Proteina Promoção Filhotes e Adultos",
+        "price": "69.88",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.14",
+        "sales": 836,
+        "ratingStar": "4.9",
+        "shopName": "FATPET",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mraqv7m0ow0515",
+        "productLink": "https://shopee.com.br/product/421503156/55712165667",
+        "offerLink": "https://s.shopee.com.br/5VW2Kna2dG"
+      },
+      "_last_price": null
+    },
+    {
       "id": "28535302263",
       "name": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente Teflon Varias Cores Cozimento Rapido",
       "price": 133.9,
@@ -29248,35 +29278,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj4ayj8rseme88",
         "productLink": "https://shopee.com.br/product/1242044379/22097495429",
         "offerLink": "https://s.shopee.com.br/20w9MtGcI3"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "11869643265",
-      "name": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
-      "price": 114.99,
-      "original_price": 147.42,
-      "discount": 22.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
-      "link": "https://s.shopee.com.br/80DMMWeE3b",
-      "rating": "4.9",
-      "sales": 4502,
-      "shop": "Popular Pet",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 11869643265,
-        "productName": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
-        "price": "114.99",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.06",
-        "sales": 4502,
-        "ratingStar": "4.9",
-        "shopName": "Popular Pet",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
-        "productLink": "https://shopee.com.br/product/398944029/11869643265",
-        "offerLink": "https://s.shopee.com.br/80DMMWeE3b"
       },
       "_last_price": null
     },
