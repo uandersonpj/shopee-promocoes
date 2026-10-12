@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T16:25:02.044976+00:00",
-  "total": 1116,
+  "updated_at": "2026-10-12T16:44:39.749306+00:00",
+  "total": 1118,
   "products": [
     {
       "id": "58210104632",
@@ -201,8 +201,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m94jsi5hwaol47",
         "productLink": "https://shopee.com.br/product/1127030290/23593603405",
         "offerLink": "https://s.shopee.com.br/6VOYZeQlXV"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "49207406104",
@@ -3900,7 +3899,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkc1gjt1xc606",
         "productLink": "https://shopee.com.br/product/1362613415/42110429390",
         "offerLink": "https://s.shopee.com.br/1gJKIp9kwr"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22399450069",
@@ -4948,8 +4948,8 @@
     {
       "id": "53602161553",
       "name": "Sabão Cápsula Hode 353g Lava Roupas 4 em 1 Em Cápsula Amaciante Perfume Delicado Suave Detergente",
-      "price": 46.58,
-      "original_price": 129.39,
+      "price": 46.9,
+      "original_price": 130.28,
       "discount": 64.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mq1wjms9613757",
@@ -4962,7 +4962,7 @@
       "_item": {
         "itemId": 53602161553,
         "productName": "Sabão Cápsula Hode 353g Lava Roupas 4 em 1 Em Cápsula Amaciante Perfume Delicado Suave Detergente",
-        "price": "46.58",
+        "price": "46.9",
         "priceDiscountRate": 64,
         "commissionRate": "0.13",
         "sales": 1365,
@@ -7175,6 +7175,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqdi4h8b6wao80",
         "productLink": "https://shopee.com.br/product/1397772996/29842873054",
         "offerLink": "https://s.shopee.com.br/8V9d6prs64"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20598270836",
+      "name": "Kit 3 Molho para Ração de Cachorro Cremoso 250g Salsapetti Carne Frango Churrasco Sachê para Cachorro Opção com Biscoito",
+      "price": 16.0,
+      "original_price": 40.0,
+      "discount": 60.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcrto5965ulued",
+      "link": "https://s.shopee.com.br/W7LQjpB93",
+      "rating": "4.9",
+      "sales": 938,
+      "shop": "Magazine Animal",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20598270836,
+        "productName": "Kit 3 Molho para Ração de Cachorro Cremoso 250g Salsapetti Carne Frango Churrasco Sachê para Cachorro Opção com Biscoito",
+        "price": "16",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.08",
+        "sales": 938,
+        "ratingStar": "4.9",
+        "shopName": "Magazine Animal",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcrto5965ulued",
+        "productLink": "https://shopee.com.br/product/847641179/20598270836",
+        "offerLink": "https://s.shopee.com.br/W7LQjpB93"
       },
       "_last_price": null
     },
@@ -12254,6 +12283,35 @@
       "_last_price": null
     },
     {
+      "id": "57404370857",
+      "name": "Ração úmida Dog Chow Sabores Variados para Cães 15x85g ou 15x100g",
+      "price": 38.9,
+      "original_price": 79.39,
+      "discount": 51.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-ms2v0d0gl9mu9c",
+      "link": "https://s.shopee.com.br/4qGKahYgLj",
+      "rating": "5",
+      "sales": 1437,
+      "shop": "LeluPets",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57404370857,
+        "productName": "Ração úmida Dog Chow Sabores Variados para Cães 15x85g ou 15x100g",
+        "price": "38.9",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.18",
+        "sales": 1437,
+        "ratingStar": "5",
+        "shopName": "LeluPets",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-ms2v0d0gl9mu9c",
+        "productLink": "https://shopee.com.br/product/293152127/57404370857",
+        "offerLink": "https://s.shopee.com.br/4qGKahYgLj"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23799559042",
       "name": "Comedouro Bebedouro Elevado Pet Gato Cachorro Pequeno Pote Ração Água Anatômico",
       "price": 14.69,
@@ -17299,35 +17357,6 @@
       "_last_price": null
     },
     {
-      "id": "40278657861",
-      "name": "Comedouro Com Bebedouro Automático Cachorro Gato Pote Ração Pet",
-      "price": 9.99,
-      "original_price": 17.84,
-      "discount": 44.0,
-      "commission": 17.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259d-msrbp8fv4gli85",
-      "link": "https://s.shopee.com.br/AUuj16mcgJ",
-      "rating": "4.9",
-      "sales": 340,
-      "shop": "Pet Charm",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40278657861,
-        "productName": "Comedouro Com Bebedouro Automático Cachorro Gato Pote Ração Pet",
-        "price": "9.99",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.17",
-        "sales": 340,
-        "ratingStar": "4.9",
-        "shopName": "Pet Charm",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259d-msrbp8fv4gli85",
-        "productLink": "https://shopee.com.br/product/908280603/40278657861",
-        "offerLink": "https://s.shopee.com.br/AUuj16mcgJ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "19499594439",
       "name": "Arranhador Para Gatos Com Casinha Playground",
       "price": 139.99,
@@ -20895,6 +20924,35 @@
       "_last_price": null
     },
     {
+      "id": "23098728972",
+      "name": "Ração Cachorro Adulto 15kg Quatree Gourmet Todas Raças Sabor Carne",
+      "price": 99.07,
+      "original_price": 159.79,
+      "discount": 38.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-modzq7qw7fure5",
+      "link": "https://s.shopee.com.br/1LgSQGm0SM",
+      "rating": "4.9",
+      "sales": 646,
+      "shop": "animalzecommerce",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23098728972,
+        "productName": "Ração Cachorro Adulto 15kg Quatree Gourmet Todas Raças Sabor Carne",
+        "price": "99.07",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.03",
+        "sales": 646,
+        "ratingStar": "4.9",
+        "shopName": "animalzecommerce",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-modzq7qw7fure5",
+        "productLink": "https://shopee.com.br/product/1509105042/23098728972",
+        "offerLink": "https://s.shopee.com.br/1LgSQGm0SM"
+      },
+      "_last_price": null
+    },
+    {
       "id": "29392573808",
       "name": "Whiskas Sachê 85g – 16 Unid +4 Grátis Leve 20",
       "price": 48.9,
@@ -22722,6 +22780,35 @@
       "_last_price": null
     },
     {
+      "id": "58201486139",
+      "name": "Ração Úmida Dog Chow Cães - Display com 15 Sachês 85g",
+      "price": 38.9,
+      "original_price": 59.85,
+      "discount": 35.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8257s-ms72p9crvmrs6c",
+      "link": "https://s.shopee.com.br/113c1enH84",
+      "rating": "4.9",
+      "sales": 1434,
+      "shop": "SPN MARKET",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58201486139,
+        "productName": "Ração Úmida Dog Chow Cães - Display com 15 Sachês 85g",
+        "price": "38.9",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.03",
+        "sales": 1434,
+        "ratingStar": "4.9",
+        "shopName": "SPN MARKET",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257s-ms72p9crvmrs6c",
+        "productLink": "https://shopee.com.br/product/1501485889/58201486139",
+        "offerLink": "https://s.shopee.com.br/113c1enH84"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58201495048",
       "name": "Ração Úmida Sachê Friskies Gatos Display com 15 Sachês 85g",
       "price": 38.9,
@@ -23476,35 +23563,6 @@
       "_last_price": null
     },
     {
-      "id": "22893223197",
-      "name": "Petisco para cachorro bifinho Meu Dog 1Kg sabor Carne",
-      "price": 28.31,
-      "original_price": 42.89,
-      "discount": 34.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyv3j343ncx128",
-      "link": "https://s.shopee.com.br/9zySQBoWhA",
-      "rating": "4.9",
-      "sales": 689,
-      "shop": "BF FOODS",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22893223197,
-        "productName": "Petisco para cachorro bifinho Meu Dog 1Kg sabor Carne",
-        "price": "28.31",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.12",
-        "sales": 689,
-        "ratingStar": "4.9",
-        "shopName": "BF FOODS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyv3j343ncx128",
-        "productLink": "https://shopee.com.br/product/1320437130/22893223197",
-        "offerLink": "https://s.shopee.com.br/9zySQBoWhA"
-      },
-      "_last_price": null
-    },
-    {
       "id": "13435249728",
       "name": "Caminha Casinha Pet Cama GG Grande Cachorro Grande Cão e Gato",
       "price": 65.99,
@@ -23965,35 +24023,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mo34abhzmdc01c",
         "productLink": "https://shopee.com.br/product/715089031/58257853789",
         "offerLink": "https://s.shopee.com.br/3Vkx0F0EIU"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "53556272308",
-      "name": "Contêiner Porta Ração 15KG 35 Litros Ração de Cachorro Gato",
-      "price": 59.9,
-      "original_price": 89.4,
-      "discount": 33.0,
-      "commission": 14.000000000000002,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82598-ms1fktokedjaf3",
-      "link": "https://s.shopee.com.br/9fLc1ZpnN4",
-      "rating": "4.7",
-      "sales": 415,
-      "shop": "Pet Charm",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 53556272308,
-        "productName": "Contêiner Porta Ração 15KG 35 Litros Ração de Cachorro Gato",
-        "price": "59.9",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.14",
-        "sales": 415,
-        "ratingStar": "4.7",
-        "shopName": "Pet Charm",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82598-ms1fktokedjaf3",
-        "productLink": "https://shopee.com.br/product/908280603/53556272308",
-        "offerLink": "https://s.shopee.com.br/9fLc1ZpnN4"
       },
       "_last_price": null
     },
@@ -24462,6 +24491,35 @@
       "_last_price": null
     },
     {
+      "id": "19398297649",
+      "name": "Ração Para Cachorro 15kg Special Dog Ultralife Gold Performance Adulto Carne Frango e Batata Doce",
+      "price": 129.9,
+      "original_price": 191.03,
+      "discount": 32.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mobx7hnycrgjc0",
+      "link": "https://s.shopee.com.br/40hDbAbr2c",
+      "rating": "4.9",
+      "sales": 1499,
+      "shop": "animalzecommerce",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19398297649,
+        "productName": "Ração Para Cachorro 15kg Special Dog Ultralife Gold Performance Adulto Carne Frango e Batata Doce",
+        "price": "129.9",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.03",
+        "sales": 1499,
+        "ratingStar": "4.9",
+        "shopName": "animalzecommerce",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mobx7hnycrgjc0",
+        "productLink": "https://shopee.com.br/product/1509105042/19398297649",
+        "offerLink": "https://s.shopee.com.br/40hDbAbr2c"
+      },
+      "_last_price": null
+    },
+    {
       "id": "14604313620",
       "name": "Ração Magnus Todo Dia Cães Adultos Carne 15kg",
       "price": 85.45,
@@ -24493,8 +24551,8 @@
     {
       "id": "20599359513",
       "name": "Kit Cozinha Brinquedo Infantil Fogão Forno Panelinhas Xícaras Acessórios Faz de Conta",
-      "price": 29.98,
-      "original_price": 44.09,
+      "price": 29.99,
+      "original_price": 44.1,
       "discount": 32.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lb-moh9avb3ey9scc",
@@ -24507,7 +24565,7 @@
       "_item": {
         "itemId": 20599359513,
         "productName": "Kit Cozinha Brinquedo Infantil Fogão Forno Panelinhas Xícaras Acessórios Faz de Conta",
-        "price": "29.98",
+        "price": "29.99",
         "priceDiscountRate": 32,
         "commissionRate": "0.13",
         "sales": 1205,
@@ -26985,6 +27043,35 @@
       "_last_price": null
     },
     {
+      "id": "44763955954",
+      "name": "Ração Cachorro Premium 5kg Amor Dog Carne 18% Proteina Adulto Todas Raças",
+      "price": 26.07,
+      "original_price": 35.71,
+      "discount": 27.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259f-mqm1omgp7zf186",
+      "link": "https://s.shopee.com.br/8KqCl8LMFo",
+      "rating": "4.8",
+      "sales": 540,
+      "shop": "aumia_store",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 44763955954,
+        "productName": "Ração Cachorro Premium 5kg Amor Dog Carne 18% Proteina Adulto Todas Raças",
+        "price": "26.07",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.03",
+        "sales": 540,
+        "ratingStar": "4.8",
+        "shopName": "aumia_store",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mqm1omgp7zf186",
+        "productLink": "https://shopee.com.br/product/1686971749/44763955954",
+        "offerLink": "https://s.shopee.com.br/8KqCl8LMFo"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23099337262",
       "name": "Liquidificador Britânia 2,6L 4 Velocidades Diamante 1100",
       "price": 109.9,
@@ -27242,35 +27329,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwd-m0ac9dpy96o086",
         "productLink": "https://shopee.com.br/product/1194006916/22893283679",
         "offerLink": "https://s.shopee.com.br/8AWmYpdaic"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58201469419",
-      "name": "Ração SuperPremium Bionatural Prime Para Gatos Castrados Sabor Frango 7.5kg",
-      "price": 140.25,
-      "original_price": 189.53,
-      "discount": 26.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhuibgwx00le00",
-      "link": "https://s.shopee.com.br/3g4OVgDbkf",
-      "rating": "5",
-      "sales": 1641,
-      "shop": "animalzecommerce",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58201469419,
-        "productName": "Ração SuperPremium Bionatural Prime Para Gatos Castrados Sabor Frango 7.5kg",
-        "price": "140.25",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.03",
-        "sales": 1641,
-        "ratingStar": "5",
-        "shopName": "animalzecommerce",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhuibgwx00le00",
-        "productLink": "https://shopee.com.br/product/1509105042/58201469419",
-        "offerLink": "https://s.shopee.com.br/3g4OVgDbkf"
       },
       "_last_price": null
     },
@@ -28841,35 +28899,6 @@
       "_last_price": null
     },
     {
-      "id": "3583616499",
-      "name": "Carrinho Camaro Amarelo Vira Robô Transformers Bate Volta",
-      "price": 35.99,
-      "original_price": 46.14,
-      "discount": 22.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lq-mn4yzx3kxamc9d",
-      "link": "https://s.shopee.com.br/3LRWnv9rRN",
-      "rating": "4.9",
-      "sales": 1979,
-      "shop": "happytonia",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 3583616499,
-        "productName": "Carrinho Camaro Amarelo Vira Robô Transformers Bate Volta",
-        "price": "35.99",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.03",
-        "sales": 1979,
-        "ratingStar": "4.9",
-        "shopName": "happytonia",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mn4yzx3kxamc9d",
-        "productLink": "https://shopee.com.br/product/385632559/3583616499",
-        "offerLink": "https://s.shopee.com.br/3LRWnv9rRN"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22097495429",
       "name": "Whey Protein Fuse Isolate Fuse 1,8kg - Dark Lab",
       "price": 179.9,
@@ -28895,6 +28924,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj4ayj8rseme88",
         "productLink": "https://shopee.com.br/product/1242044379/22097495429",
         "offerLink": "https://s.shopee.com.br/20w9MtGcI3"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "11869643265",
+      "name": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
+      "price": 114.99,
+      "original_price": 147.42,
+      "discount": 22.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
+      "link": "https://s.shopee.com.br/80DMMWeE3b",
+      "rating": "4.9",
+      "sales": 4502,
+      "shop": "Popular Pet",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 11869643265,
+        "productName": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
+        "price": "114.99",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.06",
+        "sales": 4502,
+        "ratingStar": "4.9",
+        "shopName": "Popular Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
+        "productLink": "https://shopee.com.br/product/398944029/11869643265",
+        "offerLink": "https://s.shopee.com.br/80DMMWeE3b"
       },
       "_last_price": null
     },
@@ -30345,6 +30403,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7tk2e7ezmhg1d",
         "productLink": "https://shopee.com.br/product/293906934/20799651636",
         "offerLink": "https://s.shopee.com.br/30oht68v0l"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23298198782",
+      "name": "Carrinho De Boneca Baby Alive 3 Em 1 Bebê Conforto E Cadeira Divertoys",
+      "price": 63.9,
+      "original_price": 78.89,
+      "discount": 19.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m64i1woremya09",
+      "link": "https://s.shopee.com.br/W7N83e6QS",
+      "rating": "4.9",
+      "sales": 989,
+      "shop": "loja-amorim",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23298198782,
+        "productName": "Carrinho De Boneca Baby Alive 3 Em 1 Bebê Conforto E Cadeira Divertoys",
+        "price": "63.9",
+        "priceDiscountRate": 19,
+        "commissionRate": "0.03",
+        "sales": 989,
+        "ratingStar": "4.9",
+        "shopName": "loja-amorim",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m64i1woremya09",
+        "productLink": "https://shopee.com.br/product/1294889654/23298198782",
+        "offerLink": "https://s.shopee.com.br/W7N83e6QS"
       },
       "_last_price": null
     },
@@ -31824,35 +31911,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mt8lgbq7d0qo6b",
         "productLink": "https://shopee.com.br/product/1027982682/23098884809",
         "offerLink": "https://s.shopee.com.br/5fpRa9xzuq"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "26565842194",
-      "name": "8 Peças Porca De Haltere , Haste Coleiras Para Barras De Halteres , Acessórios Esportivos De Treinamento",
-      "price": 24.56,
-      "original_price": 28.89,
-      "discount": 15.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rene-m1x6eixhhmpwaa",
-      "link": "https://s.shopee.com.br/6Ali9n6GyQ",
-      "rating": "4.9",
-      "sales": 8,
-      "shop": "hukou33.br",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 26565842194,
-        "productName": "8 Peças Porca De Haltere , Haste Coleiras Para Barras De Halteres , Acessórios Esportivos De Treinamento",
-        "price": "24.56",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.09",
-        "sales": 8,
-        "ratingStar": "4.9",
-        "shopName": "hukou33.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rene-m1x6eixhhmpwaa",
-        "productLink": "https://shopee.com.br/product/207148383/26565842194",
-        "offerLink": "https://s.shopee.com.br/6Ali9n6GyQ"
       },
       "_last_price": null
     },
