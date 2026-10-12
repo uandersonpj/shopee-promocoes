@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T11:30:52.582941+00:00",
+  "updated_at": "2026-10-12T11:50:19.508707+00:00",
   "total": 1128,
   "products": [
     {
@@ -577,8 +577,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mldt9agkd2x0c0",
         "productLink": "https://shopee.com.br/product/1082873638/23294866358",
         "offerLink": "https://s.shopee.com.br/8fT39jOktb"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22794275506",
@@ -11802,6 +11801,35 @@
       "_last_price": null
     },
     {
+      "id": "22893806671",
+      "name": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
+      "price": 39.9,
+      "original_price": 83.12,
+      "discount": 52.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
+      "link": "https://s.shopee.com.br/1qcj1DA1r4",
+      "rating": "4.8",
+      "sales": 713,
+      "shop": "Facilita Lar.",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22893806671,
+        "productName": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
+        "price": "39.9",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.13",
+        "sales": 713,
+        "ratingStar": "4.8",
+        "shopName": "Facilita Lar.",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
+        "productLink": "https://shopee.com.br/product/1461473610/22893806671",
+        "offerLink": "https://s.shopee.com.br/1qcj1DA1r4"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20399869941",
       "name": "Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente",
       "price": 28.52,
@@ -14524,35 +14552,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8226r-mhfcarhiudxo7d",
         "productLink": "https://shopee.com.br/product/908280603/48208359433",
         "offerLink": "https://s.shopee.com.br/9zyQkCoHPC"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22893806671",
-      "name": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
-      "price": 39.9,
-      "original_price": 76.73,
-      "discount": 48.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
-      "link": "https://s.shopee.com.br/1qcj1DA1r4",
-      "rating": "4.8",
-      "sales": 713,
-      "shop": "Facilita Lar.",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22893806671,
-        "productName": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
-        "price": "39.9",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.13",
-        "sales": 713,
-        "ratingStar": "4.8",
-        "shopName": "Facilita Lar.",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
-        "productLink": "https://shopee.com.br/product/1461473610/22893806671",
-        "offerLink": "https://s.shopee.com.br/1qcj1DA1r4"
       },
       "_last_price": null
     },
