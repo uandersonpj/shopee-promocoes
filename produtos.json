@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T02:17:06.440209+00:00",
-  "total": 1127,
+  "updated_at": "2026-10-12T02:36:48.943404+00:00",
+  "total": 1124,
   "products": [
     {
       "id": "58210104632",
@@ -28,8 +28,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mpf8btxmai2u62",
         "productLink": "https://shopee.com.br/product/1739671384/58210104632",
         "offerLink": "https://s.shopee.com.br/1qcj18TeEZ"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "50203126324",
@@ -346,35 +345,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mskp5ha28hdxe7",
         "productLink": "https://shopee.com.br/product/427457955/49466540071",
         "offerLink": "https://s.shopee.com.br/4VdUC21xuz"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23219268297",
-      "name": "Creatina Integral medica Monohidratada PURA 300g",
-      "price": 42.99,
-      "original_price": 238.83,
-      "discount": 82.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-23010-7c6cblnw1gmvfb",
-      "link": "https://s.shopee.com.br/80DMMVRIFP",
-      "rating": "4.9",
-      "sales": 1425,
-      "shop": "Brasil S2",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23219268297,
-        "productName": "Creatina Integral medica Monohidratada PURA 300g",
-        "price": "42.99",
-        "priceDiscountRate": 82,
-        "commissionRate": "0.06",
-        "sales": 1425,
-        "ratingStar": "4.9",
-        "shopName": "Brasil S2",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-23010-7c6cblnw1gmvfb",
-        "productLink": "https://shopee.com.br/product/677860531/23219268297",
-        "offerLink": "https://s.shopee.com.br/80DMMVRIFP"
       },
       "_last_price": null
     },
@@ -3502,7 +3472,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i9-mfra08dv9dl91a",
         "productLink": "https://shopee.com.br/product/1643589827/20399896346",
         "offerLink": "https://s.shopee.com.br/2BFZPp8lB2"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19097980221",
@@ -4749,35 +4720,6 @@
       "_last_price": null
     },
     {
-      "id": "44756145784",
-      "name": "Haltere Ajustável Colorido 24kg Com Base Elite Pro 4kg",
-      "price": 609.0,
-      "original_price": 1740.0,
-      "discount": 65.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsyy1vntp8g61",
-      "link": "https://s.shopee.com.br/4B0dnSxgwo",
-      "rating": "4.9",
-      "sales": 29,
-      "shop": "keepgoingmax.br",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 44756145784,
-        "productName": "Haltere Ajustável Colorido 24kg Com Base Elite Pro 4kg",
-        "price": "609",
-        "priceDiscountRate": 65,
-        "commissionRate": "0.03",
-        "sales": 29,
-        "ratingStar": "4.9",
-        "shopName": "keepgoingmax.br",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsyy1vntp8g61",
-        "productLink": "https://shopee.com.br/product/1613783173/44756145784",
-        "offerLink": "https://s.shopee.com.br/4B0dnSxgwo"
-      },
-      "_last_price": null
-    },
-    {
       "id": "47100924313",
       "name": "[baipestoner] Chaveiro Com Halteres Para Academia Moda 3D PVC Haltere Chave De Carro Carteira Mochila Pingente Presentes",
       "price": 12.74,
@@ -4803,6 +4745,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821cz-mgq3slrsdqmh67",
         "productLink": "https://shopee.com.br/product/589726853/47100924313",
         "offerLink": "https://s.shopee.com.br/4LK3zlx3bp"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "44756145784",
+      "name": "Haltere Ajustável Colorido 24kg Com Base Elite Pro 4kg",
+      "price": 609.0,
+      "original_price": 1740.0,
+      "discount": 65.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsyy1vntp8g61",
+      "link": "https://s.shopee.com.br/4B0dnSxgwo",
+      "rating": "4.9",
+      "sales": 29,
+      "shop": "keepgoingmax.br",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 44756145784,
+        "productName": "Haltere Ajustável Colorido 24kg Com Base Elite Pro 4kg",
+        "price": "609",
+        "priceDiscountRate": 65,
+        "commissionRate": "0.03",
+        "sales": 29,
+        "ratingStar": "4.9",
+        "shopName": "keepgoingmax.br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsyy1vntp8g61",
+        "productLink": "https://shopee.com.br/product/1613783173/44756145784",
+        "offerLink": "https://s.shopee.com.br/4B0dnSxgwo"
       },
       "_last_price": null
     },
@@ -10745,35 +10716,6 @@
       "_last_price": null
     },
     {
-      "id": "23097891432",
-      "name": "Porta Detergente Dispenser Sabão Liquido Esponja Bucha Inox",
-      "price": 31.68,
-      "original_price": 67.4,
-      "discount": 53.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82591-mte1gjtfrta9d6",
-      "link": "https://s.shopee.com.br/2gBq0drgJI",
-      "rating": "4.8",
-      "sales": 1583,
-      "shop": "RIven Bazar",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23097891432,
-        "productName": "Porta Detergente Dispenser Sabão Liquido Esponja Bucha Inox",
-        "price": "31.68",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.03",
-        "sales": 1583,
-        "ratingStar": "4.8",
-        "shopName": "RIven Bazar",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82591-mte1gjtfrta9d6",
-        "productLink": "https://shopee.com.br/product/299222557/23097891432",
-        "offerLink": "https://s.shopee.com.br/2gBq0drgJI"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23899479691",
       "name": "Aço inoxidável Suporte Porta Esponja para bucha de pia Prateleira de cozinha",
       "price": 8.58,
@@ -13877,6 +13819,35 @@
       "_last_price": null
     },
     {
+      "id": "23097891432",
+      "name": "Porta Detergente Dispenser Sabão Liquido Esponja Bucha Inox",
+      "price": 33.98,
+      "original_price": 66.63,
+      "discount": 49.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82591-mte1gjtfrta9d6",
+      "link": "https://s.shopee.com.br/2gBq0drgJI",
+      "rating": "4.8",
+      "sales": 1583,
+      "shop": "RIven Bazar",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23097891432,
+        "productName": "Porta Detergente Dispenser Sabão Liquido Esponja Bucha Inox",
+        "price": "33.98",
+        "priceDiscountRate": 49,
+        "commissionRate": "0.03",
+        "sales": 1583,
+        "ratingStar": "4.8",
+        "shopName": "RIven Bazar",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82591-mte1gjtfrta9d6",
+        "productLink": "https://shopee.com.br/product/299222557/23097891432",
+        "offerLink": "https://s.shopee.com.br/2gBq0drgJI"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23397600706",
       "name": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
       "price": 10.9,
@@ -13972,7 +13943,7 @@
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mr94rvicsg07b1",
       "link": "https://s.shopee.com.br/9APJkew3CL",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 93,
       "shop": "F. MARTINS BIJUTERIAS",
       "category": "elastico musculacao",
@@ -13984,7 +13955,7 @@
         "priceDiscountRate": 49,
         "commissionRate": "0.12",
         "sales": 93,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "F. MARTINS BIJUTERIAS",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mr94rvicsg07b1",
         "productLink": "https://shopee.com.br/product/995993540/58215180131",
@@ -17415,6 +17386,35 @@
       "_last_price": null
     },
     {
+      "id": "20497679378",
+      "name": "Creatina Monohidratada Pura Refil 500g Dark Lab - Creatina 100% Pura",
+      "price": 49.9,
+      "original_price": 89.11,
+      "discount": 44.0,
+      "commission": 26.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-ms0d4wq8mww51a",
+      "link": "https://s.shopee.com.br/113cmkvbUP",
+      "rating": "4.9",
+      "sales": 1106,
+      "shop": "Dark Lab Oficial",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20497679378,
+        "productName": "Creatina Monohidratada Pura Refil 500g Dark Lab - Creatina 100% Pura",
+        "price": "49.9",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.26",
+        "sales": 1106,
+        "ratingStar": "4.9",
+        "shopName": "Dark Lab Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-ms0d4wq8mww51a",
+        "productLink": "https://shopee.com.br/product/1242044379/20497679378",
+        "offerLink": "https://s.shopee.com.br/113cmkvbUP"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19499594439",
       "name": "Arranhador Para Gatos Com Casinha Playground",
       "price": 139.99,
@@ -19528,6 +19528,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i0-mpnmukiwx6o2d3",
         "productLink": "https://shopee.com.br/product/1658245933/46462519312",
         "offerLink": "https://s.shopee.com.br/5VW1NqydFr"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22793869680",
+      "name": "Essência Para Saneantes, Desinfetantes, Limpadores 100ml, Super Concentrada e Neutraliza Odores",
+      "price": 19.2,
+      "original_price": 32.0,
+      "discount": 40.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mpmnisfi6rr5b1",
+      "link": "https://s.shopee.com.br/1qcjmEOyyj",
+      "rating": "4.9",
+      "sales": 501,
+      "shop": "Mercado das Essências",
+      "category": "desinfetante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22793869680,
+        "productName": "Essência Para Saneantes, Desinfetantes, Limpadores 100ml, Super Concentrada e Neutraliza Odores",
+        "price": "19.2",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 501,
+        "ratingStar": "4.9",
+        "shopName": "Mercado das Essências",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mpmnisfi6rr5b1",
+        "productLink": "https://shopee.com.br/product/1107585845/22793869680",
+        "offerLink": "https://s.shopee.com.br/1qcjmEOyyj"
       },
       "_last_price": null
     },
@@ -22838,35 +22867,6 @@
       "_last_price": null
     },
     {
-      "id": "41431933338",
-      "name": "Porta Frios Hermético com Tampa de Silicone | Organizador de Geladeira para Queijo, Presunto e Frios",
-      "price": 16.9,
-      "original_price": 26.0,
-      "discount": 35.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824it-mptpksw3yxan5a",
-      "link": "https://s.shopee.com.br/AKbH8kJch3",
-      "rating": "4.6",
-      "sales": 4279,
-      "shop": "Click.Lar",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41431933338,
-        "productName": "Porta Frios Hermético com Tampa de Silicone | Organizador de Geladeira para Queijo, Presunto e Frios",
-        "price": "16.9",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.03",
-        "sales": 4279,
-        "ratingStar": "4.6",
-        "shopName": "Click.Lar",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824it-mptpksw3yxan5a",
-        "productLink": "https://shopee.com.br/product/1558991312/41431933338",
-        "offerLink": "https://s.shopee.com.br/AKbH8kJch3"
-      },
-      "_last_price": null
-    },
-    {
       "id": "16301375335",
       "name": "Kit 4 Panos Mágico de Chão Grande Super Absorvente de Microfibra para Limpeza Geral 50x60cm",
       "price": 23.99,
@@ -24458,6 +24458,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra2n-mbebm15ltjrk86",
         "productLink": "https://shopee.com.br/product/627750190/23094170351",
         "offerLink": "https://s.shopee.com.br/9zyQk6UdVQ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "41431933338",
+      "name": "Porta Frios Hermético com Tampa de Silicone | Organizador de Geladeira para Queijo, Presunto e Frios",
+      "price": 17.5,
+      "original_price": 25.74,
+      "discount": 32.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824it-mptpksw3yxan5a",
+      "link": "https://s.shopee.com.br/AKbH8kJch3",
+      "rating": "4.6",
+      "sales": 4279,
+      "shop": "Click.Lar",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41431933338,
+        "productName": "Porta Frios Hermético com Tampa de Silicone | Organizador de Geladeira para Queijo, Presunto e Frios",
+        "price": "17.5",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.03",
+        "sales": 4279,
+        "ratingStar": "4.6",
+        "shopName": "Click.Lar",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824it-mptpksw3yxan5a",
+        "productLink": "https://shopee.com.br/product/1558991312/41431933338",
+        "offerLink": "https://s.shopee.com.br/AKbH8kJch3"
       },
       "_last_price": null
     },
@@ -26288,35 +26317,6 @@
       "_last_price": null
     },
     {
-      "id": "23091599945",
-      "name": "Lava Roupas Líquido Perfect White 7L Omo",
-      "price": 99.89,
-      "original_price": 140.69,
-      "discount": 29.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7renc-m868x8znllevaa",
-      "link": "https://s.shopee.com.br/3qNnOmnEwV",
-      "rating": "5",
-      "sales": 1448,
-      "shop": "Braslimpo",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23091599945,
-        "productName": "Lava Roupas Líquido Perfect White 7L Omo",
-        "price": "99.89",
-        "priceDiscountRate": 29,
-        "commissionRate": "0.03",
-        "sales": 1448,
-        "ratingStar": "5",
-        "shopName": "Braslimpo",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7renc-m868x8znllevaa",
-        "productLink": "https://shopee.com.br/product/946161700/23091599945",
-        "offerLink": "https://s.shopee.com.br/3qNnOmnEwV"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58264791138",
       "name": "Combo Capilar PROFISSIONAL Liso Obrigatório BELKIT 1L Shampoo Condicionador Máscara + Spray Finaliz.",
       "price": 66.0,
@@ -27067,35 +27067,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mm1wtgtq87408a",
         "productLink": "https://shopee.com.br/product/373261329/22898980977",
         "offerLink": "https://s.shopee.com.br/7KxfZFhyZm"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22693185466",
-      "name": "Carrinho Ônibus Escolar Transparente com Engrenagens- Com Luz e Som- Movimentação por Inércia (Fricção)- Brinquedo",
-      "price": 14.99,
-      "original_price": 20.53,
-      "discount": 27.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rff4-m355q8wymnruce",
-      "link": "https://s.shopee.com.br/1qcjAZvSUL",
-      "rating": "4.7",
-      "sales": 1270,
-      "shop": "leve bazar",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22693185466,
-        "productName": "Carrinho Ônibus Escolar Transparente com Engrenagens- Com Luz e Som- Movimentação por Inércia (Fricção)- Brinquedo",
-        "price": "14.99",
-        "priceDiscountRate": 27,
-        "commissionRate": "0.03",
-        "sales": 1270,
-        "ratingStar": "4.7",
-        "shopName": "leve bazar",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rff4-m355q8wymnruce",
-        "productLink": "https://shopee.com.br/product/1318087887/22693185466",
-        "offerLink": "https://s.shopee.com.br/1qcjAZvSUL"
       },
       "_last_price": null
     },
@@ -31711,35 +31682,6 @@
       "_last_price": null
     },
     {
-      "id": "19899241926",
-      "name": "Detergente Enzimático Zymedet 1L- Prolink",
-      "price": 30.9,
-      "original_price": 36.79,
-      "discount": 16.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltuc9brnd3pbe2",
-      "link": "https://s.shopee.com.br/6q1OyItYYF",
-      "rating": "5",
-      "sales": 537,
-      "shop": "ICE Health",
-      "category": "desinfetante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19899241926,
-        "productName": "Detergente Enzimático Zymedet 1L- Prolink",
-        "price": "30.9",
-        "priceDiscountRate": 16,
-        "commissionRate": "0.03",
-        "sales": 537,
-        "ratingStar": "5",
-        "shopName": "ICE Health",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltuc9brnd3pbe2",
-        "productLink": "https://shopee.com.br/product/1179560619/19899241926",
-        "offerLink": "https://s.shopee.com.br/6q1OyItYYF"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58211837467",
       "name": "DOUBLE TASTY WHEY PROTEIN 100% POTE 900G (20g protein) - MAX",
       "price": 141.99,
@@ -32113,35 +32055,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekctgxrndogf4",
         "productLink": "https://shopee.com.br/product/446413605/23593572198",
         "offerLink": "https://s.shopee.com.br/5fpRaD0yi3"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "26565842194",
-      "name": "8 Peças Porca De Haltere , Haste Coleiras Para Barras De Halteres , Acessórios Esportivos De Treinamento",
-      "price": 24.56,
-      "original_price": 28.89,
-      "discount": 15.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rene-m1x6eixhhmpwaa",
-      "link": "https://s.shopee.com.br/6Ali9n6GyQ",
-      "rating": "4.9",
-      "sales": 8,
-      "shop": "hukou33.br",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 26565842194,
-        "productName": "8 Peças Porca De Haltere , Haste Coleiras Para Barras De Halteres , Acessórios Esportivos De Treinamento",
-        "price": "24.56",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.09",
-        "sales": 8,
-        "ratingStar": "4.9",
-        "shopName": "hukou33.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rene-m1x6eixhhmpwaa",
-        "productLink": "https://shopee.com.br/product/207148383/26565842194",
-        "offerLink": "https://s.shopee.com.br/6Ali9n6GyQ"
       },
       "_last_price": null
     },
