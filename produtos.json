@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T04:33:21.859363+00:00",
+  "updated_at": "2026-10-13T04:52:08.875644+00:00",
   "total": 1115,
   "products": [
     {
@@ -1678,7 +1678,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mtolww79jgn783",
         "productLink": "https://shopee.com.br/product/1506274241/58266336951",
         "offerLink": "https://s.shopee.com.br/4fwuOVJ9Xa"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "44059916730",
@@ -21217,6 +21218,35 @@
       "_last_price": null
     },
     {
+      "id": "22693835808",
+      "name": "Placa Captura De Vídeo 4k 1080p 60fps Full Hd Usb 3.0 Hdmi",
+      "price": 78.9,
+      "original_price": 125.24,
+      "discount": 37.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjra6ztninsy49",
+      "link": "https://s.shopee.com.br/70KpBuvOm5",
+      "rating": "5",
+      "sales": 143,
+      "shop": "8X TECH LOJA OFICIAL",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22693835808,
+        "productName": "Placa Captura De Vídeo 4k 1080p 60fps Full Hd Usb 3.0 Hdmi",
+        "price": "78.9",
+        "priceDiscountRate": 37,
+        "commissionRate": "0.03",
+        "sales": 143,
+        "ratingStar": "5",
+        "shopName": "8X TECH LOJA OFICIAL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjra6ztninsy49",
+        "productLink": "https://shopee.com.br/product/1478225841/22693835808",
+        "offerLink": "https://s.shopee.com.br/70KpBuvOm5"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23999431820",
       "name": "Mouse X11 Sem Fio Bluetooth Gamer Sem Fio Com Adesivo Bluetooth Usb Preto e Branco 3 em 1",
       "price": 99.99,
@@ -29768,35 +29798,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82585-mu0w7kwixypwab",
         "productLink": "https://shopee.com.br/product/344381236/51368864732",
         "offerLink": "https://s.shopee.com.br/AAHtFlu99f"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "51552462147",
-      "name": "Placa de Vídeo NVIDIA GeForce MSI RTX5050 8GB Shadow  GDRR6 128 Bits - 912-V538",
-      "price": 2299.0,
-      "original_price": 2873.75,
-      "discount": 20.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8225o-mhrsfnaymjurfb",
-      "link": "https://s.shopee.com.br/4B0fHDa5Bb",
-      "rating": "4.9",
-      "sales": 0,
-      "shop": "TNTinfoLoja",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 51552462147,
-        "productName": "Placa de Vídeo NVIDIA GeForce MSI RTX5050 8GB Shadow  GDRR6 128 Bits - 912-V538",
-        "price": "2299",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.03",
-        "sales": 0,
-        "ratingStar": "4.9",
-        "shopName": "TNTinfoLoja",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8225o-mhrsfnaymjurfb",
-        "productLink": "https://shopee.com.br/product/344381236/51552462147",
-        "offerLink": "https://s.shopee.com.br/4B0fHDa5Bb"
       },
       "_last_price": null
     },
