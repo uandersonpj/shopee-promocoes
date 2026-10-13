@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T03:55:14.218557+00:00",
+  "updated_at": "2026-10-13T04:14:22.125454+00:00",
   "total": 1114,
   "products": [
     {
@@ -3415,7 +3415,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i9-mfra08dv9dl91a",
         "productLink": "https://shopee.com.br/product/1643589827/20399896346",
         "offerLink": "https://s.shopee.com.br/2BFZPp8lB2"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19097980221",
@@ -23129,35 +23130,6 @@
       "_last_price": null
     },
     {
-      "id": "22097785703",
-      "name": "Amplificador de sinal Wi-Fi repetidor e roteador sem fio rede sem fio através da parede Dupla pressão/2.4G - G8",
-      "price": 58.99,
-      "original_price": 89.38,
-      "discount": 34.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgekr6unijus5f",
-      "link": "https://s.shopee.com.br/3B86bX3iRi",
-      "rating": "4.8",
-      "sales": 1608,
-      "shop": "JR905",
-      "category": "roteador wifi",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22097785703,
-        "productName": "Amplificador de sinal Wi-Fi repetidor e roteador sem fio rede sem fio através da parede Dupla pressão/2.4G - G8",
-        "price": "58.99",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.11",
-        "sales": 1608,
-        "ratingStar": "4.8",
-        "shopName": "JR905",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgekr6unijus5f",
-        "productLink": "https://shopee.com.br/product/1217782773/22097785703",
-        "offerLink": "https://s.shopee.com.br/3B86bX3iRi"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23294065712",
       "name": "Fonte ATX 230W Real Bivolt Chaveada Silenciosa para PC Desktop com Conectores SATA IDE",
       "price": 49.9,
@@ -23566,8 +23538,8 @@
     {
       "id": "58254463290",
       "name": "Ração Special Dog Ultralife Performance 20kg Cães Adultos Carne e Frango Premium Alta Nutrição",
-      "price": 171.9,
-      "original_price": 260.45,
+      "price": 171.8,
+      "original_price": 260.3,
       "discount": 34.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lo-msho1bjgdts6a2",
@@ -23580,7 +23552,7 @@
       "_item": {
         "itemId": 58254463290,
         "productName": "Ração Special Dog Ultralife Performance 20kg Cães Adultos Carne e Frango Premium Alta Nutrição",
-        "price": "171.9",
+        "price": "171.8",
         "priceDiscountRate": 34,
         "commissionRate": "0.03",
         "sales": 1277,
@@ -23821,6 +23793,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6dbywlo5kslf5",
         "productLink": "https://shopee.com.br/product/596156024/23998205183",
         "offerLink": "https://s.shopee.com.br/5fpRaLogLG"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22097785703",
+      "name": "Amplificador de sinal Wi-Fi repetidor e roteador sem fio rede sem fio através da parede Dupla pressão/2.4G - G8",
+      "price": 59.99,
+      "original_price": 89.54,
+      "discount": 33.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgekr6unijus5f",
+      "link": "https://s.shopee.com.br/3B86bX3iRi",
+      "rating": "4.8",
+      "sales": 1608,
+      "shop": "JR905",
+      "category": "roteador wifi",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22097785703,
+        "productName": "Amplificador de sinal Wi-Fi repetidor e roteador sem fio rede sem fio através da parede Dupla pressão/2.4G - G8",
+        "price": "59.99",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.11",
+        "sales": 1608,
+        "ratingStar": "4.8",
+        "shopName": "JR905",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgekr6unijus5f",
+        "productLink": "https://shopee.com.br/product/1217782773/22097785703",
+        "offerLink": "https://s.shopee.com.br/3B86bX3iRi"
       },
       "_last_price": null
     },
