@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T04:52:08.875644+00:00",
+  "updated_at": "2026-10-13T05:11:01.964798+00:00",
   "total": 1115,
   "products": [
     {
@@ -1505,7 +1505,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk90kkju10qp3b",
         "productLink": "https://shopee.com.br/product/1063922972/18299069073",
         "offerLink": "https://s.shopee.com.br/5LCbBgHxqO"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22498781114",
@@ -29019,35 +29020,6 @@
       "_last_price": null
     },
     {
-      "id": "11869643265",
-      "name": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
-      "price": 114.99,
-      "original_price": 147.42,
-      "discount": 22.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
-      "link": "https://s.shopee.com.br/80DMMWeE3b",
-      "rating": "4.9",
-      "sales": 4511,
-      "shop": "Popular Pet",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 11869643265,
-        "productName": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
-        "price": "114.99",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.06",
-        "sales": 4511,
-        "ratingStar": "4.9",
-        "shopName": "Popular Pet",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
-        "productLink": "https://shopee.com.br/product/398944029/11869643265",
-        "offerLink": "https://s.shopee.com.br/80DMMWeE3b"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22798180508",
       "name": "Tênis Sapatênis Casual Feminino Lançamento Detalhe Coração Moda Básico",
       "price": 27.2,
@@ -29595,6 +29567,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqm9tc9atfy83c",
         "productLink": "https://shopee.com.br/product/398944029/11969651651",
         "offerLink": "https://s.shopee.com.br/qkBpLnuT5"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58201469419",
+      "name": "Ração SuperPremium Bionatural Prime Para Gatos Castrados Sabor Frango 7.5kg",
+      "price": 149.19,
+      "original_price": 188.85,
+      "discount": 21.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhuibgwx00le00",
+      "link": "https://s.shopee.com.br/3g4OVgDbkf",
+      "rating": "5",
+      "sales": 1579,
+      "shop": "animalzecommerce",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58201469419,
+        "productName": "Ração SuperPremium Bionatural Prime Para Gatos Castrados Sabor Frango 7.5kg",
+        "price": "149.19",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.03",
+        "sales": 1579,
+        "ratingStar": "5",
+        "shopName": "animalzecommerce",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhuibgwx00le00",
+        "productLink": "https://shopee.com.br/product/1509105042/58201469419",
+        "offerLink": "https://s.shopee.com.br/3g4OVgDbkf"
       },
       "_last_price": null
     },
