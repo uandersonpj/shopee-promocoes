@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T16:48:56.668654+00:00",
+  "updated_at": "2026-10-13T17:08:21.176252+00:00",
   "total": 1119,
   "products": [
     {
@@ -28,7 +28,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mpf8btxmai2u62",
         "productLink": "https://shopee.com.br/product/1739671384/58210104632",
         "offerLink": "https://s.shopee.com.br/1qcj18TeEZ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "50203126324",
@@ -344,8 +345,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mu7tano0c83m51",
         "productLink": "https://shopee.com.br/product/427457955/49466540071",
         "offerLink": "https://s.shopee.com.br/4VdUC21xuz"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22294440400",
@@ -1267,6 +1267,64 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mpnvskafmdc004",
         "productLink": "https://shopee.com.br/product/1761364246/22895058213",
         "offerLink": "https://s.shopee.com.br/20wATtqxAH"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22198016021",
+      "name": "Kit 10 Unidades Fralda De Pano Estampada 60 x 60 Enxoval Infantil Bebê Menino Menina",
+      "price": 28.98,
+      "original_price": 120.75,
+      "discount": 76.0,
+      "commission": 14.000000000000002,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1xeanm14pt61d",
+      "link": "https://s.shopee.com.br/9fLdfQLpzT",
+      "rating": "4.4",
+      "sales": 1537,
+      "shop": "magiainfantil",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22198016021,
+        "productName": "Kit 10 Unidades Fralda De Pano Estampada 60 x 60 Enxoval Infantil Bebê Menino Menina",
+        "price": "28.98",
+        "priceDiscountRate": 76,
+        "commissionRate": "0.14",
+        "sales": 1537,
+        "ratingStar": "4.4",
+        "shopName": "magiainfantil",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1xeanm14pt61d",
+        "productLink": "https://shopee.com.br/product/1017646777/22198016021",
+        "offerLink": "https://s.shopee.com.br/9fLdfQLpzT"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "50052384985",
+      "name": "KEEP Halter Ajustável 10kg 4 em 1 com Kettlebell – Equipamento Fitness para Treino em Casa",
+      "price": 158.0,
+      "original_price": 658.33,
+      "discount": 76.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-moov381auozz7b",
+      "link": "https://s.shopee.com.br/9pf2KdIMm0",
+      "rating": "5",
+      "sales": 3,
+      "shop": "keepgoingmax.br",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 50052384985,
+        "productName": "KEEP Halter Ajustável 10kg 4 em 1 com Kettlebell – Equipamento Fitness para Treino em Casa",
+        "price": "158",
+        "priceDiscountRate": 76,
+        "commissionRate": "0.03",
+        "sales": 3,
+        "ratingStar": "5",
+        "shopName": "keepgoingmax.br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-moov381auozz7b",
+        "productLink": "https://shopee.com.br/product/1613783173/50052384985",
+        "offerLink": "https://s.shopee.com.br/9pf2KdIMm0"
       },
       "_last_price": null
     },
@@ -5061,6 +5119,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mq1wjms9613757",
         "productLink": "https://shopee.com.br/product/1552402777/53602161553",
         "offerLink": "https://s.shopee.com.br/60SHylezY8"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21597173435",
+      "name": "Kit Pano de Boca 12 unidades 30x30cm 100%algodao",
+      "price": 28.99,
+      "original_price": 80.53,
+      "discount": 64.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825al-mqbji63qqhajdf",
+      "link": "https://s.shopee.com.br/8fT6TaPe1J",
+      "rating": "4.7",
+      "sales": 1489,
+      "shop": "EssencialBaby",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21597173435,
+        "productName": "Kit Pano de Boca 12 unidades 30x30cm 100%algodao",
+        "price": "28.99",
+        "priceDiscountRate": 64,
+        "commissionRate": "0.06",
+        "sales": 1489,
+        "ratingStar": "4.7",
+        "shopName": "EssencialBaby",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825al-mqbji63qqhajdf",
+        "productLink": "https://shopee.com.br/product/378105312/21597173435",
+        "offerLink": "https://s.shopee.com.br/8fT6TaPe1J"
       },
       "_last_price": null
     },
@@ -10660,6 +10747,35 @@
       "_last_price": null
     },
     {
+      "id": "19999243287",
+      "name": "Fralda de Pano Bebe Kit com 5 Unidades 60x60cm 100% algodão Minasrey - Estampada",
+      "price": 13.99,
+      "original_price": 29.77,
+      "discount": 53.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd3r-lu11ytamrbkza7",
+      "link": "https://s.shopee.com.br/7faXRjl8Ww",
+      "rating": "4.5",
+      "sales": 1291,
+      "shop": "Empório DK - Produtos Infantis",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19999243287,
+        "productName": "Fralda de Pano Bebe Kit com 5 Unidades 60x60cm 100% algodão Minasrey - Estampada",
+        "price": "13.99",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.03",
+        "sales": 1291,
+        "ratingStar": "4.5",
+        "shopName": "Empório DK - Produtos Infantis",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd3r-lu11ytamrbkza7",
+        "productLink": "https://shopee.com.br/product/1045804093/19999243287",
+        "offerLink": "https://s.shopee.com.br/7faXRjl8Ww"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20298322054",
       "name": "Kit Creatina Monohidratada + Pré Treino Evolution 300g  Aminoácidos Essenciais - Soldiers Nutrition",
       "price": 69.9,
@@ -13150,35 +13266,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mu7pfw2qudxdde",
         "productLink": "https://shopee.com.br/product/1101178064/44001553177",
         "offerLink": "https://s.shopee.com.br/6VOYZjgCtz"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22894378689",
-      "name": "Tapete Higiênico Descartável para Cachorro 60 x 60 cm - Fralda Pet Xixi Cão Pequeno Médio Absorção T",
-      "price": 19.96,
-      "original_price": 39.92,
-      "discount": 50.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjikuad7a22rcd",
-      "link": "https://s.shopee.com.br/qkEvQmGBj",
-      "rating": "4.7",
-      "sales": 219,
-      "shop": "escobartools",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22894378689,
-        "productName": "Tapete Higiênico Descartável para Cachorro 60 x 60 cm - Fralda Pet Xixi Cão Pequeno Médio Absorção T",
-        "price": "19.96",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.03",
-        "sales": 219,
-        "ratingStar": "4.7",
-        "shopName": "escobartools",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjikuad7a22rcd",
-        "productLink": "https://shopee.com.br/product/1564303923/22894378689",
-        "offerLink": "https://s.shopee.com.br/qkEvQmGBj"
       },
       "_last_price": null
     },
@@ -18230,8 +18317,8 @@
     {
       "id": "22598826303",
       "name": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
-      "price": 69.88,
-      "original_price": 120.48,
+      "price": 64.99,
+      "original_price": 112.05,
       "discount": 42.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
@@ -18244,7 +18331,7 @@
       "_item": {
         "itemId": 22598826303,
         "productName": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
-        "price": "69.88",
+        "price": "64.99",
         "priceDiscountRate": 42,
         "commissionRate": "0.03",
         "sales": 1201,
@@ -20519,64 +20606,6 @@
       "_last_price": null
     },
     {
-      "id": "22394414025",
-      "name": "Kit 32 Fraldas Geriátricas Unissex ConfortMaster Pants  P/M G/EG Calcinha/Cueca Incontinência Severa",
-      "price": 77.98,
-      "original_price": 125.77,
-      "discount": 38.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mflkux3b9af954",
-      "link": "https://s.shopee.com.br/9fLbpPdWT8",
-      "rating": "4.9",
-      "sales": 1900,
-      "shop": "CAZAC ARTIGOS GERAIS",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22394414025,
-        "productName": "Kit 32 Fraldas Geriátricas Unissex ConfortMaster Pants  P/M G/EG Calcinha/Cueca Incontinência Severa",
-        "price": "77.98",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.03",
-        "sales": 1900,
-        "ratingStar": "4.9",
-        "shopName": "CAZAC ARTIGOS GERAIS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mflkux3b9af954",
-        "productLink": "https://shopee.com.br/product/1480477115/22394414025",
-        "offerLink": "https://s.shopee.com.br/9fLbpPdWT8"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "19297977722",
-      "name": "Kit 2 Conjuntos Body Bebê Menino Fofo + Short Tapa Fralda Estampas Sortidas RN ao GG Enxoval, maternidade",
-      "price": 49.95,
-      "original_price": 80.56,
-      "discount": 38.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-motrvx7s1k3ka3",
-      "link": "https://s.shopee.com.br/8KqEExibB0",
-      "rating": "4.8",
-      "sales": 1232,
-      "shop": "MINI-ME KIDS - Moda Infantil",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19297977722,
-        "productName": "Kit 2 Conjuntos Body Bebê Menino Fofo + Short Tapa Fralda Estampas Sortidas RN ao GG Enxoval, maternidade",
-        "price": "49.95",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.09",
-        "sales": 1232,
-        "ratingStar": "4.8",
-        "shopName": "MINI-ME KIDS - Moda Infantil",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-motrvx7s1k3ka3",
-        "productLink": "https://shopee.com.br/product/938888317/19297977722",
-        "offerLink": "https://s.shopee.com.br/8KqEExibB0"
-      },
-      "_last_price": null
-    },
-    {
       "id": "26083564786",
       "name": "Barbell Haltere Colar Ginásio Levantamento De Peso Pingente Personalizado Masculino E Feminino Fitness Musculação Acessó",
       "price": 15.0,
@@ -21507,8 +21536,8 @@
     {
       "id": "23694320738",
       "name": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-      "price": 73.99,
-      "original_price": 115.61,
+      "price": 59.99,
+      "original_price": 93.73,
       "discount": 36.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
@@ -21521,7 +21550,7 @@
       "_item": {
         "itemId": 23694320738,
         "productName": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-        "price": "73.99",
+        "price": "59.99",
         "priceDiscountRate": 36,
         "commissionRate": "0.03",
         "sales": 1224,
@@ -22951,35 +22980,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
         "productLink": "https://shopee.com.br/product/1627792845/41132780075",
         "offerLink": "https://s.shopee.com.br/AKbK2k89Gm"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22396235066",
-      "name": "Lava Roupas Liquido Urca Lavanda - 5L",
-      "price": 26.14,
-      "original_price": 39.61,
-      "discount": 34.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7qvfx-lki79klhmzcp46",
-      "link": "https://s.shopee.com.br/3VkzwtfABK",
-      "rating": "4.9",
-      "sales": 1848,
-      "shop": "Casa de Gê",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22396235066,
-        "productName": "Lava Roupas Liquido Urca Lavanda - 5L",
-        "price": "26.14",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.13",
-        "sales": 1848,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvfx-lki79klhmzcp46",
-        "productLink": "https://shopee.com.br/product/534023108/22396235066",
-        "offerLink": "https://s.shopee.com.br/3VkzwtfABK"
       },
       "_last_price": null
     },
@@ -27653,35 +27653,6 @@
       "_last_price": null
     },
     {
-      "id": "14849254746",
-      "name": "Fralda Hipopó Baby Mega Pacotão P-80 M-70 G-60 XG-50 XXG-50 XXG-40 PACOTE HIPER",
-      "price": 46.99,
-      "original_price": 62.65,
-      "discount": 25.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mo3zpt6shk3l88",
-      "link": "https://s.shopee.com.br/80DNqLjrqu",
-      "rating": "4.8",
-      "sales": 1367,
-      "shop": "FP Farma Popular",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 14849254746,
-        "productName": "Fralda Hipopó Baby Mega Pacotão P-80 M-70 G-60 XG-50 XXG-50 XXG-40 PACOTE HIPER",
-        "price": "46.99",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.03",
-        "sales": 1367,
-        "ratingStar": "4.8",
-        "shopName": "FP Farma Popular",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mo3zpt6shk3l88",
-        "productLink": "https://shopee.com.br/product/575366874/14849254746",
-        "offerLink": "https://s.shopee.com.br/80DNqLjrqu"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58210926152",
       "name": "Kit 5 Banda Faixa Elástica de Resistência Band para Treino Yoga Pilates Treino Academia Musculação",
       "price": 18.7,
@@ -31796,6 +31767,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnddp09ufn4fe5",
         "productLink": "https://shopee.com.br/product/534023108/19748645144",
         "offerLink": "https://s.shopee.com.br/AAHqwQ7Sf1"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22396235066",
+      "name": "Lava Roupas Liquido Urca Lavanda - 5L",
+      "price": 33.66,
+      "original_price": 39.6,
+      "discount": 15.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7qvfx-lki79klhmzcp46",
+      "link": "https://s.shopee.com.br/3VkzwtfABK",
+      "rating": "4.9",
+      "sales": 1848,
+      "shop": "Casa de Gê",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22396235066,
+        "productName": "Lava Roupas Liquido Urca Lavanda - 5L",
+        "price": "33.66",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.13",
+        "sales": 1848,
+        "ratingStar": "4.9",
+        "shopName": "Casa de Gê",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvfx-lki79klhmzcp46",
+        "productLink": "https://shopee.com.br/product/534023108/22396235066",
+        "offerLink": "https://s.shopee.com.br/3VkzwtfABK"
       },
       "_last_price": null
     },
