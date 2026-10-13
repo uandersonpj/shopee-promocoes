@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-13T06:07:30.519711+00:00",
-  "total": 1116,
+  "updated_at": "2026-10-13T06:26:17.475402+00:00",
+  "total": 1115,
   "products": [
     {
       "id": "58210104632",
@@ -375,7 +375,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgzgefeazked3d",
         "productLink": "https://shopee.com.br/product/1613332918/22294440400",
         "offerLink": "https://s.shopee.com.br/3qNnOy4raZ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58258026087",
@@ -1186,35 +1187,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mqeqor4mxm2o65",
         "productLink": "https://shopee.com.br/product/627750190/22194360521",
         "offerLink": "https://s.shopee.com.br/4LK3zgH0mK"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22394331157",
-      "name": "120ml  Limpador De Vidro Esponja Automotiva Escova De Limpeza Para-Brisa Óleo Filme Agente De Polimento Anti Mancha",
-      "price": 12.99,
-      "original_price": 54.12,
-      "discount": 76.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdo0op4e052x6a",
-      "link": "https://s.shopee.com.br/5q8rnoppSt",
-      "rating": "4.7",
-      "sales": 1839,
-      "shop": "BF_comprar",
-      "category": "esponja",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22394331157,
-        "productName": "120ml  Limpador De Vidro Esponja Automotiva Escova De Limpeza Para-Brisa Óleo Filme Agente De Polimento Anti Mancha",
-        "price": "12.99",
-        "priceDiscountRate": 76,
-        "commissionRate": "0.13",
-        "sales": 1839,
-        "ratingStar": "4.7",
-        "shopName": "BF_comprar",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdo0op4e052x6a",
-        "productLink": "https://shopee.com.br/product/1537241850/22394331157",
-        "offerLink": "https://s.shopee.com.br/5q8rnoppSt"
       },
       "_last_price": null
     },
@@ -19772,35 +19744,6 @@
       "_last_price": null
     },
     {
-      "id": "22298591472",
-      "name": "Ração Quatree Gourmet Gatos 10,1Kg",
-      "price": 129.23,
-      "original_price": 215.38,
-      "discount": 40.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
-      "link": "https://s.shopee.com.br/9zyQkCWc03",
-      "rating": "4.9",
-      "sales": 2802,
-      "shop": "mypetone",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22298591472,
-        "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
-        "price": "129.23",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.12",
-        "sales": 2802,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
-        "productLink": "https://shopee.com.br/product/290073877/22298591472",
-        "offerLink": "https://s.shopee.com.br/9zyQkCWc03"
-      },
-      "_last_price": null
-    },
-    {
       "id": "43828181509",
       "name": "Rampa Casa de Gato Toca Para Gatos Arranhador Brinquedo Playground MDF Carpete 30x47x30cm",
       "price": 29.9,
@@ -20990,6 +20933,35 @@
       "_last_price": null
     },
     {
+      "id": "22298591472",
+      "name": "Ração Quatree Gourmet Gatos 10,1Kg",
+      "price": 129.23,
+      "original_price": 208.44,
+      "discount": 38.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
+      "link": "https://s.shopee.com.br/9zyQkCWc03",
+      "rating": "4.9",
+      "sales": 2802,
+      "shop": "mypetone",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22298591472,
+        "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
+        "price": "129.23",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.12",
+        "sales": 2802,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
+        "productLink": "https://shopee.com.br/product/290073877/22298591472",
+        "offerLink": "https://s.shopee.com.br/9zyQkCWc03"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19599842993",
       "name": "Ração Golden Special Gatos Adultos Frango e Carne 3kg",
       "price": 49.9,
@@ -21073,6 +21045,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvj-mmsdueupko3q35",
         "productLink": "https://shopee.com.br/product/863968451/57008381938",
         "offerLink": "https://s.shopee.com.br/3LRWnyvBSH"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22893633194",
+      "name": "Kit  Oculos Vintage Retro Preto Liso + Caneta Giz Festa Casamento óculos de festa de formatura de carnaval",
+      "price": 37.99,
+      "original_price": 61.27,
+      "discount": 38.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mlranujqups0ac",
+      "link": "https://s.shopee.com.br/1qcl1b0zIk",
+      "rating": "4.9",
+      "sales": 1368,
+      "shop": "Do Betterbr",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22893633194,
+        "productName": "Kit  Oculos Vintage Retro Preto Liso + Caneta Giz Festa Casamento óculos de festa de formatura de carnaval",
+        "price": "37.99",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.03",
+        "sales": 1368,
+        "ratingStar": "4.9",
+        "shopName": "Do Betterbr",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mlranujqups0ac",
+        "productLink": "https://shopee.com.br/product/1356780532/22893633194",
+        "offerLink": "https://s.shopee.com.br/1qcl1b0zIk"
       },
       "_last_price": null
     },
@@ -21392,35 +21393,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262s-mjpmcb9z7thja1",
         "productLink": "https://shopee.com.br/product/1780103830/58209056089",
         "offerLink": "https://s.shopee.com.br/6q1OyIborF"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22299409946",
-      "name": "12 Pçs + 3 Esponjas Set Conjunto De Pincéis De Maquiagem Profissional",
-      "price": 33.9,
-      "original_price": 53.81,
-      "discount": 37.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82622-mlqhnya4zehb31",
-      "link": "https://s.shopee.com.br/7KxfaZk7QK",
-      "rating": "4.9",
-      "sales": 2666,
-      "shop": "LUCKY BAZAR",
-      "category": "esponja",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22299409946,
-        "productName": "12 Pçs + 3 Esponjas Set Conjunto De Pincéis De Maquiagem Profissional",
-        "price": "33.9",
-        "priceDiscountRate": 37,
-        "commissionRate": "0.03",
-        "sales": 2666,
-        "ratingStar": "4.9",
-        "shopName": "LUCKY BAZAR",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82622-mlqhnya4zehb31",
-        "productLink": "https://shopee.com.br/product/375201738/22299409946",
-        "offerLink": "https://s.shopee.com.br/7KxfaZk7QK"
       },
       "_last_price": null
     },
@@ -23339,6 +23311,35 @@
       "_last_price": null
     },
     {
+      "id": "58206707204",
+      "name": "12 Pçs + 3 Esponjas Set Conjunto De Pincéis De Maquiagem Profissional",
+      "price": 32.9,
+      "original_price": 49.85,
+      "discount": 34.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82610-mlovh9no3bb787",
+      "link": "https://s.shopee.com.br/7ptylvcgxv",
+      "rating": "4.9",
+      "sales": 2054,
+      "shop": "Abcshop.br",
+      "category": "esponja",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58206707204,
+        "productName": "12 Pçs + 3 Esponjas Set Conjunto De Pincéis De Maquiagem Profissional",
+        "price": "32.9",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.03",
+        "sales": 2054,
+        "ratingStar": "4.9",
+        "shopName": "Abcshop.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82610-mlovh9no3bb787",
+        "productLink": "https://shopee.com.br/product/421446882/58206707204",
+        "offerLink": "https://s.shopee.com.br/7ptylvcgxv"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58201422912",
       "name": "Kit 5 Panos de Chão Microfibra 70x60cm Furo para Rodo Limpeza",
       "price": 32.99,
@@ -24118,35 +24119,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mm6956lahrlw65",
         "productLink": "https://shopee.com.br/product/284747389/58257435876",
         "offerLink": "https://s.shopee.com.br/1LgSQJc43T"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "27240642031",
-      "name": "Óculos De Sol Retrô De Feixe Duplo , Armação Grande , Proteção UV , Lentes Oceânicas , Moda Minimalista , Unissex",
-      "price": 6.01,
-      "original_price": 8.97,
-      "discount": 33.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mj6xm1e8buo5a6",
-      "link": "https://s.shopee.com.br/4LK3zpmR3H",
-      "rating": "4.8",
-      "sales": 2658,
-      "shop": "br.FashLoop",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 27240642031,
-        "productName": "Óculos De Sol Retrô De Feixe Duplo , Armação Grande , Proteção UV , Lentes Oceânicas , Moda Minimalista , Unissex",
-        "price": "6.01",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.03",
-        "sales": 2658,
-        "ratingStar": "4.8",
-        "shopName": "br.FashLoop",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mj6xm1e8buo5a6",
-        "productLink": "https://shopee.com.br/product/1603567416/27240642031",
-        "offerLink": "https://s.shopee.com.br/4LK3zpmR3H"
       },
       "_last_price": null
     },
