@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T02:18:02.570111+00:00",
+  "updated_at": "2026-10-13T02:37:34.138955+00:00",
   "total": 1118,
   "products": [
     {
@@ -5989,7 +5989,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mt4lg7bbncw24e",
         "productLink": "https://shopee.com.br/product/1912683192/24098490275",
         "offerLink": "https://s.shopee.com.br/60SHyoi6uq"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22294256002",
@@ -8392,8 +8393,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mrztp81e9kw7b1",
         "productLink": "https://shopee.com.br/product/1781912896/58265714065",
         "offerLink": "https://s.shopee.com.br/6L58NNvSZ2"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "20499092615",
@@ -19357,6 +19357,35 @@
       "_last_price": null
     },
     {
+      "id": "54764399038",
+      "name": "1 a 3 Und Pote 1,5L Hermético C/ Bico Dosador Lavanderia Sabão em Pó Amaciante Multiuso Organização Compacto Resistente",
+      "price": 26.23,
+      "original_price": 43.72,
+      "discount": 40.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
+      "link": "https://s.shopee.com.br/905urOUvRa",
+      "rating": "4.8",
+      "sales": 962,
+      "shop": "CampvendasMulticoisas",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 54764399038,
+        "productName": "1 a 3 Und Pote 1,5L Hermético C/ Bico Dosador Lavanderia Sabão em Pó Amaciante Multiuso Organização Compacto Resistente",
+        "price": "26.23",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.12",
+        "sales": 962,
+        "ratingStar": "4.8",
+        "shopName": "CampvendasMulticoisas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
+        "productLink": "https://shopee.com.br/product/1627792845/54764399038",
+        "offerLink": "https://s.shopee.com.br/905urOUvRa"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22798836563",
       "name": "Kit Econômico Lava Roupas em Cápsulas 5 em 1 para Toda Família Rende Mais no Dia a Dia",
       "price": 19.99,
@@ -23823,35 +23852,6 @@
       "_last_price": null
     },
     {
-      "id": "22198792838",
-      "name": "Carrinho de Controle Remoto Sem fio Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
-      "price": 26.85,
-      "original_price": 40.07,
-      "discount": 33.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcu4r3lbhv5t84",
-      "link": "https://s.shopee.com.br/7VH5lZtzzI",
-      "rating": "4.8",
-      "sales": 1600,
-      "shop": "LifeToys",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22198792838,
-        "productName": "Carrinho de Controle Remoto Sem fio Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
-        "price": "26.85",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.03",
-        "sales": 1600,
-        "ratingStar": "4.8",
-        "shopName": "LifeToys",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcu4r3lbhv5t84",
-        "productLink": "https://shopee.com.br/product/1551770885/22198792838",
-        "offerLink": "https://s.shopee.com.br/7VH5lZtzzI"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58257853789",
       "name": "Kit 4 Chaveiros Academia Fitness: Haltere, Kettlebell, Anilhas e Shakeira",
       "price": 19.9,
@@ -24196,35 +24196,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra2n-mbebm15ltjrk86",
         "productLink": "https://shopee.com.br/product/627750190/23094170351",
         "offerLink": "https://s.shopee.com.br/9zyQk6UdVQ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "54764399038",
-      "name": "1 a 3 Und Pote 1,5L Hermético C/ Bico Dosador Lavanderia Sabão em Pó Amaciante Multiuso Organização Compacto Resistente",
-      "price": 26.23,
-      "original_price": 38.57,
-      "discount": 32.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
-      "link": "https://s.shopee.com.br/905urOUvRa",
-      "rating": "4.8",
-      "sales": 962,
-      "shop": "CampvendasMulticoisas",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 54764399038,
-        "productName": "1 a 3 Und Pote 1,5L Hermético C/ Bico Dosador Lavanderia Sabão em Pó Amaciante Multiuso Organização Compacto Resistente",
-        "price": "26.23",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.12",
-        "sales": 962,
-        "ratingStar": "4.8",
-        "shopName": "CampvendasMulticoisas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
-        "productLink": "https://shopee.com.br/product/1627792845/54764399038",
-        "offerLink": "https://s.shopee.com.br/905urOUvRa"
       },
       "_last_price": null
     },
@@ -30402,6 +30373,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7tk2e7ezmhg1d",
         "productLink": "https://shopee.com.br/product/293906934/20799651636",
         "offerLink": "https://s.shopee.com.br/30oht68v0l"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23298198782",
+      "name": "Carrinho De Boneca Baby Alive 3 Em 1 Bebê Conforto E Cadeira Divertoys",
+      "price": 63.9,
+      "original_price": 78.89,
+      "discount": 19.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m64i1woremya09",
+      "link": "https://s.shopee.com.br/W7N83e6QS",
+      "rating": "4.9",
+      "sales": 1002,
+      "shop": "loja-amorim",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23298198782,
+        "productName": "Carrinho De Boneca Baby Alive 3 Em 1 Bebê Conforto E Cadeira Divertoys",
+        "price": "63.9",
+        "priceDiscountRate": 19,
+        "commissionRate": "0.03",
+        "sales": 1002,
+        "ratingStar": "4.9",
+        "shopName": "loja-amorim",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m64i1woremya09",
+        "productLink": "https://shopee.com.br/product/1294889654/23298198782",
+        "offerLink": "https://s.shopee.com.br/W7N83e6QS"
       },
       "_last_price": null
     },
