@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T01:58:32.901563+00:00",
+  "updated_at": "2026-10-13T02:18:02.570111+00:00",
   "total": 1118,
   "products": [
     {
@@ -4135,8 +4135,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
         "productLink": "https://shopee.com.br/product/1595150949/22594316058",
         "offerLink": "https://s.shopee.com.br/3qNnrEwEKN"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58208348035",
@@ -5381,7 +5380,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825bb-msuuw3fmwv7ldf",
         "productLink": "https://shopee.com.br/product/1007375842/22898052964",
         "offerLink": "https://s.shopee.com.br/8fT39gPy4d"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "52663081504",
@@ -8745,8 +8745,8 @@
     {
       "id": "23994933674",
       "name": "Canivete dobrável de aço inoxidável para chaveiro Caça Pesca  promoção Resiste",
-      "price": 12.9,
-      "original_price": 30.0,
+      "price": 12.99,
+      "original_price": 30.21,
       "discount": 57.0,
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8259r-mtxv7ho7670m45",
@@ -8759,7 +8759,7 @@
       "_item": {
         "itemId": 23994933674,
         "productName": "Canivete dobrável de aço inoxidável para chaveiro Caça Pesca  promoção Resiste",
-        "price": "12.9",
+        "price": "12.99",
         "priceDiscountRate": 57,
         "commissionRate": "0.12",
         "sales": 1397,
@@ -21068,6 +21068,35 @@
       "_last_price": null
     },
     {
+      "id": "22893633194",
+      "name": "Kit  Oculos Vintage Retro Preto Liso + Caneta Giz Festa Casamento óculos de festa de formatura de carnaval",
+      "price": 37.99,
+      "original_price": 61.27,
+      "discount": 38.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mlranujqups0ac",
+      "link": "https://s.shopee.com.br/1qcl1b0zIk",
+      "rating": "4.9",
+      "sales": 1368,
+      "shop": "Do Betterbr",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22893633194,
+        "productName": "Kit  Oculos Vintage Retro Preto Liso + Caneta Giz Festa Casamento óculos de festa de formatura de carnaval",
+        "price": "37.99",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.03",
+        "sales": 1368,
+        "ratingStar": "4.9",
+        "shopName": "Do Betterbr",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mlranujqups0ac",
+        "productLink": "https://shopee.com.br/product/1356780532/22893633194",
+        "offerLink": "https://s.shopee.com.br/1qcl1b0zIk"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22193579386",
       "name": "Vara de Pesca Fibra de Vidro Maciça 40/65/100 LBS 2 Partes Pesca Pesada Emenda de Rosca",
       "price": 74.89,
@@ -21238,35 +21267,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82632-mk9dovjmqt54e9",
         "productLink": "https://shopee.com.br/product/207174365/48055804188",
         "offerLink": "https://s.shopee.com.br/AUujC90dRZ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22693835808",
-      "name": "Placa Captura De Vídeo 4k 1080p 60fps Full Hd Usb 3.0 Hdmi",
-      "price": 78.9,
-      "original_price": 125.24,
-      "discount": 37.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjra6ztninsy49",
-      "link": "https://s.shopee.com.br/70KpBuvOm5",
-      "rating": "5",
-      "sales": 143,
-      "shop": "8X TECH LOJA OFICIAL",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22693835808,
-        "productName": "Placa Captura De Vídeo 4k 1080p 60fps Full Hd Usb 3.0 Hdmi",
-        "price": "78.9",
-        "priceDiscountRate": 37,
-        "commissionRate": "0.03",
-        "sales": 143,
-        "ratingStar": "5",
-        "shopName": "8X TECH LOJA OFICIAL",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjra6ztninsy49",
-        "productLink": "https://shopee.com.br/product/1478225841/22693835808",
-        "offerLink": "https://s.shopee.com.br/70KpBuvOm5"
       },
       "_last_price": null
     },
@@ -23935,35 +23935,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mm6956lahrlw65",
         "productLink": "https://shopee.com.br/product/284747389/58257435876",
         "offerLink": "https://s.shopee.com.br/1LgSQJc43T"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "27240642031",
-      "name": "Óculos De Sol Retrô De Feixe Duplo , Armação Grande , Proteção UV , Lentes Oceânicas , Moda Minimalista , Unissex",
-      "price": 6.01,
-      "original_price": 8.97,
-      "discount": 33.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mj6xm1e8buo5a6",
-      "link": "https://s.shopee.com.br/4LK3zpmR3H",
-      "rating": "4.8",
-      "sales": 2658,
-      "shop": "br.FashLoop",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 27240642031,
-        "productName": "Óculos De Sol Retrô De Feixe Duplo , Armação Grande , Proteção UV , Lentes Oceânicas , Moda Minimalista , Unissex",
-        "price": "6.01",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.03",
-        "sales": 2658,
-        "ratingStar": "4.8",
-        "shopName": "br.FashLoop",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mj6xm1e8buo5a6",
-        "productLink": "https://shopee.com.br/product/1603567416/27240642031",
-        "offerLink": "https://s.shopee.com.br/4LK3zpmR3H"
       },
       "_last_price": null
     },
@@ -29544,7 +29515,7 @@
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mharz293943r41",
       "link": "https://s.shopee.com.br/8pmTMAL620",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 705,
       "shop": "garciamultiofertas",
       "category": "kit pesca",
@@ -29556,7 +29527,7 @@
         "priceDiscountRate": 21,
         "commissionRate": "0.07",
         "sales": 705,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "garciamultiofertas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mharz293943r41",
         "productLink": "https://shopee.com.br/product/1379048069/57701828757",
@@ -29677,6 +29648,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82585-mu0w7kwixypwab",
         "productLink": "https://shopee.com.br/product/344381236/51368864732",
         "offerLink": "https://s.shopee.com.br/AAHtFlu99f"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "51552462147",
+      "name": "Placa de Vídeo NVIDIA GeForce MSI RTX5050 8GB Shadow  GDRR6 128 Bits - 912-V538",
+      "price": 2299.0,
+      "original_price": 2873.75,
+      "discount": 20.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8225o-mhrsfnaymjurfb",
+      "link": "https://s.shopee.com.br/4B0fHDa5Bb",
+      "rating": "4.9",
+      "sales": 0,
+      "shop": "TNTinfoLoja",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 51552462147,
+        "productName": "Placa de Vídeo NVIDIA GeForce MSI RTX5050 8GB Shadow  GDRR6 128 Bits - 912-V538",
+        "price": "2299",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.03",
+        "sales": 0,
+        "ratingStar": "4.9",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8225o-mhrsfnaymjurfb",
+        "productLink": "https://shopee.com.br/product/344381236/51552462147",
+        "offerLink": "https://s.shopee.com.br/4B0fHDa5Bb"
       },
       "_last_price": null
     },
