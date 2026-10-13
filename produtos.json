@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T06:26:17.475402+00:00",
+  "updated_at": "2026-10-13T06:45:08.494040+00:00",
   "total": 1115,
   "products": [
     {
@@ -6491,7 +6491,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mqhm7xdslfy8a0",
         "productLink": "https://shopee.com.br/product/1765235104/58214016955",
         "offerLink": "https://s.shopee.com.br/BUVBWNb0k"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58264910845",
@@ -10000,35 +10001,6 @@
       "_last_price": null
     },
     {
-      "id": "58259066940",
-      "name": "Repetidor WiFi 300Mbps 4 Antenas Amplificador de Sinal Wireless 2.4GHz Roteador Extensor-G8",
-      "price": 58.99,
-      "original_price": 128.24,
-      "discount": 54.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mny3i5vsyqroec",
-      "link": "https://s.shopee.com.br/70KpAZp7fa",
-      "rating": "4.7",
-      "sales": 161,
-      "shop": "jieke701",
-      "category": "roteador wifi",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58259066940,
-        "productName": "Repetidor WiFi 300Mbps 4 Antenas Amplificador de Sinal Wireless 2.4GHz Roteador Extensor-G8",
-        "price": "58.99",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.11",
-        "sales": 161,
-        "ratingStar": "4.7",
-        "shopName": "jieke701",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mny3i5vsyqroec",
-        "productLink": "https://shopee.com.br/product/1654609614/58259066940",
-        "offerLink": "https://s.shopee.com.br/70KpAZp7fa"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58215212015",
       "name": "Mouse Vertical Ergonômico Sem Fio Recarregável USB Bluetooth Silencioso Ortopédico Mão Direita PC Gamer Super ",
       "price": 36.98,
@@ -10547,6 +10519,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr5biwzrs93b5f",
         "productLink": "https://shopee.com.br/product/1921485008/58266854519",
         "offerLink": "https://s.shopee.com.br/1LgSQ8thrL"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58259066940",
+      "name": "Repetidor WiFi 300Mbps 4 Antenas Amplificador de Sinal Wireless 2.4GHz Roteador Extensor-G8",
+      "price": 59.99,
+      "original_price": 127.64,
+      "discount": 53.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mny3i5vsyqroec",
+      "link": "https://s.shopee.com.br/70KpAZp7fa",
+      "rating": "4.7",
+      "sales": 161,
+      "shop": "jieke701",
+      "category": "roteador wifi",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58259066940,
+        "productName": "Repetidor WiFi 300Mbps 4 Antenas Amplificador de Sinal Wireless 2.4GHz Roteador Extensor-G8",
+        "price": "59.99",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.11",
+        "sales": 161,
+        "ratingStar": "4.7",
+        "shopName": "jieke701",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mny3i5vsyqroec",
+        "productLink": "https://shopee.com.br/product/1654609614/58259066940",
+        "offerLink": "https://s.shopee.com.br/70KpAZp7fa"
       },
       "_last_price": null
     },
