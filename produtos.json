@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T15:09:19.758864+00:00",
+  "updated_at": "2026-10-13T15:30:10.427308+00:00",
   "total": 1120,
   "products": [
     {
@@ -864,8 +864,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b5-mrifmn63mzgs53",
         "productLink": "https://shopee.com.br/product/1841804999/49165555882",
         "offerLink": "https://s.shopee.com.br/6fhymCOXXV"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "45364806848",
@@ -1297,6 +1296,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mpnvskafmdc004",
         "productLink": "https://shopee.com.br/product/1761364246/22895058213",
         "offerLink": "https://s.shopee.com.br/20wATtqxAH"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "50052384985",
+      "name": "KEEP Halter Ajustável 10kg 4 em 1 com Kettlebell – Equipamento Fitness para Treino em Casa",
+      "price": 158.0,
+      "original_price": 658.33,
+      "discount": 76.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-moov381auozz7b",
+      "link": "https://s.shopee.com.br/9pf2KdIMm0",
+      "rating": "5",
+      "sales": 3,
+      "shop": "keepgoingmax.br",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 50052384985,
+        "productName": "KEEP Halter Ajustável 10kg 4 em 1 com Kettlebell – Equipamento Fitness para Treino em Casa",
+        "price": "158",
+        "priceDiscountRate": 76,
+        "commissionRate": "0.03",
+        "sales": 3,
+        "ratingStar": "5",
+        "shopName": "keepgoingmax.br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-moov381auozz7b",
+        "productLink": "https://shopee.com.br/product/1613783173/50052384985",
+        "offerLink": "https://s.shopee.com.br/9pf2KdIMm0"
       },
       "_last_price": null
     },
@@ -9163,7 +9191,7 @@
       "commission": 19.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8259f-msgkvfvn2sju02",
       "link": "https://s.shopee.com.br/1VzscbStem",
-      "rating": "4.7",
+      "rating": "4.6",
       "sales": 3522,
       "shop": "BIG MO",
       "category": "liquidificador",
@@ -9175,7 +9203,7 @@
         "priceDiscountRate": 56,
         "commissionRate": "0.19",
         "sales": 3522,
-        "ratingStar": "4.7",
+        "ratingStar": "4.6",
         "shopName": "BIG MO",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-msgkvfvn2sju02",
         "productLink": "https://shopee.com.br/product/807597901/23497309877",
@@ -15484,7 +15512,7 @@
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mnfvemk7fchw90",
       "link": "https://s.shopee.com.br/9zyTe61UnQ",
-      "rating": "5",
+      "rating": "4.9",
       "sales": 32,
       "shop": "Seu Meu Estilo",
       "category": "ssd nvme",
@@ -15496,7 +15524,7 @@
         "priceDiscountRate": 46,
         "commissionRate": "0.08",
         "sales": 32,
-        "ratingStar": "5",
+        "ratingStar": "4.9",
         "shopName": "Seu Meu Estilo",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mnfvemk7fchw90",
         "productLink": "https://shopee.com.br/product/1383941518/58209519096",
@@ -18319,8 +18347,8 @@
     {
       "id": "22598826303",
       "name": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
-      "price": 64.99,
-      "original_price": 112.05,
+      "price": 69.88,
+      "original_price": 120.48,
       "discount": 42.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
@@ -18333,7 +18361,7 @@
       "_item": {
         "itemId": 22598826303,
         "productName": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
-        "price": "64.99",
+        "price": "69.88",
         "priceDiscountRate": 42,
         "commissionRate": "0.03",
         "sales": 1201,
@@ -21625,8 +21653,8 @@
     {
       "id": "23694320738",
       "name": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-      "price": 59.99,
-      "original_price": 93.73,
+      "price": 73.99,
+      "original_price": 115.61,
       "discount": 36.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
@@ -21639,7 +21667,7 @@
       "_item": {
         "itemId": 23694320738,
         "productName": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-        "price": "59.99",
+        "price": "73.99",
         "priceDiscountRate": 36,
         "commissionRate": "0.03",
         "sales": 1224,
@@ -23678,6 +23706,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82288-mhjvplolmbd1bb",
         "productLink": "https://shopee.com.br/product/446413605/23698978626",
         "offerLink": "https://s.shopee.com.br/6fhym2xAg5"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22198792838",
+      "name": "Carrinho de Controle Remoto Sem fio Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
+      "price": 26.85,
+      "original_price": 40.07,
+      "discount": 33.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcu4r3lbhv5t84",
+      "link": "https://s.shopee.com.br/7VH5lZtzzI",
+      "rating": "4.8",
+      "sales": 1600,
+      "shop": "LifeToys",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22198792838,
+        "productName": "Carrinho de Controle Remoto Sem fio Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
+        "price": "26.85",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.03",
+        "sales": 1600,
+        "ratingStar": "4.8",
+        "shopName": "LifeToys",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcu4r3lbhv5t84",
+        "productLink": "https://shopee.com.br/product/1551770885/22198792838",
+        "offerLink": "https://s.shopee.com.br/7VH5lZtzzI"
       },
       "_last_price": null
     },
@@ -26930,35 +26987,6 @@
       "_last_price": null
     },
     {
-      "id": "22693185466",
-      "name": "Carrinho Ônibus Escolar Transparente com Engrenagens- Com Luz e Som- Movimentação por Inércia (Fricção)- Brinquedo",
-      "price": 14.99,
-      "original_price": 20.53,
-      "discount": 27.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rff4-m355q8wymnruce",
-      "link": "https://s.shopee.com.br/1qcjAZvSUL",
-      "rating": "4.8",
-      "sales": 1282,
-      "shop": "leve bazar",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22693185466,
-        "productName": "Carrinho Ônibus Escolar Transparente com Engrenagens- Com Luz e Som- Movimentação por Inércia (Fricção)- Brinquedo",
-        "price": "14.99",
-        "priceDiscountRate": 27,
-        "commissionRate": "0.03",
-        "sales": 1282,
-        "ratingStar": "4.8",
-        "shopName": "leve bazar",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rff4-m355q8wymnruce",
-        "productLink": "https://shopee.com.br/product/1318087887/22693185466",
-        "offerLink": "https://s.shopee.com.br/1qcjAZvSUL"
-      },
-      "_last_price": null
-    },
-    {
       "id": "13746319989",
       "name": "Ração Golden Formula Mini Bits Cães Adultos Raças Pequenas Carne e Arroz 15kg",
       "price": 143.47,
@@ -27133,35 +27161,6 @@
       "_last_price": null
     },
     {
-      "id": "58255745911",
-      "name": "SSD 512GB M.2 NVMe 3.0 2280 PCle GEN3 X4 SpeedRam 3D NAND KNUP – Upgrade Rápido e Seguro",
-      "price": 699.99,
-      "original_price": 945.93,
-      "discount": 26.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lf-msod3a3rrpc662",
-      "link": "https://s.shopee.com.br/60SKskGium",
-      "rating": "4.9",
-      "sales": 39,
-      "shop": "L&Z HOME",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58255745911,
-        "productName": "SSD 512GB M.2 NVMe 3.0 2280 PCle GEN3 X4 SpeedRam 3D NAND KNUP – Upgrade Rápido e Seguro",
-        "price": "699.99",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.03",
-        "sales": 39,
-        "ratingStar": "4.9",
-        "shopName": "L&Z HOME",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-msod3a3rrpc662",
-        "productLink": "https://shopee.com.br/product/1686981082/58255745911",
-        "offerLink": "https://s.shopee.com.br/60SKskGium"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58214345923",
       "name": "Kit Coala Laundry Chá Branco - 1 Lava Roupas 3L + 1 Amaciante Concentrado",
       "price": 49.9,
@@ -27303,35 +27302,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825an-mttnhikvzk77a2",
         "productLink": "https://shopee.com.br/product/683941545/22394467891",
         "offerLink": "https://s.shopee.com.br/8pmUpsghA1"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23598068812",
-      "name": "Carrinho Rolimã Zig Zag Car Roda com Led Infantil - Castela",
-      "price": 189.99,
-      "original_price": 256.74,
-      "discount": 26.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekctgxrndogf4",
-      "link": "https://s.shopee.com.br/7ptwABsjJO",
-      "rating": "4.8",
-      "sales": 1157,
-      "shop": "Shantou Ecommerce",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23598068812,
-        "productName": "Carrinho Rolimã Zig Zag Car Roda com Led Infantil - Castela",
-        "price": "189.99",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.11",
-        "sales": 1157,
-        "ratingStar": "4.8",
-        "shopName": "Shantou Ecommerce",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekctgxrndogf4",
-        "productLink": "https://shopee.com.br/product/1257363873/23598068812",
-        "offerLink": "https://s.shopee.com.br/7ptwABsjJO"
       },
       "_last_price": null
     },
@@ -30116,6 +30086,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rato-max0uefqt1j7f9",
         "productLink": "https://shopee.com.br/product/1261893889/23393053571",
         "offerLink": "https://s.shopee.com.br/1qcm7GiS9x"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22894275092",
+      "name": "Kit Carrinhos Miniatura Coleção 12 Peças Brinquedo Crianças Brincar Presente",
+      "price": 19.9,
+      "original_price": 24.87,
+      "discount": 20.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjaa6s64g0sj43",
+      "link": "https://s.shopee.com.br/7AeFMxvGfC",
+      "rating": "4.8",
+      "sales": 2414,
+      "shop": "Rainha Indústria de Brinquedos",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22894275092,
+        "productName": "Kit Carrinhos Miniatura Coleção 12 Peças Brinquedo Crianças Brincar Presente",
+        "price": "19.9",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.03",
+        "sales": 2414,
+        "ratingStar": "4.8",
+        "shopName": "Rainha Indústria de Brinquedos",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjaa6s64g0sj43",
+        "productLink": "https://shopee.com.br/product/1593119369/22894275092",
+        "offerLink": "https://s.shopee.com.br/7AeFMxvGfC"
       },
       "_last_price": null
     },
