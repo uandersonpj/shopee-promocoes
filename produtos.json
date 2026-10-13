@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T00:38:54.754638+00:00",
+  "updated_at": "2026-10-13T00:59:46.418473+00:00",
   "total": 1118,
   "products": [
     {
@@ -3410,7 +3410,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/4d3d9eceb4a23732c4b0f88ec5f6e5fa",
         "productLink": "https://shopee.com.br/product/233660920/21635320174",
         "offerLink": "https://s.shopee.com.br/1B6JlG6Kh"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "17255136776",
@@ -6420,8 +6421,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mqhm7xdslfy8a0",
         "productLink": "https://shopee.com.br/product/1765235104/58214016955",
         "offerLink": "https://s.shopee.com.br/BUVBWNb0k"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58264910845",
@@ -9070,7 +9070,7 @@
       "commission": 19.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8259f-msgkvfvn2sju02",
       "link": "https://s.shopee.com.br/1VzscbStem",
-      "rating": "4.6",
+      "rating": "4.7",
       "sales": 3522,
       "shop": "BIG MO",
       "category": "liquidificador",
@@ -9082,7 +9082,7 @@
         "priceDiscountRate": 56,
         "commissionRate": "0.19",
         "sales": 3522,
-        "ratingStar": "4.6",
+        "ratingStar": "4.7",
         "shopName": "BIG MO",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-msgkvfvn2sju02",
         "productLink": "https://shopee.com.br/product/807597901/23497309877",
@@ -15094,35 +15094,6 @@
       "_last_price": null
     },
     {
-      "id": "58253071629",
-      "name": "Relógio Masculino Pulseira Corrente Prata Dourado Quartzo Luxo",
-      "price": 25.9,
-      "original_price": 48.87,
-      "discount": 47.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjlznigr6ward1",
-      "link": "https://s.shopee.com.br/9pf0Xw5hno",
-      "rating": "4.8",
-      "sales": 2249,
-      "shop": "MAJU MAGAZINE",
-      "category": "relogio masculino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58253071629,
-        "productName": "Relógio Masculino Pulseira Corrente Prata Dourado Quartzo Luxo",
-        "price": "25.9",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.07",
-        "sales": 2249,
-        "ratingStar": "4.8",
-        "shopName": "MAJU MAGAZINE",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjlznigr6ward1",
-        "productLink": "https://shopee.com.br/product/1593208796/58253071629",
-        "offerLink": "https://s.shopee.com.br/9pf0Xw5hno"
-      },
-      "_last_price": null
-    },
-    {
       "id": "43558461689",
       "name": "Linha De Pesca Trançada 500M/300M , Multifilamento De 4 Fios Para De Carpa/Japonês/Pe",
       "price": 27.9,
@@ -15786,6 +15757,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mpi85szraozm11",
         "productLink": "https://shopee.com.br/product/1676542674/22295054092",
         "offerLink": "https://s.shopee.com.br/4fwuOPhZjM"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58253071629",
+      "name": "Relógio Masculino Pulseira Corrente Prata Dourado Quartzo Luxo",
+      "price": 27.9,
+      "original_price": 51.67,
+      "discount": 46.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjlznigr6ward1",
+      "link": "https://s.shopee.com.br/9pf0Xw5hno",
+      "rating": "4.8",
+      "sales": 2249,
+      "shop": "MAJU MAGAZINE",
+      "category": "relogio masculino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58253071629,
+        "productName": "Relógio Masculino Pulseira Corrente Prata Dourado Quartzo Luxo",
+        "price": "27.9",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.07",
+        "sales": 2249,
+        "ratingStar": "4.8",
+        "shopName": "MAJU MAGAZINE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjlznigr6ward1",
+        "productLink": "https://shopee.com.br/product/1593208796/58253071629",
+        "offerLink": "https://s.shopee.com.br/9pf0Xw5hno"
       },
       "_last_price": null
     },
@@ -17445,8 +17445,8 @@
     {
       "id": "58252302694",
       "name": "Saca Areia Suporte Guarda Sol E Para Vara De Pesca 43 cm Fixador Âncora Praia Verão Várias Cores Mor",
-      "price": 17.0,
-      "original_price": 30.36,
+      "price": 17.99,
+      "original_price": 32.12,
       "discount": 44.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj7avimuo4quaf",
@@ -17459,7 +17459,7 @@
       "_item": {
         "itemId": 58252302694,
         "productName": "Saca Areia Suporte Guarda Sol E Para Vara De Pesca 43 cm Fixador Âncora Praia Verão Várias Cores Mor",
-        "price": "17",
+        "price": "17.99",
         "priceDiscountRate": 44,
         "commissionRate": "0.03",
         "sales": 58,
@@ -22402,35 +22402,6 @@
       "_last_price": null
     },
     {
-      "id": "22491151815",
-      "name": "Kit De Pesca Completa 2 Varas Telescópica 2 Molinete E Itens",
-      "price": 134.9,
-      "original_price": 210.78,
-      "discount": 36.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd3t-lv4rhb85xfxi0b",
-      "link": "https://s.shopee.com.br/3LRWo3OEFC",
-      "rating": "4.8",
-      "sales": 192,
-      "shop": "Summer Pesca e Camping",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22491151815,
-        "productName": "Kit De Pesca Completa 2 Varas Telescópica 2 Molinete E Itens",
-        "price": "134.9",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.07",
-        "sales": 192,
-        "ratingStar": "4.8",
-        "shopName": "Summer Pesca e Camping",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd3t-lv4rhb85xfxi0b",
-        "productLink": "https://shopee.com.br/product/320275364/22491151815",
-        "offerLink": "https://s.shopee.com.br/3LRWo3OEFC"
-      },
-      "_last_price": null
-    },
-    {
       "id": "50500321500",
       "name": "Vara de Pesca Telescópica Traíra 3,00 m Verde-Limão Gomo Longo com Anéis de Aço Inoxidável.",
       "price": 39.99,
@@ -26574,6 +26545,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mrss6zbff8jq72",
         "productLink": "https://shopee.com.br/product/1842497057/58266030785",
         "offerLink": "https://s.shopee.com.br/4VdUCC2KEV"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22491151815",
+      "name": "Kit De Pesca Completa 2 Varas Telescópica 2 Molinete E Itens",
+      "price": 149.0,
+      "original_price": 209.86,
+      "discount": 29.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd3t-lv4rhb85xfxi0b",
+      "link": "https://s.shopee.com.br/3LRWo3OEFC",
+      "rating": "4.8",
+      "sales": 192,
+      "shop": "Summer Pesca e Camping",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22491151815,
+        "productName": "Kit De Pesca Completa 2 Varas Telescópica 2 Molinete E Itens",
+        "price": "149",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.07",
+        "sales": 192,
+        "ratingStar": "4.8",
+        "shopName": "Summer Pesca e Camping",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd3t-lv4rhb85xfxi0b",
+        "productLink": "https://shopee.com.br/product/320275364/22491151815",
+        "offerLink": "https://s.shopee.com.br/3LRWo3OEFC"
       },
       "_last_price": null
     },
