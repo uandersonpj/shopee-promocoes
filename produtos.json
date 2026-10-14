@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T04:53:47.956906+00:00",
+  "updated_at": "2026-10-14T05:12:40.009773+00:00",
   "total": 1127,
   "products": [
     {
@@ -2140,7 +2140,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mnz5ipg57t3539",
         "productLink": "https://shopee.com.br/product/1634545368/23398908978",
         "offerLink": "https://s.shopee.com.br/5q8rmW0LN4"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23298719961",
@@ -5094,35 +5095,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mq1wjms9613757",
         "productLink": "https://shopee.com.br/product/1552402777/53602161553",
         "offerLink": "https://s.shopee.com.br/60SHylezY8"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23693426827",
-      "name": "Suporte de Banheiro Alto Adesivo Organizador de Parede Sabonete Shampoo Condicionador e Papel1/2/3/4",
-      "price": 10.43,
-      "original_price": 28.97,
-      "discount": 64.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1cw1w7gsew0a8",
-      "link": "https://s.shopee.com.br/1VzwMEvQvT",
-      "rating": "4.8",
-      "sales": 1730,
-      "shop": "BOMM FAMILIA",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23693426827,
-        "productName": "Suporte de Banheiro Alto Adesivo Organizador de Parede Sabonete Shampoo Condicionador e Papel1/2/3/4",
-        "price": "10.43",
-        "priceDiscountRate": 64,
-        "commissionRate": "0.03",
-        "sales": 1730,
-        "ratingStar": "4.8",
-        "shopName": "BOMM FAMILIA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1cw1w7gsew0a8",
-        "productLink": "https://shopee.com.br/product/979724994/23693426827",
-        "offerLink": "https://s.shopee.com.br/1VzwMEvQvT"
       },
       "_last_price": null
     },
@@ -16579,6 +16551,35 @@
       "_last_price": null
     },
     {
+      "id": "21399647008",
+      "name": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Antifrizz",
+      "price": 17.9,
+      "original_price": 32.55,
+      "discount": 45.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/br-11134201-820l5-mp9hlxe5ga2p7e",
+      "link": "https://s.shopee.com.br/1LgVMunPZz",
+      "rating": "4.9",
+      "sales": 2092,
+      "shop": "Salon Line",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21399647008,
+        "productName": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Antifrizz",
+        "price": "17.9",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.18",
+        "sales": 2092,
+        "ratingStar": "4.9",
+        "shopName": "Salon Line",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820l5-mp9hlxe5ga2p7e",
+        "productLink": "https://shopee.com.br/product/616222685/21399647008",
+        "offerLink": "https://s.shopee.com.br/1LgVMunPZz"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58213437798",
       "name": "Body Splash Inspirado em Perfumes Importados com Essência Concentrada e Fragrância Marcante",
       "price": 10.99,
@@ -17478,6 +17479,35 @@
       "_last_price": null
     },
     {
+      "id": "42668101068",
+      "name": "Quadriciclo Elétrico Carro Compact Infantil com Controle Remoto Carrinho de Passeio com Farol",
+      "price": 564.9,
+      "original_price": 1008.75,
+      "discount": 44.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meepoqlqrif56a",
+      "link": "https://s.shopee.com.br/8fT63k40eH",
+      "rating": "4.9",
+      "sales": 785,
+      "shop": "Zociella Kids",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42668101068,
+        "productName": "Quadriciclo Elétrico Carro Compact Infantil com Controle Remoto Carrinho de Passeio com Farol",
+        "price": "564.9",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.07",
+        "sales": 785,
+        "ratingStar": "4.9",
+        "shopName": "Zociella Kids",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meepoqlqrif56a",
+        "productLink": "https://shopee.com.br/product/504754787/42668101068",
+        "offerLink": "https://s.shopee.com.br/8fT63k40eH"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19499594439",
       "name": "Arranhador Para Gatos Com Casinha Playground",
       "price": 139.99,
@@ -18054,35 +18084,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
         "productLink": "https://shopee.com.br/product/504754787/23498386191",
         "offerLink": "https://s.shopee.com.br/2qVGD0BlSC"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "42668101068",
-      "name": "Quadriciclo Elétrico Carro Compact Infantil com Controle Remoto Carrinho de Passeio com Farol",
-      "price": 569.8,
-      "original_price": 999.65,
-      "discount": 43.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meepoqlqrif56a",
-      "link": "https://s.shopee.com.br/8fT63k40eH",
-      "rating": "4.9",
-      "sales": 785,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42668101068,
-        "productName": "Quadriciclo Elétrico Carro Compact Infantil com Controle Remoto Carrinho de Passeio com Farol",
-        "price": "569.8",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.07",
-        "sales": 785,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meepoqlqrif56a",
-        "productLink": "https://shopee.com.br/product/504754787/42668101068",
-        "offerLink": "https://s.shopee.com.br/8fT63k40eH"
       },
       "_last_price": null
     },
