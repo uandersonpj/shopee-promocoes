@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14T04:34:59.676939+00:00",
-  "total": 1126,
+  "updated_at": "2026-10-14T04:53:47.956906+00:00",
+  "total": 1127,
   "products": [
     {
       "id": "58210104632",
@@ -4023,7 +4023,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mtd0czcsu8030c",
         "productLink": "https://shopee.com.br/product/1107644568/22193849980",
         "offerLink": "https://s.shopee.com.br/30ogPIG0Gs"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58209107153",
@@ -27362,6 +27363,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mlmg5tia77k525",
         "productLink": "https://shopee.com.br/product/1108226774/18198165538",
         "offerLink": "https://s.shopee.com.br/7KxfZR8Ood"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58255745911",
+      "name": "SSD 512GB M.2 NVMe 3.0 2280 PCle GEN3 X4 SpeedRam 3D NAND KNUP – Upgrade Rápido e Seguro",
+      "price": 699.99,
+      "original_price": 945.93,
+      "discount": 26.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lf-msod3a3rrpc662",
+      "link": "https://s.shopee.com.br/60SKskGium",
+      "rating": "4.9",
+      "sales": 38,
+      "shop": "L&Z HOME",
+      "category": "ssd nvme",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58255745911,
+        "productName": "SSD 512GB M.2 NVMe 3.0 2280 PCle GEN3 X4 SpeedRam 3D NAND KNUP – Upgrade Rápido e Seguro",
+        "price": "699.99",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.03",
+        "sales": 38,
+        "ratingStar": "4.9",
+        "shopName": "L&Z HOME",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-msod3a3rrpc662",
+        "productLink": "https://shopee.com.br/product/1686981082/58255745911",
+        "offerLink": "https://s.shopee.com.br/60SKskGium"
       },
       "_last_price": null
     },
