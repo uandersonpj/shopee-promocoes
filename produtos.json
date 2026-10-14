@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T05:31:29.783069+00:00",
+  "updated_at": "2026-10-14T05:50:26.352208+00:00",
   "total": 1127,
   "products": [
     {
@@ -3446,7 +3446,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i9-mfra08dv9dl91a",
         "productLink": "https://shopee.com.br/product/1643589827/20399896346",
         "offerLink": "https://s.shopee.com.br/1gJMUYXWEI"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19097980221",
@@ -5096,6 +5097,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mq1wjms9613757",
         "productLink": "https://shopee.com.br/product/1552402777/53602161553",
         "offerLink": "https://s.shopee.com.br/60SHylezY8"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23693426827",
+      "name": "Suporte de Banheiro Alto Adesivo Organizador de Parede Sabonete Shampoo Condicionador e Papel1/2/3/4",
+      "price": 10.43,
+      "original_price": 28.97,
+      "discount": 64.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1cw1w7gsew0a8",
+      "link": "https://s.shopee.com.br/1VzwMEvQvT",
+      "rating": "4.8",
+      "sales": 1730,
+      "shop": "BOMM FAMILIA",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23693426827,
+        "productName": "Suporte de Banheiro Alto Adesivo Organizador de Parede Sabonete Shampoo Condicionador e Papel1/2/3/4",
+        "price": "10.43",
+        "priceDiscountRate": 64,
+        "commissionRate": "0.03",
+        "sales": 1730,
+        "ratingStar": "4.8",
+        "shopName": "BOMM FAMILIA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1cw1w7gsew0a8",
+        "productLink": "https://shopee.com.br/product/979724994/23693426827",
+        "offerLink": "https://s.shopee.com.br/1VzwMEvQvT"
       },
       "_last_price": null
     },
@@ -16548,35 +16578,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820mg-mp9hkwcyz1fl8c",
         "productLink": "https://shopee.com.br/product/616222685/23093789334",
         "offerLink": "https://s.shopee.com.br/3g4Q9CeWqL"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21399647008",
-      "name": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Antifrizz",
-      "price": 17.9,
-      "original_price": 32.55,
-      "discount": 45.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134201-820l5-mp9hlxe5ga2p7e",
-      "link": "https://s.shopee.com.br/1LgVMunPZz",
-      "rating": "4.9",
-      "sales": 2092,
-      "shop": "Salon Line",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21399647008,
-        "productName": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Antifrizz",
-        "price": "17.9",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.18",
-        "sales": 2092,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820l5-mp9hlxe5ga2p7e",
-        "productLink": "https://shopee.com.br/product/616222685/21399647008",
-        "offerLink": "https://s.shopee.com.br/1LgVMunPZz"
       },
       "_last_price": null
     },
