@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T02:21:48.895318+00:00",
+  "updated_at": "2026-10-14T02:41:14.141628+00:00",
   "total": 1126,
   "products": [
     {
@@ -3497,7 +3497,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/4d3d9eceb4a23732c4b0f88ec5f6e5fa",
         "productLink": "https://shopee.com.br/product/233660920/21635320174",
         "offerLink": "https://s.shopee.com.br/1B6JlG6Kh"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "17255136776",
@@ -6166,8 +6167,8 @@
     {
       "id": "29593910226",
       "name": "Boonie Chapéu Balaclava Terno Dobrável Macio Proteção Solar Boné De Pesca Respirável Pescador Caça Ao Ar Livre Amplo-CO",
-      "price": 39.98,
-      "original_price": 105.21,
+      "price": 39.99,
+      "original_price": 105.24,
       "discount": 62.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mu8pivlcopojc4",
@@ -6180,7 +6181,7 @@
       "_item": {
         "itemId": 29593910226,
         "productName": "Boonie Chapéu Balaclava Terno Dobrável Macio Proteção Solar Boné De Pesca Respirável Pescador Caça Ao Ar Livre Amplo-CO",
-        "price": "39.98",
+        "price": "39.99",
         "priceDiscountRate": 62,
         "commissionRate": "0.03",
         "sales": 187,
@@ -6507,8 +6508,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mqhm7xdslfy8a0",
         "productLink": "https://shopee.com.br/product/1765235104/58214016955",
         "offerLink": "https://s.shopee.com.br/BUVBWNb0k"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58265090177",
@@ -7649,7 +7649,7 @@
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8259q-mrirzbbo3g1x0f",
       "link": "https://s.shopee.com.br/8fT6ESZ2RL",
-      "rating": "4.5",
+      "rating": "4.6",
       "sales": 1213,
       "shop": "PH imports ",
       "category": "perfume",
@@ -7661,7 +7661,7 @@
         "priceDiscountRate": 59,
         "commissionRate": "0.14",
         "sales": 1213,
-        "ratingStar": "4.5",
+        "ratingStar": "4.6",
         "shopName": "PH imports ",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259q-mrirzbbo3g1x0f",
         "productLink": "https://shopee.com.br/product/1190360737/58215631607",
