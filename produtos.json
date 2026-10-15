@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T08:16:18.242420+00:00",
+  "updated_at": "2026-10-15T08:35:11.352095+00:00",
   "total": 1124,
   "products": [
     {
@@ -2115,7 +2115,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mnz5ipg57t3539",
         "productLink": "https://shopee.com.br/product/1634545368/23398908978",
         "offerLink": "https://s.shopee.com.br/1BARSMVQ5"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "9212570285",
@@ -10933,35 +10934,6 @@
       "_last_price": null
     },
     {
-      "id": "23899340449",
-      "name": "Kit Podador De Galhos 3,5m + 4m Vara Telescópica 2 Serras 2 Ganchos",
-      "price": 140.99,
-      "original_price": 299.98,
-      "discount": 53.0,
-      "commission": 8.200000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-msceb66hodms2b",
-      "link": "https://s.shopee.com.br/1gJOPLx3OD",
-      "rating": "4.9",
-      "sales": 197,
-      "shop": "FerraMax-BR",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23899340449,
-        "productName": "Kit Podador De Galhos 3,5m + 4m Vara Telescópica 2 Serras 2 Ganchos",
-        "price": "140.99",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.082",
-        "sales": 197,
-        "ratingStar": "4.9",
-        "shopName": "FerraMax-BR",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-msceb66hodms2b",
-        "productLink": "https://shopee.com.br/product/1724060495/23899340449",
-        "offerLink": "https://s.shopee.com.br/1gJOPLx3OD"
-      },
-      "_last_price": null
-    },
-    {
       "id": "19198335914",
       "name": "Kit Sino Duplo Alarme Para Vara De Pesca Suporte Sinalizador Guizo Sininho Clipe Universal",
       "price": 10.47,
@@ -11770,6 +11742,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/5326b89543b9d0432bb10dc21354069e",
         "productLink": "https://shopee.com.br/product/462858978/9180856001",
         "offerLink": "https://s.shopee.com.br/3LRcONvqeZ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23899340449",
+      "name": "Kit Podador De Galhos 3,5m + 4m Vara Telescópica 2 Serras 2 Ganchos",
+      "price": 142.99,
+      "original_price": 297.9,
+      "discount": 52.0,
+      "commission": 8.200000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-msceb66hodms2b",
+      "link": "https://s.shopee.com.br/1gJOPLx3OD",
+      "rating": "4.9",
+      "sales": 197,
+      "shop": "FerraMax-BR",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23899340449,
+        "productName": "Kit Podador De Galhos 3,5m + 4m Vara Telescópica 2 Serras 2 Ganchos",
+        "price": "142.99",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.082",
+        "sales": 197,
+        "ratingStar": "4.9",
+        "shopName": "FerraMax-BR",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-msceb66hodms2b",
+        "productLink": "https://shopee.com.br/product/1724060495/23899340449",
+        "offerLink": "https://s.shopee.com.br/1gJOPLx3OD"
       },
       "_last_price": null
     },
