@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T01:36:43.039530+00:00",
+  "updated_at": "2026-10-15T01:56:21.846304+00:00",
   "total": 1124,
   "products": [
     {
@@ -977,7 +977,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljpy92qy0u5f17",
         "productLink": "https://shopee.com.br/product/390307022/18271105514",
         "offerLink": "https://s.shopee.com.br/30olD2pqs5"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "57109179747",
@@ -1583,8 +1584,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m16zhf1ljn7yae",
         "productLink": "https://shopee.com.br/product/451332066/23793414141",
         "offerLink": "https://s.shopee.com.br/1qcnoszAOj"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23097615562",
@@ -3471,8 +3471,8 @@
     {
       "id": "58213479973",
       "name": "Panela de Pressão Aço Inox Fundo Triplo Pro Indução e Gás 4-8L Fechamento Externo",
-      "price": 297.77,
-      "original_price": 960.55,
+      "price": 297.8,
+      "original_price": 960.65,
       "discount": 69.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mtape51h6ubnc7",
@@ -3485,7 +3485,7 @@
       "_item": {
         "itemId": 58213479973,
         "productName": "Panela de Pressão Aço Inox Fundo Triplo Pro Indução e Gás 4-8L Fechamento Externo",
-        "price": "297.77",
+        "price": "297.8",
         "priceDiscountRate": 69,
         "commissionRate": "0.03",
         "sales": 905,
@@ -5525,35 +5525,6 @@
       "_last_price": null
     },
     {
-      "id": "20063103773",
-      "name": "Espremedor Extrator Industrial Sucos Laranja Limão Frutas Copo",
-      "price": 54.98,
-      "original_price": 148.59,
-      "discount": 63.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-22110-bje93i7qi1jv47",
-      "link": "https://s.shopee.com.br/2BFboZ1SGk",
-      "rating": "4.4",
-      "sales": 608,
-      "shop": "DAFUSHOP_brasil",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20063103773,
-        "productName": "Espremedor Extrator Industrial Sucos Laranja Limão Frutas Copo",
-        "price": "54.98",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.03",
-        "sales": 608,
-        "ratingStar": "4.4",
-        "shopName": "DAFUSHOP_brasil",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22110-bje93i7qi1jv47",
-        "productLink": "https://shopee.com.br/product/328666563/20063103773",
-        "offerLink": "https://s.shopee.com.br/2BFboZ1SGk"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23335280590",
       "name": "Kit Cozinha Infantil Completa Peças Educativa Batedeira Liquidificador Panelinha Brinquedo",
       "price": 54.95,
@@ -6604,7 +6575,7 @@
       "discount": 61.0,
       "commission": 19.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mqhm7xdslfy8a0",
-      "link": "https://s.shopee.com.br/2qVLAJb42a",
+      "link": "https://s.shopee.com.br/5q8xHWmP6h",
       "rating": "4.8",
       "sales": 696,
       "shop": "Mdale Sports ",
@@ -6621,7 +6592,7 @@
         "shopName": "Mdale Sports ",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mqhm7xdslfy8a0",
         "productLink": "https://shopee.com.br/product/1765235104/58214016955",
-        "offerLink": "https://s.shopee.com.br/2qVLAJb42a"
+        "offerLink": "https://s.shopee.com.br/5q8xHWmP6h"
       },
       "_last_price": null
     },
@@ -9348,6 +9319,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259k-muaqftuyw2rm3a",
         "productLink": "https://shopee.com.br/product/1577690442/23198696676",
         "offerLink": "https://s.shopee.com.br/9fLf9DAp9u"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20299321793",
+      "name": "1/2/3 Suporte De Shampoo Preto Organizador Alta qualidade Prateleira De Banheiro Sem Furo Premium-Space Alumínio ES",
+      "price": 15.8,
+      "original_price": 35.11,
+      "discount": 55.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mrxudl0bhlvoe7",
+      "link": "https://s.shopee.com.br/9V2EwuTGOa",
+      "rating": "4.8",
+      "sales": 5290,
+      "shop": "ES Official Shop",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20299321793,
+        "productName": "1/2/3 Suporte De Shampoo Preto Organizador Alta qualidade Prateleira De Banheiro Sem Furo Premium-Space Alumínio ES",
+        "price": "15.8",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.13",
+        "sales": 5290,
+        "ratingStar": "4.8",
+        "shopName": "ES Official Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mrxudl0bhlvoe7",
+        "productLink": "https://shopee.com.br/product/988030305/20299321793",
+        "offerLink": "https://s.shopee.com.br/9V2EwuTGOa"
       },
       "_last_price": null
     },
@@ -13093,6 +13093,35 @@
       "_last_price": null
     },
     {
+      "id": "10763005356",
+      "name": "Whey Isoprotein Gold - Whey Protein Isolado e Concentrado 900g - Red Series",
+      "price": 49.9,
+      "original_price": 99.8,
+      "discount": 50.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/229d0ab8da6cd0a589a67f331aa78849",
+      "link": "https://s.shopee.com.br/5VW6sunfmb",
+      "rating": "4.8",
+      "sales": 722,
+      "shop": "LOJA RED SERIES",
+      "category": "whey protein",
+      "source": "shopee",
+      "_item": {
+        "itemId": 10763005356,
+        "productName": "Whey Isoprotein Gold - Whey Protein Isolado e Concentrado 900g - Red Series",
+        "price": "49.9",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 722,
+        "ratingStar": "4.8",
+        "shopName": "LOJA RED SERIES",
+        "imageUrl": "https://cf.shopee.com.br/file/229d0ab8da6cd0a589a67f331aa78849",
+        "productLink": "https://shopee.com.br/product/556197048/10763005356",
+        "offerLink": "https://s.shopee.com.br/5VW6sunfmb"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22392157748",
       "name": "Ração Fórmula Natural Pro Cães Sênior Porte Mini e Pequeno 10,1kg Adimax",
       "price": 149.5,
@@ -14139,8 +14168,8 @@
     {
       "id": "28642994952",
       "name": "KIT 2 Carretel Molinete Dc 7000/4000/2000 Pesca Pesada 10kg Grande 5.2:1 carretilha de pesca.",
-      "price": 93.8,
-      "original_price": 183.92,
+      "price": 94.0,
+      "original_price": 184.31,
       "discount": 49.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8262u-mld5a49ibgun9e",
@@ -14153,7 +14182,7 @@
       "_item": {
         "itemId": 28642994952,
         "productName": "KIT 2 Carretel Molinete Dc 7000/4000/2000 Pesca Pesada 10kg Grande 5.2:1 carretilha de pesca.",
-        "price": "93.8",
+        "price": "94",
         "priceDiscountRate": 49,
         "commissionRate": "0.08",
         "sales": 127,
@@ -18893,35 +18922,6 @@
       "_last_price": null
     },
     {
-      "id": "20299321793",
-      "name": "1/2/3 Suporte De Shampoo Preto Organizador Alta qualidade Prateleira De Banheiro Sem Furo Premium-Space Alumínio ES",
-      "price": 23.75,
-      "original_price": 40.25,
-      "discount": 41.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mrxudl0bhlvoe7",
-      "link": "https://s.shopee.com.br/9V2EwuTGOa",
-      "rating": "4.8",
-      "sales": 5290,
-      "shop": "ES Official Shop",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20299321793,
-        "productName": "1/2/3 Suporte De Shampoo Preto Organizador Alta qualidade Prateleira De Banheiro Sem Furo Premium-Space Alumínio ES",
-        "price": "23.75",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.13",
-        "sales": 5290,
-        "ratingStar": "4.8",
-        "shopName": "ES Official Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mrxudl0bhlvoe7",
-        "productLink": "https://shopee.com.br/product/988030305/20299321793",
-        "offerLink": "https://s.shopee.com.br/9V2EwuTGOa"
-      },
-      "_last_price": null
-    },
-    {
       "id": "21797672992",
       "name": "Kit Shampoo + Condicionador Salon Line Hidra Kids Cachinhos 300ml",
       "price": 15.98,
@@ -19092,35 +19092,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m810kgtacv0xf6",
         "productLink": "https://shopee.com.br/product/1409066838/22293684066",
         "offerLink": "https://s.shopee.com.br/5VW6Bdy4Uu"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "40163093948",
-      "name": "KIT 2 Vara De Pesca 60-120lbs Completa Com Carretel Esportivo Ao Ar Livre Portátil Sea Bass Joran Pancing~",
-      "price": 71.8,
-      "original_price": 121.69,
-      "discount": 41.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhjx8yv8pb0o32",
-      "link": "https://s.shopee.com.br/5VW4Y9AH6d",
-      "rating": "4.8",
-      "sales": 250,
-      "shop": "Loja Deepl",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40163093948,
-        "productName": "KIT 2 Vara De Pesca 60-120lbs Completa Com Carretel Esportivo Ao Ar Livre Portátil Sea Bass Joran Pancing~",
-        "price": "71.8",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.08",
-        "sales": 250,
-        "ratingStar": "4.8",
-        "shopName": "Loja Deepl",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhjx8yv8pb0o32",
-        "productLink": "https://shopee.com.br/product/1541645210/40163093948",
-        "offerLink": "https://s.shopee.com.br/5VW4Y9AH6d"
       },
       "_last_price": null
     },
@@ -19788,6 +19759,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkc1gjt1xc606",
         "productLink": "https://shopee.com.br/product/1362613415/42110429390",
         "offerLink": "https://s.shopee.com.br/8KqHYvpSRU"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "40163093948",
+      "name": "KIT 2 Vara De Pesca 60-120lbs Completa Com Carretel Esportivo Ao Ar Livre Portátil Sea Bass Joran Pancing~",
+      "price": 72.0,
+      "original_price": 120.0,
+      "discount": 40.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhjx8yv8pb0o32",
+      "link": "https://s.shopee.com.br/5VW4Y9AH6d",
+      "rating": "4.8",
+      "sales": 250,
+      "shop": "Loja Deepl",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 40163093948,
+        "productName": "KIT 2 Vara De Pesca 60-120lbs Completa Com Carretel Esportivo Ao Ar Livre Portátil Sea Bass Joran Pancing~",
+        "price": "72",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.08",
+        "sales": 250,
+        "ratingStar": "4.8",
+        "shopName": "Loja Deepl",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhjx8yv8pb0o32",
+        "productLink": "https://shopee.com.br/product/1541645210/40163093948",
+        "offerLink": "https://s.shopee.com.br/5VW4Y9AH6d"
       },
       "_last_price": null
     },
@@ -21180,35 +21180,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtyjwyx3xipu23",
         "productLink": "https://shopee.com.br/product/368557723/58210211974",
         "offerLink": "https://s.shopee.com.br/9APOYUuU3k"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22693835808",
-      "name": "Placa Captura De Vídeo 4k 1080p 60fps Full Hd Usb 3.0 Hdmi",
-      "price": 78.9,
-      "original_price": 125.24,
-      "discount": 37.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjra6ztninsy49",
-      "link": "https://s.shopee.com.br/7fabOk0Bbm",
-      "rating": "5",
-      "sales": 137,
-      "shop": "8X TECH LOJA OFICIAL",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22693835808,
-        "productName": "Placa Captura De Vídeo 4k 1080p 60fps Full Hd Usb 3.0 Hdmi",
-        "price": "78.9",
-        "priceDiscountRate": 37,
-        "commissionRate": "0.03",
-        "sales": 137,
-        "ratingStar": "5",
-        "shopName": "8X TECH LOJA OFICIAL",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjra6ztninsy49",
-        "productLink": "https://shopee.com.br/product/1478225841/22693835808",
-        "offerLink": "https://s.shopee.com.br/7fabOk0Bbm"
       },
       "_last_price": null
     },
@@ -22663,6 +22634,35 @@
       "_last_price": null
     },
     {
+      "id": "8020679826",
+      "name": "Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades",
+      "price": 112.99,
+      "original_price": 173.83,
+      "discount": 35.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc83lzgst4gw71",
+      "link": "https://s.shopee.com.br/9APOYNSNLr",
+      "rating": "4.9",
+      "sales": 12439,
+      "shop": "LOI BRASIL",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 8020679826,
+        "productName": "Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades",
+        "price": "112.99",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.06",
+        "sales": 12439,
+        "ratingStar": "4.9",
+        "shopName": "LOI BRASIL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc83lzgst4gw71",
+        "productLink": "https://shopee.com.br/product/359168917/8020679826",
+        "offerLink": "https://s.shopee.com.br/9APOYNSNLr"
+      },
+      "_last_price": null
+    },
+    {
       "id": "28535302263",
       "name": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente Teflon Varias Cores Cozimento Rapido",
       "price": 147.9,
@@ -23163,7 +23163,7 @@
       "discount": 34.0,
       "commission": 15.5,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkayzrj60w006a",
-      "link": "https://s.shopee.com.br/6fi3jMMTGS",
+      "link": "https://s.shopee.com.br/7AeKryhKP5",
       "rating": "4.9",
       "sales": 1094,
       "shop": "Body Nutry Suplementos",
@@ -23180,7 +23180,7 @@
         "shopName": "Body Nutry Suplementos",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkayzrj60w006a",
         "productLink": "https://shopee.com.br/product/1112267847/22197710101",
-        "offerLink": "https://s.shopee.com.br/6fi3jMMTGS"
+        "offerLink": "https://s.shopee.com.br/7AeKryhKP5"
       },
       "_last_price": null
     },
@@ -23268,35 +23268,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259z-mtpl4r9sw9hm36",
         "productLink": "https://shopee.com.br/product/1542724420/56018568715",
         "offerLink": "https://s.shopee.com.br/9fLf9I90iY"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "8020679826",
-      "name": "Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades",
-      "price": 112.99,
-      "original_price": 171.2,
-      "discount": 34.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc83lzgst4gw71",
-      "link": "https://s.shopee.com.br/9APOYNSNLr",
-      "rating": "4.9",
-      "sales": 12439,
-      "shop": "LOI BRASIL",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 8020679826,
-        "productName": "Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades",
-        "price": "112.99",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.06",
-        "sales": 12439,
-        "ratingStar": "4.9",
-        "shopName": "LOI BRASIL",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc83lzgst4gw71",
-        "productLink": "https://shopee.com.br/product/359168917/8020679826",
-        "offerLink": "https://s.shopee.com.br/9APOYNSNLr"
       },
       "_last_price": null
     },
@@ -24606,6 +24577,35 @@
       "_last_price": null
     },
     {
+      "id": "28957970918",
+      "name": "Seifininier Pesca Bobber Red 300pcs/Pack Rubber Stopper Oval Flutuador De Cilíndrico Transparente",
+      "price": 11.69,
+      "original_price": 17.19,
+      "discount": 32.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-81zuh-mn4h4pyllqtd06",
+      "link": "https://s.shopee.com.br/2qVL0po3wX",
+      "rating": "4.9",
+      "sales": 14,
+      "shop": "SFEINRER",
+      "category": "flutuador pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 28957970918,
+        "productName": "Seifininier Pesca Bobber Red 300pcs/Pack Rubber Stopper Oval Flutuador De Cilíndrico Transparente",
+        "price": "11.69",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.03",
+        "sales": 14,
+        "ratingStar": "4.9",
+        "shopName": "SFEINRER",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zuh-mn4h4pyllqtd06",
+        "productLink": "https://shopee.com.br/product/1228959663/28957970918",
+        "offerLink": "https://s.shopee.com.br/2qVL0po3wX"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58216188927",
       "name": "Pasta Térmica Prata Gd900 -  4,8W/MK Original - Computadores Videogame Placas de vídeo Notebooks Console",
       "price": 10.99,
@@ -25066,35 +25066,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg5hzaw76nlsbb",
         "productLink": "https://shopee.com.br/product/1160211743/23294557627",
         "offerLink": "https://s.shopee.com.br/AKbLwbhqO4"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "28957970918",
-      "name": "Seifininier Pesca Bobber Red 300pcs/Pack Rubber Stopper Oval Flutuador De Cilíndrico Transparente",
-      "price": 11.99,
-      "original_price": 17.38,
-      "discount": 31.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-81zuh-mn4h4pyllqtd06",
-      "link": "https://s.shopee.com.br/2qVL0po3wX",
-      "rating": "4.9",
-      "sales": 14,
-      "shop": "SFEINRER",
-      "category": "flutuador pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 28957970918,
-        "productName": "Seifininier Pesca Bobber Red 300pcs/Pack Rubber Stopper Oval Flutuador De Cilíndrico Transparente",
-        "price": "11.99",
-        "priceDiscountRate": 31,
-        "commissionRate": "0.03",
-        "sales": 14,
-        "ratingStar": "4.9",
-        "shopName": "SFEINRER",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zuh-mn4h4pyllqtd06",
-        "productLink": "https://shopee.com.br/product/1228959663/28957970918",
-        "offerLink": "https://s.shopee.com.br/2qVL0po3wX"
       },
       "_last_price": null
     },
@@ -25588,6 +25559,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mr05mibprk79fe",
         "productLink": "https://shopee.com.br/product/1860387549/58264829168",
         "offerLink": "https://s.shopee.com.br/1BN71dtNPF"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23398569018",
+      "name": "Ração Golden Special Gatos Adultos Frango e Carne 10,1kg",
+      "price": 139.9,
+      "original_price": 199.86,
+      "discount": 30.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqefp5ee",
+      "link": "https://s.shopee.com.br/5VW5vSgrC4",
+      "rating": "5",
+      "sales": 1129,
+      "shop": "SPN MARKET",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23398569018,
+        "productName": "Ração Golden Special Gatos Adultos Frango e Carne 10,1kg",
+        "price": "139.9",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.03",
+        "sales": 1129,
+        "ratingStar": "5",
+        "shopName": "SPN MARKET",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqefp5ee",
+        "productLink": "https://shopee.com.br/product/1501485889/23398569018",
+        "offerLink": "https://s.shopee.com.br/5VW5vSgrC4"
       },
       "_last_price": null
     },
@@ -28673,7 +28673,7 @@
       "discount": 23.0,
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mpfspse0cphf1a",
-      "link": "https://s.shopee.com.br/30olMcaQhf",
+      "link": "https://s.shopee.com.br/6L5DsRkV5q",
       "rating": "5",
       "sales": 885,
       "shop": "Hard Extreme",
@@ -28690,7 +28690,7 @@
         "shopName": "Hard Extreme",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mpfspse0cphf1a",
         "productLink": "https://shopee.com.br/product/338537405/8658711360",
-        "offerLink": "https://s.shopee.com.br/30olMcaQhf"
+        "offerLink": "https://s.shopee.com.br/6L5DsRkV5q"
       },
       "_last_price": null
     },
@@ -28963,7 +28963,7 @@
       "discount": 22.0,
       "commission": 24.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj4ayj8rseme88",
-      "link": "https://s.shopee.com.br/3qNsM9XG0s",
+      "link": "https://s.shopee.com.br/6q1UTMib4z",
       "rating": "4.9",
       "sales": 928,
       "shop": "Dark Lab Oficial",
@@ -28980,7 +28980,7 @@
         "shopName": "Dark Lab Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj4ayj8rseme88",
         "productLink": "https://shopee.com.br/product/1242044379/22097495429",
-        "offerLink": "https://s.shopee.com.br/3qNsM9XG0s"
+        "offerLink": "https://s.shopee.com.br/6q1UTMib4z"
       },
       "_last_price": null
     },
@@ -29427,7 +29427,7 @@
       "discount": 21.0,
       "commission": 24.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mseh828jw1s5ff",
-      "link": "https://s.shopee.com.br/3g4S9qXtLr",
+      "link": "https://s.shopee.com.br/70Kuffhxk2",
       "rating": "4.9",
       "sales": 1095,
       "shop": "Dark Lab Oficial",
@@ -29444,7 +29444,7 @@
         "shopName": "Dark Lab Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mseh828jw1s5ff",
         "productLink": "https://shopee.com.br/product/1242044379/19697676006",
-        "offerLink": "https://s.shopee.com.br/3g4S9qXtLr"
+        "offerLink": "https://s.shopee.com.br/70Kuffhxk2"
       },
       "_last_price": null
     },
@@ -30964,7 +30964,7 @@
       "discount": 18.0,
       "commission": 18.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcau46lb0eej3e",
-      "link": "https://s.shopee.com.br/2gBuy0bhNZ",
+      "link": "https://s.shopee.com.br/60SNTplllk",
       "rating": "4.9",
       "sales": 665,
       "shop": "Soldiers Nutrition",
@@ -30981,7 +30981,7 @@
         "shopName": "Soldiers Nutrition",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcau46lb0eej3e",
         "productLink": "https://shopee.com.br/product/347988064/7278628761",
-        "offerLink": "https://s.shopee.com.br/2gBuy0bhNZ"
+        "offerLink": "https://s.shopee.com.br/60SNTplllk"
       },
       "_last_price": null
     },
@@ -31747,8 +31747,8 @@
       "discount": 16.0,
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mozu0cnbzz7q3f",
-      "link": "https://s.shopee.com.br/3LRblEZA1l",
-      "rating": "4.9",
+      "link": "https://s.shopee.com.br/6fi4H3jEPw",
+      "rating": "5",
       "sales": 945,
       "shop": "Suplementos Mobile",
       "category": "whey protein",
@@ -31760,40 +31760,11 @@
         "priceDiscountRate": 16,
         "commissionRate": "0.1",
         "sales": 945,
-        "ratingStar": "4.9",
+        "ratingStar": "5",
         "shopName": "Suplementos Mobile",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mozu0cnbzz7q3f",
         "productLink": "https://shopee.com.br/product/904040298/58211837467",
-        "offerLink": "https://s.shopee.com.br/3LRblEZA1l"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "40665052676",
-      "name": "Ração Úmida Sachê Golden Gourmet  Gatos Castrados Frango 70g",
-      "price": 2.89,
-      "original_price": 3.44,
-      "discount": 16.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7reoi-mdupafzb0dgz41",
-      "link": "https://s.shopee.com.br/113gpLT0GL",
-      "rating": "4.9",
-      "sales": 976,
-      "shop": "Popular Pet",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40665052676,
-        "productName": "Ração Úmida Sachê Golden Gourmet  Gatos Castrados Frango 70g",
-        "price": "2.89",
-        "priceDiscountRate": 16,
-        "commissionRate": "0.03",
-        "sales": 976,
-        "ratingStar": "4.9",
-        "shopName": "Popular Pet",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reoi-mdupafzb0dgz41",
-        "productLink": "https://shopee.com.br/product/398944029/40665052676",
-        "offerLink": "https://s.shopee.com.br/113gpLT0GL"
+        "offerLink": "https://s.shopee.com.br/6fi4H3jEPw"
       },
       "_last_price": null
     },
@@ -31852,6 +31823,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwm-md1bidizh43k90",
         "productLink": "https://shopee.com.br/product/885595445/23997651063",
         "offerLink": "https://s.shopee.com.br/qkGcubKzG"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "25645909731",
+      "name": "Placa de Video GeForce NVIDIA MSI  RTX5060TI 8g Shadow 2x Oc Plus 8gb Gddr7 128 Bits - 912-V536-023",
+      "price": 3499.0,
+      "original_price": 4116.47,
+      "discount": 15.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mc27rkvpzra0f9",
+      "link": "https://s.shopee.com.br/4qGM4RXXpn",
+      "rating": "5",
+      "sales": 28,
+      "shop": "TNTinfoLoja",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 25645909731,
+        "productName": "Placa de Video GeForce NVIDIA MSI  RTX5060TI 8g Shadow 2x Oc Plus 8gb Gddr7 128 Bits - 912-V536-023",
+        "price": "3499",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.03",
+        "sales": 28,
+        "ratingStar": "5",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mc27rkvpzra0f9",
+        "productLink": "https://shopee.com.br/product/344381236/25645909731",
+        "offerLink": "https://s.shopee.com.br/4qGM4RXXpn"
       },
       "_last_price": null
     },
