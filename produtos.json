@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T16:39:54.486371+00:00",
-  "total": 1113,
+  "updated_at": "2026-10-16T16:59:23.177657+00:00",
+  "total": 1114,
   "products": [
     {
       "id": "58210104632",
@@ -2224,7 +2224,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mnz5ipg57t3539",
         "productLink": "https://shopee.com.br/product/1634545368/23398908978",
         "offerLink": "https://s.shopee.com.br/1BAu1FXKL"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "9212570285",
@@ -2919,6 +2920,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfgj-m9amfdsd1v53e7",
         "productLink": "https://shopee.com.br/product/410705973/20299250309",
         "offerLink": "https://s.shopee.com.br/2VsVOg3KEl"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20197677108",
+      "name": "Monitor digital de pressão arterial de braço totalmente automático",
+      "price": 36.21,
+      "original_price": 120.7,
+      "discount": 70.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m9amh0ddee9sc4",
+      "link": "https://s.shopee.com.br/3qNsz7yFX9",
+      "rating": "4.8",
+      "sales": 2782,
+      "shop": "Ming.store",
+      "category": "monitor",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20197677108,
+        "productName": "Monitor digital de pressão arterial de braço totalmente automático",
+        "price": "36.21",
+        "priceDiscountRate": 70,
+        "commissionRate": "0.03",
+        "sales": 2782,
+        "ratingStar": "4.8",
+        "shopName": "Ming.store",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m9amh0ddee9sc4",
+        "productLink": "https://shopee.com.br/product/526625785/20197677108",
+        "offerLink": "https://s.shopee.com.br/3qNsz7yFX9"
       },
       "_last_price": null
     },
@@ -3932,35 +3962,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maqajn6xwn7z9d",
         "productLink": "https://shopee.com.br/product/1059934694/21198202231",
         "offerLink": "https://s.shopee.com.br/1BCWvZwo0"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58254725502",
-      "name": "Termômetro Digital Infravermelho De Testa Sem Contato Médico LCD Febre Medição Do Bebê/Adulto TWC-01",
-      "price": 19.99,
-      "original_price": 60.58,
-      "discount": 67.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8260j-mkcrvpsxe32a3a",
-      "link": "https://s.shopee.com.br/gQrDJAIxE",
-      "rating": "4.8",
-      "sales": 4358,
-      "shop": "GALERIA TOP01",
-      "category": "monitor",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58254725502,
-        "productName": "Termômetro Digital Infravermelho De Testa Sem Contato Médico LCD Febre Medição Do Bebê/Adulto TWC-01",
-        "price": "19.99",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.03",
-        "sales": 4358,
-        "ratingStar": "4.8",
-        "shopName": "GALERIA TOP01",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260j-mkcrvpsxe32a3a",
-        "productLink": "https://shopee.com.br/product/1691112742/58254725502",
-        "offerLink": "https://s.shopee.com.br/gQrDJAIxE"
       },
       "_last_price": null
     },
@@ -10792,8 +10793,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mr34qby1hgr0c0",
         "productLink": "https://shopee.com.br/product/1443730896/23199659542",
         "offerLink": "https://s.shopee.com.br/qkHtiLWYs"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58259066940",
@@ -24193,6 +24193,35 @@
       "_last_price": null
     },
     {
+      "id": "22202389512",
+      "name": "Caixa 18un Ração Úmida Granplus Sache Gato Adulto Atum 85g",
+      "price": 49.9,
+      "original_price": 73.38,
+      "discount": 32.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1plzu4dymmgae",
+      "link": "https://s.shopee.com.br/Lo0oo05HY",
+      "rating": "5",
+      "sales": 725,
+      "shop": "Popular Pet",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22202389512,
+        "productName": "Caixa 18un Ração Úmida Granplus Sache Gato Adulto Atum 85g",
+        "price": "49.9",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.03",
+        "sales": 725,
+        "ratingStar": "5",
+        "shopName": "Popular Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1plzu4dymmgae",
+        "productLink": "https://shopee.com.br/product/398944029/22202389512",
+        "offerLink": "https://s.shopee.com.br/Lo0oo05HY"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23598835042",
       "name": "Racao Quatree Life Gatos Castrados Sabor Salmao e Arroz 10kg-Envio Rapido",
       "price": 143.0,
@@ -24687,12 +24716,12 @@
     },
     {
       "id": "10764754425",
-      "name": "Liquidificador 3 velocidades 550W Turbo Power - L-99-FR - Mondial",
+      "name": "Liquidificador 3 velocidades 550W Power Turbo Power - L-99-FR - Mondial",
       "price": 121.42,
       "original_price": 175.97,
       "discount": 31.0,
       "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259c-msy6g1bhh6h5db",
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8258u-mudribwj1wxz7a",
       "link": "https://s.shopee.com.br/2VsVOoDIJd",
       "rating": "4.9",
       "sales": 971,
@@ -24701,14 +24730,14 @@
       "source": "shopee",
       "_item": {
         "itemId": 10764754425,
-        "productName": "Liquidificador 3 velocidades 550W Turbo Power - L-99-FR - Mondial",
+        "productName": "Liquidificador 3 velocidades 550W Power Turbo Power - L-99-FR - Mondial",
         "price": "121.42",
         "priceDiscountRate": 31,
         "commissionRate": "0.03",
         "sales": 971,
         "ratingStar": "4.9",
         "shopName": "Dutra Máquinas",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259c-msy6g1bhh6h5db",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258u-mudribwj1wxz7a",
         "productLink": "https://shopee.com.br/product/489001115/10764754425",
         "offerLink": "https://s.shopee.com.br/2VsVOoDIJd"
       },
@@ -29007,35 +29036,6 @@
       "_last_price": null
     },
     {
-      "id": "58200706266",
-      "name": "Ração Gato Adulto 10.1KG Quatree Gourmet Sabor Mix de Carnes",
-      "price": 125.0,
-      "original_price": 160.26,
-      "discount": 22.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820le-moe0xgelx4w37c",
-      "link": "https://s.shopee.com.br/9pf6hT6NSv",
-      "rating": "4.9",
-      "sales": 763,
-      "shop": "animalzecommerce",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58200706266,
-        "productName": "Ração Gato Adulto 10.1KG Quatree Gourmet Sabor Mix de Carnes",
-        "price": "125",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.03",
-        "sales": 763,
-        "ratingStar": "4.9",
-        "shopName": "animalzecommerce",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-moe0xgelx4w37c",
-        "productLink": "https://shopee.com.br/product/1509105042/58200706266",
-        "offerLink": "https://s.shopee.com.br/9pf6hT6NSv"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22798180508",
       "name": "Tênis Sapatênis Casual Feminino Lançamento Detalhe Coração Moda Básico",
       "price": 27.2,
@@ -31729,6 +31729,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekctgxrndogf4",
         "productLink": "https://shopee.com.br/product/446413605/23593572198",
         "offerLink": "https://s.shopee.com.br/2VsVsc61Fm"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "26565842194",
+      "name": "8 Peças Porca De Haltere , Haste Coleiras Para Barras De Halteres , Acessórios Esportivos De Treinamento",
+      "price": 24.56,
+      "original_price": 28.89,
+      "discount": 15.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rene-m1x6eixhhmpwaa",
+      "link": "https://s.shopee.com.br/4B0jNpuh6l",
+      "rating": "4.9",
+      "sales": 9,
+      "shop": "hukou33.br",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 26565842194,
+        "productName": "8 Peças Porca De Haltere , Haste Coleiras Para Barras De Halteres , Acessórios Esportivos De Treinamento",
+        "price": "24.56",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.09",
+        "sales": 9,
+        "ratingStar": "4.9",
+        "shopName": "hukou33.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rene-m1x6eixhhmpwaa",
+        "productLink": "https://shopee.com.br/product/207148383/26565842194",
+        "offerLink": "https://s.shopee.com.br/4B0jNpuh6l"
       },
       "_last_price": null
     },
