@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T22:32:28.225064+00:00",
-  "total": 1112,
+  "updated_at": "2026-10-16T22:52:01.117253+00:00",
+  "total": 1114,
   "products": [
     {
       "id": "58210104632",
@@ -1162,7 +1162,7 @@
       "commission": 17.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820le-mo5m3lm7da841f",
       "link": "https://s.shopee.com.br/7VHBLwI4wr",
-      "rating": "4.2",
+      "rating": "4.3",
       "sales": 3311,
       "shop": "Nobre.Essências",
       "category": "perfume",
@@ -1174,7 +1174,7 @@
         "priceDiscountRate": 77,
         "commissionRate": "0.17",
         "sales": 3311,
-        "ratingStar": "4.2",
+        "ratingStar": "4.3",
         "shopName": "Nobre.Essências",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mo5m3lm7da841f",
         "productLink": "https://shopee.com.br/product/1654851165/58210532717",
@@ -6451,8 +6451,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-muajk6cx09ac8d",
         "productLink": "https://shopee.com.br/product/1410139466/29593910226",
         "offerLink": "https://s.shopee.com.br/8AWs9I3RPu"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "49817731610",
@@ -10712,7 +10711,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259f-mr34qby1hgr0c0",
         "productLink": "https://shopee.com.br/product/1443730896/23199659542",
         "offerLink": "https://s.shopee.com.br/qkHtiLWYs"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58259066940",
@@ -15936,8 +15936,8 @@
     {
       "id": "22998482488",
       "name": "Kit 15 Unidades de Sachês Friskies Original para Gatos Adultos Ração Úmida 85g - Escolha o Sabor",
-      "price": 34.0,
-      "original_price": 62.96,
+      "price": 41.49,
+      "original_price": 76.83,
       "discount": 46.0,
       "commission": 6.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mtzp049rfh8j75",
@@ -15950,7 +15950,7 @@
       "_item": {
         "itemId": 22998482488,
         "productName": "Kit 15 Unidades de Sachês Friskies Original para Gatos Adultos Ração Úmida 85g - Escolha o Sabor",
-        "price": "34",
+        "price": "41.49",
         "priceDiscountRate": 46,
         "commissionRate": "0.06",
         "sales": 3449,
@@ -17618,8 +17618,8 @@
     {
       "id": "23694320738",
       "name": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-      "price": 50.99,
-      "original_price": 89.46,
+      "price": 59.99,
+      "original_price": 105.25,
       "discount": 43.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
@@ -17632,7 +17632,7 @@
       "_item": {
         "itemId": 23694320738,
         "productName": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-        "price": "50.99",
+        "price": "59.99",
         "priceDiscountRate": 43,
         "commissionRate": "0.03",
         "sales": 1288,
@@ -18743,6 +18743,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mqeqor4n38cgdb",
         "productLink": "https://shopee.com.br/product/627750190/23897962057",
         "offerLink": "https://s.shopee.com.br/7pu1kUrPwZ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23593130581",
+      "name": "FONTE ATX 24 PINOS APARTIR DE 200 W PADRÃO - LEIA A DESCRIÇÃO",
+      "price": 34.9,
+      "original_price": 59.15,
+      "discount": 41.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mra5i3qbyrrbf5",
+      "link": "https://s.shopee.com.br/113hbwHQoc",
+      "rating": "4.5",
+      "sales": 41,
+      "shop": "info.monkey",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23593130581,
+        "productName": "FONTE ATX 24 PINOS APARTIR DE 200 W PADRÃO - LEIA A DESCRIÇÃO",
+        "price": "34.9",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.09",
+        "sales": 41,
+        "ratingStar": "4.5",
+        "shopName": "info.monkey",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mra5i3qbyrrbf5",
+        "productLink": "https://shopee.com.br/product/399801749/23593130581",
+        "offerLink": "https://s.shopee.com.br/113hbwHQoc"
       },
       "_last_price": null
     },
@@ -20197,6 +20226,35 @@
       "_last_price": null
     },
     {
+      "id": "23594417268",
+      "name": "Porta Maquiagem Organizador De Cosméticos Perfume Prateleira Multiuso 3 Andares",
+      "price": 29.89,
+      "original_price": 49.0,
+      "discount": 39.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824jk-meszhgy8nshz38",
+      "link": "https://s.shopee.com.br/5AtIuLjuSH",
+      "rating": "5",
+      "sales": 2581,
+      "shop": "Ipanda_Informatica",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23594417268,
+        "productName": "Porta Maquiagem Organizador De Cosméticos Perfume Prateleira Multiuso 3 Andares",
+        "price": "29.89",
+        "priceDiscountRate": 39,
+        "commissionRate": "0.03",
+        "sales": 2581,
+        "ratingStar": "5",
+        "shopName": "Ipanda_Informatica",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824jk-meszhgy8nshz38",
+        "productLink": "https://shopee.com.br/product/962993085/23594417268",
+        "offerLink": "https://s.shopee.com.br/5AtIuLjuSH"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23094680434",
       "name": "TENIS FEMININO CASUAL PLATAFORMA  ESTILOSO NA PROMOÇÃO",
       "price": 48.8,
@@ -20599,35 +20657,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mm0ga7dwj4zo9f",
         "productLink": "https://shopee.com.br/product/1295467768/22094238842",
         "offerLink": "https://s.shopee.com.br/6q1UYiKcIn"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23498913995",
-      "name": "Porta Maquiagem Organizador De Cosméticos Perfume Prateleira Multiuso 3 Andares",
-      "price": 29.76,
-      "original_price": 48.0,
-      "discount": 38.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259t-mg8ewakhp5ak3a",
-      "link": "https://s.shopee.com.br/8KqILTEuGU",
-      "rating": "5",
-      "sales": 2316,
-      "shop": "Magnifico BO",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498913995,
-        "productName": "Porta Maquiagem Organizador De Cosméticos Perfume Prateleira Multiuso 3 Andares",
-        "price": "29.76",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.03",
-        "sales": 2316,
-        "ratingStar": "5",
-        "shopName": "Magnifico BO",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259t-mg8ewakhp5ak3a",
-        "productLink": "https://shopee.com.br/product/422903254/23498913995",
-        "offerLink": "https://s.shopee.com.br/8KqILTEuGU"
       },
       "_last_price": null
     },
@@ -29473,6 +29502,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258f-msql22msj7d2e7",
         "productLink": "https://shopee.com.br/product/302326977/55667464609",
         "offerLink": "https://s.shopee.com.br/1BAQ5CqJA"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "48018885021",
+      "name": "SSD M.2 NVMe 1TB Kingston NV3 SNV3S/1000G",
+      "price": 1075.9,
+      "original_price": 1344.88,
+      "discount": 20.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82599-mu0w4w2xz40015",
+      "link": "https://s.shopee.com.br/7VHBsMxcds",
+      "rating": "5",
+      "sales": 11,
+      "shop": "TNTinfoLoja",
+      "category": "ssd nvme",
+      "source": "shopee",
+      "_item": {
+        "itemId": 48018885021,
+        "productName": "SSD M.2 NVMe 1TB Kingston NV3 SNV3S/1000G",
+        "price": "1075.9",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.03",
+        "sales": 11,
+        "ratingStar": "5",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82599-mu0w4w2xz40015",
+        "productLink": "https://shopee.com.br/product/344381236/48018885021",
+        "offerLink": "https://s.shopee.com.br/7VHBsMxcds"
       },
       "_last_price": null
     },
