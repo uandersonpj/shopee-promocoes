@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T02:09:57.196311+00:00",
-  "total": 1126,
+  "updated_at": "2026-10-16T02:29:20.553505+00:00",
+  "total": 1127,
   "products": [
     {
       "id": "58210104632",
@@ -287,7 +287,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134275-7rdxw-mdfucal40l6y57",
         "productLink": "https://shopee.com.br/product/236693678/26539956454",
         "offerLink": "https://s.shopee.com.br/20wEnwnFfg"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "55508691646",
@@ -602,8 +603,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
         "productLink": "https://shopee.com.br/product/1266325318/21897981294",
         "offerLink": "https://s.shopee.com.br/5VW6yGPh0f"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22794275506",
@@ -2335,6 +2335,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mu3oipukh1xf00",
         "productLink": "https://shopee.com.br/product/405000440/23192646152",
         "offerLink": "https://s.shopee.com.br/4B0jNvwX7s"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23798319408",
+      "name": "HUAWEI WiFi AX3S | Roteador | Wi-Fi 6+, 3000Mbps |  Easymesh |  HiConfig Preset | Preto",
+      "price": 175.0,
+      "original_price": 603.45,
+      "discount": 71.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma3wxbeu4kl52a",
+      "link": "https://s.shopee.com.br/8V9iXhy9U8",
+      "rating": "4.9",
+      "sales": 381,
+      "shop": "HUAWEI Loja Oficial",
+      "category": "roteador wifi",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23798319408,
+        "productName": "HUAWEI WiFi AX3S | Roteador | Wi-Fi 6+, 3000Mbps |  Easymesh |  HiConfig Preset | Preto",
+        "price": "175",
+        "priceDiscountRate": 71,
+        "commissionRate": "0.03",
+        "sales": 381,
+        "ratingStar": "4.9",
+        "shopName": "HUAWEI Loja Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma3wxbeu4kl52a",
+        "productLink": "https://shopee.com.br/product/1494995608/23798319408",
+        "offerLink": "https://s.shopee.com.br/8V9iXhy9U8"
       },
       "_last_price": null
     },
@@ -11614,6 +11643,35 @@
       "_last_price": null
     },
     {
+      "id": "22099456041",
+      "name": "Kit 11 Peça Elástico de Resistência Musculação Crossfit Academia em Casa Treino Completo Pilates Yoga",
+      "price": 25.99,
+      "original_price": 54.15,
+      "discount": 52.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-81zw7-mmrhln0n5g5h36",
+      "link": "https://s.shopee.com.br/20wGLfInmy",
+      "rating": "4.8",
+      "sales": 238,
+      "shop": "J & Y Store",
+      "category": "elastico musculacao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22099456041,
+        "productName": "Kit 11 Peça Elástico de Resistência Musculação Crossfit Academia em Casa Treino Completo Pilates Yoga",
+        "price": "25.99",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.03",
+        "sales": 238,
+        "ratingStar": "4.8",
+        "shopName": "J & Y Store",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zw7-mmrhln0n5g5h36",
+        "productLink": "https://shopee.com.br/product/734783929/22099456041",
+        "offerLink": "https://s.shopee.com.br/20wGLfInmy"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23798906276",
       "name": "Ração Cachorro Pingo Original Cães Adultos 15kg Sem Corantes 18% Proteína",
       "price": 61.99,
@@ -15239,35 +15297,6 @@
       "_last_price": null
     },
     {
-      "id": "27231768018",
-      "name": "Cafeteira Elétrica Electrolux Ecm10 15 Xícaras 600w Grafite 110V",
-      "price": 117.79,
-      "original_price": 222.25,
-      "discount": 47.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7repc-m83ssyedawlt1e",
-      "link": "https://s.shopee.com.br/4fwzymnRmU",
-      "rating": "4.9",
-      "sales": 885,
-      "shop": "123 Comprou!",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 27231768018,
-        "productName": "Cafeteira Elétrica Electrolux Ecm10 15 Xícaras 600w Grafite 110V",
-        "price": "117.79",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.03",
-        "sales": 885,
-        "ratingStar": "4.9",
-        "shopName": "123 Comprou!",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repc-m83ssyedawlt1e",
-        "productLink": "https://shopee.com.br/product/564780452/27231768018",
-        "offerLink": "https://s.shopee.com.br/4fwzymnRmU"
-      },
-      "_last_price": null
-    },
-    {
       "id": "10908191710",
       "name": "Mochila Bolsa Masculina Impermeável Reforçada Promoção Cor Preta",
       "price": 35.0,
@@ -18429,35 +18458,6 @@
       "_last_price": null
     },
     {
-      "id": "58263982347",
-      "name": "Suporte Roteador modem WiFi Universal Parede Sem Furo com Fita Auto adesivo Organizador cabos internet",
-      "price": 11.0,
-      "original_price": 18.97,
-      "discount": 42.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mqgjdbnk5af6fb",
-      "link": "https://s.shopee.com.br/2VsWSojQqU",
-      "rating": "4.8",
-      "sales": 154,
-      "shop": "Althis Store",
-      "category": "roteador wifi",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58263982347,
-        "productName": "Suporte Roteador modem WiFi Universal Parede Sem Furo com Fita Auto adesivo Organizador cabos internet",
-        "price": "11",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.13",
-        "sales": 154,
-        "ratingStar": "4.8",
-        "shopName": "Althis Store",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mqgjdbnk5af6fb",
-        "productLink": "https://shopee.com.br/product/406895004/58263982347",
-        "offerLink": "https://s.shopee.com.br/2VsWSojQqU"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23894091776",
       "name": "Teclado Gamer Mecânico 60% Switch Azul Profissional Cabo Removível USB Portugues ABNT2 Branco",
       "price": 115.9,
@@ -19618,6 +19618,35 @@
       "_last_price": null
     },
     {
+      "id": "58217398209",
+      "name": "Bule De Inox Para Café Cha 280/420/550ml Cafeteira Portátil",
+      "price": 22.99,
+      "original_price": 38.32,
+      "discount": 40.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825am-msmhq1hx9l3dd9",
+      "link": "https://s.shopee.com.br/3LRcOKsWUM",
+      "rating": "4.6",
+      "sales": 619,
+      "shop": "‌Vida Lenta",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58217398209,
+        "productName": "Bule De Inox Para Café Cha 280/420/550ml Cafeteira Portátil",
+        "price": "22.99",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.08",
+        "sales": 619,
+        "ratingStar": "4.6",
+        "shopName": "‌Vida Lenta",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825am-msmhq1hx9l3dd9",
+        "productLink": "https://shopee.com.br/product/1413559057/58217398209",
+        "offerLink": "https://s.shopee.com.br/3LRcOKsWUM"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20498962219",
       "name": "Extrator de Sucos Turbo Premium Mondial Preto e Inox 250W E-10",
       "price": 174.0,
@@ -19649,8 +19678,8 @@
     {
       "id": "58255168911",
       "name": "Bolsa Feminina Sacola Grande de Ombro em Couro com Espaço Amplo + Chaveiro Pompom",
-      "price": 44.89,
-      "original_price": 74.82,
+      "price": 44.99,
+      "original_price": 74.98,
       "discount": 40.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mqqimvptk3k1e2",
@@ -19663,7 +19692,7 @@
       "_item": {
         "itemId": 58255168911,
         "productName": "Bolsa Feminina Sacola Grande de Ombro em Couro com Espaço Amplo + Chaveiro Pompom",
-        "price": "44.89",
+        "price": "44.99",
         "priceDiscountRate": 40,
         "commissionRate": "0.03",
         "sales": 2804,
