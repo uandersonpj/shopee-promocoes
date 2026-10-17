@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T02:26:25.542989+00:00",
+  "updated_at": "2026-10-17T02:45:40.837526+00:00",
   "total": 1116,
   "products": [
     {
@@ -1060,7 +1060,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mu0tycy1648x73",
         "productLink": "https://shopee.com.br/product/1298416721/23399029450",
         "offerLink": "https://s.shopee.com.br/7pu1kfiZgH"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "29293277544",
@@ -3638,8 +3639,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aa-mrq51qyfme4g84",
         "productLink": "https://shopee.com.br/product/344381236/45465789471",
         "offerLink": "https://s.shopee.com.br/7Kxmk2DbTJ"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23398892792",
@@ -24809,35 +24809,6 @@
       "_last_price": null
     },
     {
-      "id": "22493792409",
-      "name": "Vara De Pesca Para Carretilha Nizzo C562 1,68m 2 Partes - Maruri",
-      "price": 134.9,
-      "original_price": 195.51,
-      "discount": 31.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvk-lygysut5aenr20",
-      "link": "https://s.shopee.com.br/1BN9SjoU9X",
-      "rating": "4.8",
-      "sales": 56,
-      "shop": "Tubarão Max",
-      "category": "carretilha pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22493792409,
-        "productName": "Vara De Pesca Para Carretilha Nizzo C562 1,68m 2 Partes - Maruri",
-        "price": "134.9",
-        "priceDiscountRate": 31,
-        "commissionRate": "0.03",
-        "sales": 56,
-        "ratingStar": "4.8",
-        "shopName": "Tubarão Max",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvk-lygysut5aenr20",
-        "productLink": "https://shopee.com.br/product/1314243679/22493792409",
-        "offerLink": "https://s.shopee.com.br/1BN9SjoU9X"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58209513764",
       "name": "KIT COM 03 VARA TELESCOPICAS REDFOX NEW FUJIAMA 65% CARBONO",
       "price": 50.99,
@@ -26690,6 +26661,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mpm7r3ontt6p0d",
         "productLink": "https://shopee.com.br/product/657277858/58202719586",
         "offerLink": "https://s.shopee.com.br/5LCgm1KAuM"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22493792409",
+      "name": "Vara De Pesca Para Carretilha Nizzo C562 1,68m 2 Partes - Maruri",
+      "price": 144.9,
+      "original_price": 201.25,
+      "discount": 28.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvk-lygysut5aenr20",
+      "link": "https://s.shopee.com.br/1BN9SjoU9X",
+      "rating": "4.8",
+      "sales": 56,
+      "shop": "Tubarão Max",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22493792409,
+        "productName": "Vara De Pesca Para Carretilha Nizzo C562 1,68m 2 Partes - Maruri",
+        "price": "144.9",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.03",
+        "sales": 56,
+        "ratingStar": "4.8",
+        "shopName": "Tubarão Max",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvk-lygysut5aenr20",
+        "productLink": "https://shopee.com.br/product/1314243679/22493792409",
+        "offerLink": "https://s.shopee.com.br/1BN9SjoU9X"
       },
       "_last_price": null
     },
