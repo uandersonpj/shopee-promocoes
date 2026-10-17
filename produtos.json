@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T05:16:12.941055+00:00",
-  "total": 1125,
+  "updated_at": "2026-10-17T05:34:56.281980+00:00",
+  "total": 1123,
   "products": [
     {
       "id": "58210104632",
@@ -863,7 +863,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mt38wyvxh81x6a",
         "productLink": "https://shopee.com.br/product/1345043704/22497773735",
         "offerLink": "https://s.shopee.com.br/6VOeAAorUt"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "25391678999",
@@ -11157,35 +11158,6 @@
       "_last_price": null
     },
     {
-      "id": "19697676039",
-      "name": "Creatina Monohidratada 100% Pura 120 Cápsulas Dark Lab - Creatina Pura em Cápsula",
-      "price": 32.9,
-      "original_price": 70.0,
-      "discount": 53.0,
-      "commission": 23.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzavsad6ppjp65",
-      "link": "https://s.shopee.com.br/6q1WfaXq5C",
-      "rating": "5",
-      "sales": 1173,
-      "shop": "Dark Lab Oficial",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19697676039,
-        "productName": "Creatina Monohidratada 100% Pura 120 Cápsulas Dark Lab - Creatina Pura em Cápsula",
-        "price": "32.9",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.23",
-        "sales": 1173,
-        "ratingStar": "5",
-        "shopName": "Dark Lab Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzavsad6ppjp65",
-        "productLink": "https://shopee.com.br/product/1242044379/19697676039",
-        "offerLink": "https://s.shopee.com.br/6q1WfaXq5C"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58260822885",
       "name": "Kit 16 Itens Treino Em Casa Completo Elásticos Extensores + 5 Mini Bands Fitness Musculação Exercícios Yoga Fisioterapia",
       "price": 13.99,
@@ -20321,6 +20293,35 @@
       "_last_price": null
     },
     {
+      "id": "10869646245",
+      "name": "Ração Úmida Sachê GranPlus Gourmet Gatos Adultos Atum 85g",
+      "price": 2.62,
+      "original_price": 4.3,
+      "discount": 39.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134201-23010-es46z9kzafmv7d",
+      "link": "https://s.shopee.com.br/50ZqNNiJoG",
+      "rating": "4.9",
+      "sales": 1814,
+      "shop": "Popular Pet",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 10869646245,
+        "productName": "Ração Úmida Sachê GranPlus Gourmet Gatos Adultos Atum 85g",
+        "price": "2.62",
+        "priceDiscountRate": 39,
+        "commissionRate": "0.03",
+        "sales": 1814,
+        "ratingStar": "4.9",
+        "shopName": "Popular Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23010-es46z9kzafmv7d",
+        "productLink": "https://shopee.com.br/product/398944029/10869646245",
+        "offerLink": "https://s.shopee.com.br/50ZqNNiJoG"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23094680434",
       "name": "TENIS FEMININO CASUAL PLATAFORMA  ESTILOSO NA PROMOÇÃO",
       "price": 48.8,
@@ -23337,35 +23338,6 @@
       "_last_price": null
     },
     {
-      "id": "11869643265",
-      "name": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
-      "price": 97.99,
-      "original_price": 148.47,
-      "discount": 34.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
-      "link": "https://s.shopee.com.br/3Vl2aco1qt",
-      "rating": "4.9",
-      "sales": 4961,
-      "shop": "Popular Pet",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 11869643265,
-        "productName": "Ração GranPlus Choice Gatos Adultos Frango e Carne 10,1kg",
-        "price": "97.99",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.06",
-        "sales": 4961,
-        "ratingStar": "4.9",
-        "shopName": "Popular Pet",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134211-7r98o-m67d23ure8qa64",
-        "productLink": "https://shopee.com.br/product/398944029/11869643265",
-        "offerLink": "https://s.shopee.com.br/3Vl2aco1qt"
-      },
-      "_last_price": null
-    },
-    {
       "id": "56018568715",
       "name": "Cafeteira Elétrica Com Jarra Moderna 600ML15 Xícaras 550w",
       "price": 78.99,
@@ -25537,35 +25509,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mr1zwjey4vt02e",
         "productLink": "https://shopee.com.br/product/1571276714/58262965447",
         "offerLink": "https://s.shopee.com.br/30olzhYP2I"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23398569018",
-      "name": "Ração Golden Special Gatos Adultos Frango e Carne 10,1kg",
-      "price": 139.9,
-      "original_price": 199.86,
-      "discount": 30.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqefp5ee",
-      "link": "https://s.shopee.com.br/4fx0hNb02d",
-      "rating": "5",
-      "sales": 1142,
-      "shop": "SPN MARKET",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23398569018,
-        "productName": "Ração Golden Special Gatos Adultos Frango e Carne 10,1kg",
-        "price": "139.9",
-        "priceDiscountRate": 30,
-        "commissionRate": "0.03",
-        "sales": 1142,
-        "ratingStar": "5",
-        "shopName": "SPN MARKET",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqefp5ee",
-        "productLink": "https://shopee.com.br/product/1501485889/23398569018",
-        "offerLink": "https://s.shopee.com.br/4fx0hNb02d"
       },
       "_last_price": null
     },
