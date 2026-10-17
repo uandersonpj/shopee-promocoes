@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T01:08:42.287283+00:00",
+  "updated_at": "2026-10-17T01:28:09.816472+00:00",
   "total": 1114,
   "products": [
     {
@@ -400,7 +400,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mmimeaq4koav45",
         "productLink": "https://shopee.com.br/product/1748172680/58258026087",
         "offerLink": "https://s.shopee.com.br/8fT8kFn3ja"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58207521088",
@@ -887,8 +888,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lzop7krz80iq1e",
         "productLink": "https://shopee.com.br/product/218996205/25391678999",
         "offerLink": "https://s.shopee.com.br/W7T7qY2n9"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "45364806848",
@@ -14109,35 +14109,6 @@
       "_last_price": null
     },
     {
-      "id": "23397600706",
-      "name": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
-      "price": 10.9,
-      "original_price": 21.37,
-      "discount": 49.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
-      "link": "https://s.shopee.com.br/7VHBLuaPxt",
-      "rating": "4.9",
-      "sales": 7548,
-      "shop": "ES Official Shop",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23397600706,
-        "productName": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
-        "price": "10.9",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.13",
-        "sales": 7548,
-        "ratingStar": "4.9",
-        "shopName": "ES Official Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
-        "productLink": "https://shopee.com.br/product/988030305/23397600706",
-        "offerLink": "https://s.shopee.com.br/7VHBLuaPxt"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58205223096",
       "name": "Kit com 2 Suportes para Shampoo Adesivo Para Parede Cozinha e Banheiro",
       "price": 19.98,
@@ -16279,6 +16250,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcf2-lt49sbjuwpg373",
         "productLink": "https://shopee.com.br/product/432843460/23092914472",
         "offerLink": "https://s.shopee.com.br/20wEnndghG"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23397600706",
+      "name": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
+      "price": 11.8,
+      "original_price": 21.45,
+      "discount": 45.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
+      "link": "https://s.shopee.com.br/7VHBLuaPxt",
+      "rating": "4.9",
+      "sales": 7548,
+      "shop": "ES Official Shop",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23397600706,
+        "productName": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
+        "price": "11.8",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.13",
+        "sales": 7548,
+        "ratingStar": "4.9",
+        "shopName": "ES Official Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
+        "productLink": "https://shopee.com.br/product/988030305/23397600706",
+        "offerLink": "https://s.shopee.com.br/7VHBLuaPxt"
       },
       "_last_price": null
     },
@@ -24382,7 +24382,7 @@
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mtyjo1g3qfibe6",
       "link": "https://s.shopee.com.br/7VHDSj2SDy",
-      "rating": "4.7",
+      "rating": "4.8",
       "sales": 154,
       "shop": "To Aqui Shop",
       "category": "roteador wifi",
@@ -24394,7 +24394,7 @@
         "priceDiscountRate": 31,
         "commissionRate": "0.13",
         "sales": 154,
-        "ratingStar": "4.7",
+        "ratingStar": "4.8",
         "shopName": "To Aqui Shop",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mtyjo1g3qfibe6",
         "productLink": "https://shopee.com.br/product/1224571179/42634265021",
