@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T00:49:13.656269+00:00",
+  "updated_at": "2026-10-17T01:08:42.287283+00:00",
   "total": 1114,
   "products": [
     {
@@ -802,8 +802,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm5-lln14dkqwcs917",
         "productLink": "https://shopee.com.br/product/504210070/22492388439",
         "offerLink": "https://s.shopee.com.br/9APPL9L5m4"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "49165555882",
@@ -1187,7 +1186,7 @@
       "commission": 17.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820le-mo5m3lm7da841f",
       "link": "https://s.shopee.com.br/7VHBLwI4wr",
-      "rating": "4.3",
+      "rating": "4.2",
       "sales": 3311,
       "shop": "Nobre.Essências",
       "category": "perfume",
@@ -1199,7 +1198,7 @@
         "priceDiscountRate": 77,
         "commissionRate": "0.17",
         "sales": 3311,
-        "ratingStar": "4.3",
+        "ratingStar": "4.2",
         "shopName": "Nobre.Essências",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mo5m3lm7da841f",
         "productLink": "https://shopee.com.br/product/1654851165/58210532717",
@@ -4508,7 +4507,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyk-mch7z6c4ouee89",
         "productLink": "https://shopee.com.br/product/1489659102/42806494664",
         "offerLink": "https://s.shopee.com.br/6VOeABfrgR"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22098143818",
@@ -11205,35 +11205,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-msc30lkqvnrb8e",
         "productLink": "https://shopee.com.br/product/1252701665/23893228453",
         "offerLink": "https://s.shopee.com.br/2qVLnPctae"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23897975794",
-      "name": "Adaptador De Cápsula Reutilizável Para Conversor De Café Dolce Gusto Compatível Com Genio BR",
-      "price": 42.0,
-      "original_price": 89.36,
-      "discount": 53.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259n-mteou6fvxs7dde",
-      "link": "https://s.shopee.com.br/3LRdR8Jtd7",
-      "rating": "4.9",
-      "sales": 734,
-      "shop": "RELAMEX--SHOP",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23897975794,
-        "productName": "Adaptador De Cápsula Reutilizável Para Conversor De Café Dolce Gusto Compatível Com Genio BR",
-        "price": "42",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.03",
-        "sales": 734,
-        "ratingStar": "4.9",
-        "shopName": "RELAMEX--SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259n-mteou6fvxs7dde",
-        "productLink": "https://shopee.com.br/product/766258772/23897975794",
-        "offerLink": "https://s.shopee.com.br/3LRdR8Jtd7"
       },
       "_last_price": null
     },
@@ -19585,6 +19556,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9qxx0p1ifpe76",
         "productLink": "https://shopee.com.br/product/1087983137/18598161767",
         "offerLink": "https://s.shopee.com.br/AAHydk7D6l"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58217398209",
+      "name": "Bule De Inox Para Café Cha 280/420/550ml Cafeteira Portátil",
+      "price": 22.99,
+      "original_price": 38.32,
+      "discount": 40.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825am-msmhq1hx9l3dd9",
+      "link": "https://s.shopee.com.br/3LRcOKsWUM",
+      "rating": "4.6",
+      "sales": 634,
+      "shop": "‌Vida Lenta",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58217398209,
+        "productName": "Bule De Inox Para Café Cha 280/420/550ml Cafeteira Portátil",
+        "price": "22.99",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.08",
+        "sales": 634,
+        "ratingStar": "4.6",
+        "shopName": "‌Vida Lenta",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825am-msmhq1hx9l3dd9",
+        "productLink": "https://shopee.com.br/product/1413559057/58217398209",
+        "offerLink": "https://s.shopee.com.br/3LRcOKsWUM"
       },
       "_last_price": null
     },
