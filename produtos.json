@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T08:23:06.338563+00:00",
+  "updated_at": "2026-10-17T08:41:47.042472+00:00",
   "total": 1121,
   "products": [
     {
@@ -3681,7 +3681,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aa-mrq51qyfme4g84",
         "productLink": "https://shopee.com.br/product/344381236/45465789471",
         "offerLink": "https://s.shopee.com.br/7Kxmk2DbTJ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23398892792",
@@ -18938,35 +18939,6 @@
       "_last_price": null
     },
     {
-      "id": "55712165667",
-      "name": "Ração Premium 10,1kg Frango Carne Peixe para Gatos Todos Portes Alta Nutrição 27% Proteina Promoção Filhotes e Adultos",
-      "price": 70.89,
-      "original_price": 120.15,
-      "discount": 41.0,
-      "commission": 14.000000000000002,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mraqv7m0ow0515",
-      "link": "https://s.shopee.com.br/BUbJlQ86I",
-      "rating": "4.9",
-      "sales": 927,
-      "shop": "FATPET",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 55712165667,
-        "productName": "Ração Premium 10,1kg Frango Carne Peixe para Gatos Todos Portes Alta Nutrição 27% Proteina Promoção Filhotes e Adultos",
-        "price": "70.89",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.14",
-        "sales": 927,
-        "ratingStar": "4.9",
-        "shopName": "FATPET",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mraqv7m0ow0515",
-        "productLink": "https://shopee.com.br/product/421503156/55712165667",
-        "offerLink": "https://s.shopee.com.br/BUbJlQ86I"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23893212954",
       "name": "Cama Toca Iglu 3 em 1 para Cachorro e Gato Tamanho P M G",
       "price": 35.34,
@@ -20210,6 +20182,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhbzozlyxp8l74",
         "productLink": "https://shopee.com.br/product/1482776546/58200797547",
         "offerLink": "https://s.shopee.com.br/7AeKxKJLct"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "10869646245",
+      "name": "Ração Úmida Sachê GranPlus Gourmet Gatos Adultos Atum 85g",
+      "price": 2.62,
+      "original_price": 4.3,
+      "discount": 39.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134201-23010-es46z9kzafmv7d",
+      "link": "https://s.shopee.com.br/50ZqNNiJoG",
+      "rating": "4.9",
+      "sales": 1814,
+      "shop": "Popular Pet",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 10869646245,
+        "productName": "Ração Úmida Sachê GranPlus Gourmet Gatos Adultos Atum 85g",
+        "price": "2.62",
+        "priceDiscountRate": 39,
+        "commissionRate": "0.03",
+        "sales": 1814,
+        "ratingStar": "4.9",
+        "shopName": "Popular Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23010-es46z9kzafmv7d",
+        "productLink": "https://shopee.com.br/product/398944029/10869646245",
+        "offerLink": "https://s.shopee.com.br/50ZqNNiJoG"
       },
       "_last_price": null
     },
@@ -24332,6 +24333,35 @@
       "_last_price": null
     },
     {
+      "id": "22202389512",
+      "name": "Caixa 18un Ração Úmida Granplus Sache Gato Adulto Atum 85g",
+      "price": 49.9,
+      "original_price": 73.38,
+      "discount": 32.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1plzu4dymmgae",
+      "link": "https://s.shopee.com.br/Lo0oo05HY",
+      "rating": "5",
+      "sales": 827,
+      "shop": "Popular Pet",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22202389512,
+        "productName": "Caixa 18un Ração Úmida Granplus Sache Gato Adulto Atum 85g",
+        "price": "49.9",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.03",
+        "sales": 827,
+        "ratingStar": "5",
+        "shopName": "Popular Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1plzu4dymmgae",
+        "productLink": "https://shopee.com.br/product/398944029/22202389512",
+        "offerLink": "https://s.shopee.com.br/Lo0oo05HY"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20030133399",
       "name": "Ração Golden para Gatos Castrados – Sabor Salmão – 10,1kg",
       "price": 162.9,
@@ -25401,35 +25431,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mr1zwjey4vt02e",
         "productLink": "https://shopee.com.br/product/1571276714/58262965447",
         "offerLink": "https://s.shopee.com.br/30olzhYP2I"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23398569018",
-      "name": "Ração Golden Special Gatos Adultos Frango e Carne 10,1kg",
-      "price": 139.9,
-      "original_price": 199.86,
-      "discount": 30.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqefp5ee",
-      "link": "https://s.shopee.com.br/4fx0hNb02d",
-      "rating": "5",
-      "sales": 1142,
-      "shop": "SPN MARKET",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23398569018,
-        "productName": "Ração Golden Special Gatos Adultos Frango e Carne 10,1kg",
-        "price": "139.9",
-        "priceDiscountRate": 30,
-        "commissionRate": "0.03",
-        "sales": 1142,
-        "ratingStar": "5",
-        "shopName": "SPN MARKET",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqefp5ee",
-        "productLink": "https://shopee.com.br/product/1501485889/23398569018",
-        "offerLink": "https://s.shopee.com.br/4fx0hNb02d"
       },
       "_last_price": null
     },
