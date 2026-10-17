@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T13:09:14.528622+00:00",
-  "total": 1125,
+  "updated_at": "2026-10-17T13:28:37.494927+00:00",
+  "total": 1128,
   "products": [
     {
       "id": "58210104632",
@@ -764,7 +764,7 @@
       "discount": 79.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyp5enbirpg574",
-      "link": "https://s.shopee.com.br/1VzyCyqIWu",
+      "link": "https://s.shopee.com.br/3Vl6Sd4u6U",
       "rating": "4.6",
       "sales": 1935,
       "shop": "GOLD BRASIL LOJA OFICIAL",
@@ -781,7 +781,7 @@
         "shopName": "GOLD BRASIL LOJA OFICIAL",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyp5enbirpg574",
         "productLink": "https://shopee.com.br/product/443105265/23897691943",
-        "offerLink": "https://s.shopee.com.br/1VzyCyqIWu"
+        "offerLink": "https://s.shopee.com.br/3Vl6Sd4u6U"
       },
       "_last_price": null
     },
@@ -1538,35 +1538,6 @@
       "_last_price": null
     },
     {
-      "id": "20160799228",
-      "name": "Kit 10 Panos De Limpeza Microfibra alta absorção Multiuso",
-      "price": 12.28,
-      "original_price": 49.12,
-      "discount": 75.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxcvqi650kuq0d",
-      "link": "https://s.shopee.com.br/9V2FjakGUK",
-      "rating": "4.8",
-      "sales": 2831,
-      "shop": "Sophia Shop",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20160799228,
-        "productName": "Kit 10 Panos De Limpeza Microfibra alta absorção Multiuso",
-        "price": "12.28",
-        "priceDiscountRate": 75,
-        "commissionRate": "0.03",
-        "sales": 2831,
-        "ratingStar": "4.8",
-        "shopName": "Sophia Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxcvqi650kuq0d",
-        "productLink": "https://shopee.com.br/product/673215527/20160799228",
-        "offerLink": "https://s.shopee.com.br/9V2FjakGUK"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23594156062",
       "name": "Kit 10 Panos de Limpeza Microfibra Alta Absorção Flanela Automotivo Carro Pia 30x30cm Vidro Multiuso Pano De Limpeza",
       "price": 11.5,
@@ -1592,6 +1563,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mht65f9o464h1e",
         "productLink": "https://shopee.com.br/product/1180298845/23594156062",
         "offerLink": "https://s.shopee.com.br/AAHwWohj8W"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20160799228",
+      "name": "Kit 10 Panos De Limpeza Microfibra alta absorção Multiuso",
+      "price": 12.28,
+      "original_price": 49.12,
+      "discount": 75.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxcvqi650kuq0d",
+      "link": "https://s.shopee.com.br/9V2FjakGUK",
+      "rating": "4.8",
+      "sales": 2831,
+      "shop": "Sophia Shop",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20160799228,
+        "productName": "Kit 10 Panos De Limpeza Microfibra alta absorção Multiuso",
+        "price": "12.28",
+        "priceDiscountRate": 75,
+        "commissionRate": "0.03",
+        "sales": 2831,
+        "ratingStar": "4.8",
+        "shopName": "Sophia Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxcvqi650kuq0d",
+        "productLink": "https://shopee.com.br/product/673215527/20160799228",
+        "offerLink": "https://s.shopee.com.br/9V2FjakGUK"
       },
       "_last_price": null
     },
@@ -3049,7 +3049,7 @@
       "discount": 70.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzjnsk0uhhf61",
-      "link": "https://s.shopee.com.br/905z8lNkJL",
+      "link": "https://s.shopee.com.br/6fi8ERsqg2",
       "rating": "4.6",
       "sales": 2463,
       "shop": "ESSER CALÇADOS",
@@ -3066,7 +3066,7 @@
         "shopName": "ESSER CALÇADOS",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzjnsk0uhhf61",
         "productLink": "https://shopee.com.br/product/464824627/47855423393",
-        "offerLink": "https://s.shopee.com.br/905z8lNkJL"
+        "offerLink": "https://s.shopee.com.br/6fi8ERsqg2"
       },
       "_last_price": null
     },
@@ -3560,8 +3560,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i9-mfra08dv9dl91a",
         "productLink": "https://shopee.com.br/product/1643589827/20399896346",
         "offerLink": "https://s.shopee.com.br/5LCgm0kuQY"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "19097980221",
@@ -4260,6 +4259,35 @@
       "_last_price": null
     },
     {
+      "id": "58217964758",
+      "name": "1par Luvas de pesca nocturna ao ar livre LED luvas de iluminação de reparação de meio dedo,",
+      "price": 17.99,
+      "original_price": 54.52,
+      "discount": 67.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820la-mszxefl288p23e",
+      "link": "https://s.shopee.com.br/2LZ7NeHAlI",
+      "rating": "5",
+      "sales": 10,
+      "shop": "SHOPELXY",
+      "category": "luva pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58217964758,
+        "productName": "1par Luvas de pesca nocturna ao ar livre LED luvas de iluminação de reparação de meio dedo,",
+        "price": "17.99",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.08",
+        "sales": 10,
+        "ratingStar": "5",
+        "shopName": "SHOPELXY",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mszxefl288p23e",
+        "productLink": "https://shopee.com.br/product/384064825/58217964758",
+        "offerLink": "https://s.shopee.com.br/2LZ7NeHAlI"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58208348035",
       "name": "Mouse Pad Gamer Traxen Vários Tamanhos Abstrato Base Emborracha + Porta Copo",
       "price": 15.49,
@@ -4876,7 +4904,7 @@
       "discount": 65.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mnx8czipq39ea6",
-      "link": "https://s.shopee.com.br/W7R18u6Ys",
+      "link": "https://s.shopee.com.br/4VddeT164q",
       "rating": "4.7",
       "sales": 2095,
       "shop": "Style Wesser",
@@ -4893,7 +4921,7 @@
         "shopName": "Style Wesser",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mnx8czipq39ea6",
         "productLink": "https://shopee.com.br/product/433494801/20397641620",
-        "offerLink": "https://s.shopee.com.br/W7R18u6Ys"
+        "offerLink": "https://s.shopee.com.br/4VddeT164q"
       },
       "_last_price": null
     },
@@ -4952,35 +4980,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lpeqenr9v2ol5b",
         "productLink": "https://shopee.com.br/product/392271277/19397504534",
         "offerLink": "https://s.shopee.com.br/2qVNuMbAlt"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22691886601",
-      "name": "Maleta Caixa de Ferramentas Plástica Grande Completa Alta Organizadora Resistente Eletricistas Pesca Durável",
-      "price": 22.9,
-      "original_price": 65.43,
-      "discount": 65.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljm6gl8zhmw6e8",
-      "link": "https://s.shopee.com.br/1qcsIzpiTM",
-      "rating": "4.8",
-      "sales": 243,
-      "shop": "MvM Lojas",
-      "category": "caixa de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22691886601,
-        "productName": "Maleta Caixa de Ferramentas Plástica Grande Completa Alta Organizadora Resistente Eletricistas Pesca Durável",
-        "price": "22.9",
-        "priceDiscountRate": 65,
-        "commissionRate": "0.03",
-        "sales": 243,
-        "ratingStar": "4.8",
-        "shopName": "MvM Lojas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljm6gl8zhmw6e8",
-        "productLink": "https://shopee.com.br/product/392271277/22691886601",
-        "offerLink": "https://s.shopee.com.br/1qcsIzpiTM"
       },
       "_last_price": null
     },
@@ -5339,7 +5338,7 @@
       "discount": 64.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk5en2k0d3pd40",
-      "link": "https://s.shopee.com.br/2VsVOomUVC",
+      "link": "https://s.shopee.com.br/4fx3qm0Sjr",
       "rating": "4.7",
       "sales": 2571,
       "shop": "Style Wesser",
@@ -5356,36 +5355,7 @@
         "shopName": "Style Wesser",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk5en2k0d3pd40",
         "productLink": "https://shopee.com.br/product/433494801/40378530289",
-        "offerLink": "https://s.shopee.com.br/2VsVOomUVC"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23194993945",
-      "name": "TOMI MITO Bolsa Feminina Compacta Elegante para Viagem e Trabalho TM9183 ",
-      "price": 49.99,
-      "original_price": 138.86,
-      "discount": 64.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mg-ms0pb4wxhxc61b",
-      "link": "https://s.shopee.com.br/4B0jNsxkET",
-      "rating": "4.9",
-      "sales": 3405,
-      "shop": "Amy.Store",
-      "category": "bolsa feminina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23194993945,
-        "productName": "TOMI MITO Bolsa Feminina Compacta Elegante para Viagem e Trabalho TM9183 ",
-        "price": "49.99",
-        "priceDiscountRate": 64,
-        "commissionRate": "0.1",
-        "sales": 3405,
-        "ratingStar": "4.9",
-        "shopName": "Amy.Store",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-ms0pb4wxhxc61b",
-        "productLink": "https://shopee.com.br/product/1468415010/23194993945",
-        "offerLink": "https://s.shopee.com.br/4B0jNsxkET"
+        "offerLink": "https://s.shopee.com.br/4fx3qm0Sjr"
       },
       "_last_price": null
     },
@@ -5415,6 +5385,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ln2wodzw7yo384",
         "productLink": "https://shopee.com.br/product/664231577/18899030241",
         "offerLink": "https://s.shopee.com.br/50ZqNPuZXi"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23194993945",
+      "name": "TOMI MITO Bolsa Feminina Compacta Elegante para Viagem e Trabalho TM9183 ",
+      "price": 49.99,
+      "original_price": 138.86,
+      "discount": 64.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mg-ms0pb4wxhxc61b",
+      "link": "https://s.shopee.com.br/4B0jNsxkET",
+      "rating": "4.9",
+      "sales": 3405,
+      "shop": "Amy.Store",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23194993945,
+        "productName": "TOMI MITO Bolsa Feminina Compacta Elegante para Viagem e Trabalho TM9183 ",
+        "price": "49.99",
+        "priceDiscountRate": 64,
+        "commissionRate": "0.1",
+        "sales": 3405,
+        "ratingStar": "4.9",
+        "shopName": "Amy.Store",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-ms0pb4wxhxc61b",
+        "productLink": "https://shopee.com.br/product/1468415010/23194993945",
+        "offerLink": "https://s.shopee.com.br/4B0jNsxkET"
       },
       "_last_price": null
     },
@@ -5506,6 +5505,35 @@
       "_last_price": null
     },
     {
+      "id": "58213020257",
+      "name": "Rede Passaguá para Pesca 1,9m | Dobrável, Retrátil e Ideal para Capturar Peixes Grandes",
+      "price": 35.9,
+      "original_price": 99.72,
+      "discount": 64.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mpt4nmib20w3ee",
+      "link": "https://s.shopee.com.br/AKbOJmMrBf",
+      "rating": "4.9",
+      "sales": 146,
+      "shop": "PREMIO SHOP",
+      "category": "rede de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58213020257,
+        "productName": "Rede Passaguá para Pesca 1,9m | Dobrável, Retrátil e Ideal para Capturar Peixes Grandes",
+        "price": "35.9",
+        "priceDiscountRate": 64,
+        "commissionRate": "0.03",
+        "sales": 146,
+        "ratingStar": "4.9",
+        "shopName": "PREMIO SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mpt4nmib20w3ee",
+        "productLink": "https://shopee.com.br/product/1413587322/58213020257",
+        "offerLink": "https://s.shopee.com.br/AKbOJmMrBf"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58266396801",
       "name": "Luvas De Ciclismo E Motocicleta Com Proteção UV Antiderrapante, Ventiladas Para Pesca, Corrida E Estrada",
       "price": 25.99,
@@ -5531,35 +5559,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b2-mskr1qyo0cn62a",
         "productLink": "https://shopee.com.br/product/1883428458/58266396801",
         "offerLink": "https://s.shopee.com.br/7Kxor8yuBO"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58214741292",
-      "name": "Etiquetas Adesivos Personalizados 4x4 cm - kit com 1000, 500, 300, 200, 100 e 50 - Com sua logo ou arte",
-      "price": 13.99,
-      "original_price": 37.81,
-      "discount": 63.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825an-mqxxk82wo0eabb",
-      "link": "https://s.shopee.com.br/3g4V69hi8r",
-      "rating": "4.9",
-      "sales": 2701,
-      "shop": "ED CASA PRODUTOS ",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58214741292,
-        "productName": "Etiquetas Adesivos Personalizados 4x4 cm - kit com 1000, 500, 300, 200, 100 e 50 - Com sua logo ou arte",
-        "price": "13.99",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.03",
-        "sales": 2701,
-        "ratingStar": "4.9",
-        "shopName": "ED CASA PRODUTOS ",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825an-mqxxk82wo0eabb",
-        "productLink": "https://shopee.com.br/product/469407986/58214741292",
-        "offerLink": "https://s.shopee.com.br/3g4V69hi8r"
       },
       "_last_price": null
     },
@@ -5773,7 +5772,7 @@
       "discount": 63.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mnq4mrzrg1s133",
-      "link": "https://s.shopee.com.br/20wEntoOW5",
+      "link": "https://s.shopee.com.br/2gBzT684nP",
       "rating": "4.7",
       "sales": 2265,
       "shop": "ESSER CALÇADOS",
@@ -5790,36 +5789,7 @@
         "shopName": "ESSER CALÇADOS",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mnq4mrzrg1s133",
         "productLink": "https://shopee.com.br/product/464824627/56103183692",
-        "offerLink": "https://s.shopee.com.br/20wEntoOW5"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58255858312",
-      "name": "Tênis SNEEKS Feminino para Uso Diário Prático e Estiloso Super Promoção Confortavel",
-      "price": 36.99,
-      "original_price": 99.97,
-      "discount": 63.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk3wepdi1tz780",
-      "link": "https://s.shopee.com.br/80DUHctVPA",
-      "rating": "4.9",
-      "sales": 1910,
-      "shop": ".dudashoesns.",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58255858312,
-        "productName": "Tênis SNEEKS Feminino para Uso Diário Prático e Estiloso Super Promoção Confortavel",
-        "price": "36.99",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.07",
-        "sales": 1910,
-        "ratingStar": "4.9",
-        "shopName": ".dudashoesns.",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk3wepdi1tz780",
-        "productLink": "https://shopee.com.br/product/1459882590/58255858312",
-        "offerLink": "https://s.shopee.com.br/80DUHctVPA"
+        "offerLink": "https://s.shopee.com.br/2gBzT684nP"
       },
       "_last_price": null
     },
@@ -6208,7 +6178,7 @@
       "discount": 62.0,
       "commission": 23.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
-      "link": "https://s.shopee.com.br/1BAwfFDUj",
+      "link": "https://s.shopee.com.br/6AlrdSRdgb",
       "rating": "4.8",
       "sales": 1673,
       "shop": "Ela&Ela",
@@ -6225,7 +6195,7 @@
         "shopName": "Ela&Ela",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
         "productLink": "https://shopee.com.br/product/1638239765/58205100450",
-        "offerLink": "https://s.shopee.com.br/1BAwfFDUj"
+        "offerLink": "https://s.shopee.com.br/6AlrdSRdgb"
       },
       "_last_price": null
     },
@@ -6751,35 +6721,6 @@
       "_last_price": null
     },
     {
-      "id": "22593622212",
-      "name": "Borracha De Vedação Panela De Pressão 3L, 4,5L E 6L 20cm 24cm Tramontina Vancouver",
-      "price": 18.5,
-      "original_price": 47.44,
-      "discount": 61.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4amwnsxxkjl2d",
-      "link": "https://s.shopee.com.br/6Alq4tm5Zn",
-      "rating": "4.9",
-      "sales": 683,
-      "shop": "V2BEH PRODUTOS",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22593622212,
-        "productName": "Borracha De Vedação Panela De Pressão 3L, 4,5L E 6L 20cm 24cm Tramontina Vancouver",
-        "price": "18.5",
-        "priceDiscountRate": 61,
-        "commissionRate": "0.06",
-        "sales": 683,
-        "ratingStar": "4.9",
-        "shopName": "V2BEH PRODUTOS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4amwnsxxkjl2d",
-        "productLink": "https://shopee.com.br/product/353734372/22593622212",
-        "offerLink": "https://s.shopee.com.br/6Alq4tm5Zn"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23494069000",
       "name": "607 Óculos De Sol Hexagonais Feminino Vintage Masculino Moda quadrados Oculos",
       "price": 12.86,
@@ -7215,35 +7156,6 @@
       "_last_price": null
     },
     {
-      "id": "23093960843",
-      "name": "Pasta Sanfonada Para Documento Com 12 Divisórias E Pasta Prancheta Tamanho A4 Escritório Escolar",
-      "price": 10.68,
-      "original_price": 26.7,
-      "discount": 60.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9elqqn7nixzee",
-      "link": "https://s.shopee.com.br/5AtGZcjIhD",
-      "rating": "4.9",
-      "sales": 15936,
-      "shop": "TOP&CASA",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23093960843,
-        "productName": "Pasta Sanfonada Para Documento Com 12 Divisórias E Pasta Prancheta Tamanho A4 Escritório Escolar",
-        "price": "10.68",
-        "priceDiscountRate": 60,
-        "commissionRate": "0.03",
-        "sales": 15936,
-        "ratingStar": "4.9",
-        "shopName": "TOP&CASA",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9elqqn7nixzee",
-        "productLink": "https://shopee.com.br/product/1397076460/23093960843",
-        "offerLink": "https://s.shopee.com.br/5AtGZcjIhD"
-      },
-      "_last_price": null
-    },
-    {
       "id": "46915030093",
       "name": "Kit 10 Panos De Limpeza Microfibra alta absorção Multiuso Perfeito",
       "price": 39.6,
@@ -7360,35 +7272,6 @@
       "_last_price": null
     },
     {
-      "id": "58217170539",
-      "name": "Rampa Pet Para Cachorro Gato Caminha Ração Linha Golden Tecido Suede 52 Cm De Altura - Sentta Furniture",
-      "price": 79.0,
-      "original_price": 197.5,
-      "discount": 60.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-msfziyqwdhxj02",
-      "link": "https://s.shopee.com.br/1W01uHkg3I",
-      "rating": "4.8",
-      "sales": 756,
-      "shop": "Sentta Furniture",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58217170539,
-        "productName": "Rampa Pet Para Cachorro Gato Caminha Ração Linha Golden Tecido Suede 52 Cm De Altura - Sentta Furniture",
-        "price": "79",
-        "priceDiscountRate": 60,
-        "commissionRate": "0.13",
-        "sales": 756,
-        "ratingStar": "4.8",
-        "shopName": "Sentta Furniture",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-msfziyqwdhxj02",
-        "productLink": "https://shopee.com.br/product/897488659/58217170539",
-        "offerLink": "https://s.shopee.com.br/1W01uHkg3I"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23598387814",
       "name": "Adaptador de Tomada Ultra Resistente de Porcelana para Secador Air Fryer Benjamin Bivolt 10A e 20A",
       "price": 12.72,
@@ -7443,6 +7326,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rauz-maaicb4iiwzuae",
         "productLink": "https://shopee.com.br/product/1060793149/23498545555",
         "offerLink": "https://s.shopee.com.br/6fi4MSfpig"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58262387784",
+      "name": "Tênis O2x Feminino Esportivo Confortável Leve Treino Caminhada Fitness",
+      "price": 39.96,
+      "original_price": 99.9,
+      "discount": 60.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mo0j5ap2qi2p7f",
+      "link": "https://s.shopee.com.br/70Kyd3ra04",
+      "rating": "4.9",
+      "sales": 5396,
+      "shop": ".ELITE SHOES",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58262387784,
+        "productName": "Tênis O2x Feminino Esportivo Confortável Leve Treino Caminhada Fitness",
+        "price": "39.96",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.1",
+        "sales": 5396,
+        "ratingStar": "4.9",
+        "shopName": ".ELITE SHOES",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mo0j5ap2qi2p7f",
+        "productLink": "https://shopee.com.br/product/1234991453/58262387784",
+        "offerLink": "https://s.shopee.com.br/70Kyd3ra04"
       },
       "_last_price": null
     },
@@ -7744,7 +7656,7 @@
       "discount": 59.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mtyiydhax1j4ab",
-      "link": "https://s.shopee.com.br/6VOgTUKkzQ",
+      "link": "https://s.shopee.com.br/8pmcoP34lQ",
       "rating": "4.9",
       "sales": 385,
       "shop": "Lili Pet - caminhas de Luxo",
@@ -7761,7 +7673,7 @@
         "shopName": "Lili Pet - caminhas de Luxo",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mtyiydhax1j4ab",
         "productLink": "https://shopee.com.br/product/1263417212/22793480756",
-        "offerLink": "https://s.shopee.com.br/6VOgTUKkzQ"
+        "offerLink": "https://s.shopee.com.br/8pmcoP34lQ"
       },
       "_last_price": null
     },
@@ -8201,6 +8113,35 @@
       "_last_price": null
     },
     {
+      "id": "18899895828",
+      "name": "Formas Descartáveis 200 Unidades Para Air Fryer em Papel Forneavél Para Fornos e Microondas",
+      "price": 12.89,
+      "original_price": 30.69,
+      "discount": 58.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mu9s2nk8jzsx62",
+      "link": "https://s.shopee.com.br/7pu5cZg53G",
+      "rating": "4.8",
+      "sales": 1491,
+      "shop": "Line  ",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18899895828,
+        "productName": "Formas Descartáveis 200 Unidades Para Air Fryer em Papel Forneavél Para Fornos e Microondas",
+        "price": "12.89",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.03",
+        "sales": 1491,
+        "ratingStar": "4.8",
+        "shopName": "Line  ",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mu9s2nk8jzsx62",
+        "productLink": "https://shopee.com.br/product/317326895/18899895828",
+        "offerLink": "https://s.shopee.com.br/7pu5cZg53G"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22999454687",
       "name": "Mini Liquidificador Portátil 400ml 6 Lâminas Recarregável USB Mixer Suco Shake",
       "price": 32.9,
@@ -8487,6 +8428,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mp51i7w3hts6c7",
         "productLink": "https://shopee.com.br/product/305234794/20499092615",
         "offerLink": "https://s.shopee.com.br/1BAQ7lIko"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23093960843",
+      "name": "Pasta Sanfonada Para Documento Com 12 Divisórias E Pasta Prancheta Tamanho A4 Escritório Escolar",
+      "price": 11.48,
+      "original_price": 26.7,
+      "discount": 57.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9elqqn7nixzee",
+      "link": "https://s.shopee.com.br/5AtGZcjIhD",
+      "rating": "4.9",
+      "sales": 15936,
+      "shop": "TOP&CASA",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23093960843,
+        "productName": "Pasta Sanfonada Para Documento Com 12 Divisórias E Pasta Prancheta Tamanho A4 Escritório Escolar",
+        "price": "11.48",
+        "priceDiscountRate": 57,
+        "commissionRate": "0.03",
+        "sales": 15936,
+        "ratingStar": "4.9",
+        "shopName": "TOP&CASA",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9elqqn7nixzee",
+        "productLink": "https://shopee.com.br/product/1397076460/23093960843",
+        "offerLink": "https://s.shopee.com.br/5AtGZcjIhD"
       },
       "_last_price": null
     },
@@ -9100,35 +9070,6 @@
       "_last_price": null
     },
     {
-      "id": "23397982095",
-      "name": "Expositor de Perfumes Cosméticos 3 Andares Multiuso Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza",
-      "price": 30.99,
-      "original_price": 70.43,
-      "discount": 56.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1qfaspn0ejuf9",
-      "link": "https://s.shopee.com.br/50Zr4bmTEI",
-      "rating": "5",
-      "sales": 2554,
-      "shop": "CASA RIOCHIQUE",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23397982095,
-        "productName": "Expositor de Perfumes Cosméticos 3 Andares Multiuso Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza",
-        "price": "30.99",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.08",
-        "sales": 2554,
-        "ratingStar": "5",
-        "shopName": "CASA RIOCHIQUE",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1qfaspn0ejuf9",
-        "productLink": "https://shopee.com.br/product/1103934359/23397982095",
-        "offerLink": "https://s.shopee.com.br/50Zr4bmTEI"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58213437667",
       "name": "Perfumes Femininos Liillyy e Yara Eau de Parfum Alta Fixação Fragrância Doce Elegante",
       "price": 10.9,
@@ -9154,6 +9095,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258u-mq3p02zvnthnd3",
         "productLink": "https://shopee.com.br/product/386749781/58213437667",
         "offerLink": "https://s.shopee.com.br/1VzzEMVI2e"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23397982095",
+      "name": "Expositor de Perfumes Cosméticos 3 Andares Multiuso Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza",
+      "price": 30.99,
+      "original_price": 70.43,
+      "discount": 56.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1qfaspn0ejuf9",
+      "link": "https://s.shopee.com.br/40hN3TrLg8",
+      "rating": "5",
+      "sales": 2554,
+      "shop": "CASA RIOCHIQUE",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23397982095,
+        "productName": "Expositor de Perfumes Cosméticos 3 Andares Multiuso Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza",
+        "price": "30.99",
+        "priceDiscountRate": 56,
+        "commissionRate": "0.08",
+        "sales": 2554,
+        "ratingStar": "5",
+        "shopName": "CASA RIOCHIQUE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1qfaspn0ejuf9",
+        "productLink": "https://shopee.com.br/product/1103934359/23397982095",
+        "offerLink": "https://s.shopee.com.br/40hN3TrLg8"
       },
       "_last_price": null
     },
@@ -9332,35 +9302,6 @@
       "_last_price": null
     },
     {
-      "id": "58257615949",
-      "name": "Tênis Masculino Feminino Básico Ideal Pro Dia a Dia",
-      "price": 32.9,
-      "original_price": 74.77,
-      "discount": 56.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mm9742sfg6isd8",
-      "link": "https://s.shopee.com.br/8pmZdiwjCS",
-      "rating": "4.8",
-      "sales": 1522,
-      "shop": "MGoutlet_",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58257615949,
-        "productName": "Tênis Masculino Feminino Básico Ideal Pro Dia a Dia",
-        "price": "32.9",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.13",
-        "sales": 1522,
-        "ratingStar": "4.8",
-        "shopName": "MGoutlet_",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mm9742sfg6isd8",
-        "productLink": "https://shopee.com.br/product/720761573/58257615949",
-        "offerLink": "https://s.shopee.com.br/8pmZdiwjCS"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58215726245",
       "name": "Tênis casual confortável feminino masculino dia a dia",
       "price": 33.8,
@@ -9368,7 +9309,7 @@
       "discount": 56.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mrkfkbm5xu6dfb",
-      "link": "https://s.shopee.com.br/9061TSphNK",
+      "link": "https://s.shopee.com.br/50ZuFNzC3t",
       "rating": "4.8",
       "sales": 562,
       "shop": "Lucca Shoes",
@@ -9385,7 +9326,36 @@
         "shopName": "Lucca Shoes",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mrkfkbm5xu6dfb",
         "productLink": "https://shopee.com.br/product/1891292763/58215726245",
-        "offerLink": "https://s.shopee.com.br/9061TSphNK"
+        "offerLink": "https://s.shopee.com.br/50ZuFNzC3t"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58257615949",
+      "name": "Tênis Masculino Feminino Básico Ideal Pro Dia a Dia",
+      "price": 32.9,
+      "original_price": 74.77,
+      "discount": 56.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mm9742sfg6isd8",
+      "link": "https://s.shopee.com.br/4qGU34zpOs",
+      "rating": "4.8",
+      "sales": 1522,
+      "shop": "MGoutlet_",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58257615949,
+        "productName": "Tênis Masculino Feminino Básico Ideal Pro Dia a Dia",
+        "price": "32.9",
+        "priceDiscountRate": 56,
+        "commissionRate": "0.13",
+        "sales": 1522,
+        "ratingStar": "4.8",
+        "shopName": "MGoutlet_",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mm9742sfg6isd8",
+        "productLink": "https://shopee.com.br/product/720761573/58257615949",
+        "offerLink": "https://s.shopee.com.br/4qGU34zpOs"
       },
       "_last_price": null
     },
@@ -9977,7 +9947,7 @@
       "discount": 55.0,
       "commission": 17.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mozs1uwb0nwjfd",
-      "link": "https://s.shopee.com.br/gQrDRtTDx",
+      "link": "https://s.shopee.com.br/4B0nFr2Mko",
       "rating": "4.9",
       "sales": 2292,
       "shop": "StreetLife Storee",
@@ -9994,7 +9964,7 @@
         "shopName": "StreetLife Storee",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mozs1uwb0nwjfd",
         "productLink": "https://shopee.com.br/product/1244375001/58261833946",
-        "offerLink": "https://s.shopee.com.br/gQrDRtTDx"
+        "offerLink": "https://s.shopee.com.br/4B0nFr2Mko"
       },
       "_last_price": null
     },
@@ -10546,6 +10516,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m326ai6rx4gl9c",
         "productLink": "https://shopee.com.br/product/997025684/22198068260",
         "offerLink": "https://s.shopee.com.br/9fLfvym0lr"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58269326392",
+      "name": "Panela Pressão Cerâmica Antiaderente Indução 4,4L Oikos 4 Válvulas",
+      "price": 169.89,
+      "original_price": 369.33,
+      "discount": 54.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mtpmmvze4phf9a",
+      "link": "https://s.shopee.com.br/gQv5Py5hq",
+      "rating": "5",
+      "sales": 123,
+      "shop": "Mahê.",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58269326392,
+        "productName": "Panela Pressão Cerâmica Antiaderente Indução 4,4L Oikos 4 Válvulas",
+        "price": "169.89",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.03",
+        "sales": 123,
+        "ratingStar": "5",
+        "shopName": "Mahê.",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mtpmmvze4phf9a",
+        "productLink": "https://shopee.com.br/product/1759064284/58269326392",
+        "offerLink": "https://s.shopee.com.br/gQv5Py5hq"
       },
       "_last_price": null
     },
@@ -11369,7 +11368,7 @@
       "discount": 53.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lv-msa3dt84h9txfc",
-      "link": "https://s.shopee.com.br/1qcobap1r0",
+      "link": "https://s.shopee.com.br/3LRgGK5XRT",
       "rating": "4.8",
       "sales": 1832,
       "shop": "Lilicas Shoes",
@@ -11386,7 +11385,7 @@
         "shopName": "Lilicas Shoes",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-msa3dt84h9txfc",
         "productLink": "https://shopee.com.br/product/1916253473/58216814213",
-        "offerLink": "https://s.shopee.com.br/1qcobap1r0"
+        "offerLink": "https://s.shopee.com.br/3LRgGK5XRT"
       },
       "_last_price": null
     },
@@ -11398,7 +11397,7 @@
       "discount": 53.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mn3bpg2xowlgdf",
-      "link": "https://s.shopee.com.br/Lo0opujtr",
+      "link": "https://s.shopee.com.br/4LKDSA1jPp",
       "rating": "4.9",
       "sales": 2394,
       "shop": "Ikon Shoes",
@@ -11415,7 +11414,7 @@
         "shopName": "Ikon Shoes",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mn3bpg2xowlgdf",
         "productLink": "https://shopee.com.br/product/384005598/58208973330",
-        "offerLink": "https://s.shopee.com.br/Lo0opujtr"
+        "offerLink": "https://s.shopee.com.br/4LKDSA1jPp"
       },
       "_last_price": null
     },
@@ -12000,6 +11999,35 @@
       "_last_price": null
     },
     {
+      "id": "22893806671",
+      "name": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
+      "price": 39.45,
+      "original_price": 82.19,
+      "discount": 52.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
+      "link": "https://s.shopee.com.br/4VdZmTo57V",
+      "rating": "4.8",
+      "sales": 759,
+      "shop": "Facilita Lar.",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22893806671,
+        "productName": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
+        "price": "39.45",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.13",
+        "sales": 759,
+        "ratingStar": "4.8",
+        "shopName": "Facilita Lar.",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
+        "productLink": "https://shopee.com.br/product/1461473610/22893806671",
+        "offerLink": "https://s.shopee.com.br/4VdZmTo57V"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23294741602",
       "name": "Tênis Feminino Corrida Run Esportivo Caminhada Casual Academia Treino Fitness Crossfit Leve Premium Respirável Ultra",
       "price": 48.0,
@@ -12007,7 +12035,7 @@
       "discount": 52.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-81zva-mmuvx89kb3sz10",
-      "link": "https://s.shopee.com.br/8pmYwSONeG",
+      "link": "https://s.shopee.com.br/7AeOpMqwf7",
       "rating": "4.8",
       "sales": 2554,
       "shop": "Evox Calçados e Acessórios LTDA",
@@ -12024,7 +12052,7 @@
         "shopName": "Evox Calçados e Acessórios LTDA",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zva-mmuvx89kb3sz10",
         "productLink": "https://shopee.com.br/product/1638165366/23294741602",
-        "offerLink": "https://s.shopee.com.br/8pmYwSONeG"
+        "offerLink": "https://s.shopee.com.br/7AeOpMqwf7"
       },
       "_last_price": null
     },
@@ -12819,7 +12847,7 @@
       "discount": 50.0,
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mddlkjk94ppuaa",
-      "link": "https://s.shopee.com.br/2gBxuJlWAd",
+      "link": "https://s.shopee.com.br/8AWw13HZlH",
       "rating": "4.9",
       "sales": 1874,
       "shop": "PAPEL.PAPELARIA",
@@ -12836,7 +12864,7 @@
         "shopName": "PAPEL.PAPELARIA",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mddlkjk94ppuaa",
         "productLink": "https://shopee.com.br/product/1046010418/23898801446",
-        "offerLink": "https://s.shopee.com.br/2gBxuJlWAd"
+        "offerLink": "https://s.shopee.com.br/8AWw13HZlH"
       },
       "_last_price": null
     },
@@ -13098,35 +13126,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mnxrx1gvgsn6b6",
         "productLink": "https://shopee.com.br/product/1371911195/55856646958",
         "offerLink": "https://s.shopee.com.br/1LgY0XgxsC"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "51459669264",
-      "name": "4 Teclas Alívio Do Estresse Teclado Chaveiro Fidget Relaxante DIY Mecânico rgb Luz Eixo Testador Brinquedos Presente",
-      "price": 10.95,
-      "original_price": 21.9,
-      "discount": 50.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-820nz-mnmlria4v6rn44",
-      "link": "https://s.shopee.com.br/70Kx4IqcHk",
-      "rating": "4.9",
-      "sales": 135,
-      "shop": "warmsunshinenm.br",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 51459669264,
-        "productName": "4 Teclas Alívio Do Estresse Teclado Chaveiro Fidget Relaxante DIY Mecânico rgb Luz Eixo Testador Brinquedos Presente",
-        "price": "10.95",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.03",
-        "sales": 135,
-        "ratingStar": "4.9",
-        "shopName": "warmsunshinenm.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820nz-mnmlria4v6rn44",
-        "productLink": "https://shopee.com.br/product/498020912/51459669264",
-        "offerLink": "https://s.shopee.com.br/70Kx4IqcHk"
       },
       "_last_price": null
     },
@@ -13678,35 +13677,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82279-mhgkipztzi837a",
         "productLink": "https://shopee.com.br/product/1661007426/58250959404",
         "offerLink": "https://s.shopee.com.br/80DRwvA1Uc"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20098289822",
-      "name": "Tênis Feminino calce facil Flexível Ortopédico Slip On Caminhada Unissex Antiderrapante barato",
-      "price": 29.9,
-      "original_price": 59.8,
-      "discount": 50.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdnyjdmxoqfl3f",
-      "link": "https://s.shopee.com.br/9APRflp42N",
-      "rating": "4.8",
-      "sales": 2646,
-      "shop": "ZatyShoes",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20098289822,
-        "productName": "Tênis Feminino calce facil Flexível Ortopédico Slip On Caminhada Unissex Antiderrapante barato",
-        "price": "29.9",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.11",
-        "sales": 2646,
-        "ratingStar": "4.8",
-        "shopName": "ZatyShoes",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdnyjdmxoqfl3f",
-        "productLink": "https://shopee.com.br/product/311566600/20098289822",
-        "offerLink": "https://s.shopee.com.br/9APRflp42N"
       },
       "_last_price": null
     },
@@ -14523,35 +14493,6 @@
       "_last_price": null
     },
     {
-      "id": "24836256859",
-      "name": "[alasuo] 1/5/10 Unidades Promoção Conjunto De Flutuadores De Pesca Tamanho Misto Bóia Flutuante De Espuma Colorida Bobber Para Acessórios Equipamento [BR]",
-      "price": 10.48,
-      "original_price": 20.55,
-      "discount": 49.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-m0cy7l04afn4c4",
-      "link": "https://s.shopee.com.br/7facFf7wv1",
-      "rating": "4.4",
-      "sales": 7,
-      "shop": "Alasuo.br",
-      "category": "flutuador pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 24836256859,
-        "productName": "[alasuo] 1/5/10 Unidades Promoção Conjunto De Flutuadores De Pesca Tamanho Misto Bóia Flutuante De Espuma Colorida Bobber Para Acessórios Equipamento [BR]",
-        "price": "10.48",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.11",
-        "sales": 7,
-        "ratingStar": "4.4",
-        "shopName": "Alasuo.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-m0cy7l04afn4c4",
-        "productLink": "https://shopee.com.br/product/344788664/24836256859",
-        "offerLink": "https://s.shopee.com.br/7facFf7wv1"
-      },
-      "_last_price": null
-    },
-    {
       "id": "29806177637",
       "name": "Feijão Espacial De Pesca SKEC 600Pcs Tackle Oval Stopper Rubber Fishing Line Stops Fly Flutuador",
       "price": 21.12,
@@ -14577,6 +14518,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwv-ly4py9sfn9qef3",
         "productLink": "https://shopee.com.br/product/1228962740/29806177637",
         "offerLink": "https://s.shopee.com.br/8KqJ2t5PZD"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "24836256859",
+      "name": "[alasuo] 1/5/10 Unidades Promoção Conjunto De Flutuadores De Pesca Tamanho Misto Bóia Flutuante De Espuma Colorida Bobber Para Acessórios Equipamento [BR]",
+      "price": 10.48,
+      "original_price": 20.55,
+      "discount": 49.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-m0cy7l04afn4c4",
+      "link": "https://s.shopee.com.br/7facFf7wv1",
+      "rating": "4.4",
+      "sales": 7,
+      "shop": "Alasuo.br",
+      "category": "flutuador pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 24836256859,
+        "productName": "[alasuo] 1/5/10 Unidades Promoção Conjunto De Flutuadores De Pesca Tamanho Misto Bóia Flutuante De Espuma Colorida Bobber Para Acessórios Equipamento [BR]",
+        "price": "10.48",
+        "priceDiscountRate": 49,
+        "commissionRate": "0.11",
+        "sales": 7,
+        "ratingStar": "4.4",
+        "shopName": "Alasuo.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-m0cy7l04afn4c4",
+        "productLink": "https://shopee.com.br/product/344788664/24836256859",
+        "offerLink": "https://s.shopee.com.br/7facFf7wv1"
       },
       "_last_price": null
     },
@@ -14635,6 +14605,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdc7t5ieo1mad3",
         "productLink": "https://shopee.com.br/product/967211054/23194308436",
         "offerLink": "https://s.shopee.com.br/gQrDIJiOt"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58204938108",
+      "name": "Suporte para Placa de Vídeo GPU Ajustável Personalizada Universal HD PC",
+      "price": 12.96,
+      "original_price": 24.92,
+      "discount": 48.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkijxx9izzeped",
+      "link": "https://s.shopee.com.br/60SRR4ugvT",
+      "rating": "4.8",
+      "sales": 151,
+      "shop": "Fox Ecom",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58204938108,
+        "productName": "Suporte para Placa de Vídeo GPU Ajustável Personalizada Universal HD PC",
+        "price": "12.96",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.03",
+        "sales": 151,
+        "ratingStar": "4.8",
+        "shopName": "Fox Ecom",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkijxx9izzeped",
+        "productLink": "https://shopee.com.br/product/464907594/58204938108",
+        "offerLink": "https://s.shopee.com.br/60SRR4ugvT"
       },
       "_last_price": null
     },
@@ -14842,35 +14841,6 @@
       "_last_price": null
     },
     {
-      "id": "22893806671",
-      "name": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
-      "price": 39.45,
-      "original_price": 75.87,
-      "discount": 48.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
-      "link": "https://s.shopee.com.br/4VdZmTo57V",
-      "rating": "4.8",
-      "sales": 759,
-      "shop": "Facilita Lar.",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22893806671,
-        "productName": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
-        "price": "39.45",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.13",
-        "sales": 759,
-        "ratingStar": "4.8",
-        "shopName": "Facilita Lar.",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
-        "productLink": "https://shopee.com.br/product/1461473610/22893806671",
-        "offerLink": "https://s.shopee.com.br/4VdZmTo57V"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23594439744",
       "name": "400ML 6 Lâminas Espremedor Elétrico Mini Liquidificador Portátil De Suco De Alimentos Misturador Leite",
       "price": 37.49,
@@ -14907,7 +14877,7 @@
       "discount": 48.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdkak7ycblch90",
-      "link": "https://s.shopee.com.br/1LgY0fqvrt",
+      "link": "https://s.shopee.com.br/30opri6o7R",
       "rating": "4.8",
       "sales": 2449,
       "shop": "Filoh calçados",
@@ -14924,7 +14894,7 @@
         "shopName": "Filoh calçados",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdkak7ycblch90",
         "productLink": "https://shopee.com.br/product/375080873/23594325190",
-        "offerLink": "https://s.shopee.com.br/1LgY0fqvrt"
+        "offerLink": "https://s.shopee.com.br/30opri6o7R"
       },
       "_last_price": null
     },
@@ -15139,7 +15109,7 @@
       "discount": 47.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820me-mljzudnhshdw7f",
-      "link": "https://s.shopee.com.br/3qNvISh4ns",
+      "link": "https://s.shopee.com.br/AKbQb29KMi",
       "rating": "4.8",
       "sales": 2481,
       "shop": "RON CHANG",
@@ -15156,7 +15126,7 @@
         "shopName": "RON CHANG",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mljzudnhshdw7f",
         "productLink": "https://shopee.com.br/product/1658947107/22799125551",
-        "offerLink": "https://s.shopee.com.br/3qNvISh4ns"
+        "offerLink": "https://s.shopee.com.br/AKbQb29KMi"
       },
       "_last_price": null
     },
@@ -16299,7 +16269,7 @@
       "discount": 45.0,
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxc-mc5skldkgkhvc8",
-      "link": "https://s.shopee.com.br/9fLfvplS8f",
+      "link": "https://s.shopee.com.br/80DVokID6E",
       "rating": "4.8",
       "sales": 3389,
       "shop": "LEGAL PLUS",
@@ -16316,7 +16286,7 @@
         "shopName": "LEGAL PLUS",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxc-mc5skldkgkhvc8",
         "productLink": "https://shopee.com.br/product/1027415014/18597752657",
-        "offerLink": "https://s.shopee.com.br/9fLfvplS8f"
+        "offerLink": "https://s.shopee.com.br/80DVokID6E"
       },
       "_last_price": null
     },
@@ -18003,6 +17973,35 @@
       "_last_price": null
     },
     {
+      "id": "21598777670",
+      "name": "Casinha Pet Cachorro N3 + Caminha Para Cachorro Casinha Para Cachorro Caminha de Cachorro",
+      "price": 39.69,
+      "original_price": 69.63,
+      "discount": 43.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcwg5y18qnsxd2",
+      "link": "https://s.shopee.com.br/8KqMDU4ymJ",
+      "rating": "4.8",
+      "sales": 395,
+      "shop": "Pet Tobby",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21598777670,
+        "productName": "Casinha Pet Cachorro N3 + Caminha Para Cachorro Casinha Para Cachorro Caminha de Cachorro",
+        "price": "39.69",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.11",
+        "sales": 395,
+        "ratingStar": "4.8",
+        "shopName": "Pet Tobby",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcwg5y18qnsxd2",
+        "productLink": "https://shopee.com.br/product/829646892/21598777670",
+        "offerLink": "https://s.shopee.com.br/8KqMDU4ymJ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22493277109",
       "name": "2 Cápsula Café Reutilizável Dolce Gusto Preto/Transparente/Castanho Recarregável Refrescante Efectivo Promoção",
       "price": 13.59,
@@ -18525,6 +18524,35 @@
       "_last_price": null
     },
     {
+      "id": "53906798892",
+      "name": "Sapato Feminino Vizzano Casual Modelagem Clássica Solado Sintético Original",
+      "price": 109.99,
+      "original_price": 189.64,
+      "discount": 42.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mu9absqxz9j43f",
+      "link": "https://s.shopee.com.br/1BNBgLDmqG",
+      "rating": "5",
+      "sales": 1947,
+      "shop": "Deccó",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 53906798892,
+        "productName": "Sapato Feminino Vizzano Casual Modelagem Clássica Solado Sintético Original",
+        "price": "109.99",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.13",
+        "sales": 1947,
+        "ratingStar": "5",
+        "shopName": "Deccó",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mu9absqxz9j43f",
+        "productLink": "https://shopee.com.br/product/800864347/53906798892",
+        "offerLink": "https://s.shopee.com.br/1BNBgLDmqG"
+      },
+      "_last_price": null
+    },
+    {
       "id": "41357615567",
       "name": "Óculos De Sol Fotochromáticos Retro Quadrados Com Proteção Uv E Estrutura Leve, Ideais Para Praia, Ciclismo E viagens",
       "price": 10.79,
@@ -18637,35 +18665,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxh-mdkf0rvlvaxla4",
         "productLink": "https://shopee.com.br/product/1225218501/23394320342",
         "offerLink": "https://s.shopee.com.br/3B8CC60L9a"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "54217383744",
-      "name": "Luva Meio Dedo Curta Proteção Solar UV50+ Dortler Confortável Premiun Moto Bike Pesca",
-      "price": 39.87,
-      "original_price": 68.74,
-      "discount": 42.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-msqewf20xekl25",
-      "link": "https://s.shopee.com.br/7pu5S3x0AT",
-      "rating": "4.9",
-      "sales": 89,
-      "shop": "KIERY OFICIAL",
-      "category": "luva pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 54217383744,
-        "productName": "Luva Meio Dedo Curta Proteção Solar UV50+ Dortler Confortável Premiun Moto Bike Pesca",
-        "price": "39.87",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.11",
-        "sales": 89,
-        "ratingStar": "4.9",
-        "shopName": "KIERY OFICIAL",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-msqewf20xekl25",
-        "productLink": "https://shopee.com.br/product/277532736/54217383744",
-        "offerLink": "https://s.shopee.com.br/7pu5S3x0AT"
       },
       "_last_price": null
     },
@@ -20243,7 +20242,7 @@
       "discount": 39.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhjd1awlb7qd2",
-      "link": "https://s.shopee.com.br/9APPL4N6yM",
+      "link": "https://s.shopee.com.br/3g4Wew4GlV",
       "rating": "4.8",
       "sales": 2822,
       "shop": "Sophia.shoes",
@@ -20260,7 +20259,7 @@
         "shopName": "Sophia.shoes",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhjd1awlb7qd2",
         "productLink": "https://shopee.com.br/product/1196161504/23094680434",
-        "offerLink": "https://s.shopee.com.br/9APPL4N6yM"
+        "offerLink": "https://s.shopee.com.br/3g4Wew4GlV"
       },
       "_last_price": null
     },
@@ -20272,7 +20271,7 @@
       "discount": 39.0,
       "commission": 16.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-li3p8dqyzbzz7b",
-      "link": "https://s.shopee.com.br/1gJOPHpfBz",
+      "link": "https://s.shopee.com.br/2qVPfP7RSQ",
       "rating": "4.8",
       "sales": 2317,
       "shop": "R.SHOESS",
@@ -20289,7 +20288,7 @@
         "shopName": "R.SHOESS",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li3p8dqyzbzz7b",
         "productLink": "https://shopee.com.br/product/426736090/22895975988",
-        "offerLink": "https://s.shopee.com.br/1gJOPHpfBz"
+        "offerLink": "https://s.shopee.com.br/2qVPfP7RSQ"
       },
       "_last_price": null
     },
@@ -20301,7 +20300,7 @@
       "discount": 39.0,
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7m8vni9x7roa2",
-      "link": "https://s.shopee.com.br/2BFf0CnlB6",
+      "link": "https://s.shopee.com.br/5AtKRgyYiu",
       "rating": "4.9",
       "sales": 2442,
       "shop": "Loja Light",
@@ -20318,7 +20317,7 @@
         "shopName": "Loja Light",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7m8vni9x7roa2",
         "productLink": "https://shopee.com.br/product/908041635/23398336644",
-        "offerLink": "https://s.shopee.com.br/2BFf0CnlB6"
+        "offerLink": "https://s.shopee.com.br/5AtKRgyYiu"
       },
       "_last_price": null
     },
@@ -20649,7 +20648,7 @@
       "discount": 38.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8259t-mg8ewakhp5ak3a",
-      "link": "https://s.shopee.com.br/8KqILTEuGU",
+      "link": "https://s.shopee.com.br/qkLHf3P6T",
       "rating": "5",
       "sales": 2316,
       "shop": "Magnifico BO",
@@ -20666,7 +20665,7 @@
         "shopName": "Magnifico BO",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259t-mg8ewakhp5ak3a",
         "productLink": "https://shopee.com.br/product/422903254/23498913995",
-        "offerLink": "https://s.shopee.com.br/8KqILTEuGU"
+        "offerLink": "https://s.shopee.com.br/qkLHf3P6T"
       },
       "_last_price": null
     },
@@ -21229,7 +21228,7 @@
       "discount": 37.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134207-824ha-mpwwe4ggmfij72",
-      "link": "https://s.shopee.com.br/8fT8k5DdaS",
+      "link": "https://s.shopee.com.br/113lTy2llW",
       "rating": "4.9",
       "sales": 2772,
       "shop": "Essence Lab",
@@ -21246,7 +21245,7 @@
         "shopName": "Essence Lab",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-824ha-mpwwe4ggmfij72",
         "productLink": "https://shopee.com.br/product/1833231900/58213240939",
-        "offerLink": "https://s.shopee.com.br/8fT8k5DdaS"
+        "offerLink": "https://s.shopee.com.br/113lTy2llW"
       },
       "_last_price": null
     },
@@ -21711,35 +21710,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261i-mkcjnrt0gvlu4d",
         "productLink": "https://shopee.com.br/product/392545055/23899161746",
         "offerLink": "https://s.shopee.com.br/3Vl2aXyqh2"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "55508351298",
-      "name": "Desinfetante Concentrado 1 litro faz 50 litros - Nup desinfetantes",
-      "price": 26.31,
-      "original_price": 41.11,
-      "discount": 36.0,
-      "commission": 23.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-81zup-mmrk4iywe1oi7c",
-      "link": "https://s.shopee.com.br/1BARPWeZD",
-      "rating": "4.8",
-      "sales": 559,
-      "shop": "Limpio Store",
-      "category": "desinfetante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 55508351298,
-        "productName": "Desinfetante Concentrado 1 litro faz 50 litros - Nup desinfetantes",
-        "price": "26.31",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.23",
-        "sales": 559,
-        "ratingStar": "4.8",
-        "shopName": "Limpio Store",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zup-mmrk4iywe1oi7c",
-        "productLink": "https://shopee.com.br/product/493059579/55508351298",
-        "offerLink": "https://s.shopee.com.br/1BARPWeZD"
       },
       "_last_price": null
     },
@@ -22817,6 +22787,35 @@
       "_last_price": null
     },
     {
+      "id": "51607933821",
+      "name": "Interruptores De Teclado Mecânico Clicky & Tátil , Lineares Universais Com design À Prova De Poeira , Personalizáveis E ",
+      "price": 44.16,
+      "original_price": 66.91,
+      "discount": 34.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134301-8260a-mlytxojiccg106",
+      "link": "https://s.shopee.com.br/5q91Emm7cq",
+      "rating": "4.9",
+      "sales": 96,
+      "shop": "Value Choice",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 51607933821,
+        "productName": "Interruptores De Teclado Mecânico Clicky & Tátil , Lineares Universais Com design À Prova De Poeira , Personalizáveis E ",
+        "price": "44.16",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.09",
+        "sales": 96,
+        "ratingStar": "4.9",
+        "shopName": "Value Choice",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-8260a-mlytxojiccg106",
+        "productLink": "https://shopee.com.br/product/230709939/51607933821",
+        "offerLink": "https://s.shopee.com.br/5q91Emm7cq"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23294065712",
       "name": "Fonte ATX 230W Real Bivolt Chaveada Silenciosa para PC Desktop com Conectores SATA IDE",
       "price": 49.9,
@@ -22929,35 +22928,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
         "productLink": "https://shopee.com.br/product/1627792845/41132780075",
         "offerLink": "https://s.shopee.com.br/8pmbH26yDR"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22397902815",
-      "name": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
-      "price": 26.5,
-      "original_price": 40.15,
-      "discount": 34.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
-      "link": "https://s.shopee.com.br/7KxlAt4jgA",
-      "rating": "4.9",
-      "sales": 3904,
-      "shop": "MANIAPLAST",
-      "category": "desinfetante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22397902815,
-        "productName": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
-        "price": "26.5",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.1",
-        "sales": 3904,
-        "ratingStar": "4.9",
-        "shopName": "MANIAPLAST",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
-        "productLink": "https://shopee.com.br/product/882971017/22397902815",
-        "offerLink": "https://s.shopee.com.br/7KxlAt4jgA"
       },
       "_last_price": null
     },
@@ -23346,7 +23316,7 @@
       "discount": 34.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825b6-mse8pevvdddx86",
-      "link": "https://s.shopee.com.br/2LZ5CVn7qB",
+      "link": "https://s.shopee.com.br/3qNwrF3dQW",
       "rating": "4.7",
       "sales": 1334,
       "shop": "marialciagomesdossantos111",
@@ -23363,7 +23333,7 @@
         "shopName": "marialciagomesdossantos111",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b6-mse8pevvdddx86",
         "productLink": "https://shopee.com.br/product/1866023234/58267143317",
-        "offerLink": "https://s.shopee.com.br/2LZ5CVn7qB"
+        "offerLink": "https://s.shopee.com.br/3qNwrF3dQW"
       },
       "_last_price": null
     },
@@ -23451,6 +23421,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mtidqz7l6hoi89",
         "productLink": "https://shopee.com.br/product/472673093/10965664850",
         "offerLink": "https://s.shopee.com.br/3g4Sn0yR8d"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22219940997",
+      "name": "Colete Boia infantil de natação flutuante com braçadeira de segurança infantil de 1 a 6 anos",
+      "price": 39.5,
+      "original_price": 59.85,
+      "discount": 34.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdadlj8req6986",
+      "link": "https://s.shopee.com.br/3B8G44QtKb",
+      "rating": "4.9",
+      "sales": 380,
+      "shop": "YetshopSP",
+      "category": "colete salva vidas",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22219940997,
+        "productName": "Colete Boia infantil de natação flutuante com braçadeira de segurança infantil de 1 a 6 anos",
+        "price": "39.5",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.11",
+        "sales": 380,
+        "ratingStar": "4.9",
+        "shopName": "YetshopSP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdadlj8req6986",
+        "productLink": "https://shopee.com.br/product/893340339/22219940997",
+        "offerLink": "https://s.shopee.com.br/3B8G44QtKb"
       },
       "_last_price": null
     },
@@ -23596,35 +23595,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b7-mqyt28n3n1ty7a",
         "productLink": "https://shopee.com.br/product/1054519320/58264754299",
         "offerLink": "https://s.shopee.com.br/2BFf06d3MJ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "14463127889",
-      "name": "Kit S.O.S Hidratação Azeite de Oliva Shampoo e Condicionador Litrão Salon Line",
-      "price": 49.25,
-      "original_price": 73.51,
-      "discount": 33.0,
-      "commission": 21.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8258o-msbwr4svgah18a",
-      "link": "https://s.shopee.com.br/5LCj6dfHRB",
-      "rating": "4.9",
-      "sales": 1891,
-      "shop": "Salon Line",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 14463127889,
-        "productName": "Kit S.O.S Hidratação Azeite de Oliva Shampoo e Condicionador Litrão Salon Line",
-        "price": "49.25",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.21",
-        "sales": 1891,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258o-msbwr4svgah18a",
-        "productLink": "https://shopee.com.br/product/616222685/14463127889",
-        "offerLink": "https://s.shopee.com.br/5LCj6dfHRB"
       },
       "_last_price": null
     },
@@ -24118,35 +24088,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-msiirk4uvpc6f8",
         "productLink": "https://shopee.com.br/product/1597281060/58217241484",
         "offerLink": "https://s.shopee.com.br/3qNv6CXMkB"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "28220247034",
-      "name": "100 Pçs Flutuador De Pesca Luz Vara Fluorescente Lightstick LED Escuro Brilho Varas Acessórios",
-      "price": 18.91,
-      "original_price": 28.22,
-      "discount": 33.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfha-m3ha79jv2u575c",
-      "link": "https://s.shopee.com.br/8pmZdo3VYK",
-      "rating": "4.8",
-      "sales": 11,
-      "shop": "john_sinclair.br",
-      "category": "flutuador pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 28220247034,
-        "productName": "100 Pçs Flutuador De Pesca Luz Vara Fluorescente Lightstick LED Escuro Brilho Varas Acessórios",
-        "price": "18.91",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.08",
-        "sales": 11,
-        "ratingStar": "4.8",
-        "shopName": "john_sinclair.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfha-m3ha79jv2u575c",
-        "productLink": "https://shopee.com.br/product/1413044405/28220247034",
-        "offerLink": "https://s.shopee.com.br/8pmZdo3VYK"
       },
       "_last_price": null
     },
@@ -25224,6 +25165,35 @@
       "_last_price": null
     },
     {
+      "id": "22397902815",
+      "name": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
+      "price": 27.99,
+      "original_price": 39.99,
+      "discount": 30.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
+      "link": "https://s.shopee.com.br/7KxlAt4jgA",
+      "rating": "4.9",
+      "sales": 3904,
+      "shop": "MANIAPLAST",
+      "category": "desinfetante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22397902815,
+        "productName": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
+        "price": "27.99",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.1",
+        "sales": 3904,
+        "ratingStar": "4.9",
+        "shopName": "MANIAPLAST",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
+        "productLink": "https://shopee.com.br/product/882971017/22397902815",
+        "offerLink": "https://s.shopee.com.br/7KxlAt4jgA"
+      },
+      "_last_price": null
+    },
+    {
       "id": "14494160625",
       "name": "Kit Shampoo + Condicionador SOS Bomba Original Salon Line 200ml",
       "price": 19.95,
@@ -26043,7 +26013,7 @@
       "discount": 29.0,
       "commission": 6.0,
       "image": "https://cf.shopee.com.br/file/9ea44eb398263976d03b4461b76ab069",
-      "link": "https://s.shopee.com.br/9fLfvv9pYc",
+      "link": "https://s.shopee.com.br/gQv5M42RQ",
       "rating": "4.7",
       "sales": 2795,
       "shop": "Dana Cosmeticos",
@@ -26060,7 +26030,7 @@
         "shopName": "Dana Cosmeticos",
         "imageUrl": "https://cf.shopee.com.br/file/9ea44eb398263976d03b4461b76ab069",
         "productLink": "https://shopee.com.br/product/436104412/19747855339",
-        "offerLink": "https://s.shopee.com.br/9fLfvv9pYc"
+        "offerLink": "https://s.shopee.com.br/gQv5M42RQ"
       },
       "_last_price": null
     },
@@ -26507,7 +26477,7 @@
       "discount": 28.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8ng9ispjn5ub3",
-      "link": "https://s.shopee.com.br/2gBzIJrvo6",
+      "link": "https://s.shopee.com.br/9zyaCQNj99",
       "rating": "4.9",
       "sales": 41,
       "shop": "BESTBYBRASILGOLD",
@@ -26524,7 +26494,7 @@
         "shopName": "BESTBYBRASILGOLD",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8ng9ispjn5ub3",
         "productLink": "https://shopee.com.br/product/1494297971/18198179258",
-        "offerLink": "https://s.shopee.com.br/2gBzIJrvo6"
+        "offerLink": "https://s.shopee.com.br/9zyaCQNj99"
       },
       "_last_price": null
     },
@@ -27638,7 +27608,7 @@
       "discount": 25.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/sg-11134201-81zux-mmtcmcyyyj9ede",
-      "link": "https://s.shopee.com.br/7KxlsF5j1s",
+      "link": "https://s.shopee.com.br/1BNBgH28QZ",
       "rating": "4.7",
       "sales": 1800,
       "shop": "HC_Acessorios",
@@ -27655,7 +27625,7 @@
         "shopName": "HC_Acessorios",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zux-mmtcmcyyyj9ede",
         "productLink": "https://shopee.com.br/product/1777939087/58208463677",
-        "offerLink": "https://s.shopee.com.br/7KxlsF5j1s"
+        "offerLink": "https://s.shopee.com.br/1BNBgH28QZ"
       },
       "_last_price": null
     },
@@ -27834,35 +27804,6 @@
       "_last_price": null
     },
     {
-      "id": "23898553736",
-      "name": "Kit 6 Forma de Silicone para Fritadeira Air Fryer com Alça Antiaderente Cozinha Forma de Airfryer Silicone 6 Tamanhos",
-      "price": 14.9,
-      "original_price": 19.87,
-      "discount": 25.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdx3-mdl9srqwsudw3e",
-      "link": "https://s.shopee.com.br/30olzicGFj",
-      "rating": "4.6",
-      "sales": 1893,
-      "shop": "Rio Shop Bazar",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23898553736,
-        "productName": "Kit 6 Forma de Silicone para Fritadeira Air Fryer com Alça Antiaderente Cozinha Forma de Airfryer Silicone 6 Tamanhos",
-        "price": "14.9",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.18",
-        "sales": 1893,
-        "ratingStar": "4.6",
-        "shopName": "Rio Shop Bazar",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx3-mdl9srqwsudw3e",
-        "productLink": "https://shopee.com.br/product/1545872929/23898553736",
-        "offerLink": "https://s.shopee.com.br/30olzicGFj"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58255439241",
       "name": "Panela de Pressão em Alumínio – Vários Tamanhos (2L a 10L) – Resistentes e Seguras",
       "price": 60.68,
@@ -27928,7 +27869,7 @@
       "discount": 25.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb8t6kj9b7q75",
-      "link": "https://s.shopee.com.br/8KqILXQHf9",
+      "link": "https://s.shopee.com.br/6q1YQksDL5",
       "rating": "4.6",
       "sales": 2645,
       "shop": "Phipé",
@@ -27945,7 +27886,7 @@
         "shopName": "Phipé",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb8t6kj9b7q75",
         "productLink": "https://shopee.com.br/product/1053409943/20398003234",
-        "offerLink": "https://s.shopee.com.br/8KqILXQHf9"
+        "offerLink": "https://s.shopee.com.br/6q1YQksDL5"
       },
       "_last_price": null
     },
@@ -27957,7 +27898,7 @@
       "discount": 25.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltpqm0qa514v1c",
-      "link": "https://s.shopee.com.br/qkHPkspsy",
+      "link": "https://s.shopee.com.br/40hN3Y305n",
       "rating": "4.7",
       "sales": 2031,
       "shop": "HMA SHOES",
@@ -27974,7 +27915,7 @@
         "shopName": "HMA SHOES",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltpqm0qa514v1c",
         "productLink": "https://shopee.com.br/product/329573891/3292012631",
-        "offerLink": "https://s.shopee.com.br/qkHPkspsy"
+        "offerLink": "https://s.shopee.com.br/40hN3Y305n"
       },
       "_last_price": null
     },
@@ -28305,7 +28246,7 @@
       "discount": 24.0,
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7reou-m83egtsfqg7rd7",
-      "link": "https://s.shopee.com.br/6q1VHHLyDp",
+      "link": "https://s.shopee.com.br/3g4WepKIPS",
       "rating": "4.9",
       "sales": 1013,
       "shop": "Eletricario Loja Oficial",
@@ -28322,7 +28263,7 @@
         "shopName": "Eletricario Loja Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reou-m83egtsfqg7rd7",
         "productLink": "https://shopee.com.br/product/951290141/23498370145",
-        "offerLink": "https://s.shopee.com.br/6q1VHHLyDp"
+        "offerLink": "https://s.shopee.com.br/3g4WepKIPS"
       },
       "_last_price": null
     },
@@ -29175,7 +29116,7 @@
       "discount": 22.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfxa7no9rsam46",
-      "link": "https://s.shopee.com.br/8fT8k9P0zF",
+      "link": "https://s.shopee.com.br/3B8G416AmS",
       "rating": "4.8",
       "sales": 3107,
       "shop": "BEST STORE OFICIAL.",
@@ -29192,7 +29133,7 @@
         "shopName": "BEST STORE OFICIAL.",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfxa7no9rsam46",
         "productLink": "https://shopee.com.br/product/880893726/20698436405",
-        "offerLink": "https://s.shopee.com.br/8fT8k9P0zF"
+        "offerLink": "https://s.shopee.com.br/3B8G416AmS"
       },
       "_last_price": null
     },
@@ -29338,6 +29279,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mpu001bm74e865",
         "productLink": "https://shopee.com.br/product/300048124/45352758433",
         "offerLink": "https://s.shopee.com.br/qkHPbJ53u"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58211674887",
+      "name": "Etiqueta Validade Congelamento BOPP para Manipulação de Alimento Anvisa 5x3cm a Prova D'água 50/1000",
+      "price": 10.99,
+      "original_price": 13.91,
+      "discount": 21.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mouk56bb7mdc59",
+      "link": "https://s.shopee.com.br/8V9mPfGJ5J",
+      "rating": "4.9",
+      "sales": 2061,
+      "shop": "KREVI_ARTES_E_VARIEDADES",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58211674887,
+        "productName": "Etiqueta Validade Congelamento BOPP para Manipulação de Alimento Anvisa 5x3cm a Prova D'água 50/1000",
+        "price": "10.99",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.12",
+        "sales": 2061,
+        "ratingStar": "4.9",
+        "shopName": "KREVI_ARTES_E_VARIEDADES",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mouk56bb7mdc59",
+        "productLink": "https://shopee.com.br/product/1259099215/58211674887",
+        "offerLink": "https://s.shopee.com.br/8V9mPfGJ5J"
       },
       "_last_price": null
     },
@@ -29802,6 +29772,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8nhpczsfg5t37",
         "productLink": "https://shopee.com.br/product/277163538/19099682372",
         "offerLink": "https://s.shopee.com.br/1qcqiISy5H"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "53419040158",
+      "name": "SSD M.2 NVMe 2TB Western Digital WD Green SN350 Velocidade de Leitura/Gravação até 3200/3000MB/s Gen3x4 WDS200T3G0C",
+      "price": 1614.9,
+      "original_price": 2018.62,
+      "discount": 20.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259g-mu5c4oqdufpmf5",
+      "link": "https://s.shopee.com.br/AAI0OjN5oA",
+      "rating": "5",
+      "sales": 1,
+      "shop": "TNTinfoLoja",
+      "category": "ssd nvme",
+      "source": "shopee",
+      "_item": {
+        "itemId": 53419040158,
+        "productName": "SSD M.2 NVMe 2TB Western Digital WD Green SN350 Velocidade de Leitura/Gravação até 3200/3000MB/s Gen3x4 WDS200T3G0C",
+        "price": "1614.9",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.03",
+        "sales": 1,
+        "ratingStar": "5",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-mu5c4oqdufpmf5",
+        "productLink": "https://shopee.com.br/product/344381236/53419040158",
+        "offerLink": "https://s.shopee.com.br/AAI0OjN5oA"
       },
       "_last_price": null
     },
@@ -30908,6 +30907,35 @@
       "_last_price": null
     },
     {
+      "id": "58250037945",
+      "name": "Caixa Porta Papel Higiênico Dispenser Organizador Banheiro Com Suporte Celular e Porta Detergente",
+      "price": 31.98,
+      "original_price": 39.0,
+      "discount": 18.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8258j-muexkfr95t6pbf",
+      "link": "https://s.shopee.com.br/3Vl6SWKvkP",
+      "rating": "4.9",
+      "sales": 685,
+      "shop": "SimplesEcox",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58250037945,
+        "productName": "Caixa Porta Papel Higiênico Dispenser Organizador Banheiro Com Suporte Celular e Porta Detergente",
+        "price": "31.98",
+        "priceDiscountRate": 18,
+        "commissionRate": "0.03",
+        "sales": 685,
+        "ratingStar": "4.9",
+        "shopName": "SimplesEcox",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258j-muexkfr95t6pbf",
+        "productLink": "https://shopee.com.br/product/907689844/58250037945",
+        "offerLink": "https://s.shopee.com.br/3Vl6SWKvkP"
+      },
+      "_last_price": null
+    },
+    {
       "id": "15937859604",
       "name": "Kit c/10 panos de prato louça premium microfibra 39x59 - Cores Sortidas",
       "price": 36.9,
@@ -31263,7 +31291,7 @@
       "discount": 17.0,
       "commission": 21.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mqhpurv94nb423",
-      "link": "https://s.shopee.com.br/1BN8KoAm7u",
+      "link": "https://s.shopee.com.br/60SRR9SH1Y",
       "rating": "4.8",
       "sales": 2548,
       "shop": "Vitrine360",
@@ -31280,7 +31308,7 @@
         "shopName": "Vitrine360",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mqhpurv94nb423",
         "productLink": "https://shopee.com.br/product/1386679095/23394200396",
-        "offerLink": "https://s.shopee.com.br/1BN8KoAm7u"
+        "offerLink": "https://s.shopee.com.br/60SRR9SH1Y"
       },
       "_last_price": null
     },
@@ -31691,6 +31719,35 @@
       "_last_price": null
     },
     {
+      "id": "58213023655",
+      "name": "Kit 3un Limpador 500ml UAU Perfume Chá Branco",
+      "price": 15.9,
+      "original_price": 18.93,
+      "discount": 16.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820me-mptfiyslpmo005",
+      "link": "https://s.shopee.com.br/W7Ut34fmN",
+      "rating": "4.9",
+      "sales": 2064,
+      "shop": " UAUIngleza",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58213023655,
+        "productName": "Kit 3un Limpador 500ml UAU Perfume Chá Branco",
+        "price": "15.9",
+        "priceDiscountRate": 16,
+        "commissionRate": "0.13",
+        "sales": 2064,
+        "ratingStar": "4.9",
+        "shopName": " UAUIngleza",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mptfiyslpmo005",
+        "productLink": "https://shopee.com.br/product/1658245933/58213023655",
+        "offerLink": "https://s.shopee.com.br/W7Ut34fmN"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22693991174",
       "name": "Coleira para Cães/Gatos Contra Pulgas, Carrapatos e Leishmaniose, Proteção Ajustável de Silicone Anti-Mosquito 8 Meses",
       "price": 17.99,
@@ -32097,6 +32154,35 @@
       "_last_price": null
     },
     {
+      "id": "23497328671",
+      "name": "Bifinho Mastigável Petiscão Palito Para Cães Sabor Frango 60g",
+      "price": 3.23,
+      "original_price": 3.8,
+      "discount": 15.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rccm-lrert5z1vgk2c4",
+      "link": "https://s.shopee.com.br/60SQ0gHSfA",
+      "rating": "4.9",
+      "sales": 265,
+      "shop": "Popular Pet",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23497328671,
+        "productName": "Bifinho Mastigável Petiscão Palito Para Cães Sabor Frango 60g",
+        "price": "3.23",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.03",
+        "sales": 265,
+        "ratingStar": "4.9",
+        "shopName": "Popular Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rccm-lrert5z1vgk2c4",
+        "productLink": "https://shopee.com.br/product/398944029/23497328671",
+        "offerLink": "https://s.shopee.com.br/60SQ0gHSfA"
+      },
+      "_last_price": null
+    },
+    {
       "id": "13946311261",
       "name": "Ração Úmida Sachê GranPlus Gourmet Gatos Adultos Trato Urinário Frango 85g",
       "price": 4.47,
@@ -32151,6 +32237,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdz6bf1lrd3668",
         "productLink": "https://shopee.com.br/product/893325189/22794275350",
         "offerLink": "https://s.shopee.com.br/40hJBYpz8Q"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58204034258",
+      "name": "Carretilha BLACK  PIRA 400- COM ALARME SONORO 11 Rolamentos DRAG 18 KG.",
+      "price": 242.25,
+      "original_price": 285.0,
+      "discount": 15.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjx7ntlrco3q52",
+      "link": "https://s.shopee.com.br/9KitPND5gR",
+      "rating": "4.9",
+      "sales": 56,
+      "shop": "Jeh Pescador",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58204034258,
+        "productName": "Carretilha BLACK  PIRA 400- COM ALARME SONORO 11 Rolamentos DRAG 18 KG.",
+        "price": "242.25",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.03",
+        "sales": 56,
+        "ratingStar": "4.9",
+        "shopName": "Jeh Pescador",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjx7ntlrco3q52",
+        "productLink": "https://shopee.com.br/product/959464995/58204034258",
+        "offerLink": "https://s.shopee.com.br/9KitPND5gR"
       },
       "_last_price": null
     },
@@ -32586,35 +32701,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/afbbd260b25ebb25f36d8e241418f01a",
         "productLink": "https://shopee.com.br/product/288253249/9570518567",
         "offerLink": "https://s.shopee.com.br/9fLfw4JBlN"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22598354628",
-      "name": "Rede Para Peixe Sambura Viveiro Para Peixes Três Argolas 30x40cm",
-      "price": 33.97,
-      "original_price": 39.96,
-      "discount": 15.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7qw450mjhqs8f",
-      "link": "https://s.shopee.com.br/70KySVw2cx",
-      "rating": "4.7",
-      "sales": 97,
-      "shop": "FastEcomSP",
-      "category": "rede de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22598354628,
-        "productName": "Rede Para Peixe Sambura Viveiro Para Peixes Três Argolas 30x40cm",
-        "price": "33.97",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.03",
-        "sales": 97,
-        "ratingStar": "4.7",
-        "shopName": "FastEcomSP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7qw450mjhqs8f",
-        "productLink": "https://shopee.com.br/product/1058451512/22598354628",
-        "offerLink": "https://s.shopee.com.br/70KySVw2cx"
       },
       "_last_price": null
     }
