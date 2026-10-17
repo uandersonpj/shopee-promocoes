@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T07:08:24.173731+00:00",
+  "updated_at": "2026-10-17T07:27:04.333521+00:00",
   "total": 1121,
   "products": [
     {
@@ -896,7 +896,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lzop7krz80iq1e",
         "productLink": "https://shopee.com.br/product/218996205/25391678999",
         "offerLink": "https://s.shopee.com.br/W7T7qY2n9"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "45364806848",
@@ -28011,35 +28012,6 @@
       "_last_price": null
     },
     {
-      "id": "20698436405",
-      "name": "Tênis feminino lançamento novidade leve confortável casual plataforma top!",
-      "price": 47.92,
-      "original_price": 63.89,
-      "discount": 25.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfxa7no9rsam46",
-      "link": "https://s.shopee.com.br/8fT8k9P0zF",
-      "rating": "4.8",
-      "sales": 3107,
-      "shop": "BEST STORE OFICIAL.",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20698436405,
-        "productName": "Tênis feminino lançamento novidade leve confortável casual plataforma top!",
-        "price": "47.92",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.13",
-        "sales": 3107,
-        "ratingStar": "4.8",
-        "shopName": "BEST STORE OFICIAL.",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfxa7no9rsam46",
-        "productLink": "https://shopee.com.br/product/880893726/20698436405",
-        "offerLink": "https://s.shopee.com.br/8fT8k9P0zF"
-      },
-      "_last_price": null
-    },
-    {
       "id": "3292012631",
       "name": "tenis feminino estilo mocatenis confort",
       "price": 67.9,
@@ -29225,6 +29197,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5tzkmea0jw255",
         "productLink": "https://shopee.com.br/product/375051668/22798180508",
         "offerLink": "https://s.shopee.com.br/8AWs9EQv04"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20698436405",
+      "name": "Tênis feminino lançamento novidade leve confortável casual plataforma top!",
+      "price": 49.9,
+      "original_price": 63.97,
+      "discount": 22.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfxa7no9rsam46",
+      "link": "https://s.shopee.com.br/8fT8k9P0zF",
+      "rating": "4.8",
+      "sales": 3107,
+      "shop": "BEST STORE OFICIAL.",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20698436405,
+        "productName": "Tênis feminino lançamento novidade leve confortável casual plataforma top!",
+        "price": "49.9",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.13",
+        "sales": 3107,
+        "ratingStar": "4.8",
+        "shopName": "BEST STORE OFICIAL.",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfxa7no9rsam46",
+        "productLink": "https://shopee.com.br/product/880893726/20698436405",
+        "offerLink": "https://s.shopee.com.br/8fT8k9P0zF"
       },
       "_last_price": null
     },
