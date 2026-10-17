@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T04:57:29.862535+00:00",
+  "updated_at": "2026-10-17T05:16:12.941055+00:00",
   "total": 1125,
   "products": [
     {
@@ -345,7 +345,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mu7tano0c83m51",
         "productLink": "https://shopee.com.br/product/427457955/49466540071",
         "offerLink": "https://s.shopee.com.br/9zyWKViMTV"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22294440400",
@@ -1067,6 +1068,35 @@
       "_last_price": null
     },
     {
+      "id": "18999727561",
+      "name": "Suporte Articulado Para Monitor 13 a 32 Pistão a Gás Ajustável Zinnia Nimbo 110 Preto",
+      "price": 89.74,
+      "original_price": 390.17,
+      "discount": 77.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9la20m7sw180",
+      "link": "https://s.shopee.com.br/20wEnl5EFc",
+      "rating": "4.9",
+      "sales": 1066,
+      "shop": "Pichau",
+      "category": "monitor",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18999727561,
+        "productName": "Suporte Articulado Para Monitor 13 a 32 Pistão a Gás Ajustável Zinnia Nimbo 110 Preto",
+        "price": "89.74",
+        "priceDiscountRate": 77,
+        "commissionRate": "0.03",
+        "sales": 1066,
+        "ratingStar": "4.9",
+        "shopName": "Pichau",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9la20m7sw180",
+        "productLink": "https://shopee.com.br/product/627750190/18999727561",
+        "offerLink": "https://s.shopee.com.br/20wEnl5EFc"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20197726295",
       "name": "Caixa Saco Organizador Cobertor Casaco Guarda Roupa Ecológico Anti-Poeira Umidade Insetos Multiuso",
       "price": 13.81,
@@ -1241,31 +1271,31 @@
       "_last_price": null
     },
     {
-      "id": "18999727561",
-      "name": "Suporte Articulado Para Monitor 13 a 32 Pistão a Gás Ajustável Zinnia Nimbo 110 Preto",
-      "price": 92.9,
-      "original_price": 387.08,
+      "id": "22194360521",
+      "name": "Teclado Mecanico TGT Sherman V3 C1, Rainbow, ABNT2, Switch Vermelho, Preto, TGT-SHRC-RD01",
+      "price": 91.91,
+      "original_price": 382.96,
       "discount": 76.0,
       "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9la20m7sw180",
-      "link": "https://s.shopee.com.br/20wEnl5EFc",
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mqeqor4mxm2o65",
+      "link": "https://s.shopee.com.br/3g4SmpY58k",
       "rating": "4.9",
-      "sales": 1066,
+      "sales": 158,
       "shop": "Pichau",
-      "category": "monitor",
+      "category": "teclado mecanico",
       "source": "shopee",
       "_item": {
-        "itemId": 18999727561,
-        "productName": "Suporte Articulado Para Monitor 13 a 32 Pistão a Gás Ajustável Zinnia Nimbo 110 Preto",
-        "price": "92.9",
+        "itemId": 22194360521,
+        "productName": "Teclado Mecanico TGT Sherman V3 C1, Rainbow, ABNT2, Switch Vermelho, Preto, TGT-SHRC-RD01",
+        "price": "91.91",
         "priceDiscountRate": 76,
         "commissionRate": "0.03",
-        "sales": 1066,
+        "sales": 158,
         "ratingStar": "4.9",
         "shopName": "Pichau",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9la20m7sw180",
-        "productLink": "https://shopee.com.br/product/627750190/18999727561",
-        "offerLink": "https://s.shopee.com.br/20wEnl5EFc"
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mqeqor4mxm2o65",
+        "productLink": "https://shopee.com.br/product/627750190/22194360521",
+        "offerLink": "https://s.shopee.com.br/3g4SmpY58k"
       },
       "_last_price": null
     },
@@ -1440,35 +1470,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-msxgtp629z477b",
         "productLink": "https://shopee.com.br/product/424883518/23098214172",
         "offerLink": "https://s.shopee.com.br/5fpXAfmxum"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22194360521",
-      "name": "Teclado Mecanico TGT Sherman V3 C1, Rainbow, ABNT2, Switch Vermelho, Preto, TGT-SHRC-RD01",
-      "price": 93.9,
-      "original_price": 375.6,
-      "discount": 75.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mqeqor4mxm2o65",
-      "link": "https://s.shopee.com.br/3g4SmpY58k",
-      "rating": "4.9",
-      "sales": 158,
-      "shop": "Pichau",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22194360521,
-        "productName": "Teclado Mecanico TGT Sherman V3 C1, Rainbow, ABNT2, Switch Vermelho, Preto, TGT-SHRC-RD01",
-        "price": "93.9",
-        "priceDiscountRate": 75,
-        "commissionRate": "0.03",
-        "sales": 158,
-        "ratingStar": "4.9",
-        "shopName": "Pichau",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mqeqor4mxm2o65",
-        "productLink": "https://shopee.com.br/product/627750190/22194360521",
-        "offerLink": "https://s.shopee.com.br/3g4SmpY58k"
       },
       "_last_price": null
     },
@@ -13418,6 +13419,35 @@
       "_last_price": null
     },
     {
+      "id": "49108107903",
+      "name": "Kit 10 Pote Hermético Empilháveis Porta Mantimento Cozinha Organizador Rebirth",
+      "price": 79.4,
+      "original_price": 158.8,
+      "discount": 50.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mmje77j1jpc068",
+      "link": "https://s.shopee.com.br/6VOeA4eDzr",
+      "rating": "4.9",
+      "sales": 5135,
+      "shop": "EM CASA ENCONTRA",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 49108107903,
+        "productName": "Kit 10 Pote Hermético Empilháveis Porta Mantimento Cozinha Organizador Rebirth",
+        "price": "79.4",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.07",
+        "sales": 5135,
+        "ratingStar": "4.9",
+        "shopName": "EM CASA ENCONTRA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mmje77j1jpc068",
+        "productLink": "https://shopee.com.br/product/528261467/49108107903",
+        "offerLink": "https://s.shopee.com.br/6VOeA4eDzr"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58265081114",
       "name": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
       "price": 9.99,
@@ -13820,6 +13850,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r8-mp4n5zizxs7f75",
         "productLink": "https://shopee.com.br/product/1006215031/25721342244",
         "offerLink": "https://s.shopee.com.br/905z8lwwZy"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20597347457",
+      "name": "Kit 2 Tênis Masculino Polo Fran Sapatênis Básico Casual Com Carteira Cinto e Relógio London",
+      "price": 70.41,
+      "original_price": 140.82,
+      "discount": 50.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98p-ll9k0xrw95jfef",
+      "link": "https://s.shopee.com.br/4B0jNtFLOM",
+      "rating": "4.6",
+      "sales": 1715,
+      "shop": " MISTERBOOT",
+      "category": "relogio masculino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20597347457,
+        "productName": "Kit 2 Tênis Masculino Polo Fran Sapatênis Básico Casual Com Carteira Cinto e Relógio London",
+        "price": "70.41",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.08",
+        "sales": 1715,
+        "ratingStar": "4.6",
+        "shopName": " MISTERBOOT",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98p-ll9k0xrw95jfef",
+        "productLink": "https://shopee.com.br/product/324642050/20597347457",
+        "offerLink": "https://s.shopee.com.br/4B0jNtFLOM"
       },
       "_last_price": null
     },
@@ -18083,35 +18142,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2ygt9g0iyta0",
         "productLink": "https://shopee.com.br/product/323761608/40771440846",
         "offerLink": "https://s.shopee.com.br/4qGQB7Co2Y"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20597347457",
-      "name": "Kit 2 Tênis Masculino Polo Fran Sapatênis Básico Casual Com Carteira Cinto e Relógio London",
-      "price": 79.9,
-      "original_price": 140.18,
-      "discount": 43.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98p-ll9k0xrw95jfef",
-      "link": "https://s.shopee.com.br/4B0jNtFLOM",
-      "rating": "4.6",
-      "sales": 1715,
-      "shop": " MISTERBOOT",
-      "category": "relogio masculino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20597347457,
-        "productName": "Kit 2 Tênis Masculino Polo Fran Sapatênis Básico Casual Com Carteira Cinto e Relógio London",
-        "price": "79.9",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.08",
-        "sales": 1715,
-        "ratingStar": "4.6",
-        "shopName": " MISTERBOOT",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98p-ll9k0xrw95jfef",
-        "productLink": "https://shopee.com.br/product/324642050/20597347457",
-        "offerLink": "https://s.shopee.com.br/4B0jNtFLOM"
       },
       "_last_price": null
     },
@@ -27193,35 +27223,6 @@
       "_last_price": null
     },
     {
-      "id": "22593748951",
-      "name": "Cabides Com 5 Camadas Organizador De Blusas Vestidos Calças e toalhas Leves Multifuncional",
-      "price": 10.97,
-      "original_price": 14.82,
-      "discount": 26.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6wwo48snxwn8a",
-      "link": "https://s.shopee.com.br/4VdaTf6mQ7",
-      "rating": "4.7",
-      "sales": 6078,
-      "shop": "Qalix Home",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22593748951,
-        "productName": "Cabides Com 5 Camadas Organizador De Blusas Vestidos Calças e toalhas Leves Multifuncional",
-        "price": "10.97",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.13",
-        "sales": 6078,
-        "ratingStar": "4.7",
-        "shopName": "Qalix Home",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6wwo48snxwn8a",
-        "productLink": "https://shopee.com.br/product/665367909/22593748951",
-        "offerLink": "https://s.shopee.com.br/4VdaTf6mQ7"
-      },
-      "_last_price": null
-    },
-    {
       "id": "16324454755",
       "name": "Kit SOS Cachos Coco Profundo Shampoo e Condicionador Litrão Salon Line",
       "price": 49.0,
@@ -28117,35 +28118,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfb8t6kj9b7q75",
         "productLink": "https://shopee.com.br/product/1053409943/20398003234",
         "offerLink": "https://s.shopee.com.br/8KqILXQHf9"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20698436405",
-      "name": "Tênis feminino lançamento novidade leve confortável casual plataforma top!",
-      "price": 47.92,
-      "original_price": 63.89,
-      "discount": 25.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfxa7no9rsam46",
-      "link": "https://s.shopee.com.br/8fT8k9P0zF",
-      "rating": "4.8",
-      "sales": 3107,
-      "shop": "BEST STORE OFICIAL.",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20698436405,
-        "productName": "Tênis feminino lançamento novidade leve confortável casual plataforma top!",
-        "price": "47.92",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.13",
-        "sales": 3107,
-        "ratingStar": "4.8",
-        "shopName": "BEST STORE OFICIAL.",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfxa7no9rsam46",
-        "productLink": "https://shopee.com.br/product/880893726/20698436405",
-        "offerLink": "https://s.shopee.com.br/8fT8k9P0zF"
       },
       "_last_price": null
     },
@@ -29335,6 +29307,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5tzkmea0jw255",
         "productLink": "https://shopee.com.br/product/375051668/22798180508",
         "offerLink": "https://s.shopee.com.br/8AWs9EQv04"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20698436405",
+      "name": "Tênis feminino lançamento novidade leve confortável casual plataforma top!",
+      "price": 49.9,
+      "original_price": 63.97,
+      "discount": 22.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfxa7no9rsam46",
+      "link": "https://s.shopee.com.br/8fT8k9P0zF",
+      "rating": "4.8",
+      "sales": 3107,
+      "shop": "BEST STORE OFICIAL.",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20698436405,
+        "productName": "Tênis feminino lançamento novidade leve confortável casual plataforma top!",
+        "price": "49.9",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.13",
+        "sales": 3107,
+        "ratingStar": "4.8",
+        "shopName": "BEST STORE OFICIAL.",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfxa7no9rsam46",
+        "productLink": "https://shopee.com.br/product/880893726/20698436405",
+        "offerLink": "https://s.shopee.com.br/8fT8k9P0zF"
       },
       "_last_price": null
     },
@@ -31253,35 +31254,6 @@
       "_last_price": null
     },
     {
-      "id": "22393494933",
-      "name": "Pedigree Dentastix Cães Adultos Raça Grande 7 unidades 270g Petisco Cachorro Higiene Bucal Cachorro",
-      "price": 24.9,
-      "original_price": 30.0,
-      "discount": 17.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81zu2-mkv8m298c2kgcf",
-      "link": "https://s.shopee.com.br/qkJc5fO5a",
-      "rating": "5",
-      "sales": 633,
-      "shop": "Marcinho PET",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22393494933,
-        "productName": "Pedigree Dentastix Cães Adultos Raça Grande 7 unidades 270g Petisco Cachorro Higiene Bucal Cachorro",
-        "price": "24.9",
-        "priceDiscountRate": 17,
-        "commissionRate": "0.03",
-        "sales": 633,
-        "ratingStar": "5",
-        "shopName": "Marcinho PET",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu2-mkv8m298c2kgcf",
-        "productLink": "https://shopee.com.br/product/1194006916/22393494933",
-        "offerLink": "https://s.shopee.com.br/qkJc5fO5a"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58210345834",
       "name": "Ração para Gato 10,1Kg Whiskas Premium Carne com Delicrocs",
       "price": 119.9,
@@ -32119,6 +32091,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mavi19u4ixa1c4",
         "productLink": "https://shopee.com.br/product/890111735/22194163978",
         "offerLink": "https://s.shopee.com.br/9V2Fjdrv9f"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23497328671",
+      "name": "Bifinho Mastigável Petiscão Palito Para Cães Sabor Frango 60g",
+      "price": 3.23,
+      "original_price": 3.8,
+      "discount": 15.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rccm-lrert5z1vgk2c4",
+      "link": "https://s.shopee.com.br/60SQ0gHSfA",
+      "rating": "4.9",
+      "sales": 265,
+      "shop": "Popular Pet",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23497328671,
+        "productName": "Bifinho Mastigável Petiscão Palito Para Cães Sabor Frango 60g",
+        "price": "3.23",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.03",
+        "sales": 265,
+        "ratingStar": "4.9",
+        "shopName": "Popular Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rccm-lrert5z1vgk2c4",
+        "productLink": "https://shopee.com.br/product/398944029/23497328671",
+        "offerLink": "https://s.shopee.com.br/60SQ0gHSfA"
       },
       "_last_price": null
     },
