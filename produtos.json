@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T00:36:10.800594+00:00",
+  "updated_at": "2026-10-18T00:55:42.922625+00:00",
   "total": 1128,
   "products": [
     {
@@ -230,7 +230,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmajzmcmll3a15",
         "productLink": "https://shopee.com.br/product/1467162087/49207406104",
         "offerLink": "https://s.shopee.com.br/50ZqNKJ8Fh"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "26539956454",
@@ -404,34 +405,6 @@
       }
     },
     {
-      "id": "58207521088",
-      "name": "Mini Rodo Mágico Portátil com Esponja - Limpeza Versátil e sem Esforço Mini Mop",
-      "price": 12.88,
-      "original_price": 67.79,
-      "discount": 81.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mmgdbanf22gw2b",
-      "link": "https://s.shopee.com.br/7AeN49KVwU",
-      "rating": "4.6",
-      "sales": 1858,
-      "shop": "VidaBem",
-      "category": "esponja",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58207521088,
-        "productName": "Mini Rodo Mágico Portátil com Esponja - Limpeza Versátil e sem Esforço Mini Mop",
-        "price": "12.88",
-        "priceDiscountRate": 81,
-        "commissionRate": "0.03",
-        "sales": 1858,
-        "ratingStar": "4.6",
-        "shopName": "VidaBem",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mmgdbanf22gw2b",
-        "productLink": "https://shopee.com.br/product/1647418767/58207521088",
-        "offerLink": "https://s.shopee.com.br/7AeN49KVwU"
-      }
-    },
-    {
       "id": "21997150349",
       "name": "Kit 6 Forma de Silicone para Fritadeira Air Fryer com Alça Antiaderente Cozinha",
       "price": 12.99,
@@ -545,6 +518,34 @@
         "offerLink": "https://s.shopee.com.br/7fabYBs3HW"
       },
       "_last_price": null
+    },
+    {
+      "id": "58207521088",
+      "name": "Mini Rodo Mágico Portátil com Esponja - Limpeza Versátil e sem Esforço Mini Mop",
+      "price": 12.88,
+      "original_price": 64.4,
+      "discount": 80.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mmgdbanf22gw2b",
+      "link": "https://s.shopee.com.br/7AeN49KVwU",
+      "rating": "4.6",
+      "sales": 1858,
+      "shop": "VidaBem",
+      "category": "esponja",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58207521088,
+        "productName": "Mini Rodo Mágico Portátil com Esponja - Limpeza Versátil e sem Esforço Mini Mop",
+        "price": "12.88",
+        "priceDiscountRate": 80,
+        "commissionRate": "0.03",
+        "sales": 1858,
+        "ratingStar": "4.6",
+        "shopName": "VidaBem",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mmgdbanf22gw2b",
+        "productLink": "https://shopee.com.br/product/1647418767/58207521088",
+        "offerLink": "https://s.shopee.com.br/7AeN49KVwU"
+      }
     },
     {
       "id": "21897981294",
@@ -1642,8 +1643,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lihnnsnqd8dscc",
         "productLink": "https://shopee.com.br/product/291174073/23218022612",
         "offerLink": "https://s.shopee.com.br/AKbMjCjTPv"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "18271105514",
