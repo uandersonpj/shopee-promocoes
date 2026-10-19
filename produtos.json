@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T07:59:14.087308+00:00",
+  "updated_at": "2026-10-19T08:18:05.671516+00:00",
   "total": 1116,
   "products": [
     {
@@ -405,7 +405,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mmimeaq4koav45",
         "productLink": "https://shopee.com.br/product/1748172680/58258026087",
         "offerLink": "https://s.shopee.com.br/qkMrY6tB0"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "20199713818",
@@ -2088,6 +2089,35 @@
       "_last_price": null
     },
     {
+      "id": "23794330101",
+      "name": "Porta Ovos 4 Andares Rolante em Plástico para Geladeira Organizador 20 a 30 Ovos",
+      "price": 12.99,
+      "original_price": 46.39,
+      "discount": 72.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq1kgvrfpvdba",
+      "link": "https://s.shopee.com.br/8AWxaoWxFU",
+      "rating": "4.8",
+      "sales": 10893,
+      "shop": "3 PAO",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23794330101,
+        "productName": "Porta Ovos 4 Andares Rolante em Plástico para Geladeira Organizador 20 a 30 Ovos",
+        "price": "12.99",
+        "priceDiscountRate": 72,
+        "commissionRate": "0.03",
+        "sales": 10893,
+        "ratingStar": "4.8",
+        "shopName": "3 PAO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq1kgvrfpvdba",
+        "productLink": "https://shopee.com.br/product/462426918/23794330101",
+        "offerLink": "https://s.shopee.com.br/8AWxaoWxFU"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23294309688",
       "name": "🎁 Super Kit 48 Carrinhos de Fricção + Pista 🚗 | Presente para Menino | Container Colecionável🎄",
       "price": 70.48,
@@ -2838,35 +2868,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-moe79ldiw16r9c",
         "productLink": "https://shopee.com.br/product/1177319319/23598083863",
         "offerLink": "https://s.shopee.com.br/9KiuyxAz0z"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23794330101",
-      "name": "Porta Ovos 4 Andares Rolante em Plástico para Geladeira Organizador 20 a 30 Ovos",
-      "price": 13.38,
-      "original_price": 44.6,
-      "discount": 70.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq1kgvrfpvdba",
-      "link": "https://s.shopee.com.br/8AWxaoWxFU",
-      "rating": "4.8",
-      "sales": 10893,
-      "shop": "3 PAO",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23794330101,
-        "productName": "Porta Ovos 4 Andares Rolante em Plástico para Geladeira Organizador 20 a 30 Ovos",
-        "price": "13.38",
-        "priceDiscountRate": 70,
-        "commissionRate": "0.03",
-        "sales": 10893,
-        "ratingStar": "4.8",
-        "shopName": "3 PAO",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq1kgvrfpvdba",
-        "productLink": "https://shopee.com.br/product/462426918/23794330101",
-        "offerLink": "https://s.shopee.com.br/8AWxaoWxFU"
       },
       "_last_price": null
     },
@@ -4375,7 +4376,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyk-mch7z6c4ouee89",
         "productLink": "https://shopee.com.br/product/1489659102/42806494664",
         "offerLink": "https://s.shopee.com.br/80DXOcvIcO"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22098143818",
