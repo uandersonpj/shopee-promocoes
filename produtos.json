@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T05:09:24.991110+00:00",
+  "updated_at": "2026-10-19T05:28:16.290259+00:00",
   "total": 1116,
   "products": [
     {
@@ -2051,7 +2051,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lw-mqx54fhwnytgeb",
         "productLink": "https://shopee.com.br/product/475104620/58214178007",
         "offerLink": "https://s.shopee.com.br/7KxqbUQXuo"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21798030664",
@@ -10339,35 +10340,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mlmms06ewtmt08",
         "productLink": "https://shopee.com.br/product/1391354759/58206612939",
         "offerLink": "https://s.shopee.com.br/AAI1yWBTJU"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18699301801",
-      "name": "Casinha Cachorro Cama N6 Casa Porte Pequeno Com Proteção Raios UV  desmontável",
-      "price": 65.0,
-      "original_price": 141.3,
-      "discount": 54.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259n-mt6qw1jmxnnm38",
-      "link": "https://s.shopee.com.br/W7WSnP3r8",
-      "rating": "4.7",
-      "sales": 562,
-      "shop": "De AZ casa",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18699301801,
-        "productName": "Casinha Cachorro Cama N6 Casa Porte Pequeno Com Proteção Raios UV  desmontável",
-        "price": "65",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.03",
-        "sales": 562,
-        "ratingStar": "4.7",
-        "shopName": "De AZ casa",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259n-mt6qw1jmxnnm38",
-        "productLink": "https://shopee.com.br/product/1246701013/18699301801",
-        "offerLink": "https://s.shopee.com.br/W7WSnP3r8"
       },
       "_last_price": null
     },
@@ -25332,6 +25304,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivnw76gufwia0",
         "productLink": "https://shopee.com.br/product/491375846/13435249728",
         "offerLink": "https://s.shopee.com.br/qkMrPNnBE"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18699301801",
+      "name": "Casinha Cachorro Cama N6 Casa Porte Pequeno Com Proteção Raios UV  desmontável",
+      "price": 91.0,
+      "original_price": 130.0,
+      "discount": 30.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259n-mt6qw1jmxnnm38",
+      "link": "https://s.shopee.com.br/W7WSnP3r8",
+      "rating": "4.7",
+      "sales": 562,
+      "shop": "De AZ casa",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18699301801,
+        "productName": "Casinha Cachorro Cama N6 Casa Porte Pequeno Com Proteção Raios UV  desmontável",
+        "price": "91",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.03",
+        "sales": 562,
+        "ratingStar": "4.7",
+        "shopName": "De AZ casa",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259n-mt6qw1jmxnnm38",
+        "productLink": "https://shopee.com.br/product/1246701013/18699301801",
+        "offerLink": "https://s.shopee.com.br/W7WSnP3r8"
       },
       "_last_price": null
     },
