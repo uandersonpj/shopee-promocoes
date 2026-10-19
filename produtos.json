@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T01:58:04.561621+00:00",
-  "total": 1111,
+  "updated_at": "2026-10-19T02:17:33.706768+00:00",
+  "total": 1113,
   "products": [
     {
       "id": "58210104632",
@@ -373,7 +373,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgzgefeazked3d",
         "productLink": "https://shopee.com.br/product/1613332918/22294440400",
         "offerLink": "https://s.shopee.com.br/50ZvpAENIF"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58258026087",
@@ -1097,6 +1098,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd3t-m7np9ti1i0ar99",
         "productLink": "https://shopee.com.br/product/989926234/20197726295",
         "offerLink": "https://s.shopee.com.br/7AeQOyalHS"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58201843927",
+      "name": "Suporte Cabide com Ganchos Encaixe Porta Pendura Roupas",
+      "price": 13.88,
+      "original_price": 60.35,
+      "discount": 77.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m8-ms6eg0w893wne9",
+      "link": "https://s.shopee.com.br/5VWCPuh6fE",
+      "rating": "4.5",
+      "sales": 4335,
+      "shop": "Amigo Market",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58201843927,
+        "productName": "Suporte Cabide com Ganchos Encaixe Porta Pendura Roupas",
+        "price": "13.88",
+        "priceDiscountRate": 77,
+        "commissionRate": "0.12",
+        "sales": 4335,
+        "ratingStar": "4.5",
+        "shopName": "Amigo Market",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-ms6eg0w893wne9",
+        "productLink": "https://shopee.com.br/product/1654653401/58201843927",
+        "offerLink": "https://s.shopee.com.br/5VWCPuh6fE"
       },
       "_last_price": null
     },
@@ -4397,8 +4427,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyk-mch7z6c4ouee89",
         "productLink": "https://shopee.com.br/product/1489659102/42806494664",
         "offerLink": "https://s.shopee.com.br/80DXOcvIcO"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22098143818",
@@ -14745,35 +14774,6 @@
       "_last_price": null
     },
     {
-      "id": "23097832684",
-      "name": "Pista Dinossauro Looping Radical Carrinho Com Luz e Som",
-      "price": 69.9,
-      "original_price": 134.42,
-      "discount": 48.0,
-      "commission": 16.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-miaj4h13g1s67c",
-      "link": "https://s.shopee.com.br/7pu7CEtYIP",
-      "rating": "4.9",
-      "sales": 1641,
-      "shop": "Na Web Group De Marcas",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23097832684,
-        "productName": "Pista Dinossauro Looping Radical Carrinho Com Luz e Som",
-        "price": "69.9",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.16",
-        "sales": 1641,
-        "ratingStar": "4.9",
-        "shopName": "Na Web Group De Marcas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-miaj4h13g1s67c",
-        "productLink": "https://shopee.com.br/product/325008325/23097832684",
-        "offerLink": "https://s.shopee.com.br/7pu7CEtYIP"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18597631235",
       "name": "Kit Top Academia Musculação Para Fitness Casual Praia Treino C/ Elástico",
       "price": 26.9,
@@ -15756,6 +15756,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratf-mak7fwnovjps6f",
         "productLink": "https://shopee.com.br/product/1397076460/18499795897",
         "offerLink": "https://s.shopee.com.br/9V2LBGALg0"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23097832684",
+      "name": "Pista Dinossauro Looping Radical Carrinho Com Luz e Som",
+      "price": 69.9,
+      "original_price": 129.44,
+      "discount": 46.0,
+      "commission": 16.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-miaj4h13g1s67c",
+      "link": "https://s.shopee.com.br/7pu7CEtYIP",
+      "rating": "4.9",
+      "sales": 1641,
+      "shop": "Na Web Group De Marcas",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23097832684,
+        "productName": "Pista Dinossauro Looping Radical Carrinho Com Luz e Som",
+        "price": "69.9",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.16",
+        "sales": 1641,
+        "ratingStar": "4.9",
+        "shopName": "Na Web Group De Marcas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-miaj4h13g1s67c",
+        "productLink": "https://shopee.com.br/product/325008325/23097832684",
+        "offerLink": "https://s.shopee.com.br/7pu7CEtYIP"
       },
       "_last_price": null
     },
@@ -22662,6 +22691,35 @@
       "_last_price": null
     },
     {
+      "id": "58267088600",
+      "name": "KIT 3 PERFUME MASCULINO HOMEM MALBEC KAIAK 60ML",
+      "price": 32.9,
+      "original_price": 49.85,
+      "discount": 34.0,
+      "commission": 14.000000000000002,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825al-msejugwnltl217",
+      "link": "https://s.shopee.com.br/7AeOlJDc6s",
+      "rating": "4.2",
+      "sales": 996,
+      "shop": "Manola Perfumaria",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58267088600,
+        "productName": "KIT 3 PERFUME MASCULINO HOMEM MALBEC KAIAK 60ML",
+        "price": "32.9",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.14",
+        "sales": 996,
+        "ratingStar": "4.2",
+        "shopName": "Manola Perfumaria",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825al-msejugwnltl217",
+        "productLink": "https://shopee.com.br/product/1528288174/58267088600",
+        "offerLink": "https://s.shopee.com.br/7AeOlJDc6s"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58214711664",
       "name": "Whey Protein Gourmett 907g Diversos Sabores",
       "price": 45.9,
@@ -24491,8 +24549,8 @@
     {
       "id": "3991806184",
       "name": "Relógio Retrô Vintagem Unissex metal digital feminino e masculino",
-      "price": 14.98,
-      "original_price": 21.71,
+      "price": 14.99,
+      "original_price": 21.72,
       "discount": 31.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/d2f3abd2f6970938a308ae7eb1dced3a",
@@ -24505,7 +24563,7 @@
       "_item": {
         "itemId": 3991806184,
         "productName": "Relógio Retrô Vintagem Unissex metal digital feminino e masculino",
-        "price": "14.98",
+        "price": "14.99",
         "priceDiscountRate": 31,
         "commissionRate": "0.03",
         "sales": 3341,
