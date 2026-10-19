@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T21:21:52.592505+00:00",
+  "updated_at": "2026-10-19T21:41:32.768500+00:00",
   "total": 1115,
   "products": [
     {
@@ -492,7 +492,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
         "productLink": "https://shopee.com.br/product/972031390/21997150349",
         "offerLink": "https://s.shopee.com.br/7fagzyWyas"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "42971009476",
@@ -1387,8 +1388,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-moov381auozz7b",
         "productLink": "https://shopee.com.br/product/1613783173/50052384985",
         "offerLink": "https://s.shopee.com.br/9APUmhjbYe"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "42068096428",
@@ -3585,6 +3585,35 @@
       "_last_price": null
     },
     {
+      "id": "20397689429",
+      "name": "Suporte De Parede Banheiro/Caixa Organizadora Com Papel Higiênico/Sem Furar pronta entrega",
+      "price": 15.99,
+      "original_price": 49.97,
+      "discount": 68.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-lvmc7m8negkib0",
+      "link": "https://s.shopee.com.br/9064aLTmYd",
+      "rating": "4.7",
+      "sales": 5439,
+      "shop": "CASA FEIRA",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20397689429,
+        "productName": "Suporte De Parede Banheiro/Caixa Organizadora Com Papel Higiênico/Sem Furar pronta entrega",
+        "price": "15.99",
+        "priceDiscountRate": 68,
+        "commissionRate": "0.03",
+        "sales": 5439,
+        "ratingStar": "4.7",
+        "shopName": "CASA FEIRA",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-lvmc7m8negkib0",
+        "productLink": "https://shopee.com.br/product/1034273871/20397689429",
+        "offerLink": "https://s.shopee.com.br/9064aLTmYd"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23398892792",
       "name": "Pasta Sanfonada A4 12 Divisórias com Elástico em Polipropileno Escolar e Escritório",
       "price": 11.88,
@@ -4073,6 +4102,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i5-mputbkgbcg759a",
         "productLink": "https://shopee.com.br/product/344381236/46162754465",
         "offerLink": "https://s.shopee.com.br/2VsbfhnxSC"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22994148851",
+      "name": "PROMOÇÃO FAZ 25 LITROS DE DESINFETANTE CONCENTRADO COM 500ML | VÁRIAS FRAGRÂNCIAS",
+      "price": 10.09,
+      "original_price": 29.68,
+      "discount": 66.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mn3cmeqnyfwh53",
+      "link": "https://s.shopee.com.br/AAI1yTlwxa",
+      "rating": "4.8",
+      "sales": 2903,
+      "shop": "TudoDaDay",
+      "category": "desinfetante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22994148851,
+        "productName": "PROMOÇÃO FAZ 25 LITROS DE DESINFETANTE CONCENTRADO COM 500ML | VÁRIAS FRAGRÂNCIAS",
+        "price": "10.09",
+        "priceDiscountRate": 66,
+        "commissionRate": "0.03",
+        "sales": 2903,
+        "ratingStar": "4.8",
+        "shopName": "TudoDaDay",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mn3cmeqnyfwh53",
+        "productLink": "https://shopee.com.br/product/1564593552/22994148851",
+        "offerLink": "https://s.shopee.com.br/AAI1yTlwxa"
       },
       "_last_price": null
     },
@@ -6482,35 +6540,6 @@
       "_last_price": null
     },
     {
-      "id": "23698466561",
-      "name": "Prateleira Organizadora Multifuncional com Prateleiras Para Banheiro",
-      "price": 42.99,
-      "original_price": 110.23,
-      "discount": 61.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfew-m9j8x6iwawk9bd",
-      "link": "https://s.shopee.com.br/2VscThyZoe",
-      "rating": "4.6",
-      "sales": 3730,
-      "shop": "Link&LinkShop_Brasil",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23698466561,
-        "productName": "Prateleira Organizadora Multifuncional com Prateleiras Para Banheiro",
-        "price": "42.99",
-        "priceDiscountRate": 61,
-        "commissionRate": "0.03",
-        "sales": 3730,
-        "ratingStar": "4.6",
-        "shopName": "Link&LinkShop_Brasil",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfew-m9j8x6iwawk9bd",
-        "productLink": "https://shopee.com.br/product/1459307687/23698466561",
-        "offerLink": "https://s.shopee.com.br/2VscThyZoe"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18899553687",
       "name": "Kit Shampoo 1LT + Condicionador 1LT + Máscara 500g + Oleo 7ml OU 60ml - Karssellé",
       "price": 38.99,
@@ -7058,35 +7087,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mm6h2c22h69s60",
         "productLink": "https://shopee.com.br/product/786353833/58207453154",
         "offerLink": "https://s.shopee.com.br/7KxqcbpbnB"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22994148851",
-      "name": "PROMOÇÃO FAZ 25 LITROS DE DESINFETANTE CONCENTRADO COM 500ML | VÁRIAS FRAGRÂNCIAS",
-      "price": 11.99,
-      "original_price": 29.97,
-      "discount": 60.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mn3cmeqnyfwh53",
-      "link": "https://s.shopee.com.br/AAI1yTlwxa",
-      "rating": "4.8",
-      "sales": 2903,
-      "shop": "TudoDaDay",
-      "category": "desinfetante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22994148851,
-        "productName": "PROMOÇÃO FAZ 25 LITROS DE DESINFETANTE CONCENTRADO COM 500ML | VÁRIAS FRAGRÂNCIAS",
-        "price": "11.99",
-        "priceDiscountRate": 60,
-        "commissionRate": "0.03",
-        "sales": 2903,
-        "ratingStar": "4.8",
-        "shopName": "TudoDaDay",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mn3cmeqnyfwh53",
-        "productLink": "https://shopee.com.br/product/1564593552/22994148851",
-        "offerLink": "https://s.shopee.com.br/AAI1yTlwxa"
       },
       "_last_price": null
     },
@@ -22112,35 +22112,6 @@
       "_last_price": null
     },
     {
-      "id": "23999439011",
-      "name": "Ração Gato 10kg Filhote Adulto Mia Cat Premium 27% Proteína",
-      "price": 63.6,
-      "original_price": 99.38,
-      "discount": 36.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mr1zm198eyva3c",
-      "link": "https://s.shopee.com.br/6q1a0QjDM1",
-      "rating": "4.9",
-      "sales": 5676,
-      "shop": "Ox Distribuidora",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23999439011,
-        "productName": "Ração Gato 10kg Filhote Adulto Mia Cat Premium 27% Proteína",
-        "price": "63.6",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.03",
-        "sales": 5676,
-        "ratingStar": "4.9",
-        "shopName": "Ox Distribuidora",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mr1zm198eyva3c",
-        "productLink": "https://shopee.com.br/product/1571276714/23999439011",
-        "offerLink": "https://s.shopee.com.br/6q1a0QjDM1"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58200774701",
       "name": "Spray Limpa Air Fryer Alto Poder De Limpeza, Dissolve A Gordura Limpeza Sem Esforço 250ml 1, 2 ou 3",
       "price": 23.99,
@@ -23239,6 +23210,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li7njywzzz913e",
         "productLink": "https://shopee.com.br/product/464043565/16992281628",
         "offerLink": "https://s.shopee.com.br/3LRjRxEWKG"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23999439011",
+      "name": "Ração Gato 10kg Filhote Adulto Mia Cat Premium 27% Proteína",
+      "price": 65.9,
+      "original_price": 99.85,
+      "discount": 34.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mr1zm198eyva3c",
+      "link": "https://s.shopee.com.br/6q1a0QjDM1",
+      "rating": "4.9",
+      "sales": 5676,
+      "shop": "Ox Distribuidora",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23999439011,
+        "productName": "Ração Gato 10kg Filhote Adulto Mia Cat Premium 27% Proteína",
+        "price": "65.9",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.03",
+        "sales": 5676,
+        "ratingStar": "4.9",
+        "shopName": "Ox Distribuidora",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mr1zm198eyva3c",
+        "productLink": "https://shopee.com.br/product/1571276714/23999439011",
+        "offerLink": "https://s.shopee.com.br/6q1a0QjDM1"
       },
       "_last_price": null
     },
@@ -25745,7 +25745,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823r2-mp7mdleq5s7472",
       "link": "https://s.shopee.com.br/4fx5QYFdy9",
-      "rating": "4.5",
+      "rating": "4.4",
       "sales": 176,
       "shop": "LIFEECOMERCIO",
       "category": "caixa de pesca",
@@ -25757,7 +25757,7 @@
         "priceDiscountRate": 30,
         "commissionRate": "0.03",
         "sales": 176,
-        "ratingStar": "4.5",
+        "ratingStar": "4.4",
         "shopName": "LIFEECOMERCIO",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r2-mp7mdleq5s7472",
         "productLink": "https://shopee.com.br/product/1483446294/58212113005",
