@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T01:38:49.727279+00:00",
+  "updated_at": "2026-10-19T01:58:04.561621+00:00",
   "total": 1111,
   "products": [
     {
@@ -1358,7 +1358,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-moov381auozz7b",
         "productLink": "https://shopee.com.br/product/1613783173/50052384985",
         "offerLink": "https://s.shopee.com.br/9APUmhjbYe"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "42068096428",
@@ -2051,8 +2052,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpwm1rqctatfc5",
         "productLink": "https://shopee.com.br/product/347988064/9212570285",
         "offerLink": "https://s.shopee.com.br/7fagzwXiOK"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23298719961",
@@ -3500,6 +3500,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aa-mrq51qyfme4g84",
         "productLink": "https://shopee.com.br/product/344381236/45465789471",
         "offerLink": "https://s.shopee.com.br/2VsaqLXk09"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58202416470",
+      "name": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
+      "price": 7.98,
+      "original_price": 24.94,
+      "discount": 68.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
+      "link": "https://s.shopee.com.br/8fTEBjV3EX",
+      "rating": "4.9",
+      "sales": 11764,
+      "shop": "LUCIOshopping",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58202416470,
+        "productName": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
+        "price": "7.98",
+        "priceDiscountRate": 68,
+        "commissionRate": "0.03",
+        "sales": 11764,
+        "ratingStar": "4.9",
+        "shopName": "LUCIOshopping",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
+        "productLink": "https://shopee.com.br/product/1691846378/58202416470",
+        "offerLink": "https://s.shopee.com.br/8fTEBjV3EX"
       },
       "_last_price": null
     },
@@ -9728,6 +9757,35 @@
       "_last_price": null
     },
     {
+      "id": "44905003339",
+      "name": "42741 Creme Instantâneo Para Remoção De Rugas , Linhas Antifinas , Tratamento Firmador E Lifting De Retinol Antienvelhec",
+      "price": 27.99,
+      "original_price": 62.2,
+      "discount": 55.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82635-mjqgyrih28eb3c",
+      "link": "https://s.shopee.com.br/40hOdBCshZ",
+      "rating": "4.7",
+      "sales": 1905,
+      "shop": "Strigiformes",
+      "category": "creme facial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 44905003339,
+        "productName": "42741 Creme Instantâneo Para Remoção De Rugas , Linhas Antifinas , Tratamento Firmador E Lifting De Retinol Antienvelhec",
+        "price": "27.99",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.11",
+        "sales": 1905,
+        "ratingStar": "4.7",
+        "shopName": "Strigiformes",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82635-mjqgyrih28eb3c",
+        "productLink": "https://shopee.com.br/product/1283671869/44905003339",
+        "offerLink": "https://s.shopee.com.br/40hOdBCshZ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18297665963",
       "name": "Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Bebê Babete Toalinha Babita Paninho Estampado",
       "price": 26.99,
@@ -10884,35 +10942,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mozqryfhjfuod2",
         "productLink": "https://shopee.com.br/product/1726489543/23899479691",
         "offerLink": "https://s.shopee.com.br/8pmeO2Ct24"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "44905003339",
-      "name": "42741 Creme Instantâneo Para Remoção De Rugas , Linhas Antifinas , Tratamento Firmador E Lifting De Retinol Antienvelhec",
-      "price": 28.99,
-      "original_price": 61.68,
-      "discount": 53.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82635-mjqgyrih28eb3c",
-      "link": "https://s.shopee.com.br/40hOdBCshZ",
-      "rating": "4.7",
-      "sales": 1905,
-      "shop": "Strigiformes",
-      "category": "creme facial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 44905003339,
-        "productName": "42741 Creme Instantâneo Para Remoção De Rugas , Linhas Antifinas , Tratamento Firmador E Lifting De Retinol Antienvelhec",
-        "price": "28.99",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.11",
-        "sales": 1905,
-        "ratingStar": "4.7",
-        "shopName": "Strigiformes",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82635-mjqgyrih28eb3c",
-        "productLink": "https://shopee.com.br/product/1283671869/44905003339",
-        "offerLink": "https://s.shopee.com.br/40hOdBCshZ"
       },
       "_last_price": null
     },
@@ -12599,35 +12628,6 @@
       "_last_price": null
     },
     {
-      "id": "18199355640",
-      "name": "Photochromic Polarized Sunglasses for Men – Chameleon Driving Glasses, UV Protection & Light-Adaptive Lenses",
-      "price": 29.99,
-      "original_price": 61.2,
-      "discount": 51.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxk-lyazo66xwcg6e1",
-      "link": "https://s.shopee.com.br/4VdfEBr1Sy",
-      "rating": "4.7",
-      "sales": 2078,
-      "shop": "yanxia.br",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18199355640,
-        "productName": "Photochromic Polarized Sunglasses for Men – Chameleon Driving Glasses, UV Protection & Light-Adaptive Lenses",
-        "price": "29.99",
-        "priceDiscountRate": 51,
-        "commissionRate": "0.12",
-        "sales": 2078,
-        "ratingStar": "4.7",
-        "shopName": "yanxia.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxk-lyazo66xwcg6e1",
-        "productLink": "https://shopee.com.br/product/1283669740/18199355640",
-        "offerLink": "https://s.shopee.com.br/4VdfEBr1Sy"
-      },
-      "_last_price": null
-    },
-    {
       "id": "54654681407",
       "name": " Óculos de Sol Ovais de Corte Retro Hip-Hop Y2K - Design sem Aro",
       "price": 12.93,
@@ -13297,8 +13297,8 @@
     {
       "id": "58265081114",
       "name": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-      "price": 10.99,
-      "original_price": 21.98,
+      "price": 9.99,
+      "original_price": 19.98,
       "discount": 50.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
@@ -13311,7 +13311,7 @@
       "_item": {
         "itemId": 58265081114,
         "productName": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-        "price": "10.99",
+        "price": "9.99",
         "priceDiscountRate": 50,
         "commissionRate": "0.13",
         "sales": 5018,
@@ -15959,6 +15959,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mt6caqetkmiv73",
         "productLink": "https://shopee.com.br/product/1833947831/58268215353",
         "offerLink": "https://s.shopee.com.br/AAI1yZjWfV"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18199355640",
+      "name": "Photochromic Polarized Sunglasses for Men – Chameleon Driving Glasses, UV Protection & Light-Adaptive Lenses",
+      "price": 29.99,
+      "original_price": 55.54,
+      "discount": 46.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxk-lyazo66xwcg6e1",
+      "link": "https://s.shopee.com.br/4VdfEBr1Sy",
+      "rating": "4.7",
+      "sales": 2078,
+      "shop": "yanxia.br",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18199355640,
+        "productName": "Photochromic Polarized Sunglasses for Men – Chameleon Driving Glasses, UV Protection & Light-Adaptive Lenses",
+        "price": "29.99",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.12",
+        "sales": 2078,
+        "ratingStar": "4.7",
+        "shopName": "yanxia.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxk-lyazo66xwcg6e1",
+        "productLink": "https://shopee.com.br/product/1283669740/18199355640",
+        "offerLink": "https://s.shopee.com.br/4VdfEBr1Sy"
       },
       "_last_price": null
     },
@@ -22633,35 +22662,6 @@
       "_last_price": null
     },
     {
-      "id": "58267088600",
-      "name": "KIT 3 PERFUME MASCULINO HOMEM MALBEC KAIAK 60ML",
-      "price": 32.9,
-      "original_price": 49.85,
-      "discount": 34.0,
-      "commission": 14.000000000000002,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825al-msejugwnltl217",
-      "link": "https://s.shopee.com.br/7AeOlJDc6s",
-      "rating": "4.2",
-      "sales": 996,
-      "shop": "Manola Perfumaria",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58267088600,
-        "productName": "KIT 3 PERFUME MASCULINO HOMEM MALBEC KAIAK 60ML",
-        "price": "32.9",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.14",
-        "sales": 996,
-        "ratingStar": "4.2",
-        "shopName": "Manola Perfumaria",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825al-msejugwnltl217",
-        "productLink": "https://shopee.com.br/product/1528288174/58267088600",
-        "offerLink": "https://s.shopee.com.br/7AeOlJDc6s"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58214711664",
       "name": "Whey Protein Gourmett 907g Diversos Sabores",
       "price": 45.9,
@@ -23673,35 +23673,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-7qukw-leq0pw6u1hbf19",
         "productLink": "https://shopee.com.br/product/607566210/23033984620",
         "offerLink": "https://s.shopee.com.br/2BFkRwlYzB"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58217241484",
-      "name": "Maçarico Isqueiro Canivete Multifuncional Recarregável Sobrevivência Camping TáticoMilitar Churrasqueira Pesca( Sem Gás)",
-      "price": 30.08,
-      "original_price": 44.9,
-      "discount": 33.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-msiirk4uvpc6f8",
-      "link": "https://s.shopee.com.br/4qGVcrsOsI",
-      "rating": "4.9",
-      "sales": 438,
-      "shop": "Helpri",
-      "category": "kit pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58217241484,
-        "productName": "Maçarico Isqueiro Canivete Multifuncional Recarregável Sobrevivência Camping TáticoMilitar Churrasqueira Pesca( Sem Gás)",
-        "price": "30.08",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.03",
-        "sales": 438,
-        "ratingStar": "4.9",
-        "shopName": "Helpri",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-msiirk4uvpc6f8",
-        "productLink": "https://shopee.com.br/product/1597281060/58217241484",
-        "offerLink": "https://s.shopee.com.br/4qGVcrsOsI"
       },
       "_last_price": null
     },
@@ -30691,6 +30662,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825az-mudikhc8y0oy5d",
         "productLink": "https://shopee.com.br/product/811879342/23097346417",
         "offerLink": "https://s.shopee.com.br/8KqNnD86W2"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "10971341240",
+      "name": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente",
+      "price": 134.9,
+      "original_price": 164.51,
+      "discount": 18.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mq56ui3fgwled9",
+      "link": "https://s.shopee.com.br/BUg4CuiyK",
+      "rating": "4.8",
+      "sales": 830,
+      "shop": "CASABIG",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 10971341240,
+        "productName": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente",
+        "price": "134.9",
+        "priceDiscountRate": 18,
+        "commissionRate": "0.1",
+        "sales": 830,
+        "ratingStar": "4.8",
+        "shopName": "CASABIG",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mq56ui3fgwled9",
+        "productLink": "https://shopee.com.br/product/521604773/10971341240",
+        "offerLink": "https://s.shopee.com.br/BUg4CuiyK"
       },
       "_last_price": null
     },
