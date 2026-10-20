@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T06:04:23.560612+00:00",
+  "updated_at": "2026-10-20T06:23:14.047480+00:00",
   "total": 1116,
   "products": [
     {
@@ -3909,7 +3909,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mn3cmeqnyfwh53",
         "productLink": "https://shopee.com.br/product/1564593552/22994148851",
         "offerLink": "https://s.shopee.com.br/AAI1yTlwxa"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23891732730",
@@ -10465,8 +10466,8 @@
     {
       "id": "23998537932",
       "name": "Cafeteira Italiana Alumínio de alta qualidade Moka 3/6/9/12 Xícaras Alumínio Café Puro Vários Tamanhos",
-      "price": 39.99,
-      "original_price": 86.93,
+      "price": 40.88,
+      "original_price": 88.87,
       "discount": 54.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mtg5we8yrk031e",
@@ -10479,7 +10480,7 @@
       "_item": {
         "itemId": 23998537932,
         "productName": "Cafeteira Italiana Alumínio de alta qualidade Moka 3/6/9/12 Xícaras Alumínio Café Puro Vários Tamanhos",
-        "price": "39.99",
+        "price": "40.88",
         "priceDiscountRate": 54,
         "commissionRate": "0.08",
         "sales": 561,
