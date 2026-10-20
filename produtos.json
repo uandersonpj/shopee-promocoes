@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T04:30:16.965728+00:00",
+  "updated_at": "2026-10-20T04:49:08.100902+00:00",
   "total": 1116,
   "products": [
     {
@@ -2816,7 +2816,7 @@
       "price": 17.99,
       "original_price": 59.97,
       "discount": 70.0,
-      "commission": 3.0,
+      "commission": 5.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l4-moe79ldiw16r9c",
       "link": "https://s.shopee.com.br/9KiuyxAz0z",
       "rating": "4.8",
@@ -2829,7 +2829,7 @@
         "productName": "5/10 Metros Fita de Vedação de Esponja à Prova de Choque Carro Anti-Ruído Reduzir o Som",
         "price": "17.99",
         "priceDiscountRate": 70,
-        "commissionRate": "0.03",
+        "commissionRate": "0.05",
         "sales": 2330,
         "ratingStar": "4.8",
         "shopName": "CARPEI ACESSORIO LTDA",
@@ -6486,7 +6486,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-msz7qbqsswll6a",
         "productLink": "https://shopee.com.br/product/1489642227/49817731610",
         "offerLink": "https://s.shopee.com.br/6fi9oGBcfz"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "41180569454",
@@ -29313,7 +29314,7 @@
       "price": 15.79,
       "original_price": 19.99,
       "discount": 21.0,
-      "commission": 3.0,
+      "commission": 5.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m05ptzgp3o3h63",
       "link": "https://s.shopee.com.br/3qO02q8t6y",
       "rating": "4.7",
@@ -29326,7 +29327,7 @@
         "productName": "Cheirinho Para Carro Aromatizador Ar Condicionado Perfume Aroma Purificador de Ar",
         "price": "15.79",
         "priceDiscountRate": 21,
-        "commissionRate": "0.03",
+        "commissionRate": "0.05",
         "sales": 4927,
         "ratingStar": "4.7",
         "shopName": "CARPEI ACESSORIO LTDA",
