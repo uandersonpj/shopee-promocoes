@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T20:59:23.299697+00:00",
+  "updated_at": "2026-10-20T21:19:05.743407+00:00",
   "total": 1123,
   "products": [
     {
@@ -86,7 +86,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-msxmjc87thc46e",
         "productLink": "https://shopee.com.br/product/1198407784/52807406192",
         "offerLink": "https://s.shopee.com.br/2qVRF7Jlqm"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21099546181",
@@ -2163,8 +2164,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mnz5ipg57t3539",
         "productLink": "https://shopee.com.br/product/1634545368/23398908978",
         "offerLink": "https://s.shopee.com.br/5VWCPx2R23"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23298719961",
@@ -2454,34 +2454,6 @@
         "offerLink": "https://s.shopee.com.br/7fagztYrGV"
       },
       "_last_price": null
-    },
-    {
-      "id": "22193849980",
-      "name": "Sérum Clareador de Manchas Facial - Hidratante 30ml",
-      "price": 16.19,
-      "original_price": 55.83,
-      "discount": 71.0,
-      "commission": 23.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mtd0czcsu8030c",
-      "link": "https://s.shopee.com.br/5AtM1K8RKk",
-      "rating": "4.8",
-      "sales": 2281,
-      "shop": "jessiemporio",
-      "category": "creme facial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22193849980,
-        "productName": "Sérum Clareador de Manchas Facial - Hidratante 30ml",
-        "price": "16.19",
-        "priceDiscountRate": 71,
-        "commissionRate": "0.23",
-        "sales": 2281,
-        "ratingStar": "4.8",
-        "shopName": "jessiemporio",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mtd0czcsu8030c",
-        "productLink": "https://shopee.com.br/product/1107644568/22193849980",
-        "offerLink": "https://s.shopee.com.br/5AtM1K8RKk"
-      }
     },
     {
       "id": "22198686702",
@@ -7148,6 +7120,34 @@
       "_last_price": null
     },
     {
+      "id": "22193849980",
+      "name": "Sérum Clareador de Manchas Facial - Hidratante 30ml",
+      "price": 21.99,
+      "original_price": 54.97,
+      "discount": 60.0,
+      "commission": 23.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mtd0czcsu8030c",
+      "link": "https://s.shopee.com.br/5AtM1K8RKk",
+      "rating": "4.8",
+      "sales": 2281,
+      "shop": "jessiemporio",
+      "category": "creme facial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22193849980,
+        "productName": "Sérum Clareador de Manchas Facial - Hidratante 30ml",
+        "price": "21.99",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.23",
+        "sales": 2281,
+        "ratingStar": "4.8",
+        "shopName": "jessiemporio",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mtd0czcsu8030c",
+        "productLink": "https://shopee.com.br/product/1107644568/22193849980",
+        "offerLink": "https://s.shopee.com.br/5AtM1K8RKk"
+      }
+    },
+    {
       "id": "23598387814",
       "name": "Adaptador de Tomada Ultra Resistente de Porcelana para Secador Air Fryer Benjamin Bivolt 10A e 20A",
       "price": 12.72,
@@ -10860,35 +10860,6 @@
       "_last_price": null
     },
     {
-      "id": "58260822885",
-      "name": "Kit 16 Itens Treino Em Casa Completo Elásticos Extensores + 5 Mini Bands Fitness Musculação Exercícios Yoga Fisioterapia",
-      "price": 13.99,
-      "original_price": 29.77,
-      "discount": 53.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820le-msc5vw1zj4ed69",
-      "link": "https://s.shopee.com.br/1qcu3ETG2l",
-      "rating": "4.8",
-      "sales": 1104,
-      "shop": "WAVESHOOP",
-      "category": "elastico musculacao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58260822885,
-        "productName": "Kit 16 Itens Treino Em Casa Completo Elásticos Extensores + 5 Mini Bands Fitness Musculação Exercícios Yoga Fisioterapia",
-        "price": "13.99",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.03",
-        "sales": 1104,
-        "ratingStar": "4.8",
-        "shopName": "WAVESHOOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-msc5vw1zj4ed69",
-        "productLink": "https://shopee.com.br/product/1254143605/58260822885",
-        "offerLink": "https://s.shopee.com.br/1qcu3ETG2l"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58264274396",
       "name": "Kit 18 Itens Faixas Elásticas Fitness Extensor Musculação Treino em Casa Yoga Pilates Academia",
       "price": 57.89,
@@ -11581,6 +11552,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjogvg8bh62p24",
         "productLink": "https://shopee.com.br/product/338537405/52352168399",
         "offerLink": "https://s.shopee.com.br/AKbSAq5xrJ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58260822885",
+      "name": "Kit 16 Itens Treino Em Casa Completo Elásticos Extensores + 5 Mini Bands Fitness Musculação Exercícios Yoga Fisioterapia",
+      "price": 14.49,
+      "original_price": 30.19,
+      "discount": 52.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820le-msc5vw1zj4ed69",
+      "link": "https://s.shopee.com.br/1qcu3ETG2l",
+      "rating": "4.8",
+      "sales": 1104,
+      "shop": "WAVESHOOP",
+      "category": "elastico musculacao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58260822885,
+        "productName": "Kit 16 Itens Treino Em Casa Completo Elásticos Extensores + 5 Mini Bands Fitness Musculação Exercícios Yoga Fisioterapia",
+        "price": "14.49",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.03",
+        "sales": 1104,
+        "ratingStar": "4.8",
+        "shopName": "WAVESHOOP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-msc5vw1zj4ed69",
+        "productLink": "https://shopee.com.br/product/1254143605/58260822885",
+        "offerLink": "https://s.shopee.com.br/1qcu3ETG2l"
       },
       "_last_price": null
     },
@@ -14688,35 +14688,6 @@
       "_last_price": null
     },
     {
-      "id": "23397600706",
-      "name": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
-      "price": 11.8,
-      "original_price": 22.69,
-      "discount": 48.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
-      "link": "https://s.shopee.com.br/7pu7CCYDvW",
-      "rating": "4.9",
-      "sales": 7642,
-      "shop": "ES Official Shop",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23397600706,
-        "productName": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
-        "price": "11.8",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.13",
-        "sales": 7642,
-        "ratingStar": "4.9",
-        "shopName": "ES Official Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
-        "productLink": "https://shopee.com.br/product/988030305/23397600706",
-        "offerLink": "https://s.shopee.com.br/7pu7CCYDvW"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18098210626",
       "name": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
       "price": 8.87,
@@ -15355,35 +15326,6 @@
       "_last_price": null
     },
     {
-      "id": "57960684492",
-      "name": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
-      "price": 10.22,
-      "original_price": 19.28,
-      "discount": 47.0,
-      "commission": 7.5,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
-      "link": "https://s.shopee.com.br/1LgdSJDQS6",
-      "rating": "4.7",
-      "sales": 23,
-      "shop": "ProsPeritY Us",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57960684492,
-        "productName": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
-        "price": "10.22",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.075",
-        "sales": 23,
-        "ratingStar": "4.7",
-        "shopName": "ProsPeritY Us",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
-        "productLink": "https://shopee.com.br/product/252308329/57960684492",
-        "offerLink": "https://s.shopee.com.br/1LgdSJDQS6"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58256070956",
       "name": "Camiseta Unissex 100% algodao Oversized One More Rep Estampa Haltere Fitness Treino para Academia envio rapido",
       "price": 44.52,
@@ -15409,6 +15351,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
         "productLink": "https://shopee.com.br/product/1727822533/58256070956",
         "offerLink": "https://s.shopee.com.br/20wKFXAt6A"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "57960684492",
+      "name": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
+      "price": 10.22,
+      "original_price": 19.28,
+      "discount": 47.0,
+      "commission": 7.5,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
+      "link": "https://s.shopee.com.br/1LgdSJDQS6",
+      "rating": "4.7",
+      "sales": 23,
+      "shop": "ProsPeritY Us",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57960684492,
+        "productName": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
+        "price": "10.22",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.075",
+        "sales": 23,
+        "ratingStar": "4.7",
+        "shopName": "ProsPeritY Us",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
+        "productLink": "https://shopee.com.br/product/252308329/57960684492",
+        "offerLink": "https://s.shopee.com.br/1LgdSJDQS6"
       },
       "_last_price": null
     },
@@ -16540,6 +16511,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcf2-lt49sbjuwpg373",
         "productLink": "https://shopee.com.br/product/432843460/23092914472",
         "offerLink": "https://s.shopee.com.br/8AWxaoFQNs"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23397600706",
+      "name": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
+      "price": 11.8,
+      "original_price": 21.45,
+      "discount": 45.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
+      "link": "https://s.shopee.com.br/7pu7CCYDvW",
+      "rating": "4.9",
+      "sales": 7642,
+      "shop": "ES Official Shop",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23397600706,
+        "productName": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
+        "price": "11.8",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.13",
+        "sales": 7642,
+        "ratingStar": "4.9",
+        "shopName": "ES Official Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
+        "productLink": "https://shopee.com.br/product/988030305/23397600706",
+        "offerLink": "https://s.shopee.com.br/7pu7CCYDvW"
       },
       "_last_price": null
     },
@@ -19560,6 +19560,35 @@
       "_last_price": null
     },
     {
+      "id": "22298591472",
+      "name": "Ração Quatree Gourmet Gatos 10,1Kg",
+      "price": 129.23,
+      "original_price": 215.38,
+      "discount": 40.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
+      "link": "https://s.shopee.com.br/5VWCPyoI3t",
+      "rating": "4.9",
+      "sales": 2396,
+      "shop": "mypetone",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22298591472,
+        "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
+        "price": "129.23",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.12",
+        "sales": 2396,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
+        "productLink": "https://shopee.com.br/product/290073877/22298591472",
+        "offerLink": "https://s.shopee.com.br/5VWCPyoI3t"
+      },
+      "_last_price": null
+    },
+    {
       "id": "43828181509",
       "name": "Rampa Casa de Gato Toca Para Gatos Arranhador Brinquedo Playground MDF Carpete 30x47x30cm",
       "price": 29.85,
@@ -20919,35 +20948,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rep5-m8l8e0zr5tg9b5",
         "productLink": "https://shopee.com.br/product/1215119715/26083564786",
         "offerLink": "https://s.shopee.com.br/1gJTqvC9m8"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22298591472",
-      "name": "Ração Quatree Gourmet Gatos 10,1Kg",
-      "price": 129.23,
-      "original_price": 208.44,
-      "discount": 38.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
-      "link": "https://s.shopee.com.br/5VWCPyoI3t",
-      "rating": "4.9",
-      "sales": 2396,
-      "shop": "mypetone",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22298591472,
-        "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
-        "price": "129.23",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.12",
-        "sales": 2396,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
-        "productLink": "https://shopee.com.br/product/290073877/22298591472",
-        "offerLink": "https://s.shopee.com.br/5VWCPyoI3t"
       },
       "_last_price": null
     },
