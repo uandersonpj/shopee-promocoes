@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T21:19:05.743407+00:00",
+  "updated_at": "2026-10-20T21:38:46.345544+00:00",
   "total": 1123,
   "products": [
     {
@@ -835,7 +835,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mt38wyvxh81x6a",
         "productLink": "https://shopee.com.br/product/1345043704/22497773735",
         "offerLink": "https://s.shopee.com.br/3Vl82LHEUq"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "45364806848",
@@ -863,8 +864,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mr1vaho31o90f0",
         "productLink": "https://shopee.com.br/product/1246081278/45364806848",
         "offerLink": "https://s.shopee.com.br/5LCmDaHocx"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "19860785095",
@@ -2340,35 +2340,6 @@
       "_last_price": null
     },
     {
-      "id": "52557307480",
-      "name": "Macaron Teclado Fidget Chaveiro ASMR Clicky Interruptor Mecânico Brinquedo Alívio Do Estresse Pingente Presente",
-      "price": 8.8,
-      "original_price": 30.34,
-      "discount": 71.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8262a-mlx5pxmaeio4eb",
-      "link": "https://s.shopee.com.br/2gC12fSN5a",
-      "rating": "4.9",
-      "sales": 470,
-      "shop": "unicornfashionstore.br",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 52557307480,
-        "productName": "Macaron Teclado Fidget Chaveiro ASMR Clicky Interruptor Mecânico Brinquedo Alívio Do Estresse Pingente Presente",
-        "price": "8.8",
-        "priceDiscountRate": 71,
-        "commissionRate": "0.07",
-        "sales": 470,
-        "ratingStar": "4.9",
-        "shopName": "unicornfashionstore.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262a-mlx5pxmaeio4eb",
-        "productLink": "https://shopee.com.br/product/235321669/52557307480",
-        "offerLink": "https://s.shopee.com.br/2gC12fSN5a"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58256902298",
       "name": "1 CORANTE DE 500ML PARA SABÃO LÍQUIDO, DETERGENTE, DESINFETANTE, AMACIANTE, SABÃO EM PÓ, SABÃO EM BARRA, DIFUSORES P7",
       "price": 14.5,
@@ -3700,35 +3671,6 @@
       "_last_price": null
     },
     {
-      "id": "23418702594",
-      "name": "Switch Outemu Para Teclado Mecânico 3 Pinos Red Blue Brown Linear Tátil Clicky Hot Swap Anti-Poeira - Frete Grátis",
-      "price": 7.98,
-      "original_price": 24.18,
-      "discount": 67.0,
-      "commission": 17.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lc-ml7pm8mpebr88c",
-      "link": "https://s.shopee.com.br/60SW5RjVxN",
-      "rating": "4.9",
-      "sales": 294,
-      "shop": "Eastern Shop Imports",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23418702594,
-        "productName": "Switch Outemu Para Teclado Mecânico 3 Pinos Red Blue Brown Linear Tátil Clicky Hot Swap Anti-Poeira - Frete Grátis",
-        "price": "7.98",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.17",
-        "sales": 294,
-        "ratingStar": "4.9",
-        "shopName": "Eastern Shop Imports",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-ml7pm8mpebr88c",
-        "productLink": "https://shopee.com.br/product/374734112/23418702594",
-        "offerLink": "https://s.shopee.com.br/60SW5RjVxN"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58263267581",
       "name": "Mouse Gamer Wireless com Conexão 2.4GHz Estável",
       "price": 19.88,
@@ -4798,35 +4740,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfgg-m9akut11lpyac0",
         "productLink": "https://shopee.com.br/product/400311012/17255136776",
         "offerLink": "https://s.shopee.com.br/2gC12eoqNu"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22098915849",
-      "name": "Calculadora Colorida Morandi De 12 Dígitos Teclado Mecânico De Ponto Grande Escola & Papelaria De Escritório",
-      "price": 19.99,
-      "original_price": 55.53,
-      "discount": 64.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meha3wezmviafe",
-      "link": "https://s.shopee.com.br/5VWFUWlPyC",
-      "rating": "5",
-      "sales": 278,
-      "shop": "Kawai_brasil",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22098915849,
-        "productName": "Calculadora Colorida Morandi De 12 Dígitos Teclado Mecânico De Ponto Grande Escola & Papelaria De Escritório",
-        "price": "19.99",
-        "priceDiscountRate": 64,
-        "commissionRate": "0.03",
-        "sales": 278,
-        "ratingStar": "5",
-        "shopName": "Kawai_brasil",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meha3wezmviafe",
-        "productLink": "https://shopee.com.br/product/1189738188/22098915849",
-        "offerLink": "https://s.shopee.com.br/5VWFUWlPyC"
       },
       "_last_price": null
     },
@@ -6888,35 +6801,6 @@
       "_last_price": null
     },
     {
-      "id": "23997716034",
-      "name": "Switch Outemu Para Teclado Mecânico 3 Pinos - Azul - Marrom - Vermelho - Linear - Tátil - Hot Swap Anti-Poeira",
-      "price": 7.98,
-      "original_price": 19.95,
-      "discount": 60.0,
-      "commission": 17.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mm3q1qlir7d2e0",
-      "link": "https://s.shopee.com.br/4qGVceK7h5",
-      "rating": "4.9",
-      "sales": 358,
-      "shop": "Eastern Shop Imports",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23997716034,
-        "productName": "Switch Outemu Para Teclado Mecânico 3 Pinos - Azul - Marrom - Vermelho - Linear - Tátil - Hot Swap Anti-Poeira",
-        "price": "7.98",
-        "priceDiscountRate": 60,
-        "commissionRate": "0.17",
-        "sales": 358,
-        "ratingStar": "4.9",
-        "shopName": "Eastern Shop Imports",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mm3q1qlir7d2e0",
-        "productLink": "https://shopee.com.br/product/374734112/23997716034",
-        "offerLink": "https://s.shopee.com.br/4qGVceK7h5"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58207453154",
       "name": "Mouse Pad Gamer Traxen  32x27cm / 60x30cm / 70x35cm  Estampas Dragao Chines + Porta Copo",
       "price": 15.49,
@@ -7753,6 +7637,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7jwwqkk00qa9b",
         "productLink": "https://shopee.com.br/product/687992685/23998329987",
         "offerLink": "https://s.shopee.com.br/3Vl82BTvyV"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22997611303",
+      "name": "Teclado Mecanico Gamer TGT Sherman Compacto, Rainbow, ABNT2, Switch Azul, Preto, TGT-SHTKL-RBW01",
+      "price": 91.41,
+      "original_price": 217.64,
+      "discount": 58.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb84nf9v9xu73e",
+      "link": "https://s.shopee.com.br/6fiDBdPZcu",
+      "rating": "4.9",
+      "sales": 46,
+      "shop": "Pichau",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22997611303,
+        "productName": "Teclado Mecanico Gamer TGT Sherman Compacto, Rainbow, ABNT2, Switch Azul, Preto, TGT-SHTKL-RBW01",
+        "price": "91.41",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.03",
+        "sales": 46,
+        "ratingStar": "4.9",
+        "shopName": "Pichau",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb84nf9v9xu73e",
+        "productLink": "https://shopee.com.br/product/627750190/22997611303",
+        "offerLink": "https://s.shopee.com.br/6fiDBdPZcu"
       },
       "_last_price": null
     },
@@ -8743,35 +8656,6 @@
       "_last_price": null
     },
     {
-      "id": "23197677281",
-      "name": "Calculadora Colorida Morandi 12 Dígitos com Teclado Mecânico p/ Escola e Escritório Multineos",
-      "price": 21.49,
-      "original_price": 48.84,
-      "discount": 56.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvq-lygm4gdp8dis3d",
-      "link": "https://s.shopee.com.br/30orRHR6Pc",
-      "rating": "4.9",
-      "sales": 444,
-      "shop": "ZSZ_brasil",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23197677281,
-        "productName": "Calculadora Colorida Morandi 12 Dígitos com Teclado Mecânico p/ Escola e Escritório Multineos",
-        "price": "21.49",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.09",
-        "sales": 444,
-        "ratingStar": "4.9",
-        "shopName": "ZSZ_brasil",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvq-lygm4gdp8dis3d",
-        "productLink": "https://shopee.com.br/product/390307022/23197677281",
-        "offerLink": "https://s.shopee.com.br/30orRHR6Pc"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23198988208",
       "name": "Mouse Pad Desk Pad Couro Borda Costurada Gigante Antiderrapante Tapete Mesa Gamer Setup Trabalho Estudo Protetor Mesa",
       "price": 15.89,
@@ -9435,35 +9319,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262c-mlg5gcvz3dvk0b",
         "productLink": "https://shopee.com.br/product/1259153662/53706778003",
         "offerLink": "https://s.shopee.com.br/3B8Hda4TDQ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58254652098",
-      "name": "Mouse Gamer Laser 3200dpi 1400dpi Led Rgb Usb 7 Botões Fio USB 7D Extreme 7 Cores Profissional Original",
-      "price": 17.99,
-      "original_price": 39.98,
-      "discount": 55.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mnup6gzi2hok5c",
-      "link": "https://s.shopee.com.br/6L5JQltPp9",
-      "rating": "4.9",
-      "sales": 1011,
-      "shop": "WAVESHOOP",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58254652098,
-        "productName": "Mouse Gamer Laser 3200dpi 1400dpi Led Rgb Usb 7 Botões Fio USB 7D Extreme 7 Cores Profissional Original",
-        "price": "17.99",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.03",
-        "sales": 1011,
-        "ratingStar": "4.9",
-        "shopName": "WAVESHOOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mnup6gzi2hok5c",
-        "productLink": "https://shopee.com.br/product/1254143605/58254652098",
-        "offerLink": "https://s.shopee.com.br/6L5JQltPp9"
       },
       "_last_price": null
     },
@@ -10160,6 +10015,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-msv0zvvqe8ei13",
         "productLink": "https://shopee.com.br/product/1604972581/46407635136",
         "offerLink": "https://s.shopee.com.br/4VdfE1zOVo"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58254652098",
+      "name": "Mouse Gamer Laser 3200dpi 1400dpi Led Rgb Usb 7 Botões Fio USB 7D Extreme 7 Cores Profissional Original",
+      "price": 18.49,
+      "original_price": 40.2,
+      "discount": 54.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mnup6gzi2hok5c",
+      "link": "https://s.shopee.com.br/6L5JQltPp9",
+      "rating": "4.9",
+      "sales": 1011,
+      "shop": "WAVESHOOP",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58254652098,
+        "productName": "Mouse Gamer Laser 3200dpi 1400dpi Led Rgb Usb 7 Botões Fio USB 7D Extreme 7 Cores Profissional Original",
+        "price": "18.49",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.03",
+        "sales": 1011,
+        "ratingStar": "4.9",
+        "shopName": "WAVESHOOP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mnup6gzi2hok5c",
+        "productLink": "https://shopee.com.br/product/1254143605/58254652098",
+        "offerLink": "https://s.shopee.com.br/6L5JQltPp9"
       },
       "_last_price": null
     },
@@ -12948,6 +12832,35 @@
       "_last_price": null
     },
     {
+      "id": "23494329258",
+      "name": "Teclado Gamer Mecânico 60% Switch Azul Profissional Cabo Removível USB portugues ABNT2",
+      "price": 99.9,
+      "original_price": 199.8,
+      "discount": 50.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdnkbqq7x4nlb0",
+      "link": "https://s.shopee.com.br/3VlBPobd3G",
+      "rating": "4.9",
+      "sales": 134,
+      "shop": "MixMania BR",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23494329258,
+        "productName": "Teclado Gamer Mecânico 60% Switch Azul Profissional Cabo Removível USB portugues ABNT2",
+        "price": "99.9",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.07",
+        "sales": 134,
+        "ratingStar": "4.9",
+        "shopName": "MixMania BR",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdnkbqq7x4nlb0",
+        "productLink": "https://shopee.com.br/product/1447668497/23494329258",
+        "offerLink": "https://s.shopee.com.br/3VlBPobd3G"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22393975400",
       "name": "MousePad Grande Rosa Desk Pad Couro Gamer Office",
       "price": 20.9,
@@ -15326,35 +15239,6 @@
       "_last_price": null
     },
     {
-      "id": "58256070956",
-      "name": "Camiseta Unissex 100% algodao Oversized One More Rep Estampa Haltere Fitness Treino para Academia envio rapido",
-      "price": 44.52,
-      "original_price": 84.0,
-      "discount": 47.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
-      "link": "https://s.shopee.com.br/20wKFXAt6A",
-      "rating": "4.8",
-      "sales": 15,
-      "shop": "Tees Simples BR",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58256070956,
-        "productName": "Camiseta Unissex 100% algodao Oversized One More Rep Estampa Haltere Fitness Treino para Academia envio rapido",
-        "price": "44.52",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.03",
-        "sales": 15,
-        "ratingStar": "4.8",
-        "shopName": "Tees Simples BR",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
-        "productLink": "https://shopee.com.br/product/1727822533/58256070956",
-        "offerLink": "https://s.shopee.com.br/20wKFXAt6A"
-      },
-      "_last_price": null
-    },
-    {
       "id": "57960684492",
       "name": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
       "price": 10.22,
@@ -15380,6 +15264,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
         "productLink": "https://shopee.com.br/product/252308329/57960684492",
         "offerLink": "https://s.shopee.com.br/1LgdSJDQS6"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58256070956",
+      "name": "Camiseta Unissex 100% algodao Oversized One More Rep Estampa Haltere Fitness Treino para Academia envio rapido",
+      "price": 44.52,
+      "original_price": 84.0,
+      "discount": 47.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
+      "link": "https://s.shopee.com.br/20wKFXAt6A",
+      "rating": "4.8",
+      "sales": 15,
+      "shop": "Tees Simples BR",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58256070956,
+        "productName": "Camiseta Unissex 100% algodao Oversized One More Rep Estampa Haltere Fitness Treino para Academia envio rapido",
+        "price": "44.52",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.03",
+        "sales": 15,
+        "ratingStar": "4.8",
+        "shopName": "Tees Simples BR",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
+        "productLink": "https://shopee.com.br/product/1727822533/58256070956",
+        "offerLink": "https://s.shopee.com.br/20wKFXAt6A"
       },
       "_last_price": null
     },
@@ -18860,6 +18773,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257y-mq7pxoy9i1a933",
         "productLink": "https://shopee.com.br/product/1780103830/58261209291",
         "offerLink": "https://s.shopee.com.br/4qGVcdgazH"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22297445792",
+      "name": "Teclado Gamer Semi-Mecânico Com Fio 104 Teclas LED Colorido À Prova D'água Gamer e Trabalho Preto/Rosa/Branco/Roxo/Azul",
+      "price": 69.8,
+      "original_price": 118.31,
+      "discount": 41.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mrfa4ynpzpc2c6",
+      "link": "https://s.shopee.com.br/70L3aFOIx0",
+      "rating": "4.8",
+      "sales": 125,
+      "shop": "warm11.br",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22297445792,
+        "productName": "Teclado Gamer Semi-Mecânico Com Fio 104 Teclas LED Colorido À Prova D'água Gamer e Trabalho Preto/Rosa/Branco/Roxo/Azul",
+        "price": "69.8",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.12",
+        "sales": 125,
+        "ratingStar": "4.8",
+        "shopName": "warm11.br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mrfa4ynpzpc2c6",
+        "productLink": "https://shopee.com.br/product/1171921876/22297445792",
+        "offerLink": "https://s.shopee.com.br/70L3aFOIx0"
       },
       "_last_price": null
     },
@@ -23127,35 +23069,6 @@
       "_last_price": null
     },
     {
-      "id": "51607933821",
-      "name": "Interruptores De Teclado Mecânico Clicky & Tátil , Lineares Universais Com design À Prova De Poeira , Personalizáveis E ",
-      "price": 44.16,
-      "original_price": 66.91,
-      "discount": 34.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134301-8260a-mlytxojiccg106",
-      "link": "https://s.shopee.com.br/6VOmgMhbwU",
-      "rating": "4.9",
-      "sales": 111,
-      "shop": "Value Choice",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 51607933821,
-        "productName": "Interruptores De Teclado Mecânico Clicky & Tátil , Lineares Universais Com design À Prova De Poeira , Personalizáveis E ",
-        "price": "44.16",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.09",
-        "sales": 111,
-        "ratingStar": "4.9",
-        "shopName": "Value Choice",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-8260a-mlytxojiccg106",
-        "productLink": "https://shopee.com.br/product/230709939/51607933821",
-        "offerLink": "https://s.shopee.com.br/6VOmgMhbwU"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23294065712",
       "name": "Fonte ATX 230W Real Bivolt Chaveada Silenciosa para PC Desktop com Conectores SATA IDE",
       "price": 49.9,
@@ -23819,6 +23732,64 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7req7-m8dm3oofp7eod5",
         "productLink": "https://shopee.com.br/product/627750190/23598383807",
         "offerLink": "https://s.shopee.com.br/3B8HdaQT4f"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18299730064",
+      "name": "Teclado Mecanico Mancer Ghoul MK3, RGB, ABNT2, Switch Huano Vermelho, Preto, MCR-GHM3-RGB01RD",
+      "price": 161.71,
+      "original_price": 241.36,
+      "discount": 33.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7renr-m8dmyyovx193fe",
+      "link": "https://s.shopee.com.br/7AeTmYNfc3",
+      "rating": "4.9",
+      "sales": 157,
+      "shop": "Pichau",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18299730064,
+        "productName": "Teclado Mecanico Mancer Ghoul MK3, RGB, ABNT2, Switch Huano Vermelho, Preto, MCR-GHM3-RGB01RD",
+        "price": "161.71",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.03",
+        "sales": 157,
+        "ratingStar": "4.9",
+        "shopName": "Pichau",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7renr-m8dmyyovx193fe",
+        "productLink": "https://shopee.com.br/product/627750190/18299730064",
+        "offerLink": "https://s.shopee.com.br/7AeTmYNfc3"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "44425460391",
+      "name": "BETTDOW Teclado Mecânico Gamer 68 Teclas em Português RGB, Switch Vermelho, USB-C, Anti-Ghosting para PC e Notebook",
+      "price": 135.0,
+      "original_price": 201.49,
+      "discount": 33.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mtbv2bh8mcci49",
+      "link": "https://s.shopee.com.br/4fx9AxgK5O",
+      "rating": "4.9",
+      "sales": 120,
+      "shop": "Bettdow",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 44425460391,
+        "productName": "BETTDOW Teclado Mecânico Gamer 68 Teclas em Português RGB, Switch Vermelho, USB-C, Anti-Ghosting para PC e Notebook",
+        "price": "135",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.12",
+        "sales": 120,
+        "ratingStar": "4.9",
+        "shopName": "Bettdow",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mtbv2bh8mcci49",
+        "productLink": "https://shopee.com.br/product/1114645438/44425460391",
+        "offerLink": "https://s.shopee.com.br/4fx9AxgK5O"
       },
       "_last_price": null
     },
@@ -28637,35 +28608,6 @@
       "_last_price": null
     },
     {
-      "id": "42233340429",
-      "name": "Keycap 68 Teclas Preto Branco ABS Keycaps Perfil OEM MX Cross 60 % Tampas De Teclado Mecânico",
-      "price": 34.53,
-      "original_price": 44.84,
-      "discount": 23.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825ab-mrr1xv8l93ph7d",
-      "link": "https://s.shopee.com.br/5fpfgpkmdH",
-      "rating": "4.1",
-      "sales": 103,
-      "shop": "Choice Oficial",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42233340429,
-        "productName": "Keycap 68 Teclas Preto Branco ABS Keycaps Perfil OEM MX Cross 60 % Tampas De Teclado Mecânico",
-        "price": "34.53",
-        "priceDiscountRate": 23,
-        "commissionRate": "0.09",
-        "sales": 103,
-        "ratingStar": "4.1",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ab-mrr1xv8l93ph7d",
-        "productLink": "https://shopee.com.br/product/1006215031/42233340429",
-        "offerLink": "https://s.shopee.com.br/5fpfgpkmdH"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23097466419",
       "name": "Detergente Enzimatico Zymedet Gold 5 Enzimas 1L - Prolink",
       "price": 29.34,
@@ -29909,6 +29851,64 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258f-msql22msj7d2e7",
         "productLink": "https://shopee.com.br/product/302326977/55667464609",
         "offerLink": "https://s.shopee.com.br/1LgdSCtv5m"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23093825328",
+      "name": "Kit Gamer RGB Teclado Semi Mecanico Mouse RGB Mousepad LED Headphone Fone Gamer Setup PC Completo",
+      "price": 62.99,
+      "original_price": 78.74,
+      "discount": 20.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mm7sz7luyfb81a",
+      "link": "https://s.shopee.com.br/3LRlDVcGOF",
+      "rating": "4.8",
+      "sales": 221,
+      "shop": "VL_Store",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23093825328,
+        "productName": "Kit Gamer RGB Teclado Semi Mecanico Mouse RGB Mousepad LED Headphone Fone Gamer Setup PC Completo",
+        "price": "62.99",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.12",
+        "sales": 221,
+        "ratingStar": "4.8",
+        "shopName": "VL_Store",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mm7sz7luyfb81a",
+        "productLink": "https://shopee.com.br/product/1129899846/23093825328",
+        "offerLink": "https://s.shopee.com.br/3LRlDVcGOF"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23391600985",
+      "name": "Kit Gamer Teclado Semi-mecânico RGB, Mouse RGB, MousePad LED Preto, Mousepad Mundo, Headphone Fone",
+      "price": 62.99,
+      "original_price": 78.74,
+      "discount": 20.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mopn51osf21285",
+      "link": "https://s.shopee.com.br/6q1dNwOwHx",
+      "rating": "4.8",
+      "sales": 166,
+      "shop": "@LVSHOP",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23391600985,
+        "productName": "Kit Gamer Teclado Semi-mecânico RGB, Mouse RGB, MousePad LED Preto, Mousepad Mundo, Headphone Fone",
+        "price": "62.99",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.12",
+        "sales": 166,
+        "ratingStar": "4.8",
+        "shopName": "@LVSHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mopn51osf21285",
+        "productLink": "https://shopee.com.br/product/998773037/23391600985",
+        "offerLink": "https://s.shopee.com.br/6q1dNwOwHx"
       },
       "_last_price": null
     },
