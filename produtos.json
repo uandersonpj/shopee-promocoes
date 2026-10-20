@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T17:22:55.134502+00:00",
-  "total": 1121,
+  "updated_at": "2026-10-20T17:42:37.285635+00:00",
+  "total": 1119,
   "products": [
     {
       "id": "58210104632",
@@ -516,34 +516,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
         "productLink": "https://shopee.com.br/product/972031390/21997150349",
         "offerLink": "https://s.shopee.com.br/7fagzyWyas"
-      }
-    },
-    {
-      "id": "57911938287",
-      "name": "Fonte ATX MSI 650W MAG 2.4 PCIE 80 Plus Bronze 306-7ZPAX39-HH9",
-      "price": 319.0,
-      "original_price": 1595.0,
-      "discount": 80.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
-      "link": "https://s.shopee.com.br/4LKF1k3xFB",
-      "rating": "5",
-      "sales": 1354,
-      "shop": "TNTinfoLoja",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57911938287,
-        "productName": "Fonte ATX MSI 650W MAG 2.4 PCIE 80 Plus Bronze 306-7ZPAX39-HH9",
-        "price": "319",
-        "priceDiscountRate": 80,
-        "commissionRate": "0.06",
-        "sales": 1354,
-        "ratingStar": "5",
-        "shopName": "TNTinfoLoja",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
-        "productLink": "https://shopee.com.br/product/344381236/57911938287",
-        "offerLink": "https://s.shopee.com.br/4LKF1k3xFB"
       }
     },
     {
@@ -1524,6 +1496,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxcvqi650kuq0d",
         "productLink": "https://shopee.com.br/product/673215527/20160799228",
         "offerLink": "https://s.shopee.com.br/6L5JPRvff7"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18271105514",
+      "name": "Mini Liquidificador 6 Laminas Portátil Recarregável Micro  Usb",
+      "price": 25.49,
+      "original_price": 101.96,
+      "discount": 75.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljpy92qy0u5f17",
+      "link": "https://s.shopee.com.br/5VWCQ0ItGj",
+      "rating": "4.6",
+      "sales": 737,
+      "shop": "ZSZ_brasil",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18271105514,
+        "productName": "Mini Liquidificador 6 Laminas Portátil Recarregável Micro  Usb",
+        "price": "25.49",
+        "priceDiscountRate": 75,
+        "commissionRate": "0.09",
+        "sales": 737,
+        "ratingStar": "4.6",
+        "shopName": "ZSZ_brasil",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljpy92qy0u5f17",
+        "productLink": "https://shopee.com.br/product/390307022/18271105514",
+        "offerLink": "https://s.shopee.com.br/5VWCQ0ItGj"
       },
       "_last_price": null
     },
@@ -2914,8 +2915,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfn8h5ufyu4kb0",
         "productLink": "https://shopee.com.br/product/391757444/23093824562",
         "offerLink": "https://s.shopee.com.br/1gJTqy6Xph"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "47855423393",
@@ -3382,6 +3382,35 @@
       "_last_price": null
     },
     {
+      "id": "19097980221",
+      "name": "Kit Com 3 Esponjas Para Maquiagem Roxa Chanfrada Blender E Gota 365-053-123",
+      "price": 10.99,
+      "original_price": 35.45,
+      "discount": 69.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b8iy3ty1ypf9",
+      "link": "https://s.shopee.com.br/7VHGngBHD3",
+      "rating": "4.9",
+      "sales": 1437,
+      "shop": "FASHLOVE COMERCIO LTDA",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19097980221,
+        "productName": "Kit Com 3 Esponjas Para Maquiagem Roxa Chanfrada Blender E Gota 365-053-123",
+        "price": "10.99",
+        "priceDiscountRate": 69,
+        "commissionRate": "0.03",
+        "sales": 1437,
+        "ratingStar": "4.9",
+        "shopName": "FASHLOVE COMERCIO LTDA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b8iy3ty1ypf9",
+        "productLink": "https://shopee.com.br/product/1360570792/19097980221",
+        "offerLink": "https://s.shopee.com.br/7VHGngBHD3"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58213479973",
       "name": "🔥Panela de pressão elétrica em aço inoxidável 304 fundo triplo adequada para fogões de indução e a gás",
       "price": 278.77,
@@ -3523,7 +3552,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/b00547f24fc70a45e7e053d7ad172265",
         "productLink": "https://shopee.com.br/product/412809126/18623190615",
         "offerLink": "https://s.shopee.com.br/9pfBZtZ8ve"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "51004391053",
@@ -3812,35 +3842,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rblp-lmkqj16uwzfd84",
         "productLink": "https://shopee.com.br/product/1034291231/23891732730",
         "offerLink": "https://s.shopee.com.br/1qcu3AdXEo"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20999200927",
-      "name": "Kit 2 Aço inoxidável Suporte Porta Esponja para bucha de pia Prateleira de cozinha",
-      "price": 6.0,
-      "original_price": 18.18,
-      "discount": 67.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134201-820l4-mqxjfcsg3j7q32",
-      "link": "https://s.shopee.com.br/5AtPE27omN",
-      "rating": "4.9",
-      "sales": 1969,
-      "shop": "MegaLar.",
-      "category": "esponja",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20999200927,
-        "productName": "Kit 2 Aço inoxidável Suporte Porta Esponja para bucha de pia Prateleira de cozinha",
-        "price": "6",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.03",
-        "sales": 1969,
-        "ratingStar": "4.9",
-        "shopName": "MegaLar.",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820l4-mqxjfcsg3j7q32",
-        "productLink": "https://shopee.com.br/product/1101263019/20999200927",
-        "offerLink": "https://s.shopee.com.br/5AtPE27omN"
       },
       "_last_price": null
     },
@@ -4276,35 +4277,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra1y-mbikdnlkoa3e0e",
         "productLink": "https://shopee.com.br/product/1541927562/23294180222",
         "offerLink": "https://s.shopee.com.br/4VdfE9j21Q"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22292498922",
-      "name": "Copo Caneca Liquidificador Mini Juicer 420ml com 6 laminas com tampa e canudo Recarregavel Portatil",
-      "price": 26.99,
-      "original_price": 79.38,
-      "discount": 66.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwz287n2uc3j6c",
-      "link": "https://s.shopee.com.br/9zyfFJnuks",
-      "rating": "4.4",
-      "sales": 859,
-      "shop": "ONELIFE_BRASIL",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22292498922,
-        "productName": "Copo Caneca Liquidificador Mini Juicer 420ml com 6 laminas com tampa e canudo Recarregavel Portatil",
-        "price": "26.99",
-        "priceDiscountRate": 66,
-        "commissionRate": "0.03",
-        "sales": 859,
-        "ratingStar": "4.4",
-        "shopName": "ONELIFE_BRASIL",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwz287n2uc3j6c",
-        "productLink": "https://shopee.com.br/product/378488048/22292498922",
-        "offerLink": "https://s.shopee.com.br/9zyfFJnuks"
       },
       "_last_price": null
     },
@@ -5377,6 +5349,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mn1uzb42hx4yd8",
         "productLink": "https://shopee.com.br/product/1547995492/22198797147",
         "offerLink": "https://s.shopee.com.br/2qVRF1QfBM"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23335280590",
+      "name": "Kit Cozinha Infantil Completa Peças Educativa Batedeira Liquidificador Panelinha Brinquedo",
+      "price": 54.95,
+      "original_price": 148.51,
+      "discount": 63.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mozhhm64qqdh56",
+      "link": "https://s.shopee.com.br/2gC4FX6762",
+      "rating": "4.8",
+      "sales": 943,
+      "shop": "UnoToys",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23335280590,
+        "productName": "Kit Cozinha Infantil Completa Peças Educativa Batedeira Liquidificador Panelinha Brinquedo",
+        "price": "54.95",
+        "priceDiscountRate": 63,
+        "commissionRate": "0.03",
+        "sales": 943,
+        "ratingStar": "4.8",
+        "shopName": "UnoToys",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mozhhm64qqdh56",
+        "productLink": "https://shopee.com.br/product/330057410/23335280590",
+        "offerLink": "https://s.shopee.com.br/2gC4FX6762"
       },
       "_last_price": null
     },
@@ -9301,7 +9302,7 @@
       "price": 39.98,
       "original_price": 88.84,
       "discount": 55.0,
-      "commission": 3.0,
+      "commission": 6.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mnlw9ncbyq68fe",
       "link": "https://s.shopee.com.br/gQwey5WVA",
       "rating": "4.9",
@@ -9314,7 +9315,7 @@
         "productName": "Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho Café",
         "price": "39.98",
         "priceDiscountRate": 55,
-        "commissionRate": "0.03",
+        "commissionRate": "0.06",
         "sales": 5201,
         "ratingStar": "4.9",
         "shopName": "2 Get & Go ",
@@ -11061,35 +11062,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259n-mteou6fvxs7dde",
         "productLink": "https://shopee.com.br/product/766258772/23897975794",
         "offerLink": "https://s.shopee.com.br/8pmeO7obNN"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23197974712",
-      "name": "Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável usb",
-      "price": 61.98,
-      "original_price": 131.87,
-      "discount": 53.0,
-      "commission": 23.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhh1fh6kqcxxaf",
-      "link": "https://s.shopee.com.br/9pfF30oY5t",
-      "rating": "4.7",
-      "sales": 665,
-      "shop": "SZFG1.br",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23197974712,
-        "productName": "Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável usb",
-        "price": "61.98",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.23",
-        "sales": 665,
-        "ratingStar": "4.7",
-        "shopName": "SZFG1.br",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhh1fh6kqcxxaf",
-        "productLink": "https://shopee.com.br/product/1258556175/23197974712",
-        "offerLink": "https://s.shopee.com.br/9pfF30oY5t"
       },
       "_last_price": null
     },
@@ -15357,35 +15329,6 @@
       "_last_price": null
     },
     {
-      "id": "57960684492",
-      "name": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
-      "price": 10.22,
-      "original_price": 19.28,
-      "discount": 47.0,
-      "commission": 7.5,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
-      "link": "https://s.shopee.com.br/1LgdSJDQS6",
-      "rating": "4.7",
-      "sales": 23,
-      "shop": "ProsPeritY Us",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57960684492,
-        "productName": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
-        "price": "10.22",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.075",
-        "sales": 23,
-        "ratingStar": "4.7",
-        "shopName": "ProsPeritY Us",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
-        "productLink": "https://shopee.com.br/product/252308329/57960684492",
-        "offerLink": "https://s.shopee.com.br/1LgdSJDQS6"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58256070956",
       "name": "Camiseta Unissex 100% algodao Oversized One More Rep Estampa Haltere Fitness Treino para Academia envio rapido",
       "price": 44.52,
@@ -15415,6 +15358,35 @@
       "_last_price": null
     },
     {
+      "id": "57960684492",
+      "name": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
+      "price": 10.22,
+      "original_price": 19.28,
+      "discount": 47.0,
+      "commission": 7.5,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
+      "link": "https://s.shopee.com.br/1LgdSJDQS6",
+      "rating": "4.7",
+      "sales": 23,
+      "shop": "ProsPeritY Us",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57960684492,
+        "productName": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
+        "price": "10.22",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.075",
+        "sales": 23,
+        "ratingStar": "4.7",
+        "shopName": "ProsPeritY Us",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
+        "productLink": "https://shopee.com.br/product/252308329/57960684492",
+        "offerLink": "https://s.shopee.com.br/1LgdSJDQS6"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23597035403",
       "name": "1/3/5 Pcs Cápsula Café Reutilizável Dolce Gusto Recarregável Refrescante Efectivo Promoção",
       "price": 9.59,
@@ -15440,35 +15412,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98r-lmtqgs94p8vf2f",
         "productLink": "https://shopee.com.br/product/569114904/23597035403",
         "offerLink": "https://s.shopee.com.br/7pu7CHsPOp"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58256420985",
-      "name": "Mini Liquidificador Espremedor Portátil Elétrico De Suco De Alimentos Misturador Leite Smoothie 400ML 6 Lâminas",
-      "price": 33.9,
-      "original_price": 63.96,
-      "discount": 47.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8260e-mlhw47bm2cxu29",
-      "link": "https://s.shopee.com.br/9fLoqhpBQq",
-      "rating": "4.5",
-      "sales": 663,
-      "shop": "Novus up",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58256420985,
-        "productName": "Mini Liquidificador Espremedor Portátil Elétrico De Suco De Alimentos Misturador Leite Smoothie 400ML 6 Lâminas",
-        "price": "33.9",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.03",
-        "sales": 663,
-        "ratingStar": "4.5",
-        "shopName": "Novus up",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260e-mlhw47bm2cxu29",
-        "productLink": "https://shopee.com.br/product/1658949277/58256420985",
-        "offerLink": "https://s.shopee.com.br/9fLoqhpBQq"
       },
       "_last_price": null
     },
@@ -16223,35 +16166,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mt6caqetkmiv73",
         "productLink": "https://shopee.com.br/product/1833947831/58268215353",
         "offerLink": "https://s.shopee.com.br/AAI1yZjWfV"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22997743832",
-      "name": "Espremedor Extrator  Industrial em Inox Laranja Sucos Frutas Bivolt Cozinhas Bares e Restaurantes",
-      "price": 165.99,
-      "original_price": 307.39,
-      "discount": 46.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbnd-m5li20ui1cw059",
-      "link": "https://s.shopee.com.br/AAI5RcnHPv",
-      "rating": "4.8",
-      "sales": 795,
-      "shop": "inovare eletro store",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22997743832,
-        "productName": "Espremedor Extrator  Industrial em Inox Laranja Sucos Frutas Bivolt Cozinhas Bares e Restaurantes",
-        "price": "165.99",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.03",
-        "sales": 795,
-        "ratingStar": "4.8",
-        "shopName": "inovare eletro store",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbnd-m5li20ui1cw059",
-        "productLink": "https://shopee.com.br/product/1334289640/22997743832",
-        "offerLink": "https://s.shopee.com.br/AAI5RcnHPv"
       },
       "_last_price": null
     },
@@ -19474,6 +19388,35 @@
       "_last_price": null
     },
     {
+      "id": "46462519312",
+      "name": "Desinfetante Antibac Lavanda E Rosas 2 Litros Uau",
+      "price": 9.9,
+      "original_price": 16.5,
+      "discount": 40.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824i0-mpnmukiwx6o2d3",
+      "link": "https://s.shopee.com.br/9pfEeWGujm",
+      "rating": "4.9",
+      "sales": 806,
+      "shop": " UAUIngleza",
+      "category": "desinfetante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 46462519312,
+        "productName": "Desinfetante Antibac Lavanda E Rosas 2 Litros Uau",
+        "price": "9.9",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.13",
+        "sales": 806,
+        "ratingStar": "4.9",
+        "shopName": " UAUIngleza",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i0-mpnmukiwx6o2d3",
+        "productLink": "https://shopee.com.br/product/1658245933/46462519312",
+        "offerLink": "https://s.shopee.com.br/9pfEeWGujm"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58259287537",
       "name": "Desinfetante 5 Litros Bactericida Limpeza Profunda Perfume Duradouro Uso Geral Alto Rendimento",
       "price": 13.19,
@@ -19586,35 +19529,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgtakm484a2oc7",
         "productLink": "https://shopee.com.br/product/1631031652/58250455338",
         "offerLink": "https://s.shopee.com.br/5VWCPuyqM2"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "55712165667",
-      "name": "Ração Premium 10,1kg Frango Carne Peixe para Gatos Todos Portes Alta Nutrição 27% Proteina Promoção Filhotes e Adultos",
-      "price": 71.9,
-      "original_price": 119.83,
-      "discount": 40.0,
-      "commission": 14.000000000000002,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mraqv7m0ow0515",
-      "link": "https://s.shopee.com.br/Lo7v9Nrqu",
-      "rating": "4.9",
-      "sales": 995,
-      "shop": "FATPET",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 55712165667,
-        "productName": "Ração Premium 10,1kg Frango Carne Peixe para Gatos Todos Portes Alta Nutrição 27% Proteina Promoção Filhotes e Adultos",
-        "price": "71.9",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.14",
-        "sales": 995,
-        "ratingStar": "4.9",
-        "shopName": "FATPET",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mraqv7m0ow0515",
-        "productLink": "https://shopee.com.br/product/421503156/55712165667",
-        "offerLink": "https://s.shopee.com.br/Lo7v9Nrqu"
       },
       "_last_price": null
     },
@@ -20340,6 +20254,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhbzozlyxp8l74",
         "productLink": "https://shopee.com.br/product/1482776546/58200797547",
         "offerLink": "https://s.shopee.com.br/3LRjRvAn7v"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "55712165667",
+      "name": "Ração Premium 10,1kg Frango Carne Peixe para Gatos Todos Portes Alta Nutrição 27% Proteina Promoção Filhotes e Adultos",
+      "price": 72.99,
+      "original_price": 119.66,
+      "discount": 39.0,
+      "commission": 14.000000000000002,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mraqv7m0ow0515",
+      "link": "https://s.shopee.com.br/Lo7v9Nrqu",
+      "rating": "4.9",
+      "sales": 995,
+      "shop": "FATPET",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 55712165667,
+        "productName": "Ração Premium 10,1kg Frango Carne Peixe para Gatos Todos Portes Alta Nutrição 27% Proteina Promoção Filhotes e Adultos",
+        "price": "72.99",
+        "priceDiscountRate": 39,
+        "commissionRate": "0.14",
+        "sales": 995,
+        "ratingStar": "4.9",
+        "shopName": "FATPET",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mraqv7m0ow0515",
+        "productLink": "https://shopee.com.br/product/421503156/55712165667",
+        "offerLink": "https://s.shopee.com.br/Lo7v9Nrqu"
       },
       "_last_price": null
     },
@@ -22258,35 +22201,6 @@
       "_last_price": null
     },
     {
-      "id": "58259057330",
-      "name": "Dux Creatina Monohidratada 300g - Força e Potência Muscular",
-      "price": 38.0,
-      "original_price": 59.38,
-      "discount": 36.0,
-      "commission": 19.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mnpqqxr1bz7o49",
-      "link": "https://s.shopee.com.br/9zyfFHB7oh",
-      "rating": "4.9",
-      "sales": 377,
-      "shop": "Dex Fitt",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58259057330,
-        "productName": "Dux Creatina Monohidratada 300g - Força e Potência Muscular",
-        "price": "38",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.19",
-        "sales": 377,
-        "ratingStar": "4.9",
-        "shopName": "Dex Fitt",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mnpqqxr1bz7o49",
-        "productLink": "https://shopee.com.br/product/1517289552/58259057330",
-        "offerLink": "https://s.shopee.com.br/9zyfFHB7oh"
-      },
-      "_last_price": null
-    },
-    {
       "id": "53112404991",
       "name": "25mm 28mm 30mm Barra Colar Bloqueio Haltere Clipes Braçadeira De Levantamento De Peso Ginásio Primavera",
       "price": 20.27,
@@ -22838,6 +22752,35 @@
       "_last_price": null
     },
     {
+      "id": "8020679826",
+      "name": "Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades",
+      "price": 112.99,
+      "original_price": 173.83,
+      "discount": 35.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc83lzgst4gw71",
+      "link": "https://s.shopee.com.br/AAI1ya17nJ",
+      "rating": "4.9",
+      "sales": 13252,
+      "shop": "LOI BRASIL",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 8020679826,
+        "productName": "Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades",
+        "price": "112.99",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.06",
+        "sales": 13252,
+        "ratingStar": "4.9",
+        "shopName": "LOI BRASIL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc83lzgst4gw71",
+        "productLink": "https://shopee.com.br/product/359168917/8020679826",
+        "offerLink": "https://s.shopee.com.br/AAI1ya17nJ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23793927191",
       "name": "Panela De Pressão 4,5 Litros Antiaderente Teflon Com Tampa Externa Cinza PROMOÇAO",
       "price": 148.9,
@@ -23327,35 +23270,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825al-msejugwnltl217",
         "productLink": "https://shopee.com.br/product/1528288174/58267088600",
         "offerLink": "https://s.shopee.com.br/AKbTmmk8vd"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "52955209386",
-      "name": "Carrinho Infantil Rolimã Gira Triciclo Roda Led Volante 360° Suporta 100kg Rosa Azul Vermelho Brinquedo Presente",
-      "price": 229.9,
-      "original_price": 348.33,
-      "discount": 34.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mra74qpjwvt100",
-      "link": "https://s.shopee.com.br/5LCmDe34N0",
-      "rating": "4.8",
-      "sales": 1174,
-      "shop": "OPACOTE",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 52955209386,
-        "productName": "Carrinho Infantil Rolimã Gira Triciclo Roda Led Volante 360° Suporta 100kg Rosa Azul Vermelho Brinquedo Presente",
-        "price": "229.9",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.11",
-        "sales": 1174,
-        "ratingStar": "4.8",
-        "shopName": "OPACOTE",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mra74qpjwvt100",
-        "productLink": "https://shopee.com.br/product/762383390/52955209386",
-        "offerLink": "https://s.shopee.com.br/5LCmDe34N0"
       },
       "_last_price": null
     },
@@ -26289,6 +26203,35 @@
       "_last_price": null
     },
     {
+      "id": "52955209386",
+      "name": "Carrinho Infantil Rolimã Gira Triciclo Roda Led Volante 360° Suporta 100kg Rosa Azul Vermelho Brinquedo Presente",
+      "price": 249.99,
+      "original_price": 352.1,
+      "discount": 29.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mra74qpjwvt100",
+      "link": "https://s.shopee.com.br/5LCmDe34N0",
+      "rating": "4.8",
+      "sales": 1174,
+      "shop": "OPACOTE",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 52955209386,
+        "productName": "Carrinho Infantil Rolimã Gira Triciclo Roda Led Volante 360° Suporta 100kg Rosa Azul Vermelho Brinquedo Presente",
+        "price": "249.99",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.11",
+        "sales": 1174,
+        "ratingStar": "4.8",
+        "shopName": "OPACOTE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mra74qpjwvt100",
+        "productLink": "https://shopee.com.br/product/762383390/52955209386",
+        "offerLink": "https://s.shopee.com.br/5LCmDe34N0"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20098102574",
       "name": "Whey Protein Isolate 2W 900g Metapharma Pote",
       "price": 49.0,
@@ -27213,6 +27156,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258x-mudijervx4hv65",
         "productLink": "https://shopee.com.br/product/811879342/23099337262",
         "offerLink": "https://s.shopee.com.br/AKbSAt0USM"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18198165538",
+      "name": "Caixa Estojo Organizador até 4 Maleta Parafuso Pesca porcas Agulha Aviamentos ferramenta",
+      "price": 18.9,
+      "original_price": 25.89,
+      "discount": 27.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mlmg5tia77k525",
+      "link": "https://s.shopee.com.br/5LCmDoY9yU",
+      "rating": "4.8",
+      "sales": 98,
+      "shop": "Helen Shop",
+      "category": "estojo pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18198165538,
+        "productName": "Caixa Estojo Organizador até 4 Maleta Parafuso Pesca porcas Agulha Aviamentos ferramenta",
+        "price": "18.9",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.03",
+        "sales": 98,
+        "ratingStar": "4.8",
+        "shopName": "Helen Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mlmg5tia77k525",
+        "productLink": "https://shopee.com.br/product/1108226774/18198165538",
+        "offerLink": "https://s.shopee.com.br/5LCmDoY9yU"
       },
       "_last_price": null
     },
@@ -28170,35 +28142,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260l-mlgenq30c83s21",
         "productLink": "https://shopee.com.br/product/940287081/23998761112",
         "offerLink": "https://s.shopee.com.br/2LZAeEC4BV"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23498017958",
-      "name": "Isca Artificial Realista Minhocas para pesca de silicone",
-      "price": 14.98,
-      "original_price": 19.97,
-      "discount": 25.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mstrtcdtn3t189",
-      "link": "https://s.shopee.com.br/AAI5BMyPpU",
-      "rating": "4.8",
-      "sales": 221,
-      "shop": "Capital Hobbies",
-      "category": "isca artificial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498017958,
-        "productName": "Isca Artificial Realista Minhocas para pesca de silicone",
-        "price": "14.98",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.03",
-        "sales": 221,
-        "ratingStar": "4.8",
-        "shopName": "Capital Hobbies",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mstrtcdtn3t189",
-        "productLink": "https://shopee.com.br/product/344444810/23498017958",
-        "offerLink": "https://s.shopee.com.br/AAI5BMyPpU"
       },
       "_last_price": null
     },
