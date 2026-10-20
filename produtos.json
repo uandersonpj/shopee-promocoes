@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T07:38:40.744123+00:00",
-  "total": 1114,
+  "updated_at": "2026-10-20T07:57:31.279238+00:00",
+  "total": 1113,
   "products": [
     {
       "id": "58210104632",
@@ -201,7 +201,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmajzmcmll3a15",
         "productLink": "https://shopee.com.br/product/1467162087/49207406104",
         "offerLink": "https://s.shopee.com.br/6L5JPSDL4m"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "26539956454",
@@ -23756,11 +23757,11 @@
       "discount": 34.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdumhz8lo8mx48",
-      "link": "https://s.shopee.com.br/BUhxre4Tm",
+      "link": "https://s.shopee.com.br/5VWFGJOqok",
       "rating": "4.7",
       "sales": 70,
       "shop": "ATACADO PESCA E CIA",
-      "category": "estojo pesca",
+      "category": "chumbada",
       "source": "shopee",
       "_item": {
         "itemId": 18399883704,
@@ -23773,7 +23774,7 @@
         "shopName": "ATACADO PESCA E CIA",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdumhz8lo8mx48",
         "productLink": "https://shopee.com.br/product/1595150949/18399883704",
-        "offerLink": "https://s.shopee.com.br/BUhxre4Tm"
+        "offerLink": "https://s.shopee.com.br/5VWFGJOqok"
       },
       "_last_price": null
     },
@@ -27492,8 +27493,8 @@
     {
       "id": "43560768226",
       "name": "Luvas De Motocicleta Ciclismo Pesca Unisex Proteção Solar Respirável Flexível Atividades Ao Ar Livre Para Dirigir",
-      "price": 17.77,
-      "original_price": 24.01,
+      "price": 12.08,
+      "original_price": 16.32,
       "discount": 26.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/sg-11134301-7reph-m81n33b5b2qf35",
@@ -27506,7 +27507,7 @@
       "_item": {
         "itemId": 43560768226,
         "productName": "Luvas De Motocicleta Ciclismo Pesca Unisex Proteção Solar Respirável Flexível Atividades Ao Ar Livre Para Dirigir",
-        "price": "17.77",
+        "price": "12.08",
         "priceDiscountRate": 26,
         "commissionRate": "0.07",
         "sales": 142,
@@ -28362,8 +28363,8 @@
     {
       "id": "41601446410",
       "name": "Proteção Solar Respirável Flexível Unissex Luvas De Motocicleta Para Ciclismo Pesca Condução Atividades Ao Ar Livre",
-      "price": 21.23,
-      "original_price": 27.93,
+      "price": 17.32,
+      "original_price": 22.79,
       "discount": 24.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823pi-mp4mu2u5xq8e68",
@@ -28376,7 +28377,7 @@
       "_item": {
         "itemId": 41601446410,
         "productName": "Proteção Solar Respirável Flexível Unissex Luvas De Motocicleta Para Ciclismo Pesca Condução Atividades Ao Ar Livre",
-        "price": "21.23",
+        "price": "17.32",
         "priceDiscountRate": 24,
         "commissionRate": "0.07",
         "sales": 912,
@@ -31318,6 +31319,35 @@
       "_last_price": null
     },
     {
+      "id": "58216991865",
+      "name": "Chumbada para Pesca Kit 60 Unidades Diversos Tamanhos 410g com Estojo para Pescaria",
+      "price": 38.76,
+      "original_price": 46.7,
+      "discount": 17.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mscu65a6nwuf5b",
+      "link": "https://s.shopee.com.br/5q92ojWFxZ",
+      "rating": "4.9",
+      "sales": 69,
+      "shop": "PescadorDeOuro",
+      "category": "chumbada",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58216991865,
+        "productName": "Chumbada para Pesca Kit 60 Unidades Diversos Tamanhos 410g com Estojo para Pescaria",
+        "price": "38.76",
+        "priceDiscountRate": 17,
+        "commissionRate": "0.03",
+        "sales": 69,
+        "ratingStar": "4.9",
+        "shopName": "PescadorDeOuro",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mscu65a6nwuf5b",
+        "productLink": "https://shopee.com.br/product/1719282172/58216991865",
+        "offerLink": "https://s.shopee.com.br/5q92ojWFxZ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18638126633",
       "name": "Passagua Para Pesca Em Aluminio De Otima Qualidade 92cm",
       "price": 28.63,
@@ -31343,35 +31373,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mtpmjs5uohdub9",
         "productLink": "https://shopee.com.br/product/408505827/18638126633",
         "offerLink": "https://s.shopee.com.br/70L0CrfUCc"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58216991865",
-      "name": "Chumbada para Pesca Kit 60 Unidades Diversos Tamanhos 410g com Estojo para Pescaria",
-      "price": 38.76,
-      "original_price": 46.7,
-      "discount": 17.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mscu65a6nwuf5b",
-      "link": "https://s.shopee.com.br/5q92ojWFxZ",
-      "rating": "4.9",
-      "sales": 69,
-      "shop": "PescadorDeOuro",
-      "category": "estojo pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58216991865,
-        "productName": "Chumbada para Pesca Kit 60 Unidades Diversos Tamanhos 410g com Estojo para Pescaria",
-        "price": "38.76",
-        "priceDiscountRate": 17,
-        "commissionRate": "0.03",
-        "sales": 69,
-        "ratingStar": "4.9",
-        "shopName": "PescadorDeOuro",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mscu65a6nwuf5b",
-        "productLink": "https://shopee.com.br/product/1719282172/58216991865",
-        "offerLink": "https://s.shopee.com.br/5q92ojWFxZ"
       },
       "_last_price": null
     },
@@ -32242,35 +32243,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mr5awj8ca1vqae",
         "productLink": "https://shopee.com.br/product/1144780641/58215028522",
         "offerLink": "https://s.shopee.com.br/30orRUzNaz"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58263408953",
-      "name": "Kit 139 Peças Ferramentas de Pesca Alicate Multifuncional+Pegador de Peixe com Corda Anti‑Queda,Anzóis,Chumbadas,Tesoura",
-      "price": 46.99,
-      "original_price": 55.28,
-      "discount": 15.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-msl1ml1y093856",
-      "link": "https://s.shopee.com.br/4B0opeGw8U",
-      "rating": "4.9",
-      "sales": 100,
-      "shop": "MUNDO PRONTO LTDA",
-      "category": "chumbada",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58263408953,
-        "productName": "Kit 139 Peças Ferramentas de Pesca Alicate Multifuncional+Pegador de Peixe com Corda Anti‑Queda,Anzóis,Chumbadas,Tesoura",
-        "price": "46.99",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.11",
-        "sales": 100,
-        "ratingStar": "4.9",
-        "shopName": "MUNDO PRONTO LTDA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-msl1ml1y093856",
-        "productLink": "https://shopee.com.br/product/1567096774/58263408953",
-        "offerLink": "https://s.shopee.com.br/4B0opeGw8U"
       },
       "_last_price": null
     },
