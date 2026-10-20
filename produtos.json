@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T03:33:40.326959+00:00",
+  "updated_at": "2026-10-20T03:52:32.440567+00:00",
   "total": 1116,
   "products": [
     {
@@ -344,7 +344,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgzgefeazked3d",
         "productLink": "https://shopee.com.br/product/1613332918/22294440400",
         "offerLink": "https://s.shopee.com.br/50ZvpAENIF"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23699424696",
@@ -7965,8 +7966,8 @@
     {
       "id": "22092998564",
       "name": "Creatina Monohidratada Pura 1kg, 500g, 600, 300g e 150g - Dark Lab",
-      "price": 29.9,
-      "original_price": 71.19,
+      "price": 32.9,
+      "original_price": 78.33,
       "discount": 58.0,
       "commission": 26.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ld-ms0e8jfsnb45e1",
@@ -7979,7 +7980,7 @@
       "_item": {
         "itemId": 22092998564,
         "productName": "Creatina Monohidratada Pura 1kg, 500g, 600, 300g e 150g - Dark Lab",
-        "price": "29.9",
+        "price": "32.9",
         "priceDiscountRate": 58,
         "commissionRate": "0.26",
         "sales": 11690,
@@ -10225,8 +10226,8 @@
     {
       "id": "58207485901",
       "name": "Repetidor WiFi Profissional 2800m 6 Antenas Roteador Amplificador de Sinal Modem 300Mbps",
-      "price": 52.98,
-      "original_price": 115.17,
+      "price": 52.99,
+      "original_price": 115.2,
       "discount": 54.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mmqtorx784jl5d",
@@ -10239,7 +10240,7 @@
       "_item": {
         "itemId": 58207485901,
         "productName": "Repetidor WiFi Profissional 2800m 6 Antenas Roteador Amplificador de Sinal Modem 300Mbps",
-        "price": "52.98",
+        "price": "52.99",
         "priceDiscountRate": 54,
         "commissionRate": "0.03",
         "sales": 1894,
@@ -11040,7 +11041,7 @@
       "price": 18.9,
       "original_price": 40.21,
       "discount": 53.0,
-      "commission": 8.0,
+      "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mt9l2f4okykhe9",
       "link": "https://s.shopee.com.br/3g4YEcD0QZ",
       "rating": "4.5",
@@ -11053,7 +11054,7 @@
         "productName": "Casa Casinha De Cachorro Plástica Desmontável Para Filhote N1",
         "price": "18.9",
         "priceDiscountRate": 53,
-        "commissionRate": "0.08",
+        "commissionRate": "0.03",
         "sales": 643,
         "ratingStar": "4.5",
         "shopName": "MOLDPET",
@@ -23621,6 +23622,35 @@
       "_last_price": null
     },
     {
+      "id": "23198168284",
+      "name": "Boia infantil de natação colete flutuante  de 1 a 6 anos",
+      "price": 39.53,
+      "original_price": 59.89,
+      "discount": 34.0,
+      "commission": 15.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbki-m5lg6j07tdo4f8",
+      "link": "https://s.shopee.com.br/8fTEBtMonI",
+      "rating": "4.9",
+      "sales": 1029,
+      "shop": "Yet Mar",
+      "category": "colete salva vidas",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23198168284,
+        "productName": "Boia infantil de natação colete flutuante  de 1 a 6 anos",
+        "price": "39.53",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.15",
+        "sales": 1029,
+        "ratingStar": "4.9",
+        "shopName": "Yet Mar",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbki-m5lg6j07tdo4f8",
+        "productLink": "https://shopee.com.br/product/1407634051/23198168284",
+        "offerLink": "https://s.shopee.com.br/8fTEBtMonI"
+      },
+      "_last_price": null
+    },
+    {
       "id": "10965664850",
       "name": "Colete Salva Vidas Infantil 15a60 quilos Três cores",
       "price": 59.13,
@@ -23974,7 +24004,7 @@
       "price": 24.0,
       "original_price": 35.82,
       "discount": 33.0,
-      "commission": 17.0,
+      "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mpxsgrjyul1c20",
       "link": "https://s.shopee.com.br/50ZxQyQmSn",
       "rating": "4.8",
@@ -23987,7 +24017,7 @@
         "productName": "Protetor Solar Corporal FPS 70 150ml Toque Seco Resistente à Água Proteção UVA e UVB",
         "price": "24",
         "priceDiscountRate": 33,
-        "commissionRate": "0.17",
+        "commissionRate": "0.03",
         "sales": 1610,
         "ratingStar": "4.8",
         "shopName": "Nutryx Importação",
@@ -24313,35 +24343,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mmnriv7xbpqcc9",
         "productLink": "https://shopee.com.br/product/1791706043/58258370296",
         "offerLink": "https://s.shopee.com.br/50Zvp9AF6r"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23198168284",
-      "name": "Boia infantil de natação colete flutuante  de 1 a 6 anos",
-      "price": 39.9,
-      "original_price": 59.55,
-      "discount": 33.0,
-      "commission": 15.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbki-m5lg6j07tdo4f8",
-      "link": "https://s.shopee.com.br/8fTEBtMonI",
-      "rating": "4.9",
-      "sales": 1029,
-      "shop": "Yet Mar",
-      "category": "colete salva vidas",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23198168284,
-        "productName": "Boia infantil de natação colete flutuante  de 1 a 6 anos",
-        "price": "39.9",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.15",
-        "sales": 1029,
-        "ratingStar": "4.9",
-        "shopName": "Yet Mar",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbki-m5lg6j07tdo4f8",
-        "productLink": "https://shopee.com.br/product/1407634051/23198168284",
-        "offerLink": "https://s.shopee.com.br/8fTEBtMonI"
       },
       "_last_price": null
     },
@@ -28556,7 +28557,7 @@
       "price": 45.96,
       "original_price": 59.69,
       "discount": 23.0,
-      "commission": 13.0,
+      "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4946jqt4u693f",
       "link": "https://s.shopee.com.br/6fi9o6JvIp",
       "rating": "4.8",
@@ -28569,7 +28570,7 @@
         "productName": "Protein Fusion Whey Isolate 900g - Espartanos",
         "price": "45.96",
         "priceDiscountRate": 23,
-        "commissionRate": "0.13",
+        "commissionRate": "0.03",
         "sales": 1034,
         "ratingStar": "4.8",
         "shopName": "Loja do Suplemento Oficial",
