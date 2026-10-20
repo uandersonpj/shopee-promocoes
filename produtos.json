@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T01:56:38.023414+00:00",
-  "total": 1116,
+  "updated_at": "2026-10-20T02:16:08.236316+00:00",
+  "total": 1115,
   "products": [
     {
       "id": "58210104632",
@@ -3505,8 +3505,8 @@
     {
       "id": "58213479973",
       "name": "🔥Panela de pressão elétrica em aço inoxidável 304 fundo triplo adequada para fogões de indução e a gás",
-      "price": 278.8,
-      "original_price": 899.35,
+      "price": 278.77,
+      "original_price": 899.26,
       "discount": 69.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mtape51h6ubnc7",
@@ -3519,7 +3519,7 @@
       "_item": {
         "itemId": 58213479973,
         "productName": "🔥Panela de pressão elétrica em aço inoxidável 304 fundo triplo adequada para fogões de indução e a gás",
-        "price": "278.8",
+        "price": "278.77",
         "priceDiscountRate": 69,
         "commissionRate": "0.03",
         "sales": 847,
@@ -8567,7 +8567,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e",
         "productLink": "https://shopee.com.br/product/908280603/53717645713",
         "offerLink": "https://s.shopee.com.br/3B8HdhEuRO"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23594943408",
@@ -9522,8 +9523,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mqv1vtdp7l6qf8",
         "productLink": "https://shopee.com.br/product/512962451/58214587344",
         "offerLink": "https://s.shopee.com.br/113n3d7ZvI"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58265304718",
@@ -19165,7 +19165,7 @@
       "rating": "4.7",
       "sales": 310,
       "shop": "Loja Sao Miguel Multicoisas",
-      "category": "vara de pesca",
+      "category": "molinete pesca",
       "source": "shopee",
       "_item": {
         "itemId": 42620071435,
@@ -22195,35 +22195,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mqvbo3ll08hv26",
         "productLink": "https://shopee.com.br/product/1321488407/22894551427",
         "offerLink": "https://s.shopee.com.br/7AeQP9jW8O"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58254132701",
-      "name": "Faca Retrátil Automática com Trava  Aço Inox  Camping Pesca Churrasco",
-      "price": 24.95,
-      "original_price": 38.98,
-      "discount": 36.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzkbkxz17nkc4",
-      "link": "https://s.shopee.com.br/6q1bsl0E4m",
-      "rating": "4.9",
-      "sales": 654,
-      "shop": "MAIS COMERCIO LTDA",
-      "category": "kit pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58254132701,
-        "productName": "Faca Retrátil Automática com Trava  Aço Inox  Camping Pesca Churrasco",
-        "price": "24.95",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.03",
-        "sales": 654,
-        "ratingStar": "4.9",
-        "shopName": "MAIS COMERCIO LTDA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzkbkxz17nkc4",
-        "productLink": "https://shopee.com.br/product/1478854168/58254132701",
-        "offerLink": "https://s.shopee.com.br/6q1bsl0E4m"
       },
       "_last_price": null
     },
