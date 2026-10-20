@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T07:19:50.502436+00:00",
-  "total": 1116,
+  "updated_at": "2026-10-20T07:38:40.744123+00:00",
+  "total": 1114,
   "products": [
     {
       "id": "58210104632",
@@ -1882,7 +1882,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mr1pu215296u72",
         "productLink": "https://shopee.com.br/product/1541994310/58214913448",
         "offerLink": "https://s.shopee.com.br/qkMrIZLoR"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19498208842",
@@ -20645,35 +20646,6 @@
       "_last_price": null
     },
     {
-      "id": "23798836546",
-      "name": "Suporte Prateleira Porta Shampoo Organizador De Canto Com Adesivo",
-      "price": 30.99,
-      "original_price": 49.98,
-      "discount": 38.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mo8a0oxibbb83d",
-      "link": "https://s.shopee.com.br/9pfDfjz1ET",
-      "rating": "4.8",
-      "sales": 2836,
-      "shop": "HEXUN SHOP",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23798836546,
-        "productName": "Suporte Prateleira Porta Shampoo Organizador De Canto Com Adesivo",
-        "price": "30.99",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.03",
-        "sales": 2836,
-        "ratingStar": "4.8",
-        "shopName": "HEXUN SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mo8a0oxibbb83d",
-        "productLink": "https://shopee.com.br/product/1515741369/23798836546",
-        "offerLink": "https://s.shopee.com.br/9pfDfjz1ET"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58214668571",
       "name": "Hidrabene Protetor Solar Clareador Facial 70 FPS",
       "price": 36.9,
@@ -29631,35 +29603,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8nhpczsfg5t37",
         "productLink": "https://shopee.com.br/product/277163538/19099682372",
         "offerLink": "https://s.shopee.com.br/qkMrHMUEL"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "53419040158",
-      "name": "SSD M.2 NVMe 2TB Western Digital WD Green SN350 Velocidade de Leitura/Gravação até 3200/3000MB/s Gen3x4 WDS200T3G0C",
-      "price": 1614.9,
-      "original_price": 2018.62,
-      "discount": 20.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259g-mu5c4oqdufpmf5",
-      "link": "https://s.shopee.com.br/9APUmaqlKE",
-      "rating": "5",
-      "sales": 5,
-      "shop": "TNTinfoLoja",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 53419040158,
-        "productName": "SSD M.2 NVMe 2TB Western Digital WD Green SN350 Velocidade de Leitura/Gravação até 3200/3000MB/s Gen3x4 WDS200T3G0C",
-        "price": "1614.9",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.03",
-        "sales": 5,
-        "ratingStar": "5",
-        "shopName": "TNTinfoLoja",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-mu5c4oqdufpmf5",
-        "productLink": "https://shopee.com.br/product/344381236/53419040158",
-        "offerLink": "https://s.shopee.com.br/9APUmaqlKE"
       },
       "_last_price": null
     },
