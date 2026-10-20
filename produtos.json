@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T01:37:05.872918+00:00",
-  "total": 1115,
+  "updated_at": "2026-10-20T01:56:38.023414+00:00",
+  "total": 1116,
   "products": [
     {
       "id": "58210104632",
@@ -201,8 +201,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmajzmcmll3a15",
         "productLink": "https://shopee.com.br/product/1467162087/49207406104",
         "offerLink": "https://s.shopee.com.br/6L5JPSDL4m"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "26539956454",
@@ -896,7 +895,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mr1vaho31o90f0",
         "productLink": "https://shopee.com.br/product/1246081278/45364806848",
         "offerLink": "https://s.shopee.com.br/5LCmDaHocx"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19860785095",
@@ -2578,8 +2578,8 @@
     {
       "id": "23397324970",
       "name": "Relógio À Prova D'água LED Digital de Pulso Esportivo feminino Masculino Ultra9 Esporte Pulseira De Silicone",
-      "price": 13.98,
-      "original_price": 48.21,
+      "price": 13.99,
+      "original_price": 48.24,
       "discount": 71.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr7g6pzaeed783",
@@ -2592,7 +2592,7 @@
       "_item": {
         "itemId": 23397324970,
         "productName": "Relógio À Prova D'água LED Digital de Pulso Esportivo feminino Masculino Ultra9 Esporte Pulseira De Silicone",
-        "price": "13.98",
+        "price": "13.99",
         "priceDiscountRate": 71,
         "commissionRate": "0.03",
         "sales": 4813,
@@ -4544,35 +4544,6 @@
       "_last_price": null
     },
     {
-      "id": "20797868953",
-      "name": "Guarda Roupa Portátil Desmontável Organizador Prático Solteiro e Casal",
-      "price": 59.99,
-      "original_price": 171.4,
-      "discount": 65.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0epmdejhyn47a",
-      "link": "https://s.shopee.com.br/7faibr8N18",
-      "rating": "4.6",
-      "sales": 4158,
-      "shop": "DonaLarana_Casa",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20797868953,
-        "productName": "Guarda Roupa Portátil Desmontável Organizador Prático Solteiro e Casal",
-        "price": "59.99",
-        "priceDiscountRate": 65,
-        "commissionRate": "0.03",
-        "sales": 4158,
-        "ratingStar": "4.6",
-        "shopName": "DonaLarana_Casa",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0epmdejhyn47a",
-        "productLink": "https://shopee.com.br/product/771750144/20797868953",
-        "offerLink": "https://s.shopee.com.br/7faibr8N18"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58260912434",
       "name": "Creatina Monohidratada Hardcore Original 100% Pura Ultimas Unidades",
       "price": 30.9,
@@ -5032,6 +5003,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mq1wjms9613757",
         "productLink": "https://shopee.com.br/product/1552402777/53602161553",
         "offerLink": "https://s.shopee.com.br/8fTEJmwGeJ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20797868953",
+      "name": "Guarda Roupa Portátil Desmontável Organizador Prático Solteiro e Casal",
+      "price": 60.0,
+      "original_price": 166.67,
+      "discount": 64.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0epmdejhyn47a",
+      "link": "https://s.shopee.com.br/7faibr8N18",
+      "rating": "4.6",
+      "sales": 4158,
+      "shop": "DonaLarana_Casa",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20797868953,
+        "productName": "Guarda Roupa Portátil Desmontável Organizador Prático Solteiro e Casal",
+        "price": "60",
+        "priceDiscountRate": 64,
+        "commissionRate": "0.03",
+        "sales": 4158,
+        "ratingStar": "4.6",
+        "shopName": "DonaLarana_Casa",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0epmdejhyn47a",
+        "productLink": "https://shopee.com.br/product/771750144/20797868953",
+        "offerLink": "https://s.shopee.com.br/7faibr8N18"
       },
       "_last_price": null
     },
@@ -14516,8 +14516,8 @@
     {
       "id": "28642994952",
       "name": "KIT 2 Carretel Molinete Dc 7000/4000/2000 Pesca Pesada 10kg Grande 5.2:1 carretilha de pesca.",
-      "price": 93.8,
-      "original_price": 183.92,
+      "price": 94.0,
+      "original_price": 184.31,
       "discount": 49.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8262u-mld5a49ibgun9e",
@@ -14530,7 +14530,7 @@
       "_item": {
         "itemId": 28642994952,
         "productName": "KIT 2 Carretel Molinete Dc 7000/4000/2000 Pesca Pesada 10kg Grande 5.2:1 carretilha de pesca.",
-        "price": "93.8",
+        "price": "94",
         "priceDiscountRate": 49,
         "commissionRate": "0.08",
         "sales": 135,
@@ -19154,35 +19154,6 @@
       "_last_price": null
     },
     {
-      "id": "40163093948",
-      "name": "KIT 2 Vara De Pesca 60-120lbs Completa Com Carretel Esportivo Ao Ar Livre Portátil Sea Bass Joran Pancing~",
-      "price": 71.8,
-      "original_price": 121.69,
-      "discount": 41.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhjx8yv8pb0o32",
-      "link": "https://s.shopee.com.br/8V9oJqv3OR",
-      "rating": "4.8",
-      "sales": 319,
-      "shop": "Loja Deepl",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40163093948,
-        "productName": "KIT 2 Vara De Pesca 60-120lbs Completa Com Carretel Esportivo Ao Ar Livre Portátil Sea Bass Joran Pancing~",
-        "price": "71.8",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.08",
-        "sales": 319,
-        "ratingStar": "4.8",
-        "shopName": "Loja Deepl",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhjx8yv8pb0o32",
-        "productLink": "https://shopee.com.br/product/1541645210/40163093948",
-        "offerLink": "https://s.shopee.com.br/8V9oJqv3OR"
-      },
-      "_last_price": null
-    },
-    {
       "id": "42620071435",
       "name": "Mega Kit de Pesca Completo Varas Molinetes Caixa Maleta, com Anzóis, Boias, Chumbos e Iscas OU APENAS MALETA COM ACESSOR",
       "price": 99.9,
@@ -19194,7 +19165,7 @@
       "rating": "4.7",
       "sales": 310,
       "shop": "Loja Sao Miguel Multicoisas",
-      "category": "molinete pesca",
+      "category": "vara de pesca",
       "source": "shopee",
       "_item": {
         "itemId": 42620071435,
@@ -19879,6 +19850,64 @@
       "_last_price": null
     },
     {
+      "id": "42110429390",
+      "name": "Kit De Luxo Incluindo Vara De Pesca De 1.8 M , Carretel Com Roda Giratória E 35 Acessórios De Isca",
+      "price": 42.0,
+      "original_price": 70.0,
+      "discount": 40.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkc1gjt1xc606",
+      "link": "https://s.shopee.com.br/6fi9oElQ9L",
+      "rating": "4.7",
+      "sales": 1014,
+      "shop": "Loja DMJ",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42110429390,
+        "productName": "Kit De Luxo Incluindo Vara De Pesca De 1.8 M , Carretel Com Roda Giratória E 35 Acessórios De Isca",
+        "price": "42",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.13",
+        "sales": 1014,
+        "ratingStar": "4.7",
+        "shopName": "Loja DMJ",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkc1gjt1xc606",
+        "productLink": "https://shopee.com.br/product/1362613415/42110429390",
+        "offerLink": "https://s.shopee.com.br/6fi9oElQ9L"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "40163093948",
+      "name": "KIT 2 Vara De Pesca 60-120lbs Completa Com Carretel Esportivo Ao Ar Livre Portátil Sea Bass Joran Pancing~",
+      "price": 72.0,
+      "original_price": 120.0,
+      "discount": 40.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhjx8yv8pb0o32",
+      "link": "https://s.shopee.com.br/8V9oJqv3OR",
+      "rating": "4.8",
+      "sales": 319,
+      "shop": "Loja Deepl",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 40163093948,
+        "productName": "KIT 2 Vara De Pesca 60-120lbs Completa Com Carretel Esportivo Ao Ar Livre Portátil Sea Bass Joran Pancing~",
+        "price": "72",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.08",
+        "sales": 319,
+        "ratingStar": "4.8",
+        "shopName": "Loja Deepl",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhjx8yv8pb0o32",
+        "productLink": "https://shopee.com.br/product/1541645210/40163093948",
+        "offerLink": "https://s.shopee.com.br/8V9oJqv3OR"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23197383160",
       "name": "Vara de Pesca 1,80m Carbono Leve e Resistente Para Carretilha 2 Partes 20-50lb JOYFOX",
       "price": 59.0,
@@ -20426,35 +20455,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7m8vni9x7roa2",
         "productLink": "https://shopee.com.br/product/908041635/23398336644",
         "offerLink": "https://s.shopee.com.br/AKbSAtZYFh"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "42110429390",
-      "name": "Kit De Luxo Incluindo Vara De Pesca De 1.8 M , Carretel Com Roda Giratória E 35 Acessórios De Isca",
-      "price": 42.0,
-      "original_price": 68.85,
-      "discount": 39.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkc1gjt1xc606",
-      "link": "https://s.shopee.com.br/6fi9oElQ9L",
-      "rating": "4.7",
-      "sales": 1014,
-      "shop": "Loja DMJ",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42110429390,
-        "productName": "Kit De Luxo Incluindo Vara De Pesca De 1.8 M , Carretel Com Roda Giratória E 35 Acessórios De Isca",
-        "price": "42",
-        "priceDiscountRate": 39,
-        "commissionRate": "0.13",
-        "sales": 1014,
-        "ratingStar": "4.7",
-        "shopName": "Loja DMJ",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkc1gjt1xc606",
-        "productLink": "https://shopee.com.br/product/1362613415/42110429390",
-        "offerLink": "https://s.shopee.com.br/6fi9oElQ9L"
       },
       "_last_price": null
     },
@@ -22195,6 +22195,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mqvbo3ll08hv26",
         "productLink": "https://shopee.com.br/product/1321488407/22894551427",
         "offerLink": "https://s.shopee.com.br/7AeQP9jW8O"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58254132701",
+      "name": "Faca Retrátil Automática com Trava  Aço Inox  Camping Pesca Churrasco",
+      "price": 24.95,
+      "original_price": 38.98,
+      "discount": 36.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzkbkxz17nkc4",
+      "link": "https://s.shopee.com.br/6q1bsl0E4m",
+      "rating": "4.9",
+      "sales": 654,
+      "shop": "MAIS COMERCIO LTDA",
+      "category": "kit pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58254132701,
+        "productName": "Faca Retrátil Automática com Trava  Aço Inox  Camping Pesca Churrasco",
+        "price": "24.95",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 654,
+        "ratingStar": "4.9",
+        "shopName": "MAIS COMERCIO LTDA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzkbkxz17nkc4",
+        "productLink": "https://shopee.com.br/product/1478854168/58254132701",
+        "offerLink": "https://s.shopee.com.br/6q1bsl0E4m"
       },
       "_last_price": null
     },
