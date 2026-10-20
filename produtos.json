@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T08:35:11.508354+00:00",
+  "updated_at": "2026-10-20T08:54:00.121081+00:00",
   "total": 1115,
   "products": [
     {
@@ -5073,7 +5073,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mq1wjms9613757",
         "productLink": "https://shopee.com.br/product/1552402777/53602161553",
         "offerLink": "https://s.shopee.com.br/8fTEJmwGeJ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23694425028",
@@ -22360,35 +22361,6 @@
       "_last_price": null
     },
     {
-      "id": "25669672370",
-      "name": "Isca Artificial Whopper Popper 13g/10cm 6cm/6g Rotativa Flutuante Iscas De Pesca Top Água Atraindo peixes",
-      "price": 7.9,
-      "original_price": 12.34,
-      "discount": 36.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcca-lt13vvuslr1ef1",
-      "link": "https://s.shopee.com.br/113n3n80YL",
-      "rating": "4.9",
-      "sales": 393,
-      "shop": "zhongyu.br",
-      "category": "isca artificial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 25669672370,
-        "productName": "Isca Artificial Whopper Popper 13g/10cm 6cm/6g Rotativa Flutuante Iscas De Pesca Top Água Atraindo peixes",
-        "price": "7.9",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.03",
-        "sales": 393,
-        "ratingStar": "4.9",
-        "shopName": "zhongyu.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcca-lt13vvuslr1ef1",
-        "productLink": "https://shopee.com.br/product/647546523/25669672370",
-        "offerLink": "https://s.shopee.com.br/113n3n80YL"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58202642165",
       "name": "Covo Armadilha Com 6 ou 8 Furos Pesca Peixes Siri Lambari Camarão Iscas Guarda Chuva/octogonal",
       "price": 16.33,
@@ -27489,6 +27461,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pa-mp4mmfls7rpde7",
         "productLink": "https://shopee.com.br/product/1006215031/26487009662",
         "offerLink": "https://s.shopee.com.br/4B0opZsI8w"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58210022340",
+      "name": "Isca Artificial Savage 65 Marine Sports 6,5cm / 6g - Todas as Cores - Robalo Tucunaré Traíra Dourado",
+      "price": 38.38,
+      "original_price": 51.86,
+      "discount": 26.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823qa-moorvce5znri9d",
+      "link": "https://s.shopee.com.br/7pu9YR1bb8",
+      "rating": "5",
+      "sales": 247,
+      "shop": "PROV.X",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58210022340,
+        "productName": "Isca Artificial Savage 65 Marine Sports 6,5cm / 6g - Todas as Cores - Robalo Tucunaré Traíra Dourado",
+        "price": "38.38",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.03",
+        "sales": 247,
+        "ratingStar": "5",
+        "shopName": "PROV.X",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qa-moorvce5znri9d",
+        "productLink": "https://shopee.com.br/product/1702710597/58210022340",
+        "offerLink": "https://s.shopee.com.br/7pu9YR1bb8"
       },
       "_last_price": null
     },
