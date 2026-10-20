@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T22:37:36.508675+00:00",
-  "total": 1124,
+  "updated_at": "2026-10-20T22:57:13.325476+00:00",
+  "total": 1125,
   "products": [
     {
       "id": "58210104632",
@@ -524,6 +524,35 @@
       }
     },
     {
+      "id": "57911938287",
+      "name": "Fonte ATX MSI 650W MAG 2.4 PCIE 80 Plus Bronze 306-7ZPAX39-HH9",
+      "price": 319.0,
+      "original_price": 1595.0,
+      "discount": 80.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
+      "link": "https://s.shopee.com.br/4LKF1k3xFB",
+      "rating": "5",
+      "sales": 1411,
+      "shop": "TNTinfoLoja",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57911938287,
+        "productName": "Fonte ATX MSI 650W MAG 2.4 PCIE 80 Plus Bronze 306-7ZPAX39-HH9",
+        "price": "319",
+        "priceDiscountRate": 80,
+        "commissionRate": "0.06",
+        "sales": 1411,
+        "ratingStar": "5",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
+        "productLink": "https://shopee.com.br/product/344381236/57911938287",
+        "offerLink": "https://s.shopee.com.br/4LKF1k3xFB"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21897981294",
       "name": "Attracione Men (Perfume Masculino com Feromônios Ativados)",
       "price": 59.0,
@@ -665,7 +694,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lzop7krz80iq1e",
         "productLink": "https://shopee.com.br/product/218996205/25391678999",
         "offerLink": "https://s.shopee.com.br/2LZAe2GmBm"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23394267693",
@@ -1219,8 +1249,8 @@
     {
       "id": "20398528613",
       "name": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
-      "price": 11.97,
-      "original_price": 49.88,
+      "price": 11.98,
+      "original_price": 49.92,
       "discount": 76.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mmvxxzgnnoqsff",
@@ -1233,7 +1263,7 @@
       "_item": {
         "itemId": 20398528613,
         "productName": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
-        "price": "11.97",
+        "price": "11.98",
         "priceDiscountRate": 76,
         "commissionRate": "0.07",
         "sales": 5461,
@@ -1618,8 +1648,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk90kkju10qp3b",
         "productLink": "https://shopee.com.br/product/1063922972/18299069073",
         "offerLink": "https://s.shopee.com.br/9APUmmCvIb"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "18398161750",
@@ -3528,6 +3557,35 @@
       "_last_price": null
     },
     {
+      "id": "20397689429",
+      "name": "Suporte De Parede Banheiro/Caixa Organizadora Com Papel Higiênico/Sem Furar pronta entrega",
+      "price": 15.99,
+      "original_price": 49.97,
+      "discount": 68.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-lvmc7m8negkib0",
+      "link": "https://s.shopee.com.br/9064aLTmYd",
+      "rating": "4.7",
+      "sales": 5843,
+      "shop": "CASA FEIRA",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20397689429,
+        "productName": "Suporte De Parede Banheiro/Caixa Organizadora Com Papel Higiênico/Sem Furar pronta entrega",
+        "price": "15.99",
+        "priceDiscountRate": 68,
+        "commissionRate": "0.03",
+        "sales": 5843,
+        "ratingStar": "4.7",
+        "shopName": "CASA FEIRA",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-lvmc7m8negkib0",
+        "productLink": "https://shopee.com.br/product/1034273871/20397689429",
+        "offerLink": "https://s.shopee.com.br/9064aLTmYd"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18623190615",
       "name": "Par Manguito Com Dedo Proteção Solar UV50+ Manga Esportiva Protetor Solar Uv Mangas",
       "price": 7.99,
@@ -4397,6 +4455,35 @@
       "_last_price": null
     },
     {
+      "id": "22098143818",
+      "name": "Carretilha  1.8M Vara De Pesca Vara  Pesca Kit   Alta Velocidade 5.2 : 1 Relação Engrenagem Max Drag 30KG",
+      "price": 77.97,
+      "original_price": 229.32,
+      "discount": 66.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mczzxsgray9t0d",
+      "link": "https://s.shopee.com.br/3B8LDc0dlF",
+      "rating": "4.7",
+      "sales": 338,
+      "shop": "Bàodān Garantia oficial",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22098143818,
+        "productName": "Carretilha  1.8M Vara De Pesca Vara  Pesca Kit   Alta Velocidade 5.2 : 1 Relação Engrenagem Max Drag 30KG",
+        "price": "77.97",
+        "priceDiscountRate": 66,
+        "commissionRate": "0.08",
+        "sales": 338,
+        "ratingStar": "4.7",
+        "shopName": "Bàodān Garantia oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mczzxsgray9t0d",
+        "productLink": "https://shopee.com.br/product/1133907149/22098143818",
+        "offerLink": "https://s.shopee.com.br/3B8LDc0dlF"
+      },
+      "_last_price": null
+    },
+    {
       "id": "43156498472",
       "name": "Carretilha Moinho de Pesca HE 1000-7000 Metal EVA 10kg Máximo Água Salada Oceano Carretel Metálico",
       "price": 26.97,
@@ -4741,35 +4828,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mnx8czipq39ea6",
         "productLink": "https://shopee.com.br/product/433494801/20397641620",
         "offerLink": "https://s.shopee.com.br/9zybmHaovf"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22098143818",
-      "name": "Carretilha  1.8M Vara De Pesca Vara  Pesca Kit   Alta Velocidade 5.2 : 1 Relação Engrenagem Max Drag 30KG",
-      "price": 78.9,
-      "original_price": 225.43,
-      "discount": 65.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mczzxsgray9t0d",
-      "link": "https://s.shopee.com.br/3B8LDc0dlF",
-      "rating": "4.7",
-      "sales": 338,
-      "shop": "Bàodān Garantia oficial",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22098143818,
-        "productName": "Carretilha  1.8M Vara De Pesca Vara  Pesca Kit   Alta Velocidade 5.2 : 1 Relação Engrenagem Max Drag 30KG",
-        "price": "78.9",
-        "priceDiscountRate": 65,
-        "commissionRate": "0.08",
-        "sales": 338,
-        "ratingStar": "4.7",
-        "shopName": "Bàodān Garantia oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mczzxsgray9t0d",
-        "productLink": "https://shopee.com.br/product/1133907149/22098143818",
-        "offerLink": "https://s.shopee.com.br/3B8LDc0dlF"
       },
       "_last_price": null
     },
@@ -6454,35 +6512,6 @@
       "_last_price": null
     },
     {
-      "id": "23698466561",
-      "name": "Prateleira Organizadora Multifuncional com Prateleiras Para Banheiro",
-      "price": 42.99,
-      "original_price": 110.23,
-      "discount": 61.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfew-m9j8x6iwawk9bd",
-      "link": "https://s.shopee.com.br/2VscThyZoe",
-      "rating": "4.6",
-      "sales": 3840,
-      "shop": "Link&LinkShop_Brasil",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23698466561,
-        "productName": "Prateleira Organizadora Multifuncional com Prateleiras Para Banheiro",
-        "price": "42.99",
-        "priceDiscountRate": 61,
-        "commissionRate": "0.03",
-        "sales": 3840,
-        "ratingStar": "4.6",
-        "shopName": "Link&LinkShop_Brasil",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfew-m9j8x6iwawk9bd",
-        "productLink": "https://shopee.com.br/product/1459307687/23698466561",
-        "offerLink": "https://s.shopee.com.br/2VscThyZoe"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58215631607",
       "name": "Kit Body Splash Masculino 2x200ml NeoNoble Inspirado em 212 VIP Black e Sauvage",
       "price": 19.49,
@@ -6607,7 +6636,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-822yi-mi7jaepknytecf",
       "link": "https://s.shopee.com.br/1LgdSKLtAP",
-      "rating": "5",
+      "rating": "4.9",
       "sales": 313,
       "shop": "casa eletronico ltda",
       "category": "casinha pet",
@@ -6619,7 +6648,7 @@
         "priceDiscountRate": 61,
         "commissionRate": "0.03",
         "sales": 313,
-        "ratingStar": "5",
+        "ratingStar": "4.9",
         "shopName": "casa eletronico ltda",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822yi-mi7jaepknytecf",
         "productLink": "https://shopee.com.br/product/885874536/23094783913",
@@ -6827,35 +6856,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbofl4hbm2ef45",
         "productLink": "https://shopee.com.br/product/1331886707/23898664618",
         "offerLink": "https://s.shopee.com.br/20wKFQ0RnY"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23998935659",
-      "name": "Dissipador de Calor SSD M.2 NVMe 2280 com Thermal Pad",
-      "price": 17.99,
-      "original_price": 44.97,
-      "discount": 60.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mrbmy2x8wm4l3f",
-      "link": "https://s.shopee.com.br/40hOd6AQns",
-      "rating": "5",
-      "sales": 81,
-      "shop": "LexRocks Infinity",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23998935659,
-        "productName": "Dissipador de Calor SSD M.2 NVMe 2280 com Thermal Pad",
-        "price": "17.99",
-        "priceDiscountRate": 60,
-        "commissionRate": "0.03",
-        "sales": 81,
-        "ratingStar": "5",
-        "shopName": "LexRocks Infinity",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mrbmy2x8wm4l3f",
-        "productLink": "https://shopee.com.br/product/1145739576/23998935659",
-        "offerLink": "https://s.shopee.com.br/40hOd6AQns"
       },
       "_last_price": null
     },
@@ -7352,6 +7352,35 @@
       "_last_price": null
     },
     {
+      "id": "22993262488",
+      "name": "Vara de pesca com carretilha 1.6M 1.8M 2.1M Vara De Pesca Carretel  Kit Completo Com Alta Velocidade Max Drag 30KG",
+      "price": 79.9,
+      "original_price": 199.75,
+      "discount": 60.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9h2ynh16epuf7",
+      "link": "https://s.shopee.com.br/2qVRFC00vy",
+      "rating": "4.7",
+      "sales": 439,
+      "shop": "Bàodān Garantia oficial",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22993262488,
+        "productName": "Vara de pesca com carretilha 1.6M 1.8M 2.1M Vara De Pesca Carretel  Kit Completo Com Alta Velocidade Max Drag 30KG",
+        "price": "79.9",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.08",
+        "sales": 439,
+        "ratingStar": "4.7",
+        "shopName": "Bàodān Garantia oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9h2ynh16epuf7",
+        "productLink": "https://shopee.com.br/product/1133907149/22993262488",
+        "offerLink": "https://s.shopee.com.br/2qVRFC00vy"
+      },
+      "_last_price": null
+    },
+    {
       "id": "43504237637",
       "name": "Carretel De Pesca 60Kg 5.2 : 1 Giratório 1000 Com Cabo EVA Fruta Verde Escura",
       "price": 38.0,
@@ -7615,8 +7644,8 @@
     {
       "id": "58264910845",
       "name": "Balança Colher Digital Pega Ração Dosador Precisão LCD Para Pet Cachorro Gato Cozinha Alimentos Receitas",
-      "price": 39.99,
-      "original_price": 97.54,
+      "price": 72.99,
+      "original_price": 178.02,
       "discount": 59.0,
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mr1dkyile9dz32",
@@ -7629,7 +7658,7 @@
       "_item": {
         "itemId": 58264910845,
         "productName": "Balança Colher Digital Pega Ração Dosador Precisão LCD Para Pet Cachorro Gato Cozinha Alimentos Receitas",
-        "price": "39.99",
+        "price": "72.99",
         "priceDiscountRate": 59,
         "commissionRate": "0.14",
         "sales": 766,
@@ -9874,35 +9903,6 @@
       "_last_price": null
     },
     {
-      "id": "22993262488",
-      "name": "Vara de pesca com carretilha 1.6M 1.8M 2.1M Vara De Pesca Carretel  Kit Completo Com Alta Velocidade Max Drag 30KG",
-      "price": 98.79,
-      "original_price": 219.53,
-      "discount": 55.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9h2ynh16epuf7",
-      "link": "https://s.shopee.com.br/2qVRFC00vy",
-      "rating": "4.7",
-      "sales": 439,
-      "shop": "Bàodān Garantia oficial",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22993262488,
-        "productName": "Vara de pesca com carretilha 1.6M 1.8M 2.1M Vara De Pesca Carretel  Kit Completo Com Alta Velocidade Max Drag 30KG",
-        "price": "98.79",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.08",
-        "sales": 439,
-        "ratingStar": "4.7",
-        "shopName": "Bàodān Garantia oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9h2ynh16epuf7",
-        "productLink": "https://shopee.com.br/product/1133907149/22993262488",
-        "offerLink": "https://s.shopee.com.br/2qVRFC00vy"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58216798526",
       "name": "Kit de Pescaria Sougayilang Vara de pesca 1.80m 2 seções + Carretilha de pesca 7.2:1 + Linha de pesca + Isca de pesca",
       "price": 135.0,
@@ -10073,35 +10073,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkioznekh91dcd",
         "productLink": "https://shopee.com.br/product/1719286529/58202972742",
         "offerLink": "https://s.shopee.com.br/80DaTMEJNY"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58261918789",
-      "name": "Dissipador de Calor Para SSD NVME e Vídeo Game com Thermal Pad",
-      "price": 17.99,
-      "original_price": 39.11,
-      "discount": 54.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mrop7pcd2l1ge4",
-      "link": "https://s.shopee.com.br/1BFrkPevE",
-      "rating": "4.9",
-      "sales": 54,
-      "shop": "LexRocks Infinity",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58261918789,
-        "productName": "Dissipador de Calor Para SSD NVME e Vídeo Game com Thermal Pad",
-        "price": "17.99",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.03",
-        "sales": 54,
-        "ratingStar": "4.9",
-        "shopName": "LexRocks Infinity",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mrop7pcd2l1ge4",
-        "productLink": "https://shopee.com.br/product/1145739576/58261918789",
-        "offerLink": "https://s.shopee.com.br/1BFrkPevE"
       },
       "_last_price": null
     },
@@ -11871,6 +11842,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-msceb66hodms2b",
         "productLink": "https://shopee.com.br/product/1724060495/23899340449",
         "offerLink": "https://s.shopee.com.br/3Vl82PbgVt"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23998935659",
+      "name": "Dissipador de Calor SSD M.2 NVMe 2280 com Thermal Pad",
+      "price": 21.99,
+      "original_price": 44.88,
+      "discount": 51.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mrbmy2x8wm4l3f",
+      "link": "https://s.shopee.com.br/40hOd6AQns",
+      "rating": "5",
+      "sales": 81,
+      "shop": "LexRocks Infinity",
+      "category": "ssd nvme",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23998935659,
+        "productName": "Dissipador de Calor SSD M.2 NVMe 2280 com Thermal Pad",
+        "price": "21.99",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.03",
+        "sales": 81,
+        "ratingStar": "5",
+        "shopName": "LexRocks Infinity",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mrbmy2x8wm4l3f",
+        "productLink": "https://shopee.com.br/product/1145739576/23998935659",
+        "offerLink": "https://s.shopee.com.br/40hOd6AQns"
       },
       "_last_price": null
     },
@@ -15355,35 +15355,6 @@
       "_last_price": null
     },
     {
-      "id": "57960684492",
-      "name": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
-      "price": 10.22,
-      "original_price": 19.28,
-      "discount": 47.0,
-      "commission": 7.5,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
-      "link": "https://s.shopee.com.br/1LgdSJDQS6",
-      "rating": "4.7",
-      "sales": 23,
-      "shop": "ProsPeritY Us",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57960684492,
-        "productName": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
-        "price": "10.22",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.075",
-        "sales": 23,
-        "ratingStar": "4.7",
-        "shopName": "ProsPeritY Us",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
-        "productLink": "https://shopee.com.br/product/252308329/57960684492",
-        "offerLink": "https://s.shopee.com.br/1LgdSJDQS6"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58256070956",
       "name": "Camiseta Unissex 100% algodao Oversized One More Rep Estampa Haltere Fitness Treino para Academia envio rapido",
       "price": 44.52,
@@ -15409,6 +15380,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
         "productLink": "https://shopee.com.br/product/1727822533/58256070956",
         "offerLink": "https://s.shopee.com.br/20wKFXAt6A"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "57960684492",
+      "name": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
+      "price": 10.22,
+      "original_price": 19.28,
+      "discount": 47.0,
+      "commission": 7.5,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
+      "link": "https://s.shopee.com.br/1LgdSJDQS6",
+      "rating": "4.7",
+      "sales": 23,
+      "shop": "ProsPeritY Us",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57960684492,
+        "productName": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
+        "price": "10.22",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.075",
+        "sales": 23,
+        "ratingStar": "4.7",
+        "shopName": "ProsPeritY Us",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
+        "productLink": "https://shopee.com.br/product/252308329/57960684492",
+        "offerLink": "https://s.shopee.com.br/1LgdSJDQS6"
       },
       "_last_price": null
     },
@@ -16581,7 +16581,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-82589-mrdtcbmvrqx13a",
       "link": "https://s.shopee.com.br/2LZAe6kAHv",
-      "rating": "4.7",
+      "rating": "4.6",
       "sales": 2005,
       "shop": "Zuri Tech",
       "category": "condicionador",
@@ -16593,7 +16593,7 @@
         "priceDiscountRate": 45,
         "commissionRate": "0.03",
         "sales": 2005,
-        "ratingStar": "4.7",
+        "ratingStar": "4.6",
         "shopName": "Zuri Tech",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82589-mrdtcbmvrqx13a",
         "productLink": "https://shopee.com.br/product/1868064927/58215448917",
@@ -17062,6 +17062,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mo34wuhsuebo5f",
         "productLink": "https://shopee.com.br/product/1748741556/58256029412",
         "offerLink": "https://s.shopee.com.br/Lo6GM6nB4"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58261918789",
+      "name": "Dissipador de Calor Para SSD NVME e Vídeo Game com Thermal Pad",
+      "price": 21.99,
+      "original_price": 39.27,
+      "discount": 44.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mujttuhr47wj48",
+      "link": "https://s.shopee.com.br/1BFrkPevE",
+      "rating": "4.9",
+      "sales": 54,
+      "shop": "LexRocks Infinity",
+      "category": "ssd nvme",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58261918789,
+        "productName": "Dissipador de Calor Para SSD NVME e Vídeo Game com Thermal Pad",
+        "price": "21.99",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.03",
+        "sales": 54,
+        "ratingStar": "4.9",
+        "shopName": "LexRocks Infinity",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mujttuhr47wj48",
+        "productLink": "https://shopee.com.br/product/1145739576/58261918789",
+        "offerLink": "https://s.shopee.com.br/1BFrkPevE"
       },
       "_last_price": null
     },
@@ -26491,35 +26520,6 @@
       "_last_price": null
     },
     {
-      "id": "22994269933",
-      "name": "Kit De Pesca 4 Vara E 4 Molinete Com Linha Maleta Acessórios",
-      "price": 184.99,
-      "original_price": 260.55,
-      "discount": 29.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8262d-mlgemn4x845c7c",
-      "link": "https://s.shopee.com.br/2gC4ch2XmA",
-      "rating": "4.9",
-      "sales": 320,
-      "shop": "ApexVendas",
-      "category": "molinete pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22994269933,
-        "productName": "Kit De Pesca 4 Vara E 4 Molinete Com Linha Maleta Acessórios",
-        "price": "184.99",
-        "priceDiscountRate": 29,
-        "commissionRate": "0.07",
-        "sales": 320,
-        "ratingStar": "4.9",
-        "shopName": "ApexVendas",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262d-mlgemn4x845c7c",
-        "productLink": "https://shopee.com.br/product/940287081/22994269933",
-        "offerLink": "https://s.shopee.com.br/2gC4ch2XmA"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22594826578",
       "name": "Boia Infantil com Cobertura Solar Inflável para Piscina e Praia 1+",
       "price": 55.99,
@@ -28488,6 +28488,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbr1m4vtwjonc8",
         "productLink": "https://shopee.com.br/product/1165645795/22998698600",
         "offerLink": "https://s.shopee.com.br/7AeQP0w5eD"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22994269933",
+      "name": "Kit De Pesca 4 Vara E 4 Molinete Com Linha Maleta Acessórios",
+      "price": 195.47,
+      "original_price": 257.2,
+      "discount": 24.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8262d-mlgemn4x845c7c",
+      "link": "https://s.shopee.com.br/2gC4ch2XmA",
+      "rating": "4.9",
+      "sales": 320,
+      "shop": "ApexVendas",
+      "category": "molinete pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22994269933,
+        "productName": "Kit De Pesca 4 Vara E 4 Molinete Com Linha Maleta Acessórios",
+        "price": "195.47",
+        "priceDiscountRate": 24,
+        "commissionRate": "0.07",
+        "sales": 320,
+        "ratingStar": "4.9",
+        "shopName": "ApexVendas",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262d-mlgemn4x845c7c",
+        "productLink": "https://shopee.com.br/product/940287081/22994269933",
+        "offerLink": "https://s.shopee.com.br/2gC4ch2XmA"
       },
       "_last_price": null
     },
