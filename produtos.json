@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T18:22:02.999851+00:00",
+  "updated_at": "2026-10-20T18:41:43.146179+00:00",
   "total": 1120,
   "products": [
     {
@@ -976,13 +976,14 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mu0tycy1648x73",
         "productLink": "https://shopee.com.br/product/1298416721/23399029450",
         "offerLink": "https://s.shopee.com.br/2LZAeFkveE"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "18999727561",
       "name": "Suporte Articulado Para Monitor 13 a 32 Pistão a Gás Ajustável Zinnia Nimbo 110 Preto",
-      "price": 91.9,
-      "original_price": 399.57,
+      "price": 91.56,
+      "original_price": 398.09,
       "discount": 77.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9la20m7sw180",
@@ -995,7 +996,7 @@
       "_item": {
         "itemId": 18999727561,
         "productName": "Suporte Articulado Para Monitor 13 a 32 Pistão a Gás Ajustável Zinnia Nimbo 110 Preto",
-        "price": "91.9",
+        "price": "91.56",
         "priceDiscountRate": 77,
         "commissionRate": "0.03",
         "sales": 1735,
@@ -2278,8 +2279,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/3c5c292f73a7da4ff5dbb3b0c6bc1a08",
         "productLink": "https://shopee.com.br/product/233660920/18617064006",
         "offerLink": "https://s.shopee.com.br/gQwfB9HEJ"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23192646152",
@@ -22694,35 +22694,6 @@
       "_last_price": null
     },
     {
-      "id": "58209837071",
-      "name": "Ração Cachorro 15kg Caninos Start Adulto Todas as Raças Sabor Carne",
-      "price": 64.5,
-      "original_price": 99.23,
-      "discount": 35.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mr1zwjey22o459",
-      "link": "https://s.shopee.com.br/4VdfE8ahkG",
-      "rating": "4.9",
-      "sales": 4779,
-      "shop": "Ox Distribuidora",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58209837071,
-        "productName": "Ração Cachorro 15kg Caninos Start Adulto Todas as Raças Sabor Carne",
-        "price": "64.5",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.03",
-        "sales": 4779,
-        "ratingStar": "4.9",
-        "shopName": "Ox Distribuidora",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mr1zwjey22o459",
-        "productLink": "https://shopee.com.br/product/1571276714/58209837071",
-        "offerLink": "https://s.shopee.com.br/4VdfE8ahkG"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58203174132",
       "name": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
       "price": 179.9,
@@ -24111,6 +24082,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82288-mhjvplolmbd1bb",
         "productLink": "https://shopee.com.br/product/446413605/23698978626",
         "offerLink": "https://s.shopee.com.br/3g4YEa9PkS"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58209837071",
+      "name": "Ração Cachorro 15kg Caninos Start Adulto Todas as Raças Sabor Carne",
+      "price": 66.9,
+      "original_price": 99.85,
+      "discount": 33.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mr1zwjey22o459",
+      "link": "https://s.shopee.com.br/4VdfE8ahkG",
+      "rating": "4.9",
+      "sales": 4779,
+      "shop": "Ox Distribuidora",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58209837071,
+        "productName": "Ração Cachorro 15kg Caninos Start Adulto Todas as Raças Sabor Carne",
+        "price": "66.9",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.03",
+        "sales": 4779,
+        "ratingStar": "4.9",
+        "shopName": "Ox Distribuidora",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mr1zwjey22o459",
+        "productLink": "https://shopee.com.br/product/1571276714/58209837071",
+        "offerLink": "https://s.shopee.com.br/4VdfE8ahkG"
       },
       "_last_price": null
     },
@@ -30445,7 +30445,7 @@
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820me-mu5trnacuq691b",
       "link": "https://s.shopee.com.br/4B0qRRTx9i",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 84,
       "shop": "Hidrabene ",
       "category": "protetor solar",
@@ -30457,7 +30457,7 @@
         "priceDiscountRate": 19,
         "commissionRate": "0.13",
         "sales": 84,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "Hidrabene ",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mu5trnacuq691b",
         "productLink": "https://shopee.com.br/product/1860098702/58270243088",
