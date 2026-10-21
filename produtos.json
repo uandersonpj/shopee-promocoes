@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T16:09:07.365311+00:00",
-  "total": 1120,
+  "updated_at": "2026-10-21T16:28:50.081642+00:00",
+  "total": 1121,
   "products": [
     {
       "id": "58210104632",
@@ -12847,7 +12847,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-82587-msbazrd1djb61a",
       "link": "https://s.shopee.com.br/2Vsfd5K2sr",
-      "rating": "4.7",
+      "rating": "4.8",
       "sales": 116,
       "shop": "Cat-Store",
       "category": "placa de video",
@@ -12859,7 +12859,7 @@
         "priceDiscountRate": 50,
         "commissionRate": "0.03",
         "sales": 116,
-        "ratingStar": "4.7",
+        "ratingStar": "4.8",
         "shopName": "Cat-Store",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82587-msbazrd1djb61a",
         "productLink": "https://shopee.com.br/product/412022794/23894378696",
@@ -15478,35 +15478,6 @@
       "_last_price": null
     },
     {
-      "id": "57960684492",
-      "name": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
-      "price": 10.22,
-      "original_price": 19.28,
-      "discount": 47.0,
-      "commission": 7.5,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
-      "link": "https://s.shopee.com.br/AKbWxainBo",
-      "rating": "4.7",
-      "sales": 23,
-      "shop": "ProsPeritY Us",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57960684492,
-        "productName": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
-        "price": "10.22",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.075",
-        "sales": 23,
-        "ratingStar": "4.7",
-        "shopName": "ProsPeritY Us",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
-        "productLink": "https://shopee.com.br/product/252308329/57960684492",
-        "offerLink": "https://s.shopee.com.br/AKbWxainBo"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58256070956",
       "name": "Camiseta Unissex 100% algodao Oversized One More Rep Estampa Haltere Fitness Treino para Academia envio rapido",
       "price": 44.52,
@@ -15532,6 +15503,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
         "productLink": "https://shopee.com.br/product/1727822533/58256070956",
         "offerLink": "https://s.shopee.com.br/BUkquLUop"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "57960684492",
+      "name": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
+      "price": 10.22,
+      "original_price": 19.28,
+      "discount": 47.0,
+      "commission": 7.5,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
+      "link": "https://s.shopee.com.br/AKbWxainBo",
+      "rating": "4.7",
+      "sales": 23,
+      "shop": "ProsPeritY Us",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57960684492,
+        "productName": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
+        "price": "10.22",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.075",
+        "sales": 23,
+        "ratingStar": "4.7",
+        "shopName": "ProsPeritY Us",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
+        "productLink": "https://shopee.com.br/product/252308329/57960684492",
+        "offerLink": "https://s.shopee.com.br/AKbWxainBo"
       },
       "_last_price": null
     },
@@ -16431,8 +16431,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mlnyk7d6pybr7b",
         "productLink": "https://shopee.com.br/product/375688601/23192991550",
         "offerLink": "https://s.shopee.com.br/5q97bRjd5x"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "42160394708",
@@ -30670,6 +30669,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mqetrh5j5o1tae",
         "productLink": "https://shopee.com.br/product/429615795/22899524173",
         "offerLink": "https://s.shopee.com.br/80DcBLUbKS"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "57912372907",
+      "name": "Linha Nylon Monofilamento Dourado 100m Premium Várias Bitolas Mazzaferro Pesca/Artesanato",
+      "price": 9.72,
+      "original_price": 12.0,
+      "discount": 19.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mpkuzmn5fgu9e3",
+      "link": "https://s.shopee.com.br/9KizlqB2tn",
+      "rating": "4.9",
+      "sales": 322,
+      "shop": "DEDO DURO",
+      "category": "linha de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57912372907,
+        "productName": "Linha Nylon Monofilamento Dourado 100m Premium Várias Bitolas Mazzaferro Pesca/Artesanato",
+        "price": "9.72",
+        "priceDiscountRate": 19,
+        "commissionRate": "0.11",
+        "sales": 322,
+        "ratingStar": "4.9",
+        "shopName": "DEDO DURO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mpkuzmn5fgu9e3",
+        "productLink": "https://shopee.com.br/product/1743232382/57912372907",
+        "offerLink": "https://s.shopee.com.br/9KizlqB2tn"
       },
       "_last_price": null
     },
