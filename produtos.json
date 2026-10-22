@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T08:38:34.705847+00:00",
-  "total": 1121,
+  "updated_at": "2026-10-22T08:57:19.489513+00:00",
+  "total": 1122,
   "products": [
     {
       "id": "58210104632",
@@ -6408,7 +6408,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtz23drmeh3613",
         "productLink": "https://shopee.com.br/product/1593878986/58269834909",
         "offerLink": "https://s.shopee.com.br/AAI7hLGiwq"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23698466561",
@@ -15372,35 +15373,6 @@
       "_last_price": null
     },
     {
-      "id": "57960684492",
-      "name": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
-      "price": 10.22,
-      "original_price": 19.28,
-      "discount": 47.0,
-      "commission": 7.5,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
-      "link": "https://s.shopee.com.br/9pfHIotdiy",
-      "rating": "4.7",
-      "sales": 24,
-      "shop": "ProsPeritY Us",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57960684492,
-        "productName": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
-        "price": "10.22",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.075",
-        "sales": 24,
-        "ratingStar": "4.7",
-        "shopName": "ProsPeritY Us",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
-        "productLink": "https://shopee.com.br/product/252308329/57960684492",
-        "offerLink": "https://s.shopee.com.br/9pfHIotdiy"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58256070956",
       "name": "Camiseta Unissex 100% algodao Oversized One More Rep Estampa Haltere Fitness Treino para Academia envio rapido",
       "price": 44.52,
@@ -15426,6 +15398,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
         "productLink": "https://shopee.com.br/product/1727822533/58256070956",
         "offerLink": "https://s.shopee.com.br/9V2QuCuuOw"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "57960684492",
+      "name": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
+      "price": 10.22,
+      "original_price": 19.28,
+      "discount": 47.0,
+      "commission": 7.5,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
+      "link": "https://s.shopee.com.br/9pfHIotdiy",
+      "rating": "4.7",
+      "sales": 24,
+      "shop": "ProsPeritY Us",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57960684492,
+        "productName": "[PPTS] 25/28/30mm Braçadeira De Barra Clipes De Colarinho De Mola Academia Haltere De Peso Lo Kit De Levantamento Padrão",
+        "price": "10.22",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.075",
+        "sales": 24,
+        "ratingStar": "4.7",
+        "shopName": "ProsPeritY Us",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
+        "productLink": "https://shopee.com.br/product/252308329/57960684492",
+        "offerLink": "https://s.shopee.com.br/9pfHIotdiy"
       },
       "_last_price": null
     },
@@ -17659,6 +17660,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6qy7616re3gee",
         "productLink": "https://shopee.com.br/product/184031551/29877782583",
         "offerLink": "https://s.shopee.com.br/4VdkvsG9pe"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "43108735992",
+      "name": "Papel Offset Opaline Liso 180g Branco Diplomata Kit 200, 100 ou 50 Folhas Masterprint",
+      "price": 22.97,
+      "original_price": 40.3,
+      "discount": 43.0,
+      "commission": 14.000000000000002,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbfn2mbuo7lk14",
+      "link": "https://s.shopee.com.br/W7cCqhbuc",
+      "rating": "5",
+      "sales": 3040,
+      "shop": "Draw Papelaria",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 43108735992,
+        "productName": "Papel Offset Opaline Liso 180g Branco Diplomata Kit 200, 100 ou 50 Folhas Masterprint",
+        "price": "22.97",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.14",
+        "sales": 3040,
+        "ratingStar": "5",
+        "shopName": "Draw Papelaria",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbfn2mbuo7lk14",
+        "productLink": "https://shopee.com.br/product/999239250/43108735992",
+        "offerLink": "https://s.shopee.com.br/W7cCqhbuc"
       },
       "_last_price": null
     },
