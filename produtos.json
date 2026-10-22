@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T07:04:57.124415+00:00",
-  "total": 1122,
+  "updated_at": "2026-10-22T07:23:40.409849+00:00",
+  "total": 1121,
   "products": [
     {
       "id": "58210104632",
@@ -9797,7 +9797,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b8-mq36i3xnt34c85",
         "productLink": "https://shopee.com.br/product/230709939/26538918731",
         "offerLink": "https://s.shopee.com.br/6L5P8SnPgx"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22794276330",
@@ -13450,35 +13451,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mu7pfw2qudxdde",
         "productLink": "https://shopee.com.br/product/1101178064/44001553177",
         "offerLink": "https://s.shopee.com.br/70L5vavxf6"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22894378689",
-      "name": "Tapete Higiênico Descartável para Cachorro 60 x 60 cm - Fralda Pet Xixi Cão Pequeno Médio Absorção T",
-      "price": 19.96,
-      "original_price": 39.92,
-      "discount": 50.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjikuad7a22rcd",
-      "link": "https://s.shopee.com.br/3g4dxT8eQd",
-      "rating": "4.7",
-      "sales": 1413,
-      "shop": "escobartools",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22894378689,
-        "productName": "Tapete Higiênico Descartável para Cachorro 60 x 60 cm - Fralda Pet Xixi Cão Pequeno Médio Absorção T",
-        "price": "19.96",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.03",
-        "sales": 1413,
-        "ratingStar": "4.7",
-        "shopName": "escobartools",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjikuad7a22rcd",
-        "productLink": "https://shopee.com.br/product/1564303923/22894378689",
-        "offerLink": "https://s.shopee.com.br/3g4dxT8eQd"
       },
       "_last_price": null
     },
@@ -25810,8 +25782,8 @@
     {
       "id": "13435249728",
       "name": "Caminha Casinha Pet Cama GG Grande Cachorro Grande Cão e Gato",
-      "price": 69.88,
-      "original_price": 99.83,
+      "price": 69.99,
+      "original_price": 99.99,
       "discount": 30.0,
       "commission": 23.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivnw76gufwia0",
@@ -25824,7 +25796,7 @@
       "_item": {
         "itemId": 13435249728,
         "productName": "Caminha Casinha Pet Cama GG Grande Cachorro Grande Cão e Gato",
-        "price": "69.88",
+        "price": "69.99",
         "priceDiscountRate": 30,
         "commissionRate": "0.23",
         "sales": 437,
