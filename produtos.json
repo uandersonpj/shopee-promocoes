@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T08:19:51.632409+00:00",
+  "updated_at": "2026-10-22T08:38:34.705847+00:00",
   "total": 1121,
   "products": [
     {
@@ -1217,7 +1217,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mo5m3lm7da841f",
         "productLink": "https://shopee.com.br/product/1654851165/58210532717",
         "offerLink": "https://s.shopee.com.br/1BNIys0ZN4"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "9511754133",
@@ -1535,6 +1536,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mafoc9gj36hb88",
         "productLink": "https://shopee.com.br/product/1384231985/23498458783",
         "offerLink": "https://s.shopee.com.br/40hUM9WAHg"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58202416470",
+      "name": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
+      "price": 4.98,
+      "original_price": 19.92,
+      "discount": 75.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
+      "link": "https://s.shopee.com.br/5fpiL71qQh",
+      "rating": "4.9",
+      "sales": 11620,
+      "shop": "LUCIOshopping",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58202416470,
+        "productName": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
+        "price": "4.98",
+        "priceDiscountRate": 75,
+        "commissionRate": "0.03",
+        "sales": 11620,
+        "ratingStar": "4.9",
+        "shopName": "LUCIOshopping",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
+        "productLink": "https://shopee.com.br/product/1691846378/58202416470",
+        "offerLink": "https://s.shopee.com.br/5fpiL71qQh"
       },
       "_last_price": null
     },
@@ -9567,35 +9597,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcf9-lton9bme325s31",
         "productLink": "https://shopee.com.br/product/378105312/18297665963",
         "offerLink": "https://s.shopee.com.br/3qO49m815e"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "43684764598",
-      "name": "Creatina Monohidratada 100% Pura 150g  importada  KRON",
-      "price": 21.98,
-      "original_price": 48.84,
-      "discount": 55.0,
-      "commission": 24.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mtjsgzx9qpdv93",
-      "link": "https://s.shopee.com.br/4LKKkhx2xe",
-      "rating": "4.9",
-      "sales": 1157,
-      "shop": "Essencevital",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 43684764598,
-        "productName": "Creatina Monohidratada 100% Pura 150g  importada  KRON",
-        "price": "21.98",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.24",
-        "sales": 1157,
-        "ratingStar": "4.9",
-        "shopName": "Essencevital",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mtjsgzx9qpdv93",
-        "productLink": "https://shopee.com.br/product/1798950723/43684764598",
-        "offerLink": "https://s.shopee.com.br/4LKKkhx2xe"
       },
       "_last_price": null
     },
