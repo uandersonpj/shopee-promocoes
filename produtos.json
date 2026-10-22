@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T10:51:44.769810+00:00",
-  "total": 1124,
+  "updated_at": "2026-10-22T11:11:16.388400+00:00",
+  "total": 1123,
   "products": [
     {
       "id": "58210104632",
@@ -1796,8 +1796,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m16zhf1ljn7yae",
         "productLink": "https://shopee.com.br/product/451332066/23793414141",
         "offerLink": "https://s.shopee.com.br/8pmk70J2bK"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23593847901",
@@ -13167,6 +13166,35 @@
       "_last_price": null
     },
     {
+      "id": "22599385841",
+      "name": "Base Amaciante Concentrada 100ml Faz 20 litros perfumada tipo Conforto / Premium RENDE MUITO",
+      "price": 16.5,
+      "original_price": 33.0,
+      "discount": 50.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mmg50q1ihgjobd",
+      "link": "https://s.shopee.com.br/6fiFWvu2cs",
+      "rating": "4.9",
+      "sales": 4739,
+      "shop": "Mercado das Essências",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22599385841,
+        "productName": "Base Amaciante Concentrada 100ml Faz 20 litros perfumada tipo Conforto / Premium RENDE MUITO",
+        "price": "16.5",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 4739,
+        "ratingStar": "4.9",
+        "shopName": "Mercado das Essências",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mmg50q1ihgjobd",
+        "productLink": "https://shopee.com.br/product/1107585845/22599385841",
+        "offerLink": "https://s.shopee.com.br/6fiFWvu2cs"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58265714065",
       "name": "Desinfetante Herbal Pet 2 L  Eliminador de Odores Canil",
       "price": 14.99,
@@ -16382,35 +16410,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mosc7lron9j77a",
         "productLink": "https://shopee.com.br/product/1627792845/54911306293",
         "offerLink": "https://s.shopee.com.br/2VsgZGsIxJ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22599385841",
-      "name": "Base Amaciante Concentrada 100ml Faz 20 litros perfumada tipo Conforto / Premium RENDE MUITO",
-      "price": 17.99,
-      "original_price": 32.71,
-      "discount": 45.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mmg50q1ihgjobd",
-      "link": "https://s.shopee.com.br/6fiFWvu2cs",
-      "rating": "4.9",
-      "sales": 4739,
-      "shop": "Mercado das Essências",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22599385841,
-        "productName": "Base Amaciante Concentrada 100ml Faz 20 litros perfumada tipo Conforto / Premium RENDE MUITO",
-        "price": "17.99",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.03",
-        "sales": 4739,
-        "ratingStar": "4.9",
-        "shopName": "Mercado das Essências",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mmg50q1ihgjobd",
-        "productLink": "https://shopee.com.br/product/1107585845/22599385841",
-        "offerLink": "https://s.shopee.com.br/6fiFWvu2cs"
       },
       "_last_price": null
     },
@@ -27319,6 +27318,35 @@
       "_last_price": null
     },
     {
+      "id": "23099169510",
+      "name": "Kit Liquidificador 550W Turbo Power L-99-FB + Batedeira 400W Prática - B-44-B Mondial",
+      "price": 229.9,
+      "original_price": 310.68,
+      "discount": 26.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825b8-msauhkcaes5i2c",
+      "link": "https://s.shopee.com.br/7puCvB9Axs",
+      "rating": "4.9",
+      "sales": 961,
+      "shop": "Dutra Máquinas",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23099169510,
+        "productName": "Kit Liquidificador 550W Turbo Power L-99-FB + Batedeira 400W Prática - B-44-B Mondial",
+        "price": "229.9",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.07",
+        "sales": 961,
+        "ratingStar": "4.9",
+        "shopName": "Dutra Máquinas",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b8-msauhkcaes5i2c",
+        "productLink": "https://shopee.com.br/product/489001115/23099169510",
+        "offerLink": "https://s.shopee.com.br/7puCvB9Axs"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22994673009",
       "name": "Kit Liquidificador 550W Turbo Power L-99-FR + Batedeira 400W Prática - B-44-R Mondial",
       "price": 229.9,
@@ -27812,35 +27840,6 @@
       "_last_price": null
     },
     {
-      "id": "18775453273",
-      "name": "Liquidificador Britânia 2,6L 900W 4 Lâminas BLQ970P Turbo",
-      "price": 119.9,
-      "original_price": 159.87,
-      "discount": 25.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825aq-mudijsd4uf47d4",
-      "link": "https://s.shopee.com.br/2BFqfqMI8d",
-      "rating": "4.9",
-      "sales": 632,
-      "shop": "Britânia Oficial",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18775453273,
-        "productName": "Liquidificador Britânia 2,6L 900W 4 Lâminas BLQ970P Turbo",
-        "price": "119.9",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.03",
-        "sales": 632,
-        "ratingStar": "4.9",
-        "shopName": "Britânia Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aq-mudijsd4uf47d4",
-        "productLink": "https://shopee.com.br/product/811879342/18775453273",
-        "offerLink": "https://s.shopee.com.br/2BFqfqMI8d"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58255439241",
       "name": "Panela de Pressão em Alumínio – Vários Tamanhos (2L a 10L) – Resistentes e Seguras",
       "price": 60.68,
@@ -28243,35 +28242,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1jvmgodmffube",
         "productLink": "https://shopee.com.br/product/1347491961/23993471317",
         "offerLink": "https://s.shopee.com.br/8pmk6vYKP2"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "13432704835",
-      "name": "NIVEA Creme Hidratante Lata 145g",
-      "price": 39.99,
-      "original_price": 52.62,
-      "discount": 24.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meeb6o4j241s19",
-      "link": "https://s.shopee.com.br/8V9uDPmnu1",
-      "rating": "5",
-      "sales": 1399,
-      "shop": "NIVEA OFICIAL",
-      "category": "creme facial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 13432704835,
-        "productName": "NIVEA Creme Hidratante Lata 145g",
-        "price": "39.99",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.06",
-        "sales": 1399,
-        "ratingStar": "5",
-        "shopName": "NIVEA OFICIAL",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meeb6o4j241s19",
-        "productLink": "https://shopee.com.br/product/502619181/13432704835",
-        "offerLink": "https://s.shopee.com.br/8V9uDPmnu1"
       },
       "_last_price": null
     },
