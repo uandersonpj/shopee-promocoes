@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T02:21:35.735843+00:00",
+  "updated_at": "2026-10-22T02:41:00.592875+00:00",
   "total": 1115,
   "products": [
     {
@@ -866,7 +866,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm5-lln14dkqwcs917",
         "productLink": "https://shopee.com.br/product/504210070/22492388439",
         "offerLink": "https://s.shopee.com.br/5VWHCqblNR"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49165555882",
@@ -1128,35 +1129,6 @@
       "_last_price": null
     },
     {
-      "id": "20197726295",
-      "name": "Caixa Saco Organizador Cobertor Casaco Guarda Roupa Ecológico Anti-Poeira Umidade Insetos Multiuso",
-      "price": 13.81,
-      "original_price": 60.04,
-      "discount": 77.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd3t-m7np9ti1i0ar99",
-      "link": "https://s.shopee.com.br/9069N5OkW0",
-      "rating": "4.9",
-      "sales": 4823,
-      "shop": "TIKO SHOP",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20197726295,
-        "productName": "Caixa Saco Organizador Cobertor Casaco Guarda Roupa Ecológico Anti-Poeira Umidade Insetos Multiuso",
-        "price": "13.81",
-        "priceDiscountRate": 77,
-        "commissionRate": "0.03",
-        "sales": 4823,
-        "ratingStar": "4.9",
-        "shopName": "TIKO SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd3t-m7np9ti1i0ar99",
-        "productLink": "https://shopee.com.br/product/989926234/20197726295",
-        "offerLink": "https://s.shopee.com.br/9069N5OkW0"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58201843927",
       "name": "Suporte Cabide com Ganchos Encaixe Porta Pendura Roupas",
       "price": 13.88,
@@ -1211,8 +1183,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mo5m3lm7da841f",
         "productLink": "https://shopee.com.br/product/1654851165/58210532717",
         "offerLink": "https://s.shopee.com.br/40hTPvYFFq"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "9511754133",
@@ -1530,35 +1501,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mafoc9gj36hb88",
         "productLink": "https://shopee.com.br/product/1384231985/23498458783",
         "offerLink": "https://s.shopee.com.br/9pfGMjjDRe"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58202416470",
-      "name": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
-      "price": 4.98,
-      "original_price": 19.92,
-      "discount": 75.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
-      "link": "https://s.shopee.com.br/1BKeXx0m6",
-      "rating": "4.9",
-      "sales": 11620,
-      "shop": "LUCIOshopping",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58202416470,
-        "productName": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
-        "price": "4.98",
-        "priceDiscountRate": 75,
-        "commissionRate": "0.03",
-        "sales": 11620,
-        "ratingStar": "4.9",
-        "shopName": "LUCIOshopping",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
-        "productLink": "https://shopee.com.br/product/1691846378/58202416470",
-        "offerLink": "https://s.shopee.com.br/1BKeXx0m6"
       },
       "_last_price": null
     },
@@ -3553,6 +3495,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/4d3d9eceb4a23732c4b0f88ec5f6e5fa",
         "productLink": "https://shopee.com.br/product/233660920/21635320174",
         "offerLink": "https://s.shopee.com.br/7AeVBsA9zy"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58202416470",
+      "name": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
+      "price": 7.98,
+      "original_price": 24.94,
+      "discount": 68.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
+      "link": "https://s.shopee.com.br/1BKeXx0m6",
+      "rating": "4.9",
+      "sales": 11620,
+      "shop": "LUCIOshopping",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58202416470,
+        "productName": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
+        "price": "7.98",
+        "priceDiscountRate": 68,
+        "commissionRate": "0.03",
+        "sales": 11620,
+        "ratingStar": "4.9",
+        "shopName": "LUCIOshopping",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
+        "productLink": "https://shopee.com.br/product/1691846378/58202416470",
+        "offerLink": "https://s.shopee.com.br/1BKeXx0m6"
       },
       "_last_price": null
     },
@@ -8275,6 +8246,35 @@
       "_last_price": null
     },
     {
+      "id": "23592798319",
+      "name": "Caixa Saco Organizador Cobertor Casaco Guarda Roupa Ecológico Anti-Poeira Umidade Insetos Multiuso",
+      "price": 13.99,
+      "original_price": 32.53,
+      "discount": 57.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820me-ms990bs5pmo485",
+      "link": "https://s.shopee.com.br/AKbWxXJfo8",
+      "rating": "4.9",
+      "sales": 10438,
+      "shop": "OnShopComercio",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23592798319,
+        "productName": "Caixa Saco Organizador Cobertor Casaco Guarda Roupa Ecológico Anti-Poeira Umidade Insetos Multiuso",
+        "price": "13.99",
+        "priceDiscountRate": 57,
+        "commissionRate": "0.03",
+        "sales": 10438,
+        "ratingStar": "4.9",
+        "shopName": "OnShopComercio",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-ms990bs5pmo485",
+        "productLink": "https://shopee.com.br/product/518270617/23592798319",
+        "offerLink": "https://s.shopee.com.br/AKbWxXJfo8"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23397982095",
       "name": "Expositor de Perfumes Cosméticos 3 Andares Multiuso Organizador Prateleira Diamante Acrílico Porta Maquiagem Beleza",
       "price": 29.99,
@@ -10850,6 +10850,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-msc30lkqvnrb8e",
         "productLink": "https://shopee.com.br/product/1252701665/23893228453",
         "offerLink": "https://s.shopee.com.br/5VWHCjw3Kf"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23897975794",
+      "name": "Adaptador De Cápsula Reutilizável Para Conversor De Café Dolce Gusto Compatível Com Genio BR",
+      "price": 42.0,
+      "original_price": 89.36,
+      "discount": 53.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259n-mteou6fvxs7dde",
+      "link": "https://s.shopee.com.br/4fxB2gq8uq",
+      "rating": "4.9",
+      "sales": 711,
+      "shop": "RELAMEX--SHOP",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23897975794,
+        "productName": "Adaptador De Cápsula Reutilizável Para Conversor De Café Dolce Gusto Compatível Com Genio BR",
+        "price": "42",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.03",
+        "sales": 711,
+        "ratingStar": "4.9",
+        "shopName": "RELAMEX--SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259n-mteou6fvxs7dde",
+        "productLink": "https://shopee.com.br/product/766258772/23897975794",
+        "offerLink": "https://s.shopee.com.br/4fxB2gq8uq"
       },
       "_last_price": null
     },
@@ -15378,35 +15407,6 @@
       "_last_price": null
     },
     {
-      "id": "27231768018",
-      "name": "Cafeteira Elétrica Electrolux Ecm10 15 Xícaras 600w Grafite 110V",
-      "price": 117.79,
-      "original_price": 222.25,
-      "discount": 47.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7repc-m83ssyedawlt1e",
-      "link": "https://s.shopee.com.br/7KxvO7BDI7",
-      "rating": "4.9",
-      "sales": 816,
-      "shop": "123 Comprou!",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 27231768018,
-        "productName": "Cafeteira Elétrica Electrolux Ecm10 15 Xícaras 600w Grafite 110V",
-        "price": "117.79",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.03",
-        "sales": 816,
-        "ratingStar": "4.9",
-        "shopName": "123 Comprou!",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repc-m83ssyedawlt1e",
-        "productLink": "https://shopee.com.br/product/564780452/27231768018",
-        "offerLink": "https://s.shopee.com.br/7KxvO7BDI7"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58208973330",
       "name": "Tênis LNYZ PowerFit Feminino Academia Super Confortável Leve Respirável Caminhada e Uso Diário",
       "price": 79.9,
@@ -18596,31 +18596,31 @@
       "_last_price": null
     },
     {
-      "id": "52115007524",
-      "name": "Ração Úmida Gatos Castrados Salmão Frango GranPlus 18 Sachês",
-      "price": 46.37,
-      "original_price": 79.95,
+      "id": "23598569219",
+      "name": "Ração Golden Special Gatos Castrados Frango e Carne 3kg",
+      "price": 57.9,
+      "original_price": 99.83,
       "discount": 42.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mrgbnogn02knc2",
-      "link": "https://s.shopee.com.br/7VHLaOtNbT",
-      "rating": "5",
-      "sales": 1823,
-      "shop": "MANADA ANIMAL COMÉRCIO",
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqinehfc",
+      "link": "https://s.shopee.com.br/1BJNcKb1T",
+      "rating": "4.9",
+      "sales": 1070,
+      "shop": "SPN MARKET",
       "category": "racao gato",
       "source": "shopee",
       "_item": {
-        "itemId": 52115007524,
-        "productName": "Ração Úmida Gatos Castrados Salmão Frango GranPlus 18 Sachês",
-        "price": "46.37",
+        "itemId": 23598569219,
+        "productName": "Ração Golden Special Gatos Castrados Frango e Carne 3kg",
+        "price": "57.9",
         "priceDiscountRate": 42,
-        "commissionRate": "0.07",
-        "sales": 1823,
-        "ratingStar": "5",
-        "shopName": "MANADA ANIMAL COMÉRCIO",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mrgbnogn02knc2",
-        "productLink": "https://shopee.com.br/product/1009890604/52115007524",
-        "offerLink": "https://s.shopee.com.br/7VHLaOtNbT"
+        "commissionRate": "0.03",
+        "sales": 1070,
+        "ratingStar": "4.9",
+        "shopName": "SPN MARKET",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqinehfc",
+        "productLink": "https://shopee.com.br/product/1501485889/23598569219",
+        "offerLink": "https://s.shopee.com.br/1BJNcKb1T"
       },
       "_last_price": null
     },
@@ -21034,8 +21034,8 @@
     {
       "id": "41229623791",
       "name": "Summer Adventure UV400 Óculos De Sol Esportivos Com Espelho Colorido Unissex Para Viagens Ao Ar Livre",
-      "price": 14.15,
-      "original_price": 22.82,
+      "price": 14.21,
+      "original_price": 22.92,
       "discount": 38.0,
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/sg-11134301-8262v-mltzwj6p35kz20",
@@ -21048,7 +21048,7 @@
       "_item": {
         "itemId": 41229623791,
         "productName": "Summer Adventure UV400 Óculos De Sol Esportivos Com Espelho Colorido Unissex Para Viagens Ao Ar Livre",
-        "price": "14.15",
+        "price": "14.21",
         "priceDiscountRate": 38,
         "commissionRate": "0.09",
         "sales": 1159,
@@ -28545,8 +28545,8 @@
     {
       "id": "57560033849",
       "name": "Shampoo Good Horse Vitamina A Cavalo - 700ml",
-      "price": 13.96,
-      "original_price": 18.13,
+      "price": 27.75,
+      "original_price": 36.04,
       "discount": 23.0,
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mpth8d217fnm8b",
@@ -28559,7 +28559,7 @@
       "_item": {
         "itemId": 57560033849,
         "productName": "Shampoo Good Horse Vitamina A Cavalo - 700ml",
-        "price": "13.96",
+        "price": "27.75",
         "priceDiscountRate": 23,
         "commissionRate": "0.11",
         "sales": 2663,
