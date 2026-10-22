@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T11:11:16.388400+00:00",
-  "total": 1123,
+  "updated_at": "2026-10-22T11:30:45.798610+00:00",
+  "total": 1125,
   "products": [
     {
       "id": "58210104632",
@@ -329,7 +329,7 @@
       "discount": 82.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mrpvpm4qg3k65b",
-      "link": "https://s.shopee.com.br/1W09NSHhtE",
+      "link": "https://s.shopee.com.br/3LRo6a5ols",
       "rating": "4.8",
       "sales": 3788,
       "shop": "NOVASHOP_BRASIL",
@@ -346,7 +346,36 @@
         "shopName": "NOVASHOP_BRASIL",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mrpvpm4qg3k65b",
         "productLink": "https://shopee.com.br/product/1170622375/23897335313",
-        "offerLink": "https://s.shopee.com.br/1W09NSHhtE"
+        "offerLink": "https://s.shopee.com.br/3LRo6a5ols"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23219268297",
+      "name": "Creatina Integral medica Monohidratada PURA 300g",
+      "price": 42.99,
+      "original_price": 238.83,
+      "discount": 82.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-23010-7c6cblnw1gmvfb",
+      "link": "https://s.shopee.com.br/W7cjQ2Bzi",
+      "rating": "4.9",
+      "sales": 1693,
+      "shop": "Brasil S2",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23219268297,
+        "productName": "Creatina Integral medica Monohidratada PURA 300g",
+        "price": "42.99",
+        "priceDiscountRate": 82,
+        "commissionRate": "0.03",
+        "sales": 1693,
+        "ratingStar": "4.9",
+        "shopName": "Brasil S2",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-23010-7c6cblnw1gmvfb",
+        "productLink": "https://shopee.com.br/product/677860531/23219268297",
+        "offerLink": "https://s.shopee.com.br/W7cjQ2Bzi"
       },
       "_last_price": null
     },
@@ -619,7 +648,7 @@
       "discount": 80.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
-      "link": "https://s.shopee.com.br/1LgjBAzw2H",
+      "link": "https://s.shopee.com.br/9V2RRwLOhR",
       "rating": "4.8",
       "sales": 3102,
       "shop": "Attracione Men & Attracione",
@@ -636,7 +665,7 @@
         "shopName": "Attracione Men & Attracione",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
         "productLink": "https://shopee.com.br/product/1266325318/21897981294",
-        "offerLink": "https://s.shopee.com.br/1LgjBAzw2H"
+        "offerLink": "https://s.shopee.com.br/9V2RRwLOhR"
       },
       "_last_price": null
     },
@@ -1141,7 +1170,7 @@
       "discount": 77.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rd3t-m7np9ti1i0ar99",
-      "link": "https://s.shopee.com.br/8fTJucqQLR",
+      "link": "https://s.shopee.com.br/BUmKlHsC5",
       "rating": "4.9",
       "sales": 4823,
       "shop": "TIKO SHOP",
@@ -1158,7 +1187,7 @@
         "shopName": "TIKO SHOP",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd3t-m7np9ti1i0ar99",
         "productLink": "https://shopee.com.br/product/989926234/20197726295",
-        "offerLink": "https://s.shopee.com.br/8fTJucqQLR"
+        "offerLink": "https://s.shopee.com.br/BUmKlHsC5"
       },
       "_last_price": null
     },
@@ -1170,7 +1199,7 @@
       "discount": 77.0,
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-ms6eg0w893wne9",
-      "link": "https://s.shopee.com.br/2VsgZIDtrO",
+      "link": "https://s.shopee.com.br/4LKLIQ20k2",
       "rating": "4.5",
       "sales": 4674,
       "shop": "Amigo Market",
@@ -1187,7 +1216,7 @@
         "shopName": "Amigo Market",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-ms6eg0w893wne9",
         "productLink": "https://shopee.com.br/product/1654653401/58201843927",
-        "offerLink": "https://s.shopee.com.br/2VsgZIDtrO"
+        "offerLink": "https://s.shopee.com.br/4LKLIQ20k2"
       },
       "_last_price": null
     },
@@ -1337,6 +1366,35 @@
       "_last_price": null
     },
     {
+      "id": "58208536746",
+      "name": "Caderno Adesivos 3d com 20 Cenários para Montar e Decorar_Store",
+      "price": 18.89,
+      "original_price": 78.71,
+      "discount": 76.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mmunahug08owff",
+      "link": "https://s.shopee.com.br/80Ddf62ned",
+      "rating": "4.9",
+      "sales": 2484,
+      "shop": "XHL.STORE",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58208536746,
+        "productName": "Caderno Adesivos 3d com 20 Cenários para Montar e Decorar_Store",
+        "price": "18.89",
+        "priceDiscountRate": 76,
+        "commissionRate": "0.03",
+        "sales": 2484,
+        "ratingStar": "4.9",
+        "shopName": "XHL.STORE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mmunahug08owff",
+        "productLink": "https://shopee.com.br/product/1113952372/58208536746",
+        "offerLink": "https://s.shopee.com.br/80Ddf62ned"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22194360521",
       "name": "Teclado Mecanico TGT Sherman V3 C1, Rainbow, ABNT2, Switch Vermelho, Preto, TGT-SHRC-RD01",
       "price": 92.45,
@@ -1366,6 +1424,35 @@
       "_last_price": null
     },
     {
+      "id": "20398528613",
+      "name": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
+      "price": 11.97,
+      "original_price": 49.88,
+      "discount": 76.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mmvxxzgnnoqsff",
+      "link": "https://s.shopee.com.br/9zyi2rJUgS",
+      "rating": "4.8",
+      "sales": 5467,
+      "shop": "ANA 1108  Loja Oficial",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20398528613,
+        "productName": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
+        "price": "11.97",
+        "priceDiscountRate": 76,
+        "commissionRate": "0.07",
+        "sales": 5467,
+        "ratingStar": "4.8",
+        "shopName": "ANA 1108  Loja Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mmvxxzgnnoqsff",
+        "productLink": "https://shopee.com.br/product/418205294/20398528613",
+        "offerLink": "https://s.shopee.com.br/9zyi2rJUgS"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22895058213",
       "name": "Kit Body Splash Feminino Arabe 60ml Shakan Coroa Amber Sereia Rubi Ametysta Presente Bolsa Ambarados",
       "price": 15.9,
@@ -1373,7 +1460,7 @@
       "discount": 76.0,
       "commission": 15.5,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mpnvskafmdc004",
-      "link": "https://s.shopee.com.br/AAI7hTr9st",
+      "link": "https://s.shopee.com.br/BUmKmuvdk",
       "rating": "4.5",
       "sales": 2540,
       "shop": "Cosmetic.Plus",
@@ -1390,7 +1477,7 @@
         "shopName": "Cosmetic.Plus",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mpnvskafmdc004",
         "productLink": "https://shopee.com.br/product/1761364246/22895058213",
-        "offerLink": "https://s.shopee.com.br/AAI7hTr9st"
+        "offerLink": "https://s.shopee.com.br/BUmKmuvdk"
       },
       "_last_price": null
     },
@@ -1546,7 +1633,7 @@
       "discount": 75.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
-      "link": "https://s.shopee.com.br/5fpiL71qQh",
+      "link": "https://s.shopee.com.br/2Vsh738zSN",
       "rating": "4.9",
       "sales": 11620,
       "shop": "LUCIOshopping",
@@ -1563,7 +1650,7 @@
         "shopName": "LUCIOshopping",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
         "productLink": "https://shopee.com.br/product/1691846378/58202416470",
-        "offerLink": "https://s.shopee.com.br/5fpiL71qQh"
+        "offerLink": "https://s.shopee.com.br/2Vsh738zSN"
       },
       "_last_price": null
     },
@@ -2096,7 +2183,7 @@
       "discount": 72.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq1kgvrfpvdba",
-      "link": "https://s.shopee.com.br/AAI7hNkiIa",
+      "link": "https://s.shopee.com.br/1LgjiuDQpA",
       "rating": "4.8",
       "sales": 10549,
       "shop": "3 PAO",
@@ -2113,7 +2200,7 @@
         "shopName": "3 PAO",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq1kgvrfpvdba",
         "productLink": "https://shopee.com.br/product/462426918/23794330101",
-        "offerLink": "https://s.shopee.com.br/AAI7hNkiIa"
+        "offerLink": "https://s.shopee.com.br/1LgjiuDQpA"
       },
       "_last_price": null
     },
@@ -2444,7 +2531,7 @@
       "discount": 71.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3njv00ndrugd2",
-      "link": "https://s.shopee.com.br/5LCrwV376b",
+      "link": "https://s.shopee.com.br/2BFqiRAG8H",
       "rating": "4.9",
       "sales": 13052,
       "shop": "Good Buy Utilidades do Lar",
@@ -2461,7 +2548,7 @@
         "shopName": "Good Buy Utilidades do Lar",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3njv00ndrugd2",
         "productLink": "https://shopee.com.br/product/429888215/22993575936",
-        "offerLink": "https://s.shopee.com.br/5LCrwV376b"
+        "offerLink": "https://s.shopee.com.br/2BFqiRAG8H"
       },
       "_last_price": null
     },
@@ -2473,7 +2560,7 @@
       "discount": 71.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8owujawf6ohd6",
-      "link": "https://s.shopee.com.br/9fLr6SmcJb",
+      "link": "https://s.shopee.com.br/1BNJWbE4AF",
       "rating": "4.8",
       "sales": 9420,
       "shop": "Alfa Soluções Plásticas",
@@ -2490,7 +2577,7 @@
         "shopName": "Alfa Soluções Plásticas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8owujawf6ohd6",
         "productLink": "https://shopee.com.br/product/1405493675/23893129086",
-        "offerLink": "https://s.shopee.com.br/9fLr6SmcJb"
+        "offerLink": "https://s.shopee.com.br/1BNJWbE4AF"
       },
       "_last_price": null
     },
@@ -3017,35 +3104,6 @@
       "_last_price": null
     },
     {
-      "id": "58207198817",
-      "name": "Vara Telescópica JOKER - MARURI",
-      "price": 23.88,
-      "original_price": 79.6,
-      "discount": 70.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
-      "link": "https://s.shopee.com.br/906AJOpaI9",
-      "rating": "4.9",
-      "sales": 272,
-      "shop": "Agropecuaria_Rio_Claro",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58207198817,
-        "productName": "Vara Telescópica JOKER - MARURI",
-        "price": "23.88",
-        "priceDiscountRate": 70,
-        "commissionRate": "0.03",
-        "sales": 272,
-        "ratingStar": "4.9",
-        "shopName": "Agropecuaria_Rio_Claro",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mm0twqtsxzwm90",
-        "productLink": "https://shopee.com.br/product/1368232097/58207198817",
-        "offerLink": "https://s.shopee.com.br/906AJOpaI9"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22693260071",
       "name": "Passaguá Retrátil Dobrável em Alumínio 1,75m para Pesca",
       "price": 29.99,
@@ -3568,6 +3626,35 @@
       "_last_price": null
     },
     {
+      "id": "40808171993",
+      "name": "Sougayilang Vara De Pesca Telescópica Portátil , 4 Cores , 1.8m-3.0m , Equipamento Ao Ar Livre , De Carpa , Fibra De Car",
+      "price": 52.0,
+      "original_price": 167.74,
+      "discount": 69.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mc1ssg3ocmgtac",
+      "link": "https://s.shopee.com.br/7Kxws649N9",
+      "rating": "4.9",
+      "sales": 113,
+      "shop": "sougayilanglocal5.br",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 40808171993,
+        "productName": "Sougayilang Vara De Pesca Telescópica Portátil , 4 Cores , 1.8m-3.0m , Equipamento Ao Ar Livre , De Carpa , Fibra De Car",
+        "price": "52",
+        "priceDiscountRate": 69,
+        "commissionRate": "0.13",
+        "sales": 113,
+        "ratingStar": "4.9",
+        "shopName": "sougayilanglocal5.br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mc1ssg3ocmgtac",
+        "productLink": "https://shopee.com.br/product/1511719153/40808171993",
+        "offerLink": "https://s.shopee.com.br/7Kxws649N9"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20299250309",
       "name": "Monitor digital de pressão arterial de braço totalmente automático  jorge",
       "price": 38.99,
@@ -3593,6 +3680,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfgj-m9amfdsd1v53e7",
         "productLink": "https://shopee.com.br/product/410705973/20299250309",
         "offerLink": "https://s.shopee.com.br/3qO49hNIuf"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20397689429",
+      "name": "Suporte De Parede Banheiro/Caixa Organizadora Com Papel Higiênico/Sem Furar pronta entrega",
+      "price": 15.99,
+      "original_price": 49.97,
+      "discount": 68.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-lvmc7m8negkib0",
+      "link": "https://s.shopee.com.br/20wQW8AtTE",
+      "rating": "4.7",
+      "sales": 6375,
+      "shop": "CASA FEIRA",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20397689429,
+        "productName": "Suporte De Parede Banheiro/Caixa Organizadora Com Papel Higiênico/Sem Furar pronta entrega",
+        "price": "15.99",
+        "priceDiscountRate": 68,
+        "commissionRate": "0.03",
+        "sales": 6375,
+        "ratingStar": "4.7",
+        "shopName": "CASA FEIRA",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-lvmc7m8negkib0",
+        "productLink": "https://shopee.com.br/product/1034273871/20397689429",
+        "offerLink": "https://s.shopee.com.br/20wQW8AtTE"
       },
       "_last_price": null
     },
@@ -3738,6 +3854,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-23020-s1jr09pmaxnva4",
         "productLink": "https://shopee.com.br/product/754127588/23026990667",
         "offerLink": "https://s.shopee.com.br/6fiFX5d0gK"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58255656605",
+      "name": "Estilingue de Pesca Profissional com apoio de pulso preto MT073 (4)",
+      "price": 15.89,
+      "original_price": 49.66,
+      "discount": 68.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82616-ml2clmr46gao12",
+      "link": "https://s.shopee.com.br/6AlzTxUNqz",
+      "rating": "4.8",
+      "sales": 519,
+      "shop": "STUDIO.Tudo",
+      "category": "kit pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58255656605,
+        "productName": "Estilingue de Pesca Profissional com apoio de pulso preto MT073 (4)",
+        "price": "15.89",
+        "priceDiscountRate": 68,
+        "commissionRate": "0.03",
+        "sales": 519,
+        "ratingStar": "4.8",
+        "shopName": "STUDIO.Tudo",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82616-ml2clmr46gao12",
+        "productLink": "https://shopee.com.br/product/475104620/58255656605",
+        "offerLink": "https://s.shopee.com.br/6AlzTxUNqz"
       },
       "_last_price": null
     },
@@ -3945,35 +4090,6 @@
       "_last_price": null
     },
     {
-      "id": "20999200927",
-      "name": "Kit 2 Aço inoxidável Suporte Porta Esponja para bucha de pia Prateleira de cozinha",
-      "price": 6.0,
-      "original_price": 18.18,
-      "discount": 67.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134201-820l4-mqxjfcsg3j7q32",
-      "link": "https://s.shopee.com.br/6fiFWwgZo5",
-      "rating": "4.9",
-      "sales": 2070,
-      "shop": "MegaLar.",
-      "category": "esponja",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20999200927,
-        "productName": "Kit 2 Aço inoxidável Suporte Porta Esponja para bucha de pia Prateleira de cozinha",
-        "price": "6",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.03",
-        "sales": 2070,
-        "ratingStar": "4.9",
-        "shopName": "MegaLar.",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820l4-mqxjfcsg3j7q32",
-        "productLink": "https://shopee.com.br/product/1101263019/20999200927",
-        "offerLink": "https://s.shopee.com.br/6fiFWwgZo5"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20797868953",
       "name": "Guarda Roupa Portátil Desmontável Organizador Prático Solteiro e Casal",
       "price": 53.97,
@@ -3981,7 +4097,7 @@
       "discount": 67.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0epmdejhyn47a",
-      "link": "https://s.shopee.com.br/2LZGMzEXCN",
+      "link": "https://s.shopee.com.br/4VdlUj1NP5",
       "rating": "4.6",
       "sales": 4289,
       "shop": "DonaLarana_Casa",
@@ -3998,7 +4114,7 @@
         "shopName": "DonaLarana_Casa",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0epmdejhyn47a",
         "productLink": "https://shopee.com.br/product/771750144/20797868953",
-        "offerLink": "https://s.shopee.com.br/2LZGMzEXCN"
+        "offerLink": "https://s.shopee.com.br/4VdlUj1NP5"
       },
       "_last_price": null
     },
@@ -4148,35 +4264,6 @@
       "_last_price": null
     },
     {
-      "id": "22594316058",
-      "name": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
-      "price": 22.99,
-      "original_price": 69.67,
-      "discount": 67.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
-      "link": "https://s.shopee.com.br/9pfHIwLg47",
-      "rating": "4.7",
-      "sales": 82,
-      "shop": "ATACADO PESCA E CIA",
-      "category": "chumbada",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22594316058,
-        "productName": "Vara de Pesca Telescopica 1,80 mts + 3 Anzol + 3 Boinha + 3 Chumbada + 5 Isca + 1 Enrolador de linha",
-        "price": "22.99",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.07",
-        "sales": 82,
-        "ratingStar": "4.7",
-        "shopName": "ATACADO PESCA E CIA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
-        "productLink": "https://shopee.com.br/product/1595150949/22594316058",
-        "offerLink": "https://s.shopee.com.br/9pfHIwLg47"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58217964758",
       "name": "1par Luvas de pesca nocturna ao ar livre LED luvas de iluminação de reparação de meio dedo,",
       "price": 17.99,
@@ -4242,7 +4329,7 @@
       "discount": 66.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-824i5-mputbkgbcg759a",
-      "link": "https://s.shopee.com.br/8fTJzp5c3C",
+      "link": "https://s.shopee.com.br/40hUtmHDcH",
       "rating": "4.4",
       "sales": 16,
       "shop": "TNTinfoLoja",
@@ -4259,7 +4346,7 @@
         "shopName": "TNTinfoLoja",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i5-mputbkgbcg759a",
         "productLink": "https://shopee.com.br/product/344381236/46162754465",
-        "offerLink": "https://s.shopee.com.br/8fTJzp5c3C"
+        "offerLink": "https://s.shopee.com.br/40hUtmHDcH"
       },
       "_last_price": null
     },
@@ -4619,7 +4706,7 @@
       "discount": 65.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-822xd-moehlogng7bj34",
-      "link": "https://s.shopee.com.br/3B8NMZ1UKZ",
+      "link": "https://s.shopee.com.br/40hUtqortV",
       "rating": "4.8",
       "sales": 1175,
       "shop": "Armazem_00",
@@ -4636,7 +4723,7 @@
         "shopName": "Armazem_00",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xd-moehlogng7bj34",
         "productLink": "https://shopee.com.br/product/991509912/58260912434",
-        "offerLink": "https://s.shopee.com.br/3B8NMZ1UKZ"
+        "offerLink": "https://s.shopee.com.br/40hUtqortV"
       },
       "_last_price": null
     },
@@ -4648,7 +4735,7 @@
       "discount": 65.0,
       "commission": 6.0,
       "image": "https://cf.shopee.com.br/file/ceafa6ecdfacf75d74fa6c9021201c8c",
-      "link": "https://s.shopee.com.br/6q1fjInWtN",
+      "link": "https://s.shopee.com.br/3g4eVEq8ZX",
       "rating": "4.9",
       "sales": 859,
       "shop": "G7 NutriçãoEsportiva",
@@ -4665,7 +4752,7 @@
         "shopName": "G7 NutriçãoEsportiva",
         "imageUrl": "https://cf.shopee.com.br/file/ceafa6ecdfacf75d74fa6c9021201c8c",
         "productLink": "https://shopee.com.br/product/813859357/18622911027",
-        "offerLink": "https://s.shopee.com.br/6q1fjInWtN"
+        "offerLink": "https://s.shopee.com.br/3g4eVEq8ZX"
       },
       "_last_price": null
     },
@@ -5221,35 +5308,6 @@
       "_last_price": null
     },
     {
-      "id": "58264092360",
-      "name": "Kit Vara Telescópica Lisa Ultra Leve Retrátil 40% Fibra De Carbono 1,80m 2,10m 2,40m 3,00m 3,60m 4,00m 4,50m 5,40m Cmik",
-      "price": 35.68,
-      "original_price": 99.11,
-      "discount": 64.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mqjlehkuqdc2ed",
-      "link": "https://s.shopee.com.br/AAI7hXl8vG",
-      "rating": "4.8",
-      "sales": 605,
-      "shop": "PescaShop",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58264092360,
-        "productName": "Kit Vara Telescópica Lisa Ultra Leve Retrátil 40% Fibra De Carbono 1,80m 2,10m 2,40m 3,00m 3,60m 4,00m 4,50m 5,40m Cmik",
-        "price": "35.68",
-        "priceDiscountRate": 64,
-        "commissionRate": "0.03",
-        "sales": 605,
-        "ratingStar": "4.8",
-        "shopName": "PescaShop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mqjlehkuqdc2ed",
-        "productLink": "https://shopee.com.br/product/361954967/58264092360",
-        "offerLink": "https://s.shopee.com.br/AAI7hXl8vG"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58266396801",
       "name": "Luvas De Ciclismo E Motocicleta Com Proteção UV Antiderrapante, Ventiladas Para Pesca, Corrida E Estrada",
       "price": 25.99,
@@ -5286,7 +5344,7 @@
       "discount": 63.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825an-mqxxk82wo0eabb",
-      "link": "https://s.shopee.com.br/1W09Ogdnsu",
+      "link": "https://s.shopee.com.br/9APb3EyMHs",
       "rating": "4.9",
       "sales": 2725,
       "shop": "ED CASA PRODUTOS ",
@@ -5303,7 +5361,7 @@
         "shopName": "ED CASA PRODUTOS ",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825an-mqxxk82wo0eabb",
         "productLink": "https://shopee.com.br/product/469407986/58214741292",
-        "offerLink": "https://s.shopee.com.br/1W09Ogdnsu"
+        "offerLink": "https://s.shopee.com.br/9APb3EyMHs"
       },
       "_last_price": null
     },
@@ -5315,7 +5373,7 @@
       "discount": 63.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8262b-mmhtge8laznqff",
-      "link": "https://s.shopee.com.br/1qczrGVcuk",
+      "link": "https://s.shopee.com.br/1BM8QWRjN",
       "rating": "4.9",
       "sales": 30,
       "shop": "Terabyte Oficial",
@@ -5332,7 +5390,7 @@
         "shopName": "Terabyte Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262b-mmhtge8laznqff",
         "productLink": "https://shopee.com.br/product/1552226494/22099453589",
-        "offerLink": "https://s.shopee.com.br/1qczrGVcuk"
+        "offerLink": "https://s.shopee.com.br/1BM8QWRjN"
       },
       "_last_price": null
     },
@@ -5344,7 +5402,7 @@
       "discount": 63.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rdx7-lzqwk9yllpreef",
-      "link": "https://s.shopee.com.br/8pmk6vpn0S",
+      "link": "https://s.shopee.com.br/1BM8SIVX2",
       "rating": "4.8",
       "sales": 7857,
       "shop": "yoyobel.loja",
@@ -5361,7 +5419,7 @@
         "shopName": "yoyobel.loja",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx7-lzqwk9yllpreef",
         "productLink": "https://shopee.com.br/product/400262096/19698719773",
-        "offerLink": "https://s.shopee.com.br/8pmk6vpn0S"
+        "offerLink": "https://s.shopee.com.br/1BM8SIVX2"
       },
       "_last_price": null
     },
@@ -5373,7 +5431,7 @@
       "discount": 63.0,
       "commission": 23.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825bb-msuuw3fmwv7ldf",
-      "link": "https://s.shopee.com.br/20wPyNFnsH",
+      "link": "https://s.shopee.com.br/4B0v672e4z",
       "rating": "4.8",
       "sales": 6315,
       "shop": "1000 Coisas Variedades",
@@ -5390,7 +5448,7 @@
         "shopName": "1000 Coisas Variedades",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825bb-msuuw3fmwv7ldf",
         "productLink": "https://shopee.com.br/product/1007375842/22898052964",
-        "offerLink": "https://s.shopee.com.br/20wPyNFnsH"
+        "offerLink": "https://s.shopee.com.br/4B0v672e4z"
       }
     },
     {
@@ -5430,7 +5488,7 @@
       "discount": 63.0,
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mn1uzb42hx4yd8",
-      "link": "https://s.shopee.com.br/7faminTZFB",
+      "link": "https://s.shopee.com.br/9fLreECMuL",
       "rating": "4.8",
       "sales": 2913,
       "shop": "MANGO-SHOP",
@@ -5447,7 +5505,7 @@
         "shopName": "MANGO-SHOP",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mn1uzb42hx4yd8",
         "productLink": "https://shopee.com.br/product/1547995492/22198797147",
-        "offerLink": "https://s.shopee.com.br/7faminTZFB"
+        "offerLink": "https://s.shopee.com.br/9fLreECMuL"
       },
       "_last_price": null
     },
@@ -5865,7 +5923,7 @@
       "discount": 62.0,
       "commission": 23.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8258x-msf4mu1o9q1124",
-      "link": "https://s.shopee.com.br/80Dd7OsxhN",
+      "link": "https://s.shopee.com.br/4qGbtL06j3",
       "rating": "4.9",
       "sales": 6271,
       "shop": "P&H  Oficial",
@@ -5882,7 +5940,7 @@
         "shopName": "P&H  Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258x-msf4mu1o9q1124",
         "productLink": "https://shopee.com.br/product/832040275/23096150316",
-        "offerLink": "https://s.shopee.com.br/80Dd7OsxhN"
+        "offerLink": "https://s.shopee.com.br/4qGbtL06j3"
       },
       "_last_price": null
     },
@@ -5941,8 +5999,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
         "productLink": "https://shopee.com.br/product/1638239765/58205100450",
         "offerLink": "https://s.shopee.com.br/9pfHInC2x7"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "24098490275",
@@ -6409,35 +6466,6 @@
       "_last_price": null
     },
     {
-      "id": "23698466561",
-      "name": "Prateleira Organizadora Multifuncional com Prateleiras Para Banheiro",
-      "price": 42.99,
-      "original_price": 110.23,
-      "discount": 61.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfew-m9j8x6iwawk9bd",
-      "link": "https://s.shopee.com.br/1LgjB9ILED",
-      "rating": "4.6",
-      "sales": 3928,
-      "shop": "Link&LinkShop_Brasil",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23698466561,
-        "productName": "Prateleira Organizadora Multifuncional com Prateleiras Para Banheiro",
-        "price": "42.99",
-        "priceDiscountRate": 61,
-        "commissionRate": "0.03",
-        "sales": 3928,
-        "ratingStar": "4.6",
-        "shopName": "Link&LinkShop_Brasil",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfew-m9j8x6iwawk9bd",
-        "productLink": "https://shopee.com.br/product/1459307687/23698466561",
-        "offerLink": "https://s.shopee.com.br/1LgjB9ILED"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58215631607",
       "name": "Kit Body Splash Masculino 2x200ml NeoNoble Inspirado em 212 VIP Black e Sauvage",
       "price": 19.49,
@@ -6445,7 +6473,7 @@
       "discount": 61.0,
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8259q-mrirzbbo3g1x0f",
-      "link": "https://s.shopee.com.br/1qczm5y21O",
+      "link": "https://s.shopee.com.br/9fLreFKlMU",
       "rating": "4.6",
       "sales": 2287,
       "shop": "PH imports ",
@@ -6462,7 +6490,7 @@
         "shopName": "PH imports ",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259q-mrirzbbo3g1x0f",
         "productLink": "https://shopee.com.br/product/1190360737/58215631607",
-        "offerLink": "https://s.shopee.com.br/1qczm5y21O"
+        "offerLink": "https://s.shopee.com.br/9fLreFKlMU"
       },
       "_last_price": null
     },
@@ -6938,7 +6966,7 @@
       "discount": 60.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-822x5-mo74eg768t8m85",
-      "link": "https://s.shopee.com.br/5q98XQ1D5i",
+      "link": "https://s.shopee.com.br/2LZGuk9cnK",
       "rating": "4.5",
       "sales": 8897,
       "shop": "SELLNEEDS",
@@ -6955,7 +6983,7 @@
         "shopName": "SELLNEEDS",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822x5-mo74eg768t8m85",
         "productLink": "https://shopee.com.br/product/408653169/46360468172",
-        "offerLink": "https://s.shopee.com.br/5q98XQ1D5i"
+        "offerLink": "https://s.shopee.com.br/2LZGuk9cnK"
       },
       "_last_price": null
     },
@@ -7308,6 +7336,35 @@
       "_last_price": null
     },
     {
+      "id": "47450600641",
+      "name": "Sougayilang Conjunto De Pesca 1.8M Vara De Fibra De Vidro 5 Seções Portátil Telescópica E Carretel Equipamentos Ao Ar Li",
+      "price": 99.32,
+      "original_price": 248.3,
+      "discount": 60.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825zp-ml90w86pfeh03a",
+      "link": "https://s.shopee.com.br/30oxi8KeAK",
+      "rating": "4.8",
+      "sales": 84,
+      "shop": "sougafishing1.br",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 47450600641,
+        "productName": "Sougayilang Conjunto De Pesca 1.8M Vara De Fibra De Vidro 5 Seções Portátil Telescópica E Carretel Equipamentos Ao Ar Li",
+        "price": "99.32",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.09",
+        "sales": 84,
+        "ratingStar": "4.8",
+        "shopName": "sougafishing1.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zp-ml90w86pfeh03a",
+        "productLink": "https://shopee.com.br/product/1650547425/47450600641",
+        "offerLink": "https://s.shopee.com.br/30oxi8KeAK"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23292991473",
       "name": "Estojo completo para Pesca esportiva com acessórios chumbada boinha anzol isca barato",
       "price": 24.0,
@@ -7319,7 +7376,7 @@
       "rating": "4.6",
       "sales": 117,
       "shop": "Loja Sao Miguel Multicoisas",
-      "category": "chumbada",
+      "category": "estojo pesca",
       "source": "shopee",
       "_item": {
         "itemId": 23292991473,
@@ -7460,7 +7517,7 @@
       "discount": 59.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mor9xtvj1lvk61",
-      "link": "https://s.shopee.com.br/7puCv6SvuC",
+      "link": "https://s.shopee.com.br/9pfHqXBjZM",
       "rating": "4.8",
       "sales": 2923,
       "shop": "3 PAO",
@@ -7477,7 +7534,7 @@
         "shopName": "3 PAO",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mor9xtvj1lvk61",
         "productLink": "https://shopee.com.br/product/462426918/22894975184",
-        "offerLink": "https://s.shopee.com.br/7puCv6SvuC"
+        "offerLink": "https://s.shopee.com.br/9pfHqXBjZM"
       },
       "_last_price": null
     },
@@ -7663,7 +7720,7 @@
       "discount": 58.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7ntzxcbzyxg63",
-      "link": "https://s.shopee.com.br/906AJEp9fX",
+      "link": "https://s.shopee.com.br/W7cjNGbWB",
       "rating": "4.8",
       "sales": 6787,
       "shop": "Papala Home Store",
@@ -7680,7 +7737,7 @@
         "shopName": "Papala Home Store",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7ntzxcbzyxg63",
         "productLink": "https://shopee.com.br/product/629805123/22396710686",
-        "offerLink": "https://s.shopee.com.br/906AJEp9fX"
+        "offerLink": "https://s.shopee.com.br/W7cjNGbWB"
       },
       "_last_price": null
     },
@@ -8033,6 +8090,35 @@
       "_last_price": null
     },
     {
+      "id": "58268885051",
+      "name": "Kit 263 Peças Acessórios para Pesca com Caixa Organizadora Anzóis Chumbadas Giradores e Alicate",
+      "price": 99.98,
+      "original_price": 238.05,
+      "discount": 58.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lt-mu7i632dcglcad",
+      "link": "https://s.shopee.com.br/BUmKwDMTo",
+      "rating": "0",
+      "sales": 0,
+      "shop": "robtikltda",
+      "category": "chumbada",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58268885051,
+        "productName": "Kit 263 Peças Acessórios para Pesca com Caixa Organizadora Anzóis Chumbadas Giradores e Alicate",
+        "price": "99.98",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.03",
+        "sales": 0,
+        "ratingStar": "0",
+        "shopName": "robtikltda",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mu7i632dcglcad",
+        "productLink": "https://shopee.com.br/product/1912940842/58268885051",
+        "offerLink": "https://s.shopee.com.br/BUmKwDMTo"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20144035408",
       "name": "MARVER 100PCS Flutuadores Ovais De Pesca Contas Noturnas Nova Luz Luminosa Mar De Plástico",
       "price": 12.26,
@@ -8127,7 +8213,7 @@
       "discount": 57.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8262u-ml55346ycd8ve4",
-      "link": "https://s.shopee.com.br/1BLftcbdF",
+      "link": "https://s.shopee.com.br/1W09vBQjgW",
       "rating": "4.9",
       "sales": 94,
       "shop": "TNTinfoLoja",
@@ -8144,7 +8230,7 @@
         "shopName": "TNTinfoLoja",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262u-ml55346ycd8ve4",
         "productLink": "https://shopee.com.br/product/344381236/46856458828",
-        "offerLink": "https://s.shopee.com.br/1BLftcbdF"
+        "offerLink": "https://s.shopee.com.br/1W09vBQjgW"
       },
       "_last_price": null
     },
@@ -8243,7 +8329,7 @@
       "discount": 57.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1qfaspn0ejuf9",
-      "link": "https://s.shopee.com.br/4B0uYNp9I4",
+      "link": "https://s.shopee.com.br/1W09vEpqw8",
       "rating": "5",
       "sales": 2539,
       "shop": "CASA RIOCHIQUE",
@@ -8260,7 +8346,7 @@
         "shopName": "CASA RIOCHIQUE",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1qfaspn0ejuf9",
         "productLink": "https://shopee.com.br/product/1103934359/23397982095",
-        "offerLink": "https://s.shopee.com.br/4B0uYNp9I4"
+        "offerLink": "https://s.shopee.com.br/1W09vEpqw8"
       },
       "_last_price": null
     },
@@ -8649,7 +8735,7 @@
       "discount": 56.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mpsb7eaiklj4a7",
-      "link": "https://s.shopee.com.br/2VsgeUT5Yo",
+      "link": "https://s.shopee.com.br/20wQW6Opfh",
       "rating": "5",
       "sales": 119,
       "shop": "Tropical | Varejo | Atacado",
@@ -8666,7 +8752,7 @@
         "shopName": "Tropical | Varejo | Atacado",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mpsb7eaiklj4a7",
         "productLink": "https://shopee.com.br/product/452150155/58212984375",
-        "offerLink": "https://s.shopee.com.br/2VsgeUT5Yo"
+        "offerLink": "https://s.shopee.com.br/20wQW6Opfh"
       },
       "_last_price": null
     },
@@ -8765,7 +8851,7 @@
       "discount": 56.0,
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8258u-mq3p02zvnthnd3",
-      "link": "https://s.shopee.com.br/1gJZZmyfMN",
+      "link": "https://s.shopee.com.br/9pfHqYK81X",
       "rating": "4.3",
       "sales": 1300,
       "shop": "hm.shop",
@@ -8782,7 +8868,7 @@
         "shopName": "hm.shop",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258u-mq3p02zvnthnd3",
         "productLink": "https://shopee.com.br/product/386749781/58213437667",
-        "offerLink": "https://s.shopee.com.br/1gJZZmyfMN"
+        "offerLink": "https://s.shopee.com.br/9pfHqYK81X"
       },
       "_last_price": null
     },
@@ -9345,7 +9431,7 @@
       "discount": 55.0,
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm77p5j0ruu03",
-      "link": "https://s.shopee.com.br/2BFqAgFAXI",
+      "link": "https://s.shopee.com.br/40hUto3HPw",
       "rating": "4.6",
       "sales": 5140,
       "shop": "MANGO-SHOP",
@@ -9362,7 +9448,7 @@
         "shopName": "MANGO-SHOP",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm77p5j0ruu03",
         "productLink": "https://shopee.com.br/product/1547995492/20699892486",
-        "offerLink": "https://s.shopee.com.br/2BFqAgFAXI"
+        "offerLink": "https://s.shopee.com.br/40hUto3HPw"
       },
       "_last_price": null
     },
@@ -9461,7 +9547,7 @@
       "discount": 55.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mr91da96uccn1a",
-      "link": "https://s.shopee.com.br/60SYjjrZxT",
+      "link": "https://s.shopee.com.br/9Kj1FcDdaJ",
       "rating": "4.8",
       "sales": 2009,
       "shop": "TOCCHIOCOSMETICOS",
@@ -9478,7 +9564,7 @@
         "shopName": "TOCCHIOCOSMETICOS",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mr91da96uccn1a",
         "productLink": "https://shopee.com.br/product/1676517357/22499197888",
-        "offerLink": "https://s.shopee.com.br/60SYjjrZxT"
+        "offerLink": "https://s.shopee.com.br/9Kj1FcDdaJ"
       },
       "_last_price": null
     },
@@ -9802,31 +9888,31 @@
       "_last_price": null
     },
     {
-      "id": "58263298680",
-      "name": "Kit Pesca Completo Acessórios Anzol Marine Sports Chumbada Boia Girador + Estojo Organizador Resistente Premium",
-      "price": 39.77,
-      "original_price": 88.38,
+      "id": "54169133224",
+      "name": "Chumbada De Isca De Camarão , Luminosa 5/10/15/20/25g Lula , Ponta De Corrida Estilo Queixo 3/4 Peças Equipamento De Pes",
+      "price": 26.93,
+      "original_price": 59.84,
       "discount": 55.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mpyjwlq73pqa16",
-      "link": "https://s.shopee.com.br/AKbXtrJm38",
-      "rating": "5",
-      "sales": 92,
-      "shop": "ApexVendas",
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82586-mu86ct489b0pf6",
+      "link": "https://s.shopee.com.br/2gC7JX3qPZ",
+      "rating": "0",
+      "sales": 0,
+      "shop": "shinyiny.br",
       "category": "chumbada",
       "source": "shopee",
       "_item": {
-        "itemId": 58263298680,
-        "productName": "Kit Pesca Completo Acessórios Anzol Marine Sports Chumbada Boia Girador + Estojo Organizador Resistente Premium",
-        "price": "39.77",
+        "itemId": 54169133224,
+        "productName": "Chumbada De Isca De Camarão , Luminosa 5/10/15/20/25g Lula , Ponta De Corrida Estilo Queixo 3/4 Peças Equipamento De Pes",
+        "price": "26.93",
         "priceDiscountRate": 55,
-        "commissionRate": "0.07",
-        "sales": 92,
-        "ratingStar": "5",
-        "shopName": "ApexVendas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mpyjwlq73pqa16",
-        "productLink": "https://shopee.com.br/product/940287081/58263298680",
-        "offerLink": "https://s.shopee.com.br/AKbXtrJm38"
+        "commissionRate": "0.03",
+        "sales": 0,
+        "ratingStar": "0",
+        "shopName": "shinyiny.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82586-mu86ct489b0pf6",
+        "productLink": "https://shopee.com.br/product/431723662/54169133224",
+        "offerLink": "https://s.shopee.com.br/2gC7JX3qPZ"
       },
       "_last_price": null
     },
@@ -9856,6 +9942,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkioznekh91dcd",
         "productLink": "https://shopee.com.br/product/1719286529/58202972742",
         "offerLink": "https://s.shopee.com.br/1BNIxjtiXh"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58263298680",
+      "name": "Kit Pesca Completo Acessórios Anzol Marine Sports Chumbada Boia Girador + Estojo Organizador Resistente Premium",
+      "price": 39.77,
+      "original_price": 88.38,
+      "discount": 55.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mpyjwlq73pqa16",
+      "link": "https://s.shopee.com.br/AKbXtrJm38",
+      "rating": "5",
+      "sales": 92,
+      "shop": "ApexVendas",
+      "category": "estojo pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58263298680,
+        "productName": "Kit Pesca Completo Acessórios Anzol Marine Sports Chumbada Boia Girador + Estojo Organizador Resistente Premium",
+        "price": "39.77",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.07",
+        "sales": 92,
+        "ratingStar": "5",
+        "shopName": "ApexVendas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mpyjwlq73pqa16",
+        "productLink": "https://shopee.com.br/product/940287081/58263298680",
+        "offerLink": "https://s.shopee.com.br/AKbXtrJm38"
       },
       "_last_price": null
     },
@@ -10643,35 +10758,6 @@
       "_last_price": null
     },
     {
-      "id": "19999243287",
-      "name": "Fralda de Pano Bebe Kit com 5 Unidades 60x60cm 100% algodão Minasrey - Estampada",
-      "price": 13.99,
-      "original_price": 29.77,
-      "discount": 53.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd3r-lu11ytamrbkza7",
-      "link": "https://s.shopee.com.br/4LKKkh674x",
-      "rating": "4.5",
-      "sales": 1429,
-      "shop": "Empório DK - Produtos Infantis",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19999243287,
-        "productName": "Fralda de Pano Bebe Kit com 5 Unidades 60x60cm 100% algodão Minasrey - Estampada",
-        "price": "13.99",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.03",
-        "sales": 1429,
-        "ratingStar": "4.5",
-        "shopName": "Empório DK - Produtos Infantis",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd3r-lu11ytamrbkza7",
-        "productLink": "https://shopee.com.br/product/1045804093/19999243287",
-        "offerLink": "https://s.shopee.com.br/4LKKkh674x"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20298322054",
       "name": "Kit Creatina Monohidratada + Pré Treino Evolution 300g  Aminoácidos Essenciais - Soldiers Nutrition",
       "price": 69.9,
@@ -10679,7 +10765,7 @@
       "discount": 53.0,
       "commission": 15.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8259i-msnhbjh1yio59f",
-      "link": "https://s.shopee.com.br/2qVWxx2l0T",
+      "link": "https://s.shopee.com.br/50a25gl3rf",
       "rating": "4.9",
       "sales": 1197,
       "shop": "Soldiers Nutrition",
@@ -10696,7 +10782,7 @@
         "shopName": "Soldiers Nutrition",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259i-msnhbjh1yio59f",
         "productLink": "https://shopee.com.br/product/347988064/20298322054",
-        "offerLink": "https://s.shopee.com.br/2qVWxx2l0T"
+        "offerLink": "https://s.shopee.com.br/50a25gl3rf"
       },
       "_last_price": null
     },
@@ -10708,7 +10794,7 @@
       "discount": 53.0,
       "commission": 23.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzavsad6ppjp65",
-      "link": "https://s.shopee.com.br/3qO49mywyl",
+      "link": "https://s.shopee.com.br/3LRo6crPFR",
       "rating": "5",
       "sales": 1065,
       "shop": "Dark Lab Oficial",
@@ -10725,7 +10811,7 @@
         "shopName": "Dark Lab Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzavsad6ppjp65",
         "productLink": "https://shopee.com.br/product/1242044379/19697676039",
-        "offerLink": "https://s.shopee.com.br/3qO49mywyl"
+        "offerLink": "https://s.shopee.com.br/3LRo6crPFR"
       },
       "_last_price": null
     },
@@ -10871,6 +10957,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-msc30lkqvnrb8e",
         "productLink": "https://shopee.com.br/product/1252701665/23893228453",
         "offerLink": "https://s.shopee.com.br/113smc4SbP"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23897975794",
+      "name": "Adaptador De Cápsula Reutilizável Para Conversor De Café Dolce Gusto Compatível Com Genio BR",
+      "price": 42.0,
+      "original_price": 89.36,
+      "discount": 53.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259n-mteou6fvxs7dde",
+      "link": "https://s.shopee.com.br/2VsgZNBshB",
+      "rating": "4.9",
+      "sales": 711,
+      "shop": "RELAMEX--SHOP",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23897975794,
+        "productName": "Adaptador De Cápsula Reutilizável Para Conversor De Café Dolce Gusto Compatível Com Genio BR",
+        "price": "42",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.03",
+        "sales": 711,
+        "ratingStar": "4.9",
+        "shopName": "RELAMEX--SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259n-mteou6fvxs7dde",
+        "productLink": "https://shopee.com.br/product/766258772/23897975794",
+        "offerLink": "https://s.shopee.com.br/2VsgZNBshB"
       },
       "_last_price": null
     },
@@ -11143,7 +11258,7 @@
       "discount": 52.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfzf7uvntlacfc",
-      "link": "https://s.shopee.com.br/2LZGSBTitn",
+      "link": "https://s.shopee.com.br/2Vsh71Mveo",
       "rating": "4.9",
       "sales": 66,
       "shop": "Ankco Shop",
@@ -11160,7 +11275,7 @@
         "shopName": "Ankco Shop",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfzf7uvntlacfc",
         "productLink": "https://shopee.com.br/product/717396632/23799033529",
-        "offerLink": "https://s.shopee.com.br/2LZGSBTitn"
+        "offerLink": "https://s.shopee.com.br/2Vsh71Mveo"
       },
       "_last_price": null
     },
@@ -11745,35 +11860,6 @@
       "_last_price": null
     },
     {
-      "id": "23899340449",
-      "name": "Kit Podador De Galhos 3,5m + 4m Vara Telescópica 2 Serras 2 Ganchos",
-      "price": 142.99,
-      "original_price": 297.9,
-      "discount": 52.0,
-      "commission": 8.200000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-msceb66hodms2b",
-      "link": "https://s.shopee.com.br/W7cBmLwXn",
-      "rating": "4.9",
-      "sales": 188,
-      "shop": "FerraMax-BR",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23899340449,
-        "productName": "Kit Podador De Galhos 3,5m + 4m Vara Telescópica 2 Serras 2 Ganchos",
-        "price": "142.99",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.082",
-        "sales": 188,
-        "ratingStar": "4.9",
-        "shopName": "FerraMax-BR",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-msceb66hodms2b",
-        "productLink": "https://shopee.com.br/product/1724060495/23899340449",
-        "offerLink": "https://s.shopee.com.br/W7cBmLwXn"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23998935659",
       "name": "Dissipador de Calor SSD M.2 NVMe 2280 com Thermal Pad",
       "price": 21.99,
@@ -11926,7 +12012,7 @@
       "discount": 51.0,
       "commission": 4.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwu-md3owfmt11dsa0",
-      "link": "https://s.shopee.com.br/113smXswlV",
+      "link": "https://s.shopee.com.br/1gJa7WCA9G",
       "rating": "4.8",
       "sales": 10722,
       "shop": "Forte DMS Brasil",
@@ -11943,7 +12029,7 @@
         "shopName": "Forte DMS Brasil",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwu-md3owfmt11dsa0",
         "productLink": "https://shopee.com.br/product/1535794969/23994336380",
-        "offerLink": "https://s.shopee.com.br/113smXswlV"
+        "offerLink": "https://s.shopee.com.br/1gJa7WCA9G"
       },
       "_last_price": null
     },
@@ -13086,7 +13172,7 @@
       "discount": 50.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjjze7avo4jq51",
-      "link": "https://s.shopee.com.br/8KqTbD6sj2",
+      "link": "https://s.shopee.com.br/LoCX2VB3T",
       "rating": "4.9",
       "sales": 59,
       "shop": "MixMania BR",
@@ -13103,7 +13189,7 @@
         "shopName": "MixMania BR",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjjze7avo4jq51",
         "productLink": "https://shopee.com.br/product/1447668497/23894064438",
-        "offerLink": "https://s.shopee.com.br/8KqTbD6sj2"
+        "offerLink": "https://s.shopee.com.br/LoCX2VB3T"
       },
       "_last_price": null
     },
@@ -13347,7 +13433,7 @@
       "discount": 50.0,
       "commission": 15.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823q3-moh7r3745r0gb5",
-      "link": "https://s.shopee.com.br/30oxAEtael",
+      "link": "https://s.shopee.com.br/LoCX5uIIp",
       "rating": "4.6",
       "sales": 2217,
       "shop": "hm.indústria ",
@@ -13364,7 +13450,7 @@
         "shopName": "hm.indústria ",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823q3-moh7r3745r0gb5",
         "productLink": "https://shopee.com.br/product/1476264846/58261057993",
-        "offerLink": "https://s.shopee.com.br/30oxAEtael"
+        "offerLink": "https://s.shopee.com.br/LoCX5uIIp"
       },
       "_last_price": null
     },
@@ -13452,35 +13538,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/229d0ab8da6cd0a589a67f331aa78849",
         "productLink": "https://shopee.com.br/product/556197048/10763005356",
         "offerLink": "https://s.shopee.com.br/70L5vbV9sg"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18697682647",
-      "name": "Creatina Monohidratada Pura 150g - Dark Lab",
-      "price": 29.9,
-      "original_price": 59.8,
-      "discount": 50.0,
-      "commission": 23.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lp-ms0cy6ve3h8kde",
-      "link": "https://s.shopee.com.br/7KxwKDlcsW",
-      "rating": "4.9",
-      "sales": 783,
-      "shop": "Dark Lab Oficial",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18697682647,
-        "productName": "Creatina Monohidratada Pura 150g - Dark Lab",
-        "price": "29.9",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.23",
-        "sales": 783,
-        "ratingStar": "4.9",
-        "shopName": "Dark Lab Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-ms0cy6ve3h8kde",
-        "productLink": "https://shopee.com.br/product/1242044379/18697682647",
-        "offerLink": "https://s.shopee.com.br/7KxwKDlcsW"
       },
       "_last_price": null
     },
@@ -14246,7 +14303,7 @@
       "discount": 49.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
-      "link": "https://s.shopee.com.br/9V2Qu9nFeW",
+      "link": "https://s.shopee.com.br/gR2vgFyB6",
       "rating": "4.9",
       "sales": 7760,
       "shop": "ES Official Shop",
@@ -14263,7 +14320,7 @@
         "shopName": "ES Official Shop",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
         "productLink": "https://shopee.com.br/product/988030305/23397600706",
-        "offerLink": "https://s.shopee.com.br/9V2Qu9nFeW"
+        "offerLink": "https://s.shopee.com.br/gR2vgFyB6"
       },
       "_last_price": null
     },
@@ -15080,6 +15137,35 @@
       "_last_price": null
     },
     {
+      "id": "58219043477",
+      "name": "Kit 2 Varas de Pesca Telescópicas 3,60m Fibra de Vidro com 1 Kit de Anzóis Incluso, Leve e Portátil para Rios e Lagos",
+      "price": 49.99,
+      "original_price": 96.13,
+      "discount": 48.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mtn75a8rbabl36",
+      "link": "https://s.shopee.com.br/2gC7JWLuqI",
+      "rating": "4.9",
+      "sales": 77,
+      "shop": "CasaFeliz1166",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58219043477,
+        "productName": "Kit 2 Varas de Pesca Telescópicas 3,60m Fibra de Vidro com 1 Kit de Anzóis Incluso, Leve e Portátil para Rios e Lagos",
+        "price": "49.99",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.08",
+        "sales": 77,
+        "ratingStar": "4.9",
+        "shopName": "CasaFeliz1166",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mtn75a8rbabl36",
+        "productLink": "https://shopee.com.br/product/1894458973/58219043477",
+        "offerLink": "https://s.shopee.com.br/2gC7JWLuqI"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22799125551",
       "name": "Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escolar de Viagem e Trabalho",
       "price": 42.99,
@@ -15087,7 +15173,7 @@
       "discount": 47.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820me-mljzudnhshdw7f",
-      "link": "https://s.shopee.com.br/1LgjCNeRDt",
+      "link": "https://s.shopee.com.br/906Aqvyzcr",
       "rating": "4.8",
       "sales": 2626,
       "shop": "RON CHANG",
@@ -15104,7 +15190,7 @@
         "shopName": "RON CHANG",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mljzudnhshdw7f",
         "productLink": "https://shopee.com.br/product/1658947107/22799125551",
-        "offerLink": "https://s.shopee.com.br/1LgjCNeRDt"
+        "offerLink": "https://s.shopee.com.br/906Aqvyzcr"
       },
       "_last_price": null
     },
@@ -15261,7 +15347,7 @@
       "discount": 47.0,
       "commission": 15.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0tam4r99mo21",
-      "link": "https://s.shopee.com.br/30oxAG27fW",
+      "link": "https://s.shopee.com.br/4B0v69oEYW",
       "rating": "4.9",
       "sales": 1265,
       "shop": "Soldiers Nutrition",
@@ -15278,7 +15364,7 @@
         "shopName": "Soldiers Nutrition",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0tam4r99mo21",
         "productLink": "https://shopee.com.br/product/347988064/23698734800",
-        "offerLink": "https://s.shopee.com.br/30oxAG27fW"
+        "offerLink": "https://s.shopee.com.br/4B0v69oEYW"
       },
       "_last_price": null
     },
@@ -15290,7 +15376,7 @@
       "discount": 47.0,
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m7-ms1cw6my78cm29",
-      "link": "https://s.shopee.com.br/3g4dxTzaJi",
+      "link": "https://s.shopee.com.br/3VlEIvqluS",
       "rating": "4.9",
       "sales": 848,
       "shop": "Suplementos Mobile",
@@ -15307,7 +15393,7 @@
         "shopName": "Suplementos Mobile",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-ms1cw6my78cm29",
         "productLink": "https://shopee.com.br/product/904040298/45116230882",
-        "offerLink": "https://s.shopee.com.br/3g4dxTzaJi"
+        "offerLink": "https://s.shopee.com.br/3VlEIvqluS"
       },
       "_last_price": null
     },
@@ -15424,35 +15510,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98r-lmtqgs94p8vf2f",
         "productLink": "https://shopee.com.br/product/569114904/23597035403",
         "offerLink": "https://s.shopee.com.br/9Kj0hvlrpB"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "27231768018",
-      "name": "Cafeteira Elétrica Electrolux Ecm10 15 Xícaras 600w Grafite 110V",
-      "price": 117.79,
-      "original_price": 222.25,
-      "discount": 47.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7repc-m83ssyedawlt1e",
-      "link": "https://s.shopee.com.br/3VlEEwbwws",
-      "rating": "4.9",
-      "sales": 816,
-      "shop": "123 Comprou!",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 27231768018,
-        "productName": "Cafeteira Elétrica Electrolux Ecm10 15 Xícaras 600w Grafite 110V",
-        "price": "117.79",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.03",
-        "sales": 816,
-        "ratingStar": "4.9",
-        "shopName": "123 Comprou!",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repc-m83ssyedawlt1e",
-        "productLink": "https://shopee.com.br/product/564780452/27231768018",
-        "offerLink": "https://s.shopee.com.br/3VlEEwbwws"
       },
       "_last_price": null
     },
@@ -16479,7 +16536,7 @@
       "discount": 45.0,
       "commission": 15.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mugh2d17553495",
-      "link": "https://s.shopee.com.br/8KqTW0rh1T",
+      "link": "https://s.shopee.com.br/5AtSHwyq39",
       "rating": "4.9",
       "sales": 4354,
       "shop": "MAX MO (Atacado & Varejo)",
@@ -16496,7 +16553,7 @@
         "shopName": "MAX MO (Atacado & Varejo)",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mugh2d17553495",
         "productLink": "https://shopee.com.br/product/461633669/12016728643",
-        "offerLink": "https://s.shopee.com.br/8KqTW0rh1T"
+        "offerLink": "https://s.shopee.com.br/5AtSHwyq39"
       },
       "_last_price": null
     },
@@ -16537,7 +16594,7 @@
       "discount": 45.0,
       "commission": 18.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mqv9nes5wqo3cf",
-      "link": "https://s.shopee.com.br/1W09NTzIhI",
+      "link": "https://s.shopee.com.br/9Kj1FdM22O",
       "rating": "4.5",
       "sales": 3230,
       "shop": "HN PERFUMES",
@@ -16554,7 +16611,7 @@
         "shopName": "HN PERFUMES",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mqv9nes5wqo3cf",
         "productLink": "https://shopee.com.br/product/567005872/58213437798",
-        "offerLink": "https://s.shopee.com.br/1W09NTzIhI"
+        "offerLink": "https://s.shopee.com.br/9Kj1FdM22O"
       },
       "_last_price": null
     },
@@ -16682,7 +16739,7 @@
       "discount": 45.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lq-molilwsui7er94",
-      "link": "https://s.shopee.com.br/2gC6le3OLQ",
+      "link": "https://s.shopee.com.br/4fxBh4mKXZ",
       "rating": "4.8",
       "sales": 1946,
       "shop": "EVO Fitnes",
@@ -16699,7 +16756,7 @@
         "shopName": "EVO Fitnes",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-molilwsui7er94",
         "productLink": "https://shopee.com.br/product/1523139407/47858345120",
-        "offerLink": "https://s.shopee.com.br/2gC6le3OLQ"
+        "offerLink": "https://s.shopee.com.br/4fxBh4mKXZ"
       },
       "_last_price": null
     },
@@ -18154,6 +18211,35 @@
       "_last_price": null
     },
     {
+      "id": "23297009357",
+      "name": "Armadilha Para Peixe Covo Rede de Pesca Dobrável Lambari Camarão Caranguejo Siri Isca Pesqueiro Portátil Reutilizável 3D",
+      "price": 17.97,
+      "original_price": 31.53,
+      "discount": 43.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mqhply2s3v2a7f",
+      "link": "https://s.shopee.com.br/4LKKkqBPnp",
+      "rating": "4.8",
+      "sales": 473,
+      "shop": "FastEcomSP",
+      "category": "isca pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23297009357,
+        "productName": "Armadilha Para Peixe Covo Rede de Pesca Dobrável Lambari Camarão Caranguejo Siri Isca Pesqueiro Portátil Reutilizável 3D",
+        "price": "17.97",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.03",
+        "sales": 473,
+        "ratingStar": "4.8",
+        "shopName": "FastEcomSP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mqhply2s3v2a7f",
+        "productLink": "https://shopee.com.br/product/1058451512/23297009357",
+        "offerLink": "https://s.shopee.com.br/4LKKkqBPnp"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22594371178",
       "name": "Chapéu Balaclava Terno Dobrável Macio Proteção Solar Boné De Pesca Respirável Pescadoria Ao Ar Livre",
       "price": 29.98,
@@ -18208,35 +18294,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdw2-lzj5ol4qxe8y37",
         "productLink": "https://shopee.com.br/product/1023755495/22793252927",
         "offerLink": "https://s.shopee.com.br/6VOpKnUEZb"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23297009357",
-      "name": "Armadilha Para Peixe Covo Rede de Pesca Dobrável Lambari Camarão Caranguejo Siri Isca Pesqueiro Portátil Reutilizável 3D",
-      "price": 17.97,
-      "original_price": 31.53,
-      "discount": 43.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lu-mqhply2s3v2a7f",
-      "link": "https://s.shopee.com.br/4LKKkqBPnp",
-      "rating": "4.8",
-      "sales": 473,
-      "shop": "FastEcomSP",
-      "category": "rede de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23297009357,
-        "productName": "Armadilha Para Peixe Covo Rede de Pesca Dobrável Lambari Camarão Caranguejo Siri Isca Pesqueiro Portátil Reutilizável 3D",
-        "price": "17.97",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.03",
-        "sales": 473,
-        "ratingStar": "4.8",
-        "shopName": "FastEcomSP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mqhply2s3v2a7f",
-        "productLink": "https://shopee.com.br/product/1058451512/23297009357",
-        "offerLink": "https://s.shopee.com.br/4LKKkqBPnp"
       },
       "_last_price": null
     },
@@ -18509,7 +18566,7 @@
       "discount": 42.0,
       "commission": 19.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mlm9f6twpjph48",
-      "link": "https://s.shopee.com.br/2qVWxuly3C",
+      "link": "https://s.shopee.com.br/AAI8F9AStO",
       "rating": "4.9",
       "sales": 2361,
       "shop": "Bela Beleza Oficial",
@@ -18526,7 +18583,7 @@
         "shopName": "Bela Beleza Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mlm9f6twpjph48",
         "productLink": "https://shopee.com.br/product/1391354759/22199398955",
-        "offerLink": "https://s.shopee.com.br/2qVWxuly3C"
+        "offerLink": "https://s.shopee.com.br/AAI8F9AStO"
       },
       "_last_price": null
     },
@@ -18944,7 +19001,7 @@
       "discount": 41.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8262v-ml553cw9skjkb5",
-      "link": "https://s.shopee.com.br/9pfHNy1AgT",
+      "link": "https://s.shopee.com.br/4qGbtJE2vU",
       "rating": "5",
       "sales": 29,
       "shop": "TNTinfoLoja",
@@ -18961,7 +19018,7 @@
         "shopName": "TNTinfoLoja",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262v-ml553cw9skjkb5",
         "productLink": "https://shopee.com.br/product/344381236/57955121076",
-        "offerLink": "https://s.shopee.com.br/9pfHNy1AgT"
+        "offerLink": "https://s.shopee.com.br/4qGbtJE2vU"
       },
       "_last_price": null
     },
@@ -19198,6 +19255,35 @@
       "_last_price": null
     },
     {
+      "id": "23995805094",
+      "name": "Kit Sapatilha + Mochila Náutica Híbrida Neoprene Aquática Praia Pesca Rios Super confortavel",
+      "price": 40.71,
+      "original_price": 69.0,
+      "discount": 41.0,
+      "commission": 15.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lkfcuwizmfdze7",
+      "link": "https://s.shopee.com.br/6L5PgGTkW2",
+      "rating": "4.9",
+      "sales": 498,
+      "shop": "David.Eagle",
+      "category": "kit pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23995805094,
+        "productName": "Kit Sapatilha + Mochila Náutica Híbrida Neoprene Aquática Praia Pesca Rios Super confortavel",
+        "price": "40.71",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.15",
+        "sales": 498,
+        "ratingStar": "4.9",
+        "shopName": "David.Eagle",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lkfcuwizmfdze7",
+        "productLink": "https://shopee.com.br/product/455992764/23995805094",
+        "offerLink": "https://s.shopee.com.br/6L5PgGTkW2"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23294543679",
       "name": "Kit 2 Suporte Para Vara Pesca Suporte Pesqueiro Pequeno 4,5MM 26Cm",
       "price": 18.99,
@@ -19281,35 +19367,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mqum049jiby926",
         "productLink": "https://shopee.com.br/product/329265003/58263769367",
         "offerLink": "https://s.shopee.com.br/1W09NPniWy"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58250766884",
-      "name": "Rig Frame Suporte Placa Mãe CPU GPU e Fonte ATX Open Frame Bancada de Testes para PC Gamer Original",
-      "price": 39.9,
-      "original_price": 66.5,
-      "discount": 40.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ln-mtivyp0ydfy82d",
-      "link": "https://s.shopee.com.br/AUuyBBydKf",
-      "rating": "4.6",
-      "sales": 44,
-      "shop": "FORNECEDOR TECH 3D",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58250766884,
-        "productName": "Rig Frame Suporte Placa Mãe CPU GPU e Fonte ATX Open Frame Bancada de Testes para PC Gamer Original",
-        "price": "39.9",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.13",
-        "sales": 44,
-        "ratingStar": "4.6",
-        "shopName": "FORNECEDOR TECH 3D",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mtivyp0ydfy82d",
-        "productLink": "https://shopee.com.br/product/1561460961/58250766884",
-        "offerLink": "https://s.shopee.com.br/AUuyBBydKf"
       },
       "_last_price": null
     },
@@ -19466,7 +19523,7 @@
       "discount": 40.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mcc4llc8xbix14",
-      "link": "https://s.shopee.com.br/9Kj0hqnszV",
+      "link": "https://s.shopee.com.br/qkT7zFKq9",
       "rating": "4.9",
       "sales": 8984,
       "shop": "WUDI SHOP",
@@ -19483,7 +19540,7 @@
         "shopName": "WUDI SHOP",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mcc4llc8xbix14",
         "productLink": "https://shopee.com.br/product/1502069336/19699843252",
-        "offerLink": "https://s.shopee.com.br/9Kj0hqnszV"
+        "offerLink": "https://s.shopee.com.br/qkT7zFKq9"
       },
       "_last_price": null
     },
@@ -20162,7 +20219,7 @@
       "discount": 39.0,
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mqddeln57gg1a1",
-      "link": "https://s.shopee.com.br/30oxADlKiD",
+      "link": "https://s.shopee.com.br/AKbYRS9pYP",
       "rating": "4.9",
       "sales": 2965,
       "shop": "mypetone",
@@ -20179,7 +20236,7 @@
         "shopName": "mypetone",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mqddeln57gg1a1",
         "productLink": "https://shopee.com.br/product/290073877/23597371285",
-        "offerLink": "https://s.shopee.com.br/30oxADlKiD"
+        "offerLink": "https://s.shopee.com.br/AKbYRS9pYP"
       },
       "_last_price": null
     },
@@ -20561,35 +20618,6 @@
       "_last_price": null
     },
     {
-      "id": "23798836546",
-      "name": "Suporte Prateleira Porta Shampoo Organizador De Canto Com Adesivo",
-      "price": 30.99,
-      "original_price": 49.98,
-      "discount": 38.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mo8a0oxibbb83d",
-      "link": "https://s.shopee.com.br/7AeW7sVTG8",
-      "rating": "4.8",
-      "sales": 2812,
-      "shop": "HEXUN SHOP",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23798836546,
-        "productName": "Suporte Prateleira Porta Shampoo Organizador De Canto Com Adesivo",
-        "price": "30.99",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.03",
-        "sales": 2812,
-        "ratingStar": "4.8",
-        "shopName": "HEXUN SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mo8a0oxibbb83d",
-        "productLink": "https://shopee.com.br/product/1515741369/23798836546",
-        "offerLink": "https://s.shopee.com.br/7AeW7sVTG8"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58214668571",
       "name": "Hidrabene Protetor Solar Clareador Facial 70 FPS",
       "price": 36.9,
@@ -20713,7 +20741,7 @@
       "discount": 38.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8259t-mg8ewakhp5ak3a",
-      "link": "https://s.shopee.com.br/2gC6lcurKf",
+      "link": "https://s.shopee.com.br/1BM8TvYyj",
       "rating": "5",
       "sales": 2517,
       "shop": "Magnifico BO",
@@ -20730,7 +20758,7 @@
         "shopName": "Magnifico BO",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259t-mg8ewakhp5ak3a",
         "productLink": "https://shopee.com.br/product/422903254/23498913995",
-        "offerLink": "https://s.shopee.com.br/2gC6lcurKf"
+        "offerLink": "https://s.shopee.com.br/1BM8TvYyj"
       },
       "_last_price": null
     },
@@ -20742,7 +20770,7 @@
       "discount": 38.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/31444566684c1fab3fb7e3b8f32a2ac7",
-      "link": "https://s.shopee.com.br/4fxB9InFH7",
+      "link": "https://s.shopee.com.br/20wQW9nwvB",
       "rating": "4.8",
       "sales": 2701,
       "shop": "Dana Cosmeticos",
@@ -20759,7 +20787,7 @@
         "shopName": "Dana Cosmeticos",
         "imageUrl": "https://cf.shopee.com.br/file/31444566684c1fab3fb7e3b8f32a2ac7",
         "productLink": "https://shopee.com.br/product/436104412/19247856659",
-        "offerLink": "https://s.shopee.com.br/4fxB9InFH7"
+        "offerLink": "https://s.shopee.com.br/20wQW9nwvB"
       },
       "_last_price": null
     },
@@ -20771,7 +20799,7 @@
       "discount": 38.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/9ea44eb398263976d03b4461b76ab069",
-      "link": "https://s.shopee.com.br/5AtRkDlLGE",
+      "link": "https://s.shopee.com.br/2Vsh74m2uI",
       "rating": "4.7",
       "sales": 2566,
       "shop": "Dana Cosmeticos",
@@ -20788,7 +20816,7 @@
         "shopName": "Dana Cosmeticos",
         "imageUrl": "https://cf.shopee.com.br/file/9ea44eb398263976d03b4461b76ab069",
         "productLink": "https://shopee.com.br/product/436104412/19747855339",
-        "offerLink": "https://s.shopee.com.br/5AtRkDlLGE"
+        "offerLink": "https://s.shopee.com.br/2Vsh74m2uI"
       },
       "_last_price": null
     },
@@ -21235,7 +21263,7 @@
       "discount": 37.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-81zve-miku7m3h36dg64",
-      "link": "https://s.shopee.com.br/80DdCb89P0",
+      "link": "https://s.shopee.com.br/gR2veTuNZ",
       "rating": "5",
       "sales": 51,
       "shop": "Terabyte Oficial",
@@ -21252,7 +21280,7 @@
         "shopName": "Terabyte Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zve-miku7m3h36dg64",
         "productLink": "https://shopee.com.br/product/1552226494/23699232471",
-        "offerLink": "https://s.shopee.com.br/80DdCb89P0"
+        "offerLink": "https://s.shopee.com.br/gR2veTuNZ"
       },
       "_last_price": null
     },
@@ -21322,7 +21350,7 @@
       "discount": 37.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-82622-mlqhnya4zehb31",
-      "link": "https://s.shopee.com.br/6q1fjFfwT6",
+      "link": "https://s.shopee.com.br/4B0v66gVei",
       "rating": "4.9",
       "sales": 2450,
       "shop": "LUCKY BAZAR",
@@ -21339,7 +21367,7 @@
         "shopName": "LUCKY BAZAR",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82622-mlqhnya4zehb31",
         "productLink": "https://shopee.com.br/product/375201738/22299409946",
-        "offerLink": "https://s.shopee.com.br/6q1fjFfwT6"
+        "offerLink": "https://s.shopee.com.br/4B0v66gVei"
       },
       "_last_price": null
     },
@@ -21351,7 +21379,7 @@
       "discount": 37.0,
       "commission": 73.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mpxy82d0505ccb",
-      "link": "https://s.shopee.com.br/AKbXtgk4xf",
+      "link": "https://s.shopee.com.br/1qd0JpBWoJ",
       "rating": "4.8",
       "sales": 8109,
       "shop": "Verde Água Embalagens e Enxovais",
@@ -21368,7 +21396,7 @@
         "shopName": "Verde Água Embalagens e Enxovais",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mpxy82d0505ccb",
         "productLink": "https://shopee.com.br/product/910649627/58213273842",
-        "offerLink": "https://s.shopee.com.br/AKbXtgk4xf"
+        "offerLink": "https://s.shopee.com.br/1qd0JpBWoJ"
       },
       "_last_price": null
     },
@@ -21380,7 +21408,7 @@
       "discount": 37.0,
       "commission": 43.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mra9nhri7tolf6",
-      "link": "https://s.shopee.com.br/8AX3JhsKMO",
+      "link": "https://s.shopee.com.br/4fxBh20k40",
       "rating": "4.8",
       "sales": 4682,
       "shop": "Isaplastic",
@@ -21397,7 +21425,7 @@
         "shopName": "Isaplastic",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mra9nhri7tolf6",
         "productLink": "https://shopee.com.br/product/344438002/23199132850",
-        "offerLink": "https://s.shopee.com.br/8AX3JhsKMO"
+        "offerLink": "https://s.shopee.com.br/4fxBh20k40"
       },
       "_last_price": null
     },
@@ -21438,7 +21466,7 @@
       "discount": 37.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134207-824ha-mpwwe4ggmfij72",
-      "link": "https://s.shopee.com.br/50a1XulybD",
+      "link": "https://s.shopee.com.br/2LZGulmgFH",
       "rating": "4.9",
       "sales": 2689,
       "shop": "Essence Lab",
@@ -21455,7 +21483,7 @@
         "shopName": "Essence Lab",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-824ha-mpwwe4ggmfij72",
         "productLink": "https://shopee.com.br/product/1833231900/58213240939",
-        "offerLink": "https://s.shopee.com.br/50a1XulybD"
+        "offerLink": "https://s.shopee.com.br/2LZGulmgFH"
       },
       "_last_price": null
     },
@@ -21525,7 +21553,7 @@
       "discount": 37.0,
       "commission": 19.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mnpqqxr1bz7o49",
-      "link": "https://s.shopee.com.br/70L5vbmtYQ",
+      "link": "https://s.shopee.com.br/2qVXVhtJGO",
       "rating": "4.9",
       "sales": 450,
       "shop": "Dex Fitt",
@@ -21542,7 +21570,7 @@
         "shopName": "Dex Fitt",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mnpqqxr1bz7o49",
         "productLink": "https://shopee.com.br/product/1517289552/58259057330",
-        "offerLink": "https://s.shopee.com.br/70L5vbmtYQ"
+        "offerLink": "https://s.shopee.com.br/2qVXVhtJGO"
       },
       "_last_price": null
     },
@@ -22018,7 +22046,7 @@
       "discount": 36.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mpc0kpszssu82c",
-      "link": "https://s.shopee.com.br/9APaVXoWKY",
+      "link": "https://s.shopee.com.br/LoCX4HEr8",
       "rating": "4.7",
       "sales": 6295,
       "shop": "RM COMERCIO",
@@ -22035,7 +22063,7 @@
         "shopName": "RM COMERCIO",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mpc0kpszssu82c",
         "productLink": "https://shopee.com.br/product/1592199608/23794994613",
-        "offerLink": "https://s.shopee.com.br/9APaVXoWKY"
+        "offerLink": "https://s.shopee.com.br/LoCX4HEr8"
       },
       "_last_price": null
     },
@@ -23113,6 +23141,64 @@
       "_last_price": null
     },
     {
+      "id": "14587417405",
+      "name": "Fonte Atx 500w Gamer Ultra Silence Pc Gamer Bivolt kp522",
+      "price": 99.0,
+      "original_price": 150.0,
+      "discount": 34.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/a6822b8520131f55b2b9311bc1613329",
+      "link": "https://s.shopee.com.br/8V9uG305Tp",
+      "rating": "4.9",
+      "sales": 88,
+      "shop": "onispes",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 14587417405,
+        "productName": "Fonte Atx 500w Gamer Ultra Silence Pc Gamer Bivolt kp522",
+        "price": "99",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.03",
+        "sales": 88,
+        "ratingStar": "4.9",
+        "shopName": "onispes",
+        "imageUrl": "https://cf.shopee.com.br/file/a6822b8520131f55b2b9311bc1613329",
+        "productLink": "https://shopee.com.br/product/379996229/14587417405",
+        "offerLink": "https://s.shopee.com.br/8V9uG305Tp"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "16874427264",
+      "name": "Fonte Atx 500w Reais Gamer Super Silenciosa Pc Bivolt Foneng",
+      "price": 99.0,
+      "original_price": 150.0,
+      "discount": 34.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr7f6x36awbo80",
+      "link": "https://s.shopee.com.br/80Ddf81zUk",
+      "rating": "4.7",
+      "sales": 114,
+      "shop": "onispes",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 16874427264,
+        "productName": "Fonte Atx 500w Reais Gamer Super Silenciosa Pc Bivolt Foneng",
+        "price": "99",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.03",
+        "sales": 114,
+        "ratingStar": "4.7",
+        "shopName": "onispes",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr7f6x36awbo80",
+        "productLink": "https://shopee.com.br/product/379996229/16874427264",
+        "offerLink": "https://s.shopee.com.br/80Ddf81zUk"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23294065712",
       "name": "Fonte ATX 230W Real Bivolt Chaveada Silenciosa para PC Desktop com Conectores SATA IDE",
       "price": 49.9,
@@ -23120,7 +23206,7 @@
       "discount": 34.0,
       "commission": 6.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-miq1uri3905ic8",
-      "link": "https://s.shopee.com.br/BUlsCbyIG",
+      "link": "https://s.shopee.com.br/8AX3rR1M9n",
       "rating": "4.9",
       "sales": 106,
       "shop": "MixMania BR",
@@ -23137,7 +23223,7 @@
         "shopName": "MixMania BR",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-miq1uri3905ic8",
         "productLink": "https://shopee.com.br/product/1447668497/23294065712",
-        "offerLink": "https://s.shopee.com.br/BUlsCbyIG"
+        "offerLink": "https://s.shopee.com.br/8AX3rR1M9n"
       },
       "_last_price": null
     },
@@ -23265,7 +23351,7 @@
       "discount": 34.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mukmdt0ea1hec7",
-      "link": "https://s.shopee.com.br/3qO49lqPxq",
+      "link": "https://s.shopee.com.br/1BNJWcr7bu",
       "rating": "4.8",
       "sales": 3308,
       "shop": "Primacial",
@@ -23282,7 +23368,7 @@
         "shopName": "Primacial",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mukmdt0ea1hec7",
         "productLink": "https://shopee.com.br/product/1295467768/52311303643",
-        "offerLink": "https://s.shopee.com.br/3qO49lqPxq"
+        "offerLink": "https://s.shopee.com.br/1BNJWcr7bu"
       },
       "_last_price": null
     },
@@ -23294,7 +23380,7 @@
       "discount": 34.0,
       "commission": 17.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8258f-mqc5rhmj1ngt8c",
-      "link": "https://s.shopee.com.br/3B8NMXsxJm",
+      "link": "https://s.shopee.com.br/W7cjOtexq",
       "rating": "4.7",
       "sales": 2752,
       "shop": "L.A Store Premium",
@@ -23311,7 +23397,7 @@
         "shopName": "L.A Store Premium",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258f-mqc5rhmj1ngt8c",
         "productLink": "https://shopee.com.br/product/404217129/58263763849",
-        "offerLink": "https://s.shopee.com.br/3B8NMXsxJm"
+        "offerLink": "https://s.shopee.com.br/W7cjOtexq"
       },
       "_last_price": null
     },
@@ -23671,7 +23757,7 @@
       "discount": 34.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lb-msiirk4uvpc6f8",
-      "link": "https://s.shopee.com.br/LoBzTeFDa",
+      "link": "https://s.shopee.com.br/AKbYRcEWOg",
       "rating": "4.9",
       "sales": 496,
       "shop": "Helpri",
@@ -23688,36 +23774,7 @@
         "shopName": "Helpri",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-msiirk4uvpc6f8",
         "productLink": "https://shopee.com.br/product/1597281060/58217241484",
-        "offerLink": "https://s.shopee.com.br/LoBzTeFDa"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23034637715",
-      "name": "Chumbada de Pesca Pacote 1 Kg Oliva/Balão",
-      "price": 34.69,
-      "original_price": 52.56,
-      "discount": 34.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6immbns4w9364",
-      "link": "https://s.shopee.com.br/9APaViODPn",
-      "rating": "4.9",
-      "sales": 141,
-      "shop": "Max Pesca Go",
-      "category": "chumbada",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23034637715,
-        "productName": "Chumbada de Pesca Pacote 1 Kg Oliva/Balão",
-        "price": "34.69",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.03",
-        "sales": 141,
-        "ratingStar": "4.9",
-        "shopName": "Max Pesca Go",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6immbns4w9364",
-        "productLink": "https://shopee.com.br/product/596156024/23034637715",
-        "offerLink": "https://s.shopee.com.br/9APaViODPn"
+        "offerLink": "https://s.shopee.com.br/AKbYRcEWOg"
       },
       "_last_price": null
     },
@@ -23816,7 +23873,7 @@
       "discount": 33.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7ra2n-mbebm15ltjrk86",
-      "link": "https://s.shopee.com.br/20wQ3ZUzZh",
+      "link": "https://s.shopee.com.br/2BFqiPOCKi",
       "rating": "4.9",
       "sales": 86,
       "shop": "Pichau",
@@ -23833,7 +23890,7 @@
         "shopName": "Pichau",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra2n-mbebm15ltjrk86",
         "productLink": "https://shopee.com.br/product/627750190/23094170351",
-        "offerLink": "https://s.shopee.com.br/20wQ3ZUzZh"
+        "offerLink": "https://s.shopee.com.br/2BFqiPOCKi"
       },
       "_last_price": null
     },
@@ -24048,7 +24105,7 @@
       "discount": 33.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8258z-mrt9sa20h153af",
-      "link": "https://s.shopee.com.br/20wPyOxOgL",
+      "link": "https://s.shopee.com.br/AAI8FAIrLV",
       "rating": "4.7",
       "sales": 2401,
       "shop": "Felloni Store",
@@ -24065,7 +24122,7 @@
         "shopName": "Felloni Store",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258z-mrt9sa20h153af",
         "productLink": "https://shopee.com.br/product/451549985/58216097505",
-        "offerLink": "https://s.shopee.com.br/20wPyOxOgL"
+        "offerLink": "https://s.shopee.com.br/AAI8FAIrLV"
       },
       "_last_price": null
     },
@@ -24077,7 +24134,7 @@
       "discount": 33.0,
       "commission": 25.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meuecpy1e3uoa3",
-      "link": "https://s.shopee.com.br/3VlDl9rgdk",
+      "link": "https://s.shopee.com.br/qkT80sOHo",
       "rating": "4.8",
       "sales": 3006,
       "shop": "E'thereal Paris",
@@ -24094,7 +24151,7 @@
         "shopName": "E'thereal Paris",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meuecpy1e3uoa3",
         "productLink": "https://shopee.com.br/product/1482776546/22598926569",
-        "offerLink": "https://s.shopee.com.br/3VlDl9rgdk"
+        "offerLink": "https://s.shopee.com.br/qkT80sOHo"
       },
       "_last_price": null
     },
@@ -24385,6 +24442,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-7qukw-leq0pw6u1hbf19",
         "productLink": "https://shopee.com.br/product/607566210/23033984620",
         "offerLink": "https://s.shopee.com.br/4fxB9QJgTE"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58217001674",
+      "name": "KIT COM 02 VARAS TELESCÓPICAS REDFOX NEW FUJIAMA",
+      "price": 38.2,
+      "original_price": 57.01,
+      "discount": 33.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mscz2mthdv5yee",
+      "link": "https://s.shopee.com.br/2qVXVpLHVL",
+      "rating": "4.9",
+      "sales": 51,
+      "shop": "REDFOX PESCA",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58217001674,
+        "productName": "KIT COM 02 VARAS TELESCÓPICAS REDFOX NEW FUJIAMA",
+        "price": "38.2",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.03",
+        "sales": 51,
+        "ratingStar": "4.9",
+        "shopName": "REDFOX PESCA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mscz2mthdv5yee",
+        "productLink": "https://shopee.com.br/product/594036051/58217001674",
+        "offerLink": "https://s.shopee.com.br/2qVXVpLHVL"
       },
       "_last_price": null
     },
@@ -25498,7 +25584,7 @@
       "discount": 30.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj7awbl7hipt01",
-      "link": "https://s.shopee.com.br/LoC4VbKxL",
+      "link": "https://s.shopee.com.br/1qd0JnPT0c",
       "rating": "4.8",
       "sales": 32,
       "shop": "MixMania BR",
@@ -25515,7 +25601,7 @@
         "shopName": "MixMania BR",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj7awbl7hipt01",
         "productLink": "https://shopee.com.br/product/1447668497/23898552387",
-        "offerLink": "https://s.shopee.com.br/LoC4VbKxL"
+        "offerLink": "https://s.shopee.com.br/1qd0JnPT0c"
       },
       "_last_price": null
     },
@@ -25984,35 +26070,6 @@
       "_last_price": null
     },
     {
-      "id": "40265722427",
-      "name": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
-      "price": 13.01,
-      "original_price": 18.59,
-      "discount": 30.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
-      "link": "https://s.shopee.com.br/60SYjrNk9G",
-      "rating": "5",
-      "sales": 654,
-      "shop": "br.FashLoop",
-      "category": "isca artificial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40265722427,
-        "productName": "50 Isca Camarão Camarão Macio 4cm Isca Artificial Camarão Gancho Peixe",
-        "price": "13.01",
-        "priceDiscountRate": 30,
-        "commissionRate": "0.03",
-        "sales": 654,
-        "ratingStar": "5",
-        "shopName": "br.FashLoop",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-ab9tprml72ived",
-        "productLink": "https://shopee.com.br/product/1603567416/40265722427",
-        "offerLink": "https://s.shopee.com.br/60SYjrNk9G"
-      },
-      "_last_price": null
-    },
-    {
       "id": "12392388153",
       "name": "Colete Salva Vidas Boia Adulto Piscina Pesca Colorido Tamanhos 60kgs até 150kgs",
       "price": 77.41,
@@ -26096,35 +26153,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mki859j1y9z585",
         "productLink": "https://shopee.com.br/product/544625199/47956018833",
         "offerLink": "https://s.shopee.com.br/2LZGN9Exow"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58262316558",
-      "name": "Chumbada Para Pesca Oliva Premium - 1 Kg",
-      "price": 34.9,
-      "original_price": 49.86,
-      "discount": 30.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820li-mpcbeojbkyrq82",
-      "link": "https://s.shopee.com.br/906AJPOqkk",
-      "rating": "4.9",
-      "sales": 85,
-      "shop": "SAVANA_ATACADISTA",
-      "category": "chumbada",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58262316558,
-        "productName": "Chumbada Para Pesca Oliva Premium - 1 Kg",
-        "price": "34.9",
-        "priceDiscountRate": 30,
-        "commissionRate": "0.03",
-        "sales": 85,
-        "ratingStar": "4.9",
-        "shopName": "SAVANA_ATACADISTA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mpcbeojbkyrq82",
-        "productLink": "https://shopee.com.br/product/1835712648/58262316558",
-        "offerLink": "https://s.shopee.com.br/906AJPOqkk"
       },
       "_last_price": null
     },
@@ -26281,7 +26309,7 @@
       "discount": 29.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8258j-mg56zpbqk45med",
-      "link": "https://s.shopee.com.br/1W09SeWtae",
+      "link": "https://s.shopee.com.br/2LZGuiNYzn",
       "rating": "4.9",
       "sales": 44,
       "shop": "iotec",
@@ -26298,7 +26326,7 @@
         "shopName": "iotec",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258j-mg56zpbqk45med",
         "productLink": "https://shopee.com.br/product/1349934384/22994552692",
-        "offerLink": "https://s.shopee.com.br/1W09SeWtae"
+        "offerLink": "https://s.shopee.com.br/2LZGuiNYzn"
       },
       "_last_price": null
     },
@@ -26477,35 +26505,6 @@
       "_last_price": null
     },
     {
-      "id": "22994269933",
-      "name": "Kit De Pesca 4 Vara E 4 Molinete Com Linha Maleta Acessórios",
-      "price": 184.99,
-      "original_price": 260.55,
-      "discount": 29.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8262d-mlgemn4x845c7c",
-      "link": "https://s.shopee.com.br/6fiFX4m91B",
-      "rating": "4.9",
-      "sales": 319,
-      "shop": "ApexVendas",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22994269933,
-        "productName": "Kit De Pesca 4 Vara E 4 Molinete Com Linha Maleta Acessórios",
-        "price": "184.99",
-        "priceDiscountRate": 29,
-        "commissionRate": "0.07",
-        "sales": 319,
-        "ratingStar": "4.9",
-        "shopName": "ApexVendas",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262d-mlgemn4x845c7c",
-        "productLink": "https://shopee.com.br/product/940287081/22994269933",
-        "offerLink": "https://s.shopee.com.br/6fiFX4m91B"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22594826578",
       "name": "Boia Infantil com Cobertura Solar Inflável para Piscina e Praia 1+",
       "price": 55.99,
@@ -26622,6 +26621,35 @@
       "_last_price": null
     },
     {
+      "id": "18099289396",
+      "name": "Vara Telescópica RedFox Fujiama– 65% Carbono, Resistência Profissional (1,80m a 5,00m) unidade",
+      "price": 27.7,
+      "original_price": 39.01,
+      "discount": 29.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mqyt920fsdtye0",
+      "link": "https://s.shopee.com.br/7VHN4P3W2A",
+      "rating": "4.8",
+      "sales": 101,
+      "shop": "REDFOX PESCA",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18099289396,
+        "productName": "Vara Telescópica RedFox Fujiama– 65% Carbono, Resistência Profissional (1,80m a 5,00m) unidade",
+        "price": "27.7",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.11",
+        "sales": 101,
+        "ratingStar": "4.8",
+        "shopName": "REDFOX PESCA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mqyt920fsdtye0",
+        "productLink": "https://shopee.com.br/product/594036051/18099289396",
+        "offerLink": "https://s.shopee.com.br/7VHN4P3W2A"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22498752326",
       "name": "Kit Pesca 3 Varas Telescópica 3 Mts Estojo Acessórios boia anzol chumbada isca sino snap",
       "price": 99.98,
@@ -26629,11 +26657,11 @@
       "discount": 29.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwlrb4xzhfr3a",
-      "link": "https://s.shopee.com.br/AAI7hYKPO5",
+      "link": "https://s.shopee.com.br/3LRo6kJNUU",
       "rating": "4.9",
       "sales": 98,
       "shop": "CLICK & VIVA",
-      "category": "chumbada",
+      "category": "vara telescopica",
       "source": "shopee",
       "_item": {
         "itemId": 22498752326,
@@ -26646,7 +26674,7 @@
         "shopName": "CLICK & VIVA",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfwlrb4xzhfr3a",
         "productLink": "https://shopee.com.br/product/1594633180/22498752326",
-        "offerLink": "https://s.shopee.com.br/AAI7hYKPO5"
+        "offerLink": "https://s.shopee.com.br/3LRo6kJNUU"
       },
       "_last_price": null
     },
@@ -26774,7 +26802,7 @@
       "discount": 28.0,
       "commission": 16.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mm9n38usw7wn9a",
-      "link": "https://s.shopee.com.br/7KxwKH1wd4",
+      "link": "https://s.shopee.com.br/50a25dzTO6",
       "rating": "4.9",
       "sales": 6639,
       "shop": "GB Gift",
@@ -26791,7 +26819,7 @@
         "shopName": "GB Gift",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mm9n38usw7wn9a",
         "productLink": "https://shopee.com.br/product/419086451/22493344923",
-        "offerLink": "https://s.shopee.com.br/7KxwKH1wd4"
+        "offerLink": "https://s.shopee.com.br/50a25dzTO6"
       },
       "_last_price": null
     },
@@ -28246,6 +28274,35 @@
       "_last_price": null
     },
     {
+      "id": "13432704835",
+      "name": "NIVEA Creme Hidratante Lata 145g",
+      "price": 39.99,
+      "original_price": 52.62,
+      "discount": 24.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meeb6o4j241s19",
+      "link": "https://s.shopee.com.br/8V9uDPmnu1",
+      "rating": "5",
+      "sales": 1399,
+      "shop": "NIVEA OFICIAL",
+      "category": "creme facial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 13432704835,
+        "productName": "NIVEA Creme Hidratante Lata 145g",
+        "price": "39.99",
+        "priceDiscountRate": 24,
+        "commissionRate": "0.06",
+        "sales": 1399,
+        "ratingStar": "5",
+        "shopName": "NIVEA OFICIAL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meeb6o4j241s19",
+        "productLink": "https://shopee.com.br/product/502619181/13432704835",
+        "offerLink": "https://s.shopee.com.br/8V9uDPmnu1"
+      },
+      "_last_price": null
+    },
+    {
       "id": "45766835949",
       "name": "Creatina Monohidratada - Growth Supplements - Sem sabor em pó",
       "price": 59.9,
@@ -28271,6 +28328,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ai-msdjr8a5sf0k10",
         "productLink": "https://shopee.com.br/product/1876581966/45766835949",
         "offerLink": "https://s.shopee.com.br/4Vdkx0wPch"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22994269933",
+      "name": "Kit De Pesca 4 Vara E 4 Molinete Com Linha Maleta Acessórios",
+      "price": 195.47,
+      "original_price": 257.2,
+      "discount": 24.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8262d-mlgemn4x845c7c",
+      "link": "https://s.shopee.com.br/6fiFX4m91B",
+      "rating": "4.9",
+      "sales": 319,
+      "shop": "ApexVendas",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22994269933,
+        "productName": "Kit De Pesca 4 Vara E 4 Molinete Com Linha Maleta Acessórios",
+        "price": "195.47",
+        "priceDiscountRate": 24,
+        "commissionRate": "0.07",
+        "sales": 319,
+        "ratingStar": "4.9",
+        "shopName": "ApexVendas",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262d-mlgemn4x845c7c",
+        "productLink": "https://shopee.com.br/product/940287081/22994269933",
+        "offerLink": "https://s.shopee.com.br/6fiFX4m91B"
       },
       "_last_price": null
     },
@@ -28373,7 +28459,7 @@
       "rating": "4.6",
       "sales": 94,
       "shop": "Max Pescas",
-      "category": "chumbada",
+      "category": "estojo pesca",
       "source": "shopee",
       "_item": {
         "itemId": 3956922823,
@@ -28601,7 +28687,7 @@
       "discount": 23.0,
       "commission": 18.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnycnobymy2sa2",
-      "link": "https://s.shopee.com.br/6Alyw2qwcU",
+      "link": "https://s.shopee.com.br/9V2RRvD0FK",
       "rating": "4.9",
       "sales": 2575,
       "shop": "Salon Line",
@@ -28618,7 +28704,7 @@
         "shopName": "Salon Line",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnycnobymy2sa2",
         "productLink": "https://shopee.com.br/product/616222685/58210268954",
-        "offerLink": "https://s.shopee.com.br/6Alyw2qwcU"
+        "offerLink": "https://s.shopee.com.br/9V2RRvD0FK"
       },
       "_last_price": null
     },
@@ -29007,7 +29093,7 @@
       "discount": 22.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820le-mna9w8xbrbwkf7",
-      "link": "https://s.shopee.com.br/AKbXyszGfc",
+      "link": "https://s.shopee.com.br/50a25cDPaZ",
       "rating": "4.9",
       "sales": 15,
       "shop": "Tudão Tech  Ltda",
@@ -29024,7 +29110,7 @@
         "shopName": "Tudão Tech  Ltda",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mna9w8xbrbwkf7",
         "productLink": "https://shopee.com.br/product/1051446617/23198197462",
-        "offerLink": "https://s.shopee.com.br/AKbXyszGfc"
+        "offerLink": "https://s.shopee.com.br/50a25cDPaZ"
       },
       "_last_price": null
     },
@@ -29261,31 +29347,31 @@
       "_last_price": null
     },
     {
-      "id": "58263408953",
-      "name": "Kit 139 Peças Ferramentas de Pesca Alicate Multifuncional+Pegador de Peixe com Corda Anti‑Queda,Anzóis,Chumbadas,Tesoura",
-      "price": 46.99,
-      "original_price": 60.24,
+      "id": "23599155894",
+      "name": "Canivete Automatico Saque Rapido Com Trava Clip de bolso metal inox Caça Pesca Camping  Escorpiao",
+      "price": 19.88,
+      "original_price": 25.49,
       "discount": 22.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-msl1ml1y093856",
-      "link": "https://s.shopee.com.br/9fLr6dMJP4",
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-821e1-mgpknktz905p25",
+      "link": "https://s.shopee.com.br/9zyi30Fn4a",
       "rating": "4.9",
-      "sales": 104,
-      "shop": "MUNDO PRONTO LTDA",
-      "category": "chumbada",
+      "sales": 852,
+      "shop": "PANDA BROTHER BR",
+      "category": "kit pesca",
       "source": "shopee",
       "_item": {
-        "itemId": 58263408953,
-        "productName": "Kit 139 Peças Ferramentas de Pesca Alicate Multifuncional+Pegador de Peixe com Corda Anti‑Queda,Anzóis,Chumbadas,Tesoura",
-        "price": "46.99",
+        "itemId": 23599155894,
+        "productName": "Canivete Automatico Saque Rapido Com Trava Clip de bolso metal inox Caça Pesca Camping  Escorpiao",
+        "price": "19.88",
         "priceDiscountRate": 22,
-        "commissionRate": "0.11",
-        "sales": 104,
+        "commissionRate": "0.03",
+        "sales": 852,
         "ratingStar": "4.9",
-        "shopName": "MUNDO PRONTO LTDA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-msl1ml1y093856",
-        "productLink": "https://shopee.com.br/product/1567096774/58263408953",
-        "offerLink": "https://s.shopee.com.br/9fLr6dMJP4"
+        "shopName": "PANDA BROTHER BR",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821e1-mgpknktz905p25",
+        "productLink": "https://shopee.com.br/product/482975418/23599155894",
+        "offerLink": "https://s.shopee.com.br/9zyi30Fn4a"
       },
       "_last_price": null
     },
@@ -29812,35 +29898,6 @@
       "_last_price": null
     },
     {
-      "id": "22498827883",
-      "name": "Cabo De Força Cpu Atx Computador Pc Monitor 3 Pinos novo padrão 10A Tripolar Fonte",
-      "price": 11.99,
-      "original_price": 14.99,
-      "discount": 20.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvq-mdl8z1k4xiokab",
-      "link": "https://s.shopee.com.br/9zyhaH0XLa",
-      "rating": "4.9",
-      "sales": 81,
-      "shop": "D.J Imports",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22498827883,
-        "productName": "Cabo De Força Cpu Atx Computador Pc Monitor 3 Pinos novo padrão 10A Tripolar Fonte",
-        "price": "11.99",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.03",
-        "sales": 81,
-        "ratingStar": "4.9",
-        "shopName": "D.J Imports",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvq-mdl8z1k4xiokab",
-        "productLink": "https://shopee.com.br/product/358069106/22498827883",
-        "offerLink": "https://s.shopee.com.br/9zyhaH0XLa"
-      },
-      "_last_price": null
-    },
-    {
       "id": "48310051443",
       "name": "Kit 2 Sabão em Pó Lava Roupas Profissional Max Essence ARES 800g",
       "price": 15.9,
@@ -30247,31 +30304,89 @@
       "_last_price": null
     },
     {
-      "id": "22893504865",
-      "name": "Vara  Joker  telescopica  varias cores e medidas",
-      "price": 20.89,
-      "original_price": 26.11,
+      "id": "23897974382",
+      "name": "Kit 02 Vara Telescópica Gomo Longo JP Traira 4,00m Verde Jaú Pesca",
+      "price": 109.99,
+      "original_price": 137.49,
       "discount": 20.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbgsu2l31hped9",
-      "link": "https://s.shopee.com.br/80Dd7YtOJv",
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mp81hdt5r0g1b5",
+      "link": "https://s.shopee.com.br/3B8NuRK0pN",
       "rating": "4.8",
-      "sales": 378,
-      "shop": "O Recanto da Pesca e Variedades",
+      "sales": 126,
+      "shop": "JAUPESCA",
       "category": "vara telescopica",
       "source": "shopee",
       "_item": {
-        "itemId": 22893504865,
-        "productName": "Vara  Joker  telescopica  varias cores e medidas",
-        "price": "20.89",
+        "itemId": 23897974382,
+        "productName": "Kit 02 Vara Telescópica Gomo Longo JP Traira 4,00m Verde Jaú Pesca",
+        "price": "109.99",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.07",
+        "sales": 126,
+        "ratingStar": "4.8",
+        "shopName": "JAUPESCA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mp81hdt5r0g1b5",
+        "productLink": "https://shopee.com.br/product/954428278/23897974382",
+        "offerLink": "https://s.shopee.com.br/3B8NuRK0pN"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58219670723",
+      "name": "Kit Completo Molinete de Pesca Vara Telescopica 1,80 Isca Artificial Anzol Boia Chumbada Maleta Top.",
+      "price": 146.9,
+      "original_price": 183.62,
+      "discount": 20.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mtv6xxazinszac",
+      "link": "https://s.shopee.com.br/50a25ouxfz",
+      "rating": "0",
+      "sales": 0,
+      "shop": "LUCILIO_STORE",
+      "category": "chumbada",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58219670723,
+        "productName": "Kit Completo Molinete de Pesca Vara Telescopica 1,80 Isca Artificial Anzol Boia Chumbada Maleta Top.",
+        "price": "146.9",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.07",
+        "sales": 0,
+        "ratingStar": "0",
+        "shopName": "LUCILIO_STORE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtv6xxazinszac",
+        "productLink": "https://shopee.com.br/product/559022504/58219670723",
+        "offerLink": "https://s.shopee.com.br/50a25ouxfz"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "51465361574",
+      "name": "Dr.Fish Chumbadas Cannonball para Pesca em Água Salgada, Pesos de Pesca de Chumbo, Chumbadas Esféricas Redondas, Pesos p",
+      "price": 89.6,
+      "original_price": 112.0,
+      "discount": 20.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8258v-mrg2be7y0pol5b",
+      "link": "https://s.shopee.com.br/3B8NuS1wOg",
+      "rating": "0",
+      "sales": 0,
+      "shop": "ZWmld7781.br",
+      "category": "chumbada",
+      "source": "shopee",
+      "_item": {
+        "itemId": 51465361574,
+        "productName": "Dr.Fish Chumbadas Cannonball para Pesca em Água Salgada, Pesos de Pesca de Chumbo, Chumbadas Esféricas Redondas, Pesos p",
+        "price": "89.6",
         "priceDiscountRate": 20,
         "commissionRate": "0.03",
-        "sales": 378,
-        "ratingStar": "4.8",
-        "shopName": "O Recanto da Pesca e Variedades",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbgsu2l31hped9",
-        "productLink": "https://shopee.com.br/product/337645667/22893504865",
-        "offerLink": "https://s.shopee.com.br/80Dd7YtOJv"
+        "sales": 0,
+        "ratingStar": "0",
+        "shopName": "ZWmld7781.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258v-mrg2be7y0pol5b",
+        "productLink": "https://shopee.com.br/product/1907353356/51465361574",
+        "offerLink": "https://s.shopee.com.br/3B8NuS1wOg"
       },
       "_last_price": null
     },
@@ -30620,35 +30735,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mpkuzmn5fgu9e3",
         "productLink": "https://shopee.com.br/product/1743232382/57912372907",
         "offerLink": "https://s.shopee.com.br/9zyhVCZSG1"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "6957639501",
-      "name": "Kit Pesca Esportiva Chumbada Anzol Giradores e Boias Sino e Linha",
-      "price": 43.73,
-      "original_price": 53.99,
-      "discount": 19.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb5cgpue0m8f54",
-      "link": "https://s.shopee.com.br/7KxwKLVC8G",
-      "rating": "4.9",
-      "sales": 226,
-      "shop": "Summer Pesca e Camping",
-      "category": "chumbada",
-      "source": "shopee",
-      "_item": {
-        "itemId": 6957639501,
-        "productName": "Kit Pesca Esportiva Chumbada Anzol Giradores e Boias Sino e Linha",
-        "price": "43.73",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.07",
-        "sales": 226,
-        "ratingStar": "4.9",
-        "shopName": "Summer Pesca e Camping",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb5cgpue0m8f54",
-        "productLink": "https://shopee.com.br/product/320275364/6957639501",
-        "offerLink": "https://s.shopee.com.br/7KxwKLVC8G"
       },
       "_last_price": null
     },
@@ -31327,7 +31413,7 @@
       "discount": 17.0,
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6dzgmcihqvb27",
-      "link": "https://s.shopee.com.br/3g4dxSr3Ip",
+      "link": "https://s.shopee.com.br/113tKJrkwt",
       "rating": "4.9",
       "sales": 2973,
       "shop": "PREEPFULL",
@@ -31344,7 +31430,7 @@
         "shopName": "PREEPFULL",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6dzgmcihqvb27",
         "productLink": "https://shopee.com.br/product/1478073248/23298210857",
-        "offerLink": "https://s.shopee.com.br/3g4dxSr3Ip"
+        "offerLink": "https://s.shopee.com.br/113tKJrkwt"
       },
       "_last_price": null
     },
@@ -32041,35 +32127,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40puqy94uut81",
         "productLink": "https://shopee.com.br/product/534023108/11051183096",
         "offerLink": "https://s.shopee.com.br/9APaVWxizE"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23593572198",
-      "name": "Carrinho Rolimã Zig Zag Car 360 Roda Led Infantil - Castela",
-      "price": 217.99,
-      "original_price": 256.46,
-      "discount": 15.0,
-      "commission": 15.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekctgxrndogf4",
-      "link": "https://s.shopee.com.br/2Vsgz8V8Ki",
-      "rating": "4.8",
-      "sales": 1638,
-      "shop": "Mais Barato Brinquedos",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23593572198,
-        "productName": "Carrinho Rolimã Zig Zag Car 360 Roda Led Infantil - Castela",
-        "price": "217.99",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.15",
-        "sales": 1638,
-        "ratingStar": "4.8",
-        "shopName": "Mais Barato Brinquedos",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekctgxrndogf4",
-        "productLink": "https://shopee.com.br/product/446413605/23593572198",
-        "offerLink": "https://s.shopee.com.br/2Vsgz8V8Ki"
       },
       "_last_price": null
     },
