@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T09:34:56.780280+00:00",
+  "updated_at": "2026-10-22T09:53:49.623194+00:00",
   "total": 1123,
   "products": [
     {
@@ -3199,7 +3199,7 @@
       "original_price": 60.27,
       "discount": 70.0,
       "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m4-muiv6zvdmv424a",
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mulgem64qdq8b8",
       "link": "https://s.shopee.com.br/4qGbKUEt9c",
       "rating": "4.9",
       "sales": 202,
@@ -3215,7 +3215,7 @@
         "sales": 202,
         "ratingStar": "4.9",
         "shopName": "CASA MISTA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-muiv6zvdmv424a",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mulgem64qdq8b8",
         "productLink": "https://shopee.com.br/product/1830268167/58264610515",
         "offerLink": "https://s.shopee.com.br/4qGbKUEt9c"
       },
@@ -9308,35 +9308,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262c-mlg5gcvz3dvk0b",
         "productLink": "https://shopee.com.br/product/1259153662/53706778003",
         "offerLink": "https://s.shopee.com.br/2BFqAdlBB2"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "55856646958",
-      "name": "Basike Teclado Mecânico Modo triplo，RGB Switches vermelhos Teclado mecânico Design ergonômico Com visor digital，key391",
-      "price": 373.99,
-      "original_price": 831.09,
-      "discount": 55.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mnxrx1gvgsn6b6",
-      "link": "https://s.shopee.com.br/6fiFWulmeG",
-      "rating": "5",
-      "sales": 394,
-      "shop": "Basike Loja Oficial",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 55856646958,
-        "productName": "Basike Teclado Mecânico Modo triplo，RGB Switches vermelhos Teclado mecânico Design ergonômico Com visor digital，key391",
-        "price": "373.99",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.13",
-        "sales": 394,
-        "ratingStar": "5",
-        "shopName": "Basike Loja Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mnxrx1gvgsn6b6",
-        "productLink": "https://shopee.com.br/product/1371911195/55856646958",
-        "offerLink": "https://s.shopee.com.br/6fiFWulmeG"
       },
       "_last_price": null
     },
@@ -18385,6 +18356,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mpgpxk9puxvl8e",
         "productLink": "https://shopee.com.br/product/844886591/58262473611",
         "offerLink": "https://s.shopee.com.br/113smUpcXz"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "55856646958",
+      "name": "Basike Teclado Mecânico Modo triplo，RGB Switches vermelhos Teclado mecânico Design ergonômico Com visor digital，key391",
+      "price": 489.99,
+      "original_price": 844.81,
+      "discount": 42.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mnxrx1gvgsn6b6",
+      "link": "https://s.shopee.com.br/6fiFWulmeG",
+      "rating": "5",
+      "sales": 394,
+      "shop": "Basike Loja Oficial",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 55856646958,
+        "productName": "Basike Teclado Mecânico Modo triplo，RGB Switches vermelhos Teclado mecânico Design ergonômico Com visor digital，key391",
+        "price": "489.99",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.13",
+        "sales": 394,
+        "ratingStar": "5",
+        "shopName": "Basike Loja Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mnxrx1gvgsn6b6",
+        "productLink": "https://shopee.com.br/product/1371911195/55856646958",
+        "offerLink": "https://s.shopee.com.br/6fiFWulmeG"
       },
       "_last_price": null
     },
