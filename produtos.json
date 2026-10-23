@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T18:37:57.304756+00:00",
+  "updated_at": "2026-10-23T18:57:32.898624+00:00",
   "total": 1133,
   "products": [
     {
@@ -1879,7 +1879,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m16zhf1ljn7yae",
         "productLink": "https://shopee.com.br/product/451332066/23793414141",
         "offerLink": "https://s.shopee.com.br/8pmk70J2bK"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23592921540",
@@ -2196,8 +2197,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mt995huwzmdcf3",
         "productLink": "https://shopee.com.br/product/918530496/58217124419",
         "offerLink": "https://s.shopee.com.br/9V2T1JBLGx"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58214178007",
@@ -6046,6 +6046,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zr-mklbm2prptdx7f",
         "productLink": "https://shopee.com.br/product/664761873/21998128832",
         "offerLink": "https://s.shopee.com.br/4LKMrYt8xI"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "45468100867",
+      "name": "Mini Jesus Sentado Decorativo Oratório Para Monitor Mesa Prateleira Nicho Carro Kit",
+      "price": 11.87,
+      "original_price": 31.24,
+      "discount": 62.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mte3hafgagw306",
+      "link": "https://s.shopee.com.br/113smUY5eq",
+      "rating": "4.6",
+      "sales": 2909,
+      "shop": "ALFA 3D",
+      "category": "monitor",
+      "source": "shopee",
+      "_item": {
+        "itemId": 45468100867,
+        "productName": "Mini Jesus Sentado Decorativo Oratório Para Monitor Mesa Prateleira Nicho Carro Kit",
+        "price": "11.87",
+        "priceDiscountRate": 62,
+        "commissionRate": "0.13",
+        "sales": 2909,
+        "ratingStar": "4.6",
+        "shopName": "ALFA 3D",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mte3hafgagw306",
+        "productLink": "https://shopee.com.br/product/1161608606/45468100867",
+        "offerLink": "https://s.shopee.com.br/113smUY5eq"
       },
       "_last_price": null
     },
@@ -10479,35 +10508,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkioznekh91dcd",
         "productLink": "https://shopee.com.br/product/1719286529/58202972742",
         "offerLink": "https://s.shopee.com.br/1BNIxjtiXh"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "45468100867",
-      "name": "Mini Jesus Sentado Decorativo Oratório Para Monitor Mesa Prateleira Nicho Carro Kit",
-      "price": 11.87,
-      "original_price": 25.8,
-      "discount": 54.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mte3hafgagw306",
-      "link": "https://s.shopee.com.br/113smUY5eq",
-      "rating": "4.6",
-      "sales": 2909,
-      "shop": "ALFA 3D",
-      "category": "monitor",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45468100867,
-        "productName": "Mini Jesus Sentado Decorativo Oratório Para Monitor Mesa Prateleira Nicho Carro Kit",
-        "price": "11.87",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.13",
-        "sales": 2909,
-        "ratingStar": "4.6",
-        "shopName": "ALFA 3D",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mte3hafgagw306",
-        "productLink": "https://shopee.com.br/product/1161608606/45468100867",
-        "offerLink": "https://s.shopee.com.br/113smUY5eq"
       },
       "_last_price": null
     },
@@ -21337,7 +21337,7 @@
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-821ec-mha4mjvl7evjb4",
       "link": "https://s.shopee.com.br/gR4V12Fq1",
-      "rating": "4.7",
+      "rating": "4.8",
       "sales": 222,
       "shop": "MEDOOSI-BR",
       "category": "isca artificial",
@@ -21349,7 +21349,7 @@
         "priceDiscountRate": 38,
         "commissionRate": "0.09",
         "sales": 222,
-        "ratingStar": "4.7",
+        "ratingStar": "4.8",
         "shopName": "MEDOOSI-BR",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ec-mha4mjvl7evjb4",
         "productLink": "https://shopee.com.br/product/1257233492/23599169119",
