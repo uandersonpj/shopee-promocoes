@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T04:11:28.490007+00:00",
-  "total": 1124,
+  "updated_at": "2026-10-23T04:30:16.235889+00:00",
+  "total": 1123,
   "products": [
     {
       "id": "58210104632",
@@ -401,7 +401,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mqpooz7upybn93",
         "productLink": "https://shopee.com.br/product/1761472573/23699424696",
         "offerLink": "https://s.shopee.com.br/7famixyj2f"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58258026087",
@@ -12429,35 +12430,6 @@
       "_last_price": null
     },
     {
-      "id": "58215149908",
-      "name": "Ração Para Cachorro Filhote 10,1kg Todas As Raças",
-      "price": 67.99,
-      "original_price": 138.76,
-      "discount": 51.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mr7n4xtiuz9g70",
-      "link": "https://s.shopee.com.br/1gJaILQtAV",
-      "rating": "4.9",
-      "sales": 500,
-      "shop": "FASTACTION",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58215149908,
-        "productName": "Ração Para Cachorro Filhote 10,1kg Todas As Raças",
-        "price": "67.99",
-        "priceDiscountRate": 51,
-        "commissionRate": "0.03",
-        "sales": 500,
-        "ratingStar": "4.9",
-        "shopName": "FASTACTION",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mr7n4xtiuz9g70",
-        "productLink": "https://shopee.com.br/product/800097091/58215149908",
-        "offerLink": "https://s.shopee.com.br/1gJaILQtAV"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22993048849",
       "name": "Forma De airfryer Papel Descartável Redondo Antiaderente Papel",
       "price": 13.59,
@@ -14890,6 +14862,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxtrwh5co6gv6b",
         "productLink": "https://shopee.com.br/product/378555563/18597631235",
         "offerLink": "https://s.shopee.com.br/9zyhV8Afgs"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23598569219",
+      "name": "Ração Golden Special Gatos Castrados Frango e Carne 3kg",
+      "price": 52.36,
+      "original_price": 100.69,
+      "discount": 48.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqinehfc",
+      "link": "https://s.shopee.com.br/4qGcdEq01Y",
+      "rating": "4.9",
+      "sales": 1084,
+      "shop": "SPN MARKET",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23598569219,
+        "productName": "Ração Golden Special Gatos Castrados Frango e Carne 3kg",
+        "price": "52.36",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.03",
+        "sales": 1084,
+        "ratingStar": "4.9",
+        "shopName": "SPN MARKET",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maloapdqinehfc",
+        "productLink": "https://shopee.com.br/product/1501485889/23598569219",
+        "offerLink": "https://s.shopee.com.br/4qGcdEq01Y"
       },
       "_last_price": null
     },
@@ -24576,35 +24577,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mr1zwjey4vt02e",
         "productLink": "https://shopee.com.br/product/1571276714/58262965447",
         "offerLink": "https://s.shopee.com.br/70L5vcdlAa"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22202389512",
-      "name": "Caixa 18un Ração Úmida Granplus Sache Gato Adulto Atum 85g",
-      "price": 49.9,
-      "original_price": 73.38,
-      "discount": 32.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1plzu4dymmgae",
-      "link": "https://s.shopee.com.br/5fpjvmuKue",
-      "rating": "5",
-      "sales": 1554,
-      "shop": "Popular Pet",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22202389512,
-        "productName": "Caixa 18un Ração Úmida Granplus Sache Gato Adulto Atum 85g",
-        "price": "49.9",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.06",
-        "sales": 1554,
-        "ratingStar": "5",
-        "shopName": "Popular Pet",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1plzu4dymmgae",
-        "productLink": "https://shopee.com.br/product/398944029/22202389512",
-        "offerLink": "https://s.shopee.com.br/5fpjvmuKue"
       },
       "_last_price": null
     },
