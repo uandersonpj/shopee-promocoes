@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T07:18:33.399610+00:00",
-  "total": 1123,
+  "updated_at": "2026-10-23T07:37:19.703286+00:00",
+  "total": 1124,
   "products": [
     {
       "id": "58210104632",
@@ -173,7 +173,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m94jsi5hwaol47",
         "productLink": "https://shopee.com.br/product/1127030290/23593603405",
         "offerLink": "https://s.shopee.com.br/1qczm1Uuxx"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49207406104",
@@ -838,7 +839,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm5-lln14dkqwcs917",
         "productLink": "https://shopee.com.br/product/504210070/22492388439",
         "offerLink": "https://s.shopee.com.br/70L5vjjWgy"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49165555882",
@@ -12434,6 +12436,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134202-8259u-mqg8iqhcojdac4",
         "productLink": "https://shopee.com.br/product/1643101321/23799559042",
         "offerLink": "https://s.shopee.com.br/6fiFX0f1qY"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58215149908",
+      "name": "Ração Para Cachorro Filhote 10,1kg Todas As Raças",
+      "price": 67.99,
+      "original_price": 138.76,
+      "discount": 51.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mr7n4xtiuz9g70",
+      "link": "https://s.shopee.com.br/1gJaILQtAV",
+      "rating": "4.9",
+      "sales": 500,
+      "shop": "FASTACTION",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58215149908,
+        "productName": "Ração Para Cachorro Filhote 10,1kg Todas As Raças",
+        "price": "67.99",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.03",
+        "sales": 500,
+        "ratingStar": "4.9",
+        "shopName": "FASTACTION",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mr7n4xtiuz9g70",
+        "productLink": "https://shopee.com.br/product/800097091/58215149908",
+        "offerLink": "https://s.shopee.com.br/1gJaILQtAV"
       },
       "_last_price": null
     },
