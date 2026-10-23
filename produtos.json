@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T05:26:08.655768+00:00",
-  "total": 1123,
+  "updated_at": "2026-10-23T05:44:50.222394+00:00",
+  "total": 1122,
   "products": [
     {
       "id": "58210104632",
@@ -229,7 +229,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mujs767pyo7478",
         "productLink": "https://shopee.com.br/product/427457955/49466540071",
         "offerLink": "https://s.shopee.com.br/3qO49kQQIt"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "55508691646",
@@ -13448,6 +13449,35 @@
       "_last_price": null
     },
     {
+      "id": "19097634729",
+      "name": "Kit 2 Shampoo World Veterinária Dug's Clorexidina Cães & Gatos - 500 mL",
+      "price": 22.22,
+      "original_price": 44.44,
+      "discount": 50.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgi014tk7j0n3d",
+      "link": "https://s.shopee.com.br/3B8NMWkhNE",
+      "rating": "4.9",
+      "sales": 3062,
+      "shop": "mypetone",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19097634729,
+        "productName": "Kit 2 Shampoo World Veterinária Dug's Clorexidina Cães & Gatos - 500 mL",
+        "price": "22.22",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.11",
+        "sales": 3062,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgi014tk7j0n3d",
+        "productLink": "https://shopee.com.br/product/290073877/19097634729",
+        "offerLink": "https://s.shopee.com.br/3B8NMWkhNE"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58261057993",
       "name": "BODY SPLASH PERFUME - HOMEM, ZAAD, LILY",
       "price": 9.9,
@@ -13914,8 +13944,8 @@
     {
       "id": "58208651523",
       "name": "FW Carretel Molinete Dc 2000-7000 Pesca Pesada 10kg Grande 5.2:1 carretilha de pesca",
-      "price": 68.0,
-      "original_price": 136.0,
+      "price": 47.0,
+      "original_price": 94.0,
       "discount": 50.0,
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mmwowl4dclc051",
@@ -13928,7 +13958,7 @@
       "_item": {
         "itemId": 58208651523,
         "productName": "FW Carretel Molinete Dc 2000-7000 Pesca Pesada 10kg Grande 5.2:1 carretilha de pesca",
-        "price": "68",
+        "price": "47",
         "priceDiscountRate": 50,
         "commissionRate": "0.11",
         "sales": 121,
@@ -20607,35 +20637,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82616-ml1891o6hm2re9",
         "productLink": "https://shopee.com.br/product/1888155578/58215093163",
         "offerLink": "https://s.shopee.com.br/30oxADTazm"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23798836546",
-      "name": "Suporte Prateleira Porta Shampoo Organizador De Canto Com Adesivo",
-      "price": 30.99,
-      "original_price": 49.98,
-      "discount": 38.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mo8a0oxibbb83d",
-      "link": "https://s.shopee.com.br/7AeW7sVTG8",
-      "rating": "4.8",
-      "sales": 2829,
-      "shop": "HEXUN SHOP",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23798836546,
-        "productName": "Suporte Prateleira Porta Shampoo Organizador De Canto Com Adesivo",
-        "price": "30.99",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.03",
-        "sales": 2829,
-        "ratingStar": "4.8",
-        "shopName": "HEXUN SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mo8a0oxibbb83d",
-        "productLink": "https://shopee.com.br/product/1515741369/23798836546",
-        "offerLink": "https://s.shopee.com.br/7AeW7sVTG8"
       },
       "_last_price": null
     },
@@ -28959,35 +28960,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259m-mujbjroyhzi94b",
         "productLink": "https://shopee.com.br/product/270541776/23397665026",
         "offerLink": "https://s.shopee.com.br/4qGbLXJUsl"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23198197462",
-      "name": "Fonte Atx 500w Brazilpc Bpc/5350-m 24 Pinos Box",
-      "price": 92.9,
-      "original_price": 119.1,
-      "discount": 22.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mna9w8xbrbwkf7",
-      "link": "https://s.shopee.com.br/50a25cDPaZ",
-      "rating": "4.9",
-      "sales": 18,
-      "shop": "Tudão Tech  Ltda",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23198197462,
-        "productName": "Fonte Atx 500w Brazilpc Bpc/5350-m 24 Pinos Box",
-        "price": "92.9",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.03",
-        "sales": 18,
-        "ratingStar": "4.9",
-        "shopName": "Tudão Tech  Ltda",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mna9w8xbrbwkf7",
-        "productLink": "https://shopee.com.br/product/1051446617/23198197462",
-        "offerLink": "https://s.shopee.com.br/50a25cDPaZ"
       },
       "_last_price": null
     },
