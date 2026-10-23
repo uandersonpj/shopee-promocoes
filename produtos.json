@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T03:34:04.060715+00:00",
+  "updated_at": "2026-10-23T03:52:48.204266+00:00",
   "total": 1124,
   "products": [
     {
@@ -976,7 +976,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mu0tycy1648x73",
         "productLink": "https://shopee.com.br/product/1298416721/23399029450",
         "offerLink": "https://s.shopee.com.br/5AtRkLHmSN"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "29293277544",
@@ -27043,35 +27044,6 @@
       "_last_price": null
     },
     {
-      "id": "20799325352",
-      "name": "Shampoo Clorexidina Sabonete Clorexidina ou Shampoo Antiparasitario 500mL world para Cães e Gatos",
-      "price": 8.88,
-      "original_price": 12.16,
-      "discount": 27.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwo-lxlkc48y5z0qbe",
-      "link": "https://s.shopee.com.br/4B0uYMgtLK",
-      "rating": "4.9",
-      "sales": 4081,
-      "shop": "mypetone",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20799325352,
-        "productName": "Shampoo Clorexidina Sabonete Clorexidina ou Shampoo Antiparasitario 500mL world para Cães e Gatos",
-        "price": "8.88",
-        "priceDiscountRate": 27,
-        "commissionRate": "0.11",
-        "sales": 4081,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwo-lxlkc48y5z0qbe",
-        "productLink": "https://shopee.com.br/product/290073877/20799325352",
-        "offerLink": "https://s.shopee.com.br/4B0uYMgtLK"
-      },
-      "_last_price": null
-    },
-    {
       "id": "44763955954",
       "name": "Ração Cachorro Premium 5kg Amor Dog Carne 18% Proteina Adulto Todas Raças",
       "price": 26.07,
@@ -27648,6 +27620,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mitoejy7cuf53b",
         "productLink": "https://shopee.com.br/product/1547852317/58202494237",
         "offerLink": "https://s.shopee.com.br/2LZH1TYlaP"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20799325352",
+      "name": "Shampoo Clorexidina Sabonete Clorexidina ou Shampoo Antiparasitario 500mL world para Cães e Gatos",
+      "price": 8.88,
+      "original_price": 11.84,
+      "discount": 25.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwo-lxlkc48y5z0qbe",
+      "link": "https://s.shopee.com.br/4B0uYMgtLK",
+      "rating": "4.9",
+      "sales": 4081,
+      "shop": "mypetone",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20799325352,
+        "productName": "Shampoo Clorexidina Sabonete Clorexidina ou Shampoo Antiparasitario 500mL world para Cães e Gatos",
+        "price": "8.88",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.11",
+        "sales": 4081,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwo-lxlkc48y5z0qbe",
+        "productLink": "https://shopee.com.br/product/290073877/20799325352",
+        "offerLink": "https://s.shopee.com.br/4B0uYMgtLK"
       },
       "_last_price": null
     },
