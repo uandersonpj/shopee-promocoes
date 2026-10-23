@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T04:48:51.820377+00:00",
+  "updated_at": "2026-10-23T05:07:29.844549+00:00",
   "total": 1123,
   "products": [
     {
@@ -2310,7 +2310,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/38f05806d01ed654d61cc598c39391ee",
         "productLink": "https://shopee.com.br/product/769957349/17370976709",
         "offerLink": "https://s.shopee.com.br/3g4dxZoQlt"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "18617064006",
@@ -3757,35 +3758,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-23020-s1jr09pmaxnva4",
         "productLink": "https://shopee.com.br/product/754127588/23026990667",
         "offerLink": "https://s.shopee.com.br/6fiFX5d0gK"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58255656605",
-      "name": "Estilingue de Pesca Profissional com apoio de pulso preto MT073 (4)",
-      "price": 15.89,
-      "original_price": 49.66,
-      "discount": 68.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82616-ml2clmr46gao12",
-      "link": "https://s.shopee.com.br/6AlzTxUNqz",
-      "rating": "4.8",
-      "sales": 531,
-      "shop": "STUDIO.Tudo",
-      "category": "kit pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58255656605,
-        "productName": "Estilingue de Pesca Profissional com apoio de pulso preto MT073 (4)",
-        "price": "15.89",
-        "priceDiscountRate": 68,
-        "commissionRate": "0.03",
-        "sales": 531,
-        "ratingStar": "4.8",
-        "shopName": "STUDIO.Tudo",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82616-ml2clmr46gao12",
-        "productLink": "https://shopee.com.br/product/475104620/58255656605",
-        "offerLink": "https://s.shopee.com.br/6AlzTxUNqz"
       },
       "_last_price": null
     },
@@ -6291,7 +6263,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mtz23drmeh3613",
       "link": "https://s.shopee.com.br/AAI7hLGiwq",
-      "rating": "4.7",
+      "rating": "4.6",
       "sales": 78,
       "shop": "TXB TECH LTDA",
       "category": "roteador wifi",
@@ -6303,7 +6275,7 @@
         "priceDiscountRate": 61,
         "commissionRate": "0.03",
         "sales": 78,
-        "ratingStar": "4.7",
+        "ratingStar": "4.6",
         "shopName": "TXB TECH LTDA",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtz23drmeh3613",
         "productLink": "https://shopee.com.br/product/1593878986/58269834909",
@@ -15186,6 +15158,35 @@
       "_last_price": null
     },
     {
+      "id": "22198950257",
+      "name": "Boia infantil de natação colete flutuante de 1 a 6 anos Nova Promoção Com Trave De Segurança",
+      "price": 27.56,
+      "original_price": 53.0,
+      "discount": 48.0,
+      "commission": 20.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mm1x29cyrxfkc5",
+      "link": "https://s.shopee.com.br/40hUMCMDp2",
+      "rating": "4.8",
+      "sales": 665,
+      "shop": "LOJA Celt 05",
+      "category": "colete salva vidas",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22198950257,
+        "productName": "Boia infantil de natação colete flutuante de 1 a 6 anos Nova Promoção Com Trave De Segurança",
+        "price": "27.56",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.2",
+        "sales": 665,
+        "ratingStar": "4.8",
+        "shopName": "LOJA Celt 05",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mm1x29cyrxfkc5",
+        "productLink": "https://shopee.com.br/product/1619868980/22198950257",
+        "offerLink": "https://s.shopee.com.br/40hUMCMDp2"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19499542961",
       "name": "Colete De Natação Infantil Boia Salva Vidas Inflável Ideal Praia e Piscina Trava de Segurança Resistente",
       "price": 12.99,
@@ -15762,35 +15763,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7azorh5y4i4dd",
         "productLink": "https://shopee.com.br/product/1619868980/22294439852",
         "offerLink": "https://s.shopee.com.br/6VOpKnChkV"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22198950257",
-      "name": "Boia infantil de natação colete flutuante de 1 a 6 anos Nova Promoção Com Trave De Segurança",
-      "price": 28.0,
-      "original_price": 52.83,
-      "discount": 47.0,
-      "commission": 20.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mm1x29cyrxfkc5",
-      "link": "https://s.shopee.com.br/40hUMCMDp2",
-      "rating": "4.8",
-      "sales": 665,
-      "shop": "LOJA Celt 05",
-      "category": "colete salva vidas",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22198950257,
-        "productName": "Boia infantil de natação colete flutuante de 1 a 6 anos Nova Promoção Com Trave De Segurança",
-        "price": "28",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.2",
-        "sales": 665,
-        "ratingStar": "4.8",
-        "shopName": "LOJA Celt 05",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mm1x29cyrxfkc5",
-        "productLink": "https://shopee.com.br/product/1619868980/22198950257",
-        "offerLink": "https://s.shopee.com.br/40hUMCMDp2"
       },
       "_last_price": null
     },
@@ -20402,6 +20374,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7m8vni9x7roa2",
         "productLink": "https://shopee.com.br/product/908041635/23398336644",
         "offerLink": "https://s.shopee.com.br/W7cBiAMMy"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "42110429390",
+      "name": "Kit De Luxo Incluindo Vara De Pesca De 1.8 M , Carretel Com Roda Giratória E 35 Acessórios De Isca",
+      "price": 42.0,
+      "original_price": 68.85,
+      "discount": 39.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkc1gjt1xc606",
+      "link": "https://s.shopee.com.br/2gC6llVMTk",
+      "rating": "4.7",
+      "sales": 1068,
+      "shop": "Loja DMJ",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42110429390,
+        "productName": "Kit De Luxo Incluindo Vara De Pesca De 1.8 M , Carretel Com Roda Giratória E 35 Acessórios De Isca",
+        "price": "42",
+        "priceDiscountRate": 39,
+        "commissionRate": "0.13",
+        "sales": 1068,
+        "ratingStar": "4.7",
+        "shopName": "Loja DMJ",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkc1gjt1xc606",
+        "productLink": "https://shopee.com.br/product/1362613415/42110429390",
+        "offerLink": "https://s.shopee.com.br/2gC6llVMTk"
       },
       "_last_price": null
     },
@@ -26449,7 +26450,7 @@
       "rating": "4.9",
       "sales": 328,
       "shop": "ApexVendas",
-      "category": "vara de pesca",
+      "category": "molinete pesca",
       "source": "shopee",
       "_item": {
         "itemId": 22994269933,
