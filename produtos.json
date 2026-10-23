@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T15:59:53.844972+00:00",
-  "total": 1130,
+  "updated_at": "2026-10-23T16:19:31.451081+00:00",
+  "total": 1131,
   "products": [
     {
       "id": "58210104632",
@@ -3902,7 +3902,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
         "productLink": "https://shopee.com.br/product/1006215031/25074712287",
         "offerLink": "https://s.shopee.com.br/6VOpKmde1H"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23026990667",
@@ -8828,8 +8829,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ak-mr2mf79003yaa5",
         "productLink": "https://shopee.com.br/product/1741533420/22799618638",
         "offerLink": "https://s.shopee.com.br/3g4ebzsKpP"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22298882024",
@@ -17039,8 +17039,8 @@
     {
       "id": "22292456152",
       "name": "Cafeteira Italiana Inox Moka 3/6/9/12 Xícaras Alumínio Café Puro Vários Tamanhos",
-      "price": 40.88,
-      "original_price": 74.33,
+      "price": 49.88,
+      "original_price": 90.69,
       "discount": 45.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mnwh7y4dd7gh7d",
@@ -17053,7 +17053,7 @@
       "_item": {
         "itemId": 22292456152,
         "productName": "Cafeteira Italiana Inox Moka 3/6/9/12 Xícaras Alumínio Café Puro Vários Tamanhos",
-        "price": "40.88",
+        "price": "49.88",
         "priceDiscountRate": 45,
         "commissionRate": "0.03",
         "sales": 2010,
@@ -27560,6 +27560,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mr0bk1tj3eo755",
         "productLink": "https://shopee.com.br/product/1388709282/22798642389",
         "offerLink": "https://s.shopee.com.br/9pfHIqWpgB"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23099169510",
+      "name": "Kit Liquidificador 550W Turbo Power L-99-FB + Batedeira 400W Prática - B-44-B Mondial",
+      "price": 229.9,
+      "original_price": 310.68,
+      "discount": 26.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825b8-msauhkcaes5i2c",
+      "link": "https://s.shopee.com.br/5VWKPEj5IR",
+      "rating": "4.9",
+      "sales": 935,
+      "shop": "Dutra Máquinas",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23099169510,
+        "productName": "Kit Liquidificador 550W Turbo Power L-99-FB + Batedeira 400W Prática - B-44-B Mondial",
+        "price": "229.9",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.07",
+        "sales": 935,
+        "ratingStar": "4.9",
+        "shopName": "Dutra Máquinas",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b8-msauhkcaes5i2c",
+        "productLink": "https://shopee.com.br/product/489001115/23099169510",
+        "offerLink": "https://s.shopee.com.br/5VWKPEj5IR"
       },
       "_last_price": null
     },
