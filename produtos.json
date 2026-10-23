@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T06:59:47.921301+00:00",
+  "updated_at": "2026-10-23T07:18:33.399610+00:00",
   "total": 1123,
   "products": [
     {
@@ -635,7 +635,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
         "productLink": "https://shopee.com.br/product/344381236/57911938287",
         "offerLink": "https://s.shopee.com.br/gR2T7a4HJ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21897981294",
@@ -11360,35 +11361,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mqysjc3ln0nb37",
         "productLink": "https://shopee.com.br/product/1627792845/47214406847",
         "offerLink": "https://s.shopee.com.br/9pfHIkQO4v"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22094256738",
-      "name": "Base Líquida Amaciante Concentrada 100ml Faz 20 litros perfumada tipo DOWNYEX",
-      "price": 13.9,
-      "original_price": 28.96,
-      "discount": 52.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mck45f2lr6khb7",
-      "link": "https://s.shopee.com.br/60SYjhwZyw",
-      "rating": "4.8",
-      "sales": 1734,
-      "shop": "WCM SHOP",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22094256738,
-        "productName": "Base Líquida Amaciante Concentrada 100ml Faz 20 litros perfumada tipo DOWNYEX",
-        "price": "13.9",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.08",
-        "sales": 1734,
-        "ratingStar": "4.8",
-        "shopName": "WCM SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mck45f2lr6khb7",
-        "productLink": "https://shopee.com.br/product/287703953/22094256738",
-        "offerLink": "https://s.shopee.com.br/60SYjhwZyw"
       },
       "_last_price": null
     },
@@ -27227,6 +27199,35 @@
       "_last_price": null
     },
     {
+      "id": "58264341462",
+      "name": "Kit coala Laundry Orquídea Negra - 1 Lava Roupas 3L + 1 Amaciante Concentrado 1L",
+      "price": 49.9,
+      "original_price": 67.43,
+      "discount": 26.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mrj6irz01z4409",
+      "link": "https://s.shopee.com.br/8fTJubmQZi",
+      "rating": "4.9",
+      "sales": 1090,
+      "shop": "Coala Essências Oficial",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58264341462,
+        "productName": "Kit coala Laundry Orquídea Negra - 1 Lava Roupas 3L + 1 Amaciante Concentrado 1L",
+        "price": "49.9",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.13",
+        "sales": 1090,
+        "ratingStar": "4.9",
+        "shopName": "Coala Essências Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mrj6irz01z4409",
+        "productLink": "https://shopee.com.br/product/1177903362/58264341462",
+        "offerLink": "https://s.shopee.com.br/8fTJubmQZi"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23598068812",
       "name": "Carrinho Rolimã Zig Zag Car Roda com Led Infantil - Castela",
       "price": 189.99,
@@ -28561,35 +28562,6 @@
       "_last_price": null
     },
     {
-      "id": "57560033849",
-      "name": "Shampoo Good Horse Vitamina A Cavalo - 700ml",
-      "price": 13.96,
-      "original_price": 18.13,
-      "discount": 23.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mpth8d217fnm8b",
-      "link": "https://s.shopee.com.br/3LRnYpk42F",
-      "rating": "4.9",
-      "sales": 2719,
-      "shop": "mypetone",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57560033849,
-        "productName": "Shampoo Good Horse Vitamina A Cavalo - 700ml",
-        "price": "13.96",
-        "priceDiscountRate": 23,
-        "commissionRate": "0.11",
-        "sales": 2719,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mpth8d217fnm8b",
-        "productLink": "https://shopee.com.br/product/290073877/57560033849",
-        "offerLink": "https://s.shopee.com.br/3LRnYpk42F"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58210268954",
       "name": "Hidra Multy Kids Shampoo + Condicionador + Creme - Salon Line",
       "price": 28.35,
@@ -29514,6 +29486,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824iv-mfl788vvwjyle9",
         "productLink": "https://shopee.com.br/product/346352973/18898329001",
         "offerLink": "https://s.shopee.com.br/5LCrwUleVh"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "57560033849",
+      "name": "Shampoo Good Horse Vitamina A Cavalo - 700ml",
+      "price": 54.84,
+      "original_price": 69.42,
+      "discount": 21.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mpth8d217fnm8b",
+      "link": "https://s.shopee.com.br/3LRnYpk42F",
+      "rating": "4.9",
+      "sales": 2719,
+      "shop": "mypetone",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57560033849,
+        "productName": "Shampoo Good Horse Vitamina A Cavalo - 700ml",
+        "price": "54.84",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.11",
+        "sales": 2719,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mpth8d217fnm8b",
+        "productLink": "https://shopee.com.br/product/290073877/57560033849",
+        "offerLink": "https://s.shopee.com.br/3LRnYpk42F"
       },
       "_last_price": null
     },
