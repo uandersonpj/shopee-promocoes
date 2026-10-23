@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T02:16:00.397030+00:00",
-  "total": 1122,
+  "updated_at": "2026-10-23T02:35:56.028802+00:00",
+  "total": 1123,
   "products": [
     {
       "id": "58210104632",
@@ -543,7 +543,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mmgdbanf22gw2b",
         "productLink": "https://shopee.com.br/product/1647418767/58207521088",
         "offerLink": "https://s.shopee.com.br/7puCv5c8RG"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21897981294",
@@ -2274,8 +2275,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/3c5c292f73a7da4ff5dbb3b0c6bc1a08",
         "productLink": "https://shopee.com.br/product/233660920/18617064006",
         "offerLink": "https://s.shopee.com.br/7KxwKJaTKW"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23192646152",
@@ -11499,35 +11499,6 @@
       "_last_price": null
     },
     {
-      "id": "22893806671",
-      "name": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
-      "price": 39.9,
-      "original_price": 83.12,
-      "discount": 52.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
-      "link": "https://s.shopee.com.br/9APaVcmVAM",
-      "rating": "4.8",
-      "sales": 787,
-      "shop": "Facilita Lar.",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22893806671,
-        "productName": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
-        "price": "39.9",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.13",
-        "sales": 787,
-        "ratingStar": "4.8",
-        "shopName": "Facilita Lar.",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
-        "productLink": "https://shopee.com.br/product/1461473610/22893806671",
-        "offerLink": "https://s.shopee.com.br/9APaVcmVAM"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18499668742",
       "name": "Jogo de Panelas 13 Peças Panela de Pressão 2L Conjunto Teflon Antiaderente Frigideira Caçarola",
       "price": 188.86,
@@ -14863,6 +14834,35 @@
       "_last_price": null
     },
     {
+      "id": "22893806671",
+      "name": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
+      "price": 39.9,
+      "original_price": 76.73,
+      "discount": 48.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
+      "link": "https://s.shopee.com.br/9APaVcmVAM",
+      "rating": "4.8",
+      "sales": 787,
+      "shop": "Facilita Lar.",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22893806671,
+        "productName": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
+        "price": "39.9",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.13",
+        "sales": 787,
+        "ratingStar": "4.8",
+        "shopName": "Facilita Lar.",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
+        "productLink": "https://shopee.com.br/product/1461473610/22893806671",
+        "offerLink": "https://s.shopee.com.br/9APaVcmVAM"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23594439744",
       "name": "400ML 6 Lâminas Espremedor Elétrico Mini Liquidificador Portátil De Suco De Alimentos Misturador Leite",
       "price": 37.49,
@@ -16660,6 +16660,35 @@
       "_last_price": null
     },
     {
+      "id": "42071102324",
+      "name": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
+      "price": 68.74,
+      "original_price": 124.98,
+      "discount": 45.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
+      "link": "https://s.shopee.com.br/6fiFWyxEL4",
+      "rating": "4.9",
+      "sales": 4129,
+      "shop": "Clube Kids Baby II",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42071102324,
+        "productName": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
+        "price": "68.74",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.06",
+        "sales": 4129,
+        "ratingStar": "4.9",
+        "shopName": "Clube Kids Baby II",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
+        "productLink": "https://shopee.com.br/product/1450084195/42071102324",
+        "offerLink": "https://s.shopee.com.br/6fiFWyxEL4"
+      },
+      "_last_price": null
+    },
+    {
       "id": "17882461983",
       "name": "Trocador Plastificado Impermeável Anatômico Americano de Cômoda Para Troca de Fraldas",
       "price": 57.61,
@@ -17845,6 +17874,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra1c-m548tvxdhm0wde",
         "productLink": "https://shopee.com.br/product/222975446/21998001825",
         "offerLink": "https://s.shopee.com.br/8fTJucYxk1"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19699843252",
+      "name": "Kit 3 Necessaire Maquiagem Transparente WashBag A Prova De Água 332",
+      "price": 23.2,
+      "original_price": 40.7,
+      "discount": 43.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mcc4llc8xbix14",
+      "link": "https://s.shopee.com.br/906BerT5kp",
+      "rating": "4.9",
+      "sales": 9024,
+      "shop": "WUDI SHOP",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19699843252,
+        "productName": "Kit 3 Necessaire Maquiagem Transparente WashBag A Prova De Água 332",
+        "price": "23.2",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.03",
+        "sales": 9024,
+        "ratingStar": "4.9",
+        "shopName": "WUDI SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mcc4llc8xbix14",
+        "productLink": "https://shopee.com.br/product/1502069336/19699843252",
+        "offerLink": "https://s.shopee.com.br/906BerT5kp"
       },
       "_last_price": null
     },
@@ -19473,35 +19531,6 @@
       "_last_price": null
     },
     {
-      "id": "19699843252",
-      "name": "Kit 3 Necessaire Maquiagem Transparente WashBag A Prova De Água 332",
-      "price": 23.98,
-      "original_price": 39.97,
-      "discount": 40.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mcc4llc8xbix14",
-      "link": "https://s.shopee.com.br/906BerT5kp",
-      "rating": "4.9",
-      "sales": 9024,
-      "shop": "WUDI SHOP",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19699843252,
-        "productName": "Kit 3 Necessaire Maquiagem Transparente WashBag A Prova De Água 332",
-        "price": "23.98",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 9024,
-        "ratingStar": "4.9",
-        "shopName": "WUDI SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mcc4llc8xbix14",
-        "productLink": "https://shopee.com.br/product/1502069336/19699843252",
-        "offerLink": "https://s.shopee.com.br/906BerT5kp"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58258909286",
       "name": "Panos de Chão Gigante Microfibra Multiuso 60x80 Alta Absorção",
       "price": 29.9,
@@ -21012,8 +21041,8 @@
     {
       "id": "41229623791",
       "name": "Summer Adventure UV400 Óculos De Sol Esportivos Com Espelho Colorido Unissex Para Viagens Ao Ar Livre",
-      "price": 14.22,
-      "original_price": 22.94,
+      "price": 14.26,
+      "original_price": 23.0,
       "discount": 38.0,
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/sg-11134301-8262v-mltzwj6p35kz20",
@@ -21026,7 +21055,7 @@
       "_item": {
         "itemId": 41229623791,
         "productName": "Summer Adventure UV400 Óculos De Sol Esportivos Com Espelho Colorido Unissex Para Viagens Ao Ar Livre",
-        "price": "14.22",
+        "price": "14.26",
         "priceDiscountRate": 38,
         "commissionRate": "0.09",
         "sales": 1156,
@@ -22257,35 +22286,6 @@
       "_last_price": null
     },
     {
-      "id": "23999439011",
-      "name": "Ração Gato 10kg Filhote Adulto Mia Cat Premium 27% Proteína",
-      "price": 63.69,
-      "original_price": 99.52,
-      "discount": 36.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mr1zm198eyva3c",
-      "link": "https://s.shopee.com.br/80Dd7Sn5Ih",
-      "rating": "4.9",
-      "sales": 5764,
-      "shop": "Ox Distribuidora",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23999439011,
-        "productName": "Ração Gato 10kg Filhote Adulto Mia Cat Premium 27% Proteína",
-        "price": "63.69",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.03",
-        "sales": 5764,
-        "ratingStar": "4.9",
-        "shopName": "Ox Distribuidora",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mr1zm198eyva3c",
-        "productLink": "https://shopee.com.br/product/1571276714/23999439011",
-        "offerLink": "https://s.shopee.com.br/80Dd7Sn5Ih"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58209856096",
       "name": "Covo Armadilha Com 6 ou 8 Furos Pesca Peixes Siri Lambari Camarão Iscas Guarda Chuva//octogonal",
       "price": 16.33,
@@ -23355,6 +23355,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li7njywzzz913e",
         "productLink": "https://shopee.com.br/product/464043565/16992281628",
         "offerLink": "https://s.shopee.com.br/W7csrKvhK"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23999439011",
+      "name": "Ração Gato 10kg Filhote Adulto Mia Cat Premium 27% Proteína",
+      "price": 65.9,
+      "original_price": 99.85,
+      "discount": 34.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mr1zm198eyva3c",
+      "link": "https://s.shopee.com.br/80Dd7Sn5Ih",
+      "rating": "4.9",
+      "sales": 5764,
+      "shop": "Ox Distribuidora",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23999439011,
+        "productName": "Ração Gato 10kg Filhote Adulto Mia Cat Premium 27% Proteína",
+        "price": "65.9",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.03",
+        "sales": 5764,
+        "ratingStar": "4.9",
+        "shopName": "Ox Distribuidora",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mr1zm198eyva3c",
+        "productLink": "https://shopee.com.br/product/1571276714/23999439011",
+        "offerLink": "https://s.shopee.com.br/80Dd7Sn5Ih"
       },
       "_last_price": null
     },
@@ -26317,6 +26346,35 @@
       "_last_price": null
     },
     {
+      "id": "22893283679",
+      "name": "Kit 15 unid Sachê Friskies Alimento Úmido Gatos Carne Frango Atum Peixe Branco Cordeiro Salmão Peru",
+      "price": 40.5,
+      "original_price": 57.04,
+      "discount": 29.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwd-m0ac9dpy96o086",
+      "link": "https://s.shopee.com.br/8KqTW4locj",
+      "rating": "5",
+      "sales": 5533,
+      "shop": "Marcinho PET",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22893283679,
+        "productName": "Kit 15 unid Sachê Friskies Alimento Úmido Gatos Carne Frango Atum Peixe Branco Cordeiro Salmão Peru",
+        "price": "40.5",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.06",
+        "sales": 5533,
+        "ratingStar": "5",
+        "shopName": "Marcinho PET",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwd-m0ac9dpy96o086",
+        "productLink": "https://shopee.com.br/product/1194006916/22893283679",
+        "offerLink": "https://s.shopee.com.br/8KqTW4locj"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23697597322",
       "name": "Petisco Para Gatos Churu 56g - Contém 4 Tubets De 14g Cada Unidade - Vários Sabores",
       "price": 23.9,
@@ -27154,35 +27212,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mekctgxrndogf4",
         "productLink": "https://shopee.com.br/product/1257363873/23598068812",
         "offerLink": "https://s.shopee.com.br/20wPyPWjTN"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22893283679",
-      "name": "Kit 15 unid Sachê Friskies Alimento Úmido Gatos Carne Frango Atum Peixe Branco Cordeiro Salmão Peru",
-      "price": 42.45,
-      "original_price": 57.36,
-      "discount": 26.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwd-m0ac9dpy96o086",
-      "link": "https://s.shopee.com.br/8KqTW4locj",
-      "rating": "5",
-      "sales": 5533,
-      "shop": "Marcinho PET",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22893283679,
-        "productName": "Kit 15 unid Sachê Friskies Alimento Úmido Gatos Carne Frango Atum Peixe Branco Cordeiro Salmão Peru",
-        "price": "42.45",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.06",
-        "sales": 5533,
-        "ratingStar": "5",
-        "shopName": "Marcinho PET",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwd-m0ac9dpy96o086",
-        "productLink": "https://shopee.com.br/product/1194006916/22893283679",
-        "offerLink": "https://s.shopee.com.br/8KqTW4locj"
       },
       "_last_price": null
     },
@@ -28198,35 +28227,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meeb6o4j241s19",
         "productLink": "https://shopee.com.br/product/502619181/13432704835",
         "offerLink": "https://s.shopee.com.br/8V9uDPmnu1"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "14849254746",
-      "name": "Fralda Hipopó Baby Mega Pacotão P-80 M-70 G-60 XG-50 XXG-50 XXG-40 PACOTE HIPER",
-      "price": 47.99,
-      "original_price": 63.14,
-      "discount": 24.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mo3zpt6shk3l88",
-      "link": "https://s.shopee.com.br/BUln2LyXE",
-      "rating": "4.8",
-      "sales": 1570,
-      "shop": "FP Farma Popular",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 14849254746,
-        "productName": "Fralda Hipopó Baby Mega Pacotão P-80 M-70 G-60 XG-50 XXG-50 XXG-40 PACOTE HIPER",
-        "price": "47.99",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.03",
-        "sales": 1570,
-        "ratingStar": "4.8",
-        "shopName": "FP Farma Popular",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mo3zpt6shk3l88",
-        "productLink": "https://shopee.com.br/product/575366874/14849254746",
-        "offerLink": "https://s.shopee.com.br/BUln2LyXE"
       },
       "_last_price": null
     },
@@ -30199,6 +30199,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134253-8258h-mqd37lg269ky83",
         "productLink": "https://shopee.com.br/product/1006215031/51263661034",
         "offerLink": "https://s.shopee.com.br/9zyhVBQvFE"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22893504865",
+      "name": "Vara  Joker  telescopica  varias cores e medidas",
+      "price": 20.89,
+      "original_price": 26.11,
+      "discount": 20.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbgsu2l31hped9",
+      "link": "https://s.shopee.com.br/80Dd7YtOJv",
+      "rating": "4.8",
+      "sales": 360,
+      "shop": "O Recanto da Pesca e Variedades",
+      "category": "molinete pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22893504865,
+        "productName": "Vara  Joker  telescopica  varias cores e medidas",
+        "price": "20.89",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.03",
+        "sales": 360,
+        "ratingStar": "4.8",
+        "shopName": "O Recanto da Pesca e Variedades",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbgsu2l31hped9",
+        "productLink": "https://shopee.com.br/product/337645667/22893504865",
+        "offerLink": "https://s.shopee.com.br/80Dd7YtOJv"
       },
       "_last_price": null
     },
