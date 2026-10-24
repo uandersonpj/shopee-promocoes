@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T06:33:45.750882+00:00",
-  "total": 1138,
+  "updated_at": "2026-10-24T06:52:34.158421+00:00",
+  "total": 1131,
   "products": [
     {
       "id": "58210104632",
@@ -807,7 +807,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-ms6hxutagw04bd",
         "productLink": "https://shopee.com.br/product/1506274241/22694660203",
         "offerLink": "https://s.shopee.com.br/2VsipnEt6r"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22492388439",
@@ -4636,6 +4637,35 @@
       "_last_price": null
     },
     {
+      "id": "21499499348",
+      "name": "Kit Wella Professionals Invigo Nutri-Enrich Shampoo Condicionador e Válvula (4 produtos)",
+      "price": 299.0,
+      "original_price": 879.41,
+      "discount": 66.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdx0-m15pe0s36kro6c",
+      "link": "https://s.shopee.com.br/50a1XtvNzS",
+      "rating": "4.9",
+      "sales": 1699,
+      "shop": "Evas ",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21499499348,
+        "productName": "Kit Wella Professionals Invigo Nutri-Enrich Shampoo Condicionador e Válvula (4 produtos)",
+        "price": "299",
+        "priceDiscountRate": 66,
+        "commissionRate": "0.03",
+        "sales": 1699,
+        "ratingStar": "4.9",
+        "shopName": "Evas ",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx0-m15pe0s36kro6c",
+        "productLink": "https://shopee.com.br/product/322434863/21499499348",
+        "offerLink": "https://s.shopee.com.br/50a1XtvNzS"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23699159711",
       "name": "Creme Tira Manchas Acaba com Melasma e Ação Antienvelhecimento Original 50g NatyFlora",
       "price": 11.98,
@@ -5792,35 +5822,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mn1uzb42hx4yd8",
         "productLink": "https://shopee.com.br/product/1547995492/22198797147",
         "offerLink": "https://s.shopee.com.br/3VlG1Tsmpj"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58203081416",
-      "name": "Kit 4 Unidades Bellaterapia - Mascara de Tratamento 500g + Shampoo e Condicionador 500ML + Óleo 60ML",
-      "price": 27.9,
-      "original_price": 75.41,
-      "discount": 63.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82626-mjbuulueqx3705",
-      "link": "https://s.shopee.com.br/3LRqxzFJUL",
-      "rating": "4.9",
-      "sales": 1137,
-      "shop": "Beleza Capilar Pro",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58203081416,
-        "productName": "Kit 4 Unidades Bellaterapia - Mascara de Tratamento 500g + Shampoo e Condicionador 500ML + Óleo 60ML",
-        "price": "27.9",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.03",
-        "sales": 1137,
-        "ratingStar": "4.9",
-        "shopName": "Beleza Capilar Pro",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82626-mjbuulueqx3705",
-        "productLink": "https://shopee.com.br/product/876905093/58203081416",
-        "offerLink": "https://s.shopee.com.br/3LRqxzFJUL"
       },
       "_last_price": null
     },
@@ -7822,35 +7823,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mor9xtvj1lvk61",
         "productLink": "https://shopee.com.br/product/462426918/22894975184",
         "offerLink": "https://s.shopee.com.br/3LRppAtQAg"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "48460352003",
-      "name": "Kit Shampoo 1L Condicionador 1L e Máscara Capilar - Tratamento com Ativos Poderosos Fattore Special",
-      "price": 39.99,
-      "original_price": 97.54,
-      "discount": 59.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mo5thwwnrtaa1e",
-      "link": "https://s.shopee.com.br/6fiIw72cj3",
-      "rating": "4.8",
-      "sales": 933,
-      "shop": "Fattore Cosméticos",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 48460352003,
-        "productName": "Kit Shampoo 1L Condicionador 1L e Máscara Capilar - Tratamento com Ativos Poderosos Fattore Special",
-        "price": "39.99",
-        "priceDiscountRate": 59,
-        "commissionRate": "0.08",
-        "sales": 933,
-        "ratingStar": "4.8",
-        "shopName": "Fattore Cosméticos",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mo5thwwnrtaa1e",
-        "productLink": "https://shopee.com.br/product/1559972341/48460352003",
-        "offerLink": "https://s.shopee.com.br/6fiIw72cj3"
       },
       "_last_price": null
     },
@@ -12560,7 +12532,7 @@
       "discount": 51.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mqaqximlhc0034",
-      "link": "https://s.shopee.com.br/6L5Qhdmfoc",
+      "link": "https://s.shopee.com.br/4fxEYT51uB",
       "rating": "4.8",
       "sales": 1076,
       "shop": "Monarka Strong Body",
@@ -12577,7 +12549,7 @@
         "shopName": "Monarka Strong Body",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mqaqximlhc0034",
         "productLink": "https://shopee.com.br/product/747746791/19428227444",
-        "offerLink": "https://s.shopee.com.br/6L5Qhdmfoc"
+        "offerLink": "https://s.shopee.com.br/4fxEYT51uB"
       },
       "_last_price": null
     },
@@ -13829,35 +13801,6 @@
       "_last_price": null
     },
     {
-      "id": "23498791755",
-      "name": "Kit Shampoo para Cachorro Neutro + Condicionador 500ml + Perfume 60ml Kit Banho Cachorro Shampoo Pet Cheiroso UP Clean",
-      "price": 19.9,
-      "original_price": 39.8,
-      "discount": 50.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-md3i1q9a7582a8",
-      "link": "https://s.shopee.com.br/5fplkH6Ql1",
-      "rating": "4.9",
-      "sales": 740,
-      "shop": "Magazine Animal",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498791755,
-        "productName": "Kit Shampoo para Cachorro Neutro + Condicionador 500ml + Perfume 60ml Kit Banho Cachorro Shampoo Pet Cheiroso UP Clean",
-        "price": "19.9",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.13",
-        "sales": 740,
-        "ratingStar": "4.9",
-        "shopName": "Magazine Animal",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md3i1q9a7582a8",
-        "productLink": "https://shopee.com.br/product/847641179/23498791755",
-        "offerLink": "https://s.shopee.com.br/5fplkH6Ql1"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58261057993",
       "name": "BODY SPLASH PERFUME - HOMEM, ZAAD, LILY",
       "price": 9.9,
@@ -14695,6 +14638,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztd-mko7wuy13u2q40",
         "productLink": "https://shopee.com.br/product/979724994/58205223096",
         "offerLink": "https://s.shopee.com.br/qkSaEta6U"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23098743668",
+      "name": "Kit Capilar 03 itens MIX DE SILICONE SOUL COSMETICOS Shampoo Condicionador Mascara Hidratação Brilho",
+      "price": 27.89,
+      "original_price": 54.69,
+      "discount": 49.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mqxp07t9skjr6c",
+      "link": "https://s.shopee.com.br/20wQctHYnz",
+      "rating": "4.8",
+      "sales": 2035,
+      "shop": "Cosméticos Relive",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23098743668,
+        "productName": "Kit Capilar 03 itens MIX DE SILICONE SOUL COSMETICOS Shampoo Condicionador Mascara Hidratação Brilho",
+        "price": "27.89",
+        "priceDiscountRate": 49,
+        "commissionRate": "0.03",
+        "sales": 2035,
+        "ratingStar": "4.8",
+        "shopName": "Cosméticos Relive",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mqxp07t9skjr6c",
+        "productLink": "https://shopee.com.br/product/1343471577/23098743668",
+        "offerLink": "https://s.shopee.com.br/20wQctHYnz"
       },
       "_last_price": null
     },
@@ -16638,6 +16610,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-muo6baz1ga2r13",
         "productLink": "https://shopee.com.br/product/1868064927/58215448917",
         "offerLink": "https://s.shopee.com.br/5VWI8otTyQ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21499647005",
+      "name": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Escudo Antiporosidade",
+      "price": 17.9,
+      "original_price": 32.55,
+      "discount": 45.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/br-11134201-820mg-mp9hltr9i96o08",
+      "link": "https://s.shopee.com.br/2LZH1VGI81",
+      "rating": "4.9",
+      "sales": 1360,
+      "shop": "Salon Line",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21499647005,
+        "productName": "Kit Shampoo 300ml + Condicionador 200ml  Meu Liso Escudo Antiporosidade",
+        "price": "17.9",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.18",
+        "sales": 1360,
+        "ratingStar": "4.9",
+        "shopName": "Salon Line",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820mg-mp9hltr9i96o08",
+        "productLink": "https://shopee.com.br/product/616222685/21499647005",
+        "offerLink": "https://s.shopee.com.br/2LZH1VGI81"
       },
       "_last_price": null
     },
@@ -22123,35 +22124,6 @@
       "_last_price": null
     },
     {
-      "id": "43671035982",
-      "name": "Shampoo e Condicionador para Cachorro e Gato Mypetone 700 ml - 1 Unidade ou Kit 2 Unidades",
-      "price": 11.99,
-      "original_price": 18.73,
-      "discount": 36.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6r3wkp58nb8d",
-      "link": "https://s.shopee.com.br/5VWLXy745w",
-      "rating": "4.9",
-      "sales": 1024,
-      "shop": "mypetone",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 43671035982,
-        "productName": "Shampoo e Condicionador para Cachorro e Gato Mypetone 700 ml - 1 Unidade ou Kit 2 Unidades",
-        "price": "11.99",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.11",
-        "sales": 1024,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6r3wkp58nb8d",
-        "productLink": "https://shopee.com.br/product/290073877/43671035982",
-        "offerLink": "https://s.shopee.com.br/5VWLXy745w"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58205979239",
       "name": "Principia Kit Limpa Hidrata e Protege c/ Gel de Limpeza GL-01 + Creme Hidratante CH-01 + Protetor Cor PS-05 FPS 70",
       "price": 99.99,
@@ -22612,35 +22584,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82606-ml18eaile8le9c",
         "productLink": "https://shopee.com.br/product/385874672/16301375335",
         "offerLink": "https://s.shopee.com.br/4B0uYMP9cr"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22394460247",
-      "name": "Kit Dove Shampoo 600ml + Condicionador 600ml Uv Repair & Glow + Ferúlico",
-      "price": 76.99,
-      "original_price": 118.45,
-      "discount": 35.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8257x-muno2wwnde6ab0",
-      "link": "https://s.shopee.com.br/7faq7wyohL",
-      "rating": "4.9",
-      "sales": 231,
-      "shop": "Lojas REDE",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22394460247,
-        "productName": "Kit Dove Shampoo 600ml + Condicionador 600ml Uv Repair & Glow + Ferúlico",
-        "price": "76.99",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.03",
-        "sales": 231,
-        "ratingStar": "4.9",
-        "shopName": "Lojas REDE",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257x-muno2wwnde6ab0",
-        "productLink": "https://shopee.com.br/product/683941545/22394460247",
-        "offerLink": "https://s.shopee.com.br/7faq7wyohL"
       },
       "_last_price": null
     },
@@ -23921,35 +23864,6 @@
       "_last_price": null
     },
     {
-      "id": "23699308150",
-      "name": "Kit com 2 Shampoos e 2 Condicionadores Hidra + Máscara SOS Hidratação Bio-Reconstrução Salon Line",
-      "price": 49.25,
-      "original_price": 73.51,
-      "discount": 33.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjztfyh5h05ded",
-      "link": "https://s.shopee.com.br/7KxzjL05NF",
-      "rating": "4.9",
-      "sales": 1119,
-      "shop": "Salon Line",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23699308150,
-        "productName": "Kit com 2 Shampoos e 2 Condicionadores Hidra + Máscara SOS Hidratação Bio-Reconstrução Salon Line",
-        "price": "49.25",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.18",
-        "sales": 1119,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjztfyh5h05ded",
-        "productLink": "https://shopee.com.br/product/616222685/23699308150",
-        "offerLink": "https://s.shopee.com.br/7KxzjL05NF"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58208444702",
       "name": "Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu tom",
       "price": 71.99,
@@ -24791,6 +24705,35 @@
       "_last_price": null
     },
     {
+      "id": "58265354623",
+      "name": "Kit Crina e Cauda Crescimento Shampoo+ Condicionador+ Reparador+ Máscara de hidratação Maycrene",
+      "price": 48.37,
+      "original_price": 70.1,
+      "discount": 31.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259v-mrbna3fp5lae9f",
+      "link": "https://s.shopee.com.br/4B0uYMyYgD",
+      "rating": "4.9",
+      "sales": 1868,
+      "shop": "AHAZOCOSMETICOS2",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58265354623,
+        "productName": "Kit Crina e Cauda Crescimento Shampoo+ Condicionador+ Reparador+ Máscara de hidratação Maycrene",
+        "price": "48.37",
+        "priceDiscountRate": 31,
+        "commissionRate": "0.03",
+        "sales": 1868,
+        "ratingStar": "4.9",
+        "shopName": "AHAZOCOSMETICOS2",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259v-mrbna3fp5lae9f",
+        "productLink": "https://shopee.com.br/product/498461175/58265354623",
+        "offerLink": "https://s.shopee.com.br/4B0uYMyYgD"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58214494309",
       "name": "Whey Protein 907g Gourmet Pote",
       "price": 47.9,
@@ -25541,6 +25484,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-msbwy1o9n30qbe",
         "productLink": "https://shopee.com.br/product/616222685/14494160625",
         "offerLink": "https://s.shopee.com.br/4VdkwyfcfM"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58254138962",
+      "name": "Kit Shampoo + Condicionador + Máscara + Ativador de Cachos + Creme de Pentear SOS Cachos Kids Hidratação",
+      "price": 77.6,
+      "original_price": 110.86,
+      "discount": 30.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzueege6fwgeb",
+      "link": "https://s.shopee.com.br/40hUM3zC1A",
+      "rating": "4.9",
+      "sales": 2144,
+      "shop": "Salon Line",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58254138962,
+        "productName": "Kit Shampoo + Condicionador + Máscara + Ativador de Cachos + Creme de Pentear SOS Cachos Kids Hidratação",
+        "price": "77.6",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.18",
+        "sales": 2144,
+        "ratingStar": "4.9",
+        "shopName": "Salon Line",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjzueege6fwgeb",
+        "productLink": "https://shopee.com.br/product/616222685/58254138962",
+        "offerLink": "https://s.shopee.com.br/40hUM3zC1A"
       },
       "_last_price": null
     },
@@ -26357,35 +26329,6 @@
       "_last_price": null
     },
     {
-      "id": "58204153704",
-      "name": "Kit Shampoo + Condicionador + Creme para Pentear 300ml SOS Cachos Kids Hidratação Salon Line",
-      "price": 46.1,
-      "original_price": 64.93,
-      "discount": 29.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mg-msr3shcqrz0n32",
-      "link": "https://s.shopee.com.br/7AeZX20iiA",
-      "rating": "4.9",
-      "sales": 1188,
-      "shop": "Salon Line",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58204153704,
-        "productName": "Kit Shampoo + Condicionador + Creme para Pentear 300ml SOS Cachos Kids Hidratação Salon Line",
-        "price": "46.1",
-        "priceDiscountRate": 29,
-        "commissionRate": "0.18",
-        "sales": 1188,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-msr3shcqrz0n32",
-        "productLink": "https://shopee.com.br/product/616222685/58204153704",
-        "offerLink": "https://s.shopee.com.br/7AeZX20iiA"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23498038856",
       "name": "140 Blocos De Montar Super Coloridos Carrinho + Rodinhas - educacional",
       "price": 28.55,
@@ -27198,35 +27141,6 @@
       "_last_price": null
     },
     {
-      "id": "58264791138",
-      "name": "Combo Capilar PROFISSIONAL Liso Obrigatório BELKIT 1L Shampoo Condicionador Máscara + Spray Finaliz.",
-      "price": 66.0,
-      "original_price": 90.41,
-      "discount": 27.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mqz35mracd8m11",
-      "link": "https://s.shopee.com.br/7puGKFyBMM",
-      "rating": "4.8",
-      "sales": 1627,
-      "shop": "COSMETICOSLUMINA",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58264791138,
-        "productName": "Combo Capilar PROFISSIONAL Liso Obrigatório BELKIT 1L Shampoo Condicionador Máscara + Spray Finaliz.",
-        "price": "66",
-        "priceDiscountRate": 27,
-        "commissionRate": "0.03",
-        "sales": 1627,
-        "ratingStar": "4.8",
-        "shopName": "COSMETICOSLUMINA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mqz35mracd8m11",
-        "productLink": "https://shopee.com.br/product/1772970441/58264791138",
-        "offerLink": "https://s.shopee.com.br/7puGKFyBMM"
-      },
-      "_last_price": null
-    },
-    {
       "id": "44763955954",
       "name": "Ração Cachorro Premium 5kg Amor Dog Carne 18% Proteina Adulto Todas Raças",
       "price": 26.07,
@@ -27513,35 +27427,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258a-msbwmmolzx8m23",
         "productLink": "https://shopee.com.br/product/616222685/16324454755",
         "offerLink": "https://s.shopee.com.br/4LKKkfgG0L"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58256586508",
-      "name": "Kit Capilar Óleo Extraordinário NEW HAIR - Shampoo, Condicionador, Máscara e Óleo",
-      "price": 43.9,
-      "original_price": 59.32,
-      "discount": 26.0,
-      "commission": 19.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mlm8liaud5omb1",
-      "link": "https://s.shopee.com.br/5LCvLf7hQv",
-      "rating": "4.9",
-      "sales": 687,
-      "shop": "Bela Beleza Oficial",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58256586508,
-        "productName": "Kit Capilar Óleo Extraordinário NEW HAIR - Shampoo, Condicionador, Máscara e Óleo",
-        "price": "43.9",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.19",
-        "sales": 687,
-        "ratingStar": "4.9",
-        "shopName": "Bela Beleza Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mlm8liaud5omb1",
-        "productLink": "https://shopee.com.br/product/1391354759/58256586508",
-        "offerLink": "https://s.shopee.com.br/5LCvLf7hQv"
       },
       "_last_price": null
     },
@@ -29402,35 +29287,6 @@
       "_last_price": null
     },
     {
-      "id": "49564012564",
-      "name": "Kit Capilar Completo Karssellé Shampoo e Condicionador 1L + Máscara de Hidratação Colágeno 500g + Óleo Reparador 60ml",
-      "price": 52.98,
-      "original_price": 67.92,
-      "discount": 22.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mtshpgfvx8g232",
-      "link": "https://s.shopee.com.br/5q9Bwa5nQ2",
-      "rating": "4.7",
-      "sales": 1074,
-      "shop": "Vitrine360",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 49564012564,
-        "productName": "Kit Capilar Completo Karssellé Shampoo e Condicionador 1L + Máscara de Hidratação Colágeno 500g + Óleo Reparador 60ml",
-        "price": "52.98",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.12",
-        "sales": 1074,
-        "ratingStar": "4.7",
-        "shopName": "Vitrine360",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mtshpgfvx8g232",
-        "productLink": "https://shopee.com.br/product/1386679095/49564012564",
-        "offerLink": "https://s.shopee.com.br/5q9Bwa5nQ2"
-      },
-      "_last_price": null
-    },
-    {
       "id": "3583616499",
       "name": "Carrinho Camaro Amarelo Vira Robô Transformers Bate Volta",
       "price": 35.99,
@@ -30330,35 +30186,6 @@
       "_last_price": null
     },
     {
-      "id": "23497918564",
-      "name": "Kit Shampoo e Condicionador Hidra Maracujá Tropical 300ml",
-      "price": 17.64,
-      "original_price": 22.05,
-      "discount": 20.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259v-msbxaaf4hybk4c",
-      "link": "https://s.shopee.com.br/70L9Kj1M39",
-      "rating": "4.9",
-      "sales": 1060,
-      "shop": "Salon Line",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23497918564,
-        "productName": "Kit Shampoo e Condicionador Hidra Maracujá Tropical 300ml",
-        "price": "17.64",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.18",
-        "sales": 1060,
-        "ratingStar": "4.9",
-        "shopName": "Salon Line",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259v-msbxaaf4hybk4c",
-        "productLink": "https://shopee.com.br/product/616222685/23497918564",
-        "offerLink": "https://s.shopee.com.br/70L9Kj1M39"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22898980977",
       "name": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
       "price": 86.39,
@@ -30453,7 +30280,7 @@
       "discount": 20.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke6w3lmx2bk67",
-      "link": "https://s.shopee.com.br/6fiH6FlP8i",
+      "link": "https://s.shopee.com.br/3B8QliAjwu",
       "rating": "4.8",
       "sales": 621,
       "shop": "Loja do Suplemento Oficial",
@@ -30470,7 +30297,7 @@
         "shopName": "Loja do Suplemento Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke6w3lmx2bk67",
         "productLink": "https://shopee.com.br/product/446247790/58254796458",
-        "offerLink": "https://s.shopee.com.br/6fiH6FlP8i"
+        "offerLink": "https://s.shopee.com.br/3B8QliAjwu"
       },
       "_last_price": null
     },
@@ -30819,35 +30646,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/7c7aaef0b31d73bd943f5e16ba233f38",
         "productLink": "https://shopee.com.br/product/819102498/18725824866",
         "offerLink": "https://s.shopee.com.br/3B8PTSaIxD"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22798924562",
-      "name": "Kit Shampoo  e Condicionador maca original 250 ml+ Óleo de argan 60 fim do friz e Hidratação Profunda, Brilho Intenso",
-      "price": 12.9,
-      "original_price": 15.93,
-      "discount": 19.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259t-meyhwanucbnpea",
-      "link": "https://s.shopee.com.br/3qO7YuDPTS",
-      "rating": "4.7",
-      "sales": 1134,
-      "shop": "LABELLE COSMETICOS",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22798924562,
-        "productName": "Kit Shampoo  e Condicionador maca original 250 ml+ Óleo de argan 60 fim do friz e Hidratação Profunda, Brilho Intenso",
-        "price": "12.9",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.03",
-        "sales": 1134,
-        "ratingStar": "4.7",
-        "shopName": "LABELLE COSMETICOS",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259t-meyhwanucbnpea",
-        "productLink": "https://shopee.com.br/product/958996125/22798924562",
-        "offerLink": "https://s.shopee.com.br/3qO7YuDPTS"
       },
       "_last_price": null
     },
@@ -31254,35 +31052,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcex-lslue7zt1z3pfc",
         "productLink": "https://shopee.com.br/product/754451852/21199212964",
         "offerLink": "https://s.shopee.com.br/8pmk6uyzfC"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58216164154",
-      "name": "KIT ELSEVE COLÁGENO LIFTER - Shampoo 400 ml + Condicionador 400 ml",
-      "price": 60.99,
-      "original_price": 74.38,
-      "discount": 18.0,
-      "commission": 15.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lf-ms1pnnk88emc08",
-      "link": "https://s.shopee.com.br/6q1j8Q1zO4",
-      "rating": "4.9",
-      "sales": 1126,
-      "shop": "L'Oréal Paris - Loja Oficial",
-      "category": "condicionador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58216164154,
-        "productName": "KIT ELSEVE COLÁGENO LIFTER - Shampoo 400 ml + Condicionador 400 ml",
-        "price": "60.99",
-        "priceDiscountRate": 18,
-        "commissionRate": "0.15",
-        "sales": 1126,
-        "ratingStar": "4.9",
-        "shopName": "L'Oréal Paris - Loja Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-ms1pnnk88emc08",
-        "productLink": "https://shopee.com.br/product/1855095856/58216164154",
-        "offerLink": "https://s.shopee.com.br/6q1j8Q1zO4"
       },
       "_last_price": null
     },
@@ -31718,6 +31487,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mrhrt1o8shl2a2",
         "productLink": "https://shopee.com.br/product/616222685/22401382655",
         "offerLink": "https://s.shopee.com.br/5LCrwVu7JP"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18156375729",
+      "name": "Kit Shampoo + Condicionador Hidra Nutrição e Brilho Salon Line 300ml",
+      "price": 19.11,
+      "original_price": 23.02,
+      "discount": 17.0,
+      "commission": 21.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825b3-msbwtmkd0jk1cd",
+      "link": "https://s.shopee.com.br/5fpiL7sqdR",
+      "rating": "4.9",
+      "sales": 2470,
+      "shop": "Salon Line",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18156375729,
+        "productName": "Kit Shampoo + Condicionador Hidra Nutrição e Brilho Salon Line 300ml",
+        "price": "19.11",
+        "priceDiscountRate": 17,
+        "commissionRate": "0.21",
+        "sales": 2470,
+        "ratingStar": "4.9",
+        "shopName": "Salon Line",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b3-msbwtmkd0jk1cd",
+        "productLink": "https://shopee.com.br/product/616222685/18156375729",
+        "offerLink": "https://s.shopee.com.br/5fpiL7sqdR"
       },
       "_last_price": null
     },
