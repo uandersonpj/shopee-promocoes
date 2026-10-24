@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T05:56:12.593970+00:00",
+  "updated_at": "2026-10-24T06:14:59.880474+00:00",
   "total": 1132,
   "products": [
     {
@@ -200,7 +200,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134275-7rdxw-mdfucal40l6y57",
         "productLink": "https://shopee.com.br/product/236693678/26539956454",
         "offerLink": "https://s.shopee.com.br/qkSaNGkMa"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23497594302",
@@ -5156,6 +5157,35 @@
       "_last_price": null
     },
     {
+      "id": "23598926898",
+      "name": "Sambura De Arame Galvanizado P/ isca viva pesca peixe vivo",
+      "price": 28.19,
+      "original_price": 80.54,
+      "discount": 65.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbml-m5lv13aw49rf84",
+      "link": "https://s.shopee.com.br/9zyjcDIiCu",
+      "rating": "4.9",
+      "sales": 239,
+      "shop": "YURI.SHOP",
+      "category": "rede de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23598926898,
+        "productName": "Sambura De Arame Galvanizado P/ isca viva pesca peixe vivo",
+        "price": "28.19",
+        "priceDiscountRate": 65,
+        "commissionRate": "0.03",
+        "sales": 239,
+        "ratingStar": "4.9",
+        "shopName": "YURI.SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbml-m5lv13aw49rf84",
+        "productLink": "https://shopee.com.br/product/1202547029/23598926898",
+        "offerLink": "https://s.shopee.com.br/9zyjcDIiCu"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58204425378",
       "name": "Termômetro De Testa Infravermelha Digital",
       "price": 24.89,
@@ -5964,35 +5994,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257y-mszkik6mlwxw3d",
         "productLink": "https://shopee.com.br/product/1918891654/48267750550",
         "offerLink": "https://s.shopee.com.br/8KqVnqLMPH"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22693260211",
-      "name": "Sambura De Arame Galvanizado P/ isca viva pesca peixe vivo",
-      "price": 29.99,
-      "original_price": 81.05,
-      "discount": 63.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdyi-lzorhkgjtx524c",
-      "link": "https://s.shopee.com.br/9V2T1IKcDt",
-      "rating": "4.9",
-      "sales": 259,
-      "shop": "Sholovi Oficial",
-      "category": "rede de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22693260211,
-        "productName": "Sambura De Arame Galvanizado P/ isca viva pesca peixe vivo",
-        "price": "29.99",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.08",
-        "sales": 259,
-        "ratingStar": "4.9",
-        "shopName": "Sholovi Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyi-lzorhkgjtx524c",
-        "productLink": "https://shopee.com.br/product/390180328/22693260211",
-        "offerLink": "https://s.shopee.com.br/9V2T1IKcDt"
       },
       "_last_price": null
     },
@@ -26964,6 +26965,35 @@
       "_last_price": null
     },
     {
+      "id": "14604313620",
+      "name": "Ração Magnus Todo Dia Cães Adultos Carne 15kg",
+      "price": 89.9,
+      "original_price": 124.86,
+      "discount": 28.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m67cbhbc6hmaf0",
+      "link": "https://s.shopee.com.br/9V2QuDUF5r",
+      "rating": "4.9",
+      "sales": 1449,
+      "shop": "Popular Pet",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 14604313620,
+        "productName": "Ração Magnus Todo Dia Cães Adultos Carne 15kg",
+        "price": "89.9",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.03",
+        "sales": 1449,
+        "ratingStar": "4.9",
+        "shopName": "Popular Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m67cbhbc6hmaf0",
+        "productLink": "https://shopee.com.br/product/398944029/14604313620",
+        "offerLink": "https://s.shopee.com.br/9V2QuDUF5r"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19398297649",
       "name": "Ração Para Cachorro 15kg Special Dog Ultralife Gold Performance Adulto Carne Frango e Batata Doce",
       "price": 136.99,
@@ -31084,8 +31114,8 @@
     {
       "id": "23893698436",
       "name": "Kit 48 Carrinhos de Lata Metálica com Fricção - 8758 Coloridos Caixa Container  que Vira Pista",
-      "price": 65.99,
-      "original_price": 80.48,
+      "price": 65.98,
+      "original_price": 80.46,
       "discount": 18.0,
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mddjirck6er6d1",
@@ -31098,7 +31128,7 @@
       "_item": {
         "itemId": 23893698436,
         "productName": "Kit 48 Carrinhos de Lata Metálica com Fricção - 8758 Coloridos Caixa Container  que Vira Pista",
-        "price": "65.99",
+        "price": "65.98",
         "priceDiscountRate": 18,
         "commissionRate": "0.12",
         "sales": 3093,
@@ -32383,35 +32413,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mavi19u4ixa1c4",
         "productLink": "https://shopee.com.br/product/890111735/22194163978",
         "offerLink": "https://s.shopee.com.br/30oxolusBL"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23598162062",
-      "name": "Bifinho para Cães Adultos Petiscão Carne 1kg - Frete Rápido - ENVIO IMEDIATO",
-      "price": 33.9,
-      "original_price": 39.88,
-      "discount": 15.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbks-m5j8qthjyyhjec",
-      "link": "https://s.shopee.com.br/70L9FcJLQ7",
-      "rating": "5",
-      "sales": 606,
-      "shop": "GLOBAL STORE",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23598162062,
-        "productName": "Bifinho para Cães Adultos Petiscão Carne 1kg - Frete Rápido - ENVIO IMEDIATO",
-        "price": "33.9",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.07",
-        "sales": 606,
-        "ratingStar": "5",
-        "shopName": "GLOBAL STORE",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbks-m5j8qthjyyhjec",
-        "productLink": "https://shopee.com.br/product/283497587/23598162062",
-        "offerLink": "https://s.shopee.com.br/70L9FcJLQ7"
       },
       "_last_price": null
     },
