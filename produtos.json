@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T12:16:29.156175+00:00",
-  "total": 1123,
+  "updated_at": "2026-10-24T12:35:56.973997+00:00",
+  "total": 1124,
   "products": [
     {
       "id": "58210104632",
@@ -8982,8 +8982,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mlfcjdzl6ryf41",
         "productLink": "https://shopee.com.br/product/410067995/23198988208",
         "offerLink": "https://s.shopee.com.br/AAI7hLpv8O"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58212984375",
@@ -18436,6 +18435,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mq3n8g0o1ama14",
         "productLink": "https://shopee.com.br/product/395166866/9319243207",
         "offerLink": "https://s.shopee.com.br/qkSaFkJD2"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58214646445",
+      "name": "Kit 2 Perfumes Masculino e Feminino Luxo Presente Casal Elegante",
+      "price": 34.5,
+      "original_price": 59.48,
+      "discount": 42.0,
+      "commission": 14.000000000000002,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820me-mqwbvnl6c2ys1d",
+      "link": "https://s.shopee.com.br/5AtTtqvl6N",
+      "rating": "3.9",
+      "sales": 1649,
+      "shop": "Oásis.perfumaria",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58214646445,
+        "productName": "Kit 2 Perfumes Masculino e Feminino Luxo Presente Casal Elegante",
+        "price": "34.5",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.14",
+        "sales": 1649,
+        "ratingStar": "3.9",
+        "shopName": "Oásis.perfumaria",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mqwbvnl6c2ys1d",
+        "productLink": "https://shopee.com.br/product/1895240196/58214646445",
+        "offerLink": "https://s.shopee.com.br/5AtTtqvl6N"
       },
       "_last_price": null
     },
@@ -30422,7 +30450,7 @@
       "price": 29.99,
       "original_price": 37.02,
       "discount": 19.0,
-      "commission": 13.0,
+      "commission": 15.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820me-mu5trnacuq691b",
       "link": "https://s.shopee.com.br/1gJZZmPT7n",
       "rating": "4.9",
@@ -30435,7 +30463,7 @@
         "productName": "Protetor Solar Facial Hidrabene FPS 70 Toque Seco - 50g",
         "price": "29.99",
         "priceDiscountRate": 19,
-        "commissionRate": "0.13",
+        "commissionRate": "0.15",
         "sales": 716,
         "ratingStar": "4.9",
         "shopName": "Hidrabene ",
