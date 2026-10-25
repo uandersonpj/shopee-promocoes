@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T15:58:49.856309+00:00",
-  "total": 1125,
+  "updated_at": "2026-10-25T16:18:25.789598+00:00",
+  "total": 1126,
   "products": [
     {
       "id": "58210104632",
@@ -57,7 +57,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-msxmjc87thc46e",
         "productLink": "https://shopee.com.br/product/1198407784/52807406192",
         "offerLink": "https://s.shopee.com.br/3LRsMiPTmD"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21099546181",
@@ -2192,8 +2193,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-micol4p8wyrl81",
         "productLink": "https://shopee.com.br/product/1059934694/23294309688",
         "offerLink": "https://s.shopee.com.br/AUv2tp48w2"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "9212570285",
@@ -3354,6 +3354,34 @@
       "_last_price": null
     },
     {
+      "id": "22594284546",
+      "name": "Combo Gamer Pichau NetunoLight3x1,Rainbow,Teclado MecanicoABNT2,Mouse 4200DPI,Mousepad PG-NTNL-RBW01",
+      "price": 174.99,
+      "original_price": 564.48,
+      "discount": 69.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxu-mcwcg2khd6evec",
+      "link": "https://s.shopee.com.br/AUv2tkshHC",
+      "rating": "5",
+      "sales": 648,
+      "shop": "Pichau",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22594284546,
+        "productName": "Combo Gamer Pichau NetunoLight3x1,Rainbow,Teclado MecanicoABNT2,Mouse 4200DPI,Mousepad PG-NTNL-RBW01",
+        "price": "174.99",
+        "priceDiscountRate": 69,
+        "commissionRate": "0.03",
+        "sales": 648,
+        "ratingStar": "5",
+        "shopName": "Pichau",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxu-mcwcg2khd6evec",
+        "productLink": "https://shopee.com.br/product/627750190/22594284546",
+        "offerLink": "https://s.shopee.com.br/AUv2tkshHC"
+      }
+    },
+    {
       "id": "23394988549",
       "name": "Detergente em Pó para lava louças 1kg Limpeza Profunda - Remove Gordura Pesada - AlvejaPro",
       "price": 21.81,
@@ -4367,6 +4395,35 @@
       "_last_price": null
     },
     {
+      "id": "58208348035",
+      "name": "Mouse Pad Gamer Traxen Vários Tamanhos Abstrato Base Emborracha + Porta Copo",
+      "price": 15.49,
+      "original_price": 45.56,
+      "discount": 66.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mmrkprq4b3t080",
+      "link": "https://s.shopee.com.br/2BFuyROQBI",
+      "rating": "4.9",
+      "sales": 1335,
+      "shop": "Traxen",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58208348035,
+        "productName": "Mouse Pad Gamer Traxen Vários Tamanhos Abstrato Base Emborracha + Porta Copo",
+        "price": "15.49",
+        "priceDiscountRate": 66,
+        "commissionRate": "0.03",
+        "sales": 1335,
+        "ratingStar": "4.9",
+        "shopName": "Traxen",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mmrkprq4b3t080",
+        "productLink": "https://shopee.com.br/product/786353833/58208348035",
+        "offerLink": "https://s.shopee.com.br/2BFuyROQBI"
+      },
+      "_last_price": null
+    },
+    {
       "id": "46162754465",
       "name": "Fonte Cooler Master ATX 3.1 750W MWE Gold 750 V3 PFC Ativo 80 Plus Gold Sem/Cabo",
       "price": 369.9,
@@ -5088,6 +5145,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meha3wezmviafe",
         "productLink": "https://shopee.com.br/product/1189738188/22098915849",
         "offerLink": "https://s.shopee.com.br/6L5UR5or6Y"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "53602161553",
+      "name": "Sabão Cápsula Hode 353g Lava Roupas 4 em 1 Em Cápsula Amaciante Perfume Delicado Suave Detergente",
+      "price": 46.89,
+      "original_price": 130.25,
+      "discount": 64.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mq1wjms9613757",
+      "link": "https://s.shopee.com.br/W7gZsmqCS",
+      "rating": "4.9",
+      "sales": 1198,
+      "shop": "bondetudo",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 53602161553,
+        "productName": "Sabão Cápsula Hode 353g Lava Roupas 4 em 1 Em Cápsula Amaciante Perfume Delicado Suave Detergente",
+        "price": "46.89",
+        "priceDiscountRate": 64,
+        "commissionRate": "0.13",
+        "sales": 1198,
+        "ratingStar": "4.9",
+        "shopName": "bondetudo",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mq1wjms9613757",
+        "productLink": "https://shopee.com.br/product/1552402777/53602161553",
+        "offerLink": "https://s.shopee.com.br/W7gZsmqCS"
       },
       "_last_price": null
     },
@@ -6373,7 +6459,7 @@
       "discount": 62.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-msz7qbqsswll6a",
-      "link": "https://s.shopee.com.br/7farVTYsXP",
+      "link": "https://s.shopee.com.br/BUrRNh4eu",
       "rating": "4.9",
       "sales": 80,
       "shop": "BD Boutique De Lustres",
@@ -6390,7 +6476,7 @@
         "shopName": "BD Boutique De Lustres",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-msz7qbqsswll6a",
         "productLink": "https://shopee.com.br/product/1489642227/49817731610",
-        "offerLink": "https://s.shopee.com.br/7farVTYsXP"
+        "offerLink": "https://s.shopee.com.br/BUrRNh4eu"
       },
       "_last_price": null
     },
@@ -6453,6 +6539,35 @@
       "_last_price": null
     },
     {
+      "id": "43754234043",
+      "name": "Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente Aparelho De Pressão",
+      "price": 38.99,
+      "original_price": 99.97,
+      "discount": 61.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mawkl7entdq114",
+      "link": "https://s.shopee.com.br/6VOudOF5nE",
+      "rating": "4.9",
+      "sales": 3405,
+      "shop": "Cherrygo1.br",
+      "category": "monitor",
+      "source": "shopee",
+      "_item": {
+        "itemId": 43754234043,
+        "productName": "Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente Aparelho De Pressão",
+        "price": "38.99",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.03",
+        "sales": 3405,
+        "ratingStar": "4.9",
+        "shopName": "Cherrygo1.br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mawkl7entdq114",
+        "productLink": "https://shopee.com.br/product/1259086167/43754234043",
+        "offerLink": "https://s.shopee.com.br/6VOudOF5nE"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23893497572",
       "name": "Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medidor Oxigênio Recarregável Pulse Yihan",
       "price": 25.99,
@@ -6507,35 +6622,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtz23drmeh3613",
         "productLink": "https://shopee.com.br/product/1593878986/58269834909",
         "offerLink": "https://s.shopee.com.br/AUv2tkJMUB"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22194727361",
-      "name": "Mouse Pad Gamer Personalizado Grande RGB Anime Heróis Exclusivo 80x30cm Confortável e Preciso !",
-      "price": 15.57,
-      "original_price": 39.92,
-      "discount": 61.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82281-mhf7fpjbncwa3c",
-      "link": "https://s.shopee.com.br/AKbchRtKcB",
-      "rating": "4.8",
-      "sales": 682,
-      "shop": "Jutsu Anime Store",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22194727361,
-        "productName": "Mouse Pad Gamer Personalizado Grande RGB Anime Heróis Exclusivo 80x30cm Confortável e Preciso !",
-        "price": "15.57",
-        "priceDiscountRate": 61,
-        "commissionRate": "0.13",
-        "sales": 682,
-        "ratingStar": "4.8",
-        "shopName": "Jutsu Anime Store",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82281-mhf7fpjbncwa3c",
-        "productLink": "https://shopee.com.br/product/1502662038/22194727361",
-        "offerLink": "https://s.shopee.com.br/AKbchRtKcB"
       },
       "_last_price": null
     },
@@ -7004,6 +7090,35 @@
       "_last_price": null
     },
     {
+      "id": "58207453154",
+      "name": "Mouse Pad Gamer Traxen  32x27cm / 60x30cm / 70x35cm  Estampas Dragao Chines + Porta Copo",
+      "price": 15.49,
+      "original_price": 38.73,
+      "discount": 60.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lh-mm6h2c22h69s60",
+      "link": "https://s.shopee.com.br/1W0EBDQxX6",
+      "rating": "4.9",
+      "sales": 1911,
+      "shop": "Traxen",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58207453154,
+        "productName": "Mouse Pad Gamer Traxen  32x27cm / 60x30cm / 70x35cm  Estampas Dragao Chines + Porta Copo",
+        "price": "15.49",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.03",
+        "sales": 1911,
+        "ratingStar": "4.9",
+        "shopName": "Traxen",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mm6h2c22h69s60",
+        "productLink": "https://shopee.com.br/product/786353833/58207453154",
+        "offerLink": "https://s.shopee.com.br/1W0EBDQxX6"
+      },
+      "_last_price": null
+    },
+    {
       "id": "46360468172",
       "name": "Kit 4 Potes Herméticos Tampa Bambu Organizador Mantimentos Cozinha",
       "price": 39.99,
@@ -7435,35 +7550,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lkz9ur4r4lj3c1",
         "productLink": "https://shopee.com.br/product/752743341/18350470458",
         "offerLink": "https://s.shopee.com.br/9pfM6VDdsA"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "43754234043",
-      "name": "Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente Aparelho De Pressão",
-      "price": 40.98,
-      "original_price": 99.95,
-      "discount": 59.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mawkl7entdq114",
-      "link": "https://s.shopee.com.br/6VOudOF5nE",
-      "rating": "4.9",
-      "sales": 3405,
-      "shop": "Cherrygo1.br",
-      "category": "monitor",
-      "source": "shopee",
-      "_item": {
-        "itemId": 43754234043,
-        "productName": "Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente Aparelho De Pressão",
-        "price": "40.98",
-        "priceDiscountRate": 59,
-        "commissionRate": "0.03",
-        "sales": 3405,
-        "ratingStar": "4.9",
-        "shopName": "Cherrygo1.br",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mawkl7entdq114",
-        "productLink": "https://shopee.com.br/product/1259086167/43754234043",
-        "offerLink": "https://s.shopee.com.br/6VOudOF5nE"
       },
       "_last_price": null
     },
@@ -9940,7 +10026,7 @@
       "discount": 55.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkioznekh91dcd",
-      "link": "https://s.shopee.com.br/9V2VgqRtou",
+      "link": "https://s.shopee.com.br/1LgopWcdIH",
       "rating": "4.9",
       "sales": 65,
       "shop": "Ubero Imports",
@@ -9957,7 +10043,36 @@
         "shopName": "Ubero Imports",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkioznekh91dcd",
         "productLink": "https://shopee.com.br/product/1719286529/58202972742",
-        "offerLink": "https://s.shopee.com.br/9V2VgqRtou"
+        "offerLink": "https://s.shopee.com.br/1LgopWcdIH"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23195156657",
+      "name": "Placa de Video Mancer Radeon RX 5600 XT Streaky V2, 6GB, GDDR6, 256-bit, MCR-RX5600XT-STKV2",
+      "price": 1300.9,
+      "original_price": 2828.04,
+      "discount": 54.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82584-ms2ty7xf239i1d",
+      "link": "https://s.shopee.com.br/20wTriuPng",
+      "rating": "4.8",
+      "sales": 36,
+      "shop": "Pichau",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23195156657,
+        "productName": "Placa de Video Mancer Radeon RX 5600 XT Streaky V2, 6GB, GDDR6, 256-bit, MCR-RX5600XT-STKV2",
+        "price": "1300.9",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.03",
+        "sales": 36,
+        "ratingStar": "4.8",
+        "shopName": "Pichau",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82584-ms2ty7xf239i1d",
+        "productLink": "https://shopee.com.br/product/627750190/23195156657",
+        "offerLink": "https://s.shopee.com.br/20wTriuPng"
       },
       "_last_price": null
     },
@@ -10491,7 +10606,7 @@
       "discount": 54.0,
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh56v1mbfpxcf7",
-      "link": "https://s.shopee.com.br/6L5Tv1dxF1",
+      "link": "https://s.shopee.com.br/4B10CjRqXY",
       "rating": "4.9",
       "sales": 216,
       "shop": "tiopescada",
@@ -10508,7 +10623,7 @@
         "shopName": "tiopescada",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh56v1mbfpxcf7",
         "productLink": "https://shopee.com.br/product/1641676028/19198335914",
-        "offerLink": "https://s.shopee.com.br/6L5Tv1dxF1"
+        "offerLink": "https://s.shopee.com.br/4B10CjRqXY"
       },
       "_last_price": null
     },
@@ -11234,35 +11349,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mt6ul6vosop203",
         "productLink": "https://shopee.com.br/product/473616631/41365763294",
         "offerLink": "https://s.shopee.com.br/70LAjJoLzj"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23398082837",
-      "name": "Kit 2x Mousepad Ergonômico Gamer Com Apoio De Punho Pulso Mouse Pad Ergonomico Confortável Expedição",
-      "price": 11.59,
-      "original_price": 24.15,
-      "discount": 52.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3wfdg89ffhx9a",
-      "link": "https://s.shopee.com.br/50a7Ah6f16",
-      "rating": "4.9",
-      "sales": 810,
-      "shop": "Oliveira Flex",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23398082837,
-        "productName": "Kit 2x Mousepad Ergonômico Gamer Com Apoio De Punho Pulso Mouse Pad Ergonomico Confortável Expedição",
-        "price": "11.59",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.07",
-        "sales": 810,
-        "ratingStar": "4.9",
-        "shopName": "Oliveira Flex",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3wfdg89ffhx9a",
-        "productLink": "https://shopee.com.br/product/760173021/23398082837",
-        "offerLink": "https://s.shopee.com.br/50a7Ah6f16"
       },
       "_last_price": null
     },
@@ -12630,35 +12716,6 @@
       "_last_price": null
     },
     {
-      "id": "54659687727",
-      "name": "Isca Artificial Swim Jig com Pena 7g 10g 14g 21g 28g 42g 56g 85g Pesca Robalo Tucunaré Traíra， Hengjia ",
-      "price": 13.89,
-      "original_price": 28.35,
-      "discount": 51.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825a3-mr5c3zq982kl55",
-      "link": "https://s.shopee.com.br/4fxFxCb7pi",
-      "rating": "4.9",
-      "sales": 178,
-      "shop": "ASSTA.br",
-      "category": "isca artificial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 54659687727,
-        "productName": "Isca Artificial Swim Jig com Pena 7g 10g 14g 21g 28g 42g 56g 85g Pesca Robalo Tucunaré Traíra， Hengjia ",
-        "price": "13.89",
-        "priceDiscountRate": 51,
-        "commissionRate": "0.03",
-        "sales": 178,
-        "ratingStar": "4.9",
-        "shopName": "ASSTA.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a3-mr5c3zq982kl55",
-        "productLink": "https://shopee.com.br/product/1779751813/54659687727",
-        "offerLink": "https://s.shopee.com.br/4fxFxCb7pi"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18554808191",
       "name": "Caixa de Ferramentas 18.3\" Reforçada Tática Fecho Metal Maleta Organizadora para Ferramentas e Pesca",
       "price": 21.99,
@@ -13065,6 +13122,35 @@
       "_last_price": null
     },
     {
+      "id": "22393975400",
+      "name": "MousePad Grande Rosa Desk Pad Couro Gamer Office",
+      "price": 20.89,
+      "original_price": 41.78,
+      "discount": 50.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82602-mmdcdzfop4oy2e",
+      "link": "https://s.shopee.com.br/3LRsMaJyoP",
+      "rating": "4.9",
+      "sales": 2992,
+      "shop": "PrismaCar",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22393975400,
+        "productName": "MousePad Grande Rosa Desk Pad Couro Gamer Office",
+        "price": "20.89",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.07",
+        "sales": 2992,
+        "ratingStar": "4.9",
+        "shopName": "PrismaCar",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82602-mmdcdzfop4oy2e",
+        "productLink": "https://shopee.com.br/product/500815088/22393975400",
+        "offerLink": "https://s.shopee.com.br/3LRsMaJyoP"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23893330323",
       "name": "Mousepad Ergonômico Confort Neoprene Preto Apoio Pulso Antiderrapante Escritório Gamer Confortavel",
       "price": 12.99,
@@ -13094,60 +13180,31 @@
       "_last_price": null
     },
     {
-      "id": "20998666875",
-      "name": "Mouse Gamer Iluminado Led RGB 7 Botões Para Jogos 3200 Dpi",
-      "price": 29.99,
-      "original_price": 59.98,
+      "id": "23594243643",
+      "name": "MousePad Grande Caramelo Desk Pad Couro Gamer Office",
+      "price": 20.89,
+      "original_price": 41.78,
       "discount": 50.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ma-moo9fnuavcp279",
-      "link": "https://s.shopee.com.br/5AtXN061g9",
-      "rating": "4.8",
-      "sales": 620,
-      "shop": "@LVSHOP",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20998666875,
-        "productName": "Mouse Gamer Iluminado Led RGB 7 Botões Para Jogos 3200 Dpi",
-        "price": "29.99",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.12",
-        "sales": 620,
-        "ratingStar": "4.8",
-        "shopName": "@LVSHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-moo9fnuavcp279",
-        "productLink": "https://shopee.com.br/product/998773037/20998666875",
-        "offerLink": "https://s.shopee.com.br/5AtXN061g9"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18999661228",
-      "name": "Mousepad Gamer P/ Desktop Estampa Mapa Mundi 70X35CM Preto",
-      "price": 20.99,
-      "original_price": 41.98,
-      "discount": 50.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7m8bormq6qc20",
-      "link": "https://s.shopee.com.br/4fxGm57vh4",
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8261k-mmdczcdp0oaqd5",
+      "link": "https://s.shopee.com.br/1BNNmbSEDG",
       "rating": "4.9",
-      "sales": 833,
-      "shop": "MousePadStore",
+      "sales": 1220,
+      "shop": "PrismaCar",
       "category": "mouse gamer",
       "source": "shopee",
       "_item": {
-        "itemId": 18999661228,
-        "productName": "Mousepad Gamer P/ Desktop Estampa Mapa Mundi 70X35CM Preto",
-        "price": "20.99",
+        "itemId": 23594243643,
+        "productName": "MousePad Grande Caramelo Desk Pad Couro Gamer Office",
+        "price": "20.89",
         "priceDiscountRate": 50,
-        "commissionRate": "0.13",
-        "sales": 833,
+        "commissionRate": "0.07",
+        "sales": 1220,
         "ratingStar": "4.9",
-        "shopName": "MousePadStore",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7m8bormq6qc20",
-        "productLink": "https://shopee.com.br/product/1285432434/18999661228",
-        "offerLink": "https://s.shopee.com.br/4fxGm57vh4"
+        "shopName": "PrismaCar",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261k-mmdczcdp0oaqd5",
+        "productLink": "https://shopee.com.br/product/500815088/23594243643",
+        "offerLink": "https://s.shopee.com.br/1BNNmbSEDG"
       },
       "_last_price": null
     },
@@ -15537,7 +15594,7 @@
       "discount": 47.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfv6n6w1dpmo96",
-      "link": "https://s.shopee.com.br/7AeauYamYE",
+      "link": "https://s.shopee.com.br/40ha0QSTsX",
       "rating": "4.9",
       "sales": 141,
       "shop": "Atacadão Unamar",
@@ -15554,7 +15611,7 @@
         "shopName": "Atacadão Unamar",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfv6n6w1dpmo96",
         "productLink": "https://shopee.com.br/product/392709246/23697736565",
-        "offerLink": "https://s.shopee.com.br/7AeauYamYE"
+        "offerLink": "https://s.shopee.com.br/40ha0QSTsX"
       },
       "_last_price": null
     },
@@ -15613,35 +15670,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6m9l0e7xmo95",
         "productLink": "https://shopee.com.br/product/319738922/23594622047",
         "offerLink": "https://s.shopee.com.br/30p1xyq31Y"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22992915236",
-      "name": "Dispenser Organizador de Lavanderia 1,5L / 2,3 Acrílico Porta Amaciante Sabão em pó Sabonete Liquido Alvejante Ou Flow",
-      "price": 42.9,
-      "original_price": 79.44,
-      "discount": 46.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mswtj8oscc1wb3",
-      "link": "https://s.shopee.com.br/2BFuyRtDiV",
-      "rating": "4.9",
-      "sales": 369,
-      "shop": "Âncora Shopp",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22992915236,
-        "productName": "Dispenser Organizador de Lavanderia 1,5L / 2,3 Acrílico Porta Amaciante Sabão em pó Sabonete Liquido Alvejante Ou Flow",
-        "price": "42.9",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.07",
-        "sales": 369,
-        "ratingStar": "4.9",
-        "shopName": "Âncora Shopp",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mswtj8oscc1wb3",
-        "productLink": "https://shopee.com.br/product/316557325/22992915236",
-        "offerLink": "https://s.shopee.com.br/2BFuyRtDiV"
       },
       "_last_price": null
     },
@@ -16193,6 +16221,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9q78ptnww02b5",
         "productLink": "https://shopee.com.br/product/1457204820/20899598244",
         "offerLink": "https://s.shopee.com.br/7Ky17uN9wz"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22598826303",
+      "name": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
+      "price": 60.98,
+      "original_price": 110.87,
+      "discount": 45.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
+      "link": "https://s.shopee.com.br/3qO8xVI4nW",
+      "rating": "4.8",
+      "sales": 1734,
+      "shop": "Traxen",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22598826303,
+        "productName": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
+        "price": "60.98",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 1734,
+        "ratingStar": "4.8",
+        "shopName": "Traxen",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
+        "productLink": "https://shopee.com.br/product/786353833/22598826303",
+        "offerLink": "https://s.shopee.com.br/3qO8xVI4nW"
       },
       "_last_price": null
     },
@@ -17422,7 +17479,7 @@
       "discount": 44.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj7avimuo4quaf",
-      "link": "https://s.shopee.com.br/8AX86OWyWW",
+      "link": "https://s.shopee.com.br/W7hpzfnz0",
       "rating": "4.9",
       "sales": 98,
       "shop": "The boss comercial",
@@ -17439,7 +17496,7 @@
         "shopName": "The boss comercial",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj7avimuo4quaf",
         "productLink": "https://shopee.com.br/product/841002883/58252302694",
-        "offerLink": "https://s.shopee.com.br/8AX86OWyWW"
+        "offerLink": "https://s.shopee.com.br/W7hpzfnz0"
       },
       "_last_price": null
     },
@@ -17556,6 +17613,64 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
         "productLink": "https://shopee.com.br/product/983665337/22698451598",
         "offerLink": "https://s.shopee.com.br/5q9DqAql7X"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23694320738",
+      "name": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
+      "price": 50.99,
+      "original_price": 89.46,
+      "discount": 43.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
+      "link": "https://s.shopee.com.br/1LgnyuRas5",
+      "rating": "4.8",
+      "sales": 1566,
+      "shop": "Traxen",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23694320738,
+        "productName": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
+        "price": "50.99",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.03",
+        "sales": 1566,
+        "ratingStar": "4.8",
+        "shopName": "Traxen",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
+        "productLink": "https://shopee.com.br/product/786353833/23694320738",
+        "offerLink": "https://s.shopee.com.br/1LgnyuRas5"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22897502871",
+      "name": "Mousepad Gamer TGT K50M, Grande, 500x500x3mm, Preto, TGT-K50M-GRB01",
+      "price": 39.9,
+      "original_price": 70.0,
+      "discount": 43.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mqeqor4mw7i82d",
+      "link": "https://s.shopee.com.br/9V2VhuwVIu",
+      "rating": "5",
+      "sales": 503,
+      "shop": "Pichau",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22897502871,
+        "productName": "Mousepad Gamer TGT K50M, Grande, 500x500x3mm, Preto, TGT-K50M-GRB01",
+        "price": "39.9",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.03",
+        "sales": 503,
+        "ratingStar": "5",
+        "shopName": "Pichau",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mqeqor4mw7i82d",
+        "productLink": "https://shopee.com.br/product/627750190/22897502871",
+        "offerLink": "https://s.shopee.com.br/9V2VhuwVIu"
       },
       "_last_price": null
     },
@@ -18865,64 +18980,6 @@
       "_last_price": null
     },
     {
-      "id": "23898672363",
-      "name": "Mousepad Ergonômico Confort Desk Pad Grande Apoio Pulso Antiderrapante Escritório Gamer Confortavel",
-      "price": 9.97,
-      "original_price": 16.9,
-      "discount": 41.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjk93yf9p3pd94",
-      "link": "https://s.shopee.com.br/4VdqZm8Z25",
-      "rating": "4.8",
-      "sales": 626,
-      "shop": "C&L Decoração Moderna",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23898672363,
-        "productName": "Mousepad Ergonômico Confort Desk Pad Grande Apoio Pulso Antiderrapante Escritório Gamer Confortavel",
-        "price": "9.97",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.13",
-        "sales": 626,
-        "ratingStar": "4.8",
-        "shopName": "C&L Decoração Moderna",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjk93yf9p3pd94",
-        "productLink": "https://shopee.com.br/product/356328385/23898672363",
-        "offerLink": "https://s.shopee.com.br/4VdqZm8Z25"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "40680860232",
-      "name": "Kit Mobilador Gamer Completo Teclado Uma Mao Mouse Gamer Mousepad 30x90cm Hub Tipo C Tripé Full",
-      "price": 58.89,
-      "original_price": 99.81,
-      "discount": 41.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mq7rygguheyo48",
-      "link": "https://s.shopee.com.br/40hZyrAT30",
-      "rating": "4.8",
-      "sales": 369,
-      "shop": "PM Ecom Mix",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 40680860232,
-        "productName": "Kit Mobilador Gamer Completo Teclado Uma Mao Mouse Gamer Mousepad 30x90cm Hub Tipo C Tripé Full",
-        "price": "58.89",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.03",
-        "sales": 369,
-        "ratingStar": "4.8",
-        "shopName": "PM Ecom Mix",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mq7rygguheyo48",
-        "productLink": "https://shopee.com.br/product/1602882465/40680860232",
-        "offerLink": "https://s.shopee.com.br/40hZyrAT30"
-      },
-      "_last_price": null
-    },
-    {
       "id": "57955121076",
       "name": "Fonte ATX Gamemax 750W GP750 com Cabo PFC Ativo 80 Plus Bronze Preto",
       "price": 310.9,
@@ -19220,7 +19277,7 @@
       "discount": 41.0,
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg27kqozz4ef2a",
-      "link": "https://s.shopee.com.br/70LAiFbPtD",
+      "link": "https://s.shopee.com.br/4qGgzxPJBk",
       "rating": "4.9",
       "sales": 126,
       "shop": "S.O.S UTILIDADES",
@@ -19237,7 +19294,7 @@
         "shopName": "S.O.S UTILIDADES",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg27kqozz4ef2a",
         "productLink": "https://shopee.com.br/product/1599026953/23294543679",
-        "offerLink": "https://s.shopee.com.br/70LAiFbPtD"
+        "offerLink": "https://s.shopee.com.br/4qGgzxPJBk"
       },
       "_last_price": null
     },
@@ -21018,7 +21075,7 @@
       "discount": 38.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/sg-11134201-82632-mk9dovjmqt54e9",
-      "link": "https://s.shopee.com.br/6q1kVwc3E8",
+      "link": "https://s.shopee.com.br/4VdqbLQZre",
       "rating": "4.8",
       "sales": 83,
       "shop": "tameiadzig.br",
@@ -21035,7 +21092,7 @@
         "shopName": "tameiadzig.br",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82632-mk9dovjmqt54e9",
         "productLink": "https://shopee.com.br/product/207174365/48055804188",
-        "offerLink": "https://s.shopee.com.br/6q1kVwc3E8"
+        "offerLink": "https://s.shopee.com.br/4VdqbLQZre"
       },
       "_last_price": null
     },
@@ -24208,7 +24265,7 @@
       "discount": 33.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdudgwkx4uyhd1",
-      "link": "https://s.shopee.com.br/9APfIETAUo",
+      "link": "https://s.shopee.com.br/1W0F1pbzxI",
       "rating": "4.9",
       "sales": 99,
       "shop": "Schiavon Ecommerce",
@@ -24225,7 +24282,7 @@
         "shopName": "Schiavon Ecommerce",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdudgwkx4uyhd1",
         "productLink": "https://shopee.com.br/product/826593048/22798840569",
-        "offerLink": "https://s.shopee.com.br/9APfIETAUo"
+        "offerLink": "https://s.shopee.com.br/1W0F1pbzxI"
       },
       "_last_price": null
     },
@@ -25274,31 +25331,31 @@
       "_last_price": null
     },
     {
-      "id": "22098500509",
-      "name": "Kit Mouse Gamer + Mouse Pad Led Kit Gamer LED Iluminado RGB Para Jogos 1200DPI",
-      "price": 17.99,
-      "original_price": 25.7,
+      "id": "43050661409",
+      "name": "Mousepad Gamer APEX Control Mouse pad Grande 49x42 Mouse Pad Branco Preto Blade Red Girl Titorion",
+      "price": 69.89,
+      "original_price": 99.84,
       "discount": 30.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m4-moy8ifkag4cg98",
-      "link": "https://s.shopee.com.br/4LKQNT9CN2",
-      "rating": "4.9",
-      "sales": 629,
-      "shop": "@LVSHOP",
+      "commission": 17.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mujln0x9zrpf4c",
+      "link": "https://s.shopee.com.br/20wUm8P3WH",
+      "rating": "5",
+      "sales": 1435,
+      "shop": "Shop Borges",
       "category": "mouse gamer",
       "source": "shopee",
       "_item": {
-        "itemId": 22098500509,
-        "productName": "Kit Mouse Gamer + Mouse Pad Led Kit Gamer LED Iluminado RGB Para Jogos 1200DPI",
-        "price": "17.99",
+        "itemId": 43050661409,
+        "productName": "Mousepad Gamer APEX Control Mouse pad Grande 49x42 Mouse Pad Branco Preto Blade Red Girl Titorion",
+        "price": "69.89",
         "priceDiscountRate": 30,
-        "commissionRate": "0.12",
-        "sales": 629,
-        "ratingStar": "4.9",
-        "shopName": "@LVSHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-moy8ifkag4cg98",
-        "productLink": "https://shopee.com.br/product/998773037/22098500509",
-        "offerLink": "https://s.shopee.com.br/4LKQNT9CN2"
+        "commissionRate": "0.17",
+        "sales": 1435,
+        "ratingStar": "5",
+        "shopName": "Shop Borges",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mujln0x9zrpf4c",
+        "productLink": "https://shopee.com.br/product/473616631/43050661409",
+        "offerLink": "https://s.shopee.com.br/20wUm8P3WH"
       },
       "_last_price": null
     },
@@ -26180,7 +26237,7 @@
       "discount": 30.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rd5v-m6ziwp7tm4kb2d",
-      "link": "https://s.shopee.com.br/9fLvt9RGTz",
+      "link": "https://s.shopee.com.br/20wVcka5wT",
       "rating": "4.8",
       "sales": 39,
       "shop": "zhongyu.br",
@@ -26197,7 +26254,7 @@
         "shopName": "zhongyu.br",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd5v-m6ziwp7tm4kb2d",
         "productLink": "https://shopee.com.br/product/647546523/28228522926",
-        "offerLink": "https://s.shopee.com.br/9fLvt9RGTz"
+        "offerLink": "https://s.shopee.com.br/20wVcka5wT"
       },
       "_last_price": null
     },
@@ -26209,7 +26266,7 @@
       "discount": 30.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rbl1-lnvsaqnslu3qe2",
-      "link": "https://s.shopee.com.br/9zymHlPzo5",
+      "link": "https://s.shopee.com.br/9APg9v8oOv",
       "rating": "4.9",
       "sales": 73,
       "shop": "PENSOU.COMPROU.LEVOU",
@@ -26226,7 +26283,7 @@
         "shopName": "PENSOU.COMPROU.LEVOU",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbl1-lnvsaqnslu3qe2",
         "productLink": "https://shopee.com.br/product/1074001909/20597494947",
-        "offerLink": "https://s.shopee.com.br/9zymHlPzo5"
+        "offerLink": "https://s.shopee.com.br/9APg9v8oOv"
       },
       "_last_price": null
     },
@@ -28232,35 +28289,6 @@
       "_last_price": null
     },
     {
-      "id": "22396235066",
-      "name": "Lava Roupas Liquido Urca Lavanda - 5L",
-      "price": 29.9,
-      "original_price": 39.34,
-      "discount": 24.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7qvfx-lki79klhmzcp46",
-      "link": "https://s.shopee.com.br/6L5Tw6ukZp",
-      "rating": "4.9",
-      "sales": 1816,
-      "shop": "Casa de Gê",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22396235066,
-        "productName": "Lava Roupas Liquido Urca Lavanda - 5L",
-        "price": "29.9",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.13",
-        "sales": 1816,
-        "ratingStar": "4.9",
-        "shopName": "Casa de Gê",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvfx-lki79klhmzcp46",
-        "productLink": "https://shopee.com.br/product/534023108/22396235066",
-        "offerLink": "https://s.shopee.com.br/6L5Tw6ukZp"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23993471317",
       "name": "BB CreamBase/Corretivo com Esponja com Formato de Cogumelo Base Clareador Maquiagem Creme Clareador Cor Marfim e Natural",
       "price": 27.59,
@@ -29370,7 +29398,7 @@
       "discount": 22.0,
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfviuiagtdz4fe",
-      "link": "https://s.shopee.com.br/80Dhu5XbrV",
+      "link": "https://s.shopee.com.br/1BRF4hhzt",
       "rating": "4.9",
       "sales": 78,
       "shop": "Gami Pesca",
@@ -29387,7 +29415,7 @@
         "shopName": "Gami Pesca",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfviuiagtdz4fe",
         "productLink": "https://shopee.com.br/product/1415633946/22693606416",
-        "offerLink": "https://s.shopee.com.br/80Dhu5XbrV"
+        "offerLink": "https://s.shopee.com.br/1BRF4hhzt"
       },
       "_last_price": null
     },
@@ -29399,7 +29427,7 @@
       "discount": 22.0,
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfviuiagnrpcdf",
-      "link": "https://s.shopee.com.br/906F5vTnpn",
+      "link": "https://s.shopee.com.br/113yQudtyB",
       "rating": "4.9",
       "sales": 63,
       "shop": "Gami Pesca",
@@ -29416,7 +29444,7 @@
         "shopName": "Gami Pesca",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfviuiagnrpcdf",
         "productLink": "https://shopee.com.br/product/1415633946/22898098377",
-        "offerLink": "https://s.shopee.com.br/906F5vTnpn"
+        "offerLink": "https://s.shopee.com.br/113yQudtyB"
       },
       "_last_price": null
     },
@@ -29428,7 +29456,7 @@
       "discount": 22.0,
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rfhg-m493pi8mht2727",
-      "link": "https://s.shopee.com.br/AUv2sgO5nC",
+      "link": "https://s.shopee.com.br/2BFvp3ZSbU",
       "rating": "4.7",
       "sales": 38,
       "shop": "Levolpe - Patchwork e Costura",
@@ -29445,7 +29473,7 @@
         "shopName": "Levolpe - Patchwork e Costura",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfhg-m493pi8mht2727",
         "productLink": "https://shopee.com.br/product/312010583/14800989258",
-        "offerLink": "https://s.shopee.com.br/AUv2sgO5nC"
+        "offerLink": "https://s.shopee.com.br/2BFvp3ZSbU"
       },
       "_last_price": null
     },
@@ -30414,7 +30442,7 @@
       "discount": 20.0,
       "commission": 15.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-me7jrmrfqww3cd",
-      "link": "https://s.shopee.com.br/8KqYIhWLBb",
+      "link": "https://s.shopee.com.br/gR82IfAe5",
       "rating": "4.8",
       "sales": 96,
       "shop": "ALAS Comercial",
@@ -30431,7 +30459,7 @@
         "shopName": "ALAS Comercial",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me7jrmrfqww3cd",
         "productLink": "https://shopee.com.br/product/1316730580/41054174116",
-        "offerLink": "https://s.shopee.com.br/8KqYIhWLBb"
+        "offerLink": "https://s.shopee.com.br/gR82IfAe5"
       },
       "_last_price": null
     },
@@ -30989,8 +31017,8 @@
     {
       "id": "10971341240",
       "name": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente",
-      "price": 134.9,
-      "original_price": 164.51,
+      "price": 136.9,
+      "original_price": 166.95,
       "discount": 18.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mq56ui3fgwled9",
@@ -31003,7 +31031,7 @@
       "_item": {
         "itemId": 10971341240,
         "productName": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente",
-        "price": "134.9",
+        "price": "136.9",
         "priceDiscountRate": 18,
         "commissionRate": "0.07",
         "sales": 895,
