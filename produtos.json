@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T17:36:36.799982+00:00",
+  "updated_at": "2026-10-25T17:56:03.544353+00:00",
   "total": 1127,
   "products": [
     {
@@ -752,8 +752,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mtdinsxoh91e6d",
         "productLink": "https://shopee.com.br/product/1702440321/58268559860",
         "offerLink": "https://s.shopee.com.br/W7gzWif3k"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23394267693",
@@ -1070,7 +1069,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lzop7krz80iq1e",
         "productLink": "https://shopee.com.br/product/218996205/25391678999",
         "offerLink": "https://s.shopee.com.br/20wTgzLSZn"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "18999727561",
@@ -23040,35 +23040,6 @@
       "_last_price": null
     },
     {
-      "id": "22397902815",
-      "name": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
-      "price": 26.5,
-      "original_price": 40.15,
-      "discount": 34.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
-      "link": "https://s.shopee.com.br/5VWMwaXKJ8",
-      "rating": "4.9",
-      "sales": 4330,
-      "shop": "MANIAPLAST",
-      "category": "desinfetante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22397902815,
-        "productName": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
-        "price": "26.5",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.1",
-        "sales": 4330,
-        "ratingStar": "4.9",
-        "shopName": "MANIAPLAST",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
-        "productLink": "https://shopee.com.br/product/882971017/22397902815",
-        "offerLink": "https://s.shopee.com.br/5VWMwaXKJ8"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58213546442",
       "name": "Espátula Limpa Box com Pano de Microfibra | Limpa Trilhos, Box, Cantos e Frestas | Escolha seu Kit",
       "price": 16.59,
@@ -25447,6 +25418,35 @@
       "_last_price": null
     },
     {
+      "id": "22397902815",
+      "name": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
+      "price": 27.99,
+      "original_price": 39.99,
+      "discount": 30.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
+      "link": "https://s.shopee.com.br/5VWMwaXKJ8",
+      "rating": "4.9",
+      "sales": 4330,
+      "shop": "MANIAPLAST",
+      "category": "desinfetante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22397902815,
+        "productName": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
+        "price": "27.99",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.1",
+        "sales": 4330,
+        "ratingStar": "4.9",
+        "shopName": "MANIAPLAST",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
+        "productLink": "https://shopee.com.br/product/882971017/22397902815",
+        "offerLink": "https://s.shopee.com.br/5VWMwaXKJ8"
+      },
+      "_last_price": null
+    },
+    {
       "id": "14494160625",
       "name": "Kit Shampoo + Condicionador SOS Bomba Original Salon Line 200ml",
       "price": 19.95,
@@ -27415,35 +27415,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwd-m0ac9dpy96o086",
         "productLink": "https://shopee.com.br/product/1194006916/22893283679",
         "offerLink": "https://s.shopee.com.br/9APfJOmTvP"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22798642389",
-      "name": "Fritadeira Sem Óleo AirFryer HQ 4,8 litros Preto HQ-AF4.8LMP",
-      "price": 230.53,
-      "original_price": 311.53,
-      "discount": 26.0,
-      "commission": 4.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mr0bk1tj3eo755",
-      "link": "https://s.shopee.com.br/5q9DVcCszC",
-      "rating": "4.9",
-      "sales": 1198,
-      "shop": "Belmicro Oficial",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22798642389,
-        "productName": "Fritadeira Sem Óleo AirFryer HQ 4,8 litros Preto HQ-AF4.8LMP",
-        "price": "230.53",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.04",
-        "sales": 1198,
-        "ratingStar": "4.9",
-        "shopName": "Belmicro Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mr0bk1tj3eo755",
-        "productLink": "https://shopee.com.br/product/1388709282/22798642389",
-        "offerLink": "https://s.shopee.com.br/5q9DVcCszC"
       },
       "_last_price": null
     },
@@ -29764,6 +29735,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqm9tc9atfy83c",
         "productLink": "https://shopee.com.br/product/398944029/11969651651",
         "offerLink": "https://s.shopee.com.br/80DhvFZK9T"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "57205646686",
+      "name": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
+      "price": 181.77,
+      "original_price": 230.09,
+      "discount": 21.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
+      "link": "https://s.shopee.com.br/5AtWiOFQKj",
+      "rating": "4.9",
+      "sales": 4077,
+      "shop": "BESTBYBRASILGOLD",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57205646686,
+        "productName": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
+        "price": "181.77",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.06",
+        "sales": 4077,
+        "ratingStar": "4.9",
+        "shopName": "BESTBYBRASILGOLD",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
+        "productLink": "https://shopee.com.br/product/1494297971/57205646686",
+        "offerLink": "https://s.shopee.com.br/5AtWiOFQKj"
       },
       "_last_price": null
     },
