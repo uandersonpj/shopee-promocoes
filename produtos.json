@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T23:09:44.659257+00:00",
+  "updated_at": "2026-10-25T23:29:12.334659+00:00",
   "total": 1125,
   "products": [
     {
@@ -1967,7 +1967,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mtolww79jgn783",
         "productLink": "https://shopee.com.br/product/1506274241/58266336951",
         "offerLink": "https://s.shopee.com.br/BUr5x2wvb"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "44059916730",
@@ -10310,6 +10311,35 @@
       "_last_price": null
     },
     {
+      "id": "23997337490",
+      "name": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
+      "price": 22.9,
+      "original_price": 49.78,
+      "discount": 54.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
+      "link": "https://s.shopee.com.br/6Am3jvnkky",
+      "rating": "4.8",
+      "sales": 7921,
+      "shop": "CAZA SHOP",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23997337490,
+        "productName": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
+        "price": "22.9",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.11",
+        "sales": 7921,
+        "ratingStar": "4.8",
+        "shopName": "CAZA SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
+        "productLink": "https://shopee.com.br/product/1059936083/23997337490",
+        "offerLink": "https://s.shopee.com.br/6Am3jvnkky"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23893325676",
       "name": "Molinete De Pesca De Metal EVA HD1000-7000 Max Arraste 10kg Cana Em Água Salgada",
       "price": 38.0,
@@ -10625,8 +10655,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mt08ily5h8uca4",
         "productLink": "https://shopee.com.br/product/287703953/57159028091",
         "offerLink": "https://s.shopee.com.br/4Vdpkk1jIJ"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "29343102973",
@@ -11698,35 +11727,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mnq4mrzrg1s133",
         "productLink": "https://shopee.com.br/product/464824627/56103183692",
         "offerLink": "https://s.shopee.com.br/gR7BoHtYX"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22598355481",
-      "name": "Tenis feminino Casual Sapatenis Branco Leve Confortável Dia a Dia",
-      "price": 22.89,
-      "original_price": 47.69,
-      "discount": 52.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-msbisi8l3ldx89",
-      "link": "https://s.shopee.com.br/2BFuyZCBVw",
-      "rating": "4.7",
-      "sales": 1736,
-      "shop": "Aranda Shoes",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22598355481,
-        "productName": "Tenis feminino Casual Sapatenis Branco Leve Confortável Dia a Dia",
-        "price": "22.89",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 1736,
-        "ratingStar": "4.7",
-        "shopName": "Aranda Shoes",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-msbisi8l3ldx89",
-        "productLink": "https://shopee.com.br/product/1505006777/22598355481",
-        "offerLink": "https://s.shopee.com.br/2BFuyZCBVw"
       },
       "_last_price": null
     },
@@ -13818,31 +13818,31 @@
       "_last_price": null
     },
     {
-      "id": "23997337490",
-      "name": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
-      "price": 25.0,
-      "original_price": 50.0,
+      "id": "22598355481",
+      "name": "Tenis feminino Casual Sapatenis Branco Leve Confortável Dia a Dia",
+      "price": 23.9,
+      "original_price": 47.8,
       "discount": 50.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
-      "link": "https://s.shopee.com.br/6Am3jvnkky",
-      "rating": "4.8",
-      "sales": 7921,
-      "shop": "CAZA SHOP",
-      "category": "oculos sol",
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-msbisi8l3ldx89",
+      "link": "https://s.shopee.com.br/2BFuyZCBVw",
+      "rating": "4.7",
+      "sales": 1736,
+      "shop": "Aranda Shoes",
+      "category": "tenis feminino",
       "source": "shopee",
       "_item": {
-        "itemId": 23997337490,
-        "productName": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
-        "price": "25",
+        "itemId": 22598355481,
+        "productName": "Tenis feminino Casual Sapatenis Branco Leve Confortável Dia a Dia",
+        "price": "23.9",
         "priceDiscountRate": 50,
-        "commissionRate": "0.11",
-        "sales": 7921,
-        "ratingStar": "4.8",
-        "shopName": "CAZA SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
-        "productLink": "https://shopee.com.br/product/1059936083/23997337490",
-        "offerLink": "https://s.shopee.com.br/6Am3jvnkky"
+        "commissionRate": "0.03",
+        "sales": 1736,
+        "ratingStar": "4.7",
+        "shopName": "Aranda Shoes",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-msbisi8l3ldx89",
+        "productLink": "https://shopee.com.br/product/1505006777/22598355481",
+        "offerLink": "https://s.shopee.com.br/2BFuyZCBVw"
       },
       "_last_price": null
     },
@@ -26085,35 +26085,6 @@
       "_last_price": null
     },
     {
-      "id": "58262316558",
-      "name": "Chumbada Para Pesca Oliva Premium - 1 Kg",
-      "price": 34.9,
-      "original_price": 49.86,
-      "discount": 30.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820li-mpcbeojbkyrq82",
-      "link": "https://s.shopee.com.br/1BQOf5Lqw",
-      "rating": "4.9",
-      "sales": 106,
-      "shop": "SAVANA_ATACADISTA",
-      "category": "chumbada",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58262316558,
-        "productName": "Chumbada Para Pesca Oliva Premium - 1 Kg",
-        "price": "34.9",
-        "priceDiscountRate": 30,
-        "commissionRate": "0.03",
-        "sales": 106,
-        "ratingStar": "4.9",
-        "shopName": "SAVANA_ATACADISTA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mpcbeojbkyrq82",
-        "productLink": "https://shopee.com.br/product/1835712648/58262316558",
-        "offerLink": "https://s.shopee.com.br/1BQOf5Lqw"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22998548653",
       "name": "Rede Redinha Pesca Pronta Lambari Isca Malha 3 (15mm) 5 Metros",
       "price": 28.7,
@@ -26955,6 +26926,35 @@
       "_last_price": null
     },
     {
+      "id": "58262316558",
+      "name": "Chumbada Para Pesca Oliva Premium - 1 Kg",
+      "price": 35.9,
+      "original_price": 49.86,
+      "discount": 28.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820li-mpcbeojbkyrq82",
+      "link": "https://s.shopee.com.br/1BQOf5Lqw",
+      "rating": "4.9",
+      "sales": 106,
+      "shop": "SAVANA_ATACADISTA",
+      "category": "chumbada",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58262316558,
+        "productName": "Chumbada Para Pesca Oliva Premium - 1 Kg",
+        "price": "35.9",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.03",
+        "sales": 106,
+        "ratingStar": "4.9",
+        "shopName": "SAVANA_ATACADISTA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mpcbeojbkyrq82",
+        "productLink": "https://shopee.com.br/product/1835712648/58262316558",
+        "offerLink": "https://s.shopee.com.br/1BQOf5Lqw"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58218980214",
       "name": "Placa de Video Mancer Radeon RX 6600 Streaky V2, 8GB, GDDR6, 128-bit, MCR-RX6600-STKV2",
       "price": 1932.9,
@@ -27357,6 +27357,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwd-m0ac9dpy96o086",
         "productLink": "https://shopee.com.br/product/1194006916/22893283679",
         "offerLink": "https://s.shopee.com.br/9APfJOmTvP"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22798642389",
+      "name": "Fritadeira Sem Óleo AirFryer HQ 4,8 litros Preto HQ-AF4.8LMP",
+      "price": 230.53,
+      "original_price": 311.53,
+      "discount": 26.0,
+      "commission": 4.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mr0bk1tj3eo755",
+      "link": "https://s.shopee.com.br/5q9DVcCszC",
+      "rating": "4.9",
+      "sales": 1237,
+      "shop": "Belmicro Oficial",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22798642389,
+        "productName": "Fritadeira Sem Óleo AirFryer HQ 4,8 litros Preto HQ-AF4.8LMP",
+        "price": "230.53",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.04",
+        "sales": 1237,
+        "ratingStar": "4.9",
+        "shopName": "Belmicro Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mr0bk1tj3eo755",
+        "productLink": "https://shopee.com.br/product/1388709282/22798642389",
+        "offerLink": "https://s.shopee.com.br/5q9DVcCszC"
       },
       "_last_price": null
     },
@@ -28256,35 +28285,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvfx-lki79klhmzcp46",
         "productLink": "https://shopee.com.br/product/534023108/22396235066",
         "offerLink": "https://s.shopee.com.br/6L5Tw6ukZp"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23993471317",
-      "name": "BB CreamBase/Corretivo com Esponja com Formato de Cogumelo Base Clareador Maquiagem Creme Clareador Cor Marfim e Natural",
-      "price": 27.59,
-      "original_price": 36.3,
-      "discount": 24.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1jvmgodmffube",
-      "link": "https://s.shopee.com.br/2gCBZNziCe",
-      "rating": "4.9",
-      "sales": 10056,
-      "shop": "AMOR SHANG MEI LTDA",
-      "category": "esponja",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23993471317,
-        "productName": "BB CreamBase/Corretivo com Esponja com Formato de Cogumelo Base Clareador Maquiagem Creme Clareador Cor Marfim e Natural",
-        "price": "27.59",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.08",
-        "sales": 10056,
-        "ratingStar": "4.9",
-        "shopName": "AMOR SHANG MEI LTDA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1jvmgodmffube",
-        "productLink": "https://shopee.com.br/product/1347491961/23993471317",
-        "offerLink": "https://s.shopee.com.br/2gCBZNziCe"
       },
       "_last_price": null
     },
@@ -29536,6 +29536,35 @@
       "_last_price": null
     },
     {
+      "id": "23993471317",
+      "name": "BB CreamBase/Corretivo com Esponja com Formato de Cogumelo Base Clareador Maquiagem Creme Clareador Cor Marfim e Natural",
+      "price": 27.59,
+      "original_price": 34.92,
+      "discount": 21.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1jvmgodmffube",
+      "link": "https://s.shopee.com.br/2gCBZNziCe",
+      "rating": "4.9",
+      "sales": 10056,
+      "shop": "AMOR SHANG MEI LTDA",
+      "category": "esponja",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23993471317,
+        "productName": "BB CreamBase/Corretivo com Esponja com Formato de Cogumelo Base Clareador Maquiagem Creme Clareador Cor Marfim e Natural",
+        "price": "27.59",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.08",
+        "sales": 10056,
+        "ratingStar": "4.9",
+        "shopName": "AMOR SHANG MEI LTDA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1jvmgodmffube",
+        "productLink": "https://shopee.com.br/product/1347491961/23993471317",
+        "offerLink": "https://s.shopee.com.br/2gCBZNziCe"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18898329001",
       "name": "Creme De Limpeza De Sapatos Brancos 120G-Removedor Versátil De Manchas E Solução De Clareamento Com Esponja",
       "price": 19.0,
@@ -29677,35 +29706,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mp18dhjxhy4l91",
         "productLink": "https://shopee.com.br/product/987020544/58261911959",
         "offerLink": "https://s.shopee.com.br/1BQOYLNWv"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "57205646686",
-      "name": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
-      "price": 181.77,
-      "original_price": 230.09,
-      "discount": 21.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
-      "link": "https://s.shopee.com.br/5AtWiOFQKj",
-      "rating": "4.9",
-      "sales": 4078,
-      "shop": "BESTBYBRASILGOLD",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57205646686,
-        "productName": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
-        "price": "181.77",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.06",
-        "sales": 4078,
-        "ratingStar": "4.9",
-        "shopName": "BESTBYBRASILGOLD",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
-        "productLink": "https://shopee.com.br/product/1494297971/57205646686",
-        "offerLink": "https://s.shopee.com.br/5AtWiOFQKj"
       },
       "_last_price": null
     },
