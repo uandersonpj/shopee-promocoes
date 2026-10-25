@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T17:16:47.196646+00:00",
-  "total": 1124,
+  "updated_at": "2026-10-25T17:36:36.799982+00:00",
+  "total": 1127,
   "products": [
     {
       "id": "58210104632",
@@ -868,7 +868,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm5-lln14dkqwcs917",
         "productLink": "https://shopee.com.br/product/504210070/22492388439",
         "offerLink": "https://s.shopee.com.br/2qVblsCEUl"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49165555882",
@@ -1962,8 +1963,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mtolww79jgn783",
         "productLink": "https://shopee.com.br/product/1506274241/58266336951",
         "offerLink": "https://s.shopee.com.br/BUr5x2wvb"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "44059916730",
@@ -6743,35 +6743,6 @@
       "_last_price": null
     },
     {
-      "id": "22593622212",
-      "name": "Borracha De Vedação Panela De Pressão 3L, 4,5L E 6L 20cm 24cm Tramontina Vancouver",
-      "price": 18.5,
-      "original_price": 47.44,
-      "discount": 61.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4amwnsxxkjl2d",
-      "link": "https://s.shopee.com.br/20wVgezWzX",
-      "rating": "4.9",
-      "sales": 644,
-      "shop": "V2BEH PRODUTOS",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22593622212,
-        "productName": "Borracha De Vedação Panela De Pressão 3L, 4,5L E 6L 20cm 24cm Tramontina Vancouver",
-        "price": "18.5",
-        "priceDiscountRate": 61,
-        "commissionRate": "0.06",
-        "sales": 644,
-        "ratingStar": "4.9",
-        "shopName": "V2BEH PRODUTOS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4amwnsxxkjl2d",
-        "productLink": "https://shopee.com.br/product/353734372/22593622212",
-        "offerLink": "https://s.shopee.com.br/20wVgezWzX"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23494069000",
       "name": "607 Óculos De Sol Hexagonais Feminino Vintage Masculino Moda quadrados Oculos",
       "price": 12.86,
@@ -9934,8 +9905,8 @@
     {
       "id": "26538918731",
       "name": "Linha De Pesca 120M Condutor De Monofilamento De Fibra De Carbono Revestido De Fluorocarbono Resistente Ao Desgaste , Ad",
-      "price": 11.17,
-      "original_price": 24.82,
+      "price": 9.75,
+      "original_price": 21.67,
       "discount": 55.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825b8-mq36i3xnt34c85",
@@ -9948,7 +9919,7 @@
       "_item": {
         "itemId": 26538918731,
         "productName": "Linha De Pesca 120M Condutor De Monofilamento De Fibra De Carbono Revestido De Fluorocarbono Resistente Ao Desgaste , Ad",
-        "price": "11.17",
+        "price": "9.75",
         "priceDiscountRate": 55,
         "commissionRate": "0.07",
         "sales": 712,
@@ -11697,6 +11668,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfk692w7qbk442",
         "productLink": "https://shopee.com.br/product/1542901362/22494499643",
         "offerLink": "https://s.shopee.com.br/113xaPUMkv"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18499668742",
+      "name": "Jogo de Panelas 13 Peças Panela de Pressão 2L Conjunto Teflon Antiaderente Frigideira Caçarola",
+      "price": 188.86,
+      "original_price": 393.46,
+      "discount": 52.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mlw8e6mhslc068",
+      "link": "https://s.shopee.com.br/AKbchZPhi0",
+      "rating": "4.6",
+      "sales": 331,
+      "shop": "ClickComercioDigital",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18499668742,
+        "productName": "Jogo de Panelas 13 Peças Panela de Pressão 2L Conjunto Teflon Antiaderente Frigideira Caçarola",
+        "price": "188.86",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.03",
+        "sales": 331,
+        "ratingStar": "4.6",
+        "shopName": "ClickComercioDigital",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mlw8e6mhslc068",
+        "productLink": "https://shopee.com.br/product/958547234/18499668742",
+        "offerLink": "https://s.shopee.com.br/AKbchZPhi0"
       },
       "_last_price": null
     },
@@ -13645,7 +13645,7 @@
     },
     {
       "id": "22894378689",
-      "name": "Tapete Higiênico Descartável para Cachorro 60x60 cm Fralda Pet Xixi Cão Pequeno Médio Absorvente",
+      "name": "Tapete Higiênico Para Cães 60x60 Descartável Super Absorvente Fralda Pet Xixi Cachorro Gato Kit",
       "price": 19.94,
       "original_price": 39.88,
       "discount": 50.0,
@@ -13659,7 +13659,7 @@
       "source": "shopee",
       "_item": {
         "itemId": 22894378689,
-        "productName": "Tapete Higiênico Descartável para Cachorro 60x60 cm Fralda Pet Xixi Cão Pequeno Médio Absorvente",
+        "productName": "Tapete Higiênico Para Cães 60x60 Descartável Super Absorvente Fralda Pet Xixi Cachorro Gato Kit",
         "price": "19.94",
         "priceDiscountRate": 50,
         "commissionRate": "0.03",
@@ -13669,6 +13669,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-munt8wweatxcd6",
         "productLink": "https://shopee.com.br/product/1564303923/22894378689",
         "offerLink": "https://s.shopee.com.br/2qVcOiKSUF"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23399289696",
+      "name": "Tapete Higiênico Cachorro 60 x 60 Descartável Absorção Rápida Fralda Pet Xixi Pequeno e Médio Porte",
+      "price": 19.96,
+      "original_price": 39.92,
+      "discount": 50.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8260p-mjq1i2bmpz44d2",
+      "link": "https://s.shopee.com.br/4LKQBTEkRc",
+      "rating": "4.6",
+      "sales": 1201,
+      "shop": "escobartools",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23399289696,
+        "productName": "Tapete Higiênico Cachorro 60 x 60 Descartável Absorção Rápida Fralda Pet Xixi Pequeno e Médio Porte",
+        "price": "19.96",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 1201,
+        "ratingStar": "4.6",
+        "shopName": "escobartools",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260p-mjq1i2bmpz44d2",
+        "productLink": "https://shopee.com.br/product/1564303923/23399289696",
+        "offerLink": "https://s.shopee.com.br/4LKQBTEkRc"
       },
       "_last_price": null
     },
@@ -17878,35 +17907,6 @@
       "_last_price": null
     },
     {
-      "id": "21598777670",
-      "name": "Casinha Pet Cachorro N3 + Caminha Para Cachorro Casinha Para Cachorro Caminha de Cachorro",
-      "price": 39.99,
-      "original_price": 70.16,
-      "discount": 43.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcwg5y18qnsxd2",
-      "link": "https://s.shopee.com.br/4qGgnmHhb6",
-      "rating": "4.8",
-      "sales": 376,
-      "shop": "Pet Tobby",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21598777670,
-        "productName": "Casinha Pet Cachorro N3 + Caminha Para Cachorro Casinha Para Cachorro Caminha de Cachorro",
-        "price": "39.99",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.11",
-        "sales": 376,
-        "ratingStar": "4.8",
-        "shopName": "Pet Tobby",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcwg5y18qnsxd2",
-        "productLink": "https://shopee.com.br/product/829646892/21598777670",
-        "offerLink": "https://s.shopee.com.br/4qGgnmHhb6"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22493277109",
       "name": "2 Cápsula Café Reutilizável Dolce Gusto Preto/Transparente/Castanho Recarregável Refrescante Efectivo Promoção",
       "price": 13.59,
@@ -20865,6 +20865,64 @@
       "_last_price": null
     },
     {
+      "id": "21598777670",
+      "name": "Casinha Pet Cachorro N3 + Caminha Para Cachorro Casinha Para Cachorro Caminha de Cachorro",
+      "price": 43.34,
+      "original_price": 69.9,
+      "discount": 38.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcwg5y18qnsxd2",
+      "link": "https://s.shopee.com.br/4qGgnmHhb6",
+      "rating": "4.8",
+      "sales": 376,
+      "shop": "Pet Tobby",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21598777670,
+        "productName": "Casinha Pet Cachorro N3 + Caminha Para Cachorro Casinha Para Cachorro Caminha de Cachorro",
+        "price": "43.34",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.11",
+        "sales": 376,
+        "ratingStar": "4.8",
+        "shopName": "Pet Tobby",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcwg5y18qnsxd2",
+        "productLink": "https://shopee.com.br/product/829646892/21598777670",
+        "offerLink": "https://s.shopee.com.br/4qGgnmHhb6"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "51608731933",
+      "name": "Panela de Pressão 4,5L Com Visor Fechamento Interno Antiaderente MTA CORES",
+      "price": 142.99,
+      "original_price": 230.63,
+      "discount": 38.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mts1nbh1mk1sde",
+      "link": "https://s.shopee.com.br/6q1kX8d1o3",
+      "rating": "4.9",
+      "sales": 1371,
+      "shop": "BUMPER MAGAZINE",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 51608731933,
+        "productName": "Panela de Pressão 4,5L Com Visor Fechamento Interno Antiaderente MTA CORES",
+        "price": "142.99",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.12",
+        "sales": 1371,
+        "ratingStar": "4.9",
+        "shopName": "BUMPER MAGAZINE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mts1nbh1mk1sde",
+        "productLink": "https://shopee.com.br/product/342086228/51608731933",
+        "offerLink": "https://s.shopee.com.br/6q1kX8d1o3"
+      },
+      "_last_price": null
+    },
+    {
       "id": "28535302263",
       "name": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente Teflon Varias Cores Cozimento Rapido",
       "price": 141.78,
@@ -21528,6 +21586,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824gm-mdzqzv4b6txgcd",
         "productLink": "https://shopee.com.br/product/1388464863/26790623882",
         "offerLink": "https://s.shopee.com.br/2qVblljn1K"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23294925206",
+      "name": "Jogo de Panela Pressão Antiaderente 4,5 Litros e 3 Litros Cozillar",
+      "price": 189.78,
+      "original_price": 301.24,
+      "discount": 37.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mmkfyhrc9a868b",
+      "link": "https://s.shopee.com.br/6Am3jufZ9r",
+      "rating": "4.9",
+      "sales": 4646,
+      "shop": "Cozillar - Panelas Frigideiras",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23294925206,
+        "productName": "Jogo de Panela Pressão Antiaderente 4,5 Litros e 3 Litros Cozillar",
+        "price": "189.78",
+        "priceDiscountRate": 37,
+        "commissionRate": "0.03",
+        "sales": 4646,
+        "ratingStar": "4.9",
+        "shopName": "Cozillar - Panelas Frigideiras",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mmkfyhrc9a868b",
+        "productLink": "https://shopee.com.br/product/379103154/23294925206",
+        "offerLink": "https://s.shopee.com.br/6Am3jufZ9r"
       },
       "_last_price": null
     },
@@ -22572,6 +22659,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9068frjp1xe46",
         "productLink": "https://shopee.com.br/product/862830026/23793927191",
         "offerLink": "https://s.shopee.com.br/8KqYJtXJlQ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "26894959240",
+      "name": "Jogo De 9 Panelas Antiaderente Teflon Com Panela Pressão 2l",
+      "price": 188.97,
+      "original_price": 290.72,
+      "discount": 35.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mp0wdxz0a87518",
+      "link": "https://s.shopee.com.br/8AX87aXx6R",
+      "rating": "4.7",
+      "sales": 686,
+      "shop": "ARARAS ONLINE",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 26894959240,
+        "productName": "Jogo De 9 Panelas Antiaderente Teflon Com Panela Pressão 2l",
+        "price": "188.97",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.13",
+        "sales": 686,
+        "ratingStar": "4.7",
+        "shopName": "ARARAS ONLINE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mp0wdxz0a87518",
+        "productLink": "https://shopee.com.br/product/1215385259/26894959240",
+        "offerLink": "https://s.shopee.com.br/8AX87aXx6R"
       },
       "_last_price": null
     },
@@ -24432,35 +24548,6 @@
       "_last_price": null
     },
     {
-      "id": "18998141405",
-      "name": "Panela de Pressão Alegrete 4,5 L Fechamento Externo Diversas Cores Teflon Anti-Anderente",
-      "price": 148.9,
-      "original_price": 218.97,
-      "discount": 32.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94e69oo943m5e",
-      "link": "https://s.shopee.com.br/8AX91zc3Tl",
-      "rating": "4.8",
-      "sales": 506,
-      "shop": "Big_ecommerce",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18998141405,
-        "productName": "Panela de Pressão Alegrete 4,5 L Fechamento Externo Diversas Cores Teflon Anti-Anderente",
-        "price": "148.9",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.11",
-        "sales": 506,
-        "ratingStar": "4.8",
-        "shopName": "Big_ecommerce",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94e69oo943m5e",
-        "productLink": "https://shopee.com.br/product/659727139/18998141405",
-        "offerLink": "https://s.shopee.com.br/8AX91zc3Tl"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23294539279",
       "name": "COLETE SALVA VIDAS WAVE JOGA EAF ADULTO PRAIA PISCINA PESCA LAZER FLUTUAÇÃO",
       "price": 96.09,
@@ -24892,6 +24979,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258u-mudribwj1wxz7a",
         "productLink": "https://shopee.com.br/product/489001115/10764754425",
         "offerLink": "https://s.shopee.com.br/1BQOZlEdp"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20997919456",
+      "name": "Jogo de Panelas Teflon Munique 11 Pçs com Panela de Pressão fechamento externo de 2.5L",
+      "price": 275.6,
+      "original_price": 399.42,
+      "discount": 31.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdx9-m0uhupvpbqlh8d",
+      "link": "https://s.shopee.com.br/7puHiyZDmH",
+      "rating": "4.7",
+      "sales": 1366,
+      "shop": "Global Alumínios",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20997919456,
+        "productName": "Jogo de Panelas Teflon Munique 11 Pçs com Panela de Pressão fechamento externo de 2.5L",
+        "price": "275.6",
+        "priceDiscountRate": 31,
+        "commissionRate": "0.09",
+        "sales": 1366,
+        "ratingStar": "4.7",
+        "shopName": "Global Alumínios",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx9-m0uhupvpbqlh8d",
+        "productLink": "https://shopee.com.br/product/583326427/20997919456",
+        "offerLink": "https://s.shopee.com.br/7puHiyZDmH"
       },
       "_last_price": null
     },
@@ -26810,35 +26926,6 @@
       "_last_price": null
     },
     {
-      "id": "19975160032",
-      "name": "Panela De Pressão Fechamento Externo Antiaderente 4,5L Nacional",
-      "price": 134.65,
-      "original_price": 187.01,
-      "discount": 28.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mo9nab0ho2klbf",
-      "link": "https://s.shopee.com.br/2LZM5GyGJZ",
-      "rating": "4.9",
-      "sales": 465,
-      "shop": "Alumínio Nacional",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19975160032,
-        "productName": "Panela De Pressão Fechamento Externo Antiaderente 4,5L Nacional",
-        "price": "134.65",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.07",
-        "sales": 465,
-        "ratingStar": "4.9",
-        "shopName": "Alumínio Nacional",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mo9nab0ho2klbf",
-        "productLink": "https://shopee.com.br/product/359066629/19975160032",
-        "offerLink": "https://s.shopee.com.br/2LZM5GyGJZ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22493344923",
       "name": "Necessaire Feminina Personalizada com Inicial Box com Alça Porta Maquiagem Bolsa Viagem",
       "price": 17.92,
@@ -27328,6 +27415,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwd-m0ac9dpy96o086",
         "productLink": "https://shopee.com.br/product/1194006916/22893283679",
         "offerLink": "https://s.shopee.com.br/9APfJOmTvP"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22798642389",
+      "name": "Fritadeira Sem Óleo AirFryer HQ 4,8 litros Preto HQ-AF4.8LMP",
+      "price": 230.53,
+      "original_price": 311.53,
+      "discount": 26.0,
+      "commission": 4.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mr0bk1tj3eo755",
+      "link": "https://s.shopee.com.br/5q9DVcCszC",
+      "rating": "4.9",
+      "sales": 1198,
+      "shop": "Belmicro Oficial",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22798642389,
+        "productName": "Fritadeira Sem Óleo AirFryer HQ 4,8 litros Preto HQ-AF4.8LMP",
+        "price": "230.53",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.04",
+        "sales": 1198,
+        "ratingStar": "4.9",
+        "shopName": "Belmicro Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mr0bk1tj3eo755",
+        "productLink": "https://shopee.com.br/product/1388709282/22798642389",
+        "offerLink": "https://s.shopee.com.br/5q9DVcCszC"
       },
       "_last_price": null
     },
@@ -29648,35 +29764,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mqm9tc9atfy83c",
         "productLink": "https://shopee.com.br/product/398944029/11969651651",
         "offerLink": "https://s.shopee.com.br/80DhvFZK9T"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "57205646686",
-      "name": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
-      "price": 181.77,
-      "original_price": 230.09,
-      "discount": 21.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
-      "link": "https://s.shopee.com.br/5AtWiOFQKj",
-      "rating": "4.9",
-      "sales": 4077,
-      "shop": "BESTBYBRASILGOLD",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57205646686,
-        "productName": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
-        "price": "181.77",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.06",
-        "sales": 4077,
-        "ratingStar": "4.9",
-        "shopName": "BESTBYBRASILGOLD",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
-        "productLink": "https://shopee.com.br/product/1494297971/57205646686",
-        "offerLink": "https://s.shopee.com.br/5AtWiOFQKj"
       },
       "_last_price": null
     },
