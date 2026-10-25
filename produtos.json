@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T08:54:14.292145+00:00",
-  "total": 1117,
+  "updated_at": "2026-10-25T09:12:53.062311+00:00",
+  "total": 1130,
   "products": [
     {
       "id": "58210104632",
@@ -1478,7 +1478,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbkc-lpcg90v8yx5251",
         "productLink": "https://shopee.com.br/product/987393610/22397182239",
         "offerLink": "https://s.shopee.com.br/2BFuyYczFI"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23498458783",
@@ -2351,6 +2352,35 @@
       "_last_price": null
     },
     {
+      "id": "17370976709",
+      "name": "Isca Artificial Whopper Popper 13g/35g Iscas De Pesca Top Água",
+      "price": 7.84,
+      "original_price": 28.0,
+      "discount": 72.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/38f05806d01ed654d61cc598c39391ee",
+      "link": "https://s.shopee.com.br/3VlIZ3fZCN",
+      "rating": "4.8",
+      "sales": 256,
+      "shop": "qqPesca.br",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 17370976709,
+        "productName": "Isca Artificial Whopper Popper 13g/35g Iscas De Pesca Top Água",
+        "price": "7.84",
+        "priceDiscountRate": 72,
+        "commissionRate": "0.03",
+        "sales": 256,
+        "ratingStar": "4.8",
+        "shopName": "qqPesca.br",
+        "imageUrl": "https://cf.shopee.com.br/file/38f05806d01ed654d61cc598c39391ee",
+        "productLink": "https://shopee.com.br/product/769957349/17370976709",
+        "offerLink": "https://s.shopee.com.br/3VlIZ3fZCN"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18617064006",
       "name": "Isca De Pesca 13g/10cm Minnow Olhos 3D Em Plástico Resistente",
       "price": 7.79,
@@ -2637,6 +2667,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr7g6pzaeed783",
         "productLink": "https://shopee.com.br/product/465639879/23397324970",
         "offerLink": "https://s.shopee.com.br/8V9yWDNGty"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18397027563",
+      "name": "Cores Isca De Pesca 7,5g/8,5cm Minnow Plástica Flutuante Artificial Dura Para Truta Robalo",
+      "price": 6.76,
+      "original_price": 23.31,
+      "discount": 71.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7qve3-lhub9cgwdj2le2",
+      "link": "https://s.shopee.com.br/5AtWY7ZDon",
+      "rating": "4.8",
+      "sales": 171,
+      "shop": "YQBUY.br",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18397027563,
+        "productName": "Cores Isca De Pesca 7,5g/8,5cm Minnow Plástica Flutuante Artificial Dura Para Truta Robalo",
+        "price": "6.76",
+        "priceDiscountRate": 71,
+        "commissionRate": "0.08",
+        "sales": 171,
+        "ratingStar": "4.8",
+        "shopName": "YQBUY.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qve3-lhub9cgwdj2le2",
+        "productLink": "https://shopee.com.br/product/754127588/18397027563",
+        "offerLink": "https://s.shopee.com.br/5AtWY7ZDon"
       },
       "_last_price": null
     },
@@ -4972,7 +5031,7 @@
       "rating": "4.8",
       "sales": 589,
       "shop": "qqPesca.br",
-      "category": "isca pesca",
+      "category": "isca artificial",
       "source": "shopee",
       "_item": {
         "itemId": 17570976729,
@@ -8673,6 +8732,35 @@
       "_last_price": null
     },
     {
+      "id": "58208652572",
+      "name": "Kit 163/133/107 Peças Iscas Artificiais Pesca Iscas Macias Rã Lagosta Popper Minnow para Tilápia Água Doce e Salgada",
+      "price": 43.49,
+      "original_price": 101.14,
+      "discount": 57.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mtngwmw9sqv7c4",
+      "link": "https://s.shopee.com.br/50a6LoZr9k",
+      "rating": "4.8",
+      "sales": 267,
+      "shop": "MagiLeaf Outdoor",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58208652572,
+        "productName": "Kit 163/133/107 Peças Iscas Artificiais Pesca Iscas Macias Rã Lagosta Popper Minnow para Tilápia Água Doce e Salgada",
+        "price": "43.49",
+        "priceDiscountRate": 57,
+        "commissionRate": "0.07",
+        "sales": 267,
+        "ratingStar": "4.8",
+        "shopName": "MagiLeaf Outdoor",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mtngwmw9sqv7c4",
+        "productLink": "https://shopee.com.br/product/1506274241/58208652572",
+        "offerLink": "https://s.shopee.com.br/50a6LoZr9k"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58258714531",
       "name": "KIT 163/133/107 Peças Unidades Isca Artificiai Pesca Conjunto De Isca De Pesca Caixa Macia Dura Ganchos Sal Água Doce",
       "price": 43.49,
@@ -9307,6 +9395,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm3-lmr7kt9dlf89d7",
         "productLink": "https://shopee.com.br/product/233660920/19894088143",
         "offerLink": "https://s.shopee.com.br/3VlIZ3x661"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21885136923",
+      "name": "1PC 5g/7g/10g/14g/20g Afundamento De Iscas Duras Artificiais 3D",
+      "price": 6.39,
+      "original_price": 14.52,
+      "discount": 56.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbkn-lmr7fglvhadsea",
+      "link": "https://s.shopee.com.br/3B8SARgpsL",
+      "rating": "4.9",
+      "sales": 297,
+      "shop": "tokushima.br",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21885136923,
+        "productName": "1PC 5g/7g/10g/14g/20g Afundamento De Iscas Duras Artificiais 3D",
+        "price": "6.39",
+        "priceDiscountRate": 56,
+        "commissionRate": "0.07",
+        "sales": 297,
+        "ratingStar": "4.9",
+        "shopName": "tokushima.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbkn-lmr7fglvhadsea",
+        "productLink": "https://shopee.com.br/product/233078623/21885136923",
+        "offerLink": "https://s.shopee.com.br/3B8SARgpsL"
       },
       "_last_price": null
     },
@@ -12675,6 +12792,35 @@
       "_last_price": null
     },
     {
+      "id": "54659687727",
+      "name": "Isca Artificial Swim Jig com Pena 7g 10g 14g 21g 28g 42g 56g 85g Pesca Robalo Tucunaré Traíra， Hengjia ",
+      "price": 13.89,
+      "original_price": 28.35,
+      "discount": 51.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825a3-mr5c3zq982kl55",
+      "link": "https://s.shopee.com.br/4fxFxCb7pi",
+      "rating": "4.9",
+      "sales": 178,
+      "shop": "ASSTA.br",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 54659687727,
+        "productName": "Isca Artificial Swim Jig com Pena 7g 10g 14g 21g 28g 42g 56g 85g Pesca Robalo Tucunaré Traíra， Hengjia ",
+        "price": "13.89",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.03",
+        "sales": 178,
+        "ratingStar": "4.9",
+        "shopName": "ASSTA.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a3-mr5c3zq982kl55",
+        "productLink": "https://shopee.com.br/product/1779751813/54659687727",
+        "offerLink": "https://s.shopee.com.br/4fxFxCb7pi"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18554808191",
       "name": "Caixa de Ferramentas 18.3\" Reforçada Tática Fecho Metal Maleta Organizadora para Ferramentas e Pesca",
       "price": 21.99,
@@ -13933,7 +14079,7 @@
       "rating": "4.9",
       "sales": 510,
       "shop": "cocoai.br",
-      "category": "isca pesca",
+      "category": "isca artificial",
       "source": "shopee",
       "_item": {
         "itemId": 20930844336,
@@ -13947,6 +14093,64 @@
         "imageUrl": "https://cf.shopee.com.br/file/9e40d3db5f68c799914587853b3caf59",
         "productLink": "https://shopee.com.br/product/797027700/20930844336",
         "offerLink": "https://s.shopee.com.br/5VWMwjpU26"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "54202197457",
+      "name": "LUREHARBOR 9cm/10g Isca Minnow Flutuante",
+      "price": 15.99,
+      "original_price": 31.98,
+      "discount": 50.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mqve5ul4p72j38",
+      "link": "https://s.shopee.com.br/4LKPYacOVg",
+      "rating": "4.9",
+      "sales": 274,
+      "shop": "LUREHARBOR ",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 54202197457,
+        "productName": "LUREHARBOR 9cm/10g Isca Minnow Flutuante",
+        "price": "15.99",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.12",
+        "sales": 274,
+        "ratingStar": "4.9",
+        "shopName": "LUREHARBOR ",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mqve5ul4p72j38",
+        "productLink": "https://shopee.com.br/product/1611633722/54202197457",
+        "offerLink": "https://s.shopee.com.br/4LKPYacOVg"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18737701536",
+      "name": "1pcs Isca Artificial De Sapo Macia Água Superior 5g 8g 13g",
+      "price": 5.99,
+      "original_price": 11.98,
+      "discount": 50.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/53f59459dfc3354c7e77164c41c2a782",
+      "link": "https://s.shopee.com.br/40hZ9ydfBe",
+      "rating": "4.8",
+      "sales": 197,
+      "shop": "qqPesca.br",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18737701536,
+        "productName": "1pcs Isca Artificial De Sapo Macia Água Superior 5g 8g 13g",
+        "price": "5.99",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 197,
+        "ratingStar": "4.8",
+        "shopName": "qqPesca.br",
+        "imageUrl": "https://cf.shopee.com.br/file/53f59459dfc3354c7e77164c41c2a782",
+        "productLink": "https://shopee.com.br/product/769957349/18737701536",
+        "offerLink": "https://s.shopee.com.br/40hZ9ydfBe"
       },
       "_last_price": null
     },
@@ -14933,6 +15137,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mcsy0v96251c40",
         "productLink": "https://shopee.com.br/product/1550289846/29789318659",
         "offerLink": "https://s.shopee.com.br/1Lgnz3fUMp"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "50357672850",
+      "name": "Vara De Pesca 2.4 m , 40 % Fibra De Carbono Com Carretel De metal (7.2 : 1) + 10 Iscas Artificiais",
+      "price": 99.99,
+      "original_price": 192.29,
+      "discount": 48.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mm8jmpe4agw12d",
+      "link": "https://s.shopee.com.br/4VdpktblAj",
+      "rating": "4.9",
+      "sales": 196,
+      "shop": "BD Boutique De Lustres",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 50357672850,
+        "productName": "Vara De Pesca 2.4 m , 40 % Fibra De Carbono Com Carretel De metal (7.2 : 1) + 10 Iscas Artificiais",
+        "price": "99.99",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.11",
+        "sales": 196,
+        "ratingStar": "4.9",
+        "shopName": "BD Boutique De Lustres",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mm8jmpe4agw12d",
+        "productLink": "https://shopee.com.br/product/1489642227/50357672850",
+        "offerLink": "https://s.shopee.com.br/4VdpktblAj"
       },
       "_last_price": null
     },
@@ -18979,7 +19212,7 @@
       "rating": "4.8",
       "sales": 335,
       "shop": "Ebfishing.br",
-      "category": "isca pesca",
+      "category": "isca artificial",
       "source": "shopee",
       "_item": {
         "itemId": 58158722329,
@@ -20273,6 +20506,35 @@
       "_last_price": null
     },
     {
+      "id": "58266772415",
+      "name": "Kit 5/10/20 Iscas Artificial Soft Bait Tucunaré Traira Corvina",
+      "price": 24.5,
+      "original_price": 40.16,
+      "discount": 39.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825ab-ms92jr67k3yffd",
+      "link": "https://s.shopee.com.br/4qGg9VaUUl",
+      "rating": "4.9",
+      "sales": 225,
+      "shop": "KiBarato Shop",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58266772415,
+        "productName": "Kit 5/10/20 Iscas Artificial Soft Bait Tucunaré Traira Corvina",
+        "price": "24.5",
+        "priceDiscountRate": 39,
+        "commissionRate": "0.03",
+        "sales": 225,
+        "ratingStar": "4.9",
+        "shopName": "KiBarato Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ab-ms92jr67k3yffd",
+        "productLink": "https://shopee.com.br/product/1838844633/58266772415",
+        "offerLink": "https://s.shopee.com.br/4qGg9VaUUl"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18498293522",
       "name": "Mochila Bolsa Reforçada Notebook Impermeavel Colorido Material Premium Elegantes Excecultivo Ref:888",
       "price": 39.3,
@@ -20820,6 +21082,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd5w-m76rt2vtn821b6",
         "productLink": "https://shopee.com.br/product/1603567416/44315735571",
         "offerLink": "https://s.shopee.com.br/113xaSFxHP"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23599169119",
+      "name": "MEDOOSI Kit 71 Iscas Artificiais Premium - Anzol Duplo e Olhos 3D | Meia Água para Pesca de Truta Realista e Peixes",
+      "price": 24.9,
+      "original_price": 40.16,
+      "discount": 38.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-821ec-mha4mjvl7evjb4",
+      "link": "https://s.shopee.com.br/2qVblpi6YJ",
+      "rating": "4.8",
+      "sales": 246,
+      "shop": "MEDOOSI-BR",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23599169119,
+        "productName": "MEDOOSI Kit 71 Iscas Artificiais Premium - Anzol Duplo e Olhos 3D | Meia Água para Pesca de Truta Realista e Peixes",
+        "price": "24.9",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.09",
+        "sales": 246,
+        "ratingStar": "4.8",
+        "shopName": "MEDOOSI-BR",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ec-mha4mjvl7evjb4",
+        "productLink": "https://shopee.com.br/product/1257233492/23599169119",
+        "offerLink": "https://s.shopee.com.br/2qVblpi6YJ"
       },
       "_last_price": null
     },
@@ -22506,6 +22797,35 @@
       "_last_price": null
     },
     {
+      "id": "18798998311",
+      "name": "Isca Artificial Sapo Frog Anti Enrosco Superfície Pesca Esportiva Traíra Tucunaré Black Bass Robalo Dourado Silicone",
+      "price": 12.97,
+      "original_price": 19.95,
+      "discount": 35.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mt02ukvjvjlz4e",
+      "link": "https://s.shopee.com.br/3LRsMkxjQy",
+      "rating": "4.9",
+      "sales": 413,
+      "shop": "FastEcomSP",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18798998311,
+        "productName": "Isca Artificial Sapo Frog Anti Enrosco Superfície Pesca Esportiva Traíra Tucunaré Black Bass Robalo Dourado Silicone",
+        "price": "12.97",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.03",
+        "sales": 413,
+        "ratingStar": "4.9",
+        "shopName": "FastEcomSP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mt02ukvjvjlz4e",
+        "productLink": "https://shopee.com.br/product/1058451512/18798998311",
+        "offerLink": "https://s.shopee.com.br/3LRsMkxjQy"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23696330300",
       "name": "Isca Plástica De Macia Para Pesca 2g/6g Biônica Ao Ar Livre Suprimentos Falsa",
       "price": 12.59,
@@ -22531,35 +22851,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvf2-ljfcqv3stk5la5",
         "productLink": "https://shopee.com.br/product/987178113/23696330300",
         "offerLink": "https://s.shopee.com.br/9Kj5VmatFj"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18798998311",
-      "name": "Isca Artificial Sapo Frog Anti Enrosco Superfície Pesca Esportiva Traíra Tucunaré Black Bass Robalo Dourado Silicone",
-      "price": 12.97,
-      "original_price": 19.95,
-      "discount": 35.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mt02ukvjvjlz4e",
-      "link": "https://s.shopee.com.br/3LRsMkxjQy",
-      "rating": "4.9",
-      "sales": 413,
-      "shop": "FastEcomSP",
-      "category": "isca pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18798998311,
-        "productName": "Isca Artificial Sapo Frog Anti Enrosco Superfície Pesca Esportiva Traíra Tucunaré Black Bass Robalo Dourado Silicone",
-        "price": "12.97",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.03",
-        "sales": 413,
-        "ratingStar": "4.9",
-        "shopName": "FastEcomSP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mt02ukvjvjlz4e",
-        "productLink": "https://shopee.com.br/product/1058451512/18798998311",
-        "offerLink": "https://s.shopee.com.br/3LRsMkxjQy"
       },
       "_last_price": null
     },
@@ -24938,6 +25229,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-muo463v4gsg00e",
         "productLink": "https://shopee.com.br/product/1441056601/23698481572",
         "offerLink": "https://s.shopee.com.br/3g4ilKffiS"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58266769609",
+      "name": "Isca Artificial Soft Bait Silicone Tucunaré Traíra Corvina Kit  1/5/10",
+      "price": 27.5,
+      "original_price": 39.86,
+      "discount": 31.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-ms8xasbneeivf3",
+      "link": "https://s.shopee.com.br/20wUmIlHEw",
+      "rating": "4.8",
+      "sales": 676,
+      "shop": "Luzul Shop",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58266769609,
+        "productName": "Isca Artificial Soft Bait Silicone Tucunaré Traíra Corvina Kit  1/5/10",
+        "price": "27.5",
+        "priceDiscountRate": 31,
+        "commissionRate": "0.11",
+        "sales": 676,
+        "ratingStar": "4.8",
+        "shopName": "Luzul Shop",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-ms8xasbneeivf3",
+        "productLink": "https://shopee.com.br/product/750228545/58266769609",
+        "offerLink": "https://s.shopee.com.br/20wUmIlHEw"
       },
       "_last_price": null
     },
@@ -27345,6 +27665,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qh-mp4n0ea973t760",
         "productLink": "https://shopee.com.br/product/1006215031/27700492684",
         "offerLink": "https://s.shopee.com.br/AKbchaXtJD"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58210022340",
+      "name": "Isca Artificial Savage 65 Marine Sports 6,5cm / 6g - Todas as Cores - Robalo Tucunaré Traíra Dourado",
+      "price": 38.38,
+      "original_price": 51.86,
+      "discount": 26.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823qa-moorvce5znri9d",
+      "link": "https://s.shopee.com.br/4B0zMHd1qh",
+      "rating": "5",
+      "sales": 245,
+      "shop": "PROV.X",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58210022340,
+        "productName": "Isca Artificial Savage 65 Marine Sports 6,5cm / 6g - Todas as Cores - Robalo Tucunaré Traíra Dourado",
+        "price": "38.38",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.03",
+        "sales": 245,
+        "ratingStar": "5",
+        "shopName": "PROV.X",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823qa-moorvce5znri9d",
+        "productLink": "https://shopee.com.br/product/1702710597/58210022340",
+        "offerLink": "https://s.shopee.com.br/4B0zMHd1qh"
       },
       "_last_price": null
     },
@@ -30100,6 +30449,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcd0-lt0t2xbpm0gp2e",
         "productLink": "https://shopee.com.br/product/916909083/24269632484",
         "offerLink": "https://s.shopee.com.br/4qGg9V1MVE"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58210022320",
+      "name": "Isca Artificial Rei Do Rio 80 - 8cm / 8,5g - Marine Sports Traíra Tucunaré Robalo",
+      "price": 35.8,
+      "original_price": 44.75,
+      "discount": 20.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-820ll-mns3xse166mdda",
+      "link": "https://s.shopee.com.br/3qO8xfeIWP",
+      "rating": "4.9",
+      "sales": 362,
+      "shop": "PROV.X",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58210022320,
+        "productName": "Isca Artificial Rei Do Rio 80 - 8cm / 8,5g - Marine Sports Traíra Tucunaré Robalo",
+        "price": "35.8",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.03",
+        "sales": 362,
+        "ratingStar": "4.9",
+        "shopName": "PROV.X",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820ll-mns3xse166mdda",
+        "productLink": "https://shopee.com.br/product/1702710597/58210022320",
+        "offerLink": "https://s.shopee.com.br/3qO8xfeIWP"
       },
       "_last_price": null
     },
