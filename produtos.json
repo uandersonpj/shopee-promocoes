@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T05:47:02.560957+00:00",
+  "updated_at": "2026-10-25T06:05:50.254678+00:00",
   "total": 1129,
   "products": [
     {
@@ -692,7 +692,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-825a2-mgdcr60zrwgcdc",
         "productLink": "https://shopee.com.br/product/1006215031/51250897834",
         "offerLink": "https://s.shopee.com.br/7Ky184jJOL"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58268559860",
@@ -4258,35 +4259,6 @@
       "_last_price": null
     },
     {
-      "id": "58209107153",
-      "name": "3/2/1 Formas de Silicone Quadrada Assadeira Air Fryer e Forno Forma para Fritadeira Elétrica com Alça",
-      "price": 10.0,
-      "original_price": 30.3,
-      "discount": 67.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824ix-me64x24er3eo01",
-      "link": "https://s.shopee.com.br/4B0zME0mSs",
-      "rating": "4.7",
-      "sales": 1495,
-      "shop": "Fullshop.br",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58209107153,
-        "productName": "3/2/1 Formas de Silicone Quadrada Assadeira Air Fryer e Forno Forma para Fritadeira Elétrica com Alça",
-        "price": "10",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.03",
-        "sales": 1495,
-        "ratingStar": "4.7",
-        "shopName": "Fullshop.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ix-me64x24er3eo01",
-        "productLink": "https://shopee.com.br/product/1083951020/58209107153",
-        "offerLink": "https://s.shopee.com.br/4B0zME0mSs"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22993817264",
       "name": "Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estruturada e Espaçosa",
       "price": 39.98,
@@ -4700,7 +4672,7 @@
       "discount": 66.0,
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7ra1y-mbikdnlkoa3e0e",
-      "link": "https://s.shopee.com.br/3B8SAO4aUW",
+      "link": "https://s.shopee.com.br/7Ky1IN7AwP",
       "rating": "4.7",
       "sales": 2357,
       "shop": "Newshop Variedades",
@@ -4717,7 +4689,7 @@
         "shopName": "Newshop Variedades",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra1y-mbikdnlkoa3e0e",
         "productLink": "https://shopee.com.br/product/1541927562/23294180222",
-        "offerLink": "https://s.shopee.com.br/3B8SAO4aUW"
+        "offerLink": "https://s.shopee.com.br/7Ky1IN7AwP"
       },
       "_last_price": null
     },
@@ -5251,7 +5223,7 @@
       "discount": 64.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-822zd-moeo4sxj318tb2",
-      "link": "https://s.shopee.com.br/3qO8xc238a",
+      "link": "https://s.shopee.com.br/6fiKV99iID",
       "rating": "4.9",
       "sales": 2156,
       "shop": "DomusVida",
@@ -5268,7 +5240,7 @@
         "shopName": "DomusVida",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822zd-moeo4sxj318tb2",
         "productLink": "https://shopee.com.br/product/574679875/58215441377",
-        "offerLink": "https://s.shopee.com.br/3qO8xc238a"
+        "offerLink": "https://s.shopee.com.br/6fiKV99iID"
       },
       "_last_price": null
     },
@@ -5280,7 +5252,7 @@
       "discount": 64.0,
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-821ee-mggvnhpoe5n07f",
-      "link": "https://s.shopee.com.br/4LKPYX097t",
+      "link": "https://s.shopee.com.br/6VOuIqALdO",
       "rating": "4.8",
       "sales": 1464,
       "shop": "VidaBem",
@@ -5297,7 +5269,7 @@
         "shopName": "VidaBem",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ee-mggvnhpoe5n07f",
         "productLink": "https://shopee.com.br/product/1647418767/58250184742",
-        "offerLink": "https://s.shopee.com.br/4LKPYX097t"
+        "offerLink": "https://s.shopee.com.br/6VOuIqALdO"
       },
       "_last_price": null
     },
@@ -7367,7 +7339,7 @@
       "discount": 60.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rep2-m8i16u5pyp4wcf",
-      "link": "https://s.shopee.com.br/2BFuyY8OWA",
+      "link": "https://s.shopee.com.br/2qVbw6OJ4N",
       "rating": "4.8",
       "sales": 2595,
       "shop": "RYT WEB",
@@ -7384,7 +7356,7 @@
         "shopName": "RYT WEB",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rep2-m8i16u5pyp4wcf",
         "productLink": "https://shopee.com.br/product/407523450/23598387814",
-        "offerLink": "https://s.shopee.com.br/2BFuyY8OWA"
+        "offerLink": "https://s.shopee.com.br/2qVbw6OJ4N"
       },
       "_last_price": null
     },
@@ -8063,7 +8035,7 @@
       "discount": 58.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mu9scy1ab5s278",
-      "link": "https://s.shopee.com.br/1gJeNdAIX7",
+      "link": "https://s.shopee.com.br/3LRsX1MP3W",
       "rating": "4.8",
       "sales": 2540,
       "shop": "Win  ",
@@ -8080,7 +8052,7 @@
         "shopName": "Win  ",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mu9scy1ab5s278",
         "productLink": "https://shopee.com.br/product/405617888/22694463642",
-        "offerLink": "https://s.shopee.com.br/1gJeNdAIX7"
+        "offerLink": "https://s.shopee.com.br/3LRsX1MP3W"
       },
       "_last_price": null
     },
@@ -8092,7 +8064,7 @@
       "discount": 58.0,
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-824iu-me96xd96itj808",
-      "link": "https://s.shopee.com.br/3VlIZ03JoY",
+      "link": "https://s.shopee.com.br/70LAtl8RcJ",
       "rating": "4.7",
       "sales": 1503,
       "shop": "Mix Essencial Variedades",
@@ -8109,7 +8081,7 @@
         "shopName": "Mix Essencial Variedades",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824iu-me96xd96itj808",
         "productLink": "https://shopee.com.br/product/987059980/21198282551",
-        "offerLink": "https://s.shopee.com.br/3VlIZ03JoY"
+        "offerLink": "https://s.shopee.com.br/70LAtl8RcJ"
       },
       "_last_price": null
     },
@@ -9919,7 +9891,7 @@
       "discount": 55.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mos9uk8pk937ff",
-      "link": "https://s.shopee.com.br/5AtWY3wyQy",
+      "link": "https://s.shopee.com.br/5LCwuhEn05",
       "rating": "4.7",
       "sales": 1536,
       "shop": "UnoToys",
@@ -9936,7 +9908,7 @@
         "shopName": "UnoToys",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mos9uk8pk937ff",
         "productLink": "https://shopee.com.br/product/330057410/17686897164",
-        "offerLink": "https://s.shopee.com.br/5AtWY3wyQy"
+        "offerLink": "https://s.shopee.com.br/5LCwuhEn05"
       },
       "_last_price": null
     },
@@ -11137,7 +11109,7 @@
       "discount": 53.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ln-msc30lkqvnrb8e",
-      "link": "https://s.shopee.com.br/3LRsMh3x9X",
+      "link": "https://s.shopee.com.br/7VHRUg6XbQ",
       "rating": "4.8",
       "sales": 2224,
       "shop": "B&R Shop",
@@ -11154,7 +11126,7 @@
         "shopName": "B&R Shop",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-msc30lkqvnrb8e",
         "productLink": "https://shopee.com.br/product/1252701665/23893228453",
-        "offerLink": "https://s.shopee.com.br/3LRsMh3x9X"
+        "offerLink": "https://s.shopee.com.br/7VHRUg6XbQ"
       },
       "_last_price": null
     },
@@ -11166,7 +11138,7 @@
       "discount": 53.0,
       "commission": 5.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mt5a3yo106x3f1",
-      "link": "https://s.shopee.com.br/2qVblm5rAU",
+      "link": "https://s.shopee.com.br/7fargz5uGV",
       "rating": "4.7",
       "sales": 2252,
       "shop": "tbuckstore",
@@ -11183,7 +11155,7 @@
         "shopName": "tbuckstore",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mt5a3yo106x3f1",
         "productLink": "https://shopee.com.br/product/981104754/58265602117",
-        "offerLink": "https://s.shopee.com.br/2qVblm5rAU"
+        "offerLink": "https://s.shopee.com.br/7fargz5uGV"
       },
       "_last_price": null
     },
@@ -12529,7 +12501,7 @@
       "discount": 51.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l9-msc0ajin8w78fb",
-      "link": "https://s.shopee.com.br/2gCBZT6UVT",
+      "link": "https://s.shopee.com.br/5VWN70E9f6",
       "rating": "4.8",
       "sales": 1667,
       "shop": "Casa&C Shop",
@@ -12546,7 +12518,7 @@
         "shopName": "Casa&C Shop",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-msc0ajin8w78fb",
         "productLink": "https://shopee.com.br/product/1252710748/22993048849",
-        "offerLink": "https://s.shopee.com.br/2gCBZT6UVT"
+        "offerLink": "https://s.shopee.com.br/5VWN70E9f6"
       },
       "_last_price": null
     },
@@ -13921,7 +13893,7 @@
       "discount": 50.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mh-msc0ajin7hms37",
-      "link": "https://s.shopee.com.br/BUqasG0Zi",
+      "link": "https://s.shopee.com.br/4qGgJmGh0h",
       "rating": "4.8",
       "sales": 3485,
       "shop": "Casa&C Shop",
@@ -13938,7 +13910,7 @@
         "shopName": "Casa&C Shop",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-msc0ajin7hms37",
         "productLink": "https://shopee.com.br/product/1252710748/23798203051",
-        "offerLink": "https://s.shopee.com.br/BUqasG0Zi"
+        "offerLink": "https://s.shopee.com.br/4qGgJmGh0h"
       },
       "_last_price": null
     },
@@ -14559,7 +14531,7 @@
       "discount": 49.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8260x-mlny1rsmaa683b",
-      "link": "https://s.shopee.com.br/4qGg9RyF6w",
+      "link": "https://s.shopee.com.br/5fpnJJDWKB",
       "rating": "4.6",
       "sales": 1552,
       "shop": "kellyspace",
@@ -14576,7 +14548,7 @@
         "shopName": "kellyspace",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260x-mlny1rsmaa683b",
         "productLink": "https://shopee.com.br/product/328538026/22897562777",
-        "offerLink": "https://s.shopee.com.br/4qGg9RyF6w"
+        "offerLink": "https://s.shopee.com.br/5fpnJJDWKB"
       },
       "_last_price": null
     },
@@ -24563,7 +24535,7 @@
       "discount": 32.0,
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lb-moh9avb3ey9scc",
-      "link": "https://s.shopee.com.br/3qO8xcJa0C",
+      "link": "https://s.shopee.com.br/6q1khS94xE",
       "rating": "4.7",
       "sales": 1929,
       "shop": "Amoritta Kids",
@@ -24580,7 +24552,7 @@
         "shopName": "Amoritta Kids",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-moh9avb3ey9scc",
         "productLink": "https://shopee.com.br/product/417728659/20599359513",
-        "offerLink": "https://s.shopee.com.br/3qO8xcJa0C"
+        "offerLink": "https://s.shopee.com.br/6q1khS94xE"
       },
       "_last_price": null
     },
@@ -27521,7 +27493,7 @@
       "discount": 26.0,
       "commission": 4.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mr0bk1tj3eo755",
-      "link": "https://s.shopee.com.br/50a6Lkxblx",
+      "link": "https://s.shopee.com.br/5q9DVcCszC",
       "rating": "4.9",
       "sales": 1198,
       "shop": "Belmicro Oficial",
@@ -27538,7 +27510,7 @@
         "shopName": "Belmicro Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mr0bk1tj3eo755",
         "productLink": "https://shopee.com.br/product/1388709282/22798642389",
-        "offerLink": "https://s.shopee.com.br/50a6Lkxblx"
+        "offerLink": "https://s.shopee.com.br/5q9DVcCszC"
       },
       "_last_price": null
     },
@@ -29863,6 +29835,35 @@
       "_last_price": null
     },
     {
+      "id": "57205646686",
+      "name": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
+      "price": 181.77,
+      "original_price": 230.09,
+      "discount": 21.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
+      "link": "https://s.shopee.com.br/5AtWiOFQKj",
+      "rating": "4.9",
+      "sales": 4077,
+      "shop": "BESTBYBRASILGOLD",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57205646686,
+        "productName": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
+        "price": "181.77",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.06",
+        "sales": 4077,
+        "ratingStar": "4.9",
+        "shopName": "BESTBYBRASILGOLD",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
+        "productLink": "https://shopee.com.br/product/1494297971/57205646686",
+        "offerLink": "https://s.shopee.com.br/5AtWiOFQKj"
+      },
+      "_last_price": null
+    },
+    {
       "id": "17134946092",
       "name": "Linha De Pesca Monofilamento Top Platinum Carretel Grande Mazzaferro - Várias Espessuras",
       "price": 38.81,
@@ -30305,7 +30306,7 @@
       "discount": 20.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820le-mpcphejk4eth7f",
-      "link": "https://s.shopee.com.br/4fxFx8ysRv",
+      "link": "https://s.shopee.com.br/6Am3uEBcJI",
       "rating": "4.7",
       "sales": 1453,
       "shop": "HJ Prime Shop",
@@ -30322,7 +30323,7 @@
         "shopName": "HJ Prime Shop",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mpcphejk4eth7f",
         "productLink": "https://shopee.com.br/product/429439423/40881634244",
-        "offerLink": "https://s.shopee.com.br/4fxFx8ysRv"
+        "offerLink": "https://s.shopee.com.br/6Am3uEBcJI"
       },
       "_last_price": null
     },
@@ -30740,7 +30741,7 @@
       "discount": 19.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mn35kosak2kh10",
-      "link": "https://s.shopee.com.br/30p1y55DpV",
+      "link": "https://s.shopee.com.br/7puHtI5GvW",
       "rating": "4.8",
       "sales": 1603,
       "shop": "De Assis Utilidades",
@@ -30757,7 +30758,7 @@
         "shopName": "De Assis Utilidades",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mn35kosak2kh10",
         "productLink": "https://shopee.com.br/product/1456505255/58258988827",
-        "offerLink": "https://s.shopee.com.br/30p1y55DpV"
+        "offerLink": "https://s.shopee.com.br/7puHtI5GvW"
       },
       "_last_price": null
     },
