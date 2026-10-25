@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T02:18:24.316539+00:00",
+  "updated_at": "2026-10-25T02:37:49.645802+00:00",
   "total": 1127,
   "products": [
     {
@@ -1991,7 +1991,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mr1pu215296u72",
         "productLink": "https://shopee.com.br/product/1541994310/58214913448",
         "offerLink": "https://s.shopee.com.br/7KxwK8jFIS"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22099046331",
@@ -2603,8 +2604,8 @@
     {
       "id": "23397324970",
       "name": "Relógio À Prova D'água LED Digital de Pulso Esportivo feminino Masculino Ultra9 Esporte Pulseira De Silicone",
-      "price": 13.98,
-      "original_price": 48.21,
+      "price": 13.99,
+      "original_price": 48.24,
       "discount": 71.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr7g6pzaeed783",
@@ -2617,7 +2618,7 @@
       "_item": {
         "itemId": 23397324970,
         "productName": "Relógio À Prova D'água LED Digital de Pulso Esportivo feminino Masculino Ultra9 Esporte Pulseira De Silicone",
-        "price": "13.98",
+        "price": "13.99",
         "priceDiscountRate": 71,
         "commissionRate": "0.03",
         "sales": 4674,
@@ -4277,35 +4278,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mj9nvm63moee73",
         "productLink": "https://shopee.com.br/product/1613783173/51004391053",
         "offerLink": "https://s.shopee.com.br/8AX3Jkzz6Y"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58209107153",
-      "name": "3/2/1 Formas de Silicone Quadrada Assadeira Air Fryer e Forno Forma para Fritadeira Elétrica com Alça",
-      "price": 10.0,
-      "original_price": 30.3,
-      "discount": 67.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-824ix-me64x24er3eo01",
-      "link": "https://s.shopee.com.br/8KqYAWhchy",
-      "rating": "4.7",
-      "sales": 1495,
-      "shop": "Fullshop.br",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58209107153,
-        "productName": "3/2/1 Formas de Silicone Quadrada Assadeira Air Fryer e Forno Forma para Fritadeira Elétrica com Alça",
-        "price": "10",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.03",
-        "sales": 1495,
-        "ratingStar": "4.7",
-        "shopName": "Fullshop.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ix-me64x24er3eo01",
-        "productLink": "https://shopee.com.br/product/1083951020/58209107153",
-        "offerLink": "https://s.shopee.com.br/8KqYAWhchy"
       },
       "_last_price": null
     },
@@ -6479,8 +6451,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-muajk6cx09ac8d",
         "productLink": "https://shopee.com.br/product/1410139466/29593910226",
         "offerLink": "https://s.shopee.com.br/7famiwPnCw"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "49817731610",
@@ -7958,6 +7929,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7ntzxcbzyxg63",
         "productLink": "https://shopee.com.br/product/629805123/22396710686",
         "offerLink": "https://s.shopee.com.br/60Sb04A8mj"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "26320343473",
+      "name": "JBSARA Centella 77 Watery Cream 80ml(Niacinamide 5% + Hyaluronic 2% + Centella water 77%)",
+      "price": 39.0,
+      "original_price": 92.86,
+      "discount": 58.0,
+      "commission": 30.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134207-7rfi4-m3n7raot1gx184",
+      "link": "https://s.shopee.com.br/gR4XZqp5C",
+      "rating": "5",
+      "sales": 53,
+      "shop": "koksara.kbeauty",
+      "category": "creme facial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 26320343473,
+        "productName": "JBSARA Centella 77 Watery Cream 80ml(Niacinamide 5% + Hyaluronic 2% + Centella water 77%)",
+        "price": "39",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.3",
+        "sales": 53,
+        "ratingStar": "5",
+        "shopName": "koksara.kbeauty",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-7rfi4-m3n7raot1gx184",
+        "productLink": "https://shopee.com.br/product/457864097/26320343473",
+        "offerLink": "https://s.shopee.com.br/gR4XZqp5C"
       },
       "_last_price": null
     },
@@ -29739,6 +29739,35 @@
       "_last_price": null
     },
     {
+      "id": "57205646686",
+      "name": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
+      "price": 181.77,
+      "original_price": 230.09,
+      "discount": 21.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
+      "link": "https://s.shopee.com.br/1W09NX2YaG",
+      "rating": "4.9",
+      "sales": 4077,
+      "shop": "BESTBYBRASILGOLD",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57205646686,
+        "productName": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
+        "price": "181.77",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.06",
+        "sales": 4077,
+        "ratingStar": "4.9",
+        "shopName": "BESTBYBRASILGOLD",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
+        "productLink": "https://shopee.com.br/product/1494297971/57205646686",
+        "offerLink": "https://s.shopee.com.br/1W09NX2YaG"
+      },
+      "_last_price": null
+    },
+    {
       "id": "17134946092",
       "name": "Linha De Pesca Monofilamento Top Platinum Carretel Grande Mazzaferro - Várias Espessuras",
       "price": 38.81,
@@ -32200,35 +32229,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdd8fm7lqywie4",
         "productLink": "https://shopee.com.br/product/1453333493/23294313967",
         "offerLink": "https://s.shopee.com.br/9zyjc4DgUZ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "26565842194",
-      "name": "8 Peças Porca De Haltere , Haste Coleiras Para Barras De Halteres , Acessórios Esportivos De Treinamento",
-      "price": 24.56,
-      "original_price": 28.89,
-      "discount": 15.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rene-m1x6eixhhmpwaa",
-      "link": "https://s.shopee.com.br/7Ky0AvHgtL",
-      "rating": "4.9",
-      "sales": 9,
-      "shop": "hukou33.br",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 26565842194,
-        "productName": "8 Peças Porca De Haltere , Haste Coleiras Para Barras De Halteres , Acessórios Esportivos De Treinamento",
-        "price": "24.56",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.09",
-        "sales": 9,
-        "ratingStar": "4.9",
-        "shopName": "hukou33.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rene-m1x6eixhhmpwaa",
-        "productLink": "https://shopee.com.br/product/207148383/26565842194",
-        "offerLink": "https://s.shopee.com.br/7Ky0AvHgtL"
       },
       "_last_price": null
     },
