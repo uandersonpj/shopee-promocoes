@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T03:27:46.394258+00:00",
-  "total": 1123,
+  "updated_at": "2026-10-26T03:46:25.791908+00:00",
+  "total": 1124,
   "products": [
     {
       "id": "52807406192",
@@ -2078,7 +2078,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mt995huwzmdcf3",
         "productLink": "https://shopee.com.br/product/918530496/58217124419",
         "offerLink": "https://s.shopee.com.br/gR7AcGzML"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58214178007",
@@ -5906,8 +5907,8 @@
     {
       "id": "45468100867",
       "name": "Mini Jesus Sentado Decorativo Oratório Para Monitor Mesa Prateleira Nicho Carro Kit",
-      "price": 11.87,
-      "original_price": 31.24,
+      "price": 18.99,
+      "original_price": 49.97,
       "discount": 62.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mte3hafgagw306",
@@ -5920,7 +5921,7 @@
       "_item": {
         "itemId": 45468100867,
         "productName": "Mini Jesus Sentado Decorativo Oratório Para Monitor Mesa Prateleira Nicho Carro Kit",
-        "price": "11.87",
+        "price": "18.99",
         "priceDiscountRate": 62,
         "commissionRate": "0.13",
         "sales": 3785,
@@ -9386,8 +9387,8 @@
     {
       "id": "53706778003",
       "name": "Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 300MBPS",
-      "price": 52.98,
-      "original_price": 117.73,
+      "price": 52.99,
+      "original_price": 117.76,
       "discount": 55.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8262c-mlg5gcvz3dvk0b",
@@ -9400,7 +9401,7 @@
       "_item": {
         "itemId": 53706778003,
         "productName": "Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 300MBPS",
-        "price": "52.98",
+        "price": "52.99",
         "priceDiscountRate": 55,
         "commissionRate": "0.03",
         "sales": 915,
@@ -17876,6 +17877,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2o4off22gy2e",
         "productLink": "https://shopee.com.br/product/983665337/22698451598",
         "offerLink": "https://s.shopee.com.br/5q9DqAql7X"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22897502871",
+      "name": "Mousepad Gamer TGT K50M, Grande, 500x500x3mm, Preto, TGT-K50M-GRB01",
+      "price": 39.9,
+      "original_price": 70.0,
+      "discount": 43.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mqeqor4mw7i82d",
+      "link": "https://s.shopee.com.br/9V2VhuwVIu",
+      "rating": "5",
+      "sales": 555,
+      "shop": "Pichau",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22897502871,
+        "productName": "Mousepad Gamer TGT K50M, Grande, 500x500x3mm, Preto, TGT-K50M-GRB01",
+        "price": "39.9",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.03",
+        "sales": 555,
+        "ratingStar": "5",
+        "shopName": "Pichau",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mqeqor4mw7i82d",
+        "productLink": "https://shopee.com.br/product/627750190/22897502871",
+        "offerLink": "https://s.shopee.com.br/9V2VhuwVIu"
       },
       "_last_price": null
     },
