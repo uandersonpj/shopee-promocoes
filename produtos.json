@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T10:22:47.117562+00:00",
-  "total": 1120,
+  "updated_at": "2026-10-26T10:42:25.332630+00:00",
+  "total": 1121,
   "products": [
     {
       "id": "52807406192",
@@ -2289,8 +2289,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/38f05806d01ed654d61cc598c39391ee",
         "productLink": "https://shopee.com.br/product/769957349/17370976709",
         "offerLink": "https://s.shopee.com.br/3VlIZ3fZCN"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "18617064006",
@@ -9463,7 +9462,7 @@
       "discount": 55.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820li-mrafvjnyxnnr89",
-      "link": "https://s.shopee.com.br/9zymIrGCBD",
+      "link": "https://s.shopee.com.br/113zeWp4DU",
       "rating": "4.8",
       "sales": 739,
       "shop": "DOSB UTILIDADES",
@@ -9480,7 +9479,7 @@
         "shopName": "DOSB UTILIDADES",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mrafvjnyxnnr89",
         "productLink": "https://shopee.com.br/product/1536382880/58265304718",
-        "offerLink": "https://s.shopee.com.br/9zymIrGCBD"
+        "offerLink": "https://s.shopee.com.br/113zeWp4DU"
       },
       "_last_price": null
     },
@@ -10409,35 +10408,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m326ai6rx4gl9c",
         "productLink": "https://shopee.com.br/product/997025684/22198068260",
         "offerLink": "https://s.shopee.com.br/5AtWY4RZ9e"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23997337490",
-      "name": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
-      "price": 22.9,
-      "original_price": 49.78,
-      "discount": 54.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
-      "link": "https://s.shopee.com.br/6Am3jvnkky",
-      "rating": "4.8",
-      "sales": 7921,
-      "shop": "CAZA SHOP",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23997337490,
-        "productName": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
-        "price": "22.9",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.11",
-        "sales": 7921,
-        "ratingStar": "4.8",
-        "shopName": "CAZA SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
-        "productLink": "https://shopee.com.br/product/1059936083/23997337490",
-        "offerLink": "https://s.shopee.com.br/6Am3jvnkky"
       },
       "_last_price": null
     },
@@ -13436,7 +13406,7 @@
       "discount": 50.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mrztp81e9kw7b1",
-      "link": "https://s.shopee.com.br/8pmouiKdY6",
+      "link": "https://s.shopee.com.br/AAIEZNGAcO",
       "rating": "4.8",
       "sales": 782,
       "shop": "EKIS CLEAN",
@@ -13453,7 +13423,7 @@
         "shopName": "EKIS CLEAN",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mrztp81e9kw7b1",
         "productLink": "https://shopee.com.br/product/1781912896/58265714065",
-        "offerLink": "https://s.shopee.com.br/8pmouiKdY6"
+        "offerLink": "https://s.shopee.com.br/AAIEZNGAcO"
       },
       "_last_price": null
     },
@@ -13976,6 +13946,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b6-mse8pevvdddx86",
         "productLink": "https://shopee.com.br/product/1866023234/58267143317",
         "offerLink": "https://s.shopee.com.br/2gCBZUAHUj"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23997337490",
+      "name": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
+      "price": 25.0,
+      "original_price": 50.0,
+      "discount": 50.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
+      "link": "https://s.shopee.com.br/6Am3jvnkky",
+      "rating": "4.8",
+      "sales": 7921,
+      "shop": "CAZA SHOP",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23997337490,
+        "productName": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
+        "price": "25",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.11",
+        "sales": 7921,
+        "ratingStar": "4.8",
+        "shopName": "CAZA SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
+        "productLink": "https://shopee.com.br/product/1059936083/23997337490",
+        "offerLink": "https://s.shopee.com.br/6Am3jvnkky"
       },
       "_last_price": null
     },
@@ -14788,35 +14787,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkijxx9izzeped",
         "productLink": "https://shopee.com.br/product/464907594/58204938108",
         "offerLink": "https://s.shopee.com.br/9V2WCtlrnW"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22994350581",
-      "name": "Eliminador de Odores Bactericida Dogão 2L Citronela para Cachorros – Desinfetante para Quintal Canil e Área Pet",
-      "price": 14.5,
-      "original_price": 27.88,
-      "discount": 48.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820me-mts0wtv0d4ht62",
-      "link": "https://s.shopee.com.br/2LZLAljNjy",
-      "rating": "4.9",
-      "sales": 587,
-      "shop": "Admil Embelezamento Pet",
-      "category": "desinfetante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22994350581,
-        "productName": "Eliminador de Odores Bactericida Dogão 2L Citronela para Cachorros – Desinfetante para Quintal Canil e Área Pet",
-        "price": "14.5",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.13",
-        "sales": 587,
-        "ratingStar": "4.9",
-        "shopName": "Admil Embelezamento Pet",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mts0wtv0d4ht62",
-        "productLink": "https://shopee.com.br/product/1619038531/22994350581",
-        "offerLink": "https://s.shopee.com.br/2LZLAljNjy"
       },
       "_last_price": null
     },
@@ -16653,7 +16623,7 @@
       "price": 49.88,
       "original_price": 90.69,
       "discount": 45.0,
-      "commission": 3.0,
+      "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mnwh7y4dd7gh7d",
       "link": "https://s.shopee.com.br/2gCBZTO1Mx",
       "rating": "4.8",
@@ -16666,7 +16636,7 @@
         "productName": "Cafeteira Italiana Inox Moka 3/6/9/12 Xícaras Alumínio Café Puro Vários Tamanhos",
         "price": "49.88",
         "priceDiscountRate": 45,
-        "commissionRate": "0.03",
+        "commissionRate": "0.07",
         "sales": 2124,
         "ratingStar": "4.8",
         "shopName": "Opulent Oasis",
@@ -19403,6 +19373,35 @@
       "_last_price": null
     },
     {
+      "id": "46462519312",
+      "name": "Desinfetante Antibac Lavanda E Rosas 2 Litros Uau",
+      "price": 9.9,
+      "original_price": 16.5,
+      "discount": 40.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824i0-mpnmukiwx6o2d3",
+      "link": "https://s.shopee.com.br/W7j3bqyEL",
+      "rating": "4.9",
+      "sales": 1003,
+      "shop": " UAUIngleza",
+      "category": "desinfetante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 46462519312,
+        "productName": "Desinfetante Antibac Lavanda E Rosas 2 Litros Uau",
+        "price": "9.9",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.13",
+        "sales": 1003,
+        "ratingStar": "4.9",
+        "shopName": " UAUIngleza",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i0-mpnmukiwx6o2d3",
+        "productLink": "https://shopee.com.br/product/1658245933/46462519312",
+        "offerLink": "https://s.shopee.com.br/W7j3bqyEL"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58259287537",
       "name": "Desinfetante 5 Litros Bactericida Limpeza Profunda Perfume Duradouro Uso Geral Alto Rendimento",
       "price": 13.19,
@@ -19410,7 +19409,7 @@
       "discount": 40.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnbt1yyibzt02f",
-      "link": "https://s.shopee.com.br/8KqYJnMXYv",
+      "link": "https://s.shopee.com.br/gR9FuqKtS",
       "rating": "4.7",
       "sales": 830,
       "shop": "CASA CLEAN SHOP",
@@ -19427,7 +19426,7 @@
         "shopName": "CASA CLEAN SHOP",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnbt1yyibzt02f",
         "productLink": "https://shopee.com.br/product/487455000/58259287537",
-        "offerLink": "https://s.shopee.com.br/8KqYJnMXYv"
+        "offerLink": "https://s.shopee.com.br/gR9FuqKtS"
       },
       "_last_price": null
     },
@@ -20048,7 +20047,7 @@
       "discount": 39.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8259y-mtiltlcd52bp85",
-      "link": "https://s.shopee.com.br/AKbchTEvVF",
+      "link": "https://s.shopee.com.br/1BSSgssFG",
       "rating": "4.8",
       "sales": 1186,
       "shop": "PrimeGarage",
@@ -20065,7 +20064,7 @@
         "shopName": "PrimeGarage",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259y-mtiltlcd52bp85",
         "productLink": "https://shopee.com.br/product/1584628276/58202343137",
-        "offerLink": "https://s.shopee.com.br/AKbchTEvVF"
+        "offerLink": "https://s.shopee.com.br/1BSSgssFG"
       },
       "_last_price": null
     },
@@ -21817,7 +21816,7 @@
       "discount": 36.0,
       "commission": 23.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-81zup-mmrk4iywe1oi7c",
-      "link": "https://s.shopee.com.br/1qd4ZqlHkp",
+      "link": "https://s.shopee.com.br/8AXABhNmg4",
       "rating": "4.8",
       "sales": 604,
       "shop": "Limpio Store",
@@ -21834,7 +21833,7 @@
         "shopName": "Limpio Store",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zup-mmrk4iywe1oi7c",
         "productLink": "https://shopee.com.br/product/493059579/55508351298",
-        "offerLink": "https://s.shopee.com.br/1qd4ZqlHkp"
+        "offerLink": "https://s.shopee.com.br/8AXABhNmg4"
       },
       "_last_price": null
     },
@@ -23198,6 +23197,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259k-mg5l2f32aex893",
         "productLink": "https://shopee.com.br/product/1248266601/18398355263",
         "offerLink": "https://s.shopee.com.br/7VHRKKbEAI"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58254463290",
+      "name": "Ração Special Dog Ultralife Performance 20kg Cães Adultos Carne e Frango Premium Alta Nutrição",
+      "price": 171.9,
+      "original_price": 260.45,
+      "discount": 34.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-msho1bjgdts6a2",
+      "link": "https://s.shopee.com.br/8KqYJrY3TV",
+      "rating": "4.9",
+      "sales": 1078,
+      "shop": "Topfive.Business",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58254463290,
+        "productName": "Ração Special Dog Ultralife Performance 20kg Cães Adultos Carne e Frango Premium Alta Nutrição",
+        "price": "171.9",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.03",
+        "sales": 1078,
+        "ratingStar": "4.9",
+        "shopName": "Topfive.Business",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-msho1bjgdts6a2",
+        "productLink": "https://shopee.com.br/product/327707556/58254463290",
+        "offerLink": "https://s.shopee.com.br/8KqYJrY3TV"
       },
       "_last_price": null
     },
@@ -28574,7 +28602,7 @@
       "discount": 23.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-luawk6vrw1gg3c",
-      "link": "https://s.shopee.com.br/8AX87UNAtu",
+      "link": "https://s.shopee.com.br/9V2Xm9IhyC",
       "rating": "4.9",
       "sales": 1067,
       "shop": "GV Diamond dental Company",
@@ -28591,7 +28619,7 @@
         "shopName": "GV Diamond dental Company",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-luawk6vrw1gg3c",
         "productLink": "https://shopee.com.br/product/439543954/23097466419",
-        "offerLink": "https://s.shopee.com.br/8AX87UNAtu"
+        "offerLink": "https://s.shopee.com.br/9V2Xm9IhyC"
       },
       "_last_price": null
     },
@@ -30401,7 +30429,7 @@
       "discount": 19.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/7c7aaef0b31d73bd943f5e16ba233f38",
-      "link": "https://s.shopee.com.br/9APfJKJMs8",
+      "link": "https://s.shopee.com.br/9Kj7ZqJLJB",
       "rating": "5",
       "sales": 603,
       "shop": "SC Johnson by Sages",
@@ -30418,7 +30446,7 @@
         "shopName": "SC Johnson by Sages",
         "imageUrl": "https://cf.shopee.com.br/file/7c7aaef0b31d73bd943f5e16ba233f38",
         "productLink": "https://shopee.com.br/product/819102498/18725824866",
-        "offerLink": "https://s.shopee.com.br/9APfJKJMs8"
+        "offerLink": "https://s.shopee.com.br/9Kj7ZqJLJB"
       },
       "_last_price": null
     },
@@ -31097,7 +31125,7 @@
       "discount": 17.0,
       "commission": 16.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mt8lgbq7d0qo6b",
-      "link": "https://s.shopee.com.br/80DhvBNoEt",
+      "link": "https://s.shopee.com.br/qkZSDphYV",
       "rating": "5",
       "sales": 960,
       "shop": "ONLINE HOSPCARE",
@@ -31114,7 +31142,7 @@
         "shopName": "ONLINE HOSPCARE",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mt8lgbq7d0qo6b",
         "productLink": "https://shopee.com.br/product/1027982682/23098884809",
-        "offerLink": "https://s.shopee.com.br/80DhvBNoEt"
+        "offerLink": "https://s.shopee.com.br/qkZSDphYV"
       },
       "_last_price": null
     },
@@ -31677,7 +31705,7 @@
       "discount": 16.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltuc9brnd3pbe2",
-      "link": "https://s.shopee.com.br/1gJeNXlv5m",
+      "link": "https://s.shopee.com.br/AKbelgFXHT",
       "rating": "5",
       "sales": 723,
       "shop": "ICE Health",
@@ -31694,7 +31722,7 @@
         "shopName": "ICE Health",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltuc9brnd3pbe2",
         "productLink": "https://shopee.com.br/product/1179560619/19899241926",
-        "offerLink": "https://s.shopee.com.br/1gJeNXlv5m"
+        "offerLink": "https://s.shopee.com.br/AKbelgFXHT"
       },
       "_last_price": null
     },
