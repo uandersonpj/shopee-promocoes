@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T12:20:04.586521+00:00",
+  "updated_at": "2026-10-26T12:39:31.193834+00:00",
   "total": 1123,
   "products": [
     {
@@ -605,8 +605,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
         "productLink": "https://shopee.com.br/product/344381236/57911938287",
         "offerLink": "https://s.shopee.com.br/1BNNrmhgRw"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "21897981294",
@@ -5914,8 +5913,8 @@
     {
       "id": "45468100867",
       "name": "Mini Jesus Sentado Decorativo Oratório Para Monitor Mesa Prateleira Nicho Carro Kit",
-      "price": 11.87,
-      "original_price": 31.24,
+      "price": 18.99,
+      "original_price": 49.97,
       "discount": 62.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mte3hafgagw306",
@@ -5928,7 +5927,7 @@
       "_item": {
         "itemId": 45468100867,
         "productName": "Mini Jesus Sentado Decorativo Oratório Para Monitor Mesa Prateleira Nicho Carro Kit",
-        "price": "11.87",
+        "price": "18.99",
         "priceDiscountRate": 62,
         "commissionRate": "0.13",
         "sales": 3785,
@@ -26386,35 +26385,6 @@
       "_last_price": null
     },
     {
-      "id": "53717645713",
-      "name": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
-      "price": 49.99,
-      "original_price": 70.41,
-      "discount": 29.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e",
-      "link": "https://s.shopee.com.br/gR7BmaRHH",
-      "rating": "4.8",
-      "sales": 1288,
-      "shop": "Pet Charm",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 53717645713,
-        "productName": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
-        "price": "49.99",
-        "priceDiscountRate": 29,
-        "commissionRate": "0.13",
-        "sales": 1288,
-        "ratingStar": "4.8",
-        "shopName": "Pet Charm",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e",
-        "productLink": "https://shopee.com.br/product/908280603/53717645713",
-        "offerLink": "https://s.shopee.com.br/gR7BmaRHH"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22994269933",
       "name": "Kit De Pesca 4 Vara E 4 Molinete Com Linha Maleta Acessórios",
       "price": 184.99,
@@ -27165,6 +27135,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mqmd562wp9fm2a",
         "productLink": "https://shopee.com.br/product/1686971749/57013923318",
         "offerLink": "https://s.shopee.com.br/BUr5r5N6d"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "42159232629",
+      "name": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
+      "price": 72.99,
+      "original_price": 99.99,
+      "discount": 27.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e",
+      "link": "https://s.shopee.com.br/1BNNmhYXGK",
+      "rating": "4.8",
+      "sales": 1732,
+      "shop": "Pet Tobby",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42159232629,
+        "productName": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
+        "price": "72.99",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.11",
+        "sales": 1732,
+        "ratingStar": "4.8",
+        "shopName": "Pet Tobby",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e",
+        "productLink": "https://shopee.com.br/product/829646892/42159232629",
+        "offerLink": "https://s.shopee.com.br/1BNNmhYXGK"
       },
       "_last_price": null
     },
