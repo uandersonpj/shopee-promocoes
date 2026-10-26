@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T04:05:08.913930+00:00",
+  "updated_at": "2026-10-26T04:23:52.084333+00:00",
   "total": 1124,
   "products": [
     {
@@ -172,7 +172,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmajzmcmll3a15",
         "productLink": "https://shopee.com.br/product/1467162087/49207406104",
         "offerLink": "https://s.shopee.com.br/40hZ9qlIML"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "26539956454",
@@ -1529,35 +1530,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbkc-lpcg90v8yx5251",
         "productLink": "https://shopee.com.br/product/987393610/22397182239",
         "offerLink": "https://s.shopee.com.br/2BFuyYczFI"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23498458783",
-      "name": "Relógio Digital Mini Vintage Retrô Eletrônico Todo em Aço Masculino Feminino Luxo Metálico Unisex",
-      "price": 17.9,
-      "original_price": 74.58,
-      "discount": 76.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mafoc9gj36hb88",
-      "link": "https://s.shopee.com.br/AKbchaGIBP",
-      "rating": "4.8",
-      "sales": 2261,
-      "shop": "buscasa",
-      "category": "relogio masculino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498458783,
-        "productName": "Relógio Digital Mini Vintage Retrô Eletrônico Todo em Aço Masculino Feminino Luxo Metálico Unisex",
-        "price": "17.9",
-        "priceDiscountRate": 76,
-        "commissionRate": "0.03",
-        "sales": 2261,
-        "ratingStar": "4.8",
-        "shopName": "buscasa",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mafoc9gj36hb88",
-        "productLink": "https://shopee.com.br/product/1384231985/23498458783",
-        "offerLink": "https://s.shopee.com.br/AKbchaGIBP"
       },
       "_last_price": null
     },
@@ -5908,8 +5880,8 @@
     {
       "id": "45468100867",
       "name": "Mini Jesus Sentado Decorativo Oratório Para Monitor Mesa Prateleira Nicho Carro Kit",
-      "price": 11.87,
-      "original_price": 31.24,
+      "price": 18.99,
+      "original_price": 49.97,
       "discount": 62.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mte3hafgagw306",
@@ -5922,7 +5894,7 @@
       "_item": {
         "itemId": 45468100867,
         "productName": "Mini Jesus Sentado Decorativo Oratório Para Monitor Mesa Prateleira Nicho Carro Kit",
-        "price": "11.87",
+        "price": "18.99",
         "priceDiscountRate": 62,
         "commissionRate": "0.13",
         "sales": 3785,
@@ -9678,8 +9650,8 @@
     {
       "id": "43684764598",
       "name": "Creatina Monohidratada 100% Pura 150g  importada  KRON",
-      "price": 21.86,
-      "original_price": 48.58,
+      "price": 21.98,
+      "original_price": 48.84,
       "discount": 55.0,
       "commission": 24.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mtjsgzx9qpdv93",
@@ -9692,7 +9664,7 @@
       "_item": {
         "itemId": 43684764598,
         "productName": "Creatina Monohidratada 100% Pura 150g  importada  KRON",
-        "price": "21.86",
+        "price": "21.98",
         "priceDiscountRate": 55,
         "commissionRate": "0.24",
         "sales": 1589,
@@ -11736,8 +11708,8 @@
     {
       "id": "21997222833",
       "name": "Tênis Meia Feminino Calce Fácil Botinha Ortopédico Esportivo Sneaker Slip On Casual confortável Academia",
-      "price": 28.9,
-      "original_price": 60.21,
+      "price": 29.0,
+      "original_price": 60.42,
       "discount": 52.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mnx8czipq39ea6",
@@ -11750,7 +11722,7 @@
       "_item": {
         "itemId": 21997222833,
         "productName": "Tênis Meia Feminino Calce Fácil Botinha Ortopédico Esportivo Sneaker Slip On Casual confortável Academia",
-        "price": "28.9",
+        "price": "29",
         "priceDiscountRate": 52,
         "commissionRate": "0.07",
         "sales": 11864,
@@ -11875,6 +11847,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me8bszdf5pmoee",
         "productLink": "https://shopee.com.br/product/1448484843/20399869941",
         "offerLink": "https://s.shopee.com.br/7farWg8yzD"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58209823545",
+      "name": "Tenis Masculino + Relogio + Meia Esportivo Versatil Corrida Treino Academia Envio Imediato",
+      "price": 57.56,
+      "original_price": 119.92,
+      "discount": 52.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mnmuhfc5e1hg35",
+      "link": "https://s.shopee.com.br/1W0FpZO0Tl",
+      "rating": "4.7",
+      "sales": 983,
+      "shop": "RM SHOESS",
+      "category": "relogio masculino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58209823545,
+        "productName": "Tenis Masculino + Relogio + Meia Esportivo Versatil Corrida Treino Academia Envio Imediato",
+        "price": "57.56",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.03",
+        "sales": 983,
+        "ratingStar": "4.7",
+        "shopName": "RM SHOESS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mnmuhfc5e1hg35",
+        "productLink": "https://shopee.com.br/product/1501872703/58209823545",
+        "offerLink": "https://s.shopee.com.br/1W0FpZO0Tl"
       },
       "_last_price": null
     },
@@ -16316,35 +16317,6 @@
       "_last_price": null
     },
     {
-      "id": "18597752657",
-      "name": "Adaptador Bluetooth 5.0 USB Transmissor Áudio Sem Fio para Notebook e Carros",
-      "price": 11.0,
-      "original_price": 20.0,
-      "discount": 45.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxc-mc5skldkgkhvc8",
-      "link": "https://s.shopee.com.br/6fiKKgPhIn",
-      "rating": "4.8",
-      "sales": 2984,
-      "shop": "LEGAL PLUS",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18597752657,
-        "productName": "Adaptador Bluetooth 5.0 USB Transmissor Áudio Sem Fio para Notebook e Carros",
-        "price": "11",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.09",
-        "sales": 2984,
-        "ratingStar": "4.8",
-        "shopName": "LEGAL PLUS",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxc-mc5skldkgkhvc8",
-        "productLink": "https://shopee.com.br/product/1027415014/18597752657",
-        "offerLink": "https://s.shopee.com.br/6fiKKgPhIn"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20899598244",
       "name": "Placa Pix Acrílico para QR Code - Suporte Display de mesa ou balcão",
       "price": 11.99,
@@ -17762,6 +17734,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6qy7616re3gee",
         "productLink": "https://shopee.com.br/product/184031551/29877782583",
         "offerLink": "https://s.shopee.com.br/4fxFvyJMMW"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18597752657",
+      "name": "Adaptador Bluetooth 5.0 USB Transmissor Áudio Sem Fio para Notebook e Carros",
+      "price": 13.83,
+      "original_price": 24.26,
+      "discount": 43.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxc-mc5skldkgkhvc8",
+      "link": "https://s.shopee.com.br/6fiKKgPhIn",
+      "rating": "4.8",
+      "sales": 2984,
+      "shop": "LEGAL PLUS",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18597752657,
+        "productName": "Adaptador Bluetooth 5.0 USB Transmissor Áudio Sem Fio para Notebook e Carros",
+        "price": "13.83",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.09",
+        "sales": 2984,
+        "ratingStar": "4.8",
+        "shopName": "LEGAL PLUS",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxc-mc5skldkgkhvc8",
+        "productLink": "https://shopee.com.br/product/1027415014/18597752657",
+        "offerLink": "https://s.shopee.com.br/6fiKKgPhIn"
       },
       "_last_price": null
     },
