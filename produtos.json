@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T02:28:27.084097+00:00",
+  "updated_at": "2026-10-26T02:48:13.358855+00:00",
   "total": 1126,
   "products": [
     {
@@ -1936,8 +1936,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-msxgtp629z477b",
         "productLink": "https://shopee.com.br/product/424883518/23098214172",
         "offerLink": "https://s.shopee.com.br/AKbchbxsxG"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58266336951",
@@ -4309,7 +4308,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
         "productLink": "https://shopee.com.br/product/1595150949/22594316058",
         "offerLink": "https://s.shopee.com.br/2qVblruZ6l"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58217964758",
@@ -6596,6 +6596,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtz23drmeh3613",
         "productLink": "https://shopee.com.br/product/1593878986/58269834909",
         "offerLink": "https://s.shopee.com.br/AUv2tkJMUB"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22194727361",
+      "name": "Mouse Pad Gamer Personalizado Grande RGB Anime Heróis Exclusivo 80x30cm Confortável e Preciso !",
+      "price": 15.57,
+      "original_price": 39.92,
+      "discount": 61.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82281-mhf7fpjbncwa3c",
+      "link": "https://s.shopee.com.br/8AX9SmrNzK",
+      "rating": "4.8",
+      "sales": 698,
+      "shop": "Jutsu Anime Store",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22194727361,
+        "productName": "Mouse Pad Gamer Personalizado Grande RGB Anime Heróis Exclusivo 80x30cm Confortável e Preciso !",
+        "price": "15.57",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.13",
+        "sales": 698,
+        "ratingStar": "4.8",
+        "shopName": "Jutsu Anime Store",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82281-mhf7fpjbncwa3c",
+        "productLink": "https://shopee.com.br/product/1502662038/22194727361",
+        "offerLink": "https://s.shopee.com.br/8AX9SmrNzK"
       },
       "_last_price": null
     },
@@ -17701,35 +17730,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
         "productLink": "https://shopee.com.br/product/786353833/23694320738",
         "offerLink": "https://s.shopee.com.br/1LgnyuRas5"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22897502871",
-      "name": "Mousepad Gamer TGT K50M, Grande, 500x500x3mm, Preto, TGT-K50M-GRB01",
-      "price": 39.9,
-      "original_price": 70.0,
-      "discount": 43.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mqeqor4mw7i82d",
-      "link": "https://s.shopee.com.br/9V2VhuwVIu",
-      "rating": "5",
-      "sales": 555,
-      "shop": "Pichau",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22897502871,
-        "productName": "Mousepad Gamer TGT K50M, Grande, 500x500x3mm, Preto, TGT-K50M-GRB01",
-        "price": "39.9",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.03",
-        "sales": 555,
-        "ratingStar": "5",
-        "shopName": "Pichau",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mqeqor4mw7i82d",
-        "productLink": "https://shopee.com.br/product/627750190/22897502871",
-        "offerLink": "https://s.shopee.com.br/9V2VhuwVIu"
       },
       "_last_price": null
     },
