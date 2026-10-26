@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T06:54:22.848295+00:00",
+  "updated_at": "2026-10-26T07:13:04.880583+00:00",
   "total": 1123,
   "products": [
     {
@@ -3678,7 +3678,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/b00547f24fc70a45e7e053d7ad172265",
         "productLink": "https://shopee.com.br/product/412809126/18623190615",
         "offerLink": "https://s.shopee.com.br/50a6LhGp7f"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "51004391053",
@@ -10351,6 +10352,35 @@
       "_last_price": null
     },
     {
+      "id": "23997337490",
+      "name": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
+      "price": 22.9,
+      "original_price": 49.78,
+      "discount": 54.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
+      "link": "https://s.shopee.com.br/6Am3jvnkky",
+      "rating": "4.8",
+      "sales": 7921,
+      "shop": "CAZA SHOP",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23997337490,
+        "productName": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
+        "price": "22.9",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.11",
+        "sales": 7921,
+        "ratingStar": "4.8",
+        "shopName": "CAZA SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
+        "productLink": "https://shopee.com.br/product/1059936083/23997337490",
+        "offerLink": "https://s.shopee.com.br/6Am3jvnkky"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23893325676",
       "name": "Molinete De Pesca De Metal EVA HD1000-7000 Max Arraste 10kg Cana Em Água Salgada",
       "price": 38.0,
@@ -13914,35 +13944,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b6-mse8pevvdddx86",
         "productLink": "https://shopee.com.br/product/1866023234/58267143317",
         "offerLink": "https://s.shopee.com.br/2gCBZUAHUj"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23997337490",
-      "name": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
-      "price": 25.0,
-      "original_price": 50.0,
-      "discount": 50.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
-      "link": "https://s.shopee.com.br/6Am3jvnkky",
-      "rating": "4.8",
-      "sales": 7921,
-      "shop": "CAZA SHOP",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23997337490,
-        "productName": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
-        "price": "25",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.11",
-        "sales": 7921,
-        "ratingStar": "4.8",
-        "shopName": "CAZA SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
-        "productLink": "https://shopee.com.br/product/1059936083/23997337490",
-        "offerLink": "https://s.shopee.com.br/6Am3jvnkky"
       },
       "_last_price": null
     },
