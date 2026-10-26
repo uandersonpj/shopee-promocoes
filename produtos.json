@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T08:28:04.093672+00:00",
+  "updated_at": "2026-10-26T08:46:53.424973+00:00",
   "total": 1123,
   "products": [
     {
@@ -1854,7 +1854,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-msxgtp629z477b",
         "productLink": "https://shopee.com.br/product/424883518/23098214172",
         "offerLink": "https://s.shopee.com.br/AKbchbxsxG"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58266336951",
@@ -5890,8 +5891,8 @@
     {
       "id": "58262310122",
       "name": "Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
-      "price": 75.89,
-      "original_price": 199.71,
+      "price": 75.79,
+      "original_price": 199.45,
       "discount": 62.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/sg-11134201-81zvb-mn36o785y4g0a4",
@@ -5904,7 +5905,7 @@
       "_item": {
         "itemId": 58262310122,
         "productName": "Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
-        "price": "75.89",
+        "price": "75.79",
         "priceDiscountRate": 62,
         "commissionRate": "0.07",
         "sales": 2845,
@@ -5919,8 +5920,8 @@
     {
       "id": "58208908770",
       "name": "Kit Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
-      "price": 75.88,
-      "original_price": 199.68,
+      "price": 75.79,
+      "original_price": 199.45,
       "discount": 62.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-81zvb-mn36o785y4g0a4",
@@ -5933,7 +5934,7 @@
       "_item": {
         "itemId": 58208908770,
         "productName": "Kit Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
-        "price": "75.88",
+        "price": "75.79",
         "priceDiscountRate": 62,
         "commissionRate": "0.03",
         "sales": 2771,
@@ -9915,35 +9916,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mtnh9gbxntvk98",
         "productLink": "https://shopee.com.br/product/1911214997/58216798526",
         "offerLink": "https://s.shopee.com.br/1qd4ZydaLs"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "26538918731",
-      "name": "Linha De Pesca 120M Condutor De Monofilamento De Fibra De Carbono Revestido De Fluorocarbono Resistente Ao Desgaste , Ad",
-      "price": 9.75,
-      "original_price": 21.67,
-      "discount": 55.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825b8-mq36i3xnt34c85",
-      "link": "https://s.shopee.com.br/1Lgnz4EgbN",
-      "rating": "4.8",
-      "sales": 705,
-      "shop": "Value Choice",
-      "category": "linha de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 26538918731,
-        "productName": "Linha De Pesca 120M Condutor De Monofilamento De Fibra De Carbono Revestido De Fluorocarbono Resistente Ao Desgaste , Ad",
-        "price": "9.75",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.07",
-        "sales": 705,
-        "ratingStar": "4.8",
-        "shopName": "Value Choice",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b8-mq36i3xnt34c85",
-        "productLink": "https://shopee.com.br/product/230709939/26538918731",
-        "offerLink": "https://s.shopee.com.br/1Lgnz4EgbN"
       },
       "_last_price": null
     },
@@ -14387,8 +14359,8 @@
     {
       "id": "20198149247",
       "name": "Suporte Articulado Para Monitor 13 a 32 Pistão a Gás Ajustável Zinnia Nimbo 110 Branco",
-      "price": 99.82,
-      "original_price": 195.73,
+      "price": 100.9,
+      "original_price": 197.84,
       "discount": 49.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mspyhjq7hkat53",
@@ -14401,7 +14373,7 @@
       "_item": {
         "itemId": 20198149247,
         "productName": "Suporte Articulado Para Monitor 13 a 32 Pistão a Gás Ajustável Zinnia Nimbo 110 Branco",
-        "price": "99.82",
+        "price": "100.9",
         "priceDiscountRate": 49,
         "commissionRate": "0.03",
         "sales": 2170,
@@ -15110,6 +15082,35 @@
       "_last_price": null
     },
     {
+      "id": "26538918731",
+      "name": "Linha De Pesca 120M Condutor De Monofilamento De Fibra De Carbono Revestido De Fluorocarbono Resistente Ao Desgaste , Ad",
+      "price": 9.75,
+      "original_price": 18.75,
+      "discount": 48.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825b8-mq36i3xnt34c85",
+      "link": "https://s.shopee.com.br/1Lgnz4EgbN",
+      "rating": "4.8",
+      "sales": 705,
+      "shop": "Value Choice",
+      "category": "linha de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 26538918731,
+        "productName": "Linha De Pesca 120M Condutor De Monofilamento De Fibra De Carbono Revestido De Fluorocarbono Resistente Ao Desgaste , Ad",
+        "price": "9.75",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.07",
+        "sales": 705,
+        "ratingStar": "4.8",
+        "shopName": "Value Choice",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b8-mq36i3xnt34c85",
+        "productLink": "https://shopee.com.br/product/230709939/26538918731",
+        "offerLink": "https://s.shopee.com.br/1Lgnz4EgbN"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19499542961",
       "name": "Colete De Natação Infantil Boia Salva Vidas Inflável Ideal Praia e Piscina Trava de Segurança Resistente",
       "price": 12.99,
@@ -15396,35 +15397,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mlc37f77d9fr54",
         "productLink": "https://shopee.com.br/product/1727822533/58256070956",
         "offerLink": "https://s.shopee.com.br/4VdpkoHqkQ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22298591472",
-      "name": "Ração Quatree Gourmet Gatos 10,1Kg",
-      "price": 110.78,
-      "original_price": 209.02,
-      "discount": 47.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
-      "link": "https://s.shopee.com.br/1qd4ZvEOoA",
-      "rating": "4.9",
-      "sales": 2384,
-      "shop": "mypetone",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22298591472,
-        "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
-        "price": "110.78",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.12",
-        "sales": 2384,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
-        "productLink": "https://shopee.com.br/product/290073877/22298591472",
-        "offerLink": "https://s.shopee.com.br/1qd4ZvEOoA"
       },
       "_last_price": null
     },
@@ -17977,6 +17949,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mpb361rjh5a8c1",
         "productLink": "https://shopee.com.br/product/1627886455/58252717058",
         "offerLink": "https://s.shopee.com.br/4B0zMCWFYl"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22298591472",
+      "name": "Ração Quatree Gourmet Gatos 10,1Kg",
+      "price": 125.85,
+      "original_price": 220.79,
+      "discount": 43.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
+      "link": "https://s.shopee.com.br/1qd4ZvEOoA",
+      "rating": "4.9",
+      "sales": 2384,
+      "shop": "mypetone",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22298591472,
+        "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
+        "price": "125.85",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.12",
+        "sales": 2384,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
+        "productLink": "https://shopee.com.br/product/290073877/22298591472",
+        "offerLink": "https://s.shopee.com.br/1qd4ZvEOoA"
       },
       "_last_price": null
     },
