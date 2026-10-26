@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T17:52:33.742681+00:00",
+  "updated_at": "2026-10-26T18:12:02.499734+00:00",
   "total": 1122,
   "products": [
     {
@@ -921,8 +921,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mr1vaho31o90f0",
         "productLink": "https://shopee.com.br/product/1246081278/45364806848",
         "offerLink": "https://s.shopee.com.br/6L5Tw6dMFs"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "21498310169",
@@ -1296,7 +1295,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mt38wyvxh81x6a",
         "productLink": "https://shopee.com.br/product/1345043704/22497773735",
         "offerLink": "https://s.shopee.com.br/4B0zMFMJ5I"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "20398528613",
@@ -5934,8 +5934,8 @@
     {
       "id": "45468100867",
       "name": "Mini Jesus Sentado Decorativo Oratório Para Monitor Mesa Prateleira Nicho Carro Kit",
-      "price": 18.99,
-      "original_price": 49.97,
+      "price": 11.87,
+      "original_price": 31.24,
       "discount": 62.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mte3hafgagw306",
@@ -5948,7 +5948,7 @@
       "_item": {
         "itemId": 45468100867,
         "productName": "Mini Jesus Sentado Decorativo Oratório Para Monitor Mesa Prateleira Nicho Carro Kit",
-        "price": "18.99",
+        "price": "11.87",
         "priceDiscountRate": 62,
         "commissionRate": "0.13",
         "sales": 3785,
@@ -17704,35 +17704,6 @@
       "_last_price": null
     },
     {
-      "id": "57515949662",
-      "name": "Kit 3 Saca Areia Furador Suporte Guarda Sol Vara De Pesca",
-      "price": 22.35,
-      "original_price": 39.91,
-      "discount": 44.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mrue53tdksudc4",
-      "link": "https://s.shopee.com.br/30p4Vwbrf9",
-      "rating": "4.9",
-      "sales": 43,
-      "shop": "Calicanto Distribuidora",
-      "category": "suporte vara pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57515949662,
-        "productName": "Kit 3 Saca Areia Furador Suporte Guarda Sol Vara De Pesca",
-        "price": "22.35",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.03",
-        "sales": 43,
-        "ratingStar": "4.9",
-        "shopName": "Calicanto Distribuidora",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mrue53tdksudc4",
-        "productLink": "https://shopee.com.br/product/389215968/57515949662",
-        "offerLink": "https://s.shopee.com.br/30p4Vwbrf9"
-      },
-      "_last_price": null
-    },
-    {
       "id": "29877782583",
       "name": "2 Peças Luvas De Strass Para Rede De Pesca Feminina , Mangas De Infantil Sem Dedos , Acessórios De Cena Dos Anos 80 , Dr",
       "price": 15.04,
@@ -17915,7 +17886,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mu9ghvizd0qq12",
       "link": "https://s.shopee.com.br/LoIvMdnyq",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 515,
       "shop": "Vancron",
       "category": "protetor solar",
@@ -17927,7 +17898,7 @@
         "priceDiscountRate": 43,
         "commissionRate": "0.03",
         "sales": 515,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "Vancron",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mu9ghvizd0qq12",
         "productLink": "https://shopee.com.br/product/389806204/58270391856",
@@ -19353,6 +19324,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22110-7iadgl4rohjvad",
         "productLink": "https://shopee.com.br/product/476143858/20552135222",
         "offerLink": "https://s.shopee.com.br/70LAjVIyE4"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23294543679",
+      "name": "Kit 2 Suporte Para Vara Pesca Suporte Pesqueiro Pequeno 4,5MM 26Cm",
+      "price": 18.99,
+      "original_price": 32.19,
+      "discount": 41.0,
+      "commission": 14.000000000000002,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg27kqozz4ef2a",
+      "link": "https://s.shopee.com.br/4qGgzxPJBk",
+      "rating": "4.9",
+      "sales": 130,
+      "shop": "S.O.S UTILIDADES",
+      "category": "suporte vara pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23294543679,
+        "productName": "Kit 2 Suporte Para Vara Pesca Suporte Pesqueiro Pequeno 4,5MM 26Cm",
+        "price": "18.99",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.14",
+        "sales": 130,
+        "ratingStar": "4.9",
+        "shopName": "S.O.S UTILIDADES",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg27kqozz4ef2a",
+        "productLink": "https://shopee.com.br/product/1599026953/23294543679",
+        "offerLink": "https://s.shopee.com.br/4qGgzxPJBk"
       },
       "_last_price": null
     },
@@ -23678,35 +23678,6 @@
       "_last_price": null
     },
     {
-      "id": "23598383807",
-      "name": "Teclado Mecanico Mancer Shade MK3, Rainbow, Switch Huano Vermelho, Preto, MCR-SHM3-RBW01RD",
-      "price": 121.03,
-      "original_price": 180.64,
-      "discount": 33.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7req7-m8dm3oofp7eod5",
-      "link": "https://s.shopee.com.br/7puHiqlBIo",
-      "rating": "4.9",
-      "sales": 450,
-      "shop": "Pichau",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23598383807,
-        "productName": "Teclado Mecanico Mancer Shade MK3, Rainbow, Switch Huano Vermelho, Preto, MCR-SHM3-RBW01RD",
-        "price": "121.03",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.03",
-        "sales": 450,
-        "ratingStar": "4.9",
-        "shopName": "Pichau",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7req7-m8dm3oofp7eod5",
-        "productLink": "https://shopee.com.br/product/627750190/23598383807",
-        "offerLink": "https://s.shopee.com.br/7puHiqlBIo"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58202393982",
       "name": "Detergente Lava Louças Ypê em Pó 1Kg ou 450g para Máquina - Escolha a Quantidade",
       "price": 35.99,
@@ -24258,6 +24229,35 @@
       "_last_price": null
     },
     {
+      "id": "23598383807",
+      "name": "Teclado Mecanico Mancer Shade MK3, Rainbow, Switch Huano Vermelho, Preto, MCR-SHM3-RBW01RD",
+      "price": 121.9,
+      "original_price": 179.26,
+      "discount": 32.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7req7-m8dm3oofp7eod5",
+      "link": "https://s.shopee.com.br/7puHiqlBIo",
+      "rating": "4.9",
+      "sales": 450,
+      "shop": "Pichau",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23598383807,
+        "productName": "Teclado Mecanico Mancer Shade MK3, Rainbow, Switch Huano Vermelho, Preto, MCR-SHM3-RBW01RD",
+        "price": "121.9",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.03",
+        "sales": 450,
+        "ratingStar": "4.9",
+        "shopName": "Pichau",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7req7-m8dm3oofp7eod5",
+        "productLink": "https://shopee.com.br/product/627750190/23598383807",
+        "offerLink": "https://s.shopee.com.br/7puHiqlBIo"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58252379772",
       "name": "Sabão Ypê Lava Louças em Pó 1Kg para Máquina - Com Secante e Controle de Odor - Limpeza Profunda",
       "price": 35.99,
@@ -24376,8 +24376,8 @@
     {
       "id": "20599359513",
       "name": "Kit Cozinha Brinquedo Infantil Fogão Forno Panelinhas Xícaras Acessórios Faz de Conta",
-      "price": 29.98,
-      "original_price": 44.09,
+      "price": 29.99,
+      "original_price": 44.1,
       "discount": 32.0,
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lb-moh9avb3ey9scc",
@@ -24390,7 +24390,7 @@
       "_item": {
         "itemId": 20599359513,
         "productName": "Kit Cozinha Brinquedo Infantil Fogão Forno Panelinhas Xícaras Acessórios Faz de Conta",
-        "price": "29.98",
+        "price": "29.99",
         "priceDiscountRate": 32,
         "commissionRate": "0.1",
         "sales": 1953,
