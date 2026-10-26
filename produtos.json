@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T01:29:47.962621+00:00",
-  "total": 1125,
+  "updated_at": "2026-10-26T01:49:10.522506+00:00",
+  "total": 1126,
   "products": [
     {
       "id": "58210104632",
@@ -691,8 +691,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-825a2-mgdcr60zrwgcdc",
         "productLink": "https://shopee.com.br/product/1006215031/51250897834",
         "offerLink": "https://s.shopee.com.br/7Ky184jJOL"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58268559860",
@@ -3192,7 +3191,7 @@
       "original_price": 60.3,
       "discount": 70.0,
       "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mulgem64qdq8b8",
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mur51qsm64uaa5",
       "link": "https://s.shopee.com.br/113xZEXJni",
       "rating": "4.9",
       "sales": 191,
@@ -3208,7 +3207,7 @@
         "sales": 191,
         "ratingStar": "4.9",
         "shopName": "CASA MISTA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mulgem64qdq8b8",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mur51qsm64uaa5",
         "productLink": "https://shopee.com.br/product/1830268167/58264610515",
         "offerLink": "https://s.shopee.com.br/113xZEXJni"
       },
@@ -6683,7 +6682,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqdi4h8b6wao80",
         "productLink": "https://shopee.com.br/product/1397772996/29842873054",
         "offerLink": "https://s.shopee.com.br/3qO8xZl7bQ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58265090177",
@@ -14104,6 +14104,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvq-mcakt9br8pflf2",
         "productLink": "https://shopee.com.br/product/1006215031/25614629818",
         "offerLink": "https://s.shopee.com.br/9pfM6iLS6z"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58216732509",
+      "name": "Kit 2 Varas de Pesca Telescópicas 3,60m Fibra de Vidro Retráteis Portáteis para Rios e Lagos",
+      "price": 48.0,
+      "original_price": 96.0,
+      "discount": 50.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mtkd2rdm7yf45c",
+      "link": "https://s.shopee.com.br/1W0EgOxsDj",
+      "rating": "4.9",
+      "sales": 305,
+      "shop": "CasaFeliz1166",
+      "category": "vara telescopica",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58216732509,
+        "productName": "Kit 2 Varas de Pesca Telescópicas 3,60m Fibra de Vidro Retráteis Portáteis para Rios e Lagos",
+        "price": "48",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.08",
+        "sales": 305,
+        "ratingStar": "4.9",
+        "shopName": "CasaFeliz1166",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mtkd2rdm7yf45c",
+        "productLink": "https://shopee.com.br/product/1894458973/58216732509",
+        "offerLink": "https://s.shopee.com.br/1W0EgOxsDj"
       },
       "_last_price": null
     },
@@ -28326,7 +28355,7 @@
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825ai-msdjr8a5sf0k10",
       "link": "https://s.shopee.com.br/8V9yW9ksys",
-      "rating": "5",
+      "rating": "4.9",
       "sales": 1985,
       "shop": "GROWTH SUPPLEMENTS",
       "category": "creatina",
@@ -28338,7 +28367,7 @@
         "priceDiscountRate": 24,
         "commissionRate": "0.11",
         "sales": 1985,
-        "ratingStar": "5",
+        "ratingStar": "4.9",
         "shopName": "GROWTH SUPPLEMENTS",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ai-msdjr8a5sf0k10",
         "productLink": "https://shopee.com.br/product/1876581966/45766835949",
