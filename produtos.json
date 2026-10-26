@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T04:42:33.307267+00:00",
-  "total": 1124,
+  "updated_at": "2026-10-26T05:01:16.967970+00:00",
+  "total": 1123,
   "products": [
     {
       "id": "52807406192",
@@ -4514,7 +4514,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx0-m15pe0s36kro6c",
         "productLink": "https://shopee.com.br/product/322434863/21499499348",
         "offerLink": "https://s.shopee.com.br/4LKPZlMAqj"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23699159711",
@@ -6600,6 +6601,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtz23drmeh3613",
         "productLink": "https://shopee.com.br/product/1593878986/58269834909",
         "offerLink": "https://s.shopee.com.br/AUv2tkJMUB"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22194727361",
+      "name": "Mouse Pad Gamer Personalizado Grande RGB Anime Heróis Exclusivo 80x30cm Confortável e Preciso !",
+      "price": 15.57,
+      "original_price": 39.92,
+      "discount": 61.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82281-mhf7fpjbncwa3c",
+      "link": "https://s.shopee.com.br/8AX9SmrNzK",
+      "rating": "4.8",
+      "sales": 698,
+      "shop": "Jutsu Anime Store",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22194727361,
+        "productName": "Mouse Pad Gamer Personalizado Grande RGB Anime Heróis Exclusivo 80x30cm Confortável e Preciso !",
+        "price": "15.57",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.13",
+        "sales": 698,
+        "ratingStar": "4.8",
+        "shopName": "Jutsu Anime Store",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82281-mhf7fpjbncwa3c",
+        "productLink": "https://shopee.com.br/product/1502662038/22194727361",
+        "offerLink": "https://s.shopee.com.br/8AX9SmrNzK"
       },
       "_last_price": null
     },
@@ -12515,35 +12545,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7aqdi0nbhhoce",
         "productLink": "https://shopee.com.br/product/457635641/22293698148",
         "offerLink": "https://s.shopee.com.br/9pfM6eRbir"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58215726245",
-      "name": "Tênis casual confortável feminino masculino dia a dia",
-      "price": 37.9,
-      "original_price": 77.35,
-      "discount": 51.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mrkfkbm5xu6dfb",
-      "link": "https://s.shopee.com.br/30p1y690op",
-      "rating": "4.8",
-      "sales": 2089,
-      "shop": "Lucca Shoes",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58215726245,
-        "productName": "Tênis casual confortável feminino masculino dia a dia",
-        "price": "37.9",
-        "priceDiscountRate": 51,
-        "commissionRate": "0.13",
-        "sales": 2089,
-        "ratingStar": "4.8",
-        "shopName": "Lucca Shoes",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mrkfkbm5xu6dfb",
-        "productLink": "https://shopee.com.br/product/1891292763/58215726245",
-        "offerLink": "https://s.shopee.com.br/30p1y690op"
       },
       "_last_price": null
     },
@@ -19044,35 +19045,6 @@
       "_last_price": null
     },
     {
-      "id": "22598826303",
-      "name": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
-      "price": 64.99,
-      "original_price": 110.15,
-      "discount": 41.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
-      "link": "https://s.shopee.com.br/3qO8xVI4nW",
-      "rating": "4.8",
-      "sales": 1809,
-      "shop": "Traxen",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22598826303,
-        "productName": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
-        "price": "64.99",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.03",
-        "sales": 1809,
-        "ratingStar": "4.8",
-        "shopName": "Traxen",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
-        "productLink": "https://shopee.com.br/product/786353833/22598826303",
-        "offerLink": "https://s.shopee.com.br/3qO8xVI4nW"
-      },
-      "_last_price": null
-    },
-    {
       "id": "57955121076",
       "name": "Fonte ATX Gamemax 750W GP750 com Cabo PFC Ativo 80 Plus Bronze Preto",
       "price": 310.9,
@@ -22374,35 +22346,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mtfdgt2kljwh41",
         "productLink": "https://shopee.com.br/product/1494295469/22799024930",
         "offerLink": "https://s.shopee.com.br/9fLwPClESX"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23694320738",
-      "name": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-      "price": 59.99,
-      "original_price": 92.29,
-      "discount": 35.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
-      "link": "https://s.shopee.com.br/1LgnyuRas5",
-      "rating": "4.8",
-      "sales": 1622,
-      "shop": "Traxen",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23694320738,
-        "productName": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-        "price": "59.99",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.03",
-        "sales": 1622,
-        "ratingStar": "4.8",
-        "shopName": "Traxen",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
-        "productLink": "https://shopee.com.br/product/786353833/23694320738",
-        "offerLink": "https://s.shopee.com.br/1LgnyuRas5"
       },
       "_last_price": null
     },
@@ -30175,6 +30118,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mpcphejk4eth7f",
         "productLink": "https://shopee.com.br/product/429439423/40881634244",
         "offerLink": "https://s.shopee.com.br/6Am3uEBcJI"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20098604949",
+      "name": "Tênis Feminino casual leve e confortável para lazer e trabalho na promoção lançamento 2023",
+      "price": 36.9,
+      "original_price": 46.12,
+      "discount": 20.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-li3ojrjk9ksf8f",
+      "link": "https://s.shopee.com.br/60SeEcPCex",
+      "rating": "4.8",
+      "sales": 1773,
+      "shop": "LOJA.VIRTUALCALÇADOS",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20098604949,
+        "productName": "Tênis Feminino casual leve e confortável para lazer e trabalho na promoção lançamento 2023",
+        "price": "36.9",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.13",
+        "sales": 1773,
+        "ratingStar": "4.8",
+        "shopName": "LOJA.VIRTUALCALÇADOS",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li3ojrjk9ksf8f",
+        "productLink": "https://shopee.com.br/product/503331535/20098604949",
+        "offerLink": "https://s.shopee.com.br/60SeEcPCex"
       },
       "_last_price": null
     },
