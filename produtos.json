@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T10:02:00.215845+00:00",
-  "total": 1116,
+  "updated_at": "2026-10-27T10:21:26.192315+00:00",
+  "total": 1115,
   "products": [
     {
       "id": "52807406192",
@@ -72,7 +72,7 @@
       "rating": "4.8",
       "sales": 4358,
       "shop": "CASA  HOME",
-      "category": "shampoo",
+      "category": "organizador",
       "source": "shopee",
       "_item": {
         "itemId": 58210104632,
@@ -148,6 +148,35 @@
       "_last_price": null
     },
     {
+      "id": "23497594302",
+      "name": "ROMANTIC CROWN Mochila de Viagem Expansível, Bolsa Executiva Notebook Masculina e Feminina Trabalho,Grande,Reforçada",
+      "price": 99.99,
+      "original_price": 714.21,
+      "discount": 86.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820la-mu7g0m7pk9vl21",
+      "link": "https://s.shopee.com.br/70LAjSBWL9",
+      "rating": "5",
+      "sales": 2439,
+      "shop": "Romantic Crown.02",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23497594302,
+        "productName": "ROMANTIC CROWN Mochila de Viagem Expansível, Bolsa Executiva Notebook Masculina e Feminina Trabalho,Grande,Reforçada",
+        "price": "99.99",
+        "priceDiscountRate": 86,
+        "commissionRate": "0.08",
+        "sales": 2439,
+        "ratingStar": "5",
+        "shopName": "Romantic Crown.02",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mu7g0m7pk9vl21",
+        "productLink": "https://shopee.com.br/product/1198407784/23497594302",
+        "offerLink": "https://s.shopee.com.br/70LAjSBWL9"
+      },
+      "_last_price": null
+    },
+    {
       "id": "49207406104",
       "name": "Shampoo Tonalizante Escurecedor Cabelos Brancos Colored 300ml Efeito 100% Tinta Natural",
       "price": 14.99,
@@ -202,35 +231,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134275-7rdxw-mdfucal40l6y57",
         "productLink": "https://shopee.com.br/product/236693678/26539956454",
         "offerLink": "https://s.shopee.com.br/7Aeavo0o28"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23497594302",
-      "name": "ROMANTIC CROWN Mochila de Viagem Expansível, Bolsa Executiva Notebook Masculina e Feminina Trabalho,Grande,Reforçada",
-      "price": 109.98,
-      "original_price": 687.37,
-      "discount": 84.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820la-mu7g0m7pk9vl21",
-      "link": "https://s.shopee.com.br/70LAjSBWL9",
-      "rating": "5",
-      "sales": 2439,
-      "shop": "Romantic Crown.02",
-      "category": "bolsa feminina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23497594302,
-        "productName": "ROMANTIC CROWN Mochila de Viagem Expansível, Bolsa Executiva Notebook Masculina e Feminina Trabalho,Grande,Reforçada",
-        "price": "109.98",
-        "priceDiscountRate": 84,
-        "commissionRate": "0.08",
-        "sales": 2439,
-        "ratingStar": "5",
-        "shopName": "Romantic Crown.02",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mu7g0m7pk9vl21",
-        "productLink": "https://shopee.com.br/product/1198407784/23497594302",
-        "offerLink": "https://s.shopee.com.br/70LAjSBWL9"
       },
       "_last_price": null
     },
@@ -637,8 +637,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-825a2-mgdcr60zrwgcdc",
         "productLink": "https://shopee.com.br/product/1006215031/51250897834",
         "offerLink": "https://s.shopee.com.br/7Ky184jJOL"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58268559860",
@@ -904,8 +903,8 @@
     {
       "id": "42971009476",
       "name": "Óculos De Sol Polarizados Sem Moldura Ultra Leves 10g TR90 , Flexível , Confortável , Formato Quadrado Para Dirigir , Pe",
-      "price": 16.34,
-      "original_price": 74.27,
+      "price": 17.29,
+      "original_price": 78.59,
       "discount": 78.0,
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/sg-11134301-824jh-meid7h7zauiv8e",
@@ -918,7 +917,7 @@
       "_item": {
         "itemId": 42971009476,
         "productName": "Óculos De Sol Polarizados Sem Moldura Ultra Leves 10g TR90 , Flexível , Confortável , Formato Quadrado Para Dirigir , Pe",
-        "price": "16.34",
+        "price": "17.29",
         "priceDiscountRate": 78,
         "commissionRate": "0.1",
         "sales": 4275,
@@ -3512,35 +3511,6 @@
       "_last_price": null
     },
     {
-      "id": "20397689429",
-      "name": "Suporte De Parede Banheiro/Caixa Organizadora Com Papel Higiênico/Sem Furar pronta entrega",
-      "price": 15.99,
-      "original_price": 49.97,
-      "discount": 68.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-lvmc7m8negkib0",
-      "link": "https://s.shopee.com.br/70LAjM0kFh",
-      "rating": "4.7",
-      "sales": 8984,
-      "shop": "CASA FEIRA",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20397689429,
-        "productName": "Suporte De Parede Banheiro/Caixa Organizadora Com Papel Higiênico/Sem Furar pronta entrega",
-        "price": "15.99",
-        "priceDiscountRate": 68,
-        "commissionRate": "0.03",
-        "sales": 8984,
-        "ratingStar": "4.7",
-        "shopName": "CASA FEIRA",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-lvmc7m8negkib0",
-        "productLink": "https://shopee.com.br/product/1034273871/20397689429",
-        "offerLink": "https://s.shopee.com.br/70LAjM0kFh"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23398892792",
       "name": "Pasta Sanfonada A4 12 Divisórias com Elástico em Polipropileno Escolar e Escritório",
       "price": 11.88,
@@ -3659,8 +3629,8 @@
     {
       "id": "25074712287",
       "name": "20 Peças Cabeça De Pesca Líderes De Linha De Aço Inoxidável Com Fivela Giratória Para Equipamento De Isca Ou Ganchos",
-      "price": 14.01,
-      "original_price": 43.78,
+      "price": 14.07,
+      "original_price": 43.97,
       "discount": 68.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
@@ -3673,7 +3643,7 @@
       "_item": {
         "itemId": 25074712287,
         "productName": "20 Peças Cabeça De Pesca Líderes De Linha De Aço Inoxidável Com Fivela Giratória Para Equipamento De Isca Ou Ganchos",
-        "price": "14.01",
+        "price": "14.07",
         "priceDiscountRate": 68,
         "commissionRate": "0.07",
         "sales": 424,
@@ -17490,35 +17460,6 @@
       "_last_price": null
     },
     {
-      "id": "25721342244",
-      "name": "Relógio Esportivo Digital Masculino À Prova D'água Silicone Pulseira Leve De Pulso Ao Ar Livre Presente",
-      "price": 14.12,
-      "original_price": 25.21,
-      "discount": 44.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823r8-mp4n5zizxs7f75",
-      "link": "https://s.shopee.com.br/AUv2ttFeqQ",
-      "rating": "4.7",
-      "sales": 3348,
-      "shop": "Choice Oficial",
-      "category": "relogio masculino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 25721342244,
-        "productName": "Relógio Esportivo Digital Masculino À Prova D'água Silicone Pulseira Leve De Pulso Ao Ar Livre Presente",
-        "price": "14.12",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.09",
-        "sales": 3348,
-        "ratingStar": "4.7",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r8-mp4n5zizxs7f75",
-        "productLink": "https://shopee.com.br/product/1006215031/25721342244",
-        "offerLink": "https://s.shopee.com.br/AUv2ttFeqQ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23699513929",
       "name": "Tenis Masculino + Relogio + 1 Par de Meia Esportivo Corrida Treino Super leve e Macio",
       "price": 55.95,
@@ -17782,8 +17723,8 @@
     {
       "id": "22998029026",
       "name": "Easyfresh Bouquet Facilitador Finalizador Passar Roupas e Tecidos Passadoria Lavanderia 1l Spartan",
-      "price": 30.88,
-      "original_price": 54.18,
+      "price": 31.79,
+      "original_price": 55.77,
       "discount": 43.0,
       "commission": 6.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfsnogvj5wqs3d",
@@ -17796,7 +17737,7 @@
       "_item": {
         "itemId": 22998029026,
         "productName": "Easyfresh Bouquet Facilitador Finalizador Passar Roupas e Tecidos Passadoria Lavanderia 1l Spartan",
-        "price": "30.88",
+        "price": "31.79",
         "priceDiscountRate": 43,
         "commissionRate": "0.06",
         "sales": 2811,
@@ -19052,6 +18993,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mudoqqkjmnltec",
         "productLink": "https://shopee.com.br/product/1446536761/23893212954",
         "offerLink": "https://s.shopee.com.br/8pmoun5Li6"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "25721342244",
+      "name": "Relógio Esportivo Digital Masculino À Prova D'água Silicone Pulseira Leve De Pulso Ao Ar Livre Presente",
+      "price": 14.82,
+      "original_price": 25.12,
+      "discount": 41.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823r8-mp4n5zizxs7f75",
+      "link": "https://s.shopee.com.br/AUv2ttFeqQ",
+      "rating": "4.7",
+      "sales": 3348,
+      "shop": "Choice Oficial",
+      "category": "relogio masculino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 25721342244,
+        "productName": "Relógio Esportivo Digital Masculino À Prova D'água Silicone Pulseira Leve De Pulso Ao Ar Livre Presente",
+        "price": "14.82",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.09",
+        "sales": 3348,
+        "ratingStar": "4.7",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823r8-mp4n5zizxs7f75",
+        "productLink": "https://shopee.com.br/product/1006215031/25721342244",
+        "offerLink": "https://s.shopee.com.br/AUv2ttFeqQ"
       },
       "_last_price": null
     },
