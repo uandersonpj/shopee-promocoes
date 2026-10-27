@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T05:00:56.520209+00:00",
-  "total": 1114,
+  "updated_at": "2026-10-27T05:19:41.228667+00:00",
+  "total": 1113,
   "products": [
     {
       "id": "52807406192",
@@ -72,7 +72,7 @@
       "rating": "4.8",
       "sales": 4358,
       "shop": "CASA  HOME",
-      "category": "shampoo",
+      "category": "organizador",
       "source": "shopee",
       "_item": {
         "itemId": 58210104632,
@@ -546,6 +546,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk35l9kuakg158",
         "productLink": "https://shopee.com.br/product/972031390/21997150349",
         "offerLink": "https://s.shopee.com.br/gR7BnE6Yl"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "57911938287",
+      "name": "Fonte ATX MSI 650W MAG 2.4 PCIE 80 Plus Bronze 306-7ZPAX39-HH9",
+      "price": 318.99,
+      "original_price": 1594.95,
+      "discount": 80.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
+      "link": "https://s.shopee.com.br/1BNNrmhgRw",
+      "rating": "5",
+      "sales": 1670,
+      "shop": "TNTinfoLoja",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57911938287,
+        "productName": "Fonte ATX MSI 650W MAG 2.4 PCIE 80 Plus Bronze 306-7ZPAX39-HH9",
+        "price": "318.99",
+        "priceDiscountRate": 80,
+        "commissionRate": "0.06",
+        "sales": 1670,
+        "ratingStar": "5",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
+        "productLink": "https://shopee.com.br/product/344381236/57911938287",
+        "offerLink": "https://s.shopee.com.br/1BNNrmhgRw"
       },
       "_last_price": null
     },
@@ -1623,6 +1652,35 @@
       "_last_price": null
     },
     {
+      "id": "58204733904",
+      "name": "Monitor De Pressão Arterial De Pulso Recarregável Alta BP Esfigmomanômetro XYY-2551",
+      "price": 38.99,
+      "original_price": 149.96,
+      "discount": 74.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8262u-mkcs0hae9g5j29",
+      "link": "https://s.shopee.com.br/7puL1mmxQe",
+      "rating": "4.9",
+      "sales": 1355,
+      "shop": "GALERIA TOP01",
+      "category": "monitor",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58204733904,
+        "productName": "Monitor De Pressão Arterial De Pulso Recarregável Alta BP Esfigmomanômetro XYY-2551",
+        "price": "38.99",
+        "priceDiscountRate": 74,
+        "commissionRate": "0.03",
+        "sales": 1355,
+        "ratingStar": "4.9",
+        "shopName": "GALERIA TOP01",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262u-mkcs0hae9g5j29",
+        "productLink": "https://shopee.com.br/product/1691112742/58204733904",
+        "offerLink": "https://s.shopee.com.br/7puL1mmxQe"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18398161750",
       "name": "HUAWEI WiFi AX2S | Roteador | WS7000 V2 |  Dual Band | 4 Antenas | 5 GHz Wi-Fi 6",
       "price": 128.7,
@@ -1995,7 +2053,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mt995huwzmdcf3",
         "productLink": "https://shopee.com.br/product/918530496/58217124419",
         "offerLink": "https://s.shopee.com.br/gR7AcGzML"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58214178007",
@@ -3446,35 +3505,6 @@
       "_last_price": null
     },
     {
-      "id": "20397689429",
-      "name": "Suporte De Parede Banheiro/Caixa Organizadora Com Papel Higiênico/Sem Furar pronta entrega",
-      "price": 15.99,
-      "original_price": 49.97,
-      "discount": 68.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-lvmc7m8negkib0",
-      "link": "https://s.shopee.com.br/70LAjM0kFh",
-      "rating": "4.7",
-      "sales": 8984,
-      "shop": "CASA FEIRA",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20397689429,
-        "productName": "Suporte De Parede Banheiro/Caixa Organizadora Com Papel Higiênico/Sem Furar pronta entrega",
-        "price": "15.99",
-        "priceDiscountRate": 68,
-        "commissionRate": "0.03",
-        "sales": 8984,
-        "ratingStar": "4.7",
-        "shopName": "CASA FEIRA",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-lvmc7m8negkib0",
-        "productLink": "https://shopee.com.br/product/1034273871/20397689429",
-        "offerLink": "https://s.shopee.com.br/70LAjM0kFh"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23398892792",
       "name": "Pasta Sanfonada A4 12 Divisórias com Elástico em Polipropileno Escolar e Escritório",
       "price": 11.88,
@@ -3731,35 +3761,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maqajn6xwn7z9d",
         "productLink": "https://shopee.com.br/product/1059934694/21198202231",
         "offerLink": "https://s.shopee.com.br/1gJdINMjFl"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20299250309",
-      "name": "Monitor digital de pressão arterial de braço totalmente automático  jorge",
-      "price": 39.99,
-      "original_price": 121.18,
-      "discount": 67.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfgj-m9amfdsd1v53e7",
-      "link": "https://s.shopee.com.br/AAID0818M6",
-      "rating": "4.8",
-      "sales": 2677,
-      "shop": "Jorge.store",
-      "category": "monitor",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20299250309,
-        "productName": "Monitor digital de pressão arterial de braço totalmente automático  jorge",
-        "price": "39.99",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.07",
-        "sales": 2677,
-        "ratingStar": "4.8",
-        "shopName": "Jorge.store",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfgj-m9amfdsd1v53e7",
-        "productLink": "https://shopee.com.br/product/410705973/20299250309",
-        "offerLink": "https://s.shopee.com.br/AAID0818M6"
       },
       "_last_price": null
     },
@@ -29741,35 +29742,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mskcqn1114w454",
         "productLink": "https://shopee.com.br/product/1043921872/58266635989",
         "offerLink": "https://s.shopee.com.br/906F6zP4Wk"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22498827883",
-      "name": "Cabo De Força Cpu Atx Computador Pc Monitor 3 Pinos novo padrão 10A Tripolar Fonte",
-      "price": 11.99,
-      "original_price": 14.99,
-      "discount": 20.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvq-mdl8z1k4xiokab",
-      "link": "https://s.shopee.com.br/1W0HSsLBha",
-      "rating": "4.9",
-      "sales": 52,
-      "shop": "D.J Imports",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22498827883,
-        "productName": "Cabo De Força Cpu Atx Computador Pc Monitor 3 Pinos novo padrão 10A Tripolar Fonte",
-        "price": "11.99",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.03",
-        "sales": 52,
-        "ratingStar": "4.9",
-        "shopName": "D.J Imports",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvq-mdl8z1k4xiokab",
-        "productLink": "https://shopee.com.br/product/358069106/22498827883",
-        "offerLink": "https://s.shopee.com.br/1W0HSsLBha"
       },
       "_last_price": null
     },
