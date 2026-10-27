@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T09:24:13.796361+00:00",
-  "total": 1114,
+  "updated_at": "2026-10-27T09:43:02.627604+00:00",
+  "total": 1115,
   "products": [
     {
       "id": "52807406192",
@@ -72,7 +72,7 @@
       "rating": "4.8",
       "sales": 4358,
       "shop": "CASA  HOME",
-      "category": "organizador",
+      "category": "shampoo",
       "source": "shopee",
       "_item": {
         "itemId": 58210104632,
@@ -3508,6 +3508,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/4d3d9eceb4a23732c4b0f88ec5f6e5fa",
         "productLink": "https://shopee.com.br/product/233660920/21635320174",
         "offerLink": "https://s.shopee.com.br/6L5TwGmJLJ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20397689429",
+      "name": "Suporte De Parede Banheiro/Caixa Organizadora Com Papel Higiênico/Sem Furar pronta entrega",
+      "price": 15.99,
+      "original_price": 49.97,
+      "discount": 68.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-lvmc7m8negkib0",
+      "link": "https://s.shopee.com.br/70LAjM0kFh",
+      "rating": "4.7",
+      "sales": 8984,
+      "shop": "CASA FEIRA",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20397689429,
+        "productName": "Suporte De Parede Banheiro/Caixa Organizadora Com Papel Higiênico/Sem Furar pronta entrega",
+        "price": "15.99",
+        "priceDiscountRate": 68,
+        "commissionRate": "0.03",
+        "sales": 8984,
+        "ratingStar": "4.7",
+        "shopName": "CASA FEIRA",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-lvmc7m8negkib0",
+        "productLink": "https://shopee.com.br/product/1034273871/20397689429",
+        "offerLink": "https://s.shopee.com.br/70LAjM0kFh"
       },
       "_last_price": null
     },
@@ -11715,35 +11744,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
         "productLink": "https://shopee.com.br/product/1461473610/22893806671",
         "offerLink": "https://s.shopee.com.br/1Lgnz1T655"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18499668742",
-      "name": "Jogo de Panelas 13 Peças Panela de Pressão 2L Conjunto Teflon Antiaderente Frigideira Caçarola",
-      "price": 188.86,
-      "original_price": 393.46,
-      "discount": 52.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mlw8e6mhslc068",
-      "link": "https://s.shopee.com.br/AKbchZPhi0",
-      "rating": "4.6",
-      "sales": 369,
-      "shop": "ClickComercioDigital",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18499668742,
-        "productName": "Jogo de Panelas 13 Peças Panela de Pressão 2L Conjunto Teflon Antiaderente Frigideira Caçarola",
-        "price": "188.86",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 369,
-        "ratingStar": "4.6",
-        "shopName": "ClickComercioDigital",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mlw8e6mhslc068",
-        "productLink": "https://shopee.com.br/product/958547234/18499668742",
-        "offerLink": "https://s.shopee.com.br/AKbchZPhi0"
       },
       "_last_price": null
     },
@@ -23145,6 +23145,35 @@
       "_last_price": null
     },
     {
+      "id": "22499150403",
+      "name": "Moedor de Café e Especiarias 110/220v Elétrico Inox 4 Lâminas Grãos Pronta Entrega",
+      "price": 33.15,
+      "original_price": 50.23,
+      "discount": 34.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825ae-mgfdyufrfi16e2",
+      "link": "https://s.shopee.com.br/1qd4ZwRC48",
+      "rating": "4.9",
+      "sales": 511,
+      "shop": "+ Compras BR",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22499150403,
+        "productName": "Moedor de Café e Especiarias 110/220v Elétrico Inox 4 Lâminas Grãos Pronta Entrega",
+        "price": "33.15",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.03",
+        "sales": 511,
+        "ratingStar": "4.9",
+        "shopName": "+ Compras BR",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ae-mgfdyufrfi16e2",
+        "productLink": "https://shopee.com.br/product/1297495463/22499150403",
+        "offerLink": "https://s.shopee.com.br/1qd4ZwRC48"
+      },
+      "_last_price": null
+    },
+    {
       "id": "41229623791",
       "name": "Summer Adventure UV400 Óculos De Sol Esportivos Com Espelho Colorido Unissex Para Viagens Ao Ar Livre",
       "price": 15.09,
@@ -30519,7 +30548,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mr6oytywjdok61",
       "link": "https://s.shopee.com.br/2LZLAtbgKv",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 135,
       "shop": "JAUPESCA",
       "category": "carretilha pesca",
@@ -30531,7 +30560,7 @@
         "priceDiscountRate": 19,
         "commissionRate": "0.03",
         "sales": 135,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "JAUPESCA",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mr6oytywjdok61",
         "productLink": "https://shopee.com.br/product/954428278/48664980451",
