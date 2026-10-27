@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T02:09:53.089241+00:00",
+  "updated_at": "2026-10-27T02:29:16.647282+00:00",
   "total": 1116,
   "products": [
     {
@@ -461,8 +461,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mmimeaq4koav45",
         "productLink": "https://shopee.com.br/product/1748172680/58258026087",
         "offerLink": "https://s.shopee.com.br/W7gyJZDoZ"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "20199713818",
@@ -1306,6 +1305,35 @@
       "_last_price": null
     },
     {
+      "id": "22194360521",
+      "name": "Teclado Mecanico TGT Sherman V3 C1, Rainbow, ABNT2, Switch Vermelho, Preto, TGT-SHRC-RD01",
+      "price": 91.91,
+      "original_price": 382.96,
+      "discount": 76.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mqeqor4mxm2o65",
+      "link": "https://s.shopee.com.br/6q1kX0ozKe",
+      "rating": "4.9",
+      "sales": 322,
+      "shop": "Pichau",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22194360521,
+        "productName": "Teclado Mecanico TGT Sherman V3 C1, Rainbow, ABNT2, Switch Vermelho, Preto, TGT-SHRC-RD01",
+        "price": "91.91",
+        "priceDiscountRate": 76,
+        "commissionRate": "0.03",
+        "sales": 322,
+        "ratingStar": "4.9",
+        "shopName": "Pichau",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mqeqor4mxm2o65",
+        "productLink": "https://shopee.com.br/product/627750190/22194360521",
+        "offerLink": "https://s.shopee.com.br/6q1kX0ozKe"
+      },
+      "_last_price": null
+    },
+    {
       "id": "20398528613",
       "name": "ANA 1108 KIT 3 Pcs Porta Perfume Recarregavel Portatil Spray 5ml",
       "price": 11.97,
@@ -1505,35 +1533,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbkc-lpcg90v8yx5251",
         "productLink": "https://shopee.com.br/product/987393610/22397182239",
         "offerLink": "https://s.shopee.com.br/2BFuyYczFI"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22194360521",
-      "name": "Teclado Mecanico TGT Sherman V3 C1, Rainbow, ABNT2, Switch Vermelho, Preto, TGT-SHRC-RD01",
-      "price": 93.9,
-      "original_price": 375.6,
-      "discount": 75.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mqeqor4mxm2o65",
-      "link": "https://s.shopee.com.br/6q1kX0ozKe",
-      "rating": "4.9",
-      "sales": 322,
-      "shop": "Pichau",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22194360521,
-        "productName": "Teclado Mecanico TGT Sherman V3 C1, Rainbow, ABNT2, Switch Vermelho, Preto, TGT-SHRC-RD01",
-        "price": "93.9",
-        "priceDiscountRate": 75,
-        "commissionRate": "0.03",
-        "sales": 322,
-        "ratingStar": "4.9",
-        "shopName": "Pichau",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mqeqor4mxm2o65",
-        "productLink": "https://shopee.com.br/product/627750190/22194360521",
-        "offerLink": "https://s.shopee.com.br/6q1kX0ozKe"
       },
       "_last_price": null
     },
@@ -3571,7 +3570,7 @@
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/b00547f24fc70a45e7e053d7ad172265",
       "link": "https://s.shopee.com.br/8fTQqg854D",
-      "rating": "4.6",
+      "rating": "4.5",
       "sales": 940,
       "shop": "hengben4.br",
       "category": "protetor solar",
@@ -3583,7 +3582,7 @@
         "priceDiscountRate": 68,
         "commissionRate": "0.13",
         "sales": 940,
-        "ratingStar": "4.6",
+        "ratingStar": "4.5",
         "shopName": "hengben4.br",
         "imageUrl": "https://cf.shopee.com.br/file/b00547f24fc70a45e7e053d7ad172265",
         "productLink": "https://shopee.com.br/product/412809126/18623190615",
@@ -3761,7 +3760,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82616-ml2clmr46gao12",
         "productLink": "https://shopee.com.br/product/475104620/58255656605",
         "offerLink": "https://s.shopee.com.br/1Lgnz6iXaS"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "29430812711",
@@ -5789,35 +5789,6 @@
       "_last_price": null
     },
     {
-      "id": "41809393497",
-      "name": "Sougayilang Baitcasting Fishing Combo Carretel De Relação De Engrenagem De Alta Velocidade 7.2 : 1 + Vara De Fibra De Ca",
-      "price": 101.2,
-      "original_price": 273.51,
-      "discount": 63.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-moj6y9k3bm6l25",
-      "link": "https://s.shopee.com.br/6q1kXA2x2z",
-      "rating": "4.8",
-      "sales": 819,
-      "shop": "sougayilanglocal3.br",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41809393497,
-        "productName": "Sougayilang Baitcasting Fishing Combo Carretel De Relação De Engrenagem De Alta Velocidade 7.2 : 1 + Vara De Fibra De Ca",
-        "price": "101.2",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.09",
-        "sales": 819,
-        "ratingStar": "4.8",
-        "shopName": "sougayilanglocal3.br",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-moj6y9k3bm6l25",
-        "productLink": "https://shopee.com.br/product/1500993597/41809393497",
-        "offerLink": "https://s.shopee.com.br/6q1kXA2x2z"
-      },
-      "_last_price": null
-    },
-    {
       "id": "53112635208",
       "name": "Oceano Praia Tema Parede Pendurado Decoração 100x150cm 100x200cm Mão Tecido Rede De Pesca Quarto Festa Prop",
       "price": 18.29,
@@ -6769,6 +6740,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rasz-malhwjljk9cy5f",
         "productLink": "https://shopee.com.br/product/1550915634/23494069000",
         "offerLink": "https://s.shopee.com.br/8fTOiWeEgj"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "41809393497",
+      "name": "Sougayilang Baitcasting Fishing Combo Carretel De Relação De Engrenagem De Alta Velocidade 7.2 : 1 + Vara De Fibra De Ca",
+      "price": 101.2,
+      "original_price": 259.49,
+      "discount": 61.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-moj6y9k3bm6l25",
+      "link": "https://s.shopee.com.br/6q1kXA2x2z",
+      "rating": "4.8",
+      "sales": 819,
+      "shop": "sougayilanglocal3.br",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41809393497,
+        "productName": "Sougayilang Baitcasting Fishing Combo Carretel De Relação De Engrenagem De Alta Velocidade 7.2 : 1 + Vara De Fibra De Ca",
+        "price": "101.2",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.09",
+        "sales": 819,
+        "ratingStar": "4.8",
+        "shopName": "sougayilanglocal3.br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-moj6y9k3bm6l25",
+        "productLink": "https://shopee.com.br/product/1500993597/41809393497",
+        "offerLink": "https://s.shopee.com.br/6q1kXA2x2z"
       },
       "_last_price": null
     },
@@ -18895,8 +18895,8 @@
     {
       "id": "58206237985",
       "name": "Kit 3 a 10 Potes Herméticos 2L Dispenser Organizador Lavanderia Para Sabão em Pó Detergente Amaciante",
-      "price": 48.99,
-      "original_price": 83.03,
+      "price": 49.0,
+      "original_price": 83.05,
       "discount": 41.0,
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mu25c09qyz29d9",
@@ -18909,7 +18909,7 @@
       "_item": {
         "itemId": 58206237985,
         "productName": "Kit 3 a 10 Potes Herméticos 2L Dispenser Organizador Lavanderia Para Sabão em Pó Detergente Amaciante",
-        "price": "48.99",
+        "price": "49",
         "priceDiscountRate": 41,
         "commissionRate": "0.14",
         "sales": 1076,
@@ -28819,7 +28819,7 @@
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81zu8-ml5ftgkgqj9i7e",
       "link": "https://s.shopee.com.br/LoGnGHY0n",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 303,
       "shop": "MegaMix Store 18",
       "category": "caixa de pesca",
@@ -28831,7 +28831,7 @@
         "priceDiscountRate": 23,
         "commissionRate": "0.08",
         "sales": 303,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "MegaMix Store 18",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu8-ml5ftgkgqj9i7e",
         "productLink": "https://shopee.com.br/product/1741664222/58205198011",
