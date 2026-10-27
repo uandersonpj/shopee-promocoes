@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T06:16:23.947738+00:00",
-  "total": 1113,
+  "updated_at": "2026-10-27T06:35:12.020426+00:00",
+  "total": 1112,
   "products": [
     {
       "id": "52807406192",
@@ -4373,7 +4373,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx0-m15pe0s36kro6c",
         "productLink": "https://shopee.com.br/product/322434863/21499499348",
         "offerLink": "https://s.shopee.com.br/4LKPZlMAqj"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23699159711",
@@ -7966,35 +7967,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mfkhv25lt53i73",
         "productLink": "https://shopee.com.br/product/1480010654/27486864605",
         "offerLink": "https://s.shopee.com.br/40hcP1kfjr"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58216571982",
-      "name": "Vara de pesca com carretilha 1.8M Vara De Pesca Carretel Kit Completo Com Alta Velocidade Max Drag 100KG",
-      "price": 75.0,
-      "original_price": 178.57,
-      "discount": 58.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-ms3szzryadc5d0",
-      "link": "https://s.shopee.com.br/1W0EBMer1q",
-      "rating": "4.7",
-      "sales": 149,
-      "shop": "Loja do Profissional-",
-      "category": "carretilha pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58216571982,
-        "productName": "Vara de pesca com carretilha 1.8M Vara De Pesca Carretel Kit Completo Com Alta Velocidade Max Drag 100KG",
-        "price": "75",
-        "priceDiscountRate": 58,
-        "commissionRate": "0.11",
-        "sales": 149,
-        "ratingStar": "4.7",
-        "shopName": "Loja do Profissional-",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-ms3szzryadc5d0",
-        "productLink": "https://shopee.com.br/product/1911185539/58216571982",
-        "offerLink": "https://s.shopee.com.br/1W0EBMer1q"
       },
       "_last_price": null
     },
