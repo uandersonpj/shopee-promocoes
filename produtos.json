@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T18:32:10.698163+00:00",
+  "updated_at": "2026-10-27T18:51:58.565904+00:00",
   "total": 1113,
   "products": [
     {
@@ -258,7 +258,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-murrvh9gbri925",
         "productLink": "https://shopee.com.br/product/427457955/49466540071",
         "offerLink": "https://s.shopee.com.br/LoGn6hegU"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "55508691646",
@@ -5956,8 +5957,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mtd0czcsu8030c",
         "productLink": "https://shopee.com.br/product/1107644568/22193849980",
         "offerLink": "https://s.shopee.com.br/LoIu2OfVI"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "24098490275",
@@ -12103,6 +12103,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mci6w7lu1s75b8",
         "productLink": "https://shopee.com.br/product/767498858/19099843848",
         "offerLink": "https://s.shopee.com.br/W7gzRgDEA"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22392993399",
+      "name": "Hipercalórico Dark Mass 3kg Dark Lab - Whey Protein, Creatina, BCAA, Waxy Maize, Premium Mass Gainer",
+      "price": 78.9,
+      "original_price": 161.02,
+      "discount": 51.0,
+      "commission": 24.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawnmo1qj3970",
+      "link": "https://s.shopee.com.br/9APfJNiLcw",
+      "rating": "4.9",
+      "sales": 2651,
+      "shop": "Dark Lab Oficial",
+      "category": "whey protein",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22392993399,
+        "productName": "Hipercalórico Dark Mass 3kg Dark Lab - Whey Protein, Creatina, BCAA, Waxy Maize, Premium Mass Gainer",
+        "price": "78.9",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.24",
+        "sales": 2651,
+        "ratingStar": "4.9",
+        "shopName": "Dark Lab Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawnmo1qj3970",
+        "productLink": "https://shopee.com.br/product/1242044379/22392993399",
+        "offerLink": "https://s.shopee.com.br/9APfJNiLcw"
       },
       "_last_price": null
     },
@@ -19357,6 +19386,35 @@
       "_last_price": null
     },
     {
+      "id": "55712165667",
+      "name": "Ração Premium 10,1kg Frango Carne Peixe para Gatos Todos Portes Alta Nutrição 27% Proteina Promoção Filhotes e Adultos",
+      "price": 71.9,
+      "original_price": 119.83,
+      "discount": 40.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mraqv7m0ow0515",
+      "link": "https://s.shopee.com.br/5AtaFjQG0y",
+      "rating": "4.9",
+      "sales": 1109,
+      "shop": "FATPET",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 55712165667,
+        "productName": "Ração Premium 10,1kg Frango Carne Peixe para Gatos Todos Portes Alta Nutrição 27% Proteina Promoção Filhotes e Adultos",
+        "price": "71.9",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 1109,
+        "ratingStar": "4.9",
+        "shopName": "FATPET",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mraqv7m0ow0515",
+        "productLink": "https://shopee.com.br/product/421503156/55712165667",
+        "offerLink": "https://s.shopee.com.br/5AtaFjQG0y"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58253767614",
       "name": "Arranhador Gato Rampa Anti Estresse Casinha Brinquedo Tóca 30x47cm",
       "price": 29.9,
@@ -19966,35 +20024,6 @@
       "_last_price": null
     },
     {
-      "id": "55712165667",
-      "name": "Ração Premium 10,1kg Frango Carne Peixe para Gatos Todos Portes Alta Nutrição 27% Proteina Promoção Filhotes e Adultos",
-      "price": 72.98,
-      "original_price": 119.64,
-      "discount": 39.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mraqv7m0ow0515",
-      "link": "https://s.shopee.com.br/5AtaFjQG0y",
-      "rating": "4.9",
-      "sales": 1109,
-      "shop": "FATPET",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 55712165667,
-        "productName": "Ração Premium 10,1kg Frango Carne Peixe para Gatos Todos Portes Alta Nutrição 27% Proteina Promoção Filhotes e Adultos",
-        "price": "72.98",
-        "priceDiscountRate": 39,
-        "commissionRate": "0.03",
-        "sales": 1109,
-        "ratingStar": "4.9",
-        "shopName": "FATPET",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mraqv7m0ow0515",
-        "productLink": "https://shopee.com.br/product/421503156/55712165667",
-        "offerLink": "https://s.shopee.com.br/5AtaFjQG0y"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22895975988",
       "name": "Tênis Feminino casual confortável e leve para trabalho e lazer barato lançamento 2023",
       "price": 36.9,
@@ -20455,35 +20484,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-motrvx7s1k3ka3",
         "productLink": "https://shopee.com.br/product/938888317/19297977722",
         "offerLink": "https://s.shopee.com.br/W7hcQTLE1"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22392993399",
-      "name": "Hipercalórico Dark Mass 3kg Dark Lab - Whey Protein, Creatina, BCAA, Waxy Maize, Premium Mass Gainer",
-      "price": 99.9,
-      "original_price": 161.13,
-      "discount": 38.0,
-      "commission": 24.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawnmo1qj3970",
-      "link": "https://s.shopee.com.br/9APfJNiLcw",
-      "rating": "4.9",
-      "sales": 2651,
-      "shop": "Dark Lab Oficial",
-      "category": "whey protein",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22392993399,
-        "productName": "Hipercalórico Dark Mass 3kg Dark Lab - Whey Protein, Creatina, BCAA, Waxy Maize, Premium Mass Gainer",
-        "price": "99.9",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.24",
-        "sales": 2651,
-        "ratingStar": "4.9",
-        "shopName": "Dark Lab Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawnmo1qj3970",
-        "productLink": "https://shopee.com.br/product/1242044379/22392993399",
-        "offerLink": "https://s.shopee.com.br/9APfJNiLcw"
       },
       "_last_price": null
     },
@@ -21035,6 +21035,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mflkux3b9af954",
         "productLink": "https://shopee.com.br/product/1480477115/22394414025",
         "offerLink": "https://s.shopee.com.br/3LRszdIYTO"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19699704487",
+      "name": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
+      "price": 189.99,
+      "original_price": 301.57,
+      "discount": 37.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
+      "link": "https://s.shopee.com.br/906F749qyd",
+      "rating": "4.9",
+      "sales": 4651,
+      "shop": "Monkey toys",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19699704487,
+        "productName": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
+        "price": "189.99",
+        "priceDiscountRate": 37,
+        "commissionRate": "0.07",
+        "sales": 4651,
+        "ratingStar": "4.9",
+        "shopName": "Monkey toys",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
+        "productLink": "https://shopee.com.br/product/406894684/19699704487",
+        "offerLink": "https://s.shopee.com.br/906F749qyd"
       },
       "_last_price": null
     },
@@ -22108,35 +22137,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-moph1pgp4jcw5a",
         "productLink": "https://shopee.com.br/product/882971017/49061198035",
         "offerLink": "https://s.shopee.com.br/60SdXVVQIJ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "19699704487",
-      "name": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
-      "price": 195.99,
-      "original_price": 301.52,
-      "discount": 35.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
-      "link": "https://s.shopee.com.br/906F749qyd",
-      "rating": "4.9",
-      "sales": 4651,
-      "shop": "Monkey toys",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19699704487,
-        "productName": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
-        "price": "195.99",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.07",
-        "sales": 4651,
-        "ratingStar": "4.9",
-        "shopName": "Monkey toys",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
-        "productLink": "https://shopee.com.br/product/406894684/19699704487",
-        "offerLink": "https://s.shopee.com.br/906F749qyd"
       },
       "_last_price": null
     },
