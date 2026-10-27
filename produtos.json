@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T18:12:26.045234+00:00",
-  "total": 1116,
+  "updated_at": "2026-10-27T18:32:10.698163+00:00",
+  "total": 1113,
   "products": [
     {
       "id": "52807406192",
@@ -748,7 +748,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-ms6hxutagw04bd",
         "productLink": "https://shopee.com.br/product/1506274241/22694660203",
         "offerLink": "https://s.shopee.com.br/5q9FbdCSQP"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22492388439",
@@ -1352,8 +1353,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1xeanm14pt61d",
         "productLink": "https://shopee.com.br/product/1017646777/22198016021",
         "offerLink": "https://s.shopee.com.br/9Kj8nKTkhw"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "50052384985",
@@ -10454,35 +10454,6 @@
       "_last_price": null
     },
     {
-      "id": "22099453589",
-      "name": "Gabinete Gamer Ninja Tessen, Mid Tower, Vidro Temperado, M-ATX,3 Fans Rainbow, Sem Fonte,GN-CS-MTBSF",
-      "price": 189.99,
-      "original_price": 404.23,
-      "discount": 53.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8262b-mmhtge8laznqff",
-      "link": "https://s.shopee.com.br/8KqYOxGOuW",
-      "rating": "4.9",
-      "sales": 44,
-      "shop": "Terabyte Oficial",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22099453589,
-        "productName": "Gabinete Gamer Ninja Tessen, Mid Tower, Vidro Temperado, M-ATX,3 Fans Rainbow, Sem Fonte,GN-CS-MTBSF",
-        "price": "189.99",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.03",
-        "sales": 44,
-        "ratingStar": "4.9",
-        "shopName": "Terabyte Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262b-mmhtge8laznqff",
-        "productLink": "https://shopee.com.br/product/1552226494/22099453589",
-        "offerLink": "https://s.shopee.com.br/8KqYOxGOuW"
-      },
-      "_last_price": null
-    },
-    {
       "id": "50666303330",
       "name": "Desentupidor em Escamas Pó Biologico Desentop Fossa Caixa Gordura Para Sabão SOL - 1KG",
       "price": 37.55,
@@ -16196,6 +16167,35 @@
       "_last_price": null
     },
     {
+      "id": "22099453589",
+      "name": "Gabinete Gamer Ninja Tessen, Mid Tower, Vidro Temperado, M-ATX,3 Fans Rainbow, Sem Fonte,GN-CS-MTBSF",
+      "price": 219.99,
+      "original_price": 399.98,
+      "discount": 45.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8262b-mmhtge8laznqff",
+      "link": "https://s.shopee.com.br/8KqYOxGOuW",
+      "rating": "4.9",
+      "sales": 44,
+      "shop": "Terabyte Oficial",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22099453589,
+        "productName": "Gabinete Gamer Ninja Tessen, Mid Tower, Vidro Temperado, M-ATX,3 Fans Rainbow, Sem Fonte,GN-CS-MTBSF",
+        "price": "219.99",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 44,
+        "ratingStar": "4.9",
+        "shopName": "Terabyte Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262b-mmhtge8laznqff",
+        "productLink": "https://shopee.com.br/product/1552226494/22099453589",
+        "offerLink": "https://s.shopee.com.br/8KqYOxGOuW"
+      },
+      "_last_price": null
+    },
+    {
       "id": "54911306293",
       "name": "Kit 2 Potes Herméticos 2L Lavanderia Copo Medidor Bico Dosador Porta Sabão em Pó Amaciante Produtos de Limpeza",
       "price": 37.89,
@@ -16486,35 +16486,6 @@
       "_last_price": null
     },
     {
-      "id": "23498386191",
-      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-      "price": 163.9,
-      "original_price": 298.0,
-      "discount": 45.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-      "link": "https://s.shopee.com.br/AAICVD5Pbw",
-      "rating": "4.9",
-      "sales": 3046,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498386191,
-        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-        "price": "163.9",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.1",
-        "sales": 3046,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-        "productLink": "https://shopee.com.br/product/504754787/23498386191",
-        "offerLink": "https://s.shopee.com.br/AAICVD5Pbw"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20999680446",
       "name": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
       "price": 197.9,
@@ -16714,6 +16685,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2gjoxgoo3l77",
         "productLink": "https://shopee.com.br/product/842996464/21357829581",
         "offerLink": "https://s.shopee.com.br/7favEM2jaH"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58216814213",
+      "name": "Tenis Feminino Casual Tendencia Estiloso Confortavel Macio trabalho Escola Passeio",
+      "price": 49.45,
+      "original_price": 89.91,
+      "discount": 45.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lv-msa3dt84h9txfc",
+      "link": "https://s.shopee.com.br/4B0zMF4ZS8",
+      "rating": "4.8",
+      "sales": 2472,
+      "shop": "Lilicas Shoes",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58216814213,
+        "productName": "Tenis Feminino Casual Tendencia Estiloso Confortavel Macio trabalho Escola Passeio",
+        "price": "49.45",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 2472,
+        "ratingStar": "4.8",
+        "shopName": "Lilicas Shoes",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-msa3dt84h9txfc",
+        "productLink": "https://shopee.com.br/product/1916253473/58216814213",
+        "offerLink": "https://s.shopee.com.br/4B0zMF4ZS8"
       },
       "_last_price": null
     },
@@ -17091,35 +17091,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mn2vioibx3pc13",
         "productLink": "https://shopee.com.br/product/829520727/18298128179",
         "offerLink": "https://s.shopee.com.br/1Lgnyyd2XR"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "42668101068",
-      "name": "Quadriciclo Elétrico Carro Compact Infantil com Controle Remoto Carrinho de Passeio com Farol",
-      "price": 564.9,
-      "original_price": 1008.75,
-      "discount": 44.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meepoqlqrif56a",
-      "link": "https://s.shopee.com.br/6q1mfKNSJo",
-      "rating": "4.9",
-      "sales": 1070,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42668101068,
-        "productName": "Quadriciclo Elétrico Carro Compact Infantil com Controle Remoto Carrinho de Passeio com Farol",
-        "price": "564.9",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.07",
-        "sales": 1070,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meepoqlqrif56a",
-        "productLink": "https://shopee.com.br/product/504754787/42668101068",
-        "offerLink": "https://s.shopee.com.br/6q1mfKNSJo"
       },
       "_last_price": null
     },
@@ -17617,6 +17588,35 @@
       "_last_price": null
     },
     {
+      "id": "23498386191",
+      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+      "price": 169.9,
+      "original_price": 298.07,
+      "discount": 43.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+      "link": "https://s.shopee.com.br/AAICVD5Pbw",
+      "rating": "4.9",
+      "sales": 3046,
+      "shop": "Zociella Kids",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498386191,
+        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+        "price": "169.9",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.1",
+        "sales": 3046,
+        "ratingStar": "4.9",
+        "shopName": "Zociella Kids",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+        "productLink": "https://shopee.com.br/product/504754787/23498386191",
+        "offerLink": "https://s.shopee.com.br/AAICVD5Pbw"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23394412512",
       "name": "Caminhão Dinossauro 4 em 1 com pista e lancador, 6/12 carrinhos demetal",
       "price": 114.99,
@@ -17642,6 +17642,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i5-mesl3uxaz30l75",
         "productLink": "https://shopee.com.br/product/1634545368/23394412512",
         "offerLink": "https://s.shopee.com.br/2VslN7YbAk"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "42668101068",
+      "name": "Quadriciclo Elétrico Carro Compact Infantil com Controle Remoto Carrinho de Passeio com Farol",
+      "price": 569.8,
+      "original_price": 999.65,
+      "discount": 43.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meepoqlqrif56a",
+      "link": "https://s.shopee.com.br/6q1mfKNSJo",
+      "rating": "4.9",
+      "sales": 1070,
+      "shop": "Zociella Kids",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42668101068,
+        "productName": "Quadriciclo Elétrico Carro Compact Infantil com Controle Remoto Carrinho de Passeio com Farol",
+        "price": "569.8",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.07",
+        "sales": 1070,
+        "ratingStar": "4.9",
+        "shopName": "Zociella Kids",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meepoqlqrif56a",
+        "productLink": "https://shopee.com.br/product/504754787/42668101068",
+        "offerLink": "https://s.shopee.com.br/6q1mfKNSJo"
       },
       "_last_price": null
     },
@@ -21010,35 +21039,6 @@
       "_last_price": null
     },
     {
-      "id": "19699704487",
-      "name": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
-      "price": 189.99,
-      "original_price": 301.57,
-      "discount": 37.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
-      "link": "https://s.shopee.com.br/906F749qyd",
-      "rating": "4.9",
-      "sales": 4651,
-      "shop": "Monkey toys",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19699704487,
-        "productName": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
-        "price": "189.99",
-        "priceDiscountRate": 37,
-        "commissionRate": "0.07",
-        "sales": 4651,
-        "ratingStar": "4.9",
-        "shopName": "Monkey toys",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
-        "productLink": "https://shopee.com.br/product/406894684/19699704487",
-        "offerLink": "https://s.shopee.com.br/906F749qyd"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23194389000",
       "name": "Whey Protein Com 32g De Proteína 2kg - Pro Force Nutrition",
       "price": 129.0,
@@ -22108,6 +22108,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-moph1pgp4jcw5a",
         "productLink": "https://shopee.com.br/product/882971017/49061198035",
         "offerLink": "https://s.shopee.com.br/60SdXVVQIJ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19699704487",
+      "name": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
+      "price": 195.99,
+      "original_price": 301.52,
+      "discount": 35.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
+      "link": "https://s.shopee.com.br/906F749qyd",
+      "rating": "4.9",
+      "sales": 4651,
+      "shop": "Monkey toys",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19699704487,
+        "productName": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
+        "price": "195.99",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.07",
+        "sales": 4651,
+        "ratingStar": "4.9",
+        "shopName": "Monkey toys",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
+        "productLink": "https://shopee.com.br/product/406894684/19699704487",
+        "offerLink": "https://s.shopee.com.br/906F749qyd"
       },
       "_last_price": null
     },
@@ -23239,35 +23268,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7req7-m8dm3oofp7eod5",
         "productLink": "https://shopee.com.br/product/627750190/23598383807",
         "offerLink": "https://s.shopee.com.br/7puHiqlBIo"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23699232471",
-      "name": "Fonte Gigabyte GP-P650G PG5, 650W, 80 Plus Gold, PFC Ativo, PCIe 5.1, ATX 3.1, Preta",
-      "price": 379.99,
-      "original_price": 567.15,
-      "discount": 33.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-81zve-miku7m3h36dg64",
-      "link": "https://s.shopee.com.br/8AX8CeH2FX",
-      "rating": "5",
-      "sales": 48,
-      "shop": "Terabyte Oficial",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23699232471,
-        "productName": "Fonte Gigabyte GP-P650G PG5, 650W, 80 Plus Gold, PFC Ativo, PCIe 5.1, ATX 3.1, Preta",
-        "price": "379.99",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.03",
-        "sales": 48,
-        "ratingStar": "5",
-        "shopName": "Terabyte Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zve-miku7m3h36dg64",
-        "productLink": "https://shopee.com.br/product/1552226494/23699232471",
-        "offerLink": "https://s.shopee.com.br/8AX8CeH2FX"
       },
       "_last_price": null
     },
@@ -28057,35 +28057,6 @@
       "_last_price": null
     },
     {
-      "id": "45766835949",
-      "name": "Creatina Monohidratada - Growth Supplements - Sem sabor em pó",
-      "price": 59.9,
-      "original_price": 78.82,
-      "discount": 24.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825ai-msdjr8a5sf0k10",
-      "link": "https://s.shopee.com.br/8V9yW9ksys",
-      "rating": "5",
-      "sales": 2033,
-      "shop": "GROWTH SUPPLEMENTS",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45766835949,
-        "productName": "Creatina Monohidratada - Growth Supplements - Sem sabor em pó",
-        "price": "59.9",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.11",
-        "sales": 2033,
-        "ratingStar": "5",
-        "shopName": "GROWTH SUPPLEMENTS",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ai-msdjr8a5sf0k10",
-        "productLink": "https://shopee.com.br/product/1876581966/45766835949",
-        "offerLink": "https://s.shopee.com.br/8V9yW9ksys"
-      },
-      "_last_price": null
-    },
-    {
       "id": "19899300761",
       "name": "Air Fryer Oven Britânia 12L Bella Cuccina 1500W BCFR05",
       "price": 339.9,
@@ -29014,35 +28985,6 @@
       "_last_price": null
     },
     {
-      "id": "20698436405",
-      "name": "Tênis feminino lançamento novidade leve confortável casual plataforma top!",
-      "price": 49.9,
-      "original_price": 63.97,
-      "discount": 22.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfxa7no9rsam46",
-      "link": "https://s.shopee.com.br/5fpnq0QTKv",
-      "rating": "4.8",
-      "sales": 2244,
-      "shop": "BEST STORE OFICIAL.",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20698436405,
-        "productName": "Tênis feminino lançamento novidade leve confortável casual plataforma top!",
-        "price": "49.9",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.13",
-        "sales": 2244,
-        "ratingStar": "4.8",
-        "shopName": "BEST STORE OFICIAL.",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfxa7no9rsam46",
-        "productLink": "https://shopee.com.br/product/880893726/20698436405",
-        "offerLink": "https://s.shopee.com.br/5fpnq0QTKv"
-      },
-      "_last_price": null
-    },
-    {
       "id": "28205901879",
       "name": "Óculos De Sol Fotocromáticos Masculinos UV400 Polarizados Para Dirigir Diurnos E Noturnos",
       "price": 17.34,
@@ -29449,35 +29391,6 @@
       "_last_price": null
     },
     {
-      "id": "22698303819",
-      "name": "Caixa Para Ferramentas Caixa De Pesca Organizadora Resistente Envio Rapido",
-      "price": 19.7,
-      "original_price": 24.94,
-      "discount": 21.0,
-      "commission": 8.01,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6zmjx1j3okwfa",
-      "link": "https://s.shopee.com.br/40hZA03aZP",
-      "rating": "4.6",
-      "sales": 393,
-      "shop": "Wa Magazine PP",
-      "category": "caixa de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22698303819,
-        "productName": "Caixa Para Ferramentas Caixa De Pesca Organizadora Resistente Envio Rapido",
-        "price": "19.7",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.0801",
-        "sales": 393,
-        "ratingStar": "4.6",
-        "shopName": "Wa Magazine PP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6zmjx1j3okwfa",
-        "productLink": "https://shopee.com.br/product/1278337792/22698303819",
-        "offerLink": "https://s.shopee.com.br/40hZA03aZP"
-      },
-      "_last_price": null
-    },
-    {
       "id": "57701828757",
       "name": "KIT Balaclava + Chapéu Pescador Australiano Pesca Proteção Pescoço Sol Chapeu Pescador Camping",
       "price": 39.59,
@@ -29822,35 +29735,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr916ovqrsp164",
         "productLink": "https://shopee.com.br/product/373261329/58265242344",
         "offerLink": "https://s.shopee.com.br/1gJgVoYjGy"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "55816802474",
-      "name": "Whey Protein Concentrado Growth Supplements",
-      "price": 210.9,
-      "original_price": 263.62,
-      "discount": 20.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8258y-msdkb3hgwi6ade",
-      "link": "https://s.shopee.com.br/2qVbljovdC",
-      "rating": "4.9",
-      "sales": 2241,
-      "shop": "GROWTH SUPPLEMENTS",
-      "category": "whey protein",
-      "source": "shopee",
-      "_item": {
-        "itemId": 55816802474,
-        "productName": "Whey Protein Concentrado Growth Supplements",
-        "price": "210.9",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.06",
-        "sales": 2241,
-        "ratingStar": "4.9",
-        "shopName": "GROWTH SUPPLEMENTS",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258y-msdkb3hgwi6ade",
-        "productLink": "https://shopee.com.br/product/1876581966/55816802474",
-        "offerLink": "https://s.shopee.com.br/2qVbljovdC"
       },
       "_last_price": null
     },
@@ -31301,6 +31185,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mrc5kpu6ycxwb3",
         "productLink": "https://shopee.com.br/product/1416544509/58215414144",
         "offerLink": "https://s.shopee.com.br/70LAjVWErA"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22698303819",
+      "name": "Caixa Para Ferramentas Caixa De Pesca Organizadora Resistente Envio Rapido",
+      "price": 20.6,
+      "original_price": 24.82,
+      "discount": 17.0,
+      "commission": 8.01,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6zmjx1j3okwfa",
+      "link": "https://s.shopee.com.br/40hZA03aZP",
+      "rating": "4.6",
+      "sales": 393,
+      "shop": "Wa Magazine PP",
+      "category": "caixa de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22698303819,
+        "productName": "Caixa Para Ferramentas Caixa De Pesca Organizadora Resistente Envio Rapido",
+        "price": "20.6",
+        "priceDiscountRate": 17,
+        "commissionRate": "0.0801",
+        "sales": 393,
+        "ratingStar": "4.6",
+        "shopName": "Wa Magazine PP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6zmjx1j3okwfa",
+        "productLink": "https://shopee.com.br/product/1278337792/22698303819",
+        "offerLink": "https://s.shopee.com.br/40hZA03aZP"
       },
       "_last_price": null
     },
