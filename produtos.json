@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T07:50:16.643438+00:00",
+  "updated_at": "2026-10-27T08:09:02.217925+00:00",
   "total": 1113,
   "products": [
     {
@@ -72,7 +72,7 @@
       "rating": "4.8",
       "sales": 4358,
       "shop": "CASA  HOME",
-      "category": "shampoo",
+      "category": "organizador",
       "source": "shopee",
       "_item": {
         "itemId": 58210104632,
@@ -1505,6 +1505,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbkc-lpcg90v8yx5251",
         "productLink": "https://shopee.com.br/product/987393610/22397182239",
         "offerLink": "https://s.shopee.com.br/2BFuyYczFI"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58202416470",
+      "name": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
+      "price": 4.98,
+      "original_price": 19.92,
+      "discount": 75.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
+      "link": "https://s.shopee.com.br/6VOu8R2eGe",
+      "rating": "4.9",
+      "sales": 11406,
+      "shop": "LUCIOshopping",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58202416470,
+        "productName": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
+        "price": "4.98",
+        "priceDiscountRate": 75,
+        "commissionRate": "0.03",
+        "sales": 11406,
+        "ratingStar": "4.9",
+        "shopName": "LUCIOshopping",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
+        "productLink": "https://shopee.com.br/product/1691846378/58202416470",
+        "offerLink": "https://s.shopee.com.br/6VOu8R2eGe"
       },
       "_last_price": null
     },
@@ -3481,35 +3510,6 @@
       "_last_price": null
     },
     {
-      "id": "20397689429",
-      "name": "Suporte De Parede Banheiro/Caixa Organizadora Com Papel Higiênico/Sem Furar pronta entrega",
-      "price": 15.99,
-      "original_price": 49.97,
-      "discount": 68.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-lvmc7m8negkib0",
-      "link": "https://s.shopee.com.br/70LAjM0kFh",
-      "rating": "4.7",
-      "sales": 8984,
-      "shop": "CASA FEIRA",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20397689429,
-        "productName": "Suporte De Parede Banheiro/Caixa Organizadora Com Papel Higiênico/Sem Furar pronta entrega",
-        "price": "15.99",
-        "priceDiscountRate": 68,
-        "commissionRate": "0.03",
-        "sales": 8984,
-        "ratingStar": "4.7",
-        "shopName": "CASA FEIRA",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-lvmc7m8negkib0",
-        "productLink": "https://shopee.com.br/product/1034273871/20397689429",
-        "offerLink": "https://s.shopee.com.br/70LAjM0kFh"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23398892792",
       "name": "Pasta Sanfonada A4 12 Divisórias com Elástico em Polipropileno Escolar e Escritório",
       "price": 11.88,
@@ -4578,7 +4578,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyk-mch7z6c4ouee89",
         "productLink": "https://shopee.com.br/product/1489659102/42806494664",
         "offerLink": "https://s.shopee.com.br/4qGjOYhV2w"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "43156498472",
