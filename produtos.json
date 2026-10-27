@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T02:29:16.647282+00:00",
-  "total": 1116,
+  "updated_at": "2026-10-27T02:48:45.109178+00:00",
+  "total": 1115,
   "products": [
     {
       "id": "52807406192",
@@ -522,35 +522,6 @@
       "_last_price": null
     },
     {
-      "id": "58250292336",
-      "name": "Óculos de Sol Masculino e Feminino Clubmaster Inspire Proteção UV400 Premium",
-      "price": 18.9,
-      "original_price": 99.47,
-      "discount": 81.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-821ey-mgifred2ulu403",
-      "link": "https://s.shopee.com.br/W7hdr6j6P",
-      "rating": "4.4",
-      "sales": 970,
-      "shop": "Holder E-Commerce",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58250292336,
-        "productName": "Óculos de Sol Masculino e Feminino Clubmaster Inspire Proteção UV400 Premium",
-        "price": "18.9",
-        "priceDiscountRate": 81,
-        "commissionRate": "0.03",
-        "sales": 970,
-        "ratingStar": "4.4",
-        "shopName": "Holder E-Commerce",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ey-mgifred2ulu403",
-        "productLink": "https://shopee.com.br/product/1446868970/58250292336",
-        "offerLink": "https://s.shopee.com.br/W7hdr6j6P"
-      },
-      "_last_price": null
-    },
-    {
       "id": "57911938287",
       "name": "Fonte ATX MSI 650W MAG 2.4 PCIE 80 Plus Bronze 306-7ZPAX39-HH9",
       "price": 318.99,
@@ -605,8 +576,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mmgdbanf22gw2b",
         "productLink": "https://shopee.com.br/product/1647418767/58207521088",
         "offerLink": "https://s.shopee.com.br/1BNNmd5QFj"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "21897981294",
@@ -5826,7 +5796,7 @@
       "commission": 15.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825zr-mklbm2prptdx7f",
       "link": "https://s.shopee.com.br/8fTPDMp2UJ",
-      "rating": "4.8",
+      "rating": "4.9",
       "sales": 179,
       "shop": "MEGA1",
       "category": "placa de video",
@@ -5838,7 +5808,7 @@
         "priceDiscountRate": 62,
         "commissionRate": "0.15",
         "sales": 179,
-        "ratingStar": "4.8",
+        "ratingStar": "4.9",
         "shopName": "MEGA1",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zr-mklbm2prptdx7f",
         "productLink": "https://shopee.com.br/product/664761873/21998128832",
@@ -7529,8 +7499,8 @@
     {
       "id": "18350470458",
       "name": "Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana",
-      "price": 29.8,
-      "original_price": 72.68,
+      "price": 29.9,
+      "original_price": 72.93,
       "discount": 59.0,
       "commission": 5.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lkz9ur4r4lj3c1",
@@ -7543,7 +7513,7 @@
       "_item": {
         "itemId": 18350470458,
         "productName": "Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana",
-        "price": "29.8",
+        "price": "29.9",
         "priceDiscountRate": 59,
         "commissionRate": "0.05",
         "sales": 3494,
@@ -8422,7 +8392,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ak-mr2mf79003yaa5",
         "productLink": "https://shopee.com.br/product/1741533420/22799618638",
         "offerLink": "https://s.shopee.com.br/2BFuyWdrcZ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22298882024",
