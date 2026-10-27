@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T04:04:35.630952+00:00",
-  "total": 1113,
+  "updated_at": "2026-10-27T04:23:22.838615+00:00",
+  "total": 1114,
   "products": [
     {
       "id": "52807406192",
@@ -4311,7 +4311,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdex28m3fi6p58",
         "productLink": "https://shopee.com.br/product/1595150949/22594316058",
         "offerLink": "https://s.shopee.com.br/2qVblruZ6l"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58217964758",
@@ -4609,7 +4610,7 @@
       "discount": 66.0,
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rdyk-mch7z6c4ouee89",
-      "link": "https://s.shopee.com.br/5AtWY69IQt",
+      "link": "https://s.shopee.com.br/4qGjOYhV2w",
       "rating": "4.7",
       "sales": 418,
       "shop": "CarioShop",
@@ -4626,7 +4627,7 @@
         "shopName": "CarioShop",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyk-mch7z6c4ouee89",
         "productLink": "https://shopee.com.br/product/1489659102/42806494664",
-        "offerLink": "https://s.shopee.com.br/5AtWY69IQt"
+        "offerLink": "https://s.shopee.com.br/4qGjOYhV2w"
       }
     },
     {
@@ -4916,35 +4917,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ld-mqyv3idn8w79a4",
         "productLink": "https://shopee.com.br/product/1307017279/58259826361",
         "offerLink": "https://s.shopee.com.br/7VHRKLS1YH"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22098143818",
-      "name": "Carretilha  1.8M Vara De Pesca Vara  Pesca Kit   Alta Velocidade 5.2 : 1 Relação Engrenagem Max Drag 30KG",
-      "price": 78.9,
-      "original_price": 225.43,
-      "discount": 65.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mczzxsgray9t0d",
-      "link": "https://s.shopee.com.br/9pfNUpBuMw",
-      "rating": "4.7",
-      "sales": 316,
-      "shop": "Bàodān Garantia oficial",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22098143818,
-        "productName": "Carretilha  1.8M Vara De Pesca Vara  Pesca Kit   Alta Velocidade 5.2 : 1 Relação Engrenagem Max Drag 30KG",
-        "price": "78.9",
-        "priceDiscountRate": 65,
-        "commissionRate": "0.08",
-        "sales": 316,
-        "ratingStar": "4.7",
-        "shopName": "Bàodān Garantia oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mczzxsgray9t0d",
-        "productLink": "https://shopee.com.br/product/1133907149/22098143818",
-        "offerLink": "https://s.shopee.com.br/9pfNUpBuMw"
       },
       "_last_price": null
     },
@@ -6289,7 +6261,7 @@
       "discount": 62.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m20nc3rfo0nz5f",
-      "link": "https://s.shopee.com.br/113yyajXI2",
+      "link": "https://s.shopee.com.br/4Vdszwiliu",
       "rating": "4.6",
       "sales": 316,
       "shop": "Podaodao",
@@ -6306,7 +6278,7 @@
         "shopName": "Podaodao",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m20nc3rfo0nz5f",
         "productLink": "https://shopee.com.br/product/1167145056/19799302805",
-        "offerLink": "https://s.shopee.com.br/113yyajXI2"
+        "offerLink": "https://s.shopee.com.br/4Vdszwiliu"
       },
       "_last_price": null
     },
@@ -6318,7 +6290,7 @@
       "discount": 62.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mn11dejo6hvoe3",
-      "link": "https://s.shopee.com.br/qkXO9GacK",
+      "link": "https://s.shopee.com.br/4LKSndjP3t",
       "rating": "4.9",
       "sales": 401,
       "shop": "HI SPORTS",
@@ -6335,7 +6307,7 @@
         "shopName": "HI SPORTS",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mn11dejo6hvoe3",
         "productLink": "https://shopee.com.br/product/1687489154/22399450069",
-        "offerLink": "https://s.shopee.com.br/qkXO9GacK"
+        "offerLink": "https://s.shopee.com.br/4LKSndjP3t"
       },
       "_last_price": null
     },
@@ -6510,6 +6482,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82281-mhf7fpjbncwa3c",
         "productLink": "https://shopee.com.br/product/1502662038/22194727361",
         "offerLink": "https://s.shopee.com.br/8AX9SmrNzK"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23098369507",
+      "name": "Kit Spa Dos Pés Amaciante E Removedor Bisturi 483 222 Repos manicure podologia pedicure pé rachado",
+      "price": 32.99,
+      "original_price": 84.59,
+      "discount": 61.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m82aqykvpes1fe",
+      "link": "https://s.shopee.com.br/70LDyPcPjc",
+      "rating": "4.9",
+      "sales": 888,
+      "shop": "Tri1Pet",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23098369507,
+        "productName": "Kit Spa Dos Pés Amaciante E Removedor Bisturi 483 222 Repos manicure podologia pedicure pé rachado",
+        "price": "32.99",
+        "priceDiscountRate": 61,
+        "commissionRate": "0.03",
+        "sales": 888,
+        "ratingStar": "4.9",
+        "shopName": "Tri1Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m82aqykvpes1fe",
+        "productLink": "https://shopee.com.br/product/532546866/23098369507",
+        "offerLink": "https://s.shopee.com.br/70LDyPcPjc"
       },
       "_last_price": null
     },
@@ -7297,6 +7298,35 @@
       "_last_price": null
     },
     {
+      "id": "22993262488",
+      "name": "Vara de pesca com carretilha 1.6M 1.8M 2.1M Vara De Pesca Carretel  Kit Completo Com Alta Velocidade Max Drag 30KG",
+      "price": 79.9,
+      "original_price": 199.75,
+      "discount": 60.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9h2ynh16epuf7",
+      "link": "https://s.shopee.com.br/5AtZnAgEMy",
+      "rating": "4.8",
+      "sales": 515,
+      "shop": "Bàodān Garantia oficial",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22993262488,
+        "productName": "Vara de pesca com carretilha 1.6M 1.8M 2.1M Vara De Pesca Carretel  Kit Completo Com Alta Velocidade Max Drag 30KG",
+        "price": "79.9",
+        "priceDiscountRate": 60,
+        "commissionRate": "0.08",
+        "sales": 515,
+        "ratingStar": "4.8",
+        "shopName": "Bàodān Garantia oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9h2ynh16epuf7",
+        "productLink": "https://shopee.com.br/product/1133907149/22993262488",
+        "offerLink": "https://s.shopee.com.br/5AtZnAgEMy"
+      },
+      "_last_price": null
+    },
+    {
       "id": "43504237637",
       "name": "Carretel De Pesca 60Kg 5.2 : 1 Giratório 1000 Com Cabo EVA Fruta Verde Escura",
       "price": 38.0,
@@ -7304,7 +7334,7 @@
       "discount": 60.0,
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mawcobz1eh5132",
-      "link": "https://s.shopee.com.br/AAIDtRAdgu",
+      "link": "https://s.shopee.com.br/6Am6z0cQLL",
       "rating": "4.9",
       "sales": 336,
       "shop": "BD Boutique De Lustres",
@@ -7321,7 +7351,7 @@
         "shopName": "BD Boutique De Lustres",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mawcobz1eh5132",
         "productLink": "https://shopee.com.br/product/1489642227/43504237637",
-        "offerLink": "https://s.shopee.com.br/AAIDtRAdgu"
+        "offerLink": "https://s.shopee.com.br/6Am6z0cQLL"
       },
       "_last_price": null
     },
@@ -8058,7 +8088,7 @@
       "discount": 58.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mfkhv25lt53i73",
-      "link": "https://s.shopee.com.br/1BRmknLJs",
+      "link": "https://s.shopee.com.br/40hcP1kfjr",
       "rating": "4.8",
       "sales": 376,
       "shop": "Loja De Decoração De Lustres",
@@ -8075,7 +8105,7 @@
         "shopName": "Loja De Decoração De Lustres",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mfkhv25lt53i73",
         "productLink": "https://shopee.com.br/product/1480010654/27486864605",
-        "offerLink": "https://s.shopee.com.br/1BRmknLJs"
+        "offerLink": "https://s.shopee.com.br/40hcP1kfjr"
       },
       "_last_price": null
     },
@@ -12401,6 +12431,35 @@
       "_last_price": null
     },
     {
+      "id": "48457191188",
+      "name": "Whey Pro Max Titanium Protein Pro Com Bcaa E Aminoácidos 1kg",
+      "price": 78.9,
+      "original_price": 161.02,
+      "discount": 51.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lc-mse9dn5i5cedda",
+      "link": "https://s.shopee.com.br/LoGn8yRhx",
+      "rating": "4.9",
+      "sales": 1159,
+      "shop": "FIT HOUSE",
+      "category": "whey protein",
+      "source": "shopee",
+      "_item": {
+        "itemId": 48457191188,
+        "productName": "Whey Pro Max Titanium Protein Pro Com Bcaa E Aminoácidos 1kg",
+        "price": "78.9",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.1",
+        "sales": 1159,
+        "ratingStar": "4.9",
+        "shopName": "FIT HOUSE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mse9dn5i5cedda",
+        "productLink": "https://shopee.com.br/product/662618933/48457191188",
+        "offerLink": "https://s.shopee.com.br/LoGn8yRhx"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19428227444",
       "name": "Whey Protein Blend Concentrado Isolado 1Kg + Creatina 300g + BCAA 200g + Pre treino Testo 200g - 01",
       "price": 99.6,
@@ -15191,7 +15250,7 @@
       "discount": 48.0,
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mdcys2kotifw21",
-      "link": "https://s.shopee.com.br/1BNPAtitx5",
+      "link": "https://s.shopee.com.br/4B12bKk2Os",
       "rating": "4.8",
       "sales": 534,
       "shop": "BD Boutique De Lustres",
@@ -15208,7 +15267,7 @@
         "shopName": "BD Boutique De Lustres",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mdcys2kotifw21",
         "productLink": "https://shopee.com.br/product/1489642227/43662585077",
-        "offerLink": "https://s.shopee.com.br/1BNPAtitx5"
+        "offerLink": "https://s.shopee.com.br/4B12bKk2Os"
       },
       "_last_price": null
     },
@@ -16119,7 +16178,7 @@
       "discount": 46.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l4-mlnyk7d6pybr7b",
-      "link": "https://s.shopee.com.br/AUv4I39N10",
+      "link": "https://s.shopee.com.br/5fpqO5eKMG",
       "rating": "4.7",
       "sales": 322,
       "shop": "Loja Sao Miguel Multicoisas",
@@ -16136,7 +16195,7 @@
         "shopName": "Loja Sao Miguel Multicoisas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mlnyk7d6pybr7b",
         "productLink": "https://shopee.com.br/product/375688601/23192991550",
-        "offerLink": "https://s.shopee.com.br/AUv4I39N10"
+        "offerLink": "https://s.shopee.com.br/5fpqO5eKMG"
       },
       "_last_price": null
     },
@@ -17243,6 +17302,35 @@
       "_last_price": null
     },
     {
+      "id": "23299521538",
+      "name": "Kit Gota Phill - Shampoo, Condicionador, Máscara, Finalizador e Tônico - Fortalecedor Capilar",
+      "price": 49.5,
+      "original_price": 88.39,
+      "discount": 44.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mpjt1s1uztvnee",
+      "link": "https://s.shopee.com.br/8VA1TjGGnc",
+      "rating": "4.9",
+      "sales": 1050,
+      "shop": "Gota Dourada Cosméticos",
+      "category": "condicionador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23299521538,
+        "productName": "Kit Gota Phill - Shampoo, Condicionador, Máscara, Finalizador e Tônico - Fortalecedor Capilar",
+        "price": "49.5",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.13",
+        "sales": 1050,
+        "ratingStar": "4.9",
+        "shopName": "Gota Dourada Cosméticos",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mpjt1s1uztvnee",
+        "productLink": "https://shopee.com.br/product/1382606196/23299521538",
+        "offerLink": "https://s.shopee.com.br/8VA1TjGGnc"
+      },
+      "_last_price": null
+    },
+    {
       "id": "54663825990",
       "name": "Perfume Masculino  100ml Fragrância Elegante Longa Duração Para Uso Diário",
       "price": 27.99,
@@ -17326,35 +17414,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meepoqlqrif56a",
         "productLink": "https://shopee.com.br/product/504754787/42668101068",
         "offerLink": "https://s.shopee.com.br/6q1mfKNSJo"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22194331598",
-      "name": "Whey Pro Max Titanium Protein Pro Com Bcaa E Aminoácidos 1kg",
-      "price": 99.9,
-      "original_price": 178.39,
-      "discount": 44.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mtfc9yq6ld6p5f",
-      "link": "https://s.shopee.com.br/4VdpkniaFc",
-      "rating": "4.9",
-      "sales": 1367,
-      "shop": "Max Titanium",
-      "category": "whey protein",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22194331598,
-        "productName": "Whey Pro Max Titanium Protein Pro Com Bcaa E Aminoácidos 1kg",
-        "price": "99.9",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.06",
-        "sales": 1367,
-        "ratingStar": "4.9",
-        "shopName": "Max Titanium",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mtfc9yq6ld6p5f",
-        "productLink": "https://shopee.com.br/product/422764082/22194331598",
-        "offerLink": "https://s.shopee.com.br/4VdpkniaFc"
       },
       "_last_price": null
     },
@@ -18729,7 +18788,7 @@
       "discount": 42.0,
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mfjcq5qv8h7097",
-      "link": "https://s.shopee.com.br/qkYmHkAcz",
+      "link": "https://s.shopee.com.br/4fxJCFi8Nv",
       "rating": "4.8",
       "sales": 583,
       "shop": "BD Boutique De Lustres",
@@ -18746,7 +18805,7 @@
         "shopName": "BD Boutique De Lustres",
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mfjcq5qv8h7097",
         "productLink": "https://shopee.com.br/product/1489642227/29637365319",
-        "offerLink": "https://s.shopee.com.br/qkYmHkAcz"
+        "offerLink": "https://s.shopee.com.br/4fxJCFi8Nv"
       },
       "_last_price": null
     },
@@ -18758,7 +18817,7 @@
       "discount": 42.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1vww3i83y814",
-      "link": "https://s.shopee.com.br/LoIBMm4dy",
+      "link": "https://s.shopee.com.br/6VOxNcb9fN",
       "rating": "4.8",
       "sales": 458,
       "shop": "Podaodao",
@@ -18775,7 +18834,7 @@
         "shopName": "Podaodao",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1vww3i83y814",
         "productLink": "https://shopee.com.br/product/1167145056/22197604954",
-        "offerLink": "https://s.shopee.com.br/LoIBMm4dy"
+        "offerLink": "https://s.shopee.com.br/6VOxNcb9fN"
       },
       "_last_price": null
     },
@@ -19077,7 +19136,7 @@
       "discount": 41.0,
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mtsmpj3pp6v424",
-      "link": "https://s.shopee.com.br/W7iNflRJ1",
+      "link": "https://s.shopee.com.br/60Sgmhd3gI",
       "rating": "4.7",
       "sales": 332,
       "shop": "Loja Sao Miguel Multicoisas",
@@ -19094,7 +19153,7 @@
         "shopName": "Loja Sao Miguel Multicoisas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mtsmpj3pp6v424",
         "productLink": "https://shopee.com.br/product/375688601/42620071435",
-        "offerLink": "https://s.shopee.com.br/W7iNflRJ1"
+        "offerLink": "https://s.shopee.com.br/60Sgmhd3gI"
       },
       "_last_price": null
     },
@@ -20266,7 +20325,7 @@
       "discount": 39.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134201-22120-5wgswet50clv4e",
-      "link": "https://s.shopee.com.br/BUrz3mhyv",
+      "link": "https://s.shopee.com.br/6L5XBJbn0K",
       "rating": "4.8",
       "sales": 409,
       "shop": "PescaShop",
@@ -20283,7 +20342,7 @@
         "shopName": "PescaShop",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-22120-5wgswet50clv4e",
         "productLink": "https://shopee.com.br/product/361954967/23413221795",
-        "offerLink": "https://s.shopee.com.br/BUrz3mhyv"
+        "offerLink": "https://s.shopee.com.br/6L5XBJbn0K"
       },
       "_last_price": null
     },
@@ -22057,6 +22116,35 @@
       "_last_price": null
     },
     {
+      "id": "22393210542",
+      "name": "Ração Golden Gatos Castrados 10kg Frango e Carne",
+      "price": 139.9,
+      "original_price": 218.59,
+      "discount": 36.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxy-lyp80d99dpwa3a",
+      "link": "https://s.shopee.com.br/BUtpw0L81",
+      "rating": "4.9",
+      "sales": 955,
+      "shop": "LeluPets",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22393210542,
+        "productName": "Ração Golden Gatos Castrados 10kg Frango e Carne",
+        "price": "139.9",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 955,
+        "ratingStar": "4.9",
+        "shopName": "LeluPets",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxy-lyp80d99dpwa3a",
+        "productLink": "https://shopee.com.br/product/293152127/22393210542",
+        "offerLink": "https://s.shopee.com.br/BUtpw0L81"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58209856096",
       "name": "Covo Armadilha Com 6 ou 8 Furos Pesca Peixes Siri Lambari Camarão Iscas Guarda Chuva//octogonal",
       "price": 16.33,
@@ -22140,6 +22228,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mtjv31vt75du15",
         "productLink": "https://shopee.com.br/product/368557723/58210211974",
         "offerLink": "https://s.shopee.com.br/70LAiGATdC"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23799229847",
+      "name": "SSD Kingston NV3, 500GB, M.2 NVMe, 2280, PCIe 4.0, Leitura 5000MBs e Gravação 3000MBs, SNV3S/500G",
+      "price": 894.99,
+      "original_price": 1376.91,
+      "discount": 35.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-822ys-mic0mday5ipwf1",
+      "link": "https://s.shopee.com.br/AKbfwV8vze",
+      "rating": "5",
+      "sales": 18,
+      "shop": "Terabyte Oficial",
+      "category": "ssd nvme",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23799229847,
+        "productName": "SSD Kingston NV3, 500GB, M.2 NVMe, 2280, PCIe 4.0, Leitura 5000MBs e Gravação 3000MBs, SNV3S/500G",
+        "price": "894.99",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.03",
+        "sales": 18,
+        "ratingStar": "5",
+        "shopName": "Terabyte Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822ys-mic0mday5ipwf1",
+        "productLink": "https://shopee.com.br/product/1552226494/23799229847",
+        "offerLink": "https://s.shopee.com.br/AKbfwV8vze"
       },
       "_last_price": null
     },
@@ -22372,35 +22489,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82288-mhjvplolmbd1bb",
         "productLink": "https://shopee.com.br/product/446413605/23698978626",
         "offerLink": "https://s.shopee.com.br/BUqaphTu4"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20030133399",
-      "name": "Ração Golden para Gatos Castrados – Sabor Salmão – 10,1kg",
-      "price": 154.9,
-      "original_price": 238.31,
-      "discount": 35.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1ybjv489gm76a",
-      "link": "https://s.shopee.com.br/LoHIA4jlc",
-      "rating": "4.9",
-      "sales": 1150,
-      "shop": "LeluPets",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20030133399,
-        "productName": "Ração Golden para Gatos Castrados – Sabor Salmão – 10,1kg",
-        "price": "154.9",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.03",
-        "sales": 1150,
-        "ratingStar": "4.9",
-        "shopName": "LeluPets",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1ybjv489gm76a",
-        "productLink": "https://shopee.com.br/product/293152127/20030133399",
-        "offerLink": "https://s.shopee.com.br/LoHIA4jlc"
       },
       "_last_price": null
     },
@@ -23155,35 +23243,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259z-mtpl4r9sw9hm36",
         "productLink": "https://shopee.com.br/product/1542724420/56018568715",
         "offerLink": "https://s.shopee.com.br/3VlIZ0KqgA"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22499150403",
-      "name": "Moedor de Café e Especiarias 110/220v Elétrico Inox 4 Lâminas Grãos Pronta Entrega",
-      "price": 33.15,
-      "original_price": 50.23,
-      "discount": 34.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825ae-mgfdyufrfi16e2",
-      "link": "https://s.shopee.com.br/1qd4ZwRC48",
-      "rating": "4.9",
-      "sales": 511,
-      "shop": "+ Compras BR",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22499150403,
-        "productName": "Moedor de Café e Especiarias 110/220v Elétrico Inox 4 Lâminas Grãos Pronta Entrega",
-        "price": "33.15",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.03",
-        "sales": 511,
-        "ratingStar": "4.9",
-        "shopName": "+ Compras BR",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ae-mgfdyufrfi16e2",
-        "productLink": "https://shopee.com.br/product/1297495463/22499150403",
-        "offerLink": "https://s.shopee.com.br/1qd4ZwRC48"
       },
       "_last_price": null
     },
@@ -25718,7 +25777,7 @@
       "discount": 30.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mrum3qjdefpib5",
-      "link": "https://s.shopee.com.br/AKbe5kA0Lz",
+      "link": "https://s.shopee.com.br/5q9GaOdh1J",
       "rating": "4.8",
       "sales": 376,
       "shop": "JAUPESCA",
@@ -25735,7 +25794,7 @@
         "shopName": "JAUPESCA",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mrum3qjdefpib5",
         "productLink": "https://shopee.com.br/product/954428278/19498994816",
-        "offerLink": "https://s.shopee.com.br/AKbe5kA0Lz"
+        "offerLink": "https://s.shopee.com.br/5q9GaOdh1J"
       },
       "_last_price": null
     },
@@ -26026,35 +26085,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258j-mg56zpbqk45med",
         "productLink": "https://shopee.com.br/product/1349934384/22994552692",
         "offerLink": "https://s.shopee.com.br/80Di0LHfaU"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23136366164",
-      "name": "Amaciante Profissional 5L Comfort",
-      "price": 65.89,
-      "original_price": 92.8,
-      "discount": 29.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-820lo-mnuwutvgw0sj4e",
-      "link": "https://s.shopee.com.br/4fxFx315xM",
-      "rating": "4.9",
-      "sales": 3418,
-      "shop": "Braslimpo",
-      "category": "amaciante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23136366164,
-        "productName": "Amaciante Profissional 5L Comfort",
-        "price": "65.89",
-        "priceDiscountRate": 29,
-        "commissionRate": "0.03",
-        "sales": 3418,
-        "ratingStar": "4.9",
-        "shopName": "Braslimpo",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820lo-mnuwutvgw0sj4e",
-        "productLink": "https://shopee.com.br/product/946161700/23136366164",
-        "offerLink": "https://s.shopee.com.br/4fxFx315xM"
       },
       "_last_price": null
     },
@@ -30039,7 +30069,7 @@
       "discount": 20.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbgsu2l31hped9",
-      "link": "https://s.shopee.com.br/9fLxIWCXhv",
+      "link": "https://s.shopee.com.br/7faullWiIi",
       "rating": "4.8",
       "sales": 346,
       "shop": "O Recanto da Pesca e Variedades",
@@ -30056,7 +30086,7 @@
         "shopName": "O Recanto da Pesca e Variedades",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbgsu2l31hped9",
         "productLink": "https://shopee.com.br/product/337645667/22893504865",
-        "offerLink": "https://s.shopee.com.br/9fLxIWCXhv"
+        "offerLink": "https://s.shopee.com.br/7faullWiIi"
       },
       "_last_price": null
     },
@@ -31199,7 +31229,7 @@
       "discount": 17.0,
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnxc0tf96xn027",
-      "link": "https://s.shopee.com.br/9Kj6tuDoNp",
+      "link": "https://s.shopee.com.br/5VWQBmexhH",
       "rating": "4.9",
       "sales": 347,
       "shop": "FISGO SPORTS LTDA",
@@ -31216,7 +31246,7 @@
         "shopName": "FISGO SPORTS LTDA",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lnxc0tf96xn027",
         "productLink": "https://shopee.com.br/product/372438230/13846291455",
-        "offerLink": "https://s.shopee.com.br/9Kj6tuDoNp"
+        "offerLink": "https://s.shopee.com.br/5VWQBmexhH"
       },
       "_last_price": null
     },
