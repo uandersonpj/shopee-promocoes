@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T01:50:22.847614+00:00",
+  "updated_at": "2026-10-27T02:09:53.089241+00:00",
   "total": 1116,
   "products": [
     {
@@ -432,7 +432,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgzgefeazked3d",
         "productLink": "https://shopee.com.br/product/1613332918/22294440400",
         "offerLink": "https://s.shopee.com.br/gR7BsGHKx"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58258026087",
@@ -4655,8 +4656,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyk-mch7z6c4ouee89",
         "productLink": "https://shopee.com.br/product/1489659102/42806494664",
         "offerLink": "https://s.shopee.com.br/5AtWY69IQt"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "43156498472",
@@ -10231,7 +10231,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4rts49xy2m9e1",
       "link": "https://s.shopee.com.br/1BNNmeVPtm",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 4955,
       "shop": "ZAZAKI1688 COMERCIO",
       "category": "protetor solar",
@@ -10243,7 +10243,7 @@
         "priceDiscountRate": 54,
         "commissionRate": "0.03",
         "sales": 4955,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "ZAZAKI1688 COMERCIO",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4rts49xy2m9e1",
         "productLink": "https://shopee.com.br/product/871392240/23193620740",
@@ -11901,35 +11901,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mnq4mrzrg1s133",
         "productLink": "https://shopee.com.br/product/464824627/56103183692",
         "offerLink": "https://s.shopee.com.br/gR7BoHtYX"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22598355481",
-      "name": "Tenis feminino Casual Sapatenis Branco Leve Confortável Dia a Dia",
-      "price": 22.89,
-      "original_price": 47.69,
-      "discount": 52.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-msbisi8l3ldx89",
-      "link": "https://s.shopee.com.br/2BFuyZCBVw",
-      "rating": "4.7",
-      "sales": 1725,
-      "shop": "Aranda Shoes",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22598355481,
-        "productName": "Tenis feminino Casual Sapatenis Branco Leve Confortável Dia a Dia",
-        "price": "22.89",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 1725,
-        "ratingStar": "4.7",
-        "shopName": "Aranda Shoes",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-msbisi8l3ldx89",
-        "productLink": "https://shopee.com.br/product/1505006777/22598355481",
-        "offerLink": "https://s.shopee.com.br/2BFuyZCBVw"
       },
       "_last_price": null
     },
@@ -14046,6 +14017,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b6-mse8pevvdddx86",
         "productLink": "https://shopee.com.br/product/1866023234/58267143317",
         "offerLink": "https://s.shopee.com.br/2gCBZUAHUj"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22598355481",
+      "name": "Tenis feminino Casual Sapatenis Branco Leve Confortável Dia a Dia",
+      "price": 23.9,
+      "original_price": 47.8,
+      "discount": 50.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-msbisi8l3ldx89",
+      "link": "https://s.shopee.com.br/2BFuyZCBVw",
+      "rating": "4.7",
+      "sales": 1725,
+      "shop": "Aranda Shoes",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22598355481,
+        "productName": "Tenis feminino Casual Sapatenis Branco Leve Confortável Dia a Dia",
+        "price": "23.9",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 1725,
+        "ratingStar": "4.7",
+        "shopName": "Aranda Shoes",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-msbisi8l3ldx89",
+        "productLink": "https://shopee.com.br/product/1505006777/22598355481",
+        "offerLink": "https://s.shopee.com.br/2BFuyZCBVw"
       },
       "_last_price": null
     },
