@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T12:12:58.157910+00:00",
-  "total": 1121,
+  "updated_at": "2026-10-28T12:32:30.828088+00:00",
+  "total": 1118,
   "products": [
     {
       "id": "52807406192",
@@ -17136,35 +17136,6 @@
       "_last_price": null
     },
     {
-      "id": "22897502871",
-      "name": "Mousepad Gamer TGT K50M, Grande, 500x500x3mm, Preto, TGT-K50M-GRB01",
-      "price": 38.92,
-      "original_price": 69.5,
-      "discount": 44.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mqeqor4mw7i82d",
-      "link": "https://s.shopee.com.br/8AXDSKZCe7",
-      "rating": "5",
-      "sales": 651,
-      "shop": "Pichau",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22897502871,
-        "productName": "Mousepad Gamer TGT K50M, Grande, 500x500x3mm, Preto, TGT-K50M-GRB01",
-        "price": "38.92",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.03",
-        "sales": 651,
-        "ratingStar": "5",
-        "shopName": "Pichau",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mqeqor4mw7i82d",
-        "productLink": "https://shopee.com.br/product/627750190/22897502871",
-        "offerLink": "https://s.shopee.com.br/8AXDSKZCe7"
-      },
-      "_last_price": null
-    },
-    {
       "id": "50905121026",
       "name": "Fonte ATX Gamemax 650W GP650 com Cabo PFC Ativo 80 Plus Bronze Preto",
       "price": 278.9,
@@ -21482,8 +21453,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7r98o-lkjtd8erha6w41",
         "productLink": "https://shopee.com.br/product/316475205/23599649329",
         "offerLink": "https://s.shopee.com.br/1qd9N4LGUb"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "18499738293",
@@ -22816,35 +22786,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqwe60xzlkw59d",
         "productLink": "https://shopee.com.br/product/1627792845/41132780075",
         "offerLink": "https://s.shopee.com.br/1BNSZeOBMo"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22397902815",
-      "name": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
-      "price": 26.5,
-      "original_price": 40.15,
-      "discount": 34.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
-      "link": "https://s.shopee.com.br/1W0IyHDmLf",
-      "rating": "4.9",
-      "sales": 4355,
-      "shop": "MANIAPLAST",
-      "category": "desinfetante",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22397902815,
-        "productName": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
-        "price": "26.5",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.1",
-        "sales": 4355,
-        "ratingStar": "4.9",
-        "shopName": "MANIAPLAST",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
-        "productLink": "https://shopee.com.br/product/882971017/22397902815",
-        "offerLink": "https://s.shopee.com.br/1W0IyHDmLf"
       },
       "_last_price": null
     },
@@ -25223,6 +25164,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mr7mfs9pnx1j7d",
         "productLink": "https://shopee.com.br/product/383626563/58252899562",
         "offerLink": "https://s.shopee.com.br/gRByjQ5Nh"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22397902815",
+      "name": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
+      "price": 27.99,
+      "original_price": 39.99,
+      "discount": 30.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
+      "link": "https://s.shopee.com.br/1W0IyHDmLf",
+      "rating": "4.9",
+      "sales": 4355,
+      "shop": "MANIAPLAST",
+      "category": "desinfetante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22397902815,
+        "productName": "DESINFETANTE HERBAL PET CONCENTRADO 1L ELIMINA ODOR XIXI BACTERICIDA",
+        "price": "27.99",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.1",
+        "sales": 4355,
+        "ratingStar": "4.9",
+        "shopName": "MANIAPLAST",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mo9w59wup1xj7a",
+        "productLink": "https://shopee.com.br/product/882971017/22397902815",
+        "offerLink": "https://s.shopee.com.br/1W0IyHDmLf"
       },
       "_last_price": null
     },
@@ -28268,64 +28238,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meeb6o4j241s19",
         "productLink": "https://shopee.com.br/product/502619181/13432704835",
         "offerLink": "https://s.shopee.com.br/AUv7gqaEyb"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "55816802474",
-      "name": "Whey Protein Concentrado Growth Supplements",
-      "price": 209.99,
-      "original_price": 276.3,
-      "discount": 24.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8258y-msdkb3hgwi6ade",
-      "link": "https://s.shopee.com.br/2VsqAAD5fs",
-      "rating": "4.9",
-      "sales": 2226,
-      "shop": "GROWTH SUPPLEMENTS",
-      "category": "whey protein",
-      "source": "shopee",
-      "_item": {
-        "itemId": 55816802474,
-        "productName": "Whey Protein Concentrado Growth Supplements",
-        "price": "209.99",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.06",
-        "sales": 2226,
-        "ratingStar": "4.9",
-        "shopName": "GROWTH SUPPLEMENTS",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258y-msdkb3hgwi6ade",
-        "productLink": "https://shopee.com.br/product/1876581966/55816802474",
-        "offerLink": "https://s.shopee.com.br/2VsqAAD5fs"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "45766835949",
-      "name": "Creatina Monohidratada - Growth Supplements - Sem sabor em pó",
-      "price": 59.9,
-      "original_price": 78.82,
-      "discount": 24.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825ai-msdjr8a5sf0k10",
-      "link": "https://s.shopee.com.br/60SiKbHMh1",
-      "rating": "5",
-      "sales": 2131,
-      "shop": "GROWTH SUPPLEMENTS",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45766835949,
-        "productName": "Creatina Monohidratada - Growth Supplements - Sem sabor em pó",
-        "price": "59.9",
-        "priceDiscountRate": 24,
-        "commissionRate": "0.11",
-        "sales": 2131,
-        "ratingStar": "5",
-        "shopName": "GROWTH SUPPLEMENTS",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ai-msdjr8a5sf0k10",
-        "productLink": "https://shopee.com.br/product/1876581966/45766835949",
-        "offerLink": "https://s.shopee.com.br/60SiKbHMh1"
       },
       "_last_price": null
     },
