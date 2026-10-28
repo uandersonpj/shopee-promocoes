@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T05:52:20.804910+00:00",
+  "updated_at": "2026-10-28T06:11:06.946111+00:00",
   "total": 1114,
   "products": [
     {
@@ -4315,7 +4315,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mn3cmeqnyfwh53",
         "productLink": "https://shopee.com.br/product/1564593552/22994148851",
         "offerLink": "https://s.shopee.com.br/1142NMFgMa"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22994820028",
@@ -10351,8 +10352,8 @@
     {
       "id": "23997337490",
       "name": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
-      "price": 23.0,
-      "original_price": 50.0,
+      "price": 22.9,
+      "original_price": 49.78,
       "discount": 54.0,
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
@@ -10365,7 +10366,7 @@
       "_item": {
         "itemId": 23997337490,
         "productName": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
-        "price": "23",
+        "price": "22.9",
         "priceDiscountRate": 54,
         "commissionRate": "0.11",
         "sales": 8122,
@@ -15103,6 +15104,35 @@
       "_last_price": null
     },
     {
+      "id": "22198950257",
+      "name": "Boia infantil de natação colete flutuante de 1 a 6 anos Nova Promoção Com Trave De Segurança",
+      "price": 27.56,
+      "original_price": 53.0,
+      "discount": 48.0,
+      "commission": 20.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mm1x29cyrxfkc5",
+      "link": "https://s.shopee.com.br/80DmiNgWe4",
+      "rating": "4.8",
+      "sales": 697,
+      "shop": "LOJA Celt 05",
+      "category": "colete salva vidas",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22198950257,
+        "productName": "Boia infantil de natação colete flutuante de 1 a 6 anos Nova Promoção Com Trave De Segurança",
+        "price": "27.56",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.2",
+        "sales": 697,
+        "ratingStar": "4.8",
+        "shopName": "LOJA Celt 05",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mm1x29cyrxfkc5",
+        "productLink": "https://shopee.com.br/product/1619868980/22198950257",
+        "offerLink": "https://s.shopee.com.br/80DmiNgWe4"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19499542961",
       "name": "Colete De Natação Infantil Boia Salva Vidas Inflável Ideal Praia e Piscina Trava de Segurança Resistente",
       "price": 12.99,
@@ -15969,35 +15999,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7azorh5y4i4dd",
         "productLink": "https://shopee.com.br/product/1619868980/22294439852",
         "offerLink": "https://s.shopee.com.br/9APk6Wc5HH"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22198950257",
-      "name": "Boia infantil de natação colete flutuante de 1 a 6 anos Nova Promoção Com Trave De Segurança",
-      "price": 28.62,
-      "original_price": 53.0,
-      "discount": 46.0,
-      "commission": 20.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mm1x29cyrxfkc5",
-      "link": "https://s.shopee.com.br/80DmiNgWe4",
-      "rating": "4.8",
-      "sales": 697,
-      "shop": "LOJA Celt 05",
-      "category": "colete salva vidas",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22198950257,
-        "productName": "Boia infantil de natação colete flutuante de 1 a 6 anos Nova Promoção Com Trave De Segurança",
-        "price": "28.62",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.2",
-        "sales": 697,
-        "ratingStar": "4.8",
-        "shopName": "LOJA Celt 05",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mm1x29cyrxfkc5",
-        "productLink": "https://shopee.com.br/product/1619868980/22198950257",
-        "offerLink": "https://s.shopee.com.br/80DmiNgWe4"
       },
       "_last_price": null
     },
