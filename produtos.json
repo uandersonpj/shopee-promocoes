@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T02:24:21.264212+00:00",
-  "total": 1116,
+  "updated_at": "2026-10-28T02:43:47.098097+00:00",
+  "total": 1117,
   "products": [
     {
       "id": "52807406192",
@@ -1851,7 +1851,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mtolww79jgn783",
         "productLink": "https://shopee.com.br/product/1506274241/58266336951",
         "offerLink": "https://s.shopee.com.br/3g4mT57HM3"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "44059916730",
@@ -4227,6 +4228,35 @@
       }
     },
     {
+      "id": "58266396801",
+      "name": "Luvas De Ciclismo E Motocicleta Com Proteção UV Antiderrapante, Ventiladas Para Pesca, Corrida E Estrada",
+      "price": 23.99,
+      "original_price": 72.7,
+      "discount": 67.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825b2-mskr1qyo0cn62a",
+      "link": "https://s.shopee.com.br/5VWQeUH5lL",
+      "rating": "4.8",
+      "sales": 76,
+      "shop": "PetMimo ⭐",
+      "category": "luva pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58266396801,
+        "productName": "Luvas De Ciclismo E Motocicleta Com Proteção UV Antiderrapante, Ventiladas Para Pesca, Corrida E Estrada",
+        "price": "23.99",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.03",
+        "sales": 76,
+        "ratingStar": "4.8",
+        "shopName": "PetMimo ⭐",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b2-mskr1qyo0cn62a",
+        "productLink": "https://shopee.com.br/product/1883428458/58266396801",
+        "offerLink": "https://s.shopee.com.br/5VWQeUH5lL"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58217964758",
       "name": "1par Luvas de pesca nocturna ao ar livre LED luvas de iluminação de reparação de meio dedo,",
       "price": 17.99,
@@ -4310,8 +4340,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mq1wjms9613757",
         "productLink": "https://shopee.com.br/product/1552402777/53602161553",
         "offerLink": "https://s.shopee.com.br/AUv7HFhkIY"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22994148851",
@@ -5414,35 +5443,6 @@
       "_last_price": null
     },
     {
-      "id": "58266396801",
-      "name": "Luvas De Ciclismo E Motocicleta Com Proteção UV Antiderrapante, Ventiladas Para Pesca, Corrida E Estrada",
-      "price": 25.99,
-      "original_price": 72.19,
-      "discount": 64.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825b2-mskr1qyo0cn62a",
-      "link": "https://s.shopee.com.br/5VWQeUH5lL",
-      "rating": "4.8",
-      "sales": 76,
-      "shop": "PetMimo ⭐",
-      "category": "luva pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58266396801,
-        "productName": "Luvas De Ciclismo E Motocicleta Com Proteção UV Antiderrapante, Ventiladas Para Pesca, Corrida E Estrada",
-        "price": "25.99",
-        "priceDiscountRate": 64,
-        "commissionRate": "0.03",
-        "sales": 76,
-        "ratingStar": "4.8",
-        "shopName": "PetMimo ⭐",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b2-mskr1qyo0cn62a",
-        "productLink": "https://shopee.com.br/product/1883428458/58266396801",
-        "offerLink": "https://s.shopee.com.br/5VWQeUH5lL"
-      },
-      "_last_price": null
-    },
-    {
       "id": "17255136776",
       "name": "Relógio Smartwatch D20 Pro Bluetooth Coloca Foto na Tela Monitor Cardíaco Pressão Esportivo Android iPhone",
       "price": 20.99,
@@ -6407,7 +6407,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mtz23drmeh3613",
       "link": "https://s.shopee.com.br/7AeedIYo8w",
-      "rating": "4.6",
+      "rating": "4.7",
       "sales": 189,
       "shop": "TXB TECH LTDA",
       "category": "roteador wifi",
@@ -6419,7 +6419,7 @@
         "priceDiscountRate": 61,
         "commissionRate": "0.03",
         "sales": 189,
-        "ratingStar": "4.6",
+        "ratingStar": "4.7",
         "shopName": "TXB TECH LTDA",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtz23drmeh3613",
         "productLink": "https://shopee.com.br/product/1593878986/58269834909",
@@ -7670,35 +7670,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mtil5ptizjls12",
         "productLink": "https://shopee.com.br/product/1270300518/22198599213",
         "offerLink": "https://s.shopee.com.br/9APfJHGBEE"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58261588791",
-      "name": "Adaptador Bluetooth 5.0 USB Transmissor Áudio Sem Fio para Notebook e Carros",
-      "price": 12.96,
-      "original_price": 30.86,
-      "discount": 58.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823p5-mosr0eth89ou3c",
-      "link": "https://s.shopee.com.br/4LKTp9TYDV",
-      "rating": "4.5",
-      "sales": 2214,
-      "shop": "GALERIA TOP01",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58261588791,
-        "productName": "Adaptador Bluetooth 5.0 USB Transmissor Áudio Sem Fio para Notebook e Carros",
-        "price": "12.96",
-        "priceDiscountRate": 58,
-        "commissionRate": "0.03",
-        "sales": 2214,
-        "ratingStar": "4.5",
-        "shopName": "GALERIA TOP01",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823p5-mosr0eth89ou3c",
-        "productLink": "https://shopee.com.br/product/1691112742/58261588791",
-        "offerLink": "https://s.shopee.com.br/4LKTp9TYDV"
       },
       "_last_price": null
     },
@@ -17555,6 +17526,64 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mlzbvg8xfzt360",
         "productLink": "https://shopee.com.br/product/239610877/58204437244",
         "offerLink": "https://s.shopee.com.br/BUqajoRUB"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "43108735992",
+      "name": "Papel Offset Opaline Liso 180g Branco Diplomata Kit 200, 100 ou 50 Folhas Masterprint",
+      "price": 22.97,
+      "original_price": 40.3,
+      "discount": 43.0,
+      "commission": 14.000000000000002,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbfn2mbuo7lk14",
+      "link": "https://s.shopee.com.br/6q1kWzP3xo",
+      "rating": "5",
+      "sales": 3258,
+      "shop": "Draw Papelaria",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 43108735992,
+        "productName": "Papel Offset Opaline Liso 180g Branco Diplomata Kit 200, 100 ou 50 Folhas Masterprint",
+        "price": "22.97",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.14",
+        "sales": 3258,
+        "ratingStar": "5",
+        "shopName": "Draw Papelaria",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbfn2mbuo7lk14",
+        "productLink": "https://shopee.com.br/product/999239250/43108735992",
+        "offerLink": "https://s.shopee.com.br/6q1kWzP3xo"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18597752657",
+      "name": "Adaptador Bluetooth 5.0 USB Transmissor Áudio Sem Fio para Notebook e Carros",
+      "price": 13.83,
+      "original_price": 24.26,
+      "discount": 43.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxc-mc5skldkgkhvc8",
+      "link": "https://s.shopee.com.br/6fiKKgPhIn",
+      "rating": "4.8",
+      "sales": 2982,
+      "shop": "LEGAL PLUS",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18597752657,
+        "productName": "Adaptador Bluetooth 5.0 USB Transmissor Áudio Sem Fio para Notebook e Carros",
+        "price": "13.83",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.09",
+        "sales": 2982,
+        "ratingStar": "4.8",
+        "shopName": "LEGAL PLUS",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxc-mc5skldkgkhvc8",
+        "productLink": "https://shopee.com.br/product/1027415014/18597752657",
+        "offerLink": "https://s.shopee.com.br/6fiKKgPhIn"
       },
       "_last_price": null
     },
@@ -31075,8 +31104,8 @@
     {
       "id": "23298210857",
       "name": "Perfume Touti Vip Fit Lux Todas Fragrancias Masculino Feminino Luxo Alta Fixacao",
-      "price": 33.1,
-      "original_price": 39.88,
+      "price": 39.89,
+      "original_price": 48.06,
       "discount": 17.0,
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6dzgmcihqvb27",
@@ -31089,7 +31118,7 @@
       "_item": {
         "itemId": 23298210857,
         "productName": "Perfume Touti Vip Fit Lux Todas Fragrancias Masculino Feminino Luxo Alta Fixacao",
-        "price": "33.1",
+        "price": "39.89",
         "priceDiscountRate": 17,
         "commissionRate": "0.14",
         "sales": 2979,
