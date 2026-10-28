@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T22:24:02.012226+00:00",
+  "updated_at": "2026-10-28T22:43:41.077416+00:00",
   "total": 1114,
   "products": [
     {
@@ -780,7 +780,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm5-lln14dkqwcs917",
         "productLink": "https://shopee.com.br/product/504210070/22492388439",
         "offerLink": "https://s.shopee.com.br/1Lgq4eGEG6"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49165555882",
@@ -1009,6 +1010,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aa-mg53ylukwwejfc",
         "productLink": "https://shopee.com.br/product/1488233882/29293277544",
         "offerLink": "https://s.shopee.com.br/906Iov3lfI"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22497773735",
+      "name": "ROMANTIC CROWN Mochila Viagem Feminina Masculina Multifuncional Reforçada Impermeável Expansível, Notebook Antifurto USB",
+      "price": 113.98,
+      "original_price": 495.57,
+      "discount": 77.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mt38wyvxh81x6a",
+      "link": "https://s.shopee.com.br/9pfQthNYj9",
+      "rating": "5",
+      "sales": 5020,
+      "shop": "Romantic Crown 02",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22497773735,
+        "productName": "ROMANTIC CROWN Mochila Viagem Feminina Masculina Multifuncional Reforçada Impermeável Expansível, Notebook Antifurto USB",
+        "price": "113.98",
+        "priceDiscountRate": 77,
+        "commissionRate": "0.08",
+        "sales": 5020,
+        "ratingStar": "5",
+        "shopName": "Romantic Crown 02",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mt38wyvxh81x6a",
+        "productLink": "https://shopee.com.br/product/1345043704/22497773735",
+        "offerLink": "https://s.shopee.com.br/9pfQthNYj9"
       },
       "_last_price": null
     },
@@ -1269,35 +1299,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk90kkju10qp3b",
         "productLink": "https://shopee.com.br/product/1063922972/18299069073",
         "offerLink": "https://s.shopee.com.br/5AtbL8nijz"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22497773735",
-      "name": "ROMANTIC CROWN Mochila Viagem Feminina Masculina Multifuncional Reforçada Impermeável Expansível, Notebook Antifurto USB",
-      "price": 119.99,
-      "original_price": 499.96,
-      "discount": 76.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mt38wyvxh81x6a",
-      "link": "https://s.shopee.com.br/9pfQthNYj9",
-      "rating": "5",
-      "sales": 5020,
-      "shop": "Romantic Crown 02",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22497773735,
-        "productName": "ROMANTIC CROWN Mochila Viagem Feminina Masculina Multifuncional Reforçada Impermeável Expansível, Notebook Antifurto USB",
-        "price": "119.99",
-        "priceDiscountRate": 76,
-        "commissionRate": "0.08",
-        "sales": 5020,
-        "ratingStar": "5",
-        "shopName": "Romantic Crown 02",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mt38wyvxh81x6a",
-        "productLink": "https://shopee.com.br/product/1345043704/22497773735",
-        "offerLink": "https://s.shopee.com.br/9pfQthNYj9"
       },
       "_last_price": null
     },
@@ -1645,8 +1646,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mtolww79jgn783",
         "productLink": "https://shopee.com.br/product/1506274241/58266336951",
         "offerLink": "https://s.shopee.com.br/2VsqAI181X"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58204733904",
@@ -14978,6 +14978,35 @@
       "_last_price": null
     },
     {
+      "id": "18597631235",
+      "name": "Kit Top Academia Musculação Para Fitness Casual Praia Treino C/ Elástico",
+      "price": 26.9,
+      "original_price": 51.73,
+      "discount": 48.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxtrwh5co6gv6b",
+      "link": "https://s.shopee.com.br/2LZPxs03Nr",
+      "rating": "4.6",
+      "sales": 209,
+      "shop": "Ponto Certo Lingerie",
+      "category": "elastico musculacao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18597631235,
+        "productName": "Kit Top Academia Musculação Para Fitness Casual Praia Treino C/ Elástico",
+        "price": "26.9",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.03",
+        "sales": 209,
+        "ratingStar": "4.6",
+        "shopName": "Ponto Certo Lingerie",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxtrwh5co6gv6b",
+        "productLink": "https://shopee.com.br/product/378555563/18597631235",
+        "offerLink": "https://s.shopee.com.br/2LZPxs03Nr"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18997728253",
       "name": "Guia Coleira de Malha Flexível com Colete Peitoral Ajustável para Cão Cachorro Gato Animais",
       "price": 9.9,
@@ -15819,35 +15848,6 @@
       "_last_price": null
     },
     {
-      "id": "22394397167",
-      "name": "Kit multifuncional de corda elástica, banda de resistência para musculação, equipamento de treinamento de força para uso",
-      "price": 26.9,
-      "original_price": 49.81,
-      "discount": 46.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-821ea-mh9lflpwxgy741",
-      "link": "https://s.shopee.com.br/9V2bioG362",
-      "rating": "4.8",
-      "sales": 174,
-      "shop": "nyasx4eil0",
-      "category": "elastico musculacao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22394397167,
-        "productName": "Kit multifuncional de corda elástica, banda de resistência para musculação, equipamento de treinamento de força para uso",
-        "price": "26.9",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.03",
-        "sales": 174,
-        "ratingStar": "4.8",
-        "shopName": "nyasx4eil0",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ea-mh9lflpwxgy741",
-        "productLink": "https://shopee.com.br/product/1609078353/22394397167",
-        "offerLink": "https://s.shopee.com.br/9V2bioG362"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22393946495",
       "name": "Ração Quatree Gourmet Cães Adultos Carne - 15Kg",
       "price": 96.2,
@@ -16283,6 +16283,35 @@
       "_last_price": null
     },
     {
+      "id": "58261209291",
+      "name": "Bicicleta Spinning Ergométrica Para Exercícios Com Monitor Profissional Sport Suporta até 120kg",
+      "price": 439.99,
+      "original_price": 799.98,
+      "discount": 45.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8257y-mq7pxoy9i1a933",
+      "link": "https://s.shopee.com.br/6Am8Wof5I6",
+      "rating": "4.8",
+      "sales": 3376,
+      "shop": "PORTAL AMBIENTES ",
+      "category": "monitor",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58261209291,
+        "productName": "Bicicleta Spinning Ergométrica Para Exercícios Com Monitor Profissional Sport Suporta até 120kg",
+        "price": "439.99",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 3376,
+        "ratingStar": "4.8",
+        "shopName": "PORTAL AMBIENTES ",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257y-mq7pxoy9i1a933",
+        "productLink": "https://shopee.com.br/product/1780103830/58261209291",
+        "offerLink": "https://s.shopee.com.br/6Am8Wof5I6"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22598826303",
       "name": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
       "price": 60.98,
@@ -16366,35 +16395,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mts0wtv0d4ht62",
         "productLink": "https://shopee.com.br/product/1619038531/22994350581",
         "offerLink": "https://s.shopee.com.br/7AefigsCrE"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21998001825",
-      "name": "Esponja de banho lava costa Silicone anti bacteriano cores sortido",
-      "price": 10.99,
-      "original_price": 19.98,
-      "discount": 45.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7ra1c-m548tvxdhm0wde",
-      "link": "https://s.shopee.com.br/4qGkwPIcPV",
-      "rating": "4.7",
-      "sales": 8682,
-      "shop": "Luxor Comercial",
-      "category": "esponja",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21998001825,
-        "productName": "Esponja de banho lava costa Silicone anti bacteriano cores sortido",
-        "price": "10.99",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.03",
-        "sales": 8682,
-        "ratingStar": "4.7",
-        "shopName": "Luxor Comercial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra1c-m548tvxdhm0wde",
-        "productLink": "https://shopee.com.br/product/222975446/21998001825",
-        "offerLink": "https://s.shopee.com.br/4qGkwPIcPV"
       },
       "_last_price": null
     },
@@ -17791,6 +17791,35 @@
       "_last_price": null
     },
     {
+      "id": "21998001825",
+      "name": "Esponja de banho lava costa Silicone anti bacteriano cores sortido",
+      "price": 11.5,
+      "original_price": 20.18,
+      "discount": 43.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7ra1c-m548tvxdhm0wde",
+      "link": "https://s.shopee.com.br/4qGkwPIcPV",
+      "rating": "4.7",
+      "sales": 8682,
+      "shop": "Luxor Comercial",
+      "category": "esponja",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21998001825,
+        "productName": "Esponja de banho lava costa Silicone anti bacteriano cores sortido",
+        "price": "11.5",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.03",
+        "sales": 8682,
+        "ratingStar": "4.7",
+        "shopName": "Luxor Comercial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra1c-m548tvxdhm0wde",
+        "productLink": "https://shopee.com.br/product/222975446/21998001825",
+        "offerLink": "https://s.shopee.com.br/4qGkwPIcPV"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23492924070",
       "name": "Suporte de Banheiro Shampoo Para Box 3 Andares Sem Furo e Não Enferruja",
       "price": 39.9,
@@ -18193,35 +18222,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mki859j1y9z585",
         "productLink": "https://shopee.com.br/product/544625199/47956018833",
         "offerLink": "https://s.shopee.com.br/3B8WxVyafT"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58261209291",
-      "name": "Bicicleta Spinning Ergométrica Para Exercícios Com Monitor Profissional Sport Suporta até 120kg",
-      "price": 462.65,
-      "original_price": 797.67,
-      "discount": 42.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8257y-mq7pxoy9i1a933",
-      "link": "https://s.shopee.com.br/6Am8Wof5I6",
-      "rating": "4.8",
-      "sales": 3376,
-      "shop": "PORTAL AMBIENTES ",
-      "category": "monitor",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58261209291,
-        "productName": "Bicicleta Spinning Ergométrica Para Exercícios Com Monitor Profissional Sport Suporta até 120kg",
-        "price": "462.65",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.03",
-        "sales": 3376,
-        "ratingStar": "4.8",
-        "shopName": "PORTAL AMBIENTES ",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257y-mq7pxoy9i1a933",
-        "productLink": "https://shopee.com.br/product/1780103830/58261209291",
-        "offerLink": "https://s.shopee.com.br/6Am8Wof5I6"
       },
       "_last_price": null
     },
@@ -20931,7 +20931,7 @@
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-821ec-mha4mjvl7evjb4",
       "link": "https://s.shopee.com.br/W7lmaIDDm",
-      "rating": "4.7",
+      "rating": "4.8",
       "sales": 269,
       "shop": "MEDOOSI-BR",
       "category": "isca artificial",
@@ -20943,7 +20943,7 @@
         "priceDiscountRate": 38,
         "commissionRate": "0.09",
         "sales": 269,
-        "ratingStar": "4.7",
+        "ratingStar": "4.8",
         "shopName": "MEDOOSI-BR",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ec-mha4mjvl7evjb4",
         "productLink": "https://shopee.com.br/product/1257233492/23599169119",
@@ -25969,6 +25969,35 @@
       "_last_price": null
     },
     {
+      "id": "58202494237",
+      "name": "Dispensador automático de desinfetante para as mãos com sensor inteligente",
+      "price": 49.99,
+      "original_price": 70.41,
+      "discount": 29.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mitoejy7cuf53b",
+      "link": "https://s.shopee.com.br/4qGkwP15aV",
+      "rating": "4.9",
+      "sales": 1307,
+      "shop": "Lume & Lume",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58202494237,
+        "productName": "Dispensador automático de desinfetante para as mãos com sensor inteligente",
+        "price": "49.99",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.03",
+        "sales": 1307,
+        "ratingStar": "4.9",
+        "shopName": "Lume & Lume",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mitoejy7cuf53b",
+        "productLink": "https://shopee.com.br/product/1547852317/58202494237",
+        "offerLink": "https://s.shopee.com.br/4qGkwP15aV"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23498038856",
       "name": "140 Blocos De Montar Super Coloridos Carrinho + Rodinhas - educacional",
       "price": 28.55,
@@ -27419,35 +27448,6 @@
       "_last_price": null
     },
     {
-      "id": "58202494237",
-      "name": "Dispensador automático de desinfetante para as mãos com sensor inteligente",
-      "price": 52.5,
-      "original_price": 70.0,
-      "discount": 25.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mitoejy7cuf53b",
-      "link": "https://s.shopee.com.br/4qGkwP15aV",
-      "rating": "4.9",
-      "sales": 1307,
-      "shop": "Lume & Lume",
-      "category": "detergente",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58202494237,
-        "productName": "Dispensador automático de desinfetante para as mãos com sensor inteligente",
-        "price": "52.5",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.03",
-        "sales": 1307,
-        "ratingStar": "4.9",
-        "shopName": "Lume & Lume",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mitoejy7cuf53b",
-        "productLink": "https://shopee.com.br/product/1547852317/58202494237",
-        "offerLink": "https://s.shopee.com.br/4qGkwP15aV"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58208444702",
       "name": "Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu tom",
       "price": 80.99,
@@ -27601,7 +27601,7 @@
       "commission": 18.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mpmmalx2jda990",
       "link": "https://s.shopee.com.br/9zyr5vc8zW",
-      "rating": "4.9",
+      "rating": "5",
       "sales": 1762,
       "shop": "Garnier - Loja Oficial",
       "category": "creme facial",
@@ -27613,7 +27613,7 @@
         "priceDiscountRate": 25,
         "commissionRate": "0.18",
         "sales": 1762,
-        "ratingStar": "4.9",
+        "ratingStar": "5",
         "shopName": "Garnier - Loja Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mpmmalx2jda990",
         "productLink": "https://shopee.com.br/product/1855147906/22995057755",
@@ -27647,35 +27647,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-msh059faha850e",
         "productLink": "https://shopee.com.br/product/378627604/58217203298",
         "offerLink": "https://s.shopee.com.br/9APk6QIVhR"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58210926152",
-      "name": "Kit 5 Banda Faixa Elástica de Resistência Band para Treino Yoga Pilates Treino Academia Musculação",
-      "price": 18.7,
-      "original_price": 24.93,
-      "discount": 25.0,
-      "commission": 17.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-822ws-moemnbyetgr17b",
-      "link": "https://s.shopee.com.br/9fM1v7FPl3",
-      "rating": "4.7",
-      "sales": 165,
-      "shop": "THE POINTT",
-      "category": "elastico musculacao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58210926152,
-        "productName": "Kit 5 Banda Faixa Elástica de Resistência Band para Treino Yoga Pilates Treino Academia Musculação",
-        "price": "18.7",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.17",
-        "sales": 165,
-        "ratingStar": "4.7",
-        "shopName": "THE POINTT",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822ws-moemnbyetgr17b",
-        "productLink": "https://shopee.com.br/product/375329375/58210926152",
-        "offerLink": "https://s.shopee.com.br/9fM1v7FPl3"
       },
       "_last_price": null
     },
@@ -28753,6 +28724,35 @@
       "_last_price": null
     },
     {
+      "id": "29494050592",
+      "name": "Kit 5 Banda Faixa Elástica de Resistência Band para Treino Yoga Pilates Treino Academia Musculação",
+      "price": 19.89,
+      "original_price": 25.83,
+      "discount": 23.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjihgikx7h8m50",
+      "link": "https://s.shopee.com.br/30p6l5xW1v",
+      "rating": "4.8",
+      "sales": 272,
+      "shop": "Comercial Stefanes",
+      "category": "elastico musculacao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 29494050592,
+        "productName": "Kit 5 Banda Faixa Elástica de Resistência Band para Treino Yoga Pilates Treino Academia Musculação",
+        "price": "19.89",
+        "priceDiscountRate": 23,
+        "commissionRate": "0.03",
+        "sales": 272,
+        "ratingStar": "4.8",
+        "shopName": "Comercial Stefanes",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjihgikx7h8m50",
+        "productLink": "https://shopee.com.br/product/994983526/29494050592",
+        "offerLink": "https://s.shopee.com.br/30p6l5xW1v"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58202719586",
       "name": "Panela de Pressão Panelux 4,5L Polida Alumínio Original Reforçada para Fogão a Gas",
       "price": 69.0,
@@ -29248,8 +29248,8 @@
     {
       "id": "58254539071",
       "name": "Placa de Video INNO3D GeForce RTX 5050 Twin X2, 8GB, GDDR6, 128-bit, N50502-08D6-174071N",
-      "price": 2645.85,
-      "original_price": 3349.18,
+      "price": 2673.9,
+      "original_price": 3384.68,
       "discount": 21.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8262d-mk9n8fkosb9id9",
@@ -29262,7 +29262,7 @@
       "_item": {
         "itemId": 58254539071,
         "productName": "Placa de Video INNO3D GeForce RTX 5050 Twin X2, 8GB, GDDR6, 128-bit, N50502-08D6-174071N",
-        "price": "2645.85",
+        "price": "2673.9",
         "priceDiscountRate": 21,
         "commissionRate": "0.03",
         "sales": 87,
