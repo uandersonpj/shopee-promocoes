@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T18:06:36.977527+00:00",
-  "total": 1117,
+  "updated_at": "2026-10-28T18:26:22.944475+00:00",
+  "total": 1116,
   "products": [
     {
       "id": "52807406192",
@@ -382,7 +382,7 @@
       "discount": 82.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mrpvpm4qg3k65b",
-      "link": "https://s.shopee.com.br/9fM0hIDUIA",
+      "link": "https://s.shopee.com.br/5AtcJpCe5H",
       "rating": "4.8",
       "sales": 5057,
       "shop": "NOVASHOP_BRASIL",
@@ -399,7 +399,7 @@
         "shopName": "NOVASHOP_BRASIL",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mrpvpm4qg3k65b",
         "productLink": "https://shopee.com.br/product/1170622375/23897335313",
-        "offerLink": "https://s.shopee.com.br/9fM0hIDUIA"
+        "offerLink": "https://s.shopee.com.br/5AtcJpCe5H"
       },
       "_last_price": null
     },
@@ -553,7 +553,7 @@
       "price": 319.0,
       "original_price": 1595.0,
       "discount": 80.0,
-      "commission": 3.0,
+      "commission": 6.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
       "link": "https://s.shopee.com.br/7VHWf6tPPA",
       "rating": "5",
@@ -566,7 +566,7 @@
         "productName": "Fonte ATX MSI 650W MAG 2.4 PCIE 80 Plus Bronze 306-7ZPAX39-HH9",
         "price": "319",
         "priceDiscountRate": 80,
-        "commissionRate": "0.03",
+        "commissionRate": "0.06",
         "sales": 1704,
         "ratingStar": "5",
         "shopName": "TNTinfoLoja",
@@ -574,6 +574,35 @@
         "productLink": "https://shopee.com.br/product/344381236/57911938287",
         "offerLink": "https://s.shopee.com.br/7VHWf6tPPA"
       }
+    },
+    {
+      "id": "21897981294",
+      "name": "Attracione Men (Perfume Masculino com Feromônios Ativados)",
+      "price": 59.0,
+      "original_price": 295.0,
+      "discount": 80.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
+      "link": "https://s.shopee.com.br/4VduXpEkWR",
+      "rating": "4.8",
+      "sales": 3241,
+      "shop": "Attracione Men & Attracione",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21897981294,
+        "productName": "Attracione Men (Perfume Masculino com Feromônios Ativados)",
+        "price": "59",
+        "priceDiscountRate": 80,
+        "commissionRate": "0.03",
+        "sales": 3241,
+        "ratingStar": "4.8",
+        "shopName": "Attracione Men & Attracione",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
+        "productLink": "https://shopee.com.br/product/1266325318/21897981294",
+        "offerLink": "https://s.shopee.com.br/4VduXpEkWR"
+      },
+      "_last_price": null
     },
     {
       "id": "58204541630",
@@ -745,8 +774,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyp5enbirpg574",
         "productLink": "https://shopee.com.br/product/443105265/23897691943",
         "offerLink": "https://s.shopee.com.br/9KjAIm7nMJ"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22492388439",
@@ -978,6 +1006,35 @@
       }
     },
     {
+      "id": "29293277544",
+      "name": "Iniciação Luvas De Pesca Anti-UV Homens Mulheres Derrapante Primavera Verão Gelo Esportivas De Ciclismo Respirável",
+      "price": 13.17,
+      "original_price": 59.86,
+      "discount": 78.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825aa-mg53ylukwwejfc",
+      "link": "https://s.shopee.com.br/906Iov3lfI",
+      "rating": "4.8",
+      "sales": 18,
+      "shop": "caishangbinsiquanjia.br",
+      "category": "luva pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 29293277544,
+        "productName": "Iniciação Luvas De Pesca Anti-UV Homens Mulheres Derrapante Primavera Verão Gelo Esportivas De Ciclismo Respirável",
+        "price": "13.17",
+        "priceDiscountRate": 78,
+        "commissionRate": "0.03",
+        "sales": 18,
+        "ratingStar": "4.8",
+        "shopName": "caishangbinsiquanjia.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825aa-mg53ylukwwejfc",
+        "productLink": "https://shopee.com.br/product/1488233882/29293277544",
+        "offerLink": "https://s.shopee.com.br/906Iov3lfI"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18999727561",
       "name": "Suporte Articulado Para Monitor 13 a 32 Pistão a Gás Ajustável Zinnia Nimbo 110 Preto",
       "price": 89.74,
@@ -1014,7 +1071,7 @@
       "discount": 77.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rd3t-m7np9ti1i0ar99",
-      "link": "https://s.shopee.com.br/5LD1XKTz5A",
+      "link": "https://s.shopee.com.br/qkd9rT8sH",
       "rating": "4.9",
       "sales": 6561,
       "shop": "TIKO SHOP",
@@ -1031,7 +1088,7 @@
         "shopName": "TIKO SHOP",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd3t-m7np9ti1i0ar99",
         "productLink": "https://shopee.com.br/product/989926234/20197726295",
-        "offerLink": "https://s.shopee.com.br/5LD1XKTz5A"
+        "offerLink": "https://s.shopee.com.br/qkd9rT8sH"
       },
       "_last_price": null
     },
@@ -1043,7 +1100,7 @@
       "discount": 77.0,
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-ms6eg0w893wne9",
-      "link": "https://s.shopee.com.br/906Ju4G1e6",
+      "link": "https://s.shopee.com.br/3B8Xw9KG8x",
       "rating": "4.5",
       "sales": 5099,
       "shop": "Amigo Market",
@@ -1060,7 +1117,36 @@
         "shopName": "Amigo Market",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-ms6eg0w893wne9",
         "productLink": "https://shopee.com.br/product/1654653401/58201843927",
-        "offerLink": "https://s.shopee.com.br/906Ju4G1e6"
+        "offerLink": "https://s.shopee.com.br/3B8Xw9KG8x"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58210532717",
+      "name": "Body splash Perfume Deo Colônia Flooratta Red 200ML",
+      "price": 29.5,
+      "original_price": 128.26,
+      "discount": 77.0,
+      "commission": 17.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mo5m3lm7da841f",
+      "link": "https://s.shopee.com.br/2VsqA9MMZr",
+      "rating": "4.2",
+      "sales": 5099,
+      "shop": "Nobre.Essências",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58210532717,
+        "productName": "Body splash Perfume Deo Colônia Flooratta Red 200ML",
+        "price": "29.5",
+        "priceDiscountRate": 77,
+        "commissionRate": "0.17",
+        "sales": 5099,
+        "ratingStar": "4.2",
+        "shopName": "Nobre.Essências",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mo5m3lm7da841f",
+        "productLink": "https://shopee.com.br/product/1654851165/58210532717",
+        "offerLink": "https://s.shopee.com.br/2VsqA9MMZr"
       },
       "_last_price": null
     },
@@ -1094,6 +1180,35 @@
       "_last_price": null
     },
     {
+      "id": "22895058213",
+      "name": "Kit Body Splash Feminino Arabe 60ml Shakan Coroa Amber Sereia Rubi Ametysta Presente Bolsa Ambarados",
+      "price": 15.89,
+      "original_price": 69.09,
+      "discount": 77.0,
+      "commission": 15.5,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mpnvskafmdc004",
+      "link": "https://s.shopee.com.br/7fawJiVo7u",
+      "rating": "4.6",
+      "sales": 2512,
+      "shop": "Cosmetic.Plus",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22895058213,
+        "productName": "Kit Body Splash Feminino Arabe 60ml Shakan Coroa Amber Sereia Rubi Ametysta Presente Bolsa Ambarados",
+        "price": "15.89",
+        "priceDiscountRate": 77,
+        "commissionRate": "0.155",
+        "sales": 2512,
+        "ratingStar": "4.6",
+        "shopName": "Cosmetic.Plus",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mpnvskafmdc004",
+        "productLink": "https://shopee.com.br/product/1761364246/22895058213",
+        "offerLink": "https://s.shopee.com.br/7fawJiVo7u"
+      },
+      "_last_price": null
+    },
+    {
       "id": "9511754133",
       "name": "Creatina Max Titanium 300g Pura",
       "price": 41.0,
@@ -1119,35 +1234,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22100-7b7tjvynfbivb7",
         "productLink": "https://shopee.com.br/product/338537405/9511754133",
         "offerLink": "https://s.shopee.com.br/7AefikCvK8"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22895058213",
-      "name": "Kit Body Splash Feminino Arabe 60ml Shakan Coroa Amber Sereia Rubi Ametysta Presente Bolsa Ambarados",
-      "price": 15.89,
-      "original_price": 69.09,
-      "discount": 77.0,
-      "commission": 15.5,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mpnvskafmdc004",
-      "link": "https://s.shopee.com.br/7fawJiVo7u",
-      "rating": "4.6",
-      "sales": 2512,
-      "shop": "Cosmetic.Plus",
-      "category": "bolsa feminina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22895058213,
-        "productName": "Kit Body Splash Feminino Arabe 60ml Shakan Coroa Amber Sereia Rubi Ametysta Presente Bolsa Ambarados",
-        "price": "15.89",
-        "priceDiscountRate": 77,
-        "commissionRate": "0.155",
-        "sales": 2512,
-        "ratingStar": "4.6",
-        "shopName": "Cosmetic.Plus",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mpnvskafmdc004",
-        "productLink": "https://shopee.com.br/product/1761364246/22895058213",
-        "offerLink": "https://s.shopee.com.br/7fawJiVo7u"
       },
       "_last_price": null
     },
@@ -1212,8 +1298,8 @@
     {
       "id": "22497773735",
       "name": "ROMANTIC CROWN Mochila Viagem Feminina Masculina Multifuncional Reforçada Impermeável Expansível, Notebook Antifurto USB",
-      "price": 119.98,
-      "original_price": 499.92,
+      "price": 119.99,
+      "original_price": 499.96,
       "discount": 76.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lv-mt38wyvxh81x6a",
@@ -1226,7 +1312,7 @@
       "_item": {
         "itemId": 22497773735,
         "productName": "ROMANTIC CROWN Mochila Viagem Feminina Masculina Multifuncional Reforçada Impermeável Expansível, Notebook Antifurto USB",
-        "price": "119.98",
+        "price": "119.99",
         "priceDiscountRate": 76,
         "commissionRate": "0.08",
         "sales": 4947,
@@ -1447,7 +1533,7 @@
       "discount": 75.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
-      "link": "https://s.shopee.com.br/70LFWONdhO",
+      "link": "https://s.shopee.com.br/2Vsr8vMnUV",
       "rating": "4.9",
       "sales": 11381,
       "shop": "LUCIOshopping",
@@ -1464,36 +1550,7 @@
         "shopName": "LUCIOshopping",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
         "productLink": "https://shopee.com.br/product/1691846378/58202416470",
-        "offerLink": "https://s.shopee.com.br/70LFWONdhO"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18797740426",
-      "name": "KIT 3 Necessaire Bolsa Portátil Transparente Para Viagem Cosméticos Produtos De Higiene Pessoal",
-      "price": 17.49,
-      "original_price": 69.96,
-      "discount": 75.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mu4lz0bcc6ir7a",
-      "link": "https://s.shopee.com.br/AKbiRyHu15",
-      "rating": "4.8",
-      "sales": 3559,
-      "shop": "JONALISSA SHOP",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18797740426,
-        "productName": "KIT 3 Necessaire Bolsa Portátil Transparente Para Viagem Cosméticos Produtos De Higiene Pessoal",
-        "price": "17.49",
-        "priceDiscountRate": 75,
-        "commissionRate": "0.03",
-        "sales": 3559,
-        "ratingStar": "4.8",
-        "shopName": "JONALISSA SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mu4lz0bcc6ir7a",
-        "productLink": "https://shopee.com.br/product/1241281618/18797740426",
-        "offerLink": "https://s.shopee.com.br/AKbiRyHu15"
+        "offerLink": "https://s.shopee.com.br/2Vsr8vMnUV"
       },
       "_last_price": null
     },
@@ -2026,7 +2083,7 @@
       "discount": 72.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq1kgvrfpvdba",
-      "link": "https://s.shopee.com.br/7AefihN0MR",
+      "link": "https://s.shopee.com.br/1BWAKWJZ2",
       "rating": "4.8",
       "sales": 10124,
       "shop": "3 PAO",
@@ -2043,36 +2100,7 @@
         "shopName": "3 PAO",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdq1kgvrfpvdba",
         "productLink": "https://shopee.com.br/product/462426918/23794330101",
-        "offerLink": "https://s.shopee.com.br/7AefihN0MR"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22798465103",
-      "name": "Perfume Attracione Feminino by Attracione Woman Mulher",
-      "price": 49.0,
-      "original_price": 175.0,
-      "discount": 72.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9g8de45a3w911",
-      "link": "https://s.shopee.com.br/7VHX4nJ0qu",
-      "rating": "4.8",
-      "sales": 1998,
-      "shop": "Attracione Men & Attracione",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22798465103,
-        "productName": "Perfume Attracione Feminino by Attracione Woman Mulher",
-        "price": "49",
-        "priceDiscountRate": 72,
-        "commissionRate": "0.03",
-        "sales": 1998,
-        "ratingStar": "4.8",
-        "shopName": "Attracione Men & Attracione",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9g8de45a3w911",
-        "productLink": "https://shopee.com.br/product/1266325318/22798465103",
-        "offerLink": "https://s.shopee.com.br/7VHX4nJ0qu"
+        "offerLink": "https://s.shopee.com.br/1BWAKWJZ2"
       },
       "_last_price": null
     },
@@ -2401,7 +2429,7 @@
       "discount": 71.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3njv00ndrugd2",
-      "link": "https://s.shopee.com.br/6fiP7mOuNI",
+      "link": "https://s.shopee.com.br/2BG0kJO4AP",
       "rating": "4.9",
       "sales": 12267,
       "shop": "Good Buy Utilidades do Lar",
@@ -2418,7 +2446,7 @@
         "shopName": "Good Buy Utilidades do Lar",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3njv00ndrugd2",
         "productLink": "https://shopee.com.br/product/429888215/22993575936",
-        "offerLink": "https://s.shopee.com.br/6fiP7mOuNI"
+        "offerLink": "https://s.shopee.com.br/2BG0kJO4AP"
       },
       "_last_price": null
     },
@@ -2430,7 +2458,7 @@
       "discount": 71.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8owujawf6ohd6",
-      "link": "https://s.shopee.com.br/AAIHIDBaHB",
+      "link": "https://s.shopee.com.br/4LKVKIFom2",
       "rating": "4.8",
       "sales": 8183,
       "shop": "Alfa Soluções Plásticas",
@@ -2447,7 +2475,7 @@
         "shopName": "Alfa Soluções Plásticas",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8owujawf6ohd6",
         "productLink": "https://shopee.com.br/product/1405493675/23893129086",
-        "offerLink": "https://s.shopee.com.br/AAIHIDBaHB"
+        "offerLink": "https://s.shopee.com.br/4LKVKIFom2"
       },
       "_last_price": null
     },
@@ -2738,6 +2766,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-moe79ldiw16r9c",
         "productLink": "https://shopee.com.br/product/1177319319/23598083863",
         "offerLink": "https://s.shopee.com.br/2gCGMQQro8"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58258562285",
+      "name": "Suporte Organizador De Ovos Dispenser Para Geladeira Prático Anti-Queda Utensílios De Cozinha Original",
+      "price": 5.99,
+      "original_price": 19.97,
+      "discount": 70.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-81zvu-mmvetjba5xq9cb",
+      "link": "https://s.shopee.com.br/30p7jqKtTu",
+      "rating": "4.9",
+      "sales": 3333,
+      "shop": "BORASHOP1",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58258562285,
+        "productName": "Suporte Organizador De Ovos Dispenser Para Geladeira Prático Anti-Queda Utensílios De Cozinha Original",
+        "price": "5.99",
+        "priceDiscountRate": 70,
+        "commissionRate": "0.09",
+        "sales": 3333,
+        "ratingStar": "4.9",
+        "shopName": "BORASHOP1",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvu-mmvetjba5xq9cb",
+        "productLink": "https://shopee.com.br/product/1795268131/58258562285",
+        "offerLink": "https://s.shopee.com.br/30p7jqKtTu"
       },
       "_last_price": null
     },
@@ -3242,7 +3299,7 @@
       "discount": 69.0,
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm77p5j0ruu03",
-      "link": "https://s.shopee.com.br/9pfQtbCqxD",
+      "link": "https://s.shopee.com.br/2gCHLEMA9o",
       "rating": "4.6",
       "sales": 5362,
       "shop": "MANGO-SHOP",
@@ -3259,7 +3316,7 @@
         "shopName": "MANGO-SHOP",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm77p5j0ruu03",
         "productLink": "https://shopee.com.br/product/1547995492/20699892486",
-        "offerLink": "https://s.shopee.com.br/9pfQtbCqxD"
+        "offerLink": "https://s.shopee.com.br/2gCHLEMA9o"
       },
       "_last_price": null
     },
@@ -3438,6 +3495,35 @@
       "_last_price": null
     },
     {
+      "id": "20397689429",
+      "name": "Suporte De Parede Banheiro/Caixa Organizadora Com Papel Higiênico/Sem Furar pronta entrega",
+      "price": 15.99,
+      "original_price": 49.97,
+      "discount": 68.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-lvmc7m8negkib0",
+      "link": "https://s.shopee.com.br/20waY0OhVM",
+      "rating": "4.7",
+      "sales": 9490,
+      "shop": "CASA FEIRA",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20397689429,
+        "productName": "Suporte De Parede Banheiro/Caixa Organizadora Com Papel Higiênico/Sem Furar pronta entrega",
+        "price": "15.99",
+        "priceDiscountRate": 68,
+        "commissionRate": "0.03",
+        "sales": 9490,
+        "ratingStar": "4.7",
+        "shopName": "CASA FEIRA",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-lvmc7m8negkib0",
+        "productLink": "https://shopee.com.br/product/1034273871/20397689429",
+        "offerLink": "https://s.shopee.com.br/20waY0OhVM"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23398892792",
       "name": "Pasta Sanfonada A4 12 Divisórias com Elástico em Polipropileno Escolar e Escritório",
       "price": 11.88,
@@ -3445,7 +3531,7 @@
       "discount": 68.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meligd367qipdc",
-      "link": "https://s.shopee.com.br/60SiKYRRjE",
+      "link": "https://s.shopee.com.br/BUwMdVgE5",
       "rating": "4.9",
       "sales": 10002,
       "shop": "LINKSONLINE",
@@ -3462,7 +3548,7 @@
         "shopName": "LINKSONLINE",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meligd367qipdc",
         "productLink": "https://shopee.com.br/product/1223641329/23398892792",
-        "offerLink": "https://s.shopee.com.br/60SiKYRRjE"
+        "offerLink": "https://s.shopee.com.br/BUwMdVgE5"
       },
       "_last_price": null
     },
@@ -3908,7 +3994,7 @@
       "discount": 67.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0epmdejhyn47a",
-      "link": "https://s.shopee.com.br/8fTTVSHIK0",
+      "link": "https://s.shopee.com.br/2qVhXXLWor",
       "rating": "4.6",
       "sales": 4347,
       "shop": "DonaLarana_Casa",
@@ -3925,7 +4011,7 @@
         "shopName": "DonaLarana_Casa",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0epmdejhyn47a",
         "productLink": "https://shopee.com.br/product/771750144/20797868953",
-        "offerLink": "https://s.shopee.com.br/8fTTVSHIK0"
+        "offerLink": "https://s.shopee.com.br/2qVhXXLWor"
       },
       "_last_price": null
     },
@@ -5532,7 +5618,7 @@
       "discount": 63.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rdx7-lzqwk9yllpreef",
-      "link": "https://s.shopee.com.br/5fprvwSiPG",
+      "link": "https://s.shopee.com.br/1BNTYTRsCN",
       "rating": "4.8",
       "sales": 7626,
       "shop": "yoyobel.loja",
@@ -5549,7 +5635,7 @@
         "shopName": "yoyobel.loja",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx7-lzqwk9yllpreef",
         "productLink": "https://shopee.com.br/product/400262096/19698719773",
-        "offerLink": "https://s.shopee.com.br/5fprvwSiPG"
+        "offerLink": "https://s.shopee.com.br/1BNTYTRsCN"
       },
       "_last_price": null
     },
@@ -6054,7 +6140,7 @@
       "discount": 62.0,
       "commission": 23.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8258x-msf4mu1o9q1124",
-      "link": "https://s.shopee.com.br/9KjAIgEky4",
+      "link": "https://s.shopee.com.br/4qGlvDDulB",
       "rating": "4.9",
       "sales": 5925,
       "shop": "P&H  Oficial",
@@ -6071,7 +6157,7 @@
         "shopName": "P&H  Oficial",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258x-msf4mu1o9q1124",
         "productLink": "https://shopee.com.br/product/832040275/23096150316",
-        "offerLink": "https://s.shopee.com.br/9KjAIgEky4"
+        "offerLink": "https://s.shopee.com.br/4qGlvDDulB"
       },
       "_last_price": null
     },
@@ -6605,7 +6691,7 @@
       "discount": 61.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-822x5-mo74eg768t8m85",
-      "link": "https://s.shopee.com.br/6q1pK5OH2L",
+      "link": "https://s.shopee.com.br/2LZQwcNQpS",
       "rating": "4.5",
       "sales": 9337,
       "shop": "SELLNEEDS",
@@ -6622,7 +6708,7 @@
         "shopName": "SELLNEEDS",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822x5-mo74eg768t8m85",
         "productLink": "https://shopee.com.br/product/408653169/46360468172",
-        "offerLink": "https://s.shopee.com.br/6q1pK5OH2L"
+        "offerLink": "https://s.shopee.com.br/2LZQwcNQpS"
       },
       "_last_price": null
     },
@@ -6634,7 +6720,7 @@
       "discount": 61.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rfew-m9j8x6iwawk9bd",
-      "link": "https://s.shopee.com.br/9APk6NFOJ9",
+      "link": "https://s.shopee.com.br/3LRy8SJco0",
       "rating": "4.6",
       "sales": 4544,
       "shop": "Link&LinkShop_Brasil",
@@ -6651,7 +6737,7 @@
         "shopName": "Link&LinkShop_Brasil",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfew-m9j8x6iwawk9bd",
         "productLink": "https://shopee.com.br/product/1459307687/23698466561",
-        "offerLink": "https://s.shopee.com.br/9APk6NFOJ9"
+        "offerLink": "https://s.shopee.com.br/3LRy8SJco0"
       },
       "_last_price": null
     },
@@ -7069,7 +7155,7 @@
       "discount": 60.0,
       "commission": 15.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825av-muubwc979y4h34",
-      "link": "https://s.shopee.com.br/AUv7gpAJbH",
+      "link": "https://s.shopee.com.br/4fxLiuEY68",
       "rating": "4.9",
       "sales": 5823,
       "shop": "MAX MO (Atacado & Varejo)",
@@ -7086,7 +7172,7 @@
         "shopName": "MAX MO (Atacado & Varejo)",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825av-muubwc979y4h34",
         "productLink": "https://shopee.com.br/product/461633669/12016728643",
-        "offerLink": "https://s.shopee.com.br/AUv7gpAJbH"
+        "offerLink": "https://s.shopee.com.br/4fxLiuEY68"
       },
       "_last_price": null
     },
@@ -7932,60 +8018,31 @@
       "_last_price": null
     },
     {
-      "id": "22396710686",
-      "name": "Carrinho Organizador Móvel Facil Montar 4 andares Multiuso - Prateleira Carrinho 4 camadas P, M, G",
-      "price": 41.99,
-      "original_price": 99.98,
+      "id": "58215631607",
+      "name": "Kit Body Splash Masculino 2x200ml NeoNoble Inspirado em 212 VIP Black e Sauvage",
+      "price": 21.9,
+      "original_price": 52.14,
       "discount": 58.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7ntzxcbzyxg63",
-      "link": "https://s.shopee.com.br/AUv8eHHGg6",
-      "rating": "4.8",
-      "sales": 5683,
-      "shop": "Papala Home Store",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22396710686,
-        "productName": "Carrinho Organizador Móvel Facil Montar 4 andares Multiuso - Prateleira Carrinho 4 camadas P, M, G",
-        "price": "41.99",
-        "priceDiscountRate": 58,
-        "commissionRate": "0.03",
-        "sales": 5683,
-        "ratingStar": "4.8",
-        "shopName": "Papala Home Store",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7ntzxcbzyxg63",
-        "productLink": "https://shopee.com.br/product/629805123/22396710686",
-        "offerLink": "https://s.shopee.com.br/AUv8eHHGg6"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "19099902603",
-      "name": "Sophia Bellar Body Splash Pink – Colônia Infantil 200ml | Cuidado Essencial",
-      "price": 21.69,
-      "original_price": 51.64,
-      "discount": 58.0,
-      "commission": 20.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mq3jbeawkvepbd",
-      "link": "https://s.shopee.com.br/7Ky6sUJeBt",
-      "rating": "4.7",
-      "sales": 2030,
-      "shop": "Natural Premium Brasil",
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259q-mrirzbbo3g1x0f",
+      "link": "https://s.shopee.com.br/4B149DG1CL",
+      "rating": "4.6",
+      "sales": 3023,
+      "shop": "PH imports ",
       "category": "perfume",
       "source": "shopee",
       "_item": {
-        "itemId": 19099902603,
-        "productName": "Sophia Bellar Body Splash Pink – Colônia Infantil 200ml | Cuidado Essencial",
-        "price": "21.69",
+        "itemId": 58215631607,
+        "productName": "Kit Body Splash Masculino 2x200ml NeoNoble Inspirado em 212 VIP Black e Sauvage",
+        "price": "21.9",
         "priceDiscountRate": 58,
-        "commissionRate": "0.2",
-        "sales": 2030,
-        "ratingStar": "4.7",
-        "shopName": "Natural Premium Brasil",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mq3jbeawkvepbd",
-        "productLink": "https://shopee.com.br/product/834213091/19099902603",
-        "offerLink": "https://s.shopee.com.br/7Ky6sUJeBt"
+        "commissionRate": "0.18",
+        "sales": 3023,
+        "ratingStar": "4.6",
+        "shopName": "PH imports ",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259q-mrirzbbo3g1x0f",
+        "productLink": "https://shopee.com.br/product/1190360737/58215631607",
+        "offerLink": "https://s.shopee.com.br/4B149DG1CL"
       },
       "_last_price": null
     },
@@ -9186,7 +9243,7 @@
       "discount": 56.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mcc4llc8xbix14",
-      "link": "https://s.shopee.com.br/5q9I8FS54J",
+      "link": "https://s.shopee.com.br/40hevgH5Rw",
       "rating": "4.9",
       "sales": 8206,
       "shop": "WUDI SHOP",
@@ -9203,7 +9260,7 @@
         "shopName": "WUDI SHOP",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mcc4llc8xbix14",
         "productLink": "https://shopee.com.br/product/1502069336/19699843252",
-        "offerLink": "https://s.shopee.com.br/5q9I8FS54J"
+        "offerLink": "https://s.shopee.com.br/40hevgH5Rw"
       },
       "_last_price": null
     },
@@ -10397,60 +10454,31 @@
       "_last_price": null
     },
     {
-      "id": "23098851500",
-      "name": "Kit Body Splash Dolce + Florata Red 200ml Feminino.",
-      "price": 45.9,
-      "original_price": 99.78,
-      "discount": 54.0,
-      "commission": 15.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lg-mtdyn13q445cbb",
-      "link": "https://s.shopee.com.br/6q1qHZLYCq",
-      "rating": "4.6",
-      "sales": 1793,
-      "shop": "Ambar.shop01",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23098851500,
-        "productName": "Kit Body Splash Dolce + Florata Red 200ml Feminino.",
-        "price": "45.9",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.15",
-        "sales": 1793,
-        "ratingStar": "4.6",
-        "shopName": "Ambar.shop01",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mtdyn13q445cbb",
-        "productLink": "https://shopee.com.br/product/1617566398/23098851500",
-        "offerLink": "https://s.shopee.com.br/6q1qHZLYCq"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22998326555",
-      "name": "Organizador de Cintos Gravata Relógios Perfumes 34 x10 x 8 Com 6 Divisórias em Acrílico Para Gavetas e Armário",
+      "id": "58206612939",
+      "name": "Kit 2 Body Splash Ameixa Negra, Maracujá, ou Uva Merlot Cereja 200ml BELKIT Alta Projeção e Fixação",
       "price": 36.9,
       "original_price": 80.22,
       "discount": 54.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m3-ms5mxz8lcyrp5d",
-      "link": "https://s.shopee.com.br/6fiQ5GMBXp",
-      "rating": "4.9",
-      "sales": 2057,
-      "shop": "Âncora Shopp",
+      "commission": 19.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820md-mlmms06ewtmt08",
+      "link": "https://s.shopee.com.br/1BNSZhRRHj",
+      "rating": "4.8",
+      "sales": 5037,
+      "shop": "Bela Beleza Oficial",
       "category": "perfume",
       "source": "shopee",
       "_item": {
-        "itemId": 22998326555,
-        "productName": "Organizador de Cintos Gravata Relógios Perfumes 34 x10 x 8 Com 6 Divisórias em Acrílico Para Gavetas e Armário",
+        "itemId": 58206612939,
+        "productName": "Kit 2 Body Splash Ameixa Negra, Maracujá, ou Uva Merlot Cereja 200ml BELKIT Alta Projeção e Fixação",
         "price": "36.9",
         "priceDiscountRate": 54,
-        "commissionRate": "0.1",
-        "sales": 2057,
-        "ratingStar": "4.9",
-        "shopName": "Âncora Shopp",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-ms5mxz8lcyrp5d",
-        "productLink": "https://shopee.com.br/product/316557325/22998326555",
-        "offerLink": "https://s.shopee.com.br/6fiQ5GMBXp"
+        "commissionRate": "0.19",
+        "sales": 5037,
+        "ratingStar": "4.8",
+        "shopName": "Bela Beleza Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-mlmms06ewtmt08",
+        "productLink": "https://shopee.com.br/product/1391354759/58206612939",
+        "offerLink": "https://s.shopee.com.br/1BNSZhRRHj"
       },
       "_last_price": null
     },
@@ -11760,35 +11788,6 @@
       "_last_price": null
     },
     {
-      "id": "55050251437",
-      "name": "KIT BODY SPLASH MASCULINO BARBARIUS E MIDTOWN 200ML - PRIMACIAL PERFUME FRESCO AMADEIRADO",
-      "price": 67.5,
-      "original_price": 140.62,
-      "discount": 52.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mh-mukoqlfbynszf3",
-      "link": "https://s.shopee.com.br/9APl3rCfTO",
-      "rating": "4.8",
-      "sales": 1335,
-      "shop": "Primacial",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 55050251437,
-        "productName": "KIT BODY SPLASH MASCULINO BARBARIUS E MIDTOWN 200ML - PRIMACIAL PERFUME FRESCO AMADEIRADO",
-        "price": "67.5",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.11",
-        "sales": 1335,
-        "ratingStar": "4.8",
-        "shopName": "Primacial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mukoqlfbynszf3",
-        "productLink": "https://shopee.com.br/product/1295467768/55050251437",
-        "offerLink": "https://s.shopee.com.br/9APl3rCfTO"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23197485445",
       "name": "Whey Protein Fuse 900g Isolate Dark Lab",
       "price": 76.52,
@@ -12521,7 +12520,7 @@
       "discount": 51.0,
       "commission": 4.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwu-md3owfmt11dsa0",
-      "link": "https://s.shopee.com.br/7VHW7JzCB9",
+      "link": "https://s.shopee.com.br/4VdvWbFBR5",
       "rating": "4.8",
       "sales": 8208,
       "shop": "Forte DMS Brasil",
@@ -12538,7 +12537,7 @@
         "shopName": "Forte DMS Brasil",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwu-md3owfmt11dsa0",
         "productLink": "https://shopee.com.br/product/1535794969/23994336380",
-        "offerLink": "https://s.shopee.com.br/7VHW7JzCB9"
+        "offerLink": "https://s.shopee.com.br/4VdvWbFBR5"
       },
       "_last_price": null
     },
@@ -12568,35 +12567,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zto-mkz8v4s7t1j5e6",
         "productLink": "https://shopee.com.br/product/1720866468/58205583012",
         "offerLink": "https://s.shopee.com.br/7fawJdXl3j"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23994304314",
-      "name": "Perfume Importados Feminino E Masculino 30ML",
-      "price": 29.4,
-      "original_price": 60.0,
-      "discount": 51.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mddb35uq4rnl31",
-      "link": "https://s.shopee.com.br/5LD2UoRGFR",
-      "rating": "4.8",
-      "sales": 2006,
-      "shop": "MODA H&S ",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23994304314,
-        "productName": "Perfume Importados Feminino E Masculino 30ML",
-        "price": "29.4",
-        "priceDiscountRate": 51,
-        "commissionRate": "0.03",
-        "sales": 2006,
-        "ratingStar": "4.8",
-        "shopName": "MODA H&S ",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mddb35uq4rnl31",
-        "productLink": "https://shopee.com.br/product/1607287893/23994304314",
-        "offerLink": "https://s.shopee.com.br/5LD2UoRGFR"
       },
       "_last_price": null
     },
@@ -13906,35 +13876,6 @@
       "_last_price": null
     },
     {
-      "id": "58265543567",
-      "name": "Body Splash Masculino Nacional 60ml Aroma Amadeirado Fresco Aquático Refrescante Longa Duração",
-      "price": 13.99,
-      "original_price": 27.98,
-      "discount": 50.0,
-      "commission": 14.000000000000002,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825b2-mrhdsdn8g1l215",
-      "link": "https://s.shopee.com.br/5q9J5jPMEY",
-      "rating": "4.6",
-      "sales": 1371,
-      "shop": "AROMAX ",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58265543567,
-        "productName": "Body Splash Masculino Nacional 60ml Aroma Amadeirado Fresco Aquático Refrescante Longa Duração",
-        "price": "13.99",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.14",
-        "sales": 1371,
-        "ratingStar": "4.6",
-        "shopName": "AROMAX ",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b2-mrhdsdn8g1l215",
-        "productLink": "https://shopee.com.br/product/1734096999/58265543567",
-        "offerLink": "https://s.shopee.com.br/5q9J5jPMEY"
-      },
-      "_last_price": null
-    },
-    {
       "id": "44001553177",
       "name": "Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda Pet Xixi Cão Pequeno Médio",
       "price": 19.98,
@@ -14725,7 +14666,7 @@
       "discount": 49.0,
       "commission": 13.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
-      "link": "https://s.shopee.com.br/6L5YjAQB3K",
+      "link": "https://s.shopee.com.br/W7mlFUPYB",
       "rating": "4.9",
       "sales": 8608,
       "shop": "ES Official Shop",
@@ -14742,7 +14683,7 @@
         "shopName": "ES Official Shop",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabeeeswsx4mc1",
         "productLink": "https://shopee.com.br/product/988030305/23397600706",
-        "offerLink": "https://s.shopee.com.br/6L5YjAQB3K"
+        "offerLink": "https://s.shopee.com.br/W7mlFUPYB"
       },
       "_last_price": null
     },
@@ -14772,35 +14713,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztd-mko7wuy13u2q40",
         "productLink": "https://shopee.com.br/product/979724994/58205223096",
         "offerLink": "https://s.shopee.com.br/70LFWP16C4"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23498303242",
-      "name": "KIT 04 Body Splash ARABE SOUL 200ml FEMININO - Desodorante Perfume Corporal Alta Fixação Noite e Dia",
-      "price": 49.9,
-      "original_price": 97.84,
-      "discount": 49.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m4-moimwija68064c",
-      "link": "https://s.shopee.com.br/7puNTPHkB0",
-      "rating": "4.8",
-      "sales": 1853,
-      "shop": "Cosméticos Relive",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498303242,
-        "productName": "KIT 04 Body Splash ARABE SOUL 200ml FEMININO - Desodorante Perfume Corporal Alta Fixação Noite e Dia",
-        "price": "49.9",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.03",
-        "sales": 1853,
-        "ratingStar": "4.8",
-        "shopName": "Cosméticos Relive",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-moimwija68064c",
-        "productLink": "https://shopee.com.br/product/1343471577/23498303242",
-        "offerLink": "https://s.shopee.com.br/7puNTPHkB0"
       },
       "_last_price": null
     },
@@ -15878,31 +15790,31 @@
       "_last_price": null
     },
     {
-      "id": "22694181207",
-      "name": "Perfume Árabe Masculino Intense Men Eau de Parfum 100ml",
-      "price": 26.89,
-      "original_price": 49.8,
+      "id": "58206936831",
+      "name": "Perfume Atracione 100 ml Masculino Atracione Men Envio Imediato",
+      "price": 27.0,
+      "original_price": 50.0,
       "discount": 46.0,
-      "commission": 14.000000000000002,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj5z1khce5mu54",
-      "link": "https://s.shopee.com.br/7faxH6INVz",
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82610-mltb297t5x4z32",
+      "link": "https://s.shopee.com.br/3LRx9gJBtM",
       "rating": "4.7",
-      "sales": 1783,
-      "shop": "SHOPPING MIX LTDA",
+      "sales": 1999,
+      "shop": "SANTA ROSA VARIEDADES",
       "category": "perfume",
       "source": "shopee",
       "_item": {
-        "itemId": 22694181207,
-        "productName": "Perfume Árabe Masculino Intense Men Eau de Parfum 100ml",
-        "price": "26.89",
+        "itemId": 58206936831,
+        "productName": "Perfume Atracione 100 ml Masculino Atracione Men Envio Imediato",
+        "price": "27",
         "priceDiscountRate": 46,
-        "commissionRate": "0.14",
-        "sales": 1783,
+        "commissionRate": "0.03",
+        "sales": 1999,
         "ratingStar": "4.7",
-        "shopName": "SHOPPING MIX LTDA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj5z1khce5mu54",
-        "productLink": "https://shopee.com.br/product/632650443/22694181207",
-        "offerLink": "https://s.shopee.com.br/7faxH6INVz"
+        "shopName": "SANTA ROSA VARIEDADES",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82610-mltb297t5x4z32",
+        "productLink": "https://shopee.com.br/product/1620406891/58206936831",
+        "offerLink": "https://s.shopee.com.br/3LRx9gJBtM"
       },
       "_last_price": null
     },
@@ -16690,6 +16602,35 @@
       "_last_price": null
     },
     {
+      "id": "58213437798",
+      "name": "Body Splash Inspirado em Perfumes Importados com Essência Concentrada e Fragrância Marcante",
+      "price": 10.99,
+      "original_price": 19.98,
+      "discount": 45.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mqv9nes5wqo3cf",
+      "link": "https://s.shopee.com.br/4fxKk8E7BU",
+      "rating": "4.5",
+      "sales": 3401,
+      "shop": "HN PERFUMES",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58213437798,
+        "productName": "Body Splash Inspirado em Perfumes Importados com Essência Concentrada e Fragrância Marcante",
+        "price": "10.99",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.18",
+        "sales": 3401,
+        "ratingStar": "4.5",
+        "shopName": "HN PERFUMES",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mqv9nes5wqo3cf",
+        "productLink": "https://shopee.com.br/product/567005872/58213437798",
+        "offerLink": "https://s.shopee.com.br/4fxKk8E7BU"
+      },
+      "_last_price": null
+    },
+    {
       "id": "17882461983",
       "name": "Trocador Plastificado Impermeável Anatômico Americano de Cômoda Para Troca de Fraldas",
       "price": 57.61,
@@ -17411,6 +17352,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rauu-mawskugsfvjqc2",
         "productLink": "https://shopee.com.br/product/962458284/23694145234",
         "offerLink": "https://s.shopee.com.br/gRBylPD3C"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "54663825990",
+      "name": "Perfume Masculino  100ml Fragrância Elegante Longa Duração Para Uso Diário",
+      "price": 27.99,
+      "original_price": 49.98,
+      "discount": 44.0,
+      "commission": 19.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820la-mqj7ti2uhiwx4a",
+      "link": "https://s.shopee.com.br/W7lmTTydX",
+      "rating": "4.7",
+      "sales": 5192,
+      "shop": "Shiloya L",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 54663825990,
+        "productName": "Perfume Masculino  100ml Fragrância Elegante Longa Duração Para Uso Diário",
+        "price": "27.99",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.19",
+        "sales": 5192,
+        "ratingStar": "4.7",
+        "shopName": "Shiloya L",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mqj7ti2uhiwx4a",
+        "productLink": "https://shopee.com.br/product/1458574782/54663825990",
+        "offerLink": "https://s.shopee.com.br/W7lmTTydX"
       },
       "_last_price": null
     },
@@ -19561,31 +19531,31 @@
       "_last_price": null
     },
     {
-      "id": "23294818723",
-      "name": "EZ Vip Black - Eau de Parfum 100ml LANÇAMENTO EXCLUSIVO",
-      "price": 41.0,
-      "original_price": 68.33,
+      "id": "22598544943",
+      "name": "Perfume Feminino ÁRABES Sabah 100ML Eau de Parfum Edp",
+      "price": 149.14,
+      "original_price": 248.57,
       "discount": 40.0,
-      "commission": 28.000000000000004,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjrcbybsu6f700",
-      "link": "https://s.shopee.com.br/70LGTsKurv",
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma5yywimmow1b5",
+      "link": "https://s.shopee.com.br/2LZPxqMzuo",
       "rating": "4.8",
-      "sales": 1960,
-      "shop": "E'thereal Paris",
+      "sales": 2105,
+      "shop": "A.star",
       "category": "perfume",
       "source": "shopee",
       "_item": {
-        "itemId": 23294818723,
-        "productName": "EZ Vip Black - Eau de Parfum 100ml LANÇAMENTO EXCLUSIVO",
-        "price": "41",
+        "itemId": 22598544943,
+        "productName": "Perfume Feminino ÁRABES Sabah 100ML Eau de Parfum Edp",
+        "price": "149.14",
         "priceDiscountRate": 40,
-        "commissionRate": "0.28",
-        "sales": 1960,
+        "commissionRate": "0.07",
+        "sales": 2105,
         "ratingStar": "4.8",
-        "shopName": "E'thereal Paris",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjrcbybsu6f700",
-        "productLink": "https://shopee.com.br/product/1482776546/23294818723",
-        "offerLink": "https://s.shopee.com.br/70LGTsKurv"
+        "shopName": "A.star",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma5yywimmow1b5",
+        "productLink": "https://shopee.com.br/product/1391612755/22598544943",
+        "offerLink": "https://s.shopee.com.br/2LZPxqMzuo"
       },
       "_last_price": null
     },
@@ -20605,6 +20575,64 @@
       "_last_price": null
     },
     {
+      "id": "22094238842",
+      "name": "BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL",
+      "price": 24.9,
+      "original_price": 40.16,
+      "discount": 38.0,
+      "commission": 28.000000000000004,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-mukoqlfdn280c5",
+      "link": "https://s.shopee.com.br/BUvNrVFJR",
+      "rating": "4.8",
+      "sales": 5221,
+      "shop": "Primacial",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22094238842,
+        "productName": "BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL",
+        "price": "24.9",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.28",
+        "sales": 5221,
+        "ratingStar": "4.8",
+        "shopName": "Primacial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mukoqlfdn280c5",
+        "productLink": "https://shopee.com.br/product/1295467768/22094238842",
+        "offerLink": "https://s.shopee.com.br/BUvNrVFJR"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19247856659",
+      "name": "Deo Colônia Tabu Flores 60Ml",
+      "price": 12.9,
+      "original_price": 20.81,
+      "discount": 38.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/31444566684c1fab3fb7e3b8f32a2ac7",
+      "link": "https://s.shopee.com.br/2qVgYlL5uD",
+      "rating": "4.8",
+      "sales": 2357,
+      "shop": "Dana Cosmeticos",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19247856659,
+        "productName": "Deo Colônia Tabu Flores 60Ml",
+        "price": "12.9",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.03",
+        "sales": 2357,
+        "ratingStar": "4.8",
+        "shopName": "Dana Cosmeticos",
+        "imageUrl": "https://cf.shopee.com.br/file/31444566684c1fab3fb7e3b8f32a2ac7",
+        "productLink": "https://shopee.com.br/product/436104412/19247856659",
+        "offerLink": "https://s.shopee.com.br/2qVgYlL5uD"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19747855339",
       "name": "Deo Colônia Tabu Tradicional 60ml",
       "price": 12.9,
@@ -21134,7 +21162,7 @@
       "discount": 37.0,
       "commission": 73.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mpxy82d0505ccb",
-      "link": "https://s.shopee.com.br/6VOyvTPXiN",
+      "link": "https://s.shopee.com.br/gRCxYTmDE",
       "rating": "4.8",
       "sales": 8647,
       "shop": "Verde Água Embalagens e Enxovais",
@@ -21151,7 +21179,7 @@
         "shopName": "Verde Água Embalagens e Enxovais",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mpxy82d0505ccb",
         "productLink": "https://shopee.com.br/product/910649627/58213273842",
-        "offerLink": "https://s.shopee.com.br/6VOyvTPXiN"
+        "offerLink": "https://s.shopee.com.br/gRCxYTmDE"
       },
       "_last_price": null
     },
@@ -21163,7 +21191,7 @@
       "discount": 37.0,
       "commission": 43.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mra9nhri7tolf6",
-      "link": "https://s.shopee.com.br/9V2aUzE7d7",
+      "link": "https://s.shopee.com.br/50aC7WDHQE",
       "rating": "4.8",
       "sales": 5644,
       "shop": "Isaplastic",
@@ -21180,36 +21208,7 @@
         "shopName": "Isaplastic",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mra9nhri7tolf6",
         "productLink": "https://shopee.com.br/product/344438002/23199132850",
-        "offerLink": "https://s.shopee.com.br/9V2aUzE7d7"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58213240939",
-      "name": "Cheirinho Embalagem Perfume para Loja Roupa Papel Artesanato Aroma Essência Spray",
-      "price": 11.99,
-      "original_price": 19.03,
-      "discount": 37.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134207-824ha-mpwwe4ggmfij72",
-      "link": "https://s.shopee.com.br/6L5ZgeNSDb",
-      "rating": "4.9",
-      "sales": 2584,
-      "shop": "Essence Lab",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58213240939,
-        "productName": "Cheirinho Embalagem Perfume para Loja Roupa Papel Artesanato Aroma Essência Spray",
-        "price": "11.99",
-        "priceDiscountRate": 37,
-        "commissionRate": "0.03",
-        "sales": 2584,
-        "ratingStar": "4.9",
-        "shopName": "Essence Lab",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-824ha-mpwwe4ggmfij72",
-        "productLink": "https://shopee.com.br/product/1833231900/58213240939",
-        "offerLink": "https://s.shopee.com.br/6L5ZgeNSDb"
+        "offerLink": "https://s.shopee.com.br/50aC7WDHQE"
       },
       "_last_price": null
     },
@@ -21500,7 +21499,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7r98o-lkjtd8erha6w41",
         "productLink": "https://shopee.com.br/product/316475205/23599649329",
         "offerLink": "https://s.shopee.com.br/1qd9N4LGUb"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "18499738293",
@@ -21702,6 +21702,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zup-mmrk4iywe1oi7c",
         "productLink": "https://shopee.com.br/product/493059579/55508351298",
         "offerLink": "https://s.shopee.com.br/7puMVupfVI"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23794994613",
+      "name": "Escorredor Kitchen Rack Aço Inoxidável Organizador Louça Preto Pia Kitchen Rack Aço Ino",
+      "price": 76.8,
+      "original_price": 120.0,
+      "discount": 36.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mpc0kpszssu82c",
+      "link": "https://s.shopee.com.br/4B157zGS6z",
+      "rating": "4.7",
+      "sales": 6360,
+      "shop": "RM COMERCIO",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23794994613,
+        "productName": "Escorredor Kitchen Rack Aço Inoxidável Organizador Louça Preto Pia Kitchen Rack Aço Ino",
+        "price": "76.8",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 6360,
+        "ratingStar": "4.7",
+        "shopName": "RM COMERCIO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mpc0kpszssu82c",
+        "productLink": "https://shopee.com.br/product/1592199608/23794994613",
+        "offerLink": "https://s.shopee.com.br/4B157zGS6z"
       },
       "_last_price": null
     },
@@ -22837,35 +22866,6 @@
       "_last_price": null
     },
     {
-      "id": "22894246754",
-      "name": "BODY SPLASH MASCULINO BARBARIUS 200ML - PRIMACIAL PERFUME AMADEIRADO",
-      "price": 45.9,
-      "original_price": 69.55,
-      "discount": 34.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mukmdt0eigw203",
-      "link": "https://s.shopee.com.br/8fTUSwEZUH",
-      "rating": "4.7",
-      "sales": 1764,
-      "shop": "Primacial",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22894246754,
-        "productName": "BODY SPLASH MASCULINO BARBARIUS 200ML - PRIMACIAL PERFUME AMADEIRADO",
-        "price": "45.9",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.07",
-        "sales": 1764,
-        "ratingStar": "4.7",
-        "shopName": "Primacial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mukmdt0eigw203",
-        "productLink": "https://shopee.com.br/product/1295467768/22894246754",
-        "offerLink": "https://s.shopee.com.br/8fTUSwEZUH"
-      },
-      "_last_price": null
-    },
-    {
       "id": "56002637177",
       "name": "SunnyFit 2 Pçs Puxar Para Cima Apertos Luvas De Levantamento De Peso Ginásio Treino De Fitness Haltere Barra De Mão Dead",
       "price": 39.99,
@@ -23471,35 +23471,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23010-kl5a6q6lp2lv43",
         "productLink": "https://shopee.com.br/product/660595518/19170781205",
         "offerLink": "https://s.shopee.com.br/5q9I8GejmI"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22598549816",
-      "name": "Gel Creme Hidratante Calmante Facial - Calming Cream - Creamy Skincare - 40g",
-      "price": 40.83,
-      "original_price": 60.94,
-      "discount": 33.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfbh51pwluyudd",
-      "link": "https://s.shopee.com.br/2LZPxq5KXj",
-      "rating": "5",
-      "sales": 5530,
-      "shop": "Creamy Skincare",
-      "category": "creme facial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22598549816,
-        "productName": "Gel Creme Hidratante Calmante Facial - Calming Cream - Creamy Skincare - 40g",
-        "price": "40.83",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.11",
-        "sales": 5530,
-        "ratingStar": "5",
-        "shopName": "Creamy Skincare",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfbh51pwluyudd",
-        "productLink": "https://shopee.com.br/product/1304513381/22598549816",
-        "offerLink": "https://s.shopee.com.br/2LZPxq5KXj"
       },
       "_last_price": null
     },
@@ -26346,35 +26317,6 @@
       "_last_price": null
     },
     {
-      "id": "22493344923",
-      "name": "Necessaire Feminina Personalizada com Inicial Box com Alça Porta Maquiagem Bolsa Viagem",
-      "price": 17.92,
-      "original_price": 24.89,
-      "discount": 28.0,
-      "commission": 16.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mm9n38usw7wn9a",
-      "link": "https://s.shopee.com.br/AUv7gvL1ND",
-      "rating": "4.9",
-      "sales": 6027,
-      "shop": "GB Gift",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22493344923,
-        "productName": "Necessaire Feminina Personalizada com Inicial Box com Alça Porta Maquiagem Bolsa Viagem",
-        "price": "17.92",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.16",
-        "sales": 6027,
-        "ratingStar": "4.9",
-        "shopName": "GB Gift",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mm9n38usw7wn9a",
-        "productLink": "https://shopee.com.br/product/419086451/22493344923",
-        "offerLink": "https://s.shopee.com.br/AUv7gvL1ND"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23493418176",
       "name": "Kit 3 Panos de Chão Microfibra 70x60cm Furo para Rodo Dupla Camada",
       "price": 25.99,
@@ -26632,6 +26574,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mo9nab0ho2klbf",
         "productLink": "https://shopee.com.br/product/359066629/19975160032",
         "offerLink": "https://s.shopee.com.br/BUvNvP1Zv"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22493344923",
+      "name": "Necessaire Feminina Personalizada com Inicial Box com Alça Porta Maquiagem Bolsa Viagem",
+      "price": 17.92,
+      "original_price": 24.89,
+      "discount": 28.0,
+      "commission": 16.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mm9n38usw7wn9a",
+      "link": "https://s.shopee.com.br/AUv7gvL1ND",
+      "rating": "4.9",
+      "sales": 6027,
+      "shop": "GB Gift",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22493344923,
+        "productName": "Necessaire Feminina Personalizada com Inicial Box com Alça Porta Maquiagem Bolsa Viagem",
+        "price": "17.92",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.16",
+        "sales": 6027,
+        "ratingStar": "4.9",
+        "shopName": "GB Gift",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mm9n38usw7wn9a",
+        "productLink": "https://shopee.com.br/product/419086451/22493344923",
+        "offerLink": "https://s.shopee.com.br/AUv7gvL1ND"
       },
       "_last_price": null
     },
@@ -29391,6 +29362,35 @@
       "_last_price": null
     },
     {
+      "id": "20397811642",
+      "name": "Cheirinho Para Carro Aromatizador Ar Condicionado Perfume Aroma Purificador de Ar",
+      "price": 15.79,
+      "original_price": 19.99,
+      "discount": 21.0,
+      "commission": 5.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m05ptzgp3o3h63",
+      "link": "https://s.shopee.com.br/1BVBYVseO",
+      "rating": "4.7",
+      "sales": 5838,
+      "shop": "CARPEI ACESSORIO LTDA",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20397811642,
+        "productName": "Cheirinho Para Carro Aromatizador Ar Condicionado Perfume Aroma Purificador de Ar",
+        "price": "15.79",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.05",
+        "sales": 5838,
+        "ratingStar": "4.7",
+        "shopName": "CARPEI ACESSORIO LTDA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m05ptzgp3o3h63",
+        "productLink": "https://shopee.com.br/product/1177319319/20397811642",
+        "offerLink": "https://s.shopee.com.br/1BVBYVseO"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22736025276",
       "name": "Whey Blend Protein Concentrado e Isolado 900g Soldiers Nutrition Suplemento Proteína Muscular Recuperação",
       "price": 78.9,
@@ -31794,35 +31794,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m40puqy94uut81",
         "productLink": "https://shopee.com.br/product/534023108/11051183096",
         "offerLink": "https://s.shopee.com.br/6VOyvSd4rC"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "47006078407",
-      "name": "Kit Prateleira Expositora Acrílica Transparente para Doces e perfumes | Base Decorativa para Festa e Mesa de Doces",
-      "price": 44.93,
-      "original_price": 52.86,
-      "discount": 15.0,
-      "commission": 17.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mlnuyv34ighy3a",
-      "link": "https://s.shopee.com.br/7AeggBKHWw",
-      "rating": "4.9",
-      "sales": 2183,
-      "shop": "Brindees_Festas",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 47006078407,
-        "productName": "Kit Prateleira Expositora Acrílica Transparente para Doces e perfumes | Base Decorativa para Festa e Mesa de Doces",
-        "price": "44.93",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.17",
-        "sales": 2183,
-        "ratingStar": "4.9",
-        "shopName": "Brindees_Festas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mlnuyv34ighy3a",
-        "productLink": "https://shopee.com.br/product/1446870993/47006078407",
-        "offerLink": "https://s.shopee.com.br/7AeggBKHWw"
       },
       "_last_price": null
     },
