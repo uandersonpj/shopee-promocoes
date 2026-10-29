@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29T02:38:37.246966+00:00",
-  "total": 1112,
+  "updated_at": "2026-10-29T02:57:54.110055+00:00",
+  "total": 1113,
   "products": [
     {
       "id": "52807406192",
@@ -1763,7 +1763,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m16zhf1ljn7yae",
         "productLink": "https://shopee.com.br/product/451332066/23793414141",
         "offerLink": "https://s.shopee.com.br/906Ju8nT8M"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23593847901",
@@ -2022,8 +2023,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mt995huwzmdcf3",
         "productLink": "https://shopee.com.br/product/918530496/58217124419",
         "offerLink": "https://s.shopee.com.br/2qVgXdVZ4o"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58214178007",
@@ -3325,35 +3325,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4et0gt4mdklca",
         "productLink": "https://shopee.com.br/product/406098813/18856357121",
         "offerLink": "https://s.shopee.com.br/AKbhUWoPQu"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "55306746122",
-      "name": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
-      "price": 34.99,
-      "original_price": 112.87,
-      "discount": 69.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825b6-mqt5iql7joxsf2",
-      "link": "https://s.shopee.com.br/1qdAqwdEnH",
-      "rating": "4.8",
-      "sales": 492,
-      "shop": "Link&LinkShop_Brasil",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 55306746122,
-        "productName": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
-        "price": "34.99",
-        "priceDiscountRate": 69,
-        "commissionRate": "0.03",
-        "sales": 492,
-        "ratingStar": "4.8",
-        "shopName": "Link&LinkShop_Brasil",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b6-mqt5iql7joxsf2",
-        "productLink": "https://shopee.com.br/product/1459307687/55306746122",
-        "offerLink": "https://s.shopee.com.br/1qdAqwdEnH"
       },
       "_last_price": null
     },
@@ -5674,6 +5645,35 @@
       "_last_price": null
     },
     {
+      "id": "23594527100",
+      "name": "Moedor Elérico Multifuncional de Café e Especiarias 110V  Aço Inoxidável 4 Lâminas",
+      "price": 36.99,
+      "original_price": 99.97,
+      "discount": 63.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823pt-molhwbuqrrwsa8",
+      "link": "https://s.shopee.com.br/5VWRjiVjHP",
+      "rating": "4.8",
+      "sales": 3554,
+      "shop": "Dong Sheng Presente LTDA",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23594527100,
+        "productName": "Moedor Elérico Multifuncional de Café e Especiarias 110V  Aço Inoxidável 4 Lâminas",
+        "price": "36.99",
+        "priceDiscountRate": 63,
+        "commissionRate": "0.03",
+        "sales": 3554,
+        "ratingStar": "4.8",
+        "shopName": "Dong Sheng Presente LTDA",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pt-molhwbuqrrwsa8",
+        "productLink": "https://shopee.com.br/product/794850458/23594527100",
+        "offerLink": "https://s.shopee.com.br/5VWRjiVjHP"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18599879164",
       "name": "3/2/1 PCS Pochete Doleira Antifurto Nylon Impermeável Porta Celular Dinheiro Segurança Viagem Corrida Academia",
       "price": 10.99,
@@ -7643,35 +7643,6 @@
       "_last_price": null
     },
     {
-      "id": "23093960843",
-      "name": "Pasta Sanfonada Para Documento Com 12 Divisórias E Pasta Prancheta Tamanho A4 Escritório Escolar",
-      "price": 10.99,
-      "original_price": 26.8,
-      "discount": 59.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9elqqn7nixzee",
-      "link": "https://s.shopee.com.br/7VHW7JLjgP",
-      "rating": "4.9",
-      "sales": 17244,
-      "shop": "TOP&CASA",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23093960843,
-        "productName": "Pasta Sanfonada Para Documento Com 12 Divisórias E Pasta Prancheta Tamanho A4 Escritório Escolar",
-        "price": "10.99",
-        "priceDiscountRate": 59,
-        "commissionRate": "0.03",
-        "sales": 17244,
-        "ratingStar": "4.9",
-        "shopName": "TOP&CASA",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9elqqn7nixzee",
-        "productLink": "https://shopee.com.br/product/1397076460/23093960843",
-        "offerLink": "https://s.shopee.com.br/7VHW7JLjgP"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23694425028",
       "name": "Prateleira Sapateira 9 Andares De Metal E Plastico Organizador Multiuso Prata Para Sapatos Calçados a",
       "price": 40.99,
@@ -8653,6 +8624,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mp51i7w3hts6c7",
         "productLink": "https://shopee.com.br/product/305234794/20499092615",
         "offerLink": "https://s.shopee.com.br/1gJjAaUfq6"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23093960843",
+      "name": "Pasta Sanfonada Para Documento Com 12 Divisórias E Pasta Prancheta Tamanho A4 Escritório Escolar",
+      "price": 11.48,
+      "original_price": 26.7,
+      "discount": 57.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9elqqn7nixzee",
+      "link": "https://s.shopee.com.br/7VHW7JLjgP",
+      "rating": "4.9",
+      "sales": 17244,
+      "shop": "TOP&CASA",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23093960843,
+        "productName": "Pasta Sanfonada Para Documento Com 12 Divisórias E Pasta Prancheta Tamanho A4 Escritório Escolar",
+        "price": "11.48",
+        "priceDiscountRate": 57,
+        "commissionRate": "0.03",
+        "sales": 17244,
+        "ratingStar": "4.9",
+        "shopName": "TOP&CASA",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfg0-m9elqqn7nixzee",
+        "productLink": "https://shopee.com.br/product/1397076460/23093960843",
+        "offerLink": "https://s.shopee.com.br/7VHW7JLjgP"
       },
       "_last_price": null
     },
@@ -11958,6 +11958,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262f-mkwr7zjyesxu26",
         "productLink": "https://shopee.com.br/product/1658949277/58205469373",
         "offerLink": "https://s.shopee.com.br/2qVgYofsh9"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22893806671",
+      "name": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
+      "price": 39.9,
+      "original_price": 83.12,
+      "discount": 52.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
+      "link": "https://s.shopee.com.br/4B149GanzX",
+      "rating": "4.8",
+      "sales": 765,
+      "shop": "Facilita Lar.",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22893806671,
+        "productName": "Cafeteira Italiana Inox Premium Expressa Fogão Gás e Elétrico 4 Xicaras 200ml 6 Xicaras 300ml 9 Xicaras 450 ml",
+        "price": "39.9",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.13",
+        "sales": 765,
+        "ratingStar": "4.8",
+        "shopName": "Facilita Lar.",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-moso6vp1tekge9",
+        "productLink": "https://shopee.com.br/product/1461473610/22893806671",
+        "offerLink": "https://s.shopee.com.br/4B149GanzX"
       },
       "_last_price": null
     },
@@ -24724,8 +24753,8 @@
     {
       "id": "3991806184",
       "name": "Relógio Retrô Vintagem Unissex metal digital feminino e masculino",
-      "price": 14.98,
-      "original_price": 21.71,
+      "price": 14.99,
+      "original_price": 21.72,
       "discount": 31.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/d2f3abd2f6970938a308ae7eb1dced3a",
@@ -24738,7 +24767,7 @@
       "_item": {
         "itemId": 3991806184,
         "productName": "Relógio Retrô Vintagem Unissex metal digital feminino e masculino",
-        "price": "14.98",
+        "price": "14.99",
         "priceDiscountRate": 31,
         "commissionRate": "0.03",
         "sales": 3923,
