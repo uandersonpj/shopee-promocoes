@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T17:38:16.758953+00:00",
+  "updated_at": "2026-10-29T17:57:44.858964+00:00",
   "total": 1119,
   "products": [
     {
@@ -143,8 +143,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m94jsi5hwaol47",
         "productLink": "https://shopee.com.br/product/1127030290/23593603405",
         "offerLink": "https://s.shopee.com.br/6L5aIPFz2u"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23497594302",
@@ -519,6 +518,34 @@
         "offerLink": "https://s.shopee.com.br/5LD36iB06E"
       },
       "_last_price": null
+    },
+    {
+      "id": "57911938287",
+      "name": "Fonte ATX MSI 650W MAG 2.4 PCIE 80 Plus Bronze 306-7ZPAX39-HH9",
+      "price": 319.0,
+      "original_price": 1595.0,
+      "discount": 80.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
+      "link": "https://s.shopee.com.br/gRDY0wOXS",
+      "rating": "5",
+      "sales": 1746,
+      "shop": "TNTinfoLoja",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 57911938287,
+        "productName": "Fonte ATX MSI 650W MAG 2.4 PCIE 80 Plus Bronze 306-7ZPAX39-HH9",
+        "price": "319",
+        "priceDiscountRate": 80,
+        "commissionRate": "0.06",
+        "sales": 1746,
+        "ratingStar": "5",
+        "shopName": "TNTinfoLoja",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
+        "productLink": "https://shopee.com.br/product/344381236/57911938287",
+        "offerLink": "https://s.shopee.com.br/gRDY0wOXS"
+      }
     },
     {
       "id": "21897981294",
@@ -2076,7 +2103,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpwm1rqctatfc5",
         "productLink": "https://shopee.com.br/product/347988064/9212570285",
         "offerLink": "https://s.shopee.com.br/4Vdw792XON"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23298719961",
@@ -5552,35 +5580,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lo6awj26ytdz62",
         "productLink": "https://shopee.com.br/product/461633669/22197152684",
         "offerLink": "https://s.shopee.com.br/6L5aIT5ZJ9"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23594527100",
-      "name": "Moedor Elérico Multifuncional de Café e Especiarias 110V  Aço Inoxidável 4 Lâminas",
-      "price": 36.99,
-      "original_price": 99.97,
-      "discount": 63.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823pt-molhwbuqrrwsa8",
-      "link": "https://s.shopee.com.br/8VA4sXGXkM",
-      "rating": "4.8",
-      "sales": 3554,
-      "shop": "Dong Sheng Presente LTDA",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23594527100,
-        "productName": "Moedor Elérico Multifuncional de Café e Especiarias 110V  Aço Inoxidável 4 Lâminas",
-        "price": "36.99",
-        "priceDiscountRate": 63,
-        "commissionRate": "0.03",
-        "sales": 3554,
-        "ratingStar": "4.8",
-        "shopName": "Dong Sheng Presente LTDA",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pt-molhwbuqrrwsa8",
-        "productLink": "https://shopee.com.br/product/794850458/23594527100",
-        "offerLink": "https://s.shopee.com.br/8VA4sXGXkM"
       },
       "_last_price": null
     },
@@ -11877,35 +11876,6 @@
       "_last_price": null
     },
     {
-      "id": "22598355481",
-      "name": "Tenis feminino Casual Sapatenis Branco Leve Confortável Dia a Dia",
-      "price": 22.89,
-      "original_price": 47.69,
-      "discount": 52.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-msbisi8l3ldx89",
-      "link": "https://s.shopee.com.br/6fiQhBIVqZ",
-      "rating": "4.7",
-      "sales": 1792,
-      "shop": "Aranda Shoes",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22598355481,
-        "productName": "Tenis feminino Casual Sapatenis Branco Leve Confortável Dia a Dia",
-        "price": "22.89",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 1792,
-        "ratingStar": "4.7",
-        "shopName": "Aranda Shoes",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-msbisi8l3ldx89",
-        "productLink": "https://shopee.com.br/product/1505006777/22598355481",
-        "offerLink": "https://s.shopee.com.br/6fiQhBIVqZ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20399869941",
       "name": "Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente",
       "price": 28.51,
@@ -12807,8 +12777,8 @@
     {
       "id": "23693480962",
       "name": "Placa adaptadora FENVI M.2 NVME SSD para PCIE X1, placa de expansão SSD PCIe 3.0 4.0 para PC",
-      "price": 29.99,
-      "original_price": 59.98,
+      "price": 39.99,
+      "original_price": 79.98,
       "discount": 50.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1j18cq91c081d",
@@ -12821,7 +12791,7 @@
       "_item": {
         "itemId": 23693480962,
         "productName": "Placa adaptadora FENVI M.2 NVME SSD para PCIE X1, placa de expansão SSD PCIe 3.0 4.0 para PC",
-        "price": "29.99",
+        "price": "39.99",
         "priceDiscountRate": 50,
         "commissionRate": "0.03",
         "sales": 26,
@@ -13878,6 +13848,35 @@
       "_last_price": null
     },
     {
+      "id": "22598355481",
+      "name": "Tenis feminino Casual Sapatenis Branco Leve Confortável Dia a Dia",
+      "price": 23.9,
+      "original_price": 47.8,
+      "discount": 50.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-msbisi8l3ldx89",
+      "link": "https://s.shopee.com.br/6fiQhBIVqZ",
+      "rating": "4.7",
+      "sales": 1792,
+      "shop": "Aranda Shoes",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22598355481,
+        "productName": "Tenis feminino Casual Sapatenis Branco Leve Confortável Dia a Dia",
+        "price": "23.9",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 1792,
+        "ratingStar": "4.7",
+        "shopName": "Aranda Shoes",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-msbisi8l3ldx89",
+        "productLink": "https://shopee.com.br/product/1505006777/22598355481",
+        "offerLink": "https://s.shopee.com.br/6fiQhBIVqZ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58208798751",
       "name": "TOMI MITO Bolsa Transversal Feminina Vintage Couro PU Compacta e Organizada para Uso Diário TM9176 ",
       "price": 64.34,
@@ -14197,35 +14196,6 @@
       "_last_price": null
     },
     {
-      "id": "19403621266",
-      "name": "100 Pçs/Caixa Cascos De Aço Carbono Isca De Peixe Jig Pesca Círculo Acessórios Da Carpa Equipamentos De Engrenagem Face Com Perfurado",
-      "price": 11.0,
-      "original_price": 22.0,
-      "discount": 50.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/1f2d37be391f345f756d41a3f6a0d150",
-      "link": "https://s.shopee.com.br/3LRzarU9bN",
-      "rating": "4.6",
-      "sales": 139,
-      "shop": "NYAYEO Vida ao ar livre",
-      "category": "caixa de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19403621266,
-        "productName": "100 Pçs/Caixa Cascos De Aço Carbono Isca De Peixe Jig Pesca Círculo Acessórios Da Carpa Equipamentos De Engrenagem Face Com Perfurado",
-        "price": "11",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.07",
-        "sales": 139,
-        "ratingStar": "4.6",
-        "shopName": "NYAYEO Vida ao ar livre",
-        "imageUrl": "https://cf.shopee.com.br/file/1f2d37be391f345f756d41a3f6a0d150",
-        "productLink": "https://shopee.com.br/product/654851978/19403621266",
-        "offerLink": "https://s.shopee.com.br/3LRzarU9bN"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23199448516",
       "name": "Kit  Alicates Bijuteria Semijoia Artesanato Pesca Pinças Eletrônica",
       "price": 24.99,
@@ -14454,35 +14424,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztn-mkl0jgpjbnr623",
         "productLink": "https://shopee.com.br/product/1285432434/52606084679",
         "offerLink": "https://s.shopee.com.br/5q9JhVGWON"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23593130581",
-      "name": "FONTE ATX 24 PINOS APARTIR DE 200 W PADRÃO - LEIA A DESCRIÇÃO",
-      "price": 29.9,
-      "original_price": 58.63,
-      "discount": 49.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mra5i3qbyrrbf5",
-      "link": "https://s.shopee.com.br/1BXH2NkK3",
-      "rating": "4.5",
-      "sales": 41,
-      "shop": "info.monkey",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23593130581,
-        "productName": "FONTE ATX 24 PINOS APARTIR DE 200 W PADRÃO - LEIA A DESCRIÇÃO",
-        "price": "29.9",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.09",
-        "sales": 41,
-        "ratingStar": "4.5",
-        "shopName": "info.monkey",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mra5i3qbyrrbf5",
-        "productLink": "https://shopee.com.br/product/399801749/23593130581",
-        "offerLink": "https://s.shopee.com.br/1BXH2NkK3"
       },
       "_last_price": null
     },
@@ -21246,8 +21187,8 @@
     {
       "id": "22394414025",
       "name": "Kit 32 Fraldas Geriátricas Unissex ConfortMaster Pants  P/M G/EG Calcinha/Cueca Incontinência Severa",
-      "price": 79.98,
-      "original_price": 126.95,
+      "price": 79.99,
+      "original_price": 126.97,
       "discount": 37.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mflkux3b9af954",
@@ -21260,7 +21201,7 @@
       "_item": {
         "itemId": 22394414025,
         "productName": "Kit 32 Fraldas Geriátricas Unissex ConfortMaster Pants  P/M G/EG Calcinha/Cueca Incontinência Severa",
-        "price": "79.98",
+        "price": "79.99",
         "priceDiscountRate": 37,
         "commissionRate": "0.03",
         "sales": 2051,
@@ -22577,6 +22518,35 @@
       "_last_price": null
     },
     {
+      "id": "23399039236",
+      "name": "Caixa Térmica Portátil Praia Camping Viagem Pesca Piquenique 42 Litros Promoção Envio Rápido",
+      "price": 77.4,
+      "original_price": 119.08,
+      "discount": 35.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9pkezyocn519",
+      "link": "https://s.shopee.com.br/AKbj3ypwgg",
+      "rating": "4.9",
+      "sales": 399,
+      "shop": "JPB  E-commerce",
+      "category": "caixa de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23399039236,
+        "productName": "Caixa Térmica Portátil Praia Camping Viagem Pesca Piquenique 42 Litros Promoção Envio Rápido",
+        "price": "77.4",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.08",
+        "sales": 399,
+        "ratingStar": "4.9",
+        "shopName": "JPB  E-commerce",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9pkezyocn519",
+        "productLink": "https://shopee.com.br/product/426635160/23399039236",
+        "offerLink": "https://s.shopee.com.br/AKbj3ypwgg"
+      },
+      "_last_price": null
+    },
+    {
       "id": "10119932334",
       "name": "5/25/50Pcs Pesca Vara De Luz Fluorescente Lightstick Flutuador Noite Vara Luz Escuro Vara Brilho Útil Lotes De Pesca",
       "price": 9.23,
@@ -22747,35 +22717,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx5-md3l11xxt7wuff",
         "productLink": "https://shopee.com.br/product/1729294719/58213546442",
         "offerLink": "https://s.shopee.com.br/6fiQh54IdF"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "13432704835",
-      "name": "NIVEA Creme Hidratante Lata 145g",
-      "price": 34.9,
-      "original_price": 52.88,
-      "discount": 34.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meeb6o4j241s19",
-      "link": "https://s.shopee.com.br/8fTV4mD7mE",
-      "rating": "5",
-      "sales": 1700,
-      "shop": "NIVEA OFICIAL",
-      "category": "creme facial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 13432704835,
-        "productName": "NIVEA Creme Hidratante Lata 145g",
-        "price": "34.9",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.06",
-        "sales": 1700,
-        "ratingStar": "5",
-        "shopName": "NIVEA OFICIAL",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meeb6o4j241s19",
-        "productLink": "https://shopee.com.br/product/502619181/13432704835",
-        "offerLink": "https://s.shopee.com.br/8fTV4mD7mE"
       },
       "_last_price": null
     },
@@ -24897,6 +24838,35 @@
       "_last_price": null
     },
     {
+      "id": "58203196585",
+      "name": "Dissipador De Calor SSD M.2 NVMe 2280 Heatsink PCYES PHS2280BK Compatível PS5 PC Gamer",
+      "price": 41.99,
+      "original_price": 59.99,
+      "discount": 30.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mosm0cyuvrpf79",
+      "link": "https://s.shopee.com.br/1W0KXVpM8x",
+      "rating": "5",
+      "sales": 43,
+      "shop": "PHMAISTECH",
+      "category": "ssd nvme",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58203196585,
+        "productName": "Dissipador De Calor SSD M.2 NVMe 2280 Heatsink PCYES PHS2280BK Compatível PS5 PC Gamer",
+        "price": "41.99",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.03",
+        "sales": 43,
+        "ratingStar": "5",
+        "shopName": "PHMAISTECH",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mosm0cyuvrpf79",
+        "productLink": "https://shopee.com.br/product/323795687/58203196585",
+        "offerLink": "https://s.shopee.com.br/1W0KXVpM8x"
+      },
+      "_last_price": null
+    },
+    {
       "id": "50167014627",
       "name": "Mini Jesus Cristo Sentado 5cm Enfeite Decorativo para Mesa Monitor Nicho",
       "price": 16.9,
@@ -26463,6 +26433,35 @@
       "_last_price": null
     },
     {
+      "id": "22493344923",
+      "name": "Necessaire Feminina Personalizada com Inicial Box com Alça Porta Maquiagem Bolsa Viagem",
+      "price": 17.92,
+      "original_price": 24.89,
+      "discount": 28.0,
+      "commission": 16.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mm9n38usw7wn9a",
+      "link": "https://s.shopee.com.br/1gJkjztLvO",
+      "rating": "4.9",
+      "sales": 5990,
+      "shop": "GB Gift",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22493344923,
+        "productName": "Necessaire Feminina Personalizada com Inicial Box com Alça Porta Maquiagem Bolsa Viagem",
+        "price": "17.92",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.16",
+        "sales": 5990,
+        "ratingStar": "4.9",
+        "shopName": "GB Gift",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mm9n38usw7wn9a",
+        "productLink": "https://shopee.com.br/product/419086451/22493344923",
+        "offerLink": "https://s.shopee.com.br/1gJkjztLvO"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23493418176",
       "name": "Kit 3 Panos de Chão Microfibra 70x60cm Furo para Rodo Dupla Camada",
       "price": 25.99,
@@ -26633,35 +26632,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mmqfwqq71vcw90",
         "productLink": "https://shopee.com.br/product/379103154/58208305021",
         "offerLink": "https://s.shopee.com.br/20wb8bIg9i"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22493344923",
-      "name": "Necessaire Feminina Personalizada com Inicial Box com Alça Porta Maquiagem Bolsa Viagem",
-      "price": 17.92,
-      "original_price": 24.89,
-      "discount": 28.0,
-      "commission": 16.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mm9n38usw7wn9a",
-      "link": "https://s.shopee.com.br/1gJkjztLvO",
-      "rating": "4.9",
-      "sales": 5990,
-      "shop": "GB Gift",
-      "category": "bolsa feminina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22493344923,
-        "productName": "Necessaire Feminina Personalizada com Inicial Box com Alça Porta Maquiagem Bolsa Viagem",
-        "price": "17.92",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.16",
-        "sales": 5990,
-        "ratingStar": "4.9",
-        "shopName": "GB Gift",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mm9n38usw7wn9a",
-        "productLink": "https://shopee.com.br/product/419086451/22493344923",
-        "offerLink": "https://s.shopee.com.br/1gJkjztLvO"
       },
       "_last_price": null
     },
@@ -27271,35 +27241,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7reph-m81n33b5b2qf35",
         "productLink": "https://shopee.com.br/product/935991633/43560768226",
         "offerLink": "https://s.shopee.com.br/70LH5tNcUG"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58217415885",
-      "name": "SSD Western Digital WD Green SN350 1TB NVMe M.2 2280",
-      "price": 1049.0,
-      "original_price": 1398.67,
-      "discount": 25.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mg-msmre8q9knb9f6",
-      "link": "https://s.shopee.com.br/6L5asfRS8M",
-      "rating": "5",
-      "sales": 11,
-      "shop": "Prime essences",
-      "category": "ssd nvme",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58217415885,
-        "productName": "SSD Western Digital WD Green SN350 1TB NVMe M.2 2280",
-        "price": "1049",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.08",
-        "sales": 11,
-        "ratingStar": "5",
-        "shopName": "Prime essences",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-msmre8q9knb9f6",
-        "productLink": "https://shopee.com.br/product/1517155365/58217415885",
-        "offerLink": "https://s.shopee.com.br/6L5asfRS8M"
       },
       "_last_price": null
     },
@@ -28170,6 +28111,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1jvmgodmffube",
         "productLink": "https://shopee.com.br/product/1347491961/23993471317",
         "offerLink": "https://s.shopee.com.br/LoN9Qjeli"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "13432704835",
+      "name": "NIVEA Creme Hidratante Lata 145g",
+      "price": 39.99,
+      "original_price": 52.62,
+      "discount": 24.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meeb6o4j241s19",
+      "link": "https://s.shopee.com.br/8fTV4mD7mE",
+      "rating": "5",
+      "sales": 1700,
+      "shop": "NIVEA OFICIAL",
+      "category": "creme facial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 13432704835,
+        "productName": "NIVEA Creme Hidratante Lata 145g",
+        "price": "39.99",
+        "priceDiscountRate": 24,
+        "commissionRate": "0.06",
+        "sales": 1700,
+        "ratingStar": "5",
+        "shopName": "NIVEA OFICIAL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meeb6o4j241s19",
+        "productLink": "https://shopee.com.br/product/502619181/13432704835",
+        "offerLink": "https://s.shopee.com.br/8fTV4mD7mE"
       },
       "_last_price": null
     },
@@ -29504,6 +29474,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtf7xo9iscg26e",
         "productLink": "https://shopee.com.br/product/1246701013/22197602404",
         "offerLink": "https://s.shopee.com.br/3B8YWifeQC"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "51007468236",
+      "name": "Garrafa Térmica Café Berlim 1L Luxo Dourada Cabo de Madeira Cafeteira Chá Água Decorativo Mesa Posta",
+      "price": 59.99,
+      "original_price": 75.94,
+      "discount": 21.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8260t-mm21ntv48iko9c",
+      "link": "https://s.shopee.com.br/3g4p7eYwYt",
+      "rating": "4.8",
+      "sales": 733,
+      "shop": "Roc & Rod Megashop",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 51007468236,
+        "productName": "Garrafa Térmica Café Berlim 1L Luxo Dourada Cabo de Madeira Cafeteira Chá Água Decorativo Mesa Posta",
+        "price": "59.99",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.07",
+        "sales": 733,
+        "ratingStar": "4.8",
+        "shopName": "Roc & Rod Megashop",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260t-mm21ntv48iko9c",
+        "productLink": "https://shopee.com.br/product/1386797050/51007468236",
+        "offerLink": "https://s.shopee.com.br/3g4p7eYwYt"
       },
       "_last_price": null
     },
