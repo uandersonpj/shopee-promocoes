@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29T21:36:23.644044+00:00",
-  "total": 1118,
+  "updated_at": "2026-10-29T21:55:54.637094+00:00",
+  "total": 1119,
   "products": [
     {
       "id": "52807406192",
@@ -748,7 +748,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-ms6hxutagw04bd",
         "productLink": "https://shopee.com.br/product/1506274241/22694660203",
         "offerLink": "https://s.shopee.com.br/8VA4sbfKJh"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22492388439",
@@ -1324,8 +1325,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1xeanm14pt61d",
         "productLink": "https://shopee.com.br/product/1017646777/22198016021",
         "offerLink": "https://s.shopee.com.br/AUv9mOpzfB"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "50052384985",
@@ -4370,8 +4370,8 @@
     {
       "id": "23699159711",
       "name": "Creme Tira Manchas Acaba com Melasma e Ação Antienvelhecimento Original 50g NatyFlora",
-      "price": 11.98,
-      "original_price": 35.24,
+      "price": 11.99,
+      "original_price": 35.26,
       "discount": 66.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgrz903d9d6v03",
@@ -4384,7 +4384,7 @@
       "_item": {
         "itemId": 23699159711,
         "productName": "Creme Tira Manchas Acaba com Melasma e Ação Antienvelhecimento Original 50g NatyFlora",
-        "price": "11.98",
+        "price": "11.99",
         "priceDiscountRate": 66,
         "commissionRate": "0.08",
         "sales": 2349,
@@ -9759,6 +9759,35 @@
       "_last_price": null
     },
     {
+      "id": "23793815332",
+      "name": "Flashdog Ração para Cães Adultos 15 kg – Nutrição Completa e Econômica",
+      "price": 69.9,
+      "original_price": 155.33,
+      "discount": 55.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lq-mrxsm46n6yo42d",
+      "link": "https://s.shopee.com.br/LoO2asGEZ",
+      "rating": "4.9",
+      "sales": 542,
+      "shop": "Topfive.Business",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23793815332,
+        "productName": "Flashdog Ração para Cães Adultos 15 kg – Nutrição Completa e Econômica",
+        "price": "69.9",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.03",
+        "sales": 542,
+        "ratingStar": "4.9",
+        "shopName": "Topfive.Business",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mrxsm46n6yo42d",
+        "productLink": "https://shopee.com.br/product/327707556/23793815332",
+        "offerLink": "https://s.shopee.com.br/LoO2asGEZ"
+      },
+      "_last_price": null
+    },
+    {
       "id": "17686897164",
       "name": "Kit Cozinha Infantil Brinquedo peça Air Fryer Panela Fogão Comidinha Eletrodoméstico Utensílio",
       "price": 39.94,
@@ -10103,6 +10132,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-msv0zvvqe8ei13",
         "productLink": "https://shopee.com.br/product/1604972581/46407635136",
         "offerLink": "https://s.shopee.com.br/6VP0UiWC3W"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58256283885",
+      "name": "Repetidor WiFi Profissional 2800m 6 Antenas Roteador Amplificador de Sinal Modem 1200Mbps",
+      "price": 52.99,
+      "original_price": 115.2,
+      "discount": 54.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mtepll80622q85",
+      "link": "https://s.shopee.com.br/8AXETmPqg8",
+      "rating": "4.9",
+      "sales": 160,
+      "shop": "SULAN SELL",
+      "category": "roteador wifi",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58256283885,
+        "productName": "Repetidor WiFi Profissional 2800m 6 Antenas Roteador Amplificador de Sinal Modem 1200Mbps",
+        "price": "52.99",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.03",
+        "sales": 160,
+        "ratingStar": "4.9",
+        "shopName": "SULAN SELL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mtepll80622q85",
+        "productLink": "https://shopee.com.br/product/1599453710/58256283885",
+        "offerLink": "https://s.shopee.com.br/8AXETmPqg8"
       },
       "_last_price": null
     },
@@ -11217,7 +11275,7 @@
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mrh6fmfnyux0af",
       "link": "https://s.shopee.com.br/6AmA6MQnBD",
-      "rating": "4.7",
+      "rating": "4.8",
       "sales": 27,
       "shop": "Trilha Viva",
       "category": "luva pesca",
@@ -11229,7 +11287,7 @@
         "priceDiscountRate": 53,
         "commissionRate": "0.11",
         "sales": 27,
-        "ratingStar": "4.7",
+        "ratingStar": "4.8",
         "shopName": "Trilha Viva",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mrh6fmfnyux0af",
         "productLink": "https://shopee.com.br/product/1836115036/58265039273",
@@ -16901,7 +16959,7 @@
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mddlkjk94ppuaa",
       "link": "https://s.shopee.com.br/8VA4sN2z4u",
-      "rating": "4.9",
+      "rating": "5",
       "sales": 3259,
       "shop": "PAPEL.PAPELARIA",
       "category": "notebook",
@@ -16913,7 +16971,7 @@
         "priceDiscountRate": 44,
         "commissionRate": "0.09",
         "sales": 3259,
-        "ratingStar": "4.9",
+        "ratingStar": "5",
         "shopName": "PAPEL.PAPELARIA",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mddlkjk94ppuaa",
         "productLink": "https://shopee.com.br/product/1046010418/23898801446",
@@ -21185,35 +21243,6 @@
       "_last_price": null
     },
     {
-      "id": "19699704487",
-      "name": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
-      "price": 189.99,
-      "original_price": 301.57,
-      "discount": 37.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
-      "link": "https://s.shopee.com.br/3g4p7bR9ST",
-      "rating": "4.9",
-      "sales": 4957,
-      "shop": "Monkey toys",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19699704487,
-        "productName": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
-        "price": "189.99",
-        "priceDiscountRate": 37,
-        "commissionRate": "0.07",
-        "sales": 4957,
-        "ratingStar": "4.9",
-        "shopName": "Monkey toys",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
-        "productLink": "https://shopee.com.br/product/406894684/19699704487",
-        "offerLink": "https://s.shopee.com.br/3g4p7bR9ST"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23194389000",
       "name": "Whey Protein Com 32g De Proteína 2kg - Pro Force Nutrition",
       "price": 129.0,
@@ -22142,6 +22171,35 @@
       "_last_price": null
     },
     {
+      "id": "19699704487",
+      "name": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
+      "price": 195.99,
+      "original_price": 301.52,
+      "discount": 35.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
+      "link": "https://s.shopee.com.br/3g4p7bR9ST",
+      "rating": "4.9",
+      "sales": 4957,
+      "shop": "Monkey toys",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19699704487,
+        "productName": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
+        "price": "195.99",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.07",
+        "sales": 4957,
+        "ratingStar": "4.9",
+        "shopName": "Monkey toys",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
+        "productLink": "https://shopee.com.br/product/406894684/19699704487",
+        "offerLink": "https://s.shopee.com.br/3g4p7bR9ST"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22298895580",
       "name": "Novo 2026 Caminhão Dinossauro engolidor e Porta-carrinhos com 4 Carrinhos de Fricção.🚚",
       "price": 63.99,
@@ -22776,35 +22834,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-msho1bjgdts6a2",
         "productLink": "https://shopee.com.br/product/327707556/58254463290",
         "offerLink": "https://s.shopee.com.br/9fM2Gehi0d"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "16992281628",
-      "name": "Ração Special Dog Carne Plus Adulto Premium 15 kg",
-      "price": 109.99,
-      "original_price": 166.65,
-      "discount": 34.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7qukw-li7njywzzz913e",
-      "link": "https://s.shopee.com.br/5fpu1XlaXZ",
-      "rating": "4.9",
-      "sales": 574,
-      "shop": "PORTAL PET AGRO LTDA ME",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 16992281628,
-        "productName": "Ração Special Dog Carne Plus Adulto Premium 15 kg",
-        "price": "109.99",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.03",
-        "sales": 574,
-        "ratingStar": "4.9",
-        "shopName": "PORTAL PET AGRO LTDA ME",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li7njywzzz913e",
-        "productLink": "https://shopee.com.br/product/464043565/16992281628",
-        "offerLink": "https://s.shopee.com.br/5fpu1XlaXZ"
       },
       "_last_price": null
     },
