@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T08:16:43.379188+00:00",
+  "updated_at": "2026-10-29T08:35:20.677377+00:00",
   "total": 1118,
   "products": [
     {
@@ -637,6 +637,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-825a2-mgdcr60zrwgcdc",
         "productLink": "https://shopee.com.br/product/1006215031/51250897834",
         "offerLink": "https://s.shopee.com.br/9APlfmznD0"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18299069073",
+      "name": "Vara De Pesca Carretilha Pesca 17+1 Rolamentos JOYFOX",
+      "price": 39.0,
+      "original_price": 195.0,
+      "discount": 80.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk90kkju10qp3b",
+      "link": "https://s.shopee.com.br/4qGmVpqRsq",
+      "rating": "4.8",
+      "sales": 265,
+      "shop": "JOYFOX",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18299069073,
+        "productName": "Vara De Pesca Carretilha Pesca 17+1 Rolamentos JOYFOX",
+        "price": "39",
+        "priceDiscountRate": 80,
+        "commissionRate": "0.07",
+        "sales": 265,
+        "ratingStar": "4.8",
+        "shopName": "JOYFOX",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk90kkju10qp3b",
+        "productLink": "https://shopee.com.br/product/1063922972/18299069073",
+        "offerLink": "https://s.shopee.com.br/4qGmVpqRsq"
       },
       "_last_price": null
     },
@@ -1536,35 +1565,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lx608umcst6nde",
         "productLink": "https://shopee.com.br/product/1005998142/23097615562",
         "offerLink": "https://s.shopee.com.br/2BG1KurRuX"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18299069073",
-      "name": "Vara De Pesca Carretilha Pesca 17+1 Rolamentos JOYFOX",
-      "price": 49.0,
-      "original_price": 196.0,
-      "discount": 75.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk90kkju10qp3b",
-      "link": "https://s.shopee.com.br/4qGmVpqRsq",
-      "rating": "4.8",
-      "sales": 265,
-      "shop": "JOYFOX",
-      "category": "carretilha pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18299069073,
-        "productName": "Vara De Pesca Carretilha Pesca 17+1 Rolamentos JOYFOX",
-        "price": "49",
-        "priceDiscountRate": 75,
-        "commissionRate": "0.07",
-        "sales": 265,
-        "ratingStar": "4.8",
-        "shopName": "JOYFOX",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk90kkju10qp3b",
-        "productLink": "https://shopee.com.br/product/1063922972/18299069073",
-        "offerLink": "https://s.shopee.com.br/4qGmVpqRsq"
       },
       "_last_price": null
     },
@@ -6319,7 +6319,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvg2-lg2m7nbjxgeu6e",
         "productLink": "https://shopee.com.br/product/398944029/22195574463",
         "offerLink": "https://s.shopee.com.br/4qGmVmHQvi"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58256996145",
