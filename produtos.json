@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T21:55:35.793377+00:00",
-  "total": 1113,
+  "updated_at": "2026-10-30T22:15:07.309988+00:00",
+  "total": 1114,
   "products": [
     {
       "id": "52807406192",
@@ -1756,7 +1756,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-msxgtp629z477b",
         "productLink": "https://shopee.com.br/product/424883518/23098214172",
         "offerLink": "https://s.shopee.com.br/1qdAwKoGaS"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58266336951",
@@ -6423,35 +6424,6 @@
       "_last_price": null
     },
     {
-      "id": "41180569454",
-      "name": "ADAMES Protetor De 2 Dedos Luva Antiderrapante Acessório De Pesca Equipamento Polegar E Dedo Indicador De Fundição",
-      "price": 10.38,
-      "original_price": 27.32,
-      "discount": 62.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-820nd-mnrai13o7nra62",
-      "link": "https://s.shopee.com.br/5LD36pTxs6",
-      "rating": "5",
-      "sales": 25,
-      "shop": "selvalink.br",
-      "category": "luva pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41180569454,
-        "productName": "ADAMES Protetor De 2 Dedos Luva Antiderrapante Acessório De Pesca Equipamento Polegar E Dedo Indicador De Fundição",
-        "price": "10.38",
-        "priceDiscountRate": 62,
-        "commissionRate": "0.03",
-        "sales": 25,
-        "ratingStar": "5",
-        "shopName": "selvalink.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820nd-mnrai13o7nra62",
-        "productLink": "https://shopee.com.br/product/1787956512/41180569454",
-        "offerLink": "https://s.shopee.com.br/5LD36pTxs6"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23893497572",
       "name": "Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medidor Oxigênio Recarregável Pulse Yihan",
       "price": 25.99,
@@ -6535,8 +6507,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82281-mhf7fpjbncwa3c",
         "productLink": "https://shopee.com.br/product/1502662038/22194727361",
         "offerLink": "https://s.shopee.com.br/gRFgWukBj"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "46360468172",
@@ -11324,35 +11295,6 @@
       "_last_price": null
     },
     {
-      "id": "58265039273",
-      "name": "Luvas De Pesca Ajustáveis Para Homens E Mulheres Proteção Para Pegar Peixes Antiderrapante Resistente",
-      "price": 20.99,
-      "original_price": 44.66,
-      "discount": 53.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mrh6fmfnyux0af",
-      "link": "https://s.shopee.com.br/6AmA6MQnBD",
-      "rating": "4.7",
-      "sales": 33,
-      "shop": "Trilha Viva",
-      "category": "luva pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58265039273,
-        "productName": "Luvas De Pesca Ajustáveis Para Homens E Mulheres Proteção Para Pegar Peixes Antiderrapante Resistente",
-        "price": "20.99",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.11",
-        "sales": 33,
-        "ratingStar": "4.7",
-        "shopName": "Trilha Viva",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mrh6fmfnyux0af",
-        "productLink": "https://shopee.com.br/product/1836115036/58265039273",
-        "offerLink": "https://s.shopee.com.br/6AmA6MQnBD"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23198950047",
       "name": "Mochila Grande Reforçada Impermeável Notebook Masculina Feminina Escola Trabalho",
       "price": 36.07,
@@ -13495,35 +13437,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260p-mjq1i2bmpz44d2",
         "productLink": "https://shopee.com.br/product/1564303923/23399289696",
         "offerLink": "https://s.shopee.com.br/3LS0rV0Zi6"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "42062326439",
-      "name": "Boneca Com Chupeta Mamadeira Lola BabyRosa Menina Brinquedo Infantil Bebê Boneca Com Carrinho",
-      "price": 33.99,
-      "original_price": 67.98,
-      "discount": 50.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mo0hchb9h79g27",
-      "link": "https://s.shopee.com.br/50aE7sf03n",
-      "rating": "4.7",
-      "sales": 1489,
-      "shop": "Larietha.",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42062326439,
-        "productName": "Boneca Com Chupeta Mamadeira Lola BabyRosa Menina Brinquedo Infantil Bebê Boneca Com Carrinho",
-        "price": "33.99",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.12",
-        "sales": 1489,
-        "ratingStar": "4.7",
-        "shopName": "Larietha.",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mo0hchb9h79g27",
-        "productLink": "https://shopee.com.br/product/666400036/42062326439",
-        "offerLink": "https://s.shopee.com.br/50aE7sf03n"
       },
       "_last_price": null
     },
@@ -18806,6 +18719,35 @@
       "_last_price": null
     },
     {
+      "id": "27154919067",
+      "name": "Luvas De Proteção Solar , Fina UV Elásticas De Verão Resistentes Ao Escorregamento De Ciclismo Pesca",
+      "price": 22.28,
+      "original_price": 38.41,
+      "discount": 42.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8258t-mspa0nx7qrcy2f",
+      "link": "https://s.shopee.com.br/1qdDnP5HbG",
+      "rating": "4.9",
+      "sales": 20,
+      "shop": "eucafashion.br",
+      "category": "luva pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 27154919067,
+        "productName": "Luvas De Proteção Solar , Fina UV Elásticas De Verão Resistentes Ao Escorregamento De Ciclismo Pesca",
+        "price": "22.28",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.03",
+        "sales": 20,
+        "ratingStar": "4.9",
+        "shopName": "eucafashion.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258t-mspa0nx7qrcy2f",
+        "productLink": "https://shopee.com.br/product/242919818/27154919067",
+        "offerLink": "https://s.shopee.com.br/1qdDnP5HbG"
+      },
+      "_last_price": null
+    },
+    {
       "id": "41165421078",
       "name": "ACASIS Estação de Conectividade com Bloco para SSD 10Gbps USB-C Magnético com Ventilador de Arrefecimento para Série",
       "price": 235.0,
@@ -20786,7 +20728,7 @@
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-821ec-mha4mjvl7evjb4",
       "link": "https://s.shopee.com.br/8VA716I0ko",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 282,
       "shop": "MEDOOSI-BR",
       "category": "isca artificial",
@@ -20798,7 +20740,7 @@
         "priceDiscountRate": 38,
         "commissionRate": "0.09",
         "sales": 282,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "MEDOOSI-BR",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821ec-mha4mjvl7evjb4",
         "productLink": "https://shopee.com.br/product/1257233492/23599169119",
@@ -23446,6 +23388,35 @@
       "_last_price": null
     },
     {
+      "id": "22198792838",
+      "name": "Carrinho de Controle Remoto Sem fio Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
+      "price": 26.85,
+      "original_price": 40.07,
+      "discount": 33.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcu4r3lbhv5t84",
+      "link": "https://s.shopee.com.br/1qdAwEY8BY",
+      "rating": "4.8",
+      "sales": 1737,
+      "shop": "LifeToys",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22198792838,
+        "productName": "Carrinho de Controle Remoto Sem fio Esportivo Competição Ferrari Lamborghini Bugati Velocidade",
+        "price": "26.85",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.03",
+        "sales": 1737,
+        "ratingStar": "4.8",
+        "shopName": "LifeToys",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcu4r3lbhv5t84",
+        "productLink": "https://shopee.com.br/product/1551770885/22198792838",
+        "offerLink": "https://s.shopee.com.br/1qdAwEY8BY"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58257853789",
       "name": "Kit 4 Chaveiros Academia Fitness Haltere Kettlebell Anilha e Coqueteleira Presente para Treino",
       "price": 19.9,
@@ -25849,6 +25820,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbl1-lnvsaqnslu3qe2",
         "productLink": "https://shopee.com.br/product/1074001909/20597494947",
         "offerLink": "https://s.shopee.com.br/4fxMJb1hkc"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58264128864",
+      "name": "Luva de Ciclismo e Pesca Proteção Solar Seda de Gelo Antiderrapante Respirável Unissex Universal",
+      "price": 23.1,
+      "original_price": 33.0,
+      "discount": 30.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825b2-mqlljyykvz7wdb",
+      "link": "https://s.shopee.com.br/1gJnb65uwF",
+      "rating": "4.9",
+      "sales": 27,
+      "shop": "RHSS MOTO PEÇAS",
+      "category": "luva pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58264128864,
+        "productName": "Luva de Ciclismo e Pesca Proteção Solar Seda de Gelo Antiderrapante Respirável Unissex Universal",
+        "price": "23.1",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.03",
+        "sales": 27,
+        "ratingStar": "4.9",
+        "shopName": "RHSS MOTO PEÇAS",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b2-mqlljyykvz7wdb",
+        "productLink": "https://shopee.com.br/product/1783857404/58264128864",
+        "offerLink": "https://s.shopee.com.br/1gJnb65uwF"
       },
       "_last_price": null
     },
@@ -31939,6 +31939,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134301-7rffe-m9jv6vrrei7d7f",
         "productLink": "https://shopee.com.br/product/1006215031/41357615567",
         "offerLink": "https://s.shopee.com.br/1gJkk0SLQV"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22893504865",
+      "name": "Vara  Joker  telescopica  varias cores e medidas",
+      "price": 21.99,
+      "original_price": 25.87,
+      "discount": 15.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbgsu2l31hped9",
+      "link": "https://s.shopee.com.br/2BG1KycdL5",
+      "rating": "4.8",
+      "sales": 360,
+      "shop": "O Recanto da Pesca e Variedades",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22893504865,
+        "productName": "Vara  Joker  telescopica  varias cores e medidas",
+        "price": "21.99",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.03",
+        "sales": 360,
+        "ratingStar": "4.8",
+        "shopName": "O Recanto da Pesca e Variedades",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbgsu2l31hped9",
+        "productLink": "https://shopee.com.br/product/337645667/22893504865",
+        "offerLink": "https://s.shopee.com.br/2BG1KycdL5"
       },
       "_last_price": null
     },
