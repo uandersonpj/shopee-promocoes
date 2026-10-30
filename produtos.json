@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T06:24:39.824341+00:00",
-  "total": 1114,
+  "updated_at": "2026-10-30T06:43:23.841893+00:00",
+  "total": 1115,
   "products": [
     {
       "id": "52807406192",
@@ -1361,7 +1361,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-moov381auozz7b",
         "productLink": "https://shopee.com.br/product/1613783173/50052384985",
         "offerLink": "https://s.shopee.com.br/40hfWEPgNh"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "42068096428",
@@ -20260,6 +20261,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-22120-5wgswet50clv4e",
         "productLink": "https://shopee.com.br/product/361954967/23413221795",
         "offerLink": "https://s.shopee.com.br/1W0KXkfAgt"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "26936065094",
+      "name": "2 Pçs Ferramenta De Amarração De Nó De Pesca Máquina Linha , De Ligação De Anzol Portátil Acessórios De Gancho De Peixe",
+      "price": 12.39,
+      "original_price": 20.31,
+      "discount": 39.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rff9-m9e4mo9p3kpd4a",
+      "link": "https://s.shopee.com.br/40hfWJg1CB",
+      "rating": "4.8",
+      "sales": 324,
+      "shop": "Baipeak.br",
+      "category": "linha de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 26936065094,
+        "productName": "2 Pçs Ferramenta De Amarração De Nó De Pesca Máquina Linha , De Ligação De Anzol Portátil Acessórios De Gancho De Peixe",
+        "price": "12.39",
+        "priceDiscountRate": 39,
+        "commissionRate": "0.07",
+        "sales": 324,
+        "ratingStar": "4.8",
+        "shopName": "Baipeak.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rff9-m9e4mo9p3kpd4a",
+        "productLink": "https://shopee.com.br/product/1206815216/26936065094",
+        "offerLink": "https://s.shopee.com.br/40hfWJg1CB"
       },
       "_last_price": null
     },
