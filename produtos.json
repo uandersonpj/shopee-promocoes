@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T22:15:07.309988+00:00",
-  "total": 1114,
+  "updated_at": "2026-10-30T22:34:32.992132+00:00",
+  "total": 1112,
   "products": [
     {
       "id": "52807406192",
@@ -773,7 +773,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b5-mrifmn63mzgs53",
         "productLink": "https://shopee.com.br/product/1841804999/49165555882",
         "offerLink": "https://s.shopee.com.br/W7nLvmliF"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58258026087",
@@ -1090,8 +1091,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mo5m3lm7da841f",
         "productLink": "https://shopee.com.br/product/1654851165/58210532717",
         "offerLink": "https://s.shopee.com.br/20wb8Wu6Uo"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22895058213",
@@ -1640,35 +1640,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcw6gui5vk1e01",
         "productLink": "https://shopee.com.br/product/883941882/22498781114",
         "offerLink": "https://s.shopee.com.br/20wdGypfTr"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23118736011",
-      "name": "5/10/20 Peças Pano Absorvente Anti Óleo Para Cozinha /Pano De Microfibra /Toalha De Limpeza De Cozinha/Toalha De Mesa",
-      "price": 11.99,
-      "original_price": 46.12,
-      "discount": 74.0,
-      "commission": 23.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825bd-mtw5oyvd2mm9b8",
-      "link": "https://s.shopee.com.br/9KjEBDIEVq",
-      "rating": "4.6",
-      "sales": 1264,
-      "shop": "mrecearia",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23118736011,
-        "productName": "5/10/20 Peças Pano Absorvente Anti Óleo Para Cozinha /Pano De Microfibra /Toalha De Limpeza De Cozinha/Toalha De Mesa",
-        "price": "11.99",
-        "priceDiscountRate": 74,
-        "commissionRate": "0.23",
-        "sales": 1264,
-        "ratingStar": "4.6",
-        "shopName": "mrecearia",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825bd-mtw5oyvd2mm9b8",
-        "productLink": "https://shopee.com.br/product/593088966/23118736011",
-        "offerLink": "https://s.shopee.com.br/9KjEBDIEVq"
       },
       "_last_price": null
     },
@@ -2685,35 +2656,6 @@
       "_last_price": null
     },
     {
-      "id": "58256902298",
-      "name": "1 CORANTE DE 500ML PARA SABÃO LÍQUIDO, DETERGENTE, DESINFETANTE, AMACIANTE, SABÃO EM PÓ, SABÃO EM BARRA, DIFUSORES P7",
-      "price": 15.0,
-      "original_price": 50.0,
-      "discount": 70.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mls4vl4u95vr88",
-      "link": "https://s.shopee.com.br/AUv9G5ggSA",
-      "rating": "4.8",
-      "sales": 457,
-      "shop": "2i01457rom",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58256902298,
-        "productName": "1 CORANTE DE 500ML PARA SABÃO LÍQUIDO, DETERGENTE, DESINFETANTE, AMACIANTE, SABÃO EM PÓ, SABÃO EM BARRA, DIFUSORES P7",
-        "price": "15",
-        "priceDiscountRate": 70,
-        "commissionRate": "0.13",
-        "sales": 457,
-        "ratingStar": "4.8",
-        "shopName": "2i01457rom",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mls4vl4u95vr88",
-        "productLink": "https://shopee.com.br/product/1744899243/58256902298",
-        "offerLink": "https://s.shopee.com.br/AUv9G5ggSA"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23598083863",
       "name": "5/10 Metros Fita de Vedação de Esponja à Prova de Choque Carro Anti-Ruído Reduzir o Som",
       "price": 17.99,
@@ -3406,6 +3348,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/4d3d9eceb4a23732c4b0f88ec5f6e5fa",
         "productLink": "https://shopee.com.br/product/233660920/21635320174",
         "offerLink": "https://s.shopee.com.br/7AehI8y0Pa"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58256902298",
+      "name": "1 CORANTE DE 500ML PARA SABÃO LÍQUIDO, DETERGENTE, DESINFETANTE, AMACIANTE, SABÃO EM PÓ, SABÃO EM BARRA, DIFUSORES P7",
+      "price": 16.0,
+      "original_price": 50.0,
+      "discount": 68.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mls4vl4u95vr88",
+      "link": "https://s.shopee.com.br/AUv9G5ggSA",
+      "rating": "4.8",
+      "sales": 457,
+      "shop": "2i01457rom",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58256902298,
+        "productName": "1 CORANTE DE 500ML PARA SABÃO LÍQUIDO, DETERGENTE, DESINFETANTE, AMACIANTE, SABÃO EM PÓ, SABÃO EM BARRA, DIFUSORES P7",
+        "price": "16",
+        "priceDiscountRate": 68,
+        "commissionRate": "0.13",
+        "sales": 457,
+        "ratingStar": "4.8",
+        "shopName": "2i01457rom",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mls4vl4u95vr88",
+        "productLink": "https://shopee.com.br/product/1744899243/58256902298",
+        "offerLink": "https://s.shopee.com.br/AUv9G5ggSA"
       },
       "_last_price": null
     },
@@ -6420,6 +6391,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-msz7qbqsswll6a",
         "productLink": "https://shopee.com.br/product/1489642227/49817731610",
         "offerLink": "https://s.shopee.com.br/9pfT1yx2Zp"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "41180569454",
+      "name": "ADAMES Protetor De 2 Dedos Luva Antiderrapante Acessório De Pesca Equipamento Polegar E Dedo Indicador De Fundição",
+      "price": 10.38,
+      "original_price": 27.32,
+      "discount": 62.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-820nd-mnrai13o7nra62",
+      "link": "https://s.shopee.com.br/5LD36pTxs6",
+      "rating": "5",
+      "sales": 25,
+      "shop": "selvalink.br",
+      "category": "luva pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41180569454,
+        "productName": "ADAMES Protetor De 2 Dedos Luva Antiderrapante Acessório De Pesca Equipamento Polegar E Dedo Indicador De Fundição",
+        "price": "10.38",
+        "priceDiscountRate": 62,
+        "commissionRate": "0.03",
+        "sales": 25,
+        "ratingStar": "5",
+        "shopName": "selvalink.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820nd-mnrai13o7nra62",
+        "productLink": "https://shopee.com.br/product/1787956512/41180569454",
+        "offerLink": "https://s.shopee.com.br/5LD36pTxs6"
       },
       "_last_price": null
     },
@@ -11092,35 +11092,6 @@
       "_last_price": null
     },
     {
-      "id": "23997337490",
-      "name": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
-      "price": 23.46,
-      "original_price": 49.91,
-      "discount": 53.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
-      "link": "https://s.shopee.com.br/2VsrjXPAja",
-      "rating": "4.8",
-      "sales": 8921,
-      "shop": "CAZA SHOP",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23997337490,
-        "productName": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
-        "price": "23.46",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.11",
-        "sales": 8921,
-        "ratingStar": "4.8",
-        "shopName": "CAZA SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
-        "productLink": "https://shopee.com.br/product/1059936083/23997337490",
-        "offerLink": "https://s.shopee.com.br/2VsrjXPAja"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23198168284",
       "name": "Boia infantil de natação colete flutuante  de 1 a 6 anos",
       "price": 27.9,
@@ -11291,6 +11262,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvy-md5uor99fcd099",
         "productLink": "https://shopee.com.br/product/1351906187/40661984223",
         "offerLink": "https://s.shopee.com.br/2gCHvueWJs"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58265039273",
+      "name": "Luvas De Pesca Ajustáveis Para Homens E Mulheres Proteção Para Pegar Peixes Antiderrapante Resistente",
+      "price": 20.99,
+      "original_price": 44.66,
+      "discount": 53.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l8-mrh6fmfnyux0af",
+      "link": "https://s.shopee.com.br/6AmA6MQnBD",
+      "rating": "4.8",
+      "sales": 33,
+      "shop": "Trilha Viva",
+      "category": "luva pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58265039273,
+        "productName": "Luvas De Pesca Ajustáveis Para Homens E Mulheres Proteção Para Pegar Peixes Antiderrapante Resistente",
+        "price": "20.99",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.11",
+        "sales": 33,
+        "ratingStar": "4.8",
+        "shopName": "Trilha Viva",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mrh6fmfnyux0af",
+        "productLink": "https://shopee.com.br/product/1836115036/58265039273",
+        "offerLink": "https://s.shopee.com.br/6AmA6MQnBD"
       },
       "_last_price": null
     },
@@ -12538,6 +12538,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98p-ll9k0xrw95jfef",
         "productLink": "https://shopee.com.br/product/324642050/20597347457",
         "offerLink": "https://s.shopee.com.br/4LKVuu1YXm"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23997337490",
+      "name": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
+      "price": 24.5,
+      "original_price": 50.0,
+      "discount": 51.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
+      "link": "https://s.shopee.com.br/2VsrjXPAja",
+      "rating": "4.8",
+      "sales": 8921,
+      "shop": "CAZA SHOP",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23997337490,
+        "productName": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
+        "price": "24.5",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.11",
+        "sales": 8921,
+        "ratingStar": "4.8",
+        "shopName": "CAZA SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
+        "productLink": "https://shopee.com.br/product/1059936083/23997337490",
+        "offerLink": "https://s.shopee.com.br/2VsrjXPAja"
       },
       "_last_price": null
     },
@@ -16254,6 +16283,35 @@
       "_last_price": null
     },
     {
+      "id": "58265081114",
+      "name": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
+      "price": 10.99,
+      "original_price": 19.98,
+      "discount": 45.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
+      "link": "https://s.shopee.com.br/8pmvH3w3EK",
+      "rating": "4.7",
+      "sales": 3542,
+      "shop": "VC5 GLOBAL",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58265081114,
+        "productName": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
+        "price": "10.99",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.13",
+        "sales": 3542,
+        "ratingStar": "4.7",
+        "shopName": "VC5 GLOBAL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
+        "productLink": "https://shopee.com.br/product/1625666693/58265081114",
+        "offerLink": "https://s.shopee.com.br/8pmvH3w3EK"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23998630535",
       "name": "Panos de Chão Microfibra Gigante Kit 6 Un 80x60cm Qualidade Premium Estética automotiva Frete Grátis",
       "price": 38.5,
@@ -18719,35 +18777,6 @@
       "_last_price": null
     },
     {
-      "id": "27154919067",
-      "name": "Luvas De Proteção Solar , Fina UV Elásticas De Verão Resistentes Ao Escorregamento De Ciclismo Pesca",
-      "price": 22.28,
-      "original_price": 38.41,
-      "discount": 42.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8258t-mspa0nx7qrcy2f",
-      "link": "https://s.shopee.com.br/1qdDnP5HbG",
-      "rating": "4.9",
-      "sales": 20,
-      "shop": "eucafashion.br",
-      "category": "luva pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 27154919067,
-        "productName": "Luvas De Proteção Solar , Fina UV Elásticas De Verão Resistentes Ao Escorregamento De Ciclismo Pesca",
-        "price": "22.28",
-        "priceDiscountRate": 42,
-        "commissionRate": "0.03",
-        "sales": 20,
-        "ratingStar": "4.9",
-        "shopName": "eucafashion.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258t-mspa0nx7qrcy2f",
-        "productLink": "https://shopee.com.br/product/242919818/27154919067",
-        "offerLink": "https://s.shopee.com.br/1qdDnP5HbG"
-      },
-      "_last_price": null
-    },
-    {
       "id": "41165421078",
       "name": "ACASIS Estação de Conectividade com Bloco para SSD 10Gbps USB-C Magnético com Ventilador de Arrefecimento para Série",
       "price": 235.0,
@@ -18866,8 +18895,8 @@
     {
       "id": "58258909286",
       "name": "Panos de Chão Gigante Microfibra Multiuso 60x80 Alta Absorção",
-      "price": 29.8,
-      "original_price": 50.51,
+      "price": 29.9,
+      "original_price": 50.68,
       "discount": 41.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mqw4zznwtszo9c",
@@ -18880,7 +18909,7 @@
       "_item": {
         "itemId": 58258909286,
         "productName": "Panos de Chão Gigante Microfibra Multiuso 60x80 Alta Absorção",
-        "price": "29.8",
+        "price": "29.9",
         "priceDiscountRate": 41,
         "commissionRate": "0.03",
         "sales": 9195,
@@ -21592,8 +21621,8 @@
     {
       "id": "23794994613",
       "name": "Escorredor Kitchen Rack Aço Inoxidável Organizador Louça Preto Pia Kitchen Rack Aço Ino",
-      "price": 76.8,
-      "original_price": 120.0,
+      "price": 76.9,
+      "original_price": 120.16,
       "discount": 36.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mpc0kpszssu82c",
@@ -21606,7 +21635,7 @@
       "_item": {
         "itemId": 23794994613,
         "productName": "Escorredor Kitchen Rack Aço Inoxidável Organizador Louça Preto Pia Kitchen Rack Aço Ino",
-        "price": "76.8",
+        "price": "76.9",
         "priceDiscountRate": 36,
         "commissionRate": "0.03",
         "sales": 6656,
@@ -25824,35 +25853,6 @@
       "_last_price": null
     },
     {
-      "id": "58264128864",
-      "name": "Luva de Ciclismo e Pesca Proteção Solar Seda de Gelo Antiderrapante Respirável Unissex Universal",
-      "price": 23.1,
-      "original_price": 33.0,
-      "discount": 30.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825b2-mqlljyykvz7wdb",
-      "link": "https://s.shopee.com.br/1gJnb65uwF",
-      "rating": "4.9",
-      "sales": 27,
-      "shop": "RHSS MOTO PEÇAS",
-      "category": "luva pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58264128864,
-        "productName": "Luva de Ciclismo e Pesca Proteção Solar Seda de Gelo Antiderrapante Respirável Unissex Universal",
-        "price": "23.1",
-        "priceDiscountRate": 30,
-        "commissionRate": "0.03",
-        "sales": 27,
-        "ratingStar": "4.9",
-        "shopName": "RHSS MOTO PEÇAS",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b2-mqlljyykvz7wdb",
-        "productLink": "https://shopee.com.br/product/1783857404/58264128864",
-        "offerLink": "https://s.shopee.com.br/1gJnb65uwF"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23499364961",
       "name": "Detergente Roupa Preta Protege O Preto | Realça A Cor | Evita Desbotamento 1kg AlvejaPro Oficial",
       "price": 33.9,
@@ -28550,35 +28550,6 @@
       "_last_price": null
     },
     {
-      "id": "58202719586",
-      "name": "Panela de Pressão Panelux 4,5L Polida Alumínio Original Reforçada para Fogão a Gas",
-      "price": 69.0,
-      "original_price": 89.61,
-      "discount": 23.0,
-      "commission": 16.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mpm7r3ontt6p0d",
-      "link": "https://s.shopee.com.br/4fxMpjkBfX",
-      "rating": "4.9",
-      "sales": 898,
-      "shop": "Prátika Mix",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58202719586,
-        "productName": "Panela de Pressão Panelux 4,5L Polida Alumínio Original Reforçada para Fogão a Gas",
-        "price": "69",
-        "priceDiscountRate": 23,
-        "commissionRate": "0.16",
-        "sales": 898,
-        "ratingStar": "4.9",
-        "shopName": "Prátika Mix",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mpm7r3ontt6p0d",
-        "productLink": "https://shopee.com.br/product/657277858/58202719586",
-        "offerLink": "https://s.shopee.com.br/4fxMpjkBfX"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23398648677",
       "name": "Anzol base para brincos até 200 peças para bijuterias",
       "price": 12.32,
@@ -28778,35 +28749,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mp3t5spg1berbf",
         "productLink": "https://shopee.com.br/product/1107585845/58255902115",
         "offerLink": "https://s.shopee.com.br/5fptVDi72O"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23993471317",
-      "name": "BB CreamBase/Corretivo com Esponja com Formato de Cogumelo Base Clareador Maquiagem Creme Clareador Cor Marfim e Natural",
-      "price": 27.59,
-      "original_price": 35.37,
-      "discount": 22.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1jvmgodmffube",
-      "link": "https://s.shopee.com.br/LoN9Qjeli",
-      "rating": "4.9",
-      "sales": 12461,
-      "shop": "AMOR SHANG MEI LTDA",
-      "category": "esponja",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23993471317,
-        "productName": "BB CreamBase/Corretivo com Esponja com Formato de Cogumelo Base Clareador Maquiagem Creme Clareador Cor Marfim e Natural",
-        "price": "27.59",
-        "priceDiscountRate": 22,
-        "commissionRate": "0.08",
-        "sales": 12461,
-        "ratingStar": "4.9",
-        "shopName": "AMOR SHANG MEI LTDA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1jvmgodmffube",
-        "productLink": "https://shopee.com.br/product/1347491961/23993471317",
-        "offerLink": "https://s.shopee.com.br/LoN9Qjeli"
       },
       "_last_price": null
     },
@@ -29155,6 +29097,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258l-mfy59n7in6rzd2",
         "productLink": "https://shopee.com.br/product/1349934384/22294553860",
         "offerLink": "https://s.shopee.com.br/4B16Eh7srS"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23993471317",
+      "name": "BB CreamBase/Corretivo com Esponja com Formato de Cogumelo Base Clareador Maquiagem Creme Clareador Cor Marfim e Natural",
+      "price": 27.59,
+      "original_price": 34.92,
+      "discount": 21.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1jvmgodmffube",
+      "link": "https://s.shopee.com.br/LoN9Qjeli",
+      "rating": "4.9",
+      "sales": 12461,
+      "shop": "AMOR SHANG MEI LTDA",
+      "category": "esponja",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23993471317,
+        "productName": "BB CreamBase/Corretivo com Esponja com Formato de Cogumelo Base Clareador Maquiagem Creme Clareador Cor Marfim e Natural",
+        "price": "27.59",
+        "priceDiscountRate": 21,
+        "commissionRate": "0.08",
+        "sales": 12461,
+        "ratingStar": "4.9",
+        "shopName": "AMOR SHANG MEI LTDA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1jvmgodmffube",
+        "productLink": "https://shopee.com.br/product/1347491961/23993471317",
+        "offerLink": "https://s.shopee.com.br/LoN9Qjeli"
       },
       "_last_price": null
     },
@@ -29793,35 +29764,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdubv6wju4s957",
         "productLink": "https://shopee.com.br/product/534023108/19750429680",
         "offerLink": "https://s.shopee.com.br/8fTV4jWgxK"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23393053571",
-      "name": "Huggies Fralda Descartável Premium Natural Care Hipoalergênica RN - 34UN",
-      "price": 43.9,
-      "original_price": 54.87,
-      "discount": 20.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-muupredvyi9se5",
-      "link": "https://s.shopee.com.br/40hheiy2MA",
-      "rating": "5",
-      "sales": 2078,
-      "shop": "Oficial Huggies",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23393053571,
-        "productName": "Huggies Fralda Descartável Premium Natural Care Hipoalergênica RN - 34UN",
-        "price": "43.9",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.03",
-        "sales": 2078,
-        "ratingStar": "5",
-        "shopName": "Oficial Huggies",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-muupredvyi9se5",
-        "productLink": "https://shopee.com.br/product/1261893889/23393053571",
-        "offerLink": "https://s.shopee.com.br/40hheiy2MA"
       },
       "_last_price": null
     },
