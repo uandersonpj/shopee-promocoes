@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T15:21:52.077753+00:00",
+  "updated_at": "2026-10-30T15:41:25.662846+00:00",
   "total": 1114,
   "products": [
     {
@@ -270,7 +270,7 @@
       "commission": 18.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mmz137ddk4cg6c",
       "link": "https://s.shopee.com.br/5fptVFOfug",
-      "rating": "4.6",
+      "rating": "4.7",
       "sales": 4082,
       "shop": "lindaleycosmeticos",
       "category": "shampoo",
@@ -282,7 +282,7 @@
         "priceDiscountRate": 83,
         "commissionRate": "0.18",
         "sales": 4082,
-        "ratingStar": "4.6",
+        "ratingStar": "4.7",
         "shopName": "lindaleycosmeticos",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mmz137ddk4cg6c",
         "productLink": "https://shopee.com.br/product/1467162087/55508691646",
@@ -403,35 +403,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgzgefeazked3d",
         "productLink": "https://shopee.com.br/product/1613332918/22294440400",
         "offerLink": "https://s.shopee.com.br/7Ky7UT1MmK"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23699424696",
-      "name": "Rede de Pesca Dobrável em Nylon – Armadilha Automática para Camarões e Peixes, 6/10/16 Furos, Formato Guarda-Chuva",
-      "price": 18.89,
-      "original_price": 104.94,
-      "discount": 82.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mqpooz7upybn93",
-      "link": "https://s.shopee.com.br/1BWl0ofj6",
-      "rating": "4.9",
-      "sales": 206,
-      "shop": "Vibrant Life",
-      "category": "rede de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23699424696,
-        "productName": "Rede de Pesca Dobrável em Nylon – Armadilha Automática para Camarões e Peixes, 6/10/16 Furos, Formato Guarda-Chuva",
-        "price": "18.89",
-        "priceDiscountRate": 82,
-        "commissionRate": "0.12",
-        "sales": 206,
-        "ratingStar": "4.9",
-        "shopName": "Vibrant Life",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mqpooz7upybn93",
-        "productLink": "https://shopee.com.br/product/1761472573/23699424696",
-        "offerLink": "https://s.shopee.com.br/1BWl0ofj6"
       },
       "_last_price": null
     },
@@ -1478,6 +1449,35 @@
       "_last_price": null
     },
     {
+      "id": "23699424696",
+      "name": "Rede de Pesca Dobrável em Nylon – Armadilha Automática para Camarões e Peixes, 6/10/16 Furos, Formato Guarda-Chuva",
+      "price": 18.89,
+      "original_price": 78.71,
+      "discount": 76.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mqpooz7upybn93",
+      "link": "https://s.shopee.com.br/1BWl0ofj6",
+      "rating": "4.9",
+      "sales": 206,
+      "shop": "Vibrant Life",
+      "category": "rede de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23699424696,
+        "productName": "Rede de Pesca Dobrável em Nylon – Armadilha Automática para Camarões e Peixes, 6/10/16 Furos, Formato Guarda-Chuva",
+        "price": "18.89",
+        "priceDiscountRate": 76,
+        "commissionRate": "0.12",
+        "sales": 206,
+        "ratingStar": "4.9",
+        "shopName": "Vibrant Life",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mqpooz7upybn93",
+        "productLink": "https://shopee.com.br/product/1761472573/23699424696",
+        "offerLink": "https://s.shopee.com.br/1BWl0ofj6"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22099046331",
       "name": "1/2 Peças Suporte de Canto e Reta Porta Shampoo Prateleira Para Banheiro Organizador com Adesivo",
       "price": 10.88,
@@ -1677,6 +1677,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcw6gui5vk1e01",
         "productLink": "https://shopee.com.br/product/883941882/22498781114",
         "offerLink": "https://s.shopee.com.br/20wdGypfTr"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23118736011",
+      "name": "5/10/20 Peças Pano Absorvente Anti Óleo Para Cozinha /Pano De Microfibra /Toalha De Limpeza De Cozinha/Toalha De Mesa",
+      "price": 11.99,
+      "original_price": 46.12,
+      "discount": 74.0,
+      "commission": 23.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825bd-mtw5oyvd2mm9b8",
+      "link": "https://s.shopee.com.br/9KjEBDIEVq",
+      "rating": "4.6",
+      "sales": 1289,
+      "shop": "mrecearia",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23118736011,
+        "productName": "5/10/20 Peças Pano Absorvente Anti Óleo Para Cozinha /Pano De Microfibra /Toalha De Limpeza De Cozinha/Toalha De Mesa",
+        "price": "11.99",
+        "priceDiscountRate": 74,
+        "commissionRate": "0.23",
+        "sales": 1289,
+        "ratingStar": "4.6",
+        "shopName": "mrecearia",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825bd-mtw5oyvd2mm9b8",
+        "productLink": "https://shopee.com.br/product/593088966/23118736011",
+        "offerLink": "https://s.shopee.com.br/9KjEBDIEVq"
       },
       "_last_price": null
     },
@@ -16404,35 +16433,6 @@
       "_last_price": null
     },
     {
-      "id": "58265081114",
-      "name": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-      "price": 10.99,
-      "original_price": 19.98,
-      "discount": 45.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
-      "link": "https://s.shopee.com.br/8pmvH3w3EK",
-      "rating": "4.7",
-      "sales": 3631,
-      "shop": "VC5 GLOBAL",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58265081114,
-        "productName": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-        "price": "10.99",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.13",
-        "sales": 3631,
-        "ratingStar": "4.7",
-        "shopName": "VC5 GLOBAL",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
-        "productLink": "https://shopee.com.br/product/1625666693/58265081114",
-        "offerLink": "https://s.shopee.com.br/8pmvH3w3EK"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23998630535",
       "name": "Panos de Chão Microfibra Gigante Kit 6 Un 80x60cm Qualidade Premium Estética automotiva Frete Grátis",
       "price": 38.5,
@@ -19016,8 +19016,8 @@
     {
       "id": "58206237985",
       "name": "Kit 3 a 10 Potes Herméticos 2L Dispenser Organizador Lavanderia Para Sabão em Pó Detergente Amaciante",
-      "price": 48.99,
-      "original_price": 83.03,
+      "price": 49.0,
+      "original_price": 83.05,
       "discount": 41.0,
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mu25c09qyz29d9",
@@ -19030,7 +19030,7 @@
       "_item": {
         "itemId": 58206237985,
         "productName": "Kit 3 a 10 Potes Herméticos 2L Dispenser Organizador Lavanderia Para Sabão em Pó Detergente Amaciante",
-        "price": "48.99",
+        "price": "49",
         "priceDiscountRate": 41,
         "commissionRate": "0.14",
         "sales": 1073,
@@ -21249,8 +21249,8 @@
     {
       "id": "22598544943",
       "name": "Perfume Feminino ÁRABES Sabah 100ML Eau de Parfum Edp",
-      "price": 156.99,
-      "original_price": 249.19,
+      "price": 155.0,
+      "original_price": 246.03,
       "discount": 37.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma5yywimmow1b5",
@@ -21263,7 +21263,7 @@
       "_item": {
         "itemId": 22598544943,
         "productName": "Perfume Feminino ÁRABES Sabah 100ML Eau de Parfum Edp",
-        "price": "156.99",
+        "price": "155",
         "priceDiscountRate": 37,
         "commissionRate": "0.07",
         "sales": 2533,
@@ -21533,8 +21533,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7r98o-lkjtd8erha6w41",
         "productLink": "https://shopee.com.br/product/316475205/23599649329",
         "offerLink": "https://s.shopee.com.br/7puO5LvazD"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "18499738293",
@@ -23308,8 +23307,8 @@
     {
       "id": "22599385841",
       "name": "Base Amaciante Concentrada 100ml Faz 10/20 litros perfumada tipo Conforto / Premium RENDE MUITO",
-      "price": 21.99,
-      "original_price": 32.82,
+      "price": 12.79,
+      "original_price": 19.09,
       "discount": 33.0,
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mmg50q1ihgjobd",
@@ -23322,7 +23321,7 @@
       "_item": {
         "itemId": 22599385841,
         "productName": "Base Amaciante Concentrada 100ml Faz 10/20 litros perfumada tipo Conforto / Premium RENDE MUITO",
-        "price": "21.99",
+        "price": "12.79",
         "priceDiscountRate": 33,
         "commissionRate": "0.11",
         "sales": 5243,
