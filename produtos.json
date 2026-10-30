@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T04:50:59.950033+00:00",
+  "updated_at": "2026-10-30T05:09:44.615615+00:00",
   "total": 1116,
   "products": [
     {
@@ -896,7 +896,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mr1vaho31o90f0",
         "productLink": "https://shopee.com.br/product/1246081278/45364806848",
         "offerLink": "https://s.shopee.com.br/5LD36b0Lvp"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21498310169",
@@ -12459,6 +12460,35 @@
       "_last_price": null
     },
     {
+      "id": "22392993399",
+      "name": "Hipercalórico Dark Mass 3kg Dark Lab - Whey Protein, Creatina, BCAA, Waxy Maize, Premium Mass Gainer",
+      "price": 78.9,
+      "original_price": 161.02,
+      "discount": 51.0,
+      "commission": 24.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawnmo1qj3970",
+      "link": "https://s.shopee.com.br/W7nLnHlVj",
+      "rating": "4.9",
+      "sales": 2701,
+      "shop": "Dark Lab Oficial",
+      "category": "whey protein",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22392993399,
+        "productName": "Hipercalórico Dark Mass 3kg Dark Lab - Whey Protein, Creatina, BCAA, Waxy Maize, Premium Mass Gainer",
+        "price": "78.9",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.24",
+        "sales": 2701,
+        "ratingStar": "4.9",
+        "shopName": "Dark Lab Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawnmo1qj3970",
+        "productLink": "https://shopee.com.br/product/1242044379/22392993399",
+        "offerLink": "https://s.shopee.com.br/W7nLnHlVj"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19428227444",
       "name": "Whey Protein Blend Concentrado Isolado 1Kg + Creatina 300g + BCAA 200g + Pre treino Testo 200g - 01",
       "price": 99.6,
@@ -20690,35 +20720,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-motrvx7s1k3ka3",
         "productLink": "https://shopee.com.br/product/938888317/19297977722",
         "offerLink": "https://s.shopee.com.br/80DpsMzucp"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22392993399",
-      "name": "Hipercalórico Dark Mass 3kg Dark Lab - Whey Protein, Creatina, BCAA, Waxy Maize, Premium Mass Gainer",
-      "price": 99.9,
-      "original_price": 161.13,
-      "discount": 38.0,
-      "commission": 24.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawnmo1qj3970",
-      "link": "https://s.shopee.com.br/W7nLnHlVj",
-      "rating": "4.9",
-      "sales": 2701,
-      "shop": "Dark Lab Oficial",
-      "category": "whey protein",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22392993399,
-        "productName": "Hipercalórico Dark Mass 3kg Dark Lab - Whey Protein, Creatina, BCAA, Waxy Maize, Premium Mass Gainer",
-        "price": "99.9",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.24",
-        "sales": 2701,
-        "ratingStar": "4.9",
-        "shopName": "Dark Lab Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzawnmo1qj3970",
-        "productLink": "https://shopee.com.br/product/1242044379/22392993399",
-        "offerLink": "https://s.shopee.com.br/W7nLnHlVj"
       },
       "_last_price": null
     },
