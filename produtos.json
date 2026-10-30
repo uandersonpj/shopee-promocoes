@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T08:17:04.007467+00:00",
+  "updated_at": "2026-10-30T08:35:45.331973+00:00",
   "total": 1115,
   "products": [
     {
@@ -6667,7 +6667,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqdi4h8b6wao80",
         "productLink": "https://shopee.com.br/product/1397772996/29842873054",
         "offerLink": "https://s.shopee.com.br/6VP0UocZGY"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58265090177",
@@ -13514,6 +13515,35 @@
       "_last_price": null
     },
     {
+      "id": "58265081114",
+      "name": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
+      "price": 10.99,
+      "original_price": 21.98,
+      "discount": 50.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
+      "link": "https://s.shopee.com.br/8pmvH3w3EK",
+      "rating": "4.7",
+      "sales": 3631,
+      "shop": "VC5 GLOBAL",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58265081114,
+        "productName": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
+        "price": "10.99",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.13",
+        "sales": 3631,
+        "ratingStar": "4.7",
+        "shopName": "VC5 GLOBAL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
+        "productLink": "https://shopee.com.br/product/1625666693/58265081114",
+        "offerLink": "https://s.shopee.com.br/8pmvH3w3EK"
+      },
+      "_last_price": null
+    },
+    {
       "id": "55756600279",
       "name": "Kit 10 Panos de Limpeza em Microfibra Alta Absorção Multiuso",
       "price": 17.99,
@@ -16410,35 +16440,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcf2-lt49sbjuwpg373",
         "productLink": "https://shopee.com.br/product/432843460/23092914472",
         "offerLink": "https://s.shopee.com.br/2gCHviam2O"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58265081114",
-      "name": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-      "price": 10.99,
-      "original_price": 19.98,
-      "discount": 45.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
-      "link": "https://s.shopee.com.br/8pmvH3w3EK",
-      "rating": "4.7",
-      "sales": 3631,
-      "shop": "VC5 GLOBAL",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58265081114,
-        "productName": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-        "price": "10.99",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.13",
-        "sales": 3631,
-        "ratingStar": "4.7",
-        "shopName": "VC5 GLOBAL",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
-        "productLink": "https://shopee.com.br/product/1625666693/58265081114",
-        "offerLink": "https://s.shopee.com.br/8pmvH3w3EK"
       },
       "_last_price": null
     },
