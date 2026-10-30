@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T01:16:45.784756+00:00",
-  "total": 1117,
+  "updated_at": "2026-10-30T01:37:52.122332+00:00",
+  "total": 1116,
   "products": [
     {
       "id": "52807406192",
@@ -3554,8 +3554,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82616-ml2clmr46gao12",
         "productLink": "https://shopee.com.br/product/475104620/58255656605",
         "offerLink": "https://s.shopee.com.br/6fiQhFcpIQ"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "29430812711",
@@ -4047,7 +4046,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
         "productLink": "https://shopee.com.br/product/1006215031/25074712287",
         "offerLink": "https://s.shopee.com.br/4LKVuw8nAJ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "48402066160",
@@ -4868,7 +4868,7 @@
       "original_price": 68.54,
       "discount": 65.0,
       "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-muf3h0am95vl51",
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mtgbc80b99mqf7",
       "link": "https://s.shopee.com.br/qkdkWz27z",
       "rating": "4.9",
       "sales": 903,
@@ -4884,7 +4884,7 @@
         "sales": 903,
         "ratingStar": "4.9",
         "shopName": "MagiLeaf Outdoor",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-muf3h0am95vl51",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mtgbc80b99mqf7",
         "productLink": "https://shopee.com.br/product/1506274241/58258721526",
         "offerLink": "https://s.shopee.com.br/qkdkWz27z"
       },
@@ -6392,8 +6392,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-msz7qbqsswll6a",
         "productLink": "https://shopee.com.br/product/1489642227/49817731610",
         "offerLink": "https://s.shopee.com.br/9pfT1yx2Zp"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "41180569454",
@@ -7986,8 +7985,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259w-mqqmzvap1nuo57",
         "productLink": "https://shopee.com.br/product/260477274/18399505319",
         "offerLink": "https://s.shopee.com.br/5VWTIzcKTg"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "19797926230",
@@ -9091,35 +9089,6 @@
       "_last_price": null
     },
     {
-      "id": "19699843252",
-      "name": "Kit 3 Necessaire Maquiagem Transparente WashBag A Prova De Água 332",
-      "price": 18.19,
-      "original_price": 41.34,
-      "discount": 56.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mcc4llc8xbix14",
-      "link": "https://s.shopee.com.br/5VWTIvliAK",
-      "rating": "4.9",
-      "sales": 7901,
-      "shop": "WUDI SHOP",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19699843252,
-        "productName": "Kit 3 Necessaire Maquiagem Transparente WashBag A Prova De Água 332",
-        "price": "18.19",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.03",
-        "sales": 7901,
-        "ratingStar": "4.9",
-        "shopName": "WUDI SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mcc4llc8xbix14",
-        "productLink": "https://shopee.com.br/product/1502069336/19699843252",
-        "offerLink": "https://s.shopee.com.br/5VWTIvliAK"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58259769758",
       "name": "kit 10 Panos Microfibra Multiuso Alta Absorção Limpeza Alta Qualidade Cores Diversas",
       "price": 13.99,
@@ -9522,6 +9491,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mrafvjnyxnnr89",
         "productLink": "https://shopee.com.br/product/1536382880/58265304718",
         "offerLink": "https://s.shopee.com.br/7puOe84hGQ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19699843252",
+      "name": "Kit 3 Necessaire Maquiagem Transparente WashBag A Prova De Água 332",
+      "price": 18.19,
+      "original_price": 40.42,
+      "discount": 55.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mcc4llc8xbix14",
+      "link": "https://s.shopee.com.br/5VWTIvliAK",
+      "rating": "4.9",
+      "sales": 7901,
+      "shop": "WUDI SHOP",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19699843252,
+        "productName": "Kit 3 Necessaire Maquiagem Transparente WashBag A Prova De Água 332",
+        "price": "18.19",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.03",
+        "sales": 7901,
+        "ratingStar": "4.9",
+        "shopName": "WUDI SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdy4-mcc4llc8xbix14",
+        "productLink": "https://shopee.com.br/product/1502069336/19699843252",
+        "offerLink": "https://s.shopee.com.br/5VWTIvliAK"
       },
       "_last_price": null
     },
@@ -11610,35 +11608,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-msbpfx047zlwe6",
         "productLink": "https://shopee.com.br/product/748594490/22397680266",
         "offerLink": "https://s.shopee.com.br/9APlfhBDlJ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22492958419",
-      "name": "Kit Enxoval Cueiro e Paninho de boca ( 9 PEÇAS ) Bebê",
-      "price": 28.99,
-      "original_price": 60.4,
-      "discount": 52.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4l-lu12o63azpqq01",
-      "link": "https://s.shopee.com.br/1BNUpzksQm",
-      "rating": "4.7",
-      "sales": 1543,
-      "shop": "Empório DK - Produtos Infantis",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22492958419,
-        "productName": "Kit Enxoval Cueiro e Paninho de boca ( 9 PEÇAS ) Bebê",
-        "price": "28.99",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 1543,
-        "ratingStar": "4.7",
-        "shopName": "Empório DK - Produtos Infantis",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4l-lu12o63azpqq01",
-        "productLink": "https://shopee.com.br/product/1045804093/22492958419",
-        "offerLink": "https://s.shopee.com.br/1BNUpzksQm"
       },
       "_last_price": null
     },
@@ -15641,35 +15610,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5wdujp1f0s2e8",
         "productLink": "https://shopee.com.br/product/1087983137/21299595089",
         "offerLink": "https://s.shopee.com.br/6L5aIWZ9mx"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22998482488",
-      "name": "Kit 15 Unidades de Sachês Friskies Original para Gatos Adultos Ração Úmida 85g - Escolha o Sabor",
-      "price": 41.49,
-      "original_price": 76.83,
-      "discount": 46.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mtzp049rfh8j75",
-      "link": "https://s.shopee.com.br/1qdBVAz3IW",
-      "rating": "4.9",
-      "sales": 3652,
-      "shop": "Morato Agropecuária",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22998482488,
-        "productName": "Kit 15 Unidades de Sachês Friskies Original para Gatos Adultos Ração Úmida 85g - Escolha o Sabor",
-        "price": "41.49",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.03",
-        "sales": 3652,
-        "ratingStar": "4.9",
-        "shopName": "Morato Agropecuária",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mtzp049rfh8j75",
-        "productLink": "https://shopee.com.br/product/1055269003/22998482488",
-        "offerLink": "https://s.shopee.com.br/1qdBVAz3IW"
       },
       "_last_price": null
     },
@@ -21880,6 +21820,35 @@
       "_last_price": null
     },
     {
+      "id": "22893283679",
+      "name": "Kit 15 unid Sachê Friskies Alimento Úmido Gatos Carne Frango Atum Peixe Branco Cordeiro Salmão Peru",
+      "price": 36.75,
+      "original_price": 57.42,
+      "discount": 36.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mut4i4hfcjczb9",
+      "link": "https://s.shopee.com.br/30p8KPOPeH",
+      "rating": "5",
+      "sales": 6096,
+      "shop": "Marcinho PET",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22893283679,
+        "productName": "Kit 15 unid Sachê Friskies Alimento Úmido Gatos Carne Frango Atum Peixe Branco Cordeiro Salmão Peru",
+        "price": "36.75",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.06",
+        "sales": 6096,
+        "ratingStar": "5",
+        "shopName": "Marcinho PET",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mut4i4hfcjczb9",
+        "productLink": "https://shopee.com.br/product/1194006916/22893283679",
+        "offerLink": "https://s.shopee.com.br/30p8KPOPeH"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58209856096",
       "name": "Covo Armadilha Com 6 ou 8 Furos Pesca Peixes Siri Lambari Camarão Iscas Guarda Chuva//octogonal",
       "price": 16.33,
@@ -26984,35 +26953,6 @@
       "_last_price": null
     },
     {
-      "id": "22893283679",
-      "name": "Kit 15 unid Sachê Friskies Alimento Úmido Gatos Carne Frango Atum Peixe Branco Cordeiro Salmão Peru",
-      "price": 42.45,
-      "original_price": 57.36,
-      "discount": 26.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l5-mut4i4hfcjczb9",
-      "link": "https://s.shopee.com.br/30p8KPOPeH",
-      "rating": "5",
-      "sales": 6096,
-      "shop": "Marcinho PET",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22893283679,
-        "productName": "Kit 15 unid Sachê Friskies Alimento Úmido Gatos Carne Frango Atum Peixe Branco Cordeiro Salmão Peru",
-        "price": "42.45",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.06",
-        "sales": 6096,
-        "ratingStar": "5",
-        "shopName": "Marcinho PET",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mut4i4hfcjczb9",
-        "productLink": "https://shopee.com.br/product/1194006916/22893283679",
-        "offerLink": "https://s.shopee.com.br/30p8KPOPeH"
-      },
-      "_last_price": null
-    },
-    {
       "id": "13435249728",
       "name": "Caminha Casinha Pet Cama GG Grande Cachorro Grande Cão e Gato",
       "price": 79.0,
@@ -31997,6 +31937,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbks-m5j8qthjyyhjec",
         "productLink": "https://shopee.com.br/product/283497587/23598162062",
         "offerLink": "https://s.shopee.com.br/5VWTpEmDsY"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22998482488",
+      "name": "Kit 15 Unidades de Sachês Friskies Original para Gatos Adultos Ração Úmida 85g - Escolha o Sabor",
+      "price": 41.49,
+      "original_price": 48.81,
+      "discount": 15.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mtzp049rfh8j75",
+      "link": "https://s.shopee.com.br/1qdBVAz3IW",
+      "rating": "4.9",
+      "sales": 3652,
+      "shop": "Morato Agropecuária",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22998482488,
+        "productName": "Kit 15 Unidades de Sachês Friskies Original para Gatos Adultos Ração Úmida 85g - Escolha o Sabor",
+        "price": "41.49",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.03",
+        "sales": 3652,
+        "ratingStar": "4.9",
+        "shopName": "Morato Agropecuária",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mtzp049rfh8j75",
+        "productLink": "https://shopee.com.br/product/1055269003/22998482488",
+        "offerLink": "https://s.shopee.com.br/1qdBVAz3IW"
       },
       "_last_price": null
     },
