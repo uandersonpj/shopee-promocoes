@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T01:37:52.122332+00:00",
-  "total": 1116,
+  "updated_at": "2026-10-30T01:57:21.261456+00:00",
+  "total": 1115,
   "products": [
     {
       "id": "52807406192",
@@ -693,7 +693,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyp5enbirpg574",
         "productLink": "https://shopee.com.br/product/443105265/23897691943",
         "offerLink": "https://s.shopee.com.br/906LTT9d6n"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22694660203",
@@ -4887,8 +4888,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mtgbc80b99mqf7",
         "productLink": "https://shopee.com.br/product/1506274241/58258721526",
         "offerLink": "https://s.shopee.com.br/qkdkWz27z"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "26653666612",
@@ -8597,34 +8597,6 @@
       "_last_price": null
     },
     {
-      "id": "53717645713",
-      "name": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
-      "price": 39.69,
-      "original_price": 92.3,
-      "discount": 57.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e",
-      "link": "https://s.shopee.com.br/1LguLLmd8l",
-      "rating": "4.8",
-      "sales": 1178,
-      "shop": "Pet Charm",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 53717645713,
-        "productName": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
-        "price": "39.69",
-        "priceDiscountRate": 57,
-        "commissionRate": "0.13",
-        "sales": 1178,
-        "ratingStar": "4.8",
-        "shopName": "Pet Charm",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e",
-        "productLink": "https://shopee.com.br/product/908280603/53717645713",
-        "offerLink": "https://s.shopee.com.br/1LguLLmd8l"
-      }
-    },
-    {
       "id": "22793480756",
       "name": "Casinha Toca Cama Iglu 2 Em 1 Cachorro Cão E Gato Tam P, M e G",
       "price": 38.98,
@@ -11612,6 +11584,35 @@
       "_last_price": null
     },
     {
+      "id": "22492958419",
+      "name": "Kit Enxoval Cueiro e Paninho de boca ( 9 PEÇAS ) Bebê",
+      "price": 28.99,
+      "original_price": 60.4,
+      "discount": 52.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4l-lu12o63azpqq01",
+      "link": "https://s.shopee.com.br/1BNUpzksQm",
+      "rating": "4.7",
+      "sales": 1543,
+      "shop": "Empório DK - Produtos Infantis",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22492958419,
+        "productName": "Kit Enxoval Cueiro e Paninho de boca ( 9 PEÇAS ) Bebê",
+        "price": "28.99",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.03",
+        "sales": 1543,
+        "ratingStar": "4.7",
+        "shopName": "Empório DK - Produtos Infantis",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4l-lu12o63azpqq01",
+        "productLink": "https://shopee.com.br/product/1045804093/22492958419",
+        "offerLink": "https://s.shopee.com.br/1BNUpzksQm"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23197485445",
       "name": "Whey Protein Fuse 900g Isolate Dark Lab",
       "price": 76.52,
@@ -14421,35 +14422,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztn-mkl0jgpjbnr623",
         "productLink": "https://shopee.com.br/product/1285432434/52606084679",
         "offerLink": "https://s.shopee.com.br/5q9JhVGWON"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23593130581",
-      "name": "FONTE ATX 24 PINOS APARTIR DE 200 W PADRÃO - LEIA A DESCRIÇÃO",
-      "price": 29.9,
-      "original_price": 58.63,
-      "discount": 49.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mra5i3qbyrrbf5",
-      "link": "https://s.shopee.com.br/1BXH2NkK3",
-      "rating": "4.5",
-      "sales": 40,
-      "shop": "info.monkey",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23593130581,
-        "productName": "FONTE ATX 24 PINOS APARTIR DE 200 W PADRÃO - LEIA A DESCRIÇÃO",
-        "price": "29.9",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.09",
-        "sales": 40,
-        "ratingStar": "4.5",
-        "shopName": "info.monkey",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mra5i3qbyrrbf5",
-        "productLink": "https://shopee.com.br/product/399801749/23593130581",
-        "offerLink": "https://s.shopee.com.br/1BXH2NkK3"
       },
       "_last_price": null
     },
@@ -17905,6 +17877,34 @@
       "_last_price": null
     },
     {
+      "id": "53717645713",
+      "name": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
+      "price": 39.69,
+      "original_price": 69.63,
+      "discount": 43.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e",
+      "link": "https://s.shopee.com.br/1LguLLmd8l",
+      "rating": "4.8",
+      "sales": 1178,
+      "shop": "Pet Charm",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 53717645713,
+        "productName": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
+        "price": "39.69",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.13",
+        "sales": 1178,
+        "ratingStar": "4.8",
+        "shopName": "Pet Charm",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e",
+        "productLink": "https://shopee.com.br/product/908280603/53717645713",
+        "offerLink": "https://s.shopee.com.br/1LguLLmd8l"
+      }
+    },
+    {
       "id": "21598777670",
       "name": "Casinha Pet Cachorro N3 + Caminha Para Cachorro Casinha Para Cachorro Caminha de Cachorro",
       "price": 39.69,
@@ -19583,35 +19583,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9qxx0p1ifpe76",
         "productLink": "https://shopee.com.br/product/1087983137/18598161767",
         "offerLink": "https://s.shopee.com.br/BUwxDCnKZ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20498962219",
-      "name": "Extrator de Sucos Turbo Premium Mondial Preto e Inox 250W E-10",
-      "price": 174.0,
-      "original_price": 290.0,
-      "discount": 40.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8260s-mkwhm62zdurl9a",
-      "link": "https://s.shopee.com.br/9APlflVbYq",
-      "rating": "4.9",
-      "sales": 1027,
-      "shop": "Mercado Fácil",
-      "category": "liquidificador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20498962219,
-        "productName": "Extrator de Sucos Turbo Premium Mondial Preto e Inox 250W E-10",
-        "price": "174",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 1027,
-        "ratingStar": "4.9",
-        "shopName": "Mercado Fácil",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260s-mkwhm62zdurl9a",
-        "productLink": "https://shopee.com.br/product/1062544851/20498962219",
-        "offerLink": "https://s.shopee.com.br/9APlflVbYq"
       },
       "_last_price": null
     },
@@ -23328,6 +23299,35 @@
       "_last_price": null
     },
     {
+      "id": "9319243207",
+      "name": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
+      "price": 28.9,
+      "original_price": 43.13,
+      "discount": 33.0,
+      "commission": 26.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mq3n8g0o1ama14",
+      "link": "https://s.shopee.com.br/4fxMJQSLt4",
+      "rating": "4.9",
+      "sales": 5594,
+      "shop": "KOKESHI OFICIAL",
+      "category": "creme facial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 9319243207,
+        "productName": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
+        "price": "28.9",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.26",
+        "sales": 5594,
+        "ratingStar": "4.9",
+        "shopName": "KOKESHI OFICIAL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mq3n8g0o1ama14",
+        "productLink": "https://shopee.com.br/product/395166866/9319243207",
+        "offerLink": "https://s.shopee.com.br/4fxMJQSLt4"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22598926569",
       "name": "EZ Kaya Ocean - Eau de Toilette 100ml LANÇAMENTO EXCLUSIVO",
       "price": 29.9,
@@ -25064,35 +25064,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-muwp2j4uxjpe97",
         "productLink": "https://shopee.com.br/product/498461175/58265354623",
         "offerLink": "https://s.shopee.com.br/7faxsvd7yD"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "9319243207",
-      "name": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
-      "price": 29.9,
-      "original_price": 42.71,
-      "discount": 30.0,
-      "commission": 26.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m6-mq3n8g0o1ama14",
-      "link": "https://s.shopee.com.br/4fxMJQSLt4",
-      "rating": "4.9",
-      "sales": 5594,
-      "shop": "KOKESHI OFICIAL",
-      "category": "creme facial",
-      "source": "shopee",
-      "_item": {
-        "itemId": 9319243207,
-        "productName": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
-        "price": "29.9",
-        "priceDiscountRate": 30,
-        "commissionRate": "0.26",
-        "sales": 5594,
-        "ratingStar": "4.9",
-        "shopName": "KOKESHI OFICIAL",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mq3n8g0o1ama14",
-        "productLink": "https://shopee.com.br/product/395166866/9319243207",
-        "offerLink": "https://s.shopee.com.br/4fxMJQSLt4"
       },
       "_last_price": null
     },
