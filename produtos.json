@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-31T01:10:19.048654+00:00",
-  "total": 1109,
+  "updated_at": "2026-10-31T01:29:39.587695+00:00",
+  "total": 1110,
   "products": [
     {
       "id": "52807406192",
@@ -144,7 +144,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m94jsi5hwaol47",
         "productLink": "https://shopee.com.br/product/1127030290/23593603405",
         "offerLink": "https://s.shopee.com.br/6L5aIPFz2u"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23497594302",
@@ -1903,8 +1904,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i9-mfra08dv9dl91a",
         "productLink": "https://shopee.com.br/product/1643589827/20399896346",
         "offerLink": "https://s.shopee.com.br/6L5aon8yXR"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58217124419",
@@ -4868,7 +4868,7 @@
       "original_price": 68.54,
       "discount": 65.0,
       "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mtgbc80b99mqf7",
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-muf3h0am95vl51",
       "link": "https://s.shopee.com.br/qkdkWz27z",
       "rating": "4.9",
       "sales": 921,
@@ -4884,7 +4884,7 @@
         "sales": 921,
         "ratingStar": "4.9",
         "shopName": "MagiLeaf Outdoor",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mtgbc80b99mqf7",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-muf3h0am95vl51",
         "productLink": "https://shopee.com.br/product/1506274241/58258721526",
         "offerLink": "https://s.shopee.com.br/qkdkWz27z"
       },
@@ -9905,8 +9905,8 @@
     {
       "id": "26538918731",
       "name": "Linha De Pesca 120M Condutor De Monofilamento De Fibra De Carbono Revestido De Fluorocarbono Resistente Ao Desgaste , Ad",
-      "price": 9.84,
-      "original_price": 21.87,
+      "price": 9.47,
+      "original_price": 21.04,
       "discount": 55.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825b8-mq36i3xnt34c85",
@@ -9919,7 +9919,7 @@
       "_item": {
         "itemId": 26538918731,
         "productName": "Linha De Pesca 120M Condutor De Monofilamento De Fibra De Carbono Revestido De Fluorocarbono Resistente Ao Desgaste , Ad",
-        "price": "9.84",
+        "price": "9.47",
         "priceDiscountRate": 55,
         "commissionRate": "0.07",
         "sales": 653,
@@ -10201,7 +10201,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4rts49xy2m9e1",
       "link": "https://s.shopee.com.br/4qGmVj5igO",
-      "rating": "4.9",
+      "rating": "4.8",
       "sales": 5469,
       "shop": "ZAZAKI1688 COMERCIO",
       "category": "protetor solar",
@@ -10213,7 +10213,7 @@
         "priceDiscountRate": 54,
         "commissionRate": "0.03",
         "sales": 5469,
-        "ratingStar": "4.9",
+        "ratingStar": "4.8",
         "shopName": "ZAZAKI1688 COMERCIO",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4rts49xy2m9e1",
         "productLink": "https://shopee.com.br/product/871392240/23193620740",
@@ -13325,35 +13325,6 @@
       "_last_price": null
     },
     {
-      "id": "58265081114",
-      "name": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-      "price": 10.99,
-      "original_price": 21.98,
-      "discount": 50.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
-      "link": "https://s.shopee.com.br/8pmvH3w3EK",
-      "rating": "4.7",
-      "sales": 3542,
-      "shop": "VC5 GLOBAL",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58265081114,
-        "productName": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-        "price": "10.99",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.13",
-        "sales": 3542,
-        "ratingStar": "4.7",
-        "shopName": "VC5 GLOBAL",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
-        "productLink": "https://shopee.com.br/product/1625666693/58265081114",
-        "offerLink": "https://s.shopee.com.br/8pmvH3w3EK"
-      },
-      "_last_price": null
-    },
-    {
       "id": "55756600279",
       "name": "Kit 10 Panos de Limpeza em Microfibra Alta Absorção Multiuso",
       "price": 17.99,
@@ -16312,6 +16283,35 @@
       "_last_price": null
     },
     {
+      "id": "58265081114",
+      "name": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
+      "price": 10.99,
+      "original_price": 19.98,
+      "discount": 45.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
+      "link": "https://s.shopee.com.br/8pmvH3w3EK",
+      "rating": "4.7",
+      "sales": 3542,
+      "shop": "VC5 GLOBAL",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58265081114,
+        "productName": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
+        "price": "10.99",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.13",
+        "sales": 3542,
+        "ratingStar": "4.7",
+        "shopName": "VC5 GLOBAL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
+        "productLink": "https://shopee.com.br/product/1625666693/58265081114",
+        "offerLink": "https://s.shopee.com.br/8pmvH3w3EK"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23998630535",
       "name": "Panos de Chão Microfibra Gigante Kit 6 Un 80x60cm Qualidade Premium Estética automotiva Frete Grátis",
       "price": 38.5,
@@ -16783,7 +16783,7 @@
       "discount": 45.0,
       "commission": 6.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2gjoxgoo3l77",
-      "link": "https://s.shopee.com.br/7VHZpDO3oX",
+      "link": "https://s.shopee.com.br/4fxPNrfRE8",
       "rating": "4.9",
       "sales": 550,
       "shop": "Mimorada Store",
@@ -16800,7 +16800,7 @@
         "shopName": "Mimorada Store",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2gjoxgoo3l77",
         "productLink": "https://shopee.com.br/product/842996464/21357829581",
-        "offerLink": "https://s.shopee.com.br/7VHZpDO3oX"
+        "offerLink": "https://s.shopee.com.br/4fxPNrfRE8"
       },
       "_last_price": null
     },
@@ -17822,8 +17822,8 @@
     {
       "id": "22298591472",
       "name": "Ração Quatree Gourmet Gatos 10,1Kg",
-      "price": 120.5,
-      "original_price": 211.4,
+      "price": 120.78,
+      "original_price": 211.89,
       "discount": 43.0,
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
@@ -17836,7 +17836,7 @@
       "_item": {
         "itemId": 22298591472,
         "productName": "Ração Quatree Gourmet Gatos 10,1Kg",
-        "price": "120.5",
+        "price": "120.78",
         "priceDiscountRate": 43,
         "commissionRate": "0.12",
         "sales": 2275,
@@ -20111,35 +20111,6 @@
       "_last_price": null
     },
     {
-      "id": "18498293522",
-      "name": "Mochila Bolsa Reforçada Notebook Impermeavel Colorido Material Premium Elegantes Excecultivo Ref:888",
-      "price": 39.3,
-      "original_price": 63.39,
-      "discount": 38.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-md6iwjk2awc264",
-      "link": "https://s.shopee.com.br/8pmvGz1iOw",
-      "rating": "4.7",
-      "sales": 3709,
-      "shop": "M Flowerr",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18498293522,
-        "productName": "Mochila Bolsa Reforçada Notebook Impermeavel Colorido Material Premium Elegantes Excecultivo Ref:888",
-        "price": "39.3",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.08",
-        "sales": 3709,
-        "ratingStar": "4.7",
-        "shopName": "M Flowerr",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md6iwjk2awc264",
-        "productLink": "https://shopee.com.br/product/1210545163/18498293522",
-        "offerLink": "https://s.shopee.com.br/8pmvGz1iOw"
-      },
-      "_last_price": null
-    },
-    {
       "id": "45352758433",
       "name": "Laptop Infantil Notebook Educativo Computador Português e Inglês Raciocínio Lógico Palavras Números",
       "price": 49.9,
@@ -22054,35 +22025,6 @@
       "_last_price": null
     },
     {
-      "id": "19699704487",
-      "name": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
-      "price": 195.99,
-      "original_price": 301.52,
-      "discount": 35.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
-      "link": "https://s.shopee.com.br/3g4p7bR9ST",
-      "rating": "4.9",
-      "sales": 5018,
-      "shop": "Monkey toys",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19699704487,
-        "productName": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
-        "price": "195.99",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.07",
-        "sales": 5018,
-        "ratingStar": "4.9",
-        "shopName": "Monkey toys",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
-        "productLink": "https://shopee.com.br/product/406894684/19699704487",
-        "offerLink": "https://s.shopee.com.br/3g4p7bR9ST"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22298895580",
       "name": "Novo 2026 Caminhão Dinossauro engolidor e Porta-carrinhos com 4 Carrinhos de Fricção.🚚",
       "price": 63.99,
@@ -23330,6 +23272,35 @@
       "_last_price": null
     },
     {
+      "id": "19699704487",
+      "name": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
+      "price": 199.99,
+      "original_price": 298.49,
+      "discount": 33.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
+      "link": "https://s.shopee.com.br/3g4p7bR9ST",
+      "rating": "4.9",
+      "sales": 5018,
+      "shop": "Monkey toys",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19699704487,
+        "productName": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
+        "price": "199.99",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.07",
+        "sales": 5018,
+        "ratingStar": "4.9",
+        "shopName": "Monkey toys",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
+        "productLink": "https://shopee.com.br/product/406894684/19699704487",
+        "offerLink": "https://s.shopee.com.br/3g4p7bR9ST"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23698978626",
       "name": "Carrinho Rolimã Infantil Super Car com Volante 360 - Castela",
       "price": 123.28,
@@ -23790,6 +23761,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdudgwkx4uyhd1",
         "productLink": "https://shopee.com.br/product/826593048/22798840569",
         "offerLink": "https://s.shopee.com.br/3LRyj96mSE"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18498293522",
+      "name": "Mochila Bolsa Reforçada Notebook Impermeavel Colorido Material Premium Elegantes Excecultivo Ref:888",
+      "price": 44.9,
+      "original_price": 66.03,
+      "discount": 32.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-md6iwjk2awc264",
+      "link": "https://s.shopee.com.br/8pmvGz1iOw",
+      "rating": "4.7",
+      "sales": 3709,
+      "shop": "M Flowerr",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18498293522,
+        "productName": "Mochila Bolsa Reforçada Notebook Impermeavel Colorido Material Premium Elegantes Excecultivo Ref:888",
+        "price": "44.9",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.08",
+        "sales": 3709,
+        "ratingStar": "4.7",
+        "shopName": "M Flowerr",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md6iwjk2awc264",
+        "productLink": "https://shopee.com.br/product/1210545163/18498293522",
+        "offerLink": "https://s.shopee.com.br/8pmvGz1iOw"
       },
       "_last_price": null
     },
@@ -26498,7 +26498,7 @@
       "discount": 28.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820le-mo9nab0ho2klbf",
-      "link": "https://s.shopee.com.br/2VsuGJOJSv",
+      "link": "https://s.shopee.com.br/5AtfymdXDH",
       "rating": "4.9",
       "sales": 477,
       "shop": "Alumínio Nacional",
@@ -26515,7 +26515,7 @@
         "shopName": "Alumínio Nacional",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mo9nab0ho2klbf",
         "productLink": "https://shopee.com.br/product/359066629/19975160032",
-        "offerLink": "https://s.shopee.com.br/2VsuGJOJSv"
+        "offerLink": "https://s.shopee.com.br/5AtfymdXDH"
       },
       "_last_price": null
     },
@@ -26962,7 +26962,7 @@
       "discount": 26.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m80w2hghzuupf3",
-      "link": "https://s.shopee.com.br/7fb01WNQTa",
+      "link": "https://s.shopee.com.br/4qGpaAentB",
       "rating": "4.9",
       "sales": 579,
       "shop": "Marilar Presentes",
@@ -26979,7 +26979,7 @@
         "shopName": "Marilar Presentes",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m80w2hghzuupf3",
         "productLink": "https://shopee.com.br/product/663505037/14644590816",
-        "offerLink": "https://s.shopee.com.br/7fb01WNQTa"
+        "offerLink": "https://s.shopee.com.br/4qGpaAentB"
       },
       "_last_price": null
     },
@@ -31765,6 +31765,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdz6bf1lrd3668",
         "productLink": "https://shopee.com.br/product/893325189/22794275350",
         "offerLink": "https://s.shopee.com.br/4qGmVnUVBw"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58264070512",
+      "name": "Panela de Pressão Elétrica Eletrozon de 6 Litros com Revestimento Antiaderente e Desligamento Automático",
+      "price": 297.9,
+      "original_price": 350.47,
+      "discount": 15.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825ay-mqieq7hhiz9eb0",
+      "link": "https://s.shopee.com.br/5fpwZhbdCJ",
+      "rating": "4.9",
+      "sales": 526,
+      "shop": "VELORA99",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58264070512,
+        "productName": "Panela de Pressão Elétrica Eletrozon de 6 Litros com Revestimento Antiaderente e Desligamento Automático",
+        "price": "297.9",
+        "priceDiscountRate": 15,
+        "commissionRate": "0.03",
+        "sales": 526,
+        "ratingStar": "4.9",
+        "shopName": "VELORA99",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ay-mqieq7hhiz9eb0",
+        "productLink": "https://shopee.com.br/product/1868313303/58264070512",
+        "offerLink": "https://s.shopee.com.br/5fpwZhbdCJ"
       },
       "_last_price": null
     },
