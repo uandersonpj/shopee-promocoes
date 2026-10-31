@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T01:29:39.587695+00:00",
+  "updated_at": "2026-10-31T01:49:14.192711+00:00",
   "total": 1110,
   "products": [
     {
@@ -751,7 +751,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm5-lln14dkqwcs917",
         "productLink": "https://shopee.com.br/product/504210070/22492388439",
         "offerLink": "https://s.shopee.com.br/gRDYEUSzA"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49165555882",
@@ -1648,6 +1649,35 @@
       "_last_price": null
     },
     {
+      "id": "23118736011",
+      "name": "5/10/20 Peças Pano Absorvente Anti Óleo Para Cozinha /Pano De Microfibra /Toalha De Limpeza De Cozinha/Toalha De Mesa",
+      "price": 11.99,
+      "original_price": 46.12,
+      "discount": 74.0,
+      "commission": 23.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825bd-mtw5oyvd2mm9b8",
+      "link": "https://s.shopee.com.br/9KjEBDIEVq",
+      "rating": "4.6",
+      "sales": 1264,
+      "shop": "mrecearia",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23118736011,
+        "productName": "5/10/20 Peças Pano Absorvente Anti Óleo Para Cozinha /Pano De Microfibra /Toalha De Limpeza De Cozinha/Toalha De Mesa",
+        "price": "11.99",
+        "priceDiscountRate": 74,
+        "commissionRate": "0.23",
+        "sales": 1264,
+        "ratingStar": "4.6",
+        "shopName": "mrecearia",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825bd-mtw5oyvd2mm9b8",
+        "productLink": "https://shopee.com.br/product/593088966/23118736011",
+        "offerLink": "https://s.shopee.com.br/9KjEBDIEVq"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23793414141",
       "name": "Coleira Peitoral para cachorro pequenos e médios com guia para pet colete confortável",
       "price": 13.89,
@@ -1759,8 +1789,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mtolww79jgn783",
         "productLink": "https://shopee.com.br/product/1506274241/58266336951",
         "offerLink": "https://s.shopee.com.br/50aCiBRqaq"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "44059916730",
@@ -13470,6 +13499,35 @@
       "_last_price": null
     },
     {
+      "id": "42062326439",
+      "name": "Boneca Com Chupeta Mamadeira Lola BabyRosa Menina Brinquedo Infantil Bebê Boneca Com Carrinho",
+      "price": 33.99,
+      "original_price": 67.98,
+      "discount": 50.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mo0hchb9h79g27",
+      "link": "https://s.shopee.com.br/50aE7sf03n",
+      "rating": "4.7",
+      "sales": 1489,
+      "shop": "Larietha.",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42062326439,
+        "productName": "Boneca Com Chupeta Mamadeira Lola BabyRosa Menina Brinquedo Infantil Bebê Boneca Com Carrinho",
+        "price": "33.99",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.12",
+        "sales": 1489,
+        "ratingStar": "4.7",
+        "shopName": "Larietha.",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mo0hchb9h79g27",
+        "productLink": "https://shopee.com.br/product/666400036/42062326439",
+        "offerLink": "https://s.shopee.com.br/50aE7sf03n"
+      },
+      "_last_price": null
+    },
+    {
       "id": "10763005356",
       "name": "Whey Isoprotein Gold - Whey Protein Isolado e Concentrado 900g - Red Series",
       "price": 49.9,
@@ -16279,35 +16337,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcf2-lt49sbjuwpg373",
         "productLink": "https://shopee.com.br/product/432843460/23092914472",
         "offerLink": "https://s.shopee.com.br/2gCHviam2O"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58265081114",
-      "name": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-      "price": 10.99,
-      "original_price": 19.98,
-      "discount": 45.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
-      "link": "https://s.shopee.com.br/8pmvH3w3EK",
-      "rating": "4.7",
-      "sales": 3542,
-      "shop": "VC5 GLOBAL",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58265081114,
-        "productName": "1, 2 ou 4 Capa De Pano Para Vassoura E Rodo Reutilizável De Microfibra Original Limpeza",
-        "price": "10.99",
-        "priceDiscountRate": 45,
-        "commissionRate": "0.13",
-        "sales": 3542,
-        "ratingStar": "4.7",
-        "shopName": "VC5 GLOBAL",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mr67sde7xh5362",
-        "productLink": "https://shopee.com.br/product/1625666693/58265081114",
-        "offerLink": "https://s.shopee.com.br/8pmvH3w3EK"
       },
       "_last_price": null
     },
@@ -23268,35 +23297,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mqxc5gf6slxh3e",
         "productLink": "https://shopee.com.br/product/758234893/48363589367",
         "offerLink": "https://s.shopee.com.br/20wdH35ePy"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "19699704487",
-      "name": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
-      "price": 199.99,
-      "original_price": 298.49,
-      "discount": 33.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
-      "link": "https://s.shopee.com.br/3g4p7bR9ST",
-      "rating": "4.9",
-      "sales": 5018,
-      "shop": "Monkey toys",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19699704487,
-        "productName": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
-        "price": "199.99",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.07",
-        "sales": 5018,
-        "ratingStar": "4.9",
-        "shopName": "Monkey toys",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
-        "productLink": "https://shopee.com.br/product/406894684/19699704487",
-        "offerLink": "https://s.shopee.com.br/3g4p7bR9ST"
       },
       "_last_price": null
     },
