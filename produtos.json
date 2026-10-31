@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T08:42:57.682365+00:00",
+  "updated_at": "2026-10-31T09:01:42.743927+00:00",
   "total": 1109,
   "products": [
     {
@@ -7916,7 +7916,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259w-mqqmzvap1nuo57",
         "productLink": "https://shopee.com.br/product/260477274/18399505319",
         "offerLink": "https://s.shopee.com.br/5VWTIzcKTg"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19797926230",
@@ -9046,35 +9047,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-ms0du9lcp7ut42",
         "productLink": "https://shopee.com.br/product/1242044379/23297485141",
         "offerLink": "https://s.shopee.com.br/1BNU91FE9v"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21297748466",
-      "name": "Casinha Cachorro N6 Casa Porte Pequeno Com Proteção Raios UV  desmontável Lavável",
-      "price": 61.0,
-      "original_price": 138.64,
-      "discount": 56.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ld-munrd3nkblz51f",
-      "link": "https://s.shopee.com.br/60SjtvUrg0",
-      "rating": "4.7",
-      "sales": 329,
-      "shop": "De AZ casa",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21297748466,
-        "productName": "Casinha Cachorro N6 Casa Porte Pequeno Com Proteção Raios UV  desmontável Lavável",
-        "price": "61",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.03",
-        "sales": 329,
-        "ratingStar": "4.7",
-        "shopName": "De AZ casa",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-munrd3nkblz51f",
-        "productLink": "https://shopee.com.br/product/1246701013/21297748466",
-        "offerLink": "https://s.shopee.com.br/60SjtvUrg0"
       },
       "_last_price": null
     },
@@ -23401,6 +23373,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820l6-mucrxztvajgg58",
         "productLink": "https://shopee.com.br/product/1776377936/58215540755",
         "offerLink": "https://s.shopee.com.br/50aCi5Yfhl"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21297748466",
+      "name": "Casinha Cachorro N6 Casa Porte Pequeno Com Proteção Raios UV  desmontável Lavável",
+      "price": 91.0,
+      "original_price": 135.82,
+      "discount": 33.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ld-munrd3nkblz51f",
+      "link": "https://s.shopee.com.br/60SjtvUrg0",
+      "rating": "4.7",
+      "sales": 329,
+      "shop": "De AZ casa",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21297748466,
+        "productName": "Casinha Cachorro N6 Casa Porte Pequeno Com Proteção Raios UV  desmontável Lavável",
+        "price": "91",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.03",
+        "sales": 329,
+        "ratingStar": "4.7",
+        "shopName": "De AZ casa",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-munrd3nkblz51f",
+        "productLink": "https://shopee.com.br/product/1246701013/21297748466",
+        "offerLink": "https://s.shopee.com.br/60SjtvUrg0"
       },
       "_last_price": null
     },
