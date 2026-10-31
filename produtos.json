@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-31T05:36:39.938371+00:00",
-  "total": 1110,
+  "updated_at": "2026-10-31T05:55:19.369530+00:00",
+  "total": 1109,
   "products": [
     {
       "id": "52807406192",
@@ -1648,7 +1648,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m16zhf1ljn7yae",
         "productLink": "https://shopee.com.br/product/451332066/23793414141",
         "offerLink": "https://s.shopee.com.br/9zysfHbMN1"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58254621747",
@@ -13677,35 +13678,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-msc0ajin7hms37",
         "productLink": "https://shopee.com.br/product/1252710748/23798203051",
         "offerLink": "https://s.shopee.com.br/AUvBOiKshl"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58250959404",
-      "name": "Eletrozon Panela de Pressão Elétrica 6 Litros Digital | Multifuncional, Timer e Alta Segurança",
-      "price": 299.95,
-      "original_price": 599.9,
-      "discount": 50.0,
-      "commission": 18.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-82279-mhgkipztzi837a",
-      "link": "https://s.shopee.com.br/50aDELiuzZ",
-      "rating": "4.9",
-      "sales": 1311,
-      "shop": "Invention Hunters",
-      "category": "panela pressao",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58250959404,
-        "productName": "Eletrozon Panela de Pressão Elétrica 6 Litros Digital | Multifuncional, Timer e Alta Segurança",
-        "price": "299.95",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.18",
-        "sales": 1311,
-        "ratingStar": "4.9",
-        "shopName": "Invention Hunters",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82279-mhgkipztzi837a",
-        "productLink": "https://shopee.com.br/product/1661007426/58250959404",
-        "offerLink": "https://s.shopee.com.br/50aDELiuzZ"
       },
       "_last_price": null
     },
