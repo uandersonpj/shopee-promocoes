@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-31T11:52:51.508907+00:00",
-  "total": 1113,
+  "updated_at": "2026-10-31T12:12:19.234006+00:00",
+  "total": 1104,
   "products": [
     {
       "id": "52807406192",
@@ -301,7 +301,7 @@
       "commission": 18.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mmz137ddk4cg6c",
       "link": "https://s.shopee.com.br/5fptVFOfug",
-      "rating": "4.6",
+      "rating": "4.7",
       "sales": 4165,
       "shop": "lindaleycosmeticos",
       "category": "shampoo",
@@ -313,7 +313,7 @@
         "priceDiscountRate": 83,
         "commissionRate": "0.18",
         "sales": 4165,
-        "ratingStar": "4.6",
+        "ratingStar": "4.7",
         "shopName": "lindaleycosmeticos",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mmz137ddk4cg6c",
         "productLink": "https://shopee.com.br/product/1467162087/55508691646",
@@ -550,6 +550,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823on-mp9poffwlkpa06",
         "productLink": "https://shopee.com.br/product/344381236/57911938287",
         "offerLink": "https://s.shopee.com.br/gRDY0wOXS"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58258562285",
+      "name": "Suporte Organizador De Ovos Dispenser Para Geladeira Prático Anti-Queda Utensílios De Cozinha Original",
+      "price": 3.99,
+      "original_price": 19.95,
+      "discount": 80.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-81zvu-mmvetjba5xq9cb",
+      "link": "https://s.shopee.com.br/9pfSStVDNK",
+      "rating": "4.9",
+      "sales": 4510,
+      "shop": "BORASHOP1",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58258562285,
+        "productName": "Suporte Organizador De Ovos Dispenser Para Geladeira Prático Anti-Queda Utensílios De Cozinha Original",
+        "price": "3.99",
+        "priceDiscountRate": 80,
+        "commissionRate": "0.09",
+        "sales": 4510,
+        "ratingStar": "4.9",
+        "shopName": "BORASHOP1",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvu-mmvetjba5xq9cb",
+        "productLink": "https://shopee.com.br/product/1795268131/58258562285",
+        "offerLink": "https://s.shopee.com.br/9pfSStVDNK"
       },
       "_last_price": null
     },
@@ -1681,35 +1710,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfed52e1pcef5f",
         "productLink": "https://shopee.com.br/product/1384046689/58254621747",
         "offerLink": "https://s.shopee.com.br/60SjtyBqdd"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23098214172",
-      "name": "Piercing Nariz Nostril Titânio Ponto de Luz Zircônia Anzol Aba Nasal Prata Dourado",
-      "price": 12.95,
-      "original_price": 49.81,
-      "discount": 74.0,
-      "commission": 14.000000000000002,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-msxgtp629z477b",
-      "link": "https://s.shopee.com.br/1qdAwKoGaS",
-      "rating": "4.9",
-      "sales": 632,
-      "shop": "Lapier - Piercings e Jóias de Luxo",
-      "category": "anzol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23098214172,
-        "productName": "Piercing Nariz Nostril Titânio Ponto de Luz Zircônia Anzol Aba Nasal Prata Dourado",
-        "price": "12.95",
-        "priceDiscountRate": 74,
-        "commissionRate": "0.14",
-        "sales": 632,
-        "ratingStar": "4.9",
-        "shopName": "Lapier - Piercings e Jóias de Luxo",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-msxgtp629z477b",
-        "productLink": "https://shopee.com.br/product/424883518/23098214172",
-        "offerLink": "https://s.shopee.com.br/1qdAwKoGaS"
       },
       "_last_price": null
     },
@@ -2855,7 +2855,7 @@
       "rating": "4.8",
       "sales": 554,
       "shop": "tokushima01.br",
-      "category": "anzol",
+      "category": "isca artificial",
       "source": "shopee",
       "_item": {
         "itemId": 22696644615,
@@ -3551,7 +3551,7 @@
       "rating": "4.9",
       "sales": 295,
       "shop": "YQBUY.br",
-      "category": "anzol",
+      "category": "isca pesca",
       "source": "shopee",
       "_item": {
         "itemId": 23026990667,
@@ -4086,64 +4086,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rk-mp4n6r475g5e1a",
         "productLink": "https://shopee.com.br/product/1006215031/25074712287",
         "offerLink": "https://s.shopee.com.br/4LKVuw8nAJ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "48402066160",
-      "name": "Gancho De Pesca Único Auxiliar E Duplo Equipamento",
-      "price": 0.99,
-      "original_price": 3.0,
-      "discount": 67.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8226n-mhgz0mfq2c5e16",
-      "link": "https://s.shopee.com.br/gRDYBshxL",
-      "rating": "5",
-      "sales": 486,
-      "shop": "tokushima01.br",
-      "category": "anzol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 48402066160,
-        "productName": "Gancho De Pesca Único Auxiliar E Duplo Equipamento",
-        "price": "0.99",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.07",
-        "sales": 486,
-        "ratingStar": "5",
-        "shopName": "tokushima01.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8226n-mhgz0mfq2c5e16",
-        "productLink": "https://shopee.com.br/product/233660920/48402066160",
-        "offerLink": "https://s.shopee.com.br/gRDYBshxL"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21660585175",
-      "name": "Isca De Pesca 9,5cm/12g Dura Popper Com Anzol Agudos Olhos 3D",
-      "price": 5.89,
-      "original_price": 17.85,
-      "discount": 67.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-22110-wadt3ny78kjv4f",
-      "link": "https://s.shopee.com.br/3LRyj5iYY7",
-      "rating": "4.9",
-      "sales": 256,
-      "shop": "VanFishing Isca Pesca.br",
-      "category": "anzol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21660585175,
-        "productName": "Isca De Pesca 9,5cm/12g Dura Popper Com Anzol Agudos Olhos 3D",
-        "price": "5.89",
-        "priceDiscountRate": 67,
-        "commissionRate": "0.07",
-        "sales": 256,
-        "ratingStar": "4.9",
-        "shopName": "VanFishing Isca Pesca.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22110-wadt3ny78kjv4f",
-        "productLink": "https://shopee.com.br/product/504210070/21660585175",
-        "offerLink": "https://s.shopee.com.br/3LRyj5iYY7"
       },
       "_last_price": null
     },
@@ -6265,35 +6207,6 @@
       "_last_price": null
     },
     {
-      "id": "20397641620",
-      "name": "Tênis Meia Feminino Calce Fácil slip on Ortopédico Esportivo Leve e Confortável Casual Academia",
-      "price": 22.9,
-      "original_price": 60.26,
-      "discount": 62.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mnx8czipq39ea6",
-      "link": "https://s.shopee.com.br/AAIMa750kp",
-      "rating": "4.7",
-      "sales": 2376,
-      "shop": "Style Wesser",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20397641620,
-        "productName": "Tênis Meia Feminino Calce Fácil slip on Ortopédico Esportivo Leve e Confortável Casual Academia",
-        "price": "22.9",
-        "priceDiscountRate": 62,
-        "commissionRate": "0.07",
-        "sales": 2376,
-        "ratingStar": "4.7",
-        "shopName": "Style Wesser",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mnx8czipq39ea6",
-        "productLink": "https://shopee.com.br/product/433494801/20397641620",
-        "offerLink": "https://s.shopee.com.br/AAIMa750kp"
-      },
-      "_last_price": null
-    },
-    {
       "id": "19799302805",
       "name": "Vara de pescar 1.8 metros +molinetes Ao Ar Livre Resistente E Durável",
       "price": 38.0,
@@ -7332,8 +7245,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2tkcqtacqo0b",
         "productLink": "https://shopee.com.br/product/375688601/23292991473",
         "offerLink": "https://s.shopee.com.br/6VP2dSc5Io"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "18350470458",
@@ -8756,35 +8668,6 @@
       "_last_price": null
     },
     {
-      "id": "25924508666",
-      "name": "100~600Pcs Conjunto De Anzóis De Pesca Tamanho Misto Carpa De Aço De Alto Carbono Corda Gancho Acessórios Em Círculo Off",
-      "price": 10.88,
-      "original_price": 25.3,
-      "discount": 57.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcdk-ltm8s7hu2jks92",
-      "link": "https://s.shopee.com.br/4LKVuvekWD",
-      "rating": "4.7",
-      "sales": 344,
-      "shop": "skphoenix.br",
-      "category": "anzol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 25924508666,
-        "productName": "100~600Pcs Conjunto De Anzóis De Pesca Tamanho Misto Carpa De Aço De Alto Carbono Corda Gancho Acessórios Em Círculo Off",
-        "price": "10.88",
-        "priceDiscountRate": 57,
-        "commissionRate": "0.07",
-        "sales": 344,
-        "ratingStar": "4.7",
-        "shopName": "skphoenix.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdk-ltm8s7hu2jks92",
-        "productLink": "https://shopee.com.br/product/1232233737/25924508666",
-        "offerLink": "https://s.shopee.com.br/4LKVuvekWD"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58258714531",
       "name": "KIT 163/133/107 Peças Unidades Isca Artificiai Pesca Conjunto De Isca De Pesca Caixa Macia Dura Ganchos Sal Água Doce",
       "price": 43.49,
@@ -9187,35 +9070,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/5794797f3d5fe25a874e953091734b51",
         "productLink": "https://shopee.com.br/product/421422443/4886594145",
         "offerLink": "https://s.shopee.com.br/6q1qtUs2Sz"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "19894088143",
-      "name": "1PC Vib Lure 6 Cores Iscas De Pesca Em Metal Rotativo 3D Olhos Crankbait Sequin Isca Dura Biônica Afundando Giratório Com Anzol Triplo",
-      "price": 6.79,
-      "original_price": 15.43,
-      "discount": 56.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbm3-lmr7kt9dlf89d7",
-      "link": "https://s.shopee.com.br/4B15icfNrC",
-      "rating": "4.9",
-      "sales": 372,
-      "shop": "tokushima01.br",
-      "category": "anzol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 19894088143,
-        "productName": "1PC Vib Lure 6 Cores Iscas De Pesca Em Metal Rotativo 3D Olhos Crankbait Sequin Isca Dura Biônica Afundando Giratório Com Anzol Triplo",
-        "price": "6.79",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.07",
-        "sales": 372,
-        "ratingStar": "4.9",
-        "shopName": "tokushima01.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm3-lmr7kt9dlf89d7",
-        "productLink": "https://shopee.com.br/product/233660920/19894088143",
-        "offerLink": "https://s.shopee.com.br/4B15icfNrC"
       },
       "_last_price": null
     },
@@ -9945,35 +9799,6 @@
       "_last_price": null
     },
     {
-      "id": "22794276330",
-      "name": "Kit Anzol de Pesca Mata Kail Pancing Automático Anti-Running com Barba Dupla e Aço Manganês",
-      "price": 13.49,
-      "original_price": 29.98,
-      "discount": 55.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lq-mtgs7vsxaq6aeb",
-      "link": "https://s.shopee.com.br/1143wpyOmy",
-      "rating": "4.8",
-      "sales": 1104,
-      "shop": "SSR ESTRELA",
-      "category": "anzol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22794276330,
-        "productName": "Kit Anzol de Pesca Mata Kail Pancing Automático Anti-Running com Barba Dupla e Aço Manganês",
-        "price": "13.49",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.11",
-        "sales": 1104,
-        "ratingStar": "4.8",
-        "shopName": "SSR ESTRELA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mtgs7vsxaq6aeb",
-        "productLink": "https://shopee.com.br/product/1480594679/22794276330",
-        "offerLink": "https://s.shopee.com.br/1143wpyOmy"
-      },
-      "_last_price": null
-    },
-    {
       "id": "15097201878",
       "name": "iscas artificial jig de pesca Com Anzol 7g/10g/15g/20g/30g A Laser forma de jig",
       "price": 6.66,
@@ -9985,7 +9810,7 @@
       "rating": "4.9",
       "sales": 957,
       "shop": "VanFishing Isca Pesca.br",
-      "category": "anzol",
+      "category": "isca artificial",
       "source": "shopee",
       "_item": {
         "itemId": 15097201878,
@@ -9999,6 +9824,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvfw-lflxztyt3eodf8",
         "productLink": "https://shopee.com.br/product/504210070/15097201878",
         "offerLink": "https://s.shopee.com.br/8VA4sasvhi"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22794276330",
+      "name": "Kit Anzol de Pesca Mata Kail Pancing Automático Anti-Running com Barba Dupla e Aço Manganês",
+      "price": 13.49,
+      "original_price": 29.98,
+      "discount": 55.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lq-mtgs7vsxaq6aeb",
+      "link": "https://s.shopee.com.br/1143wpyOmy",
+      "rating": "4.8",
+      "sales": 1104,
+      "shop": "SSR ESTRELA",
+      "category": "kit pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22794276330,
+        "productName": "Kit Anzol de Pesca Mata Kail Pancing Automático Anti-Running com Barba Dupla e Aço Manganês",
+        "price": "13.49",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.11",
+        "sales": 1104,
+        "ratingStar": "4.8",
+        "shopName": "SSR ESTRELA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lq-mtgs7vsxaq6aeb",
+        "productLink": "https://shopee.com.br/product/1480594679/22794276330",
+        "offerLink": "https://s.shopee.com.br/1143wpyOmy"
       },
       "_last_price": null
     },
@@ -10507,7 +10361,7 @@
       "rating": "4.8",
       "sales": 571,
       "shop": "Tralha de Ouro",
-      "category": "anzol",
+      "category": "isca artificial",
       "source": "shopee",
       "_item": {
         "itemId": 22497836763,
@@ -11743,6 +11597,35 @@
       "_last_price": null
     },
     {
+      "id": "20397641620",
+      "name": "Tênis Meia Feminino Calce Fácil slip on Ortopédico Esportivo Leve e Confortável Casual Academia",
+      "price": 28.9,
+      "original_price": 60.21,
+      "discount": 52.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mnx8czipq39ea6",
+      "link": "https://s.shopee.com.br/AAIMa750kp",
+      "rating": "4.7",
+      "sales": 2376,
+      "shop": "Style Wesser",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20397641620,
+        "productName": "Tênis Meia Feminino Calce Fácil slip on Ortopédico Esportivo Leve e Confortável Casual Academia",
+        "price": "28.9",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.07",
+        "sales": 2376,
+        "ratingStar": "4.7",
+        "shopName": "Style Wesser",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mnx8czipq39ea6",
+        "productLink": "https://shopee.com.br/product/433494801/20397641620",
+        "offerLink": "https://s.shopee.com.br/AAIMa750kp"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22598355481",
       "name": "Tenis feminino Casual Sapatenis Branco Leve Confortável Dia a Dia",
       "price": 22.89,
@@ -11855,35 +11738,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mbevxeo3rlq134",
         "productLink": "https://shopee.com.br/product/1550289846/42105987016",
         "offerLink": "https://s.shopee.com.br/4B18iz1WBK"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "9180856001",
-      "name": "50Pcs Agudos Ganchos De Pesca Gancho De Carbono De Alta Ganchos Sólidos 2/4/6/8/10/12 /14# Triplo Farpado Anzóis De Aço",
-      "price": 15.0,
-      "original_price": 31.25,
-      "discount": 52.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/5326b89543b9d0432bb10dc21354069e",
-      "link": "https://s.shopee.com.br/3qOFK0geXA",
-      "rating": "4.8",
-      "sales": 325,
-      "shop": "Runson Outdoor",
-      "category": "anzol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 9180856001,
-        "productName": "50Pcs Agudos Ganchos De Pesca Gancho De Carbono De Alta Ganchos Sólidos 2/4/6/8/10/12 /14# Triplo Farpado Anzóis De Aço",
-        "price": "15",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.07",
-        "sales": 325,
-        "ratingStar": "4.8",
-        "shopName": "Runson Outdoor",
-        "imageUrl": "https://cf.shopee.com.br/file/5326b89543b9d0432bb10dc21354069e",
-        "productLink": "https://shopee.com.br/product/462858978/9180856001",
-        "offerLink": "https://s.shopee.com.br/3qOFK0geXA"
       },
       "_last_price": null
     },
@@ -12116,35 +11970,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-muwbuw8f8d8j0c",
         "productLink": "https://shopee.com.br/product/1754933018/23394988549",
         "offerLink": "https://s.shopee.com.br/9V2c4GTWGZ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58258562285",
-      "name": "Suporte Organizador De Ovos Dispenser Para Geladeira Prático Anti-Queda Utensílios De Cozinha Original",
-      "price": 10.99,
-      "original_price": 22.43,
-      "discount": 51.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-81zvu-mmvetjba5xq9cb",
-      "link": "https://s.shopee.com.br/9pfSStVDNK",
-      "rating": "4.9",
-      "sales": 4510,
-      "shop": "BORASHOP1",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58258562285,
-        "productName": "Suporte Organizador De Ovos Dispenser Para Geladeira Prático Anti-Queda Utensílios De Cozinha Original",
-        "price": "10.99",
-        "priceDiscountRate": 51,
-        "commissionRate": "0.09",
-        "sales": 4510,
-        "ratingStar": "4.9",
-        "shopName": "BORASHOP1",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvu-mmvetjba5xq9cb",
-        "productLink": "https://shopee.com.br/product/1795268131/58258562285",
-        "offerLink": "https://s.shopee.com.br/9pfSStVDNK"
       },
       "_last_price": null
     },
@@ -12580,35 +12405,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxk-lyazo66xwcg6e1",
         "productLink": "https://shopee.com.br/product/1283669740/18199355640",
         "offerLink": "https://s.shopee.com.br/AKbj3vvLqN"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "51660992141",
-      "name": "【Compre 2 e Ganhe 2 Grátis】Kit 10 Anzol De Pesca Anzol De Pesca Ao Ar Livre Com Prevenção Automática De Fuga De Peixes",
-      "price": 9.98,
-      "original_price": 20.37,
-      "discount": 51.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mrso0o76o9hjc8",
-      "link": "https://s.shopee.com.br/2gCIW9zOi3",
-      "rating": "4.8",
-      "sales": 299,
-      "shop": "FishingHub.br",
-      "category": "anzol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 51660992141,
-        "productName": "【Compre 2 e Ganhe 2 Grátis】Kit 10 Anzol De Pesca Anzol De Pesca Ao Ar Livre Com Prevenção Automática De Fuga De Peixes",
-        "price": "9.98",
-        "priceDiscountRate": 51,
-        "commissionRate": "0.11",
-        "sales": 299,
-        "ratingStar": "4.8",
-        "shopName": "FishingHub.br",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mrso0o76o9hjc8",
-        "productLink": "https://shopee.com.br/product/1833299974/51660992141",
-        "offerLink": "https://s.shopee.com.br/2gCIW9zOi3"
       },
       "_last_price": null
     },
@@ -13831,35 +13627,6 @@
       "_last_price": null
     },
     {
-      "id": "26693531448",
-      "name": "🎣 MEDOOSI Kit 71 Iscas Artificiais - Meia Água com Anzol Duplo | Iscas Realistas para Pesca de Truta e Peixes",
-      "price": 24.9,
-      "original_price": 49.8,
-      "discount": 50.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mgro0jg8x1xl46",
-      "link": "https://s.shopee.com.br/80DqQBJulh",
-      "rating": "4.8",
-      "sales": 276,
-      "shop": "MEDOOSI-1",
-      "category": "anzol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 26693531448,
-        "productName": "🎣 MEDOOSI Kit 71 Iscas Artificiais - Meia Água com Anzol Duplo | Iscas Realistas para Pesca de Truta e Peixes",
-        "price": "24.9",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.07",
-        "sales": 276,
-        "ratingStar": "4.8",
-        "shopName": "MEDOOSI-1",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mgro0jg8x1xl46",
-        "productLink": "https://shopee.com.br/product/1388464789/26693531448",
-        "offerLink": "https://s.shopee.com.br/80DqQBJulh"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20930844336",
       "name": "Isca Artificial De Pesca 19g/14cm Profundidade Dedo Seção De Peixe 0.5-1.5m",
       "price": 11.5,
@@ -13885,6 +13652,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/9e40d3db5f68c799914587853b3caf59",
         "productLink": "https://shopee.com.br/product/797027700/20930844336",
         "offerLink": "https://s.shopee.com.br/70LH5pydkZ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "26693531448",
+      "name": "🎣 MEDOOSI Kit 71 Iscas Artificiais - Meia Água com Anzol Duplo | Iscas Realistas para Pesca de Truta e Peixes",
+      "price": 24.9,
+      "original_price": 49.8,
+      "discount": 50.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mgro0jg8x1xl46",
+      "link": "https://s.shopee.com.br/80DqQBJulh",
+      "rating": "4.8",
+      "sales": 276,
+      "shop": "MEDOOSI-1",
+      "category": "isca artificial",
+      "source": "shopee",
+      "_item": {
+        "itemId": 26693531448,
+        "productName": "🎣 MEDOOSI Kit 71 Iscas Artificiais - Meia Água com Anzol Duplo | Iscas Realistas para Pesca de Truta e Peixes",
+        "price": "24.9",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.07",
+        "sales": 276,
+        "ratingStar": "4.8",
+        "shopName": "MEDOOSI-1",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mgro0jg8x1xl46",
+        "productLink": "https://shopee.com.br/product/1388464789/26693531448",
+        "offerLink": "https://s.shopee.com.br/80DqQBJulh"
       },
       "_last_price": null
     },
@@ -15263,7 +15059,7 @@
       "rating": "4.9",
       "sales": 941,
       "shop": "RICCOBRASIL",
-      "category": "anzol",
+      "category": "isca artificial",
       "source": "shopee",
       "_item": {
         "itemId": 58216109646,
@@ -16887,7 +16683,7 @@
       "rating": "4.8",
       "sales": 462,
       "shop": "Tralha Store",
-      "category": "anzol",
+      "category": "isca artificial",
       "source": "shopee",
       "_item": {
         "itemId": 19399248751,
@@ -23575,35 +23371,6 @@
       "_last_price": null
     },
     {
-      "id": "23098318918",
-      "name": "AUTO FLIP Anzol de Pesca DA ALBATROZ FISHING Mancing Automático Anti-Running com Barba e Aço Carbono",
-      "price": 19.99,
-      "original_price": 29.84,
-      "discount": 33.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mt9o2frv6pz4b8",
-      "link": "https://s.shopee.com.br/4fxMJXdTqF",
-      "rating": "4.8",
-      "sales": 377,
-      "shop": "SSR ESTRELA",
-      "category": "anzol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23098318918,
-        "productName": "AUTO FLIP Anzol de Pesca DA ALBATROZ FISHING Mancing Automático Anti-Running com Barba e Aço Carbono",
-        "price": "19.99",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.11",
-        "sales": 377,
-        "ratingStar": "4.8",
-        "shopName": "SSR ESTRELA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mt9o2frv6pz4b8",
-        "productLink": "https://shopee.com.br/product/1480594679/23098318918",
-        "offerLink": "https://s.shopee.com.br/4fxMJXdTqF"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58258370296",
       "name": "Colete salva vidas camuflado adulto, pesca, lazer, Eaf 60a130 kg",
       "price": 78.32,
@@ -25547,35 +25314,6 @@
       "_last_price": null
     },
     {
-      "id": "23658642494",
-      "name": "Anzóis De Pesca Pretos Auxiliares Anzó",
-      "price": 1.35,
-      "original_price": 1.93,
-      "discount": 30.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbne-ln3tr4k08p8m77",
-      "link": "https://s.shopee.com.br/1143wnrRHN",
-      "rating": "4.8",
-      "sales": 463,
-      "shop": "VanFishing Isca Pesca.br",
-      "category": "anzol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23658642494,
-        "productName": "Anzóis De Pesca Pretos Auxiliares Anzó",
-        "price": "1.35",
-        "priceDiscountRate": 30,
-        "commissionRate": "0.07",
-        "sales": 463,
-        "ratingStar": "4.8",
-        "shopName": "VanFishing Isca Pesca.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbne-ln3tr4k08p8m77",
-        "productLink": "https://shopee.com.br/product/504210070/23658642494",
-        "offerLink": "https://s.shopee.com.br/1143wnrRHN"
-      },
-      "_last_price": null
-    },
-    {
       "id": "29777745435",
       "name": "Boonie Chapéu Balaclava Terno Dobrável Macio Proteção Solar Boné De Pesca Respirável Pescador Caça Ao Ar Livre Amplo Pro",
       "price": 38.96,
@@ -26848,6 +26586,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mqetrh5j5o1tae",
         "productLink": "https://shopee.com.br/product/429615795/22899524173",
         "offerLink": "https://s.shopee.com.br/AKbj3uRABx"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22697837903",
+      "name": "KIT Com 5-20 Relógios M4 Revenda Atacado Digital Aprova Agua Led",
+      "price": 17.99,
+      "original_price": 24.64,
+      "discount": 27.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0jba4wudx7hd7",
+      "link": "https://s.shopee.com.br/3B8YWl5zuR",
+      "rating": "4.9",
+      "sales": 1931,
+      "shop": "relogios lucky",
+      "category": "relogio masculino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22697837903,
+        "productName": "KIT Com 5-20 Relógios M4 Revenda Atacado Digital Aprova Agua Led",
+        "price": "17.99",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.13",
+        "sales": 1931,
+        "ratingStar": "4.9",
+        "shopName": "relogios lucky",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0jba4wudx7hd7",
+        "productLink": "https://shopee.com.br/product/1115776530/22697837903",
+        "offerLink": "https://s.shopee.com.br/3B8YWl5zuR"
       },
       "_last_price": null
     },
@@ -28559,35 +28326,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjihgikx7h8m50",
         "productLink": "https://shopee.com.br/product/994983526/29494050592",
         "offerLink": "https://s.shopee.com.br/8AXETtSB4S"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23398648677",
-      "name": "Anzol base para brincos até 200 peças para bijuterias",
-      "price": 12.32,
-      "original_price": 16.0,
-      "discount": 23.0,
-      "commission": 14.000000000000002,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rauu-mavqvf4nwrcm98",
-      "link": "https://s.shopee.com.br/1BNU96qnwO",
-      "rating": "4.9",
-      "sales": 572,
-      "shop": "Cantinho_das_variedades",
-      "category": "anzol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23398648677,
-        "productName": "Anzol base para brincos até 200 peças para bijuterias",
-        "price": "12.32",
-        "priceDiscountRate": 23,
-        "commissionRate": "0.14",
-        "sales": 572,
-        "ratingStar": "4.9",
-        "shopName": "Cantinho_das_variedades",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rauu-mavqvf4nwrcm98",
-        "productLink": "https://shopee.com.br/product/937322173/23398648677",
-        "offerLink": "https://s.shopee.com.br/1BNU96qnwO"
       },
       "_last_price": null
     },
