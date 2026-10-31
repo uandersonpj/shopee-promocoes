@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T00:12:03.758527+00:00",
+  "updated_at": "2026-10-31T00:31:32.253185+00:00",
   "total": 1112,
   "products": [
     {
@@ -28,7 +28,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-msxmjc87thc46e",
         "productLink": "https://shopee.com.br/product/1198407784/52807406192",
         "offerLink": "https://s.shopee.com.br/LoN9XyQdG"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "21099546181",
@@ -2018,8 +2019,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-micol4p8wyrl81",
         "productLink": "https://shopee.com.br/product/1059934694/23294309688",
         "offerLink": "https://s.shopee.com.br/5AtcuMLRPs"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "9212570285",
@@ -4513,35 +4513,6 @@
       "_last_price": null
     },
     {
-      "id": "42806494664",
-      "name": "Molinete HE Série 1000-7000 Carretel em Metal Empunhadura EVA 10kg Limite Marítimo Oceânico",
-      "price": 26.97,
-      "original_price": 79.32,
-      "discount": 66.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdyk-mch7z6c4ouee89",
-      "link": "https://s.shopee.com.br/3qOFJzceoW",
-      "rating": "4.7",
-      "sales": 473,
-      "shop": "CarioShop",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42806494664,
-        "productName": "Molinete HE Série 1000-7000 Carretel em Metal Empunhadura EVA 10kg Limite Marítimo Oceânico",
-        "price": "26.97",
-        "priceDiscountRate": 66,
-        "commissionRate": "0.1",
-        "sales": 473,
-        "ratingStar": "4.7",
-        "shopName": "CarioShop",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyk-mch7z6c4ouee89",
-        "productLink": "https://shopee.com.br/product/1489659102/42806494664",
-        "offerLink": "https://s.shopee.com.br/3qOFJzceoW"
-      },
-      "_last_price": null
-    },
-    {
       "id": "43156498472",
       "name": "Carretilha Moinho de Pesca HE 1000-7000 Metal EVA 10kg Máximo Água Salada Oceano Carretel Metálico",
       "price": 26.97,
@@ -4567,6 +4538,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra2c-mbjbdak57b6edb",
         "productLink": "https://shopee.com.br/product/1259156762/43156498472",
         "offerLink": "https://s.shopee.com.br/2gCHvqyhHV"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "42806494664",
+      "name": "Molinete HE Série 1000-7000 Carretel em Metal Empunhadura EVA 10kg Limite Marítimo Oceânico",
+      "price": 26.97,
+      "original_price": 79.32,
+      "discount": 66.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdyk-mch7z6c4ouee89",
+      "link": "https://s.shopee.com.br/3qOFJzceoW",
+      "rating": "4.7",
+      "sales": 473,
+      "shop": "CarioShop",
+      "category": "molinete pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42806494664,
+        "productName": "Molinete HE Série 1000-7000 Carretel em Metal Empunhadura EVA 10kg Limite Marítimo Oceânico",
+        "price": "26.97",
+        "priceDiscountRate": 66,
+        "commissionRate": "0.1",
+        "sales": 473,
+        "ratingStar": "4.7",
+        "shopName": "CarioShop",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyk-mch7z6c4ouee89",
+        "productLink": "https://shopee.com.br/product/1489659102/42806494664",
+        "offerLink": "https://s.shopee.com.br/3qOFJzceoW"
       },
       "_last_price": null
     },
@@ -9760,8 +9760,8 @@
     {
       "id": "17686897164",
       "name": "Kit Cozinha Infantil Brinquedo peça Air Fryer Panela Fogão Comidinha Eletrodoméstico Utensílio",
-      "price": 39.94,
-      "original_price": 88.76,
+      "price": 39.95,
+      "original_price": 88.78,
       "discount": 55.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mos9uk8pk937ff",
@@ -9774,7 +9774,7 @@
       "_item": {
         "itemId": 17686897164,
         "productName": "Kit Cozinha Infantil Brinquedo peça Air Fryer Panela Fogão Comidinha Eletrodoméstico Utensílio",
-        "price": "39.94",
+        "price": "39.95",
         "priceDiscountRate": 55,
         "commissionRate": "0.03",
         "sales": 1559,
@@ -19618,6 +19618,35 @@
       "_last_price": null
     },
     {
+      "id": "23498081105",
+      "name": "Vara De Pesca Novo 12-20lbs Completa Com Molinete Linha Barato",
+      "price": 36.0,
+      "original_price": 60.0,
+      "discount": 40.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3uh7xlo0xqz10",
+      "link": "https://s.shopee.com.br/4qGpWCyypO",
+      "rating": "4.8",
+      "sales": 254,
+      "shop": "ARMARINHOS SANTA ISADORA",
+      "category": "molinete pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498081105,
+        "productName": "Vara De Pesca Novo 12-20lbs Completa Com Molinete Linha Barato",
+        "price": "36",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 254,
+        "ratingStar": "4.8",
+        "shopName": "ARMARINHOS SANTA ISADORA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3uh7xlo0xqz10",
+        "productLink": "https://shopee.com.br/product/947334511/23498081105",
+        "offerLink": "https://s.shopee.com.br/4qGpWCyypO"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22993564456",
       "name": "Linha De Pesca Multifilamento 300m/500m Verde Cinza Multicor 4 Fios Super Resistente PE",
       "price": 40.8,
@@ -19643,35 +19672,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgtird242br421",
         "productLink": "https://shopee.com.br/product/894632099/22993564456",
         "offerLink": "https://s.shopee.com.br/3qOFK0O5pT"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23498081105",
-      "name": "Vara De Pesca Novo 12-20lbs Completa Com Molinete Linha Barato",
-      "price": 36.0,
-      "original_price": 60.0,
-      "discount": 40.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3uh7xlo0xqz10",
-      "link": "https://s.shopee.com.br/1qdAwKVhtH",
-      "rating": "4.8",
-      "sales": 254,
-      "shop": "ARMARINHOS SANTA ISADORA",
-      "category": "linha de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498081105,
-        "productName": "Vara De Pesca Novo 12-20lbs Completa Com Molinete Linha Barato",
-        "price": "36",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 254,
-        "ratingStar": "4.8",
-        "shopName": "ARMARINHOS SANTA ISADORA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3uh7xlo0xqz10",
-        "productLink": "https://shopee.com.br/product/947334511/23498081105",
-        "offerLink": "https://s.shopee.com.br/1qdAwKVhtH"
       },
       "_last_price": null
     },
@@ -21416,31 +21416,31 @@
       "_last_price": null
     },
     {
-      "id": "23599649329",
-      "name": "Kit 11 itens completo para Spincast Pesca de Estilingue com Molinete Carretel e Dardos Profissional",
-      "price": 76.49,
-      "original_price": 121.41,
+      "id": "22191330243",
+      "name": "Kit de Pesca Vara Fibra Vidro Maciça 25 Lbs + Molinete 4000 Carretel de Alumínio E Drag de 12 kgs",
+      "price": 129.99,
+      "original_price": 206.33,
       "discount": 37.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7r98o-lkjtd8erha6w41",
-      "link": "https://s.shopee.com.br/7puO5LvazD",
-      "rating": "4.8",
-      "sales": 414,
-      "shop": "Produuuu",
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mtgz16l1ob9fbc",
+      "link": "https://s.shopee.com.br/50aFiVyLUP",
+      "rating": "4.9",
+      "sales": 304,
+      "shop": "MTZK Pesca",
       "category": "molinete pesca",
       "source": "shopee",
       "_item": {
-        "itemId": 23599649329,
-        "productName": "Kit 11 itens completo para Spincast Pesca de Estilingue com Molinete Carretel e Dardos Profissional",
-        "price": "76.49",
+        "itemId": 22191330243,
+        "productName": "Kit de Pesca Vara Fibra Vidro Maciça 25 Lbs + Molinete 4000 Carretel de Alumínio E Drag de 12 kgs",
+        "price": "129.99",
         "priceDiscountRate": 37,
-        "commissionRate": "0.12",
-        "sales": 414,
-        "ratingStar": "4.8",
-        "shopName": "Produuuu",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7r98o-lkjtd8erha6w41",
-        "productLink": "https://shopee.com.br/product/316475205/23599649329",
-        "offerLink": "https://s.shopee.com.br/7puO5LvazD"
+        "commissionRate": "0.11",
+        "sales": 304,
+        "ratingStar": "4.9",
+        "shopName": "MTZK Pesca",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mtgz16l1ob9fbc",
+        "productLink": "https://shopee.com.br/product/865469111/22191330243",
+        "offerLink": "https://s.shopee.com.br/50aFiVyLUP"
       },
       "_last_price": null
     },
@@ -21470,6 +21470,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mpb0thffdkhv05",
         "productLink": "https://shopee.com.br/product/1387203333/18499738293",
         "offerLink": "https://s.shopee.com.br/7faxt5066Q"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23599649329",
+      "name": "Kit 11 itens completo para Spincast Pesca de Estilingue com Molinete Carretel e Dardos Profissional",
+      "price": 76.49,
+      "original_price": 121.41,
+      "discount": 37.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7r98o-lkjtd8erha6w41",
+      "link": "https://s.shopee.com.br/7puO5LvazD",
+      "rating": "4.8",
+      "sales": 414,
+      "shop": "Produuuu",
+      "category": "kit pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23599649329,
+        "productName": "Kit 11 itens completo para Spincast Pesca de Estilingue com Molinete Carretel e Dardos Profissional",
+        "price": "76.49",
+        "priceDiscountRate": 37,
+        "commissionRate": "0.12",
+        "sales": 414,
+        "ratingStar": "4.8",
+        "shopName": "Produuuu",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7r98o-lkjtd8erha6w41",
+        "productLink": "https://shopee.com.br/product/316475205/23599649329",
+        "offerLink": "https://s.shopee.com.br/7puO5LvazD"
       },
       "_last_price": null
     },
@@ -22489,35 +22518,6 @@
       "_last_price": null
     },
     {
-      "id": "14587417405",
-      "name": "Fonte Atx 500w Gamer Ultra Silence Pc Gamer Bivolt kp522",
-      "price": 99.0,
-      "original_price": 150.0,
-      "discount": 34.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/a6822b8520131f55b2b9311bc1613329",
-      "link": "https://s.shopee.com.br/40hg2O8WCR",
-      "rating": "4.8",
-      "sales": 159,
-      "shop": "onispes",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 14587417405,
-        "productName": "Fonte Atx 500w Gamer Ultra Silence Pc Gamer Bivolt kp522",
-        "price": "99",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.03",
-        "sales": 159,
-        "ratingStar": "4.8",
-        "shopName": "onispes",
-        "imageUrl": "https://cf.shopee.com.br/file/a6822b8520131f55b2b9311bc1613329",
-        "productLink": "https://shopee.com.br/product/379996229/14587417405",
-        "offerLink": "https://s.shopee.com.br/40hg2O8WCR"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23294065712",
       "name": "Fonte ATX 230W Real Bivolt Chaveada Silenciosa para PC Desktop com Conectores SATA IDE",
       "price": 49.9,
@@ -22982,6 +22982,35 @@
       "_last_price": null
     },
     {
+      "id": "22491151815",
+      "name": "Kit De Pesca Completa 2 Varas Telescópica 2 Molinete E Itens",
+      "price": 139.9,
+      "original_price": 211.97,
+      "discount": 34.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd3t-lv4rhb85xfxi0b",
+      "link": "https://s.shopee.com.br/4LKYvI0sqL",
+      "rating": "4.8",
+      "sales": 293,
+      "shop": "Summer Pesca e Camping",
+      "category": "molinete pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22491151815,
+        "productName": "Kit De Pesca Completa 2 Varas Telescópica 2 Molinete E Itens",
+        "price": "139.9",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.07",
+        "sales": 293,
+        "ratingStar": "4.8",
+        "shopName": "Summer Pesca e Camping",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd3t-lv4rhb85xfxi0b",
+        "productLink": "https://shopee.com.br/product/320275364/22491151815",
+        "offerLink": "https://s.shopee.com.br/4LKYvI0sqL"
+      },
+      "_last_price": null
+    },
+    {
       "id": "10965664850",
       "name": "Colete Salva Vidas Infantil 15a60 quilos Três cores",
       "price": 59.13,
@@ -23036,35 +23065,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdadlj8req6986",
         "productLink": "https://shopee.com.br/product/893340339/22219940997",
         "offerLink": "https://s.shopee.com.br/1143woug6T"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22491151815",
-      "name": "Kit De Pesca Completa 2 Varas Telescópica 2 Molinete E Itens",
-      "price": 139.9,
-      "original_price": 211.97,
-      "discount": 34.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd3t-lv4rhb85xfxi0b",
-      "link": "https://s.shopee.com.br/1143wph4hw",
-      "rating": "4.8",
-      "sales": 293,
-      "shop": "Summer Pesca e Camping",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22491151815,
-        "productName": "Kit De Pesca Completa 2 Varas Telescópica 2 Molinete E Itens",
-        "price": "139.9",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.07",
-        "sales": 293,
-        "ratingStar": "4.8",
-        "shopName": "Summer Pesca e Camping",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd3t-lv4rhb85xfxi0b",
-        "productLink": "https://shopee.com.br/product/320275364/22491151815",
-        "offerLink": "https://s.shopee.com.br/1143wph4hw"
       },
       "_last_price": null
     },
@@ -23471,35 +23471,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcu4r3lbhv5t84",
         "productLink": "https://shopee.com.br/product/1551770885/22198792838",
         "offerLink": "https://s.shopee.com.br/1qdAwEY8BY"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58257853789",
-      "name": "Kit 4 Chaveiros Academia Fitness Haltere Kettlebell Anilha e Coqueteleira Presente para Treino",
-      "price": 19.9,
-      "original_price": 29.7,
-      "discount": 33.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mup9t69tel8g78",
-      "link": "https://s.shopee.com.br/2LZRXAW1l5",
-      "rating": "4.9",
-      "sales": 82,
-      "shop": "Ad´s Store3 D",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58257853789,
-        "productName": "Kit 4 Chaveiros Academia Fitness Haltere Kettlebell Anilha e Coqueteleira Presente para Treino",
-        "price": "19.9",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.03",
-        "sales": 82,
-        "ratingStar": "4.9",
-        "shopName": "Ad´s Store3 D",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mup9t69tel8g78",
-        "productLink": "https://shopee.com.br/product/715089031/58257853789",
-        "offerLink": "https://s.shopee.com.br/2LZRXAW1l5"
       },
       "_last_price": null
     },
@@ -24080,6 +24051,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-moh9avb3ey9scc",
         "productLink": "https://shopee.com.br/product/417728659/20599359513",
         "offerLink": "https://s.shopee.com.br/9APnoGPxPd"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "29580380931",
+      "name": "Vara De Pesca Ultraleve De Fibra De Alto Carbono UL De 1.5M/1.68M/1.8M-Fiação E Fundição De Ponta Sólida Para Em Água Do",
+      "price": 46.22,
+      "original_price": 67.97,
+      "discount": 32.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxw-mcanhemu1c1j5a",
+      "link": "https://s.shopee.com.br/2qVl8X6atC",
+      "rating": "4.8",
+      "sales": 231,
+      "shop": "Choice Oficial",
+      "category": "molinete pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 29580380931,
+        "productName": "Vara De Pesca Ultraleve De Fibra De Alto Carbono UL De 1.5M/1.68M/1.8M-Fiação E Fundição De Ponta Sólida Para Em Água Do",
+        "price": "46.22",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.07",
+        "sales": 231,
+        "ratingStar": "4.8",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxw-mcanhemu1c1j5a",
+        "productLink": "https://shopee.com.br/product/1006215031/29580380931",
+        "offerLink": "https://s.shopee.com.br/2qVl8X6atC"
       },
       "_last_price": null
     },
@@ -26114,6 +26114,35 @@
       "_last_price": null
     },
     {
+      "id": "17093014377",
+      "name": "Kit De Pesca Completo 1 Vara Telescópica + 1 Molinete Com Linha - Acessórios Iscas, Anzóis, Chumbada",
+      "price": 56.99,
+      "original_price": 80.27,
+      "discount": 29.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8261t-mlgekb6c1amgd8",
+      "link": "https://s.shopee.com.br/2Vsujv7rZA",
+      "rating": "4.8",
+      "sales": 178,
+      "shop": "MTZK Pesca",
+      "category": "molinete pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 17093014377,
+        "productName": "Kit De Pesca Completo 1 Vara Telescópica + 1 Molinete Com Linha - Acessórios Iscas, Anzóis, Chumbada",
+        "price": "56.99",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.11",
+        "sales": 178,
+        "ratingStar": "4.8",
+        "shopName": "MTZK Pesca",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261t-mlgekb6c1amgd8",
+        "productLink": "https://shopee.com.br/product/865469111/17093014377",
+        "offerLink": "https://s.shopee.com.br/2Vsujv7rZA"
+      },
+      "_last_price": null
+    },
+    {
       "id": "46819011243",
       "name": "Colete Salva Vidas Boia Auxiliar Flutuação Adulto Infantil 15 a 140kg Pesca Caiaque Piscina",
       "price": 55.15,
@@ -26255,35 +26284,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mrss6zbff8jq72",
         "productLink": "https://shopee.com.br/product/1842497057/58266030785",
         "offerLink": "https://s.shopee.com.br/AAIIrfqa1d"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "17093014377",
-      "name": "Kit De Pesca Completo 1 Vara Telescópica + 1 Molinete Com Linha - Acessórios Iscas, Anzóis, Chumbada",
-      "price": 56.99,
-      "original_price": 80.27,
-      "discount": 29.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8261t-mlgekb6c1amgd8",
-      "link": "https://s.shopee.com.br/40hhxeLNKT",
-      "rating": "4.8",
-      "sales": 178,
-      "shop": "MTZK Pesca",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 17093014377,
-        "productName": "Kit De Pesca Completo 1 Vara Telescópica + 1 Molinete Com Linha - Acessórios Iscas, Anzóis, Chumbada",
-        "price": "56.99",
-        "priceDiscountRate": 29,
-        "commissionRate": "0.11",
-        "sales": 178,
-        "ratingStar": "4.8",
-        "shopName": "MTZK Pesca",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261t-mlgekb6c1amgd8",
-        "productLink": "https://shopee.com.br/product/865469111/17093014377",
-        "offerLink": "https://s.shopee.com.br/40hhxeLNKT"
       },
       "_last_price": null
     },
@@ -30645,11 +30645,11 @@
       "discount": 18.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxq-mcknjtool2mr2d",
-      "link": "https://s.shopee.com.br/4Vdw7GTkbh",
+      "link": "https://s.shopee.com.br/3g4s843QCH",
       "rating": "4.8",
       "sales": 257,
       "shop": "JAUPESCA",
-      "category": "vara telescopica",
+      "category": "molinete pesca",
       "source": "shopee",
       "_item": {
         "itemId": 41360062714,
@@ -30662,7 +30662,7 @@
         "shopName": "JAUPESCA",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxq-mcknjtool2mr2d",
         "productLink": "https://shopee.com.br/product/954428278/41360062714",
-        "offerLink": "https://s.shopee.com.br/4Vdw7GTkbh"
+        "offerLink": "https://s.shopee.com.br/3g4s843QCH"
       },
       "_last_price": null
     },
@@ -31131,6 +31131,35 @@
       "_last_price": null
     },
     {
+      "id": "9670439728",
+      "name": "Vara de Pesca de Fibra de Vidro Telescópica",
+      "price": 19.99,
+      "original_price": 24.08,
+      "discount": 17.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/c54610b699f470c1fdb5813554e73e32",
+      "link": "https://s.shopee.com.br/3B8bX95KDE",
+      "rating": "4.7",
+      "sales": 231,
+      "shop": "HUIZAI.BR",
+      "category": "molinete pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 9670439728,
+        "productName": "Vara de Pesca de Fibra de Vidro Telescópica",
+        "price": "19.99",
+        "priceDiscountRate": 17,
+        "commissionRate": "0.1",
+        "sales": 231,
+        "ratingStar": "4.7",
+        "shopName": "HUIZAI.BR",
+        "imageUrl": "https://cf.shopee.com.br/file/c54610b699f470c1fdb5813554e73e32",
+        "productLink": "https://shopee.com.br/product/438547769/9670439728",
+        "offerLink": "https://s.shopee.com.br/3B8bX95KDE"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22899352112",
       "name": "KIT 5 Linha Elástica Elastic para Amarrar Isca Pesca 110m + Suporte de Linha Personalizado",
       "price": 25.85,
@@ -31185,35 +31214,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mrc5kpu6ycxwb3",
         "productLink": "https://shopee.com.br/product/1416544509/58215414144",
         "offerLink": "https://s.shopee.com.br/7puO5Nhrf7"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "9670439728",
-      "name": "Vara de Pesca de Fibra de Vidro Telescópica",
-      "price": 19.99,
-      "original_price": 24.08,
-      "discount": 17.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/c54610b699f470c1fdb5813554e73e32",
-      "link": "https://s.shopee.com.br/40hfWLVecc",
-      "rating": "4.7",
-      "sales": 231,
-      "shop": "HUIZAI.BR",
-      "category": "vara telescopica",
-      "source": "shopee",
-      "_item": {
-        "itemId": 9670439728,
-        "productName": "Vara de Pesca de Fibra de Vidro Telescópica",
-        "price": "19.99",
-        "priceDiscountRate": 17,
-        "commissionRate": "0.1",
-        "sales": 231,
-        "ratingStar": "4.7",
-        "shopName": "HUIZAI.BR",
-        "imageUrl": "https://cf.shopee.com.br/file/c54610b699f470c1fdb5813554e73e32",
-        "productLink": "https://shopee.com.br/product/438547769/9670439728",
-        "offerLink": "https://s.shopee.com.br/40hfWLVecc"
       },
       "_last_price": null
     },
