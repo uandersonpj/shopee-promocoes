@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T04:40:47.266361+00:00",
+  "updated_at": "2026-10-31T04:59:26.049523+00:00",
   "total": 1110,
   "products": [
     {
@@ -5964,7 +5964,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258x-msf4mu1o9q1124",
         "productLink": "https://shopee.com.br/product/832040275/23096150316",
         "offerLink": "https://s.shopee.com.br/60Sjtqjo9V"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58205100450",
@@ -14202,8 +14203,8 @@
     {
       "id": "20198149247",
       "name": "Suporte Articulado Para Monitor 13 a 32 Pistão a Gás Ajustável Zinnia Nimbo 110 Branco",
-      "price": 99.82,
-      "original_price": 195.73,
+      "price": 99.9,
+      "original_price": 195.88,
       "discount": 49.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mspyhjq7hkat53",
@@ -14216,7 +14217,7 @@
       "_item": {
         "itemId": 20198149247,
         "productName": "Suporte Articulado Para Monitor 13 a 32 Pistão a Gás Ajustável Zinnia Nimbo 110 Branco",
-        "price": "99.82",
+        "price": "99.9",
         "priceDiscountRate": 49,
         "commissionRate": "0.03",
         "sales": 2052,
