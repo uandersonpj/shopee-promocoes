@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-31T03:25:57.273830+00:00",
-  "total": 1110,
+  "updated_at": "2026-10-31T03:44:45.584125+00:00",
+  "total": 1111,
   "products": [
     {
       "id": "52807406192",
@@ -5846,7 +5846,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zr-mklbm2prptdx7f",
         "productLink": "https://shopee.com.br/product/664761873/21998128832",
         "offerLink": "https://s.shopee.com.br/9zysf8fGp1"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "45468100867",
@@ -12775,35 +12776,6 @@
       "_last_price": null
     },
     {
-      "id": "58207449353",
-      "name": "Suporte para Placa de Vídeo GPU Ajustável Nvidia, Radeon, Preto e Branco Universal Suporte Para Não Deixar Placa Solta",
-      "price": 8.99,
-      "original_price": 17.98,
-      "discount": 50.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lz-ms1btpayk83q0a",
-      "link": "https://s.shopee.com.br/6L5aIOtEG9",
-      "rating": "4.8",
-      "sales": 283,
-      "shop": "VenezzaImperial",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58207449353,
-        "productName": "Suporte para Placa de Vídeo GPU Ajustável Nvidia, Radeon, Preto e Branco Universal Suporte Para Não Deixar Placa Solta",
-        "price": "8.99",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.08",
-        "sales": 283,
-        "ratingStar": "4.8",
-        "shopName": "VenezzaImperial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-ms1btpayk83q0a",
-        "productLink": "https://shopee.com.br/product/1528195319/58207449353",
-        "offerLink": "https://s.shopee.com.br/6L5aIOtEG9"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58256611329",
       "name": "Suporte Ajustável Placa de Vídeo GPU Anti-Sag Universal 2,6cm a 12cm Suporte Vertical GPU PC Gamer Pequeno Médio Grande",
       "price": 10.95,
@@ -13670,6 +13642,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-msc0ajin7hms37",
         "productLink": "https://shopee.com.br/product/1252710748/23798203051",
         "offerLink": "https://s.shopee.com.br/AUvBOiKshl"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58250959404",
+      "name": "Eletrozon Panela de Pressão Elétrica 6 Litros Digital | Multifuncional, Timer e Alta Segurança",
+      "price": 299.95,
+      "original_price": 599.9,
+      "discount": 50.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82279-mhgkipztzi837a",
+      "link": "https://s.shopee.com.br/50aDELiuzZ",
+      "rating": "4.9",
+      "sales": 1311,
+      "shop": "Invention Hunters",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58250959404,
+        "productName": "Eletrozon Panela de Pressão Elétrica 6 Litros Digital | Multifuncional, Timer e Alta Segurança",
+        "price": "299.95",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.18",
+        "sales": 1311,
+        "ratingStar": "4.9",
+        "shopName": "Invention Hunters",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82279-mhgkipztzi837a",
+        "productLink": "https://shopee.com.br/product/1661007426/58250959404",
+        "offerLink": "https://s.shopee.com.br/50aDELiuzZ"
       },
       "_last_price": null
     },
@@ -23017,7 +23018,7 @@
       "price": 49.25,
       "original_price": 73.51,
       "discount": 33.0,
-      "commission": 18.0,
+      "commission": 21.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mq80n6l4qkub32",
       "link": "https://s.shopee.com.br/5q9JhYO2Zj",
       "rating": "4.9",
@@ -23030,7 +23031,7 @@
         "productName": "Kit S.O.S Hidratação Óleo de Rícino Shampoo e Condicionador Litrão Salon Line",
         "price": "49.25",
         "priceDiscountRate": 33,
-        "commissionRate": "0.18",
+        "commissionRate": "0.21",
         "sales": 4590,
         "ratingStar": "4.9",
         "shopName": "Salon Line",
@@ -24728,7 +24729,7 @@
       "price": 19.95,
       "original_price": 28.5,
       "discount": 30.0,
-      "commission": 18.0,
+      "commission": 21.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8259g-msbwy1o9n30qbe",
       "link": "https://s.shopee.com.br/AAIIrW7Xmb",
       "rating": "4.9",
@@ -24741,7 +24742,7 @@
         "productName": "Kit Shampoo + Condicionador SOS Bomba Original Salon Line 200ml",
         "price": "19.95",
         "priceDiscountRate": 30,
-        "commissionRate": "0.18",
+        "commissionRate": "0.21",
         "sales": 4351,
         "ratingStar": "4.9",
         "shopName": "Salon Line",
@@ -26874,7 +26875,7 @@
       "price": 49.0,
       "original_price": 66.22,
       "discount": 26.0,
-      "commission": 18.0,
+      "commission": 21.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-8258a-msbwmmolzx8m23",
       "link": "https://s.shopee.com.br/5LD36dPwaa",
       "rating": "4.9",
@@ -26887,7 +26888,7 @@
         "productName": "Kit SOS Cachos Coco Profundo Shampoo e Condicionador Litrão Salon Line",
         "price": "49",
         "priceDiscountRate": 26,
-        "commissionRate": "0.18",
+        "commissionRate": "0.21",
         "sales": 4695,
         "ratingStar": "4.9",
         "shopName": "Salon Line",
@@ -29765,6 +29766,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7qukw-li3ojrjk9ksf8f",
         "productLink": "https://shopee.com.br/product/503331535/20098604949",
         "offerLink": "https://s.shopee.com.br/6AmA6GKPrW"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "4685526528",
+      "name": "Carteira Estampada De Notas Estrangeiras Dólar/Euro/Real Guardar Cédulas Documentos",
+      "price": 10.99,
+      "original_price": 13.74,
+      "discount": 20.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-md36g7c3s3led0",
+      "link": "https://s.shopee.com.br/1W0KXgtzGL",
+      "rating": "4.8",
+      "sales": 3793,
+      "shop": "DH GLOBAL",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 4685526528,
+        "productName": "Carteira Estampada De Notas Estrangeiras Dólar/Euro/Real Guardar Cédulas Documentos",
+        "price": "10.99",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.03",
+        "sales": 3793,
+        "ratingStar": "4.8",
+        "shopName": "DH GLOBAL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md36g7c3s3led0",
+        "productLink": "https://shopee.com.br/product/311930308/4685526528",
+        "offerLink": "https://s.shopee.com.br/1W0KXgtzGL"
       },
       "_last_price": null
     },
