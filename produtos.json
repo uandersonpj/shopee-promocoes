@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-31T07:28:25.155577+00:00",
-  "total": 1110,
+  "updated_at": "2026-10-31T07:47:02.829206+00:00",
+  "total": 1109,
   "products": [
     {
       "id": "52807406192",
@@ -1707,7 +1707,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mtolww79jgn783",
         "productLink": "https://shopee.com.br/product/1506274241/58266336951",
         "offerLink": "https://s.shopee.com.br/50aCiBRqaq"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "44059916730",
@@ -30038,35 +30039,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/7c7aaef0b31d73bd943f5e16ba233f38",
         "productLink": "https://shopee.com.br/product/819102498/18725824866",
         "offerLink": "https://s.shopee.com.br/5fpu49Cwf5"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58270243088",
-      "name": "Protetor Solar Facial Hidrabene FPS 70 Toque Seco - 50g",
-      "price": 29.9,
-      "original_price": 36.91,
-      "discount": 19.0,
-      "commission": 15.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820me-mu5trnacuq691b",
-      "link": "https://s.shopee.com.br/4Vdw776zMI",
-      "rating": "4.9",
-      "sales": 4989,
-      "shop": "Hidrabene ",
-      "category": "protetor solar",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58270243088,
-        "productName": "Protetor Solar Facial Hidrabene FPS 70 Toque Seco - 50g",
-        "price": "29.9",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.15",
-        "sales": 4989,
-        "ratingStar": "4.9",
-        "shopName": "Hidrabene ",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mu5trnacuq691b",
-        "productLink": "https://shopee.com.br/product/1860098702/58270243088",
-        "offerLink": "https://s.shopee.com.br/4Vdw776zMI"
       },
       "_last_price": null
     },
