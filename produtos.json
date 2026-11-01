@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T00:14:21.713899+00:00",
-  "total": 1101,
+  "updated_at": "2026-11-01T00:33:49.607006+00:00",
+  "total": 1094,
   "products": [
     {
       "id": "52807406192",
@@ -258,7 +258,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134275-7rdxw-mdfucal40l6y57",
         "productLink": "https://shopee.com.br/product/236693678/26539956454",
         "offerLink": "https://s.shopee.com.br/6L5aIcIZNF"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49466540071",
@@ -3349,8 +3350,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me9rity3qqkg1d",
         "productLink": "https://shopee.com.br/product/1494995608/18398161750",
         "offerLink": "https://s.shopee.com.br/70LH5dUI2Z"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22994148851",
@@ -9439,35 +9439,6 @@
       "_last_price": null
     },
     {
-      "id": "18297665963",
-      "name": "Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Bebê Babete Toalinha Babita Paninho Estampado",
-      "price": 26.99,
-      "original_price": 59.98,
-      "discount": 55.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcf9-lton9bme325s31",
-      "link": "https://s.shopee.com.br/5AtgcrM18s",
-      "rating": "4.5",
-      "sales": 2092,
-      "shop": "EssencialBaby",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18297665963,
-        "productName": "Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Bebê Babete Toalinha Babita Paninho Estampado",
-        "price": "26.99",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.06",
-        "sales": 2092,
-        "ratingStar": "4.5",
-        "shopName": "EssencialBaby",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcf9-lton9bme325s31",
-        "productLink": "https://shopee.com.br/product/378105312/18297665963",
-        "offerLink": "https://s.shopee.com.br/5AtgcrM18s"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23698734800",
       "name": "Creatina Suplemento Monohidratada em Pó - Soldiers Nutrition",
       "price": 55.9,
@@ -10653,64 +10624,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwu-md3owfmt11dsa0",
         "productLink": "https://shopee.com.br/product/1535794969/23994336380",
         "offerLink": "https://s.shopee.com.br/8KqiZL6w9R"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20997656316",
-      "name": "Pano de Boca Kit 6 Unidades Paninho Fralda de Bebe 100% Algodão 30cmx30cm",
-      "price": 14.99,
-      "original_price": 31.89,
-      "discount": 53.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rccl-ltfjisspmlrbad",
-      "link": "https://s.shopee.com.br/50aFuOr16n",
-      "rating": "4.7",
-      "sales": 4204,
-      "shop": "EssencialBaby",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20997656316,
-        "productName": "Pano de Boca Kit 6 Unidades Paninho Fralda de Bebe 100% Algodão 30cmx30cm",
-        "price": "14.99",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.06",
-        "sales": 4204,
-        "ratingStar": "4.7",
-        "shopName": "EssencialBaby",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rccl-ltfjisspmlrbad",
-        "productLink": "https://shopee.com.br/product/378105312/20997656316",
-        "offerLink": "https://s.shopee.com.br/50aFuOr16n"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23992941253",
-      "name": "Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Algodão Grande Macias Estampadas",
-      "price": 27.99,
-      "original_price": 59.55,
-      "discount": 53.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcdr-ltomtv6ucsfla9",
-      "link": "https://s.shopee.com.br/4B19R1PpAi",
-      "rating": "4.4",
-      "sales": 1825,
-      "shop": "EssencialBaby",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23992941253,
-        "productName": "Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Algodão Grande Macias Estampadas",
-        "price": "27.99",
-        "priceDiscountRate": 53,
-        "commissionRate": "0.06",
-        "sales": 1825,
-        "ratingStar": "4.4",
-        "shopName": "EssencialBaby",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdr-ltomtv6ucsfla9",
-        "productLink": "https://shopee.com.br/product/378105312/23992941253",
-        "offerLink": "https://s.shopee.com.br/4B19R1PpAi"
       },
       "_last_price": null
     },
@@ -12948,35 +12861,6 @@
       "_last_price": null
     },
     {
-      "id": "58202145489",
-      "name": "Fonte ATX 24 Pinos 500W Preta - MARCAS VARIADAS",
-      "price": 69.9,
-      "original_price": 139.8,
-      "discount": 50.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mqxyg70mca2ue9",
-      "link": "https://s.shopee.com.br/6q1ubrgvpx",
-      "rating": "4.5",
-      "sales": 29,
-      "shop": "info.monkey",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58202145489,
-        "productName": "Fonte ATX 24 Pinos 500W Preta - MARCAS VARIADAS",
-        "price": "69.9",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.09",
-        "sales": 29,
-        "ratingStar": "4.5",
-        "shopName": "info.monkey",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mqxyg70mca2ue9",
-        "productLink": "https://shopee.com.br/product/399801749/58202145489",
-        "offerLink": "https://s.shopee.com.br/6q1ubrgvpx"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18298028063",
       "name": "Kit Dispenser Organizador Lavanderia 2,3 litros 1,5 Litros Acrílico (AMACIANTE, SABÃO EM PÓ)",
       "price": 32.45,
@@ -14253,35 +14137,6 @@
       "_last_price": null
     },
     {
-      "id": "23593130581",
-      "name": "FONTE ATX 24 PINOS APARTIR DE 200 W PADRÃO - LEIA A DESCRIÇÃO",
-      "price": 29.9,
-      "original_price": 58.63,
-      "discount": 49.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mra5i3qbyrrbf5",
-      "link": "https://s.shopee.com.br/30pC2ovWcM",
-      "rating": "4.5",
-      "sales": 34,
-      "shop": "info.monkey",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23593130581,
-        "productName": "FONTE ATX 24 PINOS APARTIR DE 200 W PADRÃO - LEIA A DESCRIÇÃO",
-        "price": "29.9",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.09",
-        "sales": 34,
-        "ratingStar": "4.5",
-        "shopName": "info.monkey",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mra5i3qbyrrbf5",
-        "productLink": "https://shopee.com.br/product/399801749/23593130581",
-        "offerLink": "https://s.shopee.com.br/30pC2ovWcM"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18499795897",
       "name": "Alumínio Escorredor Armazenamento De Cozinha Rack De Toalhas Esponja Drenagem De Sabonete Prateleira",
       "price": 19.99,
@@ -14974,35 +14829,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mqxy7af9hdl227",
         "productLink": "https://shopee.com.br/product/1345121697/19699848308",
         "offerLink": "https://s.shopee.com.br/80DoHUqCWb"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18097691606",
-      "name": "Toalha de Banho Fralda Soft com Capuz para Bebê  OU  Kit com 2, 3 ou 4 Toalhas",
-      "price": 31.99,
-      "original_price": 60.36,
-      "discount": 47.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcd0-ltolekuk92vba4",
-      "link": "https://s.shopee.com.br/3qOJ2PR5qU",
-      "rating": "4.9",
-      "sales": 4010,
-      "shop": "EssencialBaby",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18097691606,
-        "productName": "Toalha de Banho Fralda Soft com Capuz para Bebê  OU  Kit com 2, 3 ou 4 Toalhas",
-        "price": "31.99",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.06",
-        "sales": 4010,
-        "ratingStar": "4.9",
-        "shopName": "EssencialBaby",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcd0-ltolekuk92vba4",
-        "productLink": "https://shopee.com.br/product/378105312/18097691606",
-        "offerLink": "https://s.shopee.com.br/3qOJ2PR5qU"
       },
       "_last_price": null
     },
@@ -21706,35 +21532,6 @@
       "_last_price": null
     },
     {
-      "id": "18498293522",
-      "name": "Mochila Bolsa Reforçada Notebook Impermeavel Colorido Material Premium Elegantes Excecultivo Ref:888",
-      "price": 39.3,
-      "original_price": 60.46,
-      "discount": 35.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-md6iwjk2awc264",
-      "link": "https://s.shopee.com.br/8pmvGz1iOw",
-      "rating": "4.7",
-      "sales": 3682,
-      "shop": "M Flowerr",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18498293522,
-        "productName": "Mochila Bolsa Reforçada Notebook Impermeavel Colorido Material Premium Elegantes Excecultivo Ref:888",
-        "price": "39.3",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.08",
-        "sales": 3682,
-        "ratingStar": "4.7",
-        "shopName": "M Flowerr",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md6iwjk2awc264",
-        "productLink": "https://shopee.com.br/product/1210545163/18498293522",
-        "offerLink": "https://s.shopee.com.br/8pmvGz1iOw"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22799024930",
       "name": "Pasta Térmica Prata GD900 4,8W/MK Notebooks Computadores Videogame Placa de vídeo console 1g 7g 15g",
       "price": 10.99,
@@ -23761,6 +23558,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfy2av7acd8g3c",
         "productLink": "https://shopee.com.br/product/344487407/23294539279",
         "offerLink": "https://s.shopee.com.br/5VWTJ5Lk42"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18498293522",
+      "name": "Mochila Bolsa Reforçada Notebook Impermeavel Colorido Material Premium Elegantes Excecultivo Ref:888",
+      "price": 44.99,
+      "original_price": 65.2,
+      "discount": 31.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-md6iwjk2awc264",
+      "link": "https://s.shopee.com.br/8pmvGz1iOw",
+      "rating": "4.7",
+      "sales": 3682,
+      "shop": "M Flowerr",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18498293522,
+        "productName": "Mochila Bolsa Reforçada Notebook Impermeavel Colorido Material Premium Elegantes Excecultivo Ref:888",
+        "price": "44.99",
+        "priceDiscountRate": 31,
+        "commissionRate": "0.08",
+        "sales": 3682,
+        "ratingStar": "4.7",
+        "shopName": "M Flowerr",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md6iwjk2awc264",
+        "productLink": "https://shopee.com.br/product/1210545163/18498293522",
+        "offerLink": "https://s.shopee.com.br/8pmvGz1iOw"
       },
       "_last_price": null
     },
@@ -27158,6 +26984,35 @@
       "_last_price": null
     },
     {
+      "id": "13746319989",
+      "name": "Ração Golden Formula Mini Bits Cães Adultos Raças Pequenas Carne e Arroz 15kg",
+      "price": 147.35,
+      "original_price": 196.47,
+      "discount": 25.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mqlzlrycnj0gf0",
+      "link": "https://s.shopee.com.br/4LKY3MeZDw",
+      "rating": "4.9",
+      "sales": 682,
+      "shop": "Popular Pet",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 13746319989,
+        "productName": "Ração Golden Formula Mini Bits Cães Adultos Raças Pequenas Carne e Arroz 15kg",
+        "price": "147.35",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.03",
+        "sales": 682,
+        "ratingStar": "4.9",
+        "shopName": "Popular Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mqlzlrycnj0gf0",
+        "productLink": "https://shopee.com.br/product/398944029/13746319989",
+        "offerLink": "https://s.shopee.com.br/4LKY3MeZDw"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23098728972",
       "name": "Ração Cachorro Adulto 15kg Quatree Gourmet Todas Raças Sabor Carne",
       "price": 118.99,
@@ -29271,35 +29126,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8nhpczsfg5t37",
         "productLink": "https://shopee.com.br/product/277163538/19099682372",
         "offerLink": "https://s.shopee.com.br/6fiUWD4KIg"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21499179442",
-      "name": "Termômetro Digital G-tech Branco",
-      "price": 19.99,
-      "original_price": 24.99,
-      "discount": 20.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbkl-lqcfxf25r8tcd5",
-      "link": "https://s.shopee.com.br/3qOHSKwIA4",
-      "rating": "4.9",
-      "sales": 2946,
-      "shop": "EssencialBaby",
-      "category": "monitor",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21499179442,
-        "productName": "Termômetro Digital G-tech Branco",
-        "price": "19.99",
-        "priceDiscountRate": 20,
-        "commissionRate": "0.06",
-        "sales": 2946,
-        "ratingStar": "4.9",
-        "shopName": "EssencialBaby",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbkl-lqcfxf25r8tcd5",
-        "productLink": "https://shopee.com.br/product/378105312/21499179442",
-        "offerLink": "https://s.shopee.com.br/3qOHSKwIA4"
       },
       "_last_price": null
     },
@@ -31881,35 +31707,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd44-m7nppvnhfzyf3e",
         "productLink": "https://shopee.com.br/product/338682375/26380522462",
         "offerLink": "https://s.shopee.com.br/5LD36n8yq0"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "6443341118",
-      "name": "Armadilha Covo Isca Viva Lambari Siri Pesca Tucunaré Traíra",
-      "price": 25.5,
-      "original_price": 30.0,
-      "discount": 15.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98q-lm8wzoexwcobbb",
-      "link": "https://s.shopee.com.br/LoN9cnP3C",
-      "rating": "4.8",
-      "sales": 232,
-      "shop": "GUERRA DOS GAMES",
-      "category": "rede de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 6443341118,
-        "productName": "Armadilha Covo Isca Viva Lambari Siri Pesca Tucunaré Traíra",
-        "price": "25.5",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.03",
-        "sales": 232,
-        "ratingStar": "4.8",
-        "shopName": "GUERRA DOS GAMES",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98q-lm8wzoexwcobbb",
-        "productLink": "https://shopee.com.br/product/286003559/6443341118",
-        "offerLink": "https://s.shopee.com.br/LoN9cnP3C"
       },
       "_last_price": null
     }
