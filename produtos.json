@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T06:01:09.140528+00:00",
-  "total": 1080,
+  "updated_at": "2026-11-01T06:21:37.619318+00:00",
+  "total": 1081,
   "products": [
     {
       "id": "52807406192",
@@ -1621,7 +1621,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me9rity3qqkg1d",
         "productLink": "https://shopee.com.br/product/1494995608/18398161750",
         "offerLink": "https://s.shopee.com.br/5q9OUtv3yI"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22498781114",
@@ -9187,6 +9188,35 @@
       "_last_price": null
     },
     {
+      "id": "58267794292",
+      "name": "Sabão em Pó Percabonato Rustico Tira Mancha",
+      "price": 9.9,
+      "original_price": 22.0,
+      "discount": 55.0,
+      "commission": 18.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mrm3hs9i1b0k13",
+      "link": "https://s.shopee.com.br/4Ve0uT3vgY",
+      "rating": "4.8",
+      "sales": 503,
+      "shop": "Dolff Store",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58267794292,
+        "productName": "Sabão em Pó Percabonato Rustico Tira Mancha",
+        "price": "9.9",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.18",
+        "sales": 503,
+        "ratingStar": "4.8",
+        "shopName": "Dolff Store",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mrm3hs9i1b0k13",
+        "productLink": "https://shopee.com.br/product/1928789558/58267794292",
+        "offerLink": "https://s.shopee.com.br/4Ve0uT3vgY"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58265304718",
       "name": "LEVE 2 PELO PREÇO DE 1 | DESINFETANTE FAZ 25 LTS CADA | INTENSE + LAVANDA PÉTALAS",
       "price": 18.49,
@@ -15422,35 +15452,6 @@
       "_last_price": null
     },
     {
-      "id": "58211803676",
-      "name": "240Kg Carretilha De Pesca Com Marine Sports Pitching 6.2 : 1 Alta 10kg Max Molinete De Pesca Molinete Pesca Mulinete",
-      "price": 42.99,
-      "original_price": 79.61,
-      "discount": 46.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-823po-moz60vl5kbgh34",
-      "link": "https://s.shopee.com.br/8fTZsGCCBM",
-      "rating": "4.9",
-      "sales": 317,
-      "shop": "JOYBELLA ",
-      "category": "carretilha pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58211803676,
-        "productName": "240Kg Carretilha De Pesca Com Marine Sports Pitching 6.2 : 1 Alta 10kg Max Molinete De Pesca Molinete Pesca Mulinete",
-        "price": "42.99",
-        "priceDiscountRate": 46,
-        "commissionRate": "0.07",
-        "sales": 317,
-        "ratingStar": "4.9",
-        "shopName": "JOYBELLA ",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823po-moz60vl5kbgh34",
-        "productLink": "https://shopee.com.br/product/1820598106/58211803676",
-        "offerLink": "https://s.shopee.com.br/8fTZsGCCBM"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23192991550",
       "name": "Kit Pesca Esportiva Completo com Vara Telescópica e Estojo Organizador e Acessorios",
       "price": 37.0,
@@ -16462,6 +16463,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf2ygt9g0iyta0",
         "productLink": "https://shopee.com.br/product/323761608/40771440846",
         "offerLink": "https://s.shopee.com.br/6AmEteUA2Q"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58211803676",
+      "name": "240Kg Carretilha De Pesca Com Marine Sports Pitching 6.2 : 1 Alta 10kg Max Molinete De Pesca Molinete Pesca Mulinete",
+      "price": 43.99,
+      "original_price": 79.98,
+      "discount": 45.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-823po-moz60vl5kbgh34",
+      "link": "https://s.shopee.com.br/8fTZsGCCBM",
+      "rating": "4.9",
+      "sales": 317,
+      "shop": "JOYBELLA ",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58211803676,
+        "productName": "240Kg Carretilha De Pesca Com Marine Sports Pitching 6.2 : 1 Alta 10kg Max Molinete De Pesca Molinete Pesca Mulinete",
+        "price": "43.99",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.07",
+        "sales": 317,
+        "ratingStar": "4.9",
+        "shopName": "JOYBELLA ",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823po-moz60vl5kbgh34",
+        "productLink": "https://shopee.com.br/product/1820598106/58211803676",
+        "offerLink": "https://s.shopee.com.br/8fTZsGCCBM"
       },
       "_last_price": null
     },
