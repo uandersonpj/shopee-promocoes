@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T06:41:45.890099+00:00",
-  "total": 1081,
+  "updated_at": "2026-11-01T07:00:31.674014+00:00",
+  "total": 1082,
   "products": [
     {
       "id": "52807406192",
@@ -72,7 +72,7 @@
       "rating": "4.8",
       "sales": 4894,
       "shop": "CASA  HOME",
-      "category": "organizador",
+      "category": "shampoo",
       "source": "shopee",
       "_item": {
         "itemId": 58210104632,
@@ -1274,7 +1274,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1xeanm14pt61d",
         "productLink": "https://shopee.com.br/product/1017646777/22198016021",
         "offerLink": "https://s.shopee.com.br/7VHcU28pHN"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "50052384985",
@@ -21046,6 +21047,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zup-mmrk4iywe1oi7c",
         "productLink": "https://shopee.com.br/product/493059579/55508351298",
         "offerLink": "https://s.shopee.com.br/1W0PKy1kMH"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23794994613",
+      "name": "Escorredor Kitchen Rack Aço Inoxidável Organizador Louça Preto Pia Kitchen Rack Aço Ino",
+      "price": 76.9,
+      "original_price": 120.16,
+      "discount": 36.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mpc0kpszssu82c",
+      "link": "https://s.shopee.com.br/7KyBNVAkBD",
+      "rating": "4.7",
+      "sales": 6661,
+      "shop": "RM COMERCIO",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23794994613,
+        "productName": "Escorredor Kitchen Rack Aço Inoxidável Organizador Louça Preto Pia Kitchen Rack Aço Ino",
+        "price": "76.9",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 6661,
+        "ratingStar": "4.7",
+        "shopName": "RM COMERCIO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mpc0kpszssu82c",
+        "productLink": "https://shopee.com.br/product/1592199608/23794994613",
+        "offerLink": "https://s.shopee.com.br/7KyBNVAkBD"
       },
       "_last_price": null
     },
