@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-31T23:54:56.330019+00:00",
-  "total": 1102,
+  "updated_at": "2026-11-01T00:14:21.713899+00:00",
+  "total": 1101,
   "products": [
     {
       "id": "52807406192",
@@ -802,7 +802,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b5-mrifmn63mzgs53",
         "productLink": "https://shopee.com.br/product/1841804999/49165555882",
         "offerLink": "https://s.shopee.com.br/W7nLvmliF"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58258026087",
@@ -1091,8 +1092,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mo5m3lm7da841f",
         "productLink": "https://shopee.com.br/product/1654851165/58210532717",
         "offerLink": "https://s.shopee.com.br/20wb8Wu6Uo"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22895058213",
@@ -3680,7 +3680,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lw-msroo4begqh009",
       "link": "https://s.shopee.com.br/5fptVCz5Fv",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 952,
       "shop": "BOTHale",
       "category": "sabao em po",
@@ -3692,7 +3692,7 @@
         "priceDiscountRate": 67,
         "commissionRate": "0.03",
         "sales": 952,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "BOTHale",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-msroo4begqh009",
         "productLink": "https://shopee.com.br/product/1927684214/58267574488",
@@ -5873,6 +5873,35 @@
       "_last_price": null
     },
     {
+      "id": "23694425028",
+      "name": "Prateleira Sapateira 9 Andares De Metal E Plastico Organizador Multiuso Prata Para Sapatos Calçados a",
+      "price": 37.98,
+      "original_price": 99.95,
+      "discount": 62.0,
+      "commission": 4.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvo-mcb1mf1khcohec",
+      "link": "https://s.shopee.com.br/3B8YWduatf",
+      "rating": "4.9",
+      "sales": 12506,
+      "shop": "Bom DMS Brasil",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23694425028,
+        "productName": "Prateleira Sapateira 9 Andares De Metal E Plastico Organizador Multiuso Prata Para Sapatos Calçados a",
+        "price": "37.98",
+        "priceDiscountRate": 62,
+        "commissionRate": "0.04",
+        "sales": 12506,
+        "ratingStar": "4.9",
+        "shopName": "Bom DMS Brasil",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvo-mcb1mf1khcohec",
+        "productLink": "https://shopee.com.br/product/1619145136/23694425028",
+        "offerLink": "https://s.shopee.com.br/3B8YWduatf"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23096150316",
       "name": "1/2/5 Suporte De Parede Multifuncional Caixa De Armazenamento Casa Para Carregar Remoto Um Slot Organizadores para Casa",
       "price": 7.37,
@@ -6014,35 +6043,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxg-mci7tatwspgme5",
         "productLink": "https://shopee.com.br/product/301195728/22294256002",
         "offerLink": "https://s.shopee.com.br/4LKVupOc6n"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23993522162",
-      "name": "Creatina Monohidratada Pura 1kg, 500g, 700g e 300g Refil - FTW",
-      "price": 42.9,
-      "original_price": 112.89,
-      "discount": 62.0,
-      "commission": 23.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf8fj8snacck60",
-      "link": "https://s.shopee.com.br/AUvDIivLBW",
-      "rating": "4.9",
-      "sales": 1002,
-      "shop": "Loja Oficial FTW",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23993522162,
-        "productName": "Creatina Monohidratada Pura 1kg, 500g, 700g e 300g Refil - FTW",
-        "price": "42.9",
-        "priceDiscountRate": 62,
-        "commissionRate": "0.23",
-        "sales": 1002,
-        "ratingStar": "4.9",
-        "shopName": "Loja Oficial FTW",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf8fj8snacck60",
-        "productLink": "https://shopee.com.br/product/1397772996/23993522162",
-        "offerLink": "https://s.shopee.com.br/AUvDIivLBW"
       },
       "_last_price": null
     },
@@ -7376,35 +7376,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mrafvjnyxnnr89",
         "productLink": "https://shopee.com.br/product/1536382880/58265304718",
         "offerLink": "https://s.shopee.com.br/7puOe84hGQ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23694425028",
-      "name": "Prateleira Sapateira 9 Andares De Metal E Plastico Organizador Multiuso Prata Para Sapatos Calçados a",
-      "price": 40.99,
-      "original_price": 99.98,
-      "discount": 59.0,
-      "commission": 4.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvo-mcb1mf1khcohec",
-      "link": "https://s.shopee.com.br/3B8YWduatf",
-      "rating": "4.9",
-      "sales": 12506,
-      "shop": "Bom DMS Brasil",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23694425028,
-        "productName": "Prateleira Sapateira 9 Andares De Metal E Plastico Organizador Multiuso Prata Para Sapatos Calçados a",
-        "price": "40.99",
-        "priceDiscountRate": 59,
-        "commissionRate": "0.04",
-        "sales": 12506,
-        "ratingStar": "4.9",
-        "shopName": "Bom DMS Brasil",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvo-mcb1mf1khcohec",
-        "productLink": "https://shopee.com.br/product/1619145136/23694425028",
-        "offerLink": "https://s.shopee.com.br/3B8YWduatf"
       },
       "_last_price": null
     },
@@ -20082,35 +20053,6 @@
       "_last_price": null
     },
     {
-      "id": "18498293522",
-      "name": "Mochila Bolsa Reforçada Notebook Impermeavel Colorido Material Premium Elegantes Excecultivo Ref:888",
-      "price": 39.3,
-      "original_price": 63.39,
-      "discount": 38.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-md6iwjk2awc264",
-      "link": "https://s.shopee.com.br/8pmvGz1iOw",
-      "rating": "4.7",
-      "sales": 3682,
-      "shop": "M Flowerr",
-      "category": "notebook",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18498293522,
-        "productName": "Mochila Bolsa Reforçada Notebook Impermeavel Colorido Material Premium Elegantes Excecultivo Ref:888",
-        "price": "39.3",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.08",
-        "sales": 3682,
-        "ratingStar": "4.7",
-        "shopName": "M Flowerr",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md6iwjk2awc264",
-        "productLink": "https://shopee.com.br/product/1210545163/18498293522",
-        "offerLink": "https://s.shopee.com.br/8pmvGz1iOw"
-      },
-      "_last_price": null
-    },
-    {
       "id": "45352758433",
       "name": "Laptop Infantil Notebook Educativo Computador Português e Inglês Raciocínio Lógico Palavras Números",
       "price": 49.9,
@@ -21760,6 +21702,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mtjv31vt75du15",
         "productLink": "https://shopee.com.br/product/368557723/58210211974",
         "offerLink": "https://s.shopee.com.br/9pfST6Cpk5"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18498293522",
+      "name": "Mochila Bolsa Reforçada Notebook Impermeavel Colorido Material Premium Elegantes Excecultivo Ref:888",
+      "price": 39.3,
+      "original_price": 60.46,
+      "discount": 35.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-md6iwjk2awc264",
+      "link": "https://s.shopee.com.br/8pmvGz1iOw",
+      "rating": "4.7",
+      "sales": 3682,
+      "shop": "M Flowerr",
+      "category": "notebook",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18498293522,
+        "productName": "Mochila Bolsa Reforçada Notebook Impermeavel Colorido Material Premium Elegantes Excecultivo Ref:888",
+        "price": "39.3",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.08",
+        "sales": 3682,
+        "ratingStar": "4.7",
+        "shopName": "M Flowerr",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md6iwjk2awc264",
+        "productLink": "https://shopee.com.br/product/1210545163/18498293522",
+        "offerLink": "https://s.shopee.com.br/8pmvGz1iOw"
       },
       "_last_price": null
     },
@@ -26404,6 +26375,35 @@
       "_last_price": null
     },
     {
+      "id": "58259057330",
+      "name": "Dux Creatina Monohidratada 300g - Força e Potência Muscular",
+      "price": 43.2,
+      "original_price": 59.18,
+      "discount": 27.0,
+      "commission": 19.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m9-mnpqqxr1bz7o49",
+      "link": "https://s.shopee.com.br/LoNfjKSMS",
+      "rating": "4.8",
+      "sales": 1155,
+      "shop": "Dex Fitt",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58259057330,
+        "productName": "Dux Creatina Monohidratada 300g - Força e Potência Muscular",
+        "price": "43.2",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.19",
+        "sales": 1155,
+        "ratingStar": "4.8",
+        "shopName": "Dex Fitt",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mnpqqxr1bz7o49",
+        "productLink": "https://shopee.com.br/product/1517289552/58259057330",
+        "offerLink": "https://s.shopee.com.br/LoNfjKSMS"
+      },
+      "_last_price": null
+    },
+    {
       "id": "18398355263",
       "name": "Ração pra Cães Adultos Special sabor Frango e Carne 15kg Golden",
       "price": 143.09,
@@ -29126,35 +29126,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbk6-lp5mqrx2en7yae",
         "productLink": "https://shopee.com.br/product/320275364/17134946092",
         "offerLink": "https://s.shopee.com.br/1BNU96YFFD"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "57701828757",
-      "name": "KIT Balaclava + Chapéu Pescador Australiano Pesca Proteção Pescoço Sol Chapeu Pescador Camping",
-      "price": 39.59,
-      "original_price": 50.11,
-      "discount": 21.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mharz293943r41",
-      "link": "https://s.shopee.com.br/3B8YWoq9Ob",
-      "rating": "4.9",
-      "sales": 734,
-      "shop": "garciamultiofertas",
-      "category": "kit pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57701828757,
-        "productName": "KIT Balaclava + Chapéu Pescador Australiano Pesca Proteção Pescoço Sol Chapeu Pescador Camping",
-        "price": "39.59",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.07",
-        "sales": 734,
-        "ratingStar": "4.9",
-        "shopName": "garciamultiofertas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mharz293943r41",
-        "productLink": "https://shopee.com.br/product/1379048069/57701828757",
-        "offerLink": "https://s.shopee.com.br/3B8YWoq9Ob"
       },
       "_last_price": null
     },
