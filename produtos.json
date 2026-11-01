@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T16:18:07.307819+00:00",
+  "updated_at": "2026-11-01T16:38:11.814926+00:00",
   "total": 1088,
   "products": [
     {
@@ -634,7 +634,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk90kkju10qp3b",
         "productLink": "https://shopee.com.br/product/1063922972/18299069073",
         "offerLink": "https://s.shopee.com.br/70LLtCIXZ0"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23394267693",
@@ -2775,8 +2776,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpwm1rqctatfc5",
         "productLink": "https://shopee.com.br/product/347988064/9212570285",
         "offerLink": "https://s.shopee.com.br/2BG68FGYfj"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58213479973",
@@ -9872,8 +9872,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820ll-mqy6qxh6dr0m63",
         "productLink": "https://shopee.com.br/product/1270189717/29343102973",
         "offerLink": "https://s.shopee.com.br/30pD7ijnbN"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23193620740",
@@ -10167,8 +10166,8 @@
     {
       "id": "23998537932",
       "name": "Cafeteira Italiana Alumínio de alta qualidade Moka 3/6/9/12 Xícaras Alumínio Café Puro Vários Tamanhos",
-      "price": 40.88,
-      "original_price": 88.87,
+      "price": 50.99,
+      "original_price": 110.85,
       "discount": 54.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mtg5we8yrk031e",
@@ -10181,7 +10180,7 @@
       "_item": {
         "itemId": 23998537932,
         "productName": "Cafeteira Italiana Alumínio de alta qualidade Moka 3/6/9/12 Xícaras Alumínio Café Puro Vários Tamanhos",
-        "price": "40.88",
+        "price": "50.99",
         "priceDiscountRate": 54,
         "commissionRate": "0.08",
         "sales": 703,
@@ -15444,8 +15443,8 @@
     {
       "id": "58268215353",
       "name": "Cafeteira Italiana Moka 3/6/9/12 Xícaras Inox Café Puro Vários Tamanhos Cozinha Fogão",
-      "price": 40.88,
-      "original_price": 75.7,
+      "price": 50.99,
+      "original_price": 94.43,
       "discount": 46.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mt6caqetkmiv73",
@@ -15458,7 +15457,7 @@
       "_item": {
         "itemId": 58268215353,
         "productName": "Cafeteira Italiana Moka 3/6/9/12 Xícaras Inox Café Puro Vários Tamanhos Cozinha Fogão",
-        "price": "40.88",
+        "price": "50.99",
         "priceDiscountRate": 46,
         "commissionRate": "0.03",
         "sales": 999,
@@ -16256,8 +16255,8 @@
     {
       "id": "22292456152",
       "name": "Cafeteira Italiana Inox Moka 3/6/9/12 Xícaras Alumínio Café Puro Vários Tamanhos",
-      "price": 40.88,
-      "original_price": 74.33,
+      "price": 50.99,
+      "original_price": 92.71,
       "discount": 45.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mnwh7y4dd7gh7d",
@@ -16270,7 +16269,7 @@
       "_item": {
         "itemId": 22292456152,
         "productName": "Cafeteira Italiana Inox Moka 3/6/9/12 Xícaras Alumínio Café Puro Vários Tamanhos",
-        "price": "40.88",
+        "price": "50.99",
         "priceDiscountRate": 45,
         "commissionRate": "0.07",
         "sales": 2092,
