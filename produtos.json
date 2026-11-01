@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T00:33:49.607006+00:00",
-  "total": 1094,
+  "updated_at": "2026-11-01T00:53:15.908091+00:00",
+  "total": 1095,
   "products": [
     {
       "id": "52807406192",
@@ -2193,7 +2193,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/38f05806d01ed654d61cc598c39391ee",
         "productLink": "https://shopee.com.br/product/769957349/17370976709",
         "offerLink": "https://s.shopee.com.br/906Nc1G6jr"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "18617064006",
@@ -5927,8 +5928,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258x-msf4mu1o9q1124",
         "productLink": "https://shopee.com.br/product/832040275/23096150316",
         "offerLink": "https://s.shopee.com.br/80DsAj8CpP"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58205100450",
@@ -12486,8 +12486,8 @@
     {
       "id": "58207449353",
       "name": "Suporte para Placa de Vídeo GPU Ajustável Nvidia, Radeon, Preto e Branco Universal Suporte Para Não Deixar Placa Solta",
-      "price": 8.99,
-      "original_price": 17.98,
+      "price": 9.99,
+      "original_price": 19.98,
       "discount": 50.0,
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lz-ms1btpayk83q0a",
@@ -12500,7 +12500,7 @@
       "_item": {
         "itemId": 58207449353,
         "productName": "Suporte para Placa de Vídeo GPU Ajustável Nvidia, Radeon, Preto e Branco Universal Suporte Para Não Deixar Placa Solta",
-        "price": "8.99",
+        "price": "9.99",
         "priceDiscountRate": 50,
         "commissionRate": "0.08",
         "sales": 284,
@@ -21213,6 +21213,35 @@
       "_last_price": null
     },
     {
+      "id": "23794994613",
+      "name": "Escorredor Kitchen Rack Aço Inoxidável Organizador Louça Preto Pia Kitchen Rack Aço Ino",
+      "price": 76.9,
+      "original_price": 120.16,
+      "discount": 36.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mg-mpc0kpszssu82c",
+      "link": "https://s.shopee.com.br/7KyBNVAkBD",
+      "rating": "4.7",
+      "sales": 6661,
+      "shop": "RM COMERCIO",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23794994613,
+        "productName": "Escorredor Kitchen Rack Aço Inoxidável Organizador Louça Preto Pia Kitchen Rack Aço Ino",
+        "price": "76.9",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 6661,
+        "ratingStar": "4.7",
+        "shopName": "RM COMERCIO",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mg-mpc0kpszssu82c",
+        "productLink": "https://shopee.com.br/product/1592199608/23794994613",
+        "offerLink": "https://s.shopee.com.br/7KyBNVAkBD"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23493418176",
       "name": "Kit 3 Panos de Chão Microfibra 70x60cm Furo para Rodo Dupla Camada",
       "price": 22.99,
@@ -21615,6 +21644,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-moph1pgp4jcw5a",
         "productLink": "https://shopee.com.br/product/882971017/49061198035",
         "offerLink": "https://s.shopee.com.br/6AmA691FI2"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "19699704487",
+      "name": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
+      "price": 195.99,
+      "original_price": 301.52,
+      "discount": 35.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
+      "link": "https://s.shopee.com.br/3g4p7bR9ST",
+      "rating": "4.9",
+      "sales": 5101,
+      "shop": "Monkey toys",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19699704487,
+        "productName": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
+        "price": "195.99",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.07",
+        "sales": 5101,
+        "ratingStar": "4.9",
+        "shopName": "Monkey toys",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
+        "productLink": "https://shopee.com.br/product/406894684/19699704487",
+        "offerLink": "https://s.shopee.com.br/3g4p7bR9ST"
       },
       "_last_price": null
     },
@@ -25795,35 +25853,6 @@
       "_last_price": null
     },
     {
-      "id": "22493344923",
-      "name": "Necessaire Feminina Personalizada com Inicial Box com Alça Porta Maquiagem Bolsa Viagem",
-      "price": 17.92,
-      "original_price": 24.89,
-      "discount": 28.0,
-      "commission": 16.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mm9n38usw7wn9a",
-      "link": "https://s.shopee.com.br/1gJkjztLvO",
-      "rating": "4.9",
-      "sales": 5888,
-      "shop": "GB Gift",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22493344923,
-        "productName": "Necessaire Feminina Personalizada com Inicial Box com Alça Porta Maquiagem Bolsa Viagem",
-        "price": "17.92",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.16",
-        "sales": 5888,
-        "ratingStar": "4.9",
-        "shopName": "GB Gift",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mm9n38usw7wn9a",
-        "productLink": "https://shopee.com.br/product/419086451/22493344923",
-        "offerLink": "https://s.shopee.com.br/1gJkjztLvO"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58201422912",
       "name": "Kit 5 Panos de Chão Microfibra 70x60cm Furo para Rodo Limpeza",
       "price": 35.99,
@@ -26023,6 +26052,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mo9nab0ho2klbf",
         "productLink": "https://shopee.com.br/product/359066629/19975160032",
         "offerLink": "https://s.shopee.com.br/5AtfymdXDH"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22493344923",
+      "name": "Necessaire Feminina Personalizada com Inicial Box com Alça Porta Maquiagem Bolsa Viagem",
+      "price": 17.92,
+      "original_price": 24.89,
+      "discount": 28.0,
+      "commission": 16.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mm9n38usw7wn9a",
+      "link": "https://s.shopee.com.br/1gJkjztLvO",
+      "rating": "4.9",
+      "sales": 5888,
+      "shop": "GB Gift",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22493344923,
+        "productName": "Necessaire Feminina Personalizada com Inicial Box com Alça Porta Maquiagem Bolsa Viagem",
+        "price": "17.92",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.16",
+        "sales": 5888,
+        "ratingStar": "4.9",
+        "shopName": "GB Gift",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mm9n38usw7wn9a",
+        "productLink": "https://shopee.com.br/product/419086451/22493344923",
+        "offerLink": "https://s.shopee.com.br/1gJkjztLvO"
       },
       "_last_price": null
     },
@@ -26980,35 +27038,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-msh059faha850e",
         "productLink": "https://shopee.com.br/product/378627604/58217203298",
         "offerLink": "https://s.shopee.com.br/6AmA6DHQzB"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "13746319989",
-      "name": "Ração Golden Formula Mini Bits Cães Adultos Raças Pequenas Carne e Arroz 15kg",
-      "price": 147.35,
-      "original_price": 196.47,
-      "discount": 25.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mqlzlrycnj0gf0",
-      "link": "https://s.shopee.com.br/4LKY3MeZDw",
-      "rating": "4.9",
-      "sales": 682,
-      "shop": "Popular Pet",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 13746319989,
-        "productName": "Ração Golden Formula Mini Bits Cães Adultos Raças Pequenas Carne e Arroz 15kg",
-        "price": "147.35",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.03",
-        "sales": 682,
-        "ratingStar": "4.9",
-        "shopName": "Popular Pet",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mqlzlrycnj0gf0",
-        "productLink": "https://shopee.com.br/product/398944029/13746319989",
-        "offerLink": "https://s.shopee.com.br/4LKY3MeZDw"
       },
       "_last_price": null
     },
