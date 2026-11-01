@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T01:12:43.609779+00:00",
-  "total": 1094,
+  "updated_at": "2026-11-01T01:32:10.874401+00:00",
+  "total": 1095,
   "products": [
     {
       "id": "52807406192",
@@ -287,7 +287,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820md-murrvh9gbri925",
         "productLink": "https://shopee.com.br/product/427457955/49466540071",
         "offerLink": "https://s.shopee.com.br/5fptVF86ex"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "55508691646",
@@ -5956,8 +5957,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
         "productLink": "https://shopee.com.br/product/1638239765/58205100450",
         "offerLink": "https://s.shopee.com.br/1qdAwDd8dp"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22193849980",
@@ -9899,6 +9899,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-msv0zvvqe8ei13",
         "productLink": "https://shopee.com.br/product/1604972581/46407635136",
         "offerLink": "https://s.shopee.com.br/6VP0UiWC3W"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58256283885",
+      "name": "Repetidor WiFi Profissional 2800m 6 Antenas Roteador Amplificador de Sinal Modem 1200Mbps",
+      "price": 52.99,
+      "original_price": 115.2,
+      "discount": 54.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m5-mtepll80622q85",
+      "link": "https://s.shopee.com.br/6fiVMSuD3a",
+      "rating": "4.8",
+      "sales": 174,
+      "shop": "SULAN SELL",
+      "category": "roteador wifi",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58256283885,
+        "productName": "Repetidor WiFi Profissional 2800m 6 Antenas Roteador Amplificador de Sinal Modem 1200Mbps",
+        "price": "52.99",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.03",
+        "sales": 174,
+        "ratingStar": "4.8",
+        "shopName": "SULAN SELL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mtepll80622q85",
+        "productLink": "https://shopee.com.br/product/1599453710/58256283885",
+        "offerLink": "https://s.shopee.com.br/6fiVMSuD3a"
       },
       "_last_price": null
     },
