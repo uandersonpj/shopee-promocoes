@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T20:51:24.036428+00:00",
+  "updated_at": "2026-11-01T21:10:46.859492+00:00",
   "total": 1087,
   "products": [
     {
@@ -201,7 +201,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmajzmcmll3a15",
         "productLink": "https://shopee.com.br/product/1467162087/49207406104",
         "offerLink": "https://s.shopee.com.br/9V2grgftPG"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "26539956454",
@@ -3349,8 +3350,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-muuhfjkvcao553",
         "productLink": "https://shopee.com.br/product/1748398487/49358892791",
         "offerLink": "https://s.shopee.com.br/9KjGfWGcOV"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22994148851",
@@ -6885,35 +6885,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mqdi4h8b6wao80",
         "productLink": "https://shopee.com.br/product/1397772996/29842873054",
         "offerLink": "https://s.shopee.com.br/3qOK7IreTr"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22793480756",
-      "name": "Casinha Toca Cama Iglu 2 Em 1 Cachorro Cão E Gato Tam P, M e G",
-      "price": 35.98,
-      "original_price": 89.95,
-      "discount": 60.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mtyiydhax1j4ab",
-      "link": "https://s.shopee.com.br/7VHcU4Gol5",
-      "rating": "4.9",
-      "sales": 510,
-      "shop": "Lili Pet - caminhas de Luxo",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22793480756,
-        "productName": "Casinha Toca Cama Iglu 2 Em 1 Cachorro Cão E Gato Tam P, M e G",
-        "price": "35.98",
-        "priceDiscountRate": 60,
-        "commissionRate": "0.03",
-        "sales": 510,
-        "ratingStar": "4.9",
-        "shopName": "Lili Pet - caminhas de Luxo",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mtyiydhax1j4ab",
-        "productLink": "https://shopee.com.br/product/1263417212/22793480756",
-        "offerLink": "https://s.shopee.com.br/7VHcU4Gol5"
       },
       "_last_price": null
     },
@@ -17384,6 +17355,35 @@
       "_last_price": null
     },
     {
+      "id": "22793480756",
+      "name": "Casinha Toca Cama Iglu 2 Em 1 Cachorro Cão E Gato Tam P, M e G",
+      "price": 35.98,
+      "original_price": 63.12,
+      "discount": 43.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m3-mtyiydhax1j4ab",
+      "link": "https://s.shopee.com.br/7VHcU4Gol5",
+      "rating": "4.9",
+      "sales": 510,
+      "shop": "Lili Pet - caminhas de Luxo",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22793480756,
+        "productName": "Casinha Toca Cama Iglu 2 Em 1 Cachorro Cão E Gato Tam P, M e G",
+        "price": "35.98",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.03",
+        "sales": 510,
+        "ratingStar": "4.9",
+        "shopName": "Lili Pet - caminhas de Luxo",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mtyiydhax1j4ab",
+        "productLink": "https://shopee.com.br/product/1263417212/22793480756",
+        "offerLink": "https://s.shopee.com.br/7VHcU4Gol5"
+      },
+      "_last_price": null
+    },
+    {
       "id": "21598777670",
       "name": "Casinha Pet Cachorro N3 + Caminha Para Cachorro Casinha Para Cachorro Caminha de Cachorro",
       "price": 39.69,
@@ -26004,7 +26004,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-825ar-mtvb14po3eh227",
       "link": "https://s.shopee.com.br/4B1B1Sf0mC",
-      "rating": "5",
+      "rating": "4.9",
       "sales": 475,
       "shop": "Electrolux",
       "category": "panela pressao",
@@ -26016,7 +26016,7 @@
         "priceDiscountRate": 28,
         "commissionRate": "0.03",
         "sales": 475,
-        "ratingStar": "5",
+        "ratingStar": "4.9",
         "shopName": "Electrolux",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ar-mtvb14po3eh227",
         "productLink": "https://shopee.com.br/product/1526836548/22693991400",
