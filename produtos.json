@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T05:40:01.113533+00:00",
-  "total": 1079,
+  "updated_at": "2026-11-01T06:01:09.140528+00:00",
+  "total": 1080,
   "products": [
     {
       "id": "52807406192",
@@ -1129,7 +1129,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mo5m3lm7da841f",
         "productLink": "https://shopee.com.br/product/1654851165/58210532717",
         "offerLink": "https://s.shopee.com.br/2BG68EBX07"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22895058213",
@@ -3414,6 +3415,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mn3cmeqnyfwh53",
         "productLink": "https://shopee.com.br/product/1564593552/22994148851",
         "offerLink": "https://s.shopee.com.br/5fpyIclsth"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20397689429",
+      "name": "Suporte De Parede Banheiro/Caixa Organizadora Com Papel Higiênico/Sem Furar pronta entrega",
+      "price": 15.99,
+      "original_price": 49.97,
+      "discount": 68.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-lvmc7m8negkib0",
+      "link": "https://s.shopee.com.br/5VWXC8Hite",
+      "rating": "4.7",
+      "sales": 11319,
+      "shop": "CASA FEIRA",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20397689429,
+        "productName": "Suporte De Parede Banheiro/Caixa Organizadora Com Papel Higiênico/Sem Furar pronta entrega",
+        "price": "15.99",
+        "priceDiscountRate": 68,
+        "commissionRate": "0.03",
+        "sales": 11319,
+        "ratingStar": "4.7",
+        "shopName": "CASA FEIRA",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4t-lvmc7m8negkib0",
+        "productLink": "https://shopee.com.br/product/1034273871/20397689429",
+        "offerLink": "https://s.shopee.com.br/5VWXC8Hite"
       },
       "_last_price": null
     },
@@ -25716,35 +25746,6 @@
       "_last_price": null
     },
     {
-      "id": "22493344923",
-      "name": "Necessaire Feminina Personalizada com Inicial Box com Alça Porta Maquiagem Bolsa Viagem",
-      "price": 17.92,
-      "original_price": 24.89,
-      "discount": 28.0,
-      "commission": 16.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mm9n38usw7wn9a",
-      "link": "https://s.shopee.com.br/7Aem5UCsYJ",
-      "rating": "4.9",
-      "sales": 5888,
-      "shop": "GB Gift",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22493344923,
-        "productName": "Necessaire Feminina Personalizada com Inicial Box com Alça Porta Maquiagem Bolsa Viagem",
-        "price": "17.92",
-        "priceDiscountRate": 28,
-        "commissionRate": "0.16",
-        "sales": 5888,
-        "ratingStar": "4.9",
-        "shopName": "GB Gift",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mm9n38usw7wn9a",
-        "productLink": "https://shopee.com.br/product/419086451/22493344923",
-        "offerLink": "https://s.shopee.com.br/7Aem5UCsYJ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23493418176",
       "name": "Kit 3 Panos de Chão Microfibra 70x60cm Furo para Rodo Dupla Camada",
       "price": 25.99,
@@ -25944,6 +25945,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mo9nab0ho2klbf",
         "productLink": "https://shopee.com.br/product/359066629/19975160032",
         "offerLink": "https://s.shopee.com.br/80Dt50WNvU"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22493344923",
+      "name": "Necessaire Feminina Personalizada com Inicial Box com Alça Porta Maquiagem Bolsa Viagem",
+      "price": 17.92,
+      "original_price": 24.89,
+      "discount": 28.0,
+      "commission": 16.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mm9n38usw7wn9a",
+      "link": "https://s.shopee.com.br/7Aem5UCsYJ",
+      "rating": "4.9",
+      "sales": 5888,
+      "shop": "GB Gift",
+      "category": "bolsa feminina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22493344923,
+        "productName": "Necessaire Feminina Personalizada com Inicial Box com Alça Porta Maquiagem Bolsa Viagem",
+        "price": "17.92",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.16",
+        "sales": 5888,
+        "ratingStar": "4.9",
+        "shopName": "GB Gift",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mm9n38usw7wn9a",
+        "productLink": "https://shopee.com.br/product/419086451/22493344923",
+        "offerLink": "https://s.shopee.com.br/7Aem5UCsYJ"
       },
       "_last_price": null
     },
