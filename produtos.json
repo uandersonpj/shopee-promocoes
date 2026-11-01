@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T16:38:11.814926+00:00",
-  "total": 1088,
+  "updated_at": "2026-11-01T16:57:42.211438+00:00",
+  "total": 1091,
   "products": [
     {
       "id": "52807406192",
@@ -1301,7 +1301,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-moov381auozz7b",
         "productLink": "https://shopee.com.br/product/1613783173/50052384985",
         "offerLink": "https://s.shopee.com.br/AAINex2jtJ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "42068096428",
@@ -3358,35 +3359,6 @@
       "_last_price": null
     },
     {
-      "id": "20299250319",
-      "name": "Monitor digital de pressão arterial de braço totalmente automático anjgg",
-      "price": 38.99,
-      "original_price": 121.84,
-      "discount": 68.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-81zte-mmiy7u0wlgqw8c",
-      "link": "https://s.shopee.com.br/AUvE3TLUc2",
-      "rating": "4.8",
-      "sales": 3883,
-      "shop": "ANJ.GG store",
-      "category": "monitor",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20299250319,
-        "productName": "Monitor digital de pressão arterial de braço totalmente automático anjgg",
-        "price": "38.99",
-        "priceDiscountRate": 68,
-        "commissionRate": "0.1",
-        "sales": 3883,
-        "ratingStar": "4.8",
-        "shopName": "ANJ.GG store",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zte-mmiy7u0wlgqw8c",
-        "productLink": "https://shopee.com.br/product/391739739/20299250319",
-        "offerLink": "https://s.shopee.com.br/AUvE3TLUc2"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20299250309",
       "name": "Monitor digital de pressão arterial de braço totalmente automático  jorge",
       "price": 38.99,
@@ -3671,6 +3643,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maqajn6xwn7z9d",
         "productLink": "https://shopee.com.br/product/1059934694/21198202231",
         "offerLink": "https://s.shopee.com.br/1gJqC3ZrjL"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20299250319",
+      "name": "Monitor digital de pressão arterial de braço totalmente automático anjgg",
+      "price": 39.99,
+      "original_price": 121.18,
+      "discount": 67.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-81zte-mmiy7u0wlgqw8c",
+      "link": "https://s.shopee.com.br/AUvE3TLUc2",
+      "rating": "4.8",
+      "sales": 3883,
+      "shop": "ANJ.GG store",
+      "category": "monitor",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20299250319,
+        "productName": "Monitor digital de pressão arterial de braço totalmente automático anjgg",
+        "price": "39.99",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.1",
+        "sales": 3883,
+        "ratingStar": "4.8",
+        "shopName": "ANJ.GG store",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zte-mmiy7u0wlgqw8c",
+        "productLink": "https://shopee.com.br/product/391739739/20299250319",
+        "offerLink": "https://s.shopee.com.br/AUvE3TLUc2"
       },
       "_last_price": null
     },
@@ -15234,8 +15235,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhdo56b6dfy832",
         "productLink": "https://shopee.com.br/product/1128449458/22199268609",
         "offerLink": "https://s.shopee.com.br/2gCMj6SRG8"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22497433522",
@@ -16626,6 +16626,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262e-ml5537os5f6286",
         "productLink": "https://shopee.com.br/product/344381236/50905121026",
         "offerLink": "https://s.shopee.com.br/5Athhgkkqv"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22599188752",
+      "name": "Essência de Amaciante Cheirinho para Máquina de lavar 100ml",
+      "price": 17.9,
+      "original_price": 31.96,
+      "discount": 44.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lz-mrk2c1k217ute6",
+      "link": "https://s.shopee.com.br/4B1AVrMjDZ",
+      "rating": "4.9",
+      "sales": 1035,
+      "shop": "Mercado das Essências",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22599188752,
+        "productName": "Essência de Amaciante Cheirinho para Máquina de lavar 100ml",
+        "price": "17.9",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.11",
+        "sales": 1035,
+        "ratingStar": "4.9",
+        "shopName": "Mercado das Essências",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mrk2c1k217ute6",
+        "productLink": "https://shopee.com.br/product/1107585845/22599188752",
+        "offerLink": "https://s.shopee.com.br/4B1AVrMjDZ"
       },
       "_last_price": null
     },
@@ -19033,35 +19062,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjppm99xbuh244",
         "productLink": "https://shopee.com.br/product/775360591/43828181509",
         "offerLink": "https://s.shopee.com.br/4fxR6rRbVG"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23599134541",
-      "name": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
-      "price": 179.9,
-      "original_price": 299.83,
-      "discount": 40.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8258a-munnanjd11q915",
-      "link": "https://s.shopee.com.br/5fpyIhNnTU",
-      "rating": "4.8",
-      "sales": 1147,
-      "shop": "Luma Connect",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23599134541,
-        "productName": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
-        "price": "179.9",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 1147,
-        "ratingStar": "4.8",
-        "shopName": "Luma Connect",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258a-munnanjd11q915",
-        "productLink": "https://shopee.com.br/product/734718734/23599134541",
-        "offerLink": "https://s.shopee.com.br/5fpyIhNnTU"
       },
       "_last_price": null
     },
@@ -22662,6 +22662,35 @@
       "_last_price": null
     },
     {
+      "id": "22599385841",
+      "name": "Base Amaciante Concentrada 100ml Faz 10/20 litros perfumada tipo Conforto / Premium RENDE MUITO",
+      "price": 12.79,
+      "original_price": 19.09,
+      "discount": 33.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mmg50q1ihgjobd",
+      "link": "https://s.shopee.com.br/1148k2YmdW",
+      "rating": "4.9",
+      "sales": 5348,
+      "shop": "Mercado das Essências",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22599385841,
+        "productName": "Base Amaciante Concentrada 100ml Faz 10/20 litros perfumada tipo Conforto / Premium RENDE MUITO",
+        "price": "12.79",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.11",
+        "sales": 5348,
+        "ratingStar": "4.9",
+        "shopName": "Mercado das Essências",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mmg50q1ihgjobd",
+        "productLink": "https://shopee.com.br/product/1107585845/22599385841",
+        "offerLink": "https://s.shopee.com.br/1148k2YmdW"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58202393982",
       "name": "Detergente Lava Louças Ypê em Pó 1Kg ou 450g para Máquina - Escolha a Quantidade",
       "price": 35.99,
@@ -23006,6 +23035,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi3e54q4fxmpbb",
         "productLink": "https://shopee.com.br/product/1501485889/58201495048",
         "offerLink": "https://s.shopee.com.br/9APrEdvEn6"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58203174132",
+      "name": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
+      "price": 179.9,
+      "original_price": 268.51,
+      "discount": 33.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8258u-munnavbrn9q95e",
+      "link": "https://s.shopee.com.br/8pn04WBk3T",
+      "rating": "4.8",
+      "sales": 343,
+      "shop": "De AZ casa",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58203174132,
+        "productName": "Casinha Plástica Desmontável Cachorros Cães Grande Porte N8 N9",
+        "price": "179.9",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.03",
+        "sales": 343,
+        "ratingStar": "4.8",
+        "shopName": "De AZ casa",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258u-munnavbrn9q95e",
+        "productLink": "https://shopee.com.br/product/1246701013/58203174132",
+        "offerLink": "https://s.shopee.com.br/8pn04WBk3T"
       },
       "_last_price": null
     },
@@ -27571,7 +27629,7 @@
       "commission": 8.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820m8-mtdwhiq61og277",
       "link": "https://s.shopee.com.br/BV1kZsyCd",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 188,
       "shop": "Redil Fest",
       "category": "elastico musculacao",
@@ -27583,7 +27641,7 @@
         "priceDiscountRate": 24,
         "commissionRate": "0.08",
         "sales": 188,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "Redil Fest",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mtdwhiq61og277",
         "productLink": "https://shopee.com.br/product/1927822668/58217944512",
@@ -28313,6 +28371,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82608-mm3thofo972n18",
         "productLink": "https://shopee.com.br/product/542499519/57507517439",
         "offerLink": "https://s.shopee.com.br/1gJpXGWFHq"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58255902115",
+      "name": "Base Sabão Líquido Faz 20L – Kit Blend Concentrado 2 Frascos – Fácil de Fazer",
+      "price": 56.99,
+      "original_price": 73.06,
+      "discount": 22.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820li-mp3t5spg1berbf",
+      "link": "https://s.shopee.com.br/4B1AVrfMEU",
+      "rating": "4.9",
+      "sales": 5337,
+      "shop": "Mercado das Essências",
+      "category": "detergente",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58255902115,
+        "productName": "Base Sabão Líquido Faz 20L – Kit Blend Concentrado 2 Frascos – Fácil de Fazer",
+        "price": "56.99",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.11",
+        "sales": 5337,
+        "ratingStar": "4.9",
+        "shopName": "Mercado das Essências",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820li-mp3t5spg1berbf",
+        "productLink": "https://shopee.com.br/product/1107585845/58255902115",
+        "offerLink": "https://s.shopee.com.br/4B1AVrfMEU"
       },
       "_last_price": null
     },
