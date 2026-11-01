@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T05:02:18.395376+00:00",
-  "total": 1081,
+  "updated_at": "2026-11-01T05:21:09.967410+00:00",
+  "total": 1079,
   "products": [
     {
       "id": "52807406192",
@@ -5734,7 +5734,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zr-mklbm2prptdx7f",
         "productLink": "https://shopee.com.br/product/664761873/21998128832",
         "offerLink": "https://s.shopee.com.br/AUvE3T3tTi"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "45468100867",
@@ -24757,6 +24758,35 @@
       "_last_price": null
     },
     {
+      "id": "13435249728",
+      "name": "Caminha Casinha Pet Cama GG Grande Cachorro Grande Cão e Gato",
+      "price": 69.88,
+      "original_price": 99.83,
+      "discount": 30.0,
+      "commission": 23.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivnw76gufwia0",
+      "link": "https://s.shopee.com.br/8KqjTbDe4G",
+      "rating": "4.9",
+      "sales": 438,
+      "shop": "Sono Pet",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 13435249728,
+        "productName": "Caminha Casinha Pet Cama GG Grande Cachorro Grande Cão e Gato",
+        "price": "69.88",
+        "priceDiscountRate": 30,
+        "commissionRate": "0.23",
+        "sales": 438,
+        "ratingStar": "4.9",
+        "shopName": "Sono Pet",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivnw76gufwia0",
+        "productLink": "https://shopee.com.br/product/491375846/13435249728",
+        "offerLink": "https://s.shopee.com.br/8KqjTbDe4G"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22097612446",
       "name": "Arranhador Gato Rampa Anti Estresse Brinquedo Tóca Casinha Ricapet",
       "price": 34.98,
@@ -26522,35 +26552,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mut4i4hfcjczb9",
         "productLink": "https://shopee.com.br/product/1194006916/22893283679",
         "offerLink": "https://s.shopee.com.br/BV1kaR8XB"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "13435249728",
-      "name": "Caminha Casinha Pet Cama GG Grande Cachorro Grande Cão e Gato",
-      "price": 79.0,
-      "original_price": 106.76,
-      "discount": 26.0,
-      "commission": 23.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivnw76gufwia0",
-      "link": "https://s.shopee.com.br/8KqjTbDe4G",
-      "rating": "4.9",
-      "sales": 438,
-      "shop": "Sono Pet",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 13435249728,
-        "productName": "Caminha Casinha Pet Cama GG Grande Cachorro Grande Cão e Gato",
-        "price": "79",
-        "priceDiscountRate": 26,
-        "commissionRate": "0.23",
-        "sales": 438,
-        "ratingStar": "4.9",
-        "shopName": "Sono Pet",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivnw76gufwia0",
-        "productLink": "https://shopee.com.br/product/491375846/13435249728",
-        "offerLink": "https://s.shopee.com.br/8KqjTbDe4G"
       },
       "_last_price": null
     },
@@ -29571,35 +29572,6 @@
       "_last_price": null
     },
     {
-      "id": "58270243088",
-      "name": "Protetor Solar Facial Hidrabene FPS 70 Toque Seco - 50g",
-      "price": 29.9,
-      "original_price": 36.91,
-      "discount": 19.0,
-      "commission": 15.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820me-mu5trnacuq691b",
-      "link": "https://s.shopee.com.br/1BbYEkr9w",
-      "rating": "4.9",
-      "sales": 5886,
-      "shop": "Hidrabene ",
-      "category": "protetor solar",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58270243088,
-        "productName": "Protetor Solar Facial Hidrabene FPS 70 Toque Seco - 50g",
-        "price": "29.9",
-        "priceDiscountRate": 19,
-        "commissionRate": "0.15",
-        "sales": 5886,
-        "ratingStar": "4.9",
-        "shopName": "Hidrabene ",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820me-mu5trnacuq691b",
-        "productLink": "https://shopee.com.br/product/1860098702/58270243088",
-        "offerLink": "https://s.shopee.com.br/1BbYEkr9w"
-      },
-      "_last_price": null
-    },
-    {
       "id": "40128790649",
       "name": "Whey Protein Isolado Zero Lactose Isolate Protein 900g New Millen",
       "price": 162.0,
@@ -31046,35 +31018,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjx7ntlrco3q52",
         "productLink": "https://shopee.com.br/product/959464995/58204034258",
         "offerLink": "https://s.shopee.com.br/1BNYwTekPD"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22398783591",
-      "name": "Linha de nylon para pipa 3000 ate 12000 jardas artesanato - pesca lote exclusivo",
-      "price": 20.79,
-      "original_price": 24.46,
-      "discount": 15.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfc3m9xcwohw4a",
-      "link": "https://s.shopee.com.br/9pfXGPbWO7",
-      "rating": "4.7",
-      "sales": 295,
-      "shop": "Cabo de Guerra Distribuidora 01",
-      "category": "linha de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22398783591,
-        "productName": "Linha de nylon para pipa 3000 ate 12000 jardas artesanato - pesca lote exclusivo",
-        "price": "20.79",
-        "priceDiscountRate": 15,
-        "commissionRate": "0.07",
-        "sales": 295,
-        "ratingStar": "4.7",
-        "shopName": "Cabo de Guerra Distribuidora 01",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfc3m9xcwohw4a",
-        "productLink": "https://shopee.com.br/product/888186330/22398783591",
-        "offerLink": "https://s.shopee.com.br/9pfXGPbWO7"
       },
       "_last_price": null
     },
