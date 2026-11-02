@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T01:45:38.712265+00:00",
-  "total": 1085,
+  "updated_at": "2026-11-02T02:05:28.872372+00:00",
+  "total": 1083,
   "products": [
     {
       "id": "52807406192",
@@ -229,7 +229,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134275-7rdxw-mdfucal40l6y57",
         "productLink": "https://shopee.com.br/product/236693678/26539956454",
         "offerLink": "https://s.shopee.com.br/1qdFjjAFRw"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49466540071",
@@ -1612,8 +1613,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-me9rity3qqkg1d",
         "productLink": "https://shopee.com.br/product/1494995608/18398161750",
         "offerLink": "https://s.shopee.com.br/5q9OUtv3yI"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "22498781114",
@@ -6509,35 +6509,6 @@
       "_last_price": null
     },
     {
-      "id": "58263407185",
-      "name": "6/10/16 buracos gaiolas dobradas portátil hexágono rede de pesca peixe automático caranguejo armadilha carpa camarão",
-      "price": 32.0,
-      "original_price": 82.05,
-      "discount": 61.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mq2zvsocj3eo45",
-      "link": "https://s.shopee.com.br/7Aem5Z281m",
-      "rating": "4.9",
-      "sales": 263,
-      "shop": "SPOETRY Brasil",
-      "category": "rede de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58263407185,
-        "productName": "6/10/16 buracos gaiolas dobradas portátil hexágono rede de pesca peixe automático caranguejo armadilha carpa camarão",
-        "price": "32",
-        "priceDiscountRate": 61,
-        "commissionRate": "0.13",
-        "sales": 263,
-        "ratingStar": "4.9",
-        "shopName": "SPOETRY Brasil",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mq2zvsocj3eo45",
-        "productLink": "https://shopee.com.br/product/1669666744/58263407185",
-        "offerLink": "https://s.shopee.com.br/7Aem5Z281m"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23898664618",
       "name": "Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Recarregável e 150h de Bateria",
       "price": 39.69,
@@ -8249,35 +8220,6 @@
       "_last_price": null
     },
     {
-      "id": "53717645713",
-      "name": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
-      "price": 39.69,
-      "original_price": 92.3,
-      "discount": 57.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e",
-      "link": "https://s.shopee.com.br/5VWY6OOQoV",
-      "rating": "4.8",
-      "sales": 1081,
-      "shop": "Pet Charm",
-      "category": "casinha pet",
-      "source": "shopee",
-      "_item": {
-        "itemId": 53717645713,
-        "productName": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
-        "price": "39.69",
-        "priceDiscountRate": 57,
-        "commissionRate": "0.13",
-        "sales": 1081,
-        "ratingStar": "4.8",
-        "shopName": "Pet Charm",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e",
-        "productLink": "https://shopee.com.br/product/908280603/53717645713",
-        "offerLink": "https://s.shopee.com.br/5VWY6OOQoV"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23397277498",
       "name": "02 Coleira Cães Antipulgas E Carrapatos Dugs 56cm World",
       "price": 19.2,
@@ -9202,35 +9144,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm77p5j0ruu03",
         "productLink": "https://shopee.com.br/product/1547995492/20699892486",
         "offerLink": "https://s.shopee.com.br/7Aem5OGKrL"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23198696676",
-      "name": "Kit 10 Panos de Copa de Microfibra 35x55 toalha de Prato Luxo",
-      "price": 38.9,
-      "original_price": 86.44,
-      "discount": 55.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259k-muaqftuyw2rm3a",
-      "link": "https://s.shopee.com.br/60SohFcNIf",
-      "rating": "4.8",
-      "sales": 1763,
-      "shop": "Bela Luna Ltda.",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23198696676,
-        "productName": "Kit 10 Panos de Copa de Microfibra 35x55 toalha de Prato Luxo",
-        "price": "38.9",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.13",
-        "sales": 1763,
-        "ratingStar": "4.8",
-        "shopName": "Bela Luna Ltda.",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259k-muaqftuyw2rm3a",
-        "productLink": "https://shopee.com.br/product/1577690442/23198696676",
-        "offerLink": "https://s.shopee.com.br/60SohFcNIf"
       },
       "_last_price": null
     },
@@ -12599,35 +12512,6 @@
       "_last_price": null
     },
     {
-      "id": "58202145489",
-      "name": "Fonte ATX 24 Pinos 500W Preta - MARCAS VARIADAS",
-      "price": 69.9,
-      "original_price": 139.8,
-      "discount": 50.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mqxyg70mca2ue9",
-      "link": "https://s.shopee.com.br/2qVmvOtdaR",
-      "rating": "4.5",
-      "sales": 32,
-      "shop": "info.monkey",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58202145489,
-        "productName": "Fonte ATX 24 Pinos 500W Preta - MARCAS VARIADAS",
-        "price": "69.9",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.09",
-        "sales": 32,
-        "ratingStar": "4.5",
-        "shopName": "info.monkey",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mqxyg70mca2ue9",
-        "productLink": "https://shopee.com.br/product/399801749/58202145489",
-        "offerLink": "https://s.shopee.com.br/2qVmvOtdaR"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18298028063",
       "name": "Kit Dispenser Organizador Lavanderia 2,3 litros 1,5 Litros Acrílico (AMACIANTE, SABÃO EM PÓ)",
       "price": 32.45,
@@ -13813,6 +13697,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-820n3-mo477ujxlqtk0f",
         "productLink": "https://shopee.com.br/product/379687599/22593256183",
         "offerLink": "https://s.shopee.com.br/7KyCHs1Ugj"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58263407185",
+      "name": "6/10/16 buracos gaiolas dobradas portátil hexágono rede de pesca peixe automático caranguejo armadilha carpa camarão",
+      "price": 35.1,
+      "original_price": 70.2,
+      "discount": 50.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m0-mq2zvsocj3eo45",
+      "link": "https://s.shopee.com.br/7Aem5Z281m",
+      "rating": "4.9",
+      "sales": 263,
+      "shop": "SPOETRY Brasil",
+      "category": "rede de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58263407185,
+        "productName": "6/10/16 buracos gaiolas dobradas portátil hexágono rede de pesca peixe automático caranguejo armadilha carpa camarão",
+        "price": "35.1",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.13",
+        "sales": 263,
+        "ratingStar": "4.9",
+        "shopName": "SPOETRY Brasil",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mq2zvsocj3eo45",
+        "productLink": "https://shopee.com.br/product/1669666744/58263407185",
+        "offerLink": "https://s.shopee.com.br/7Aem5Z281m"
       },
       "_last_price": null
     },
@@ -17036,35 +16949,6 @@
       "_last_price": null
     },
     {
-      "id": "58267278598",
-      "name": "mini Teclado mecânico Clicker Antiestresse ansiedade tátil Chaveiro 4 teclas sensorial autismo Som Relaxante",
-      "price": 22.0,
-      "original_price": 38.6,
-      "discount": 43.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-msk1h0xxm9s52e",
-      "link": "https://s.shopee.com.br/6AmEtWBOQa",
-      "rating": "4.9",
-      "sales": 316,
-      "shop": "AG Express LTDA",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58267278598,
-        "productName": "mini Teclado mecânico Clicker Antiestresse ansiedade tátil Chaveiro 4 teclas sensorial autismo Som Relaxante",
-        "price": "22",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.03",
-        "sales": 316,
-        "ratingStar": "4.9",
-        "shopName": "AG Express LTDA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-msk1h0xxm9s52e",
-        "productLink": "https://shopee.com.br/product/971084924/58267278598",
-        "offerLink": "https://s.shopee.com.br/6AmEtWBOQa"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22698451598",
       "name": "Kit Gamer: Teclado Semi Mecânico RGB + Mouse RGB Óptico + Mouse Pad  Profissional, PC, Not, Xbox,Ps5",
       "price": 55.99,
@@ -17322,6 +17206,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ratw-mao7j6757dvnee",
         "productLink": "https://shopee.com.br/product/290073877/22298591472",
         "offerLink": "https://s.shopee.com.br/8KqkF6yPTt"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "53717645713",
+      "name": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
+      "price": 39.69,
+      "original_price": 69.63,
+      "discount": 43.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e",
+      "link": "https://s.shopee.com.br/5VWY6OOQoV",
+      "rating": "4.8",
+      "sales": 1081,
+      "shop": "Pet Charm",
+      "category": "casinha pet",
+      "source": "shopee",
+      "_item": {
+        "itemId": 53717645713,
+        "productName": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
+        "price": "39.69",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.13",
+        "sales": 1081,
+        "ratingStar": "4.8",
+        "shopName": "Pet Charm",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e",
+        "productLink": "https://shopee.com.br/product/908280603/53717645713",
+        "offerLink": "https://s.shopee.com.br/5VWY6OOQoV"
       },
       "_last_price": null
     },
@@ -29392,8 +29305,8 @@
     {
       "id": "4685526528",
       "name": "Carteira Estampada De Notas Estrangeiras Dólar/Euro/Real Guardar Cédulas Documentos",
-      "price": 12.99,
-      "original_price": 16.24,
+      "price": 10.99,
+      "original_price": 13.74,
       "discount": 20.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-md36g7c3s3led0",
@@ -29406,7 +29319,7 @@
       "_item": {
         "itemId": 4685526528,
         "productName": "Carteira Estampada De Notas Estrangeiras Dólar/Euro/Real Guardar Cédulas Documentos",
-        "price": "12.99",
+        "price": "10.99",
         "priceDiscountRate": 20,
         "commissionRate": "0.03",
         "sales": 4411,
@@ -30053,6 +29966,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcex-lslue7zt1z3pfc",
         "productLink": "https://shopee.com.br/product/754451852/21199212964",
         "offerLink": "https://s.shopee.com.br/2qVmvPkQwM"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "15937859604",
+      "name": "Kit c/10 panos de prato louça premium microfibra 39x59 - Cores Sortidas",
+      "price": 36.9,
+      "original_price": 45.0,
+      "discount": 18.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mmepzpijlds48e",
+      "link": "https://s.shopee.com.br/30pDvvNbUR",
+      "rating": "4.8",
+      "sales": 1175,
+      "shop": "RD Artigos para o Lar",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 15937859604,
+        "productName": "Kit c/10 panos de prato louça premium microfibra 39x59 - Cores Sortidas",
+        "price": "36.9",
+        "priceDiscountRate": 18,
+        "commissionRate": "0.03",
+        "sales": 1175,
+        "ratingStar": "4.8",
+        "shopName": "RD Artigos para o Lar",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mmepzpijlds48e",
+        "productLink": "https://shopee.com.br/product/595377436/15937859604",
+        "offerLink": "https://s.shopee.com.br/30pDvvNbUR"
       },
       "_last_price": null
     },
