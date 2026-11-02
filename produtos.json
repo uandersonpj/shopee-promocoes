@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T04:20:14.003439+00:00",
+  "updated_at": "2026-11-02T04:39:23.300210+00:00",
   "total": 1091,
   "products": [
     {
@@ -115,7 +115,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m94jsi5hwaol47",
         "productLink": "https://shopee.com.br/product/1127030290/23593603405",
         "offerLink": "https://s.shopee.com.br/6L5f5obM47"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23497594302",
@@ -9236,35 +9237,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm77p5j0ruu03",
         "productLink": "https://shopee.com.br/product/1547995492/20699892486",
         "offerLink": "https://s.shopee.com.br/7Aem5OGKrL"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23198696676",
-      "name": "Kit 10 Panos de Copa de Microfibra 35x55 toalha de Prato Luxo",
-      "price": 38.9,
-      "original_price": 86.44,
-      "discount": 55.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259k-muaqftuyw2rm3a",
-      "link": "https://s.shopee.com.br/60SohFcNIf",
-      "rating": "4.8",
-      "sales": 1763,
-      "shop": "Bela Luna Ltda.",
-      "category": "pano microfibra",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23198696676,
-        "productName": "Kit 10 Panos de Copa de Microfibra 35x55 toalha de Prato Luxo",
-        "price": "38.9",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.13",
-        "sales": 1763,
-        "ratingStar": "4.8",
-        "shopName": "Bela Luna Ltda.",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259k-muaqftuyw2rm3a",
-        "productLink": "https://shopee.com.br/product/1577690442/23198696676",
-        "offerLink": "https://s.shopee.com.br/60SohFcNIf"
       },
       "_last_price": null
     },
@@ -20086,35 +20058,6 @@
       "_last_price": null
     },
     {
-      "id": "58200797547",
-      "name": "EZ Silver Essence - Eau de Parfum 100ml",
-      "price": 42.9,
-      "original_price": 69.19,
-      "discount": 38.0,
-      "commission": 28.000000000000004,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhbzozlyxp8l74",
-      "link": "https://s.shopee.com.br/1Lgz8hEhh0",
-      "rating": "4.9",
-      "sales": 5211,
-      "shop": "E'thereal Paris",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58200797547,
-        "productName": "EZ Silver Essence - Eau de Parfum 100ml",
-        "price": "42.9",
-        "priceDiscountRate": 38,
-        "commissionRate": "0.28",
-        "sales": 5211,
-        "ratingStar": "4.9",
-        "shopName": "E'thereal Paris",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhbzozlyxp8l74",
-        "productLink": "https://shopee.com.br/product/1482776546/58200797547",
-        "offerLink": "https://s.shopee.com.br/1Lgz8hEhh0"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23498913995",
       "name": "Porta Maquiagem Organizador De Cosméticos Perfume Prateleira Multiuso 3 Andares",
       "price": 29.76,
@@ -20666,35 +20609,6 @@
       "_last_price": null
     },
     {
-      "id": "22598544943",
-      "name": "Perfume Feminino ÁRABES Sabah 100ML Eau de Parfum Edp",
-      "price": 155.0,
-      "original_price": 246.03,
-      "discount": 37.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma5yywimmow1b5",
-      "link": "https://s.shopee.com.br/20wfvvCAL4",
-      "rating": "4.8",
-      "sales": 2973,
-      "shop": "A.star",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22598544943,
-        "productName": "Perfume Feminino ÁRABES Sabah 100ML Eau de Parfum Edp",
-        "price": "155",
-        "priceDiscountRate": 37,
-        "commissionRate": "0.07",
-        "sales": 2973,
-        "ratingStar": "4.8",
-        "shopName": "A.star",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma5yywimmow1b5",
-        "productLink": "https://shopee.com.br/product/1391612755/22598544943",
-        "offerLink": "https://s.shopee.com.br/20wfvvCAL4"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22394414025",
       "name": "Kit 32 Fraldas Geriátricas Unissex ConfortMaster Pants  P/M G/EG Calcinha/Cueca Incontinência Severa",
       "price": 79.98,
@@ -21126,35 +21040,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zup-mmrk4iywe1oi7c",
         "productLink": "https://shopee.com.br/product/493059579/55508351298",
         "offerLink": "https://s.shopee.com.br/1W0PKy1kMH"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22598926569",
-      "name": "EZ Kaya Ocean - Eau de Toilette 100ml LANÇAMENTO EXCLUSIVO",
-      "price": 28.9,
-      "original_price": 45.16,
-      "discount": 36.0,
-      "commission": 25.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meuecpy1e3uoa3",
-      "link": "https://s.shopee.com.br/9zyxSchi6s",
-      "rating": "4.8",
-      "sales": 3241,
-      "shop": "E'thereal Paris",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22598926569,
-        "productName": "EZ Kaya Ocean - Eau de Toilette 100ml LANÇAMENTO EXCLUSIVO",
-        "price": "28.9",
-        "priceDiscountRate": 36,
-        "commissionRate": "0.25",
-        "sales": 3241,
-        "ratingStar": "4.8",
-        "shopName": "E'thereal Paris",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meuecpy1e3uoa3",
-        "productLink": "https://shopee.com.br/product/1482776546/22598926569",
-        "offerLink": "https://s.shopee.com.br/9zyxSchi6s"
       },
       "_last_price": null
     },
@@ -21594,6 +21479,35 @@
       "_last_price": null
     },
     {
+      "id": "22598544943",
+      "name": "Perfume Feminino ÁRABES Sabah 100ML Eau de Parfum Edp",
+      "price": 155.0,
+      "original_price": 238.46,
+      "discount": 35.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma5yywimmow1b5",
+      "link": "https://s.shopee.com.br/20wfvvCAL4",
+      "rating": "4.8",
+      "sales": 2973,
+      "shop": "A.star",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22598544943,
+        "productName": "Perfume Feminino ÁRABES Sabah 100ML Eau de Parfum Edp",
+        "price": "155",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.07",
+        "sales": 2973,
+        "ratingStar": "4.8",
+        "shopName": "A.star",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma5yywimmow1b5",
+        "productLink": "https://shopee.com.br/product/1391612755/22598544943",
+        "offerLink": "https://s.shopee.com.br/20wfvvCAL4"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22094238842",
       "name": "BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL",
       "price": 25.9,
@@ -21619,6 +21533,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mukoqlfdn280c5",
         "productLink": "https://shopee.com.br/product/1295467768/22094238842",
         "offerLink": "https://s.shopee.com.br/1qdFjcCng5"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58200797547",
+      "name": "EZ Silver Essence - Eau de Parfum 100ml",
+      "price": 44.9,
+      "original_price": 69.08,
+      "discount": 35.0,
+      "commission": 28.000000000000004,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhbzozlyxp8l74",
+      "link": "https://s.shopee.com.br/1Lgz8hEhh0",
+      "rating": "4.9",
+      "sales": 5211,
+      "shop": "E'thereal Paris",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58200797547,
+        "productName": "EZ Silver Essence - Eau de Parfum 100ml",
+        "price": "44.9",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.28",
+        "sales": 5211,
+        "ratingStar": "4.9",
+        "shopName": "E'thereal Paris",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhbzozlyxp8l74",
+        "productLink": "https://shopee.com.br/product/1482776546/58200797547",
+        "offerLink": "https://s.shopee.com.br/1Lgz8hEhh0"
       },
       "_last_price": null
     },
@@ -22808,6 +22751,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23010-kl5a6q6lp2lv43",
         "productLink": "https://shopee.com.br/product/660595518/19170781205",
         "offerLink": "https://s.shopee.com.br/7KyCHiIwHh"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22598926569",
+      "name": "EZ Kaya Ocean - Eau de Toilette 100ml LANÇAMENTO EXCLUSIVO",
+      "price": 29.9,
+      "original_price": 44.63,
+      "discount": 33.0,
+      "commission": 25.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meuecpy1e3uoa3",
+      "link": "https://s.shopee.com.br/9zyxSchi6s",
+      "rating": "4.8",
+      "sales": 3241,
+      "shop": "E'thereal Paris",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22598926569,
+        "productName": "EZ Kaya Ocean - Eau de Toilette 100ml LANÇAMENTO EXCLUSIVO",
+        "price": "29.9",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.25",
+        "sales": 3241,
+        "ratingStar": "4.8",
+        "shopName": "E'thereal Paris",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meuecpy1e3uoa3",
+        "productLink": "https://shopee.com.br/product/1482776546/22598926569",
+        "offerLink": "https://s.shopee.com.br/9zyxSchi6s"
       },
       "_last_price": null
     },
@@ -30232,6 +30204,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcex-lslue7zt1z3pfc",
         "productLink": "https://shopee.com.br/product/754451852/21199212964",
         "offerLink": "https://s.shopee.com.br/2qVmvPkQwM"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "15937859604",
+      "name": "Kit c/10 panos de prato louça premium microfibra 39x59 - Cores Sortidas",
+      "price": 36.9,
+      "original_price": 45.0,
+      "discount": 18.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mb-mmepzpijlds48e",
+      "link": "https://s.shopee.com.br/30pDvvNbUR",
+      "rating": "4.8",
+      "sales": 1175,
+      "shop": "RD Artigos para o Lar",
+      "category": "pano microfibra",
+      "source": "shopee",
+      "_item": {
+        "itemId": 15937859604,
+        "productName": "Kit c/10 panos de prato louça premium microfibra 39x59 - Cores Sortidas",
+        "price": "36.9",
+        "priceDiscountRate": 18,
+        "commissionRate": "0.03",
+        "sales": 1175,
+        "ratingStar": "4.8",
+        "shopName": "RD Artigos para o Lar",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mmepzpijlds48e",
+        "productLink": "https://shopee.com.br/product/595377436/15937859604",
+        "offerLink": "https://s.shopee.com.br/30pDvvNbUR"
       },
       "_last_price": null
     },
