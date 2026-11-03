@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T18:18:50.440483+00:00",
-  "total": 1095,
+  "updated_at": "2026-11-03T18:39:00.079683+00:00",
+  "total": 1096,
   "products": [
     {
       "id": "58210104632",
@@ -1420,6 +1420,35 @@
       "_last_price": null
     },
     {
+      "id": "58202416470",
+      "name": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
+      "price": 4.98,
+      "original_price": 19.92,
+      "discount": 75.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
+      "link": "https://s.shopee.com.br/9pfXGI6BRb",
+      "rating": "4.9",
+      "sales": 11034,
+      "shop": "LUCIOshopping",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58202416470,
+        "productName": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
+        "price": "4.98",
+        "priceDiscountRate": 75,
+        "commissionRate": "0.03",
+        "sales": 11034,
+        "ratingStar": "4.9",
+        "shopName": "LUCIOshopping",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
+        "productLink": "https://shopee.com.br/product/1691846378/58202416470",
+        "offerLink": "https://s.shopee.com.br/9pfXGI6BRb"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23594156062",
       "name": "Kit 10 Panos de Limpeza Microfibra Alta Absorção Flanela Automotivo Carro Pia 30x30cm Vidro Multiuso Pano De Limpeza",
       "price": 11.5,
@@ -1648,7 +1677,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m16zhf1ljn7yae",
         "productLink": "https://shopee.com.br/product/451332066/23793414141",
         "offerLink": "https://s.shopee.com.br/80Dt4zWVrX"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58254621747",
@@ -1906,8 +1936,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mt995huwzmdcf3",
         "productLink": "https://shopee.com.br/product/918530496/58217124419",
         "offerLink": "https://s.shopee.com.br/9zyxSmZGtj"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58214178007",
@@ -24927,8 +24956,8 @@
     {
       "id": "58211422749",
       "name": "Ração Pra Gato 10,1Kg",
-      "price": 69.59,
-      "original_price": 99.41,
+      "price": 69.99,
+      "original_price": 99.99,
       "discount": 30.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mopj2xpnl14wb0",
@@ -24941,7 +24970,7 @@
       "_item": {
         "itemId": 58211422749,
         "productName": "Ração Pra Gato 10,1Kg",
-        "price": "69.59",
+        "price": "69.99",
         "priceDiscountRate": 30,
         "commissionRate": "0.07",
         "sales": 1212,
