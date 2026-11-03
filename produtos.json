@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T08:40:36.657051+00:00",
-  "total": 1092,
+  "updated_at": "2026-11-03T08:59:45.634745+00:00",
+  "total": 1093,
   "products": [
     {
       "id": "58210104632",
@@ -5770,7 +5770,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zr-mklbm2prptdx7f",
         "productLink": "https://shopee.com.br/product/664761873/21998128832",
         "offerLink": "https://s.shopee.com.br/AUvE3T3tTi"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "45468100867",
@@ -13454,6 +13455,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zva-mmuvx89kb3sz10",
         "productLink": "https://shopee.com.br/product/1638165366/23294741602",
         "offerLink": "https://s.shopee.com.br/4qGrJC4AAD"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22598355481",
+      "name": "Tenis feminino Casual Sapatenis Branco Leve Confortável Dia a Dia",
+      "price": 23.9,
+      "original_price": 47.8,
+      "discount": 50.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-msbisi8l3ldx89",
+      "link": "https://s.shopee.com.br/30pD7pB8t4",
+      "rating": "4.7",
+      "sales": 1910,
+      "shop": "Aranda Shoes",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22598355481,
+        "productName": "Tenis feminino Casual Sapatenis Branco Leve Confortável Dia a Dia",
+        "price": "23.9",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 1910,
+        "ratingStar": "4.7",
+        "shopName": "Aranda Shoes",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-msbisi8l3ldx89",
+        "productLink": "https://shopee.com.br/product/1505006777/22598355481",
+        "offerLink": "https://s.shopee.com.br/30pD7pB8t4"
       },
       "_last_price": null
     },
