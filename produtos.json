@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T12:17:01.136398+00:00",
-  "total": 1097,
+  "updated_at": "2026-11-03T12:37:08.959950+00:00",
+  "total": 1100,
   "products": [
     {
       "id": "58210104632",
@@ -1706,8 +1706,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m16zhf1ljn7yae",
         "productLink": "https://shopee.com.br/product/451332066/23793414141",
         "offerLink": "https://s.shopee.com.br/80Dt4zWVrX"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "58254621747",
@@ -7595,35 +7594,6 @@
       "_last_price": null
     },
     {
-      "id": "23998329987",
-      "name": "Placa Captura Video 4k Hdmi Usb 3.0",
-      "price": 79.0,
-      "original_price": 188.1,
-      "discount": 58.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7jwwqkk00qa9b",
-      "link": "https://s.shopee.com.br/9V2grd7hVQ",
-      "rating": "4.9",
-      "sales": 221,
-      "shop": "PENTONCABOS",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23998329987,
-        "productName": "Placa Captura Video 4k Hdmi Usb 3.0",
-        "price": "79",
-        "priceDiscountRate": 58,
-        "commissionRate": "0.11",
-        "sales": 221,
-        "ratingStar": "4.9",
-        "shopName": "PENTONCABOS",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7jwwqkk00qa9b",
-        "productLink": "https://shopee.com.br/product/687992685/23998329987",
-        "offerLink": "https://s.shopee.com.br/9V2grd7hVQ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58200362396",
       "name": "Teclado Mecanico TGT Sherman Compacto V2, Rainbow, ABNT2, Switch Huano Azul, Branco, TGT-SHCPTW-RBW02",
       "price": 96.9,
@@ -9480,6 +9450,35 @@
       "_last_price": null
     },
     {
+      "id": "18297665963",
+      "name": "Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Bebê Babete Toalinha Babita Paninho Estampado",
+      "price": 26.99,
+      "original_price": 59.98,
+      "discount": 55.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcf9-lton9bme325s31",
+      "link": "https://s.shopee.com.br/3g4vWoQxwS",
+      "rating": "4.5",
+      "sales": 2054,
+      "shop": "EssencialBaby",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18297665963,
+        "productName": "Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Bebê Babete Toalinha Babita Paninho Estampado",
+        "price": "26.99",
+        "priceDiscountRate": 55,
+        "commissionRate": "0.06",
+        "sales": 2054,
+        "ratingStar": "4.5",
+        "shopName": "EssencialBaby",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcf9-lton9bme325s31",
+        "productLink": "https://shopee.com.br/product/378105312/18297665963",
+        "offerLink": "https://s.shopee.com.br/3g4vWoQxwS"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22198468630",
       "name": "Halter Dumbell Emborrachado Sextavado Cromado De 10/15/20/25/30/35/40 LBS Um único haltere",
       "price": 106.82,
@@ -10636,6 +10635,64 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mozqryfhjfuod2",
         "productLink": "https://shopee.com.br/product/1726489543/23899479691",
         "offerLink": "https://s.shopee.com.br/qkiXkLsq1"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20997656316",
+      "name": "Pano de Boca Kit 6 Unidades Paninho Fralda de Bebe 100% Algodão 30cmx30cm",
+      "price": 14.99,
+      "original_price": 31.89,
+      "discount": 53.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rccl-ltfjisspmlrbad",
+      "link": "https://s.shopee.com.br/7AenhFDdpx",
+      "rating": "4.7",
+      "sales": 4112,
+      "shop": "EssencialBaby",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20997656316,
+        "productName": "Pano de Boca Kit 6 Unidades Paninho Fralda de Bebe 100% Algodão 30cmx30cm",
+        "price": "14.99",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.06",
+        "sales": 4112,
+        "ratingStar": "4.7",
+        "shopName": "EssencialBaby",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rccl-ltfjisspmlrbad",
+        "productLink": "https://shopee.com.br/product/378105312/20997656316",
+        "offerLink": "https://s.shopee.com.br/7AenhFDdpx"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23992941253",
+      "name": "Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Algodão Grande Macias Estampadas",
+      "price": 27.99,
+      "original_price": 59.55,
+      "discount": 53.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcdr-ltomtv6ucsfla9",
+      "link": "https://s.shopee.com.br/3LS58CSEcQ",
+      "rating": "4.4",
+      "sales": 1797,
+      "shop": "EssencialBaby",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23992941253,
+        "productName": "Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Algodão Grande Macias Estampadas",
+        "price": "27.99",
+        "priceDiscountRate": 53,
+        "commissionRate": "0.06",
+        "sales": 1797,
+        "ratingStar": "4.4",
+        "shopName": "EssencialBaby",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcdr-ltomtv6ucsfla9",
+        "productLink": "https://shopee.com.br/product/378105312/23992941253",
+        "offerLink": "https://s.shopee.com.br/3LS58CSEcQ"
       },
       "_last_price": null
     },
@@ -14149,35 +14206,6 @@
       "_last_price": null
     },
     {
-      "id": "23593130581",
-      "name": "FONTE ATX 24 PINOS APARTIR DE 200 W PADRÃO - LEIA A DESCRIÇÃO",
-      "price": 29.9,
-      "original_price": 58.63,
-      "discount": 49.0,
-      "commission": 9.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mra5i3qbyrrbf5",
-      "link": "https://s.shopee.com.br/6L5f5pgJUG",
-      "rating": "4.5",
-      "sales": 41,
-      "shop": "info.monkey",
-      "category": "fonte atx",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23593130581,
-        "productName": "FONTE ATX 24 PINOS APARTIR DE 200 W PADRÃO - LEIA A DESCRIÇÃO",
-        "price": "29.9",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.09",
-        "sales": 41,
-        "ratingStar": "4.5",
-        "shopName": "info.monkey",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mra5i3qbyrrbf5",
-        "productLink": "https://shopee.com.br/product/399801749/23593130581",
-        "offerLink": "https://s.shopee.com.br/6L5f5pgJUG"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23397600706",
       "name": "Cesto De Roupa 40x70 30x50Cm Caixa Dobrável Brinquedos Cesto Diversa Organizador Cozinha Quarto Casa",
       "price": 10.9,
@@ -14232,35 +14260,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztd-mko7wuy13u2q40",
         "productLink": "https://shopee.com.br/product/979724994/58205223096",
         "offerLink": "https://s.shopee.com.br/6AmEtYsaAY"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23097832684",
-      "name": "Pista Dinossauro Looping Radical Carrinho Com Luz e Som",
-      "price": 65.76,
-      "original_price": 128.94,
-      "discount": 49.0,
-      "commission": 16.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-miaj4h13g1s67c",
-      "link": "https://s.shopee.com.br/9KjGfPJijd",
-      "rating": "4.9",
-      "sales": 1823,
-      "shop": "Na Web Group De Marcas",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23097832684,
-        "productName": "Pista Dinossauro Looping Radical Carrinho Com Luz e Som",
-        "price": "65.76",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.16",
-        "sales": 1823,
-        "ratingStar": "4.9",
-        "shopName": "Na Web Group De Marcas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-miaj4h13g1s67c",
-        "productLink": "https://shopee.com.br/product/325008325/23097832684",
-        "offerLink": "https://s.shopee.com.br/9KjGfPJijd"
       },
       "_last_price": null
     },
@@ -14551,6 +14550,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257v-msyqkx7dbmkof9",
         "productLink": "https://shopee.com.br/product/290073877/18098210626",
         "offerLink": "https://s.shopee.com.br/1Lgz8gAyyw"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23097832684",
+      "name": "Pista Dinossauro Looping Radical Carrinho Com Luz e Som",
+      "price": 69.9,
+      "original_price": 134.42,
+      "discount": 48.0,
+      "commission": 16.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-miaj4h13g1s67c",
+      "link": "https://s.shopee.com.br/9KjGfPJijd",
+      "rating": "4.9",
+      "sales": 1823,
+      "shop": "Na Web Group De Marcas",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23097832684,
+        "productName": "Pista Dinossauro Looping Radical Carrinho Com Luz e Som",
+        "price": "69.9",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.16",
+        "sales": 1823,
+        "ratingStar": "4.9",
+        "shopName": "Na Web Group De Marcas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-miaj4h13g1s67c",
+        "productLink": "https://shopee.com.br/product/325008325/23097832684",
+        "offerLink": "https://s.shopee.com.br/9KjGfPJijd"
       },
       "_last_price": null
     },
@@ -14899,6 +14927,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-muwbuw8f8d8j0c",
         "productLink": "https://shopee.com.br/product/1754933018/23394988549",
         "offerLink": "https://s.shopee.com.br/1BNYwLqmKK"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18097691606",
+      "name": "Toalha de Banho Fralda Soft com Capuz para Bebê  OU  Kit com 2, 3 ou 4 Toalhas",
+      "price": 31.99,
+      "original_price": 60.36,
+      "discount": 47.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rcd0-ltolekuk92vba4",
+      "link": "https://s.shopee.com.br/7fb4IABjp6",
+      "rating": "4.9",
+      "sales": 3934,
+      "shop": "EssencialBaby",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18097691606,
+        "productName": "Toalha de Banho Fralda Soft com Capuz para Bebê  OU  Kit com 2, 3 ou 4 Toalhas",
+        "price": "31.99",
+        "priceDiscountRate": 47,
+        "commissionRate": "0.06",
+        "sales": 3934,
+        "ratingStar": "4.9",
+        "shopName": "EssencialBaby",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rcd0-ltolekuk92vba4",
+        "productLink": "https://shopee.com.br/product/378105312/18097691606",
+        "offerLink": "https://s.shopee.com.br/7fb4IABjp6"
       },
       "_last_price": null
     },
@@ -16266,6 +16323,35 @@
       "_last_price": null
     },
     {
+      "id": "42071102324",
+      "name": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
+      "price": 68.74,
+      "original_price": 124.98,
+      "discount": 45.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
+      "link": "https://s.shopee.com.br/6fiX6KFXqs",
+      "rating": "4.9",
+      "sales": 4201,
+      "shop": "Clube Kids Baby II",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42071102324,
+        "productName": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
+        "price": "68.74",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.06",
+        "sales": 4201,
+        "ratingStar": "4.9",
+        "shopName": "Clube Kids Baby II",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
+        "productLink": "https://shopee.com.br/product/1450084195/42071102324",
+        "offerLink": "https://s.shopee.com.br/6fiX6KFXqs"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23697291640",
       "name": "Penico de Sapinho Mictório Infantil Sapo Menino--3764",
       "price": 21.99,
@@ -16900,35 +16986,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82610-mltb297t5x4z32",
         "productLink": "https://shopee.com.br/product/1620406891/58206936831",
         "offerLink": "https://s.shopee.com.br/9APqT5ksnp"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "42071102324",
-      "name": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
-      "price": 69.88,
-      "original_price": 124.79,
-      "discount": 44.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
-      "link": "https://s.shopee.com.br/6fiX6KFXqs",
-      "rating": "4.9",
-      "sales": 4201,
-      "shop": "Clube Kids Baby II",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42071102324,
-        "productName": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
-        "price": "69.88",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.06",
-        "sales": 4201,
-        "ratingStar": "4.9",
-        "shopName": "Clube Kids Baby II",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
-        "productLink": "https://shopee.com.br/product/1450084195/42071102324",
-        "offerLink": "https://s.shopee.com.br/6fiX6KFXqs"
       },
       "_last_price": null
     },
@@ -18611,35 +18668,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhr7fkii5uki1b",
         "productLink": "https://shopee.com.br/product/1680975344/58201333089",
         "offerLink": "https://s.shopee.com.br/9pfazcoiFR"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18398355263",
-      "name": "Ração pra Cães Adultos Special sabor Frango e Carne 15kg Golden",
-      "price": 114.75,
-      "original_price": 194.49,
-      "discount": 41.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8259k-mg5l2f32aex893",
-      "link": "https://s.shopee.com.br/8KqjTaeirR",
-      "rating": "5",
-      "sales": 1178,
-      "shop": "Chegô",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18398355263,
-        "productName": "Ração pra Cães Adultos Special sabor Frango e Carne 15kg Golden",
-        "price": "114.75",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.03",
-        "sales": 1178,
-        "ratingStar": "5",
-        "shopName": "Chegô",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259k-mg5l2f32aex893",
-        "productLink": "https://shopee.com.br/product/1248266601/18398355263",
-        "offerLink": "https://s.shopee.com.br/8KqjTaeirR"
       },
       "_last_price": null
     },
@@ -20989,35 +21017,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mv1klpyjrcoz2c",
         "productLink": "https://shopee.com.br/product/1639518888/58253571216",
         "offerLink": "https://s.shopee.com.br/7puSsiALCN"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23599649329",
-      "name": "Kit 11 itens completo para Spincast Pesca de Estilingue com Molinete Carretel e Dardos Profissional",
-      "price": 76.49,
-      "original_price": 121.41,
-      "discount": 37.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7r98o-lkjtd8erha6w41",
-      "link": "https://s.shopee.com.br/5fpyInHFX2",
-      "rating": "4.8",
-      "sales": 491,
-      "shop": "Produuuu",
-      "category": "molinete pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23599649329,
-        "productName": "Kit 11 itens completo para Spincast Pesca de Estilingue com Molinete Carretel e Dardos Profissional",
-        "price": "76.49",
-        "priceDiscountRate": 37,
-        "commissionRate": "0.12",
-        "sales": 491,
-        "ratingStar": "4.8",
-        "shopName": "Produuuu",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7r98o-lkjtd8erha6w41",
-        "productLink": "https://shopee.com.br/product/316475205/23599649329",
-        "offerLink": "https://s.shopee.com.br/5fpyInHFX2"
       },
       "_last_price": null
     },
@@ -27750,6 +27749,35 @@
       "_last_price": null
     },
     {
+      "id": "58257777632",
+      "name": "Placa de Video PowerColor Radeon RX 9060 XT Reaper, 8GB, GDDR6, 128-bit, RX9060XT-8G-A",
+      "price": 3369.55,
+      "original_price": 4433.62,
+      "discount": 24.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-82603-mmc3o1v79f6763",
+      "link": "https://s.shopee.com.br/9APqT18yBa",
+      "rating": "4.9",
+      "sales": 57,
+      "shop": "Pichau",
+      "category": "placa de video",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58257777632,
+        "productName": "Placa de Video PowerColor Radeon RX 9060 XT Reaper, 8GB, GDDR6, 128-bit, RX9060XT-8G-A",
+        "price": "3369.55",
+        "priceDiscountRate": 24,
+        "commissionRate": "0.03",
+        "sales": 57,
+        "ratingStar": "4.9",
+        "shopName": "Pichau",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82603-mmc3o1v79f6763",
+        "productLink": "https://shopee.com.br/product/627750190/58257777632",
+        "offerLink": "https://s.shopee.com.br/9APqT18yBa"
+      },
+      "_last_price": null
+    },
+    {
       "id": "55816802474",
       "name": "Whey Protein Concentrado Growth Supplements",
       "price": 210.9,
@@ -28794,6 +28822,35 @@
       "_last_price": null
     },
     {
+      "id": "18398355263",
+      "name": "Ração pra Cães Adultos Special sabor Frango e Carne 15kg Golden",
+      "price": 151.99,
+      "original_price": 194.86,
+      "discount": 22.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8259k-mg5l2f32aex893",
+      "link": "https://s.shopee.com.br/8KqjTaeirR",
+      "rating": "5",
+      "sales": 1178,
+      "shop": "Chegô",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18398355263,
+        "productName": "Ração pra Cães Adultos Special sabor Frango e Carne 15kg Golden",
+        "price": "151.99",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.03",
+        "sales": 1178,
+        "ratingStar": "5",
+        "shopName": "Chegô",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259k-mg5l2f32aex893",
+        "productLink": "https://shopee.com.br/product/1248266601/18398355263",
+        "offerLink": "https://s.shopee.com.br/8KqjTaeirR"
+      },
+      "_last_price": null
+    },
+    {
       "id": "11969651651",
       "name": "Ração Golden Mini Bits Senior Cães Adultos Pequenos Frango e Arroz 10Kg",
       "price": 115.9,
@@ -29370,6 +29427,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-msigxs29bcas5a",
         "productLink": "https://shopee.com.br/product/1275098609/50167014627",
         "offerLink": "https://s.shopee.com.br/80Dt4sV0gb"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21499179442",
+      "name": "Termômetro Digital G-tech Branco",
+      "price": 19.99,
+      "original_price": 24.99,
+      "discount": 20.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rbkl-lqcfxf25r8tcd5",
+      "link": "https://s.shopee.com.br/8pn04PRpzo",
+      "rating": "4.9",
+      "sales": 2898,
+      "shop": "EssencialBaby",
+      "category": "monitor",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21499179442,
+        "productName": "Termômetro Digital G-tech Branco",
+        "price": "19.99",
+        "priceDiscountRate": 20,
+        "commissionRate": "0.06",
+        "sales": 2898,
+        "ratingStar": "4.9",
+        "shopName": "EssencialBaby",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbkl-lqcfxf25r8tcd5",
+        "productLink": "https://shopee.com.br/product/378105312/21499179442",
+        "offerLink": "https://s.shopee.com.br/8pn04PRpzo"
       },
       "_last_price": null
     },
