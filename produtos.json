@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T04:30:54.017249+00:00",
+  "updated_at": "2026-11-03T04:50:10.528281+00:00",
   "total": 1091,
   "products": [
     {
@@ -719,7 +719,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-ms6hxutagw04bd",
         "productLink": "https://shopee.com.br/product/1506274241/22694660203",
         "offerLink": "https://s.shopee.com.br/906QGuHt4T"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22294440400",
@@ -16200,6 +16201,35 @@
       "_last_price": null
     },
     {
+      "id": "42071102324",
+      "name": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
+      "price": 68.74,
+      "original_price": 124.98,
+      "discount": 45.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
+      "link": "https://s.shopee.com.br/6fiX6KFXqs",
+      "rating": "4.9",
+      "sales": 4201,
+      "shop": "Clube Kids Baby II",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42071102324,
+        "productName": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
+        "price": "68.74",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.06",
+        "sales": 4201,
+        "ratingStar": "4.9",
+        "shopName": "Clube Kids Baby II",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
+        "productLink": "https://shopee.com.br/product/1450084195/42071102324",
+        "offerLink": "https://s.shopee.com.br/6fiX6KFXqs"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23697291640",
       "name": "Penico de Sapinho Mictório Infantil Sapo Menino--3764",
       "price": 21.99,
@@ -16834,35 +16864,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mqj7ti2uhiwx4a",
         "productLink": "https://shopee.com.br/product/1458574782/54663825990",
         "offerLink": "https://s.shopee.com.br/1W0PL0E4M3"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "42071102324",
-      "name": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
-      "price": 69.88,
-      "original_price": 124.79,
-      "discount": 44.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
-      "link": "https://s.shopee.com.br/6fiX6KFXqs",
-      "rating": "4.9",
-      "sales": 4201,
-      "shop": "Clube Kids Baby II",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42071102324,
-        "productName": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
-        "price": "69.88",
-        "priceDiscountRate": 44,
-        "commissionRate": "0.06",
-        "sales": 4201,
-        "ratingStar": "4.9",
-        "shopName": "Clube Kids Baby II",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
-        "productLink": "https://shopee.com.br/product/1450084195/42071102324",
-        "offerLink": "https://s.shopee.com.br/6fiX6KFXqs"
       },
       "_last_price": null
     },
