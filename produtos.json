@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T06:45:19.459835+00:00",
-  "total": 1089,
+  "updated_at": "2026-11-03T07:04:32.861322+00:00",
+  "total": 1091,
   "products": [
     {
       "id": "58210104632",
@@ -780,7 +780,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbm5-lln14dkqwcs917",
         "productLink": "https://shopee.com.br/product/504210070/22492388439",
         "offerLink": "https://s.shopee.com.br/2BG68N3Umi"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49165555882",
@@ -3735,6 +3736,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maqajn6xwn7z9d",
         "productLink": "https://shopee.com.br/product/1059934694/21198202231",
         "offerLink": "https://s.shopee.com.br/1gJqC3ZrjL"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58266337840",
+      "name": "Teclado Gamer RGB 98 Teclas Sensação Mecânica 3 Modos Bluetooth 2.4G e USB-C FURYCUBR IP98",
+      "price": 131.72,
+      "original_price": 399.15,
+      "discount": 67.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825ae-mrzr0qzw9lagf9",
+      "link": "https://s.shopee.com.br/5q9OwPRc8c",
+      "rating": "4.8",
+      "sales": 242,
+      "shop": "AUMOX",
+      "category": "teclado mecanico",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58266337840,
+        "productName": "Teclado Gamer RGB 98 Teclas Sensação Mecânica 3 Modos Bluetooth 2.4G e USB-C FURYCUBR IP98",
+        "price": "131.72",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.08",
+        "sales": 242,
+        "ratingStar": "4.8",
+        "shopName": "AUMOX",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ae-mrzr0qzw9lagf9",
+        "productLink": "https://shopee.com.br/product/1223506816/58266337840",
+        "offerLink": "https://s.shopee.com.br/5q9OwPRc8c"
       },
       "_last_price": null
     },
@@ -8721,35 +8751,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mpxse4gzgv0i91",
         "productLink": "https://shopee.com.br/product/1607476642/22995022125",
         "offerLink": "https://s.shopee.com.br/8AXJHBmBEy"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23891917173",
-      "name": "Kit Teclado Semi Mecânico + Mouse Gamer 3200dpi Rgb Led M300",
-      "price": 47.88,
-      "original_price": 108.82,
-      "discount": 56.0,
-      "commission": 4.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lo8gdpc8okvdbd",
-      "link": "https://s.shopee.com.br/8VA9fo2Vgs",
-      "rating": "4.6",
-      "sales": 0,
-      "shop": "ALFA MERCEARIA.BR",
-      "category": "teclado mecanico",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23891917173,
-        "productName": "Kit Teclado Semi Mecânico + Mouse Gamer 3200dpi Rgb Led M300",
-        "price": "47.88",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.04",
-        "sales": 0,
-        "ratingStar": "4.6",
-        "shopName": "ALFA MERCEARIA.BR",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lo8gdpc8okvdbd",
-        "productLink": "https://shopee.com.br/product/362859393/23891917173",
-        "offerLink": "https://s.shopee.com.br/8VA9fo2Vgs"
       },
       "_last_price": null
     },
@@ -18121,6 +18122,35 @@
       "_last_price": null
     },
     {
+      "id": "40510718097",
+      "name": "Suporte De Rack De Halteres Compacto A-Frame Haltere Com Alça Atualizada , Peso Em Forma De Triângulo Para Espaço De Gin",
+      "price": 89.64,
+      "original_price": 154.55,
+      "discount": 42.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdy6-mcr5zj9qs2fo8b",
+      "link": "https://s.shopee.com.br/5fq1jJaIho",
+      "rating": "4.7",
+      "sales": 8,
+      "shop": "yzuzza03.br",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 40510718097,
+        "productName": "Suporte De Rack De Halteres Compacto A-Frame Haltere Com Alça Atualizada , Peso Em Forma De Triângulo Para Espaço De Gin",
+        "price": "89.64",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.07",
+        "sales": 8,
+        "ratingStar": "4.7",
+        "shopName": "yzuzza03.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdy6-mcr5zj9qs2fo8b",
+        "productLink": "https://shopee.com.br/product/207172882/40510718097",
+        "offerLink": "https://s.shopee.com.br/5fq1jJaIho"
+      },
+      "_last_price": null
+    },
+    {
       "id": "52115007524",
       "name": "Ração Úmida Gatos Castrados Salmão Frango GranPlus 18 Sachês",
       "price": 46.37,
@@ -26440,6 +26470,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0jba4wudx7hd7",
         "productLink": "https://shopee.com.br/product/1115776530/22697837903",
         "offerLink": "https://s.shopee.com.br/7fb2gPORzZ"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "43517223211",
+      "name": "Seasir DCAST DC Carretilha de Pesca para Arremesso Controle Digital Long Cast 7.3:1 7+1BB Drag 9kg",
+      "price": 220.99,
+      "original_price": 302.73,
+      "discount": 27.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-me45rxoz162uf1",
+      "link": "https://s.shopee.com.br/906QGsAvVS",
+      "rating": "4.8",
+      "sales": 136,
+      "shop": "seasir.br",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 43517223211,
+        "productName": "Seasir DCAST DC Carretilha de Pesca para Arremesso Controle Digital Long Cast 7.3:1 7+1BB Drag 9kg",
+        "price": "220.99",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.08",
+        "sales": 136,
+        "ratingStar": "4.8",
+        "shopName": "seasir.br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-me45rxoz162uf1",
+        "productLink": "https://shopee.com.br/product/562739754/43517223211",
+        "offerLink": "https://s.shopee.com.br/906QGsAvVS"
       },
       "_last_price": null
     },
