@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T17:58:44.811502+00:00",
-  "total": 1093,
+  "updated_at": "2026-11-03T18:18:50.440483+00:00",
+  "total": 1095,
   "products": [
     {
       "id": "58210104632",
@@ -1416,35 +1416,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a7-mgfaurmyhbt701",
         "productLink": "https://shopee.com.br/product/1127030290/58200141324",
         "offerLink": "https://s.shopee.com.br/9V2grm3zoz"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58202416470",
-      "name": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
-      "price": 4.98,
-      "original_price": 19.92,
-      "discount": 75.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
-      "link": "https://s.shopee.com.br/9pfXGI6BRb",
-      "rating": "4.9",
-      "sales": 11034,
-      "shop": "LUCIOshopping",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58202416470,
-        "productName": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
-        "price": "4.98",
-        "priceDiscountRate": 75,
-        "commissionRate": "0.03",
-        "sales": 11034,
-        "ratingStar": "4.9",
-        "shopName": "LUCIOshopping",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
-        "productLink": "https://shopee.com.br/product/1691846378/58202416470",
-        "offerLink": "https://s.shopee.com.br/9pfXGI6BRb"
       },
       "_last_price": null
     },
@@ -5961,7 +5932,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-mr6ljjt0iyo71e",
         "productLink": "https://shopee.com.br/product/1638239765/58205100450",
         "offerLink": "https://s.shopee.com.br/40hkJanEDn"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22193849980",
@@ -10073,8 +10045,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mqce0aqfsikhfd",
         "productLink": "https://shopee.com.br/product/293152127/45054396139",
         "offerLink": "https://s.shopee.com.br/1BbYHRls8"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "20099094099",
@@ -11295,35 +11266,6 @@
       "_last_price": null
     },
     {
-      "id": "23197485445",
-      "name": "Whey Protein Fuse 900g Isolate Dark Lab",
-      "price": 76.52,
-      "original_price": 159.42,
-      "discount": 52.0,
-      "commission": 21.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzaxtiavhw6de4",
-      "link": "https://s.shopee.com.br/2LZWKXxMWQ",
-      "rating": "4.8",
-      "sales": 4635,
-      "shop": "Dark Lab Oficial",
-      "category": "whey protein",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23197485445,
-        "productName": "Whey Protein Fuse 900g Isolate Dark Lab",
-        "price": "76.52",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.21",
-        "sales": 4635,
-        "ratingStar": "4.8",
-        "shopName": "Dark Lab Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzaxtiavhw6de4",
-        "productLink": "https://shopee.com.br/product/1242044379/23197485445",
-        "offerLink": "https://s.shopee.com.br/2LZWKXxMWQ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "52352168399",
       "name": "Pasta de Amendoim com Whey Protein 600g Dr Peanut",
       "price": 47.5,
@@ -12016,6 +11958,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mt487crkc4xw70",
         "productLink": "https://shopee.com.br/product/1869973924/58265448506",
         "offerLink": "https://s.shopee.com.br/7Aem5QRy7y"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23197485445",
+      "name": "Whey Protein Fuse 900g Isolate Dark Lab",
+      "price": 78.9,
+      "original_price": 161.02,
+      "discount": 51.0,
+      "commission": 21.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzaxtiavhw6de4",
+      "link": "https://s.shopee.com.br/2LZWKXxMWQ",
+      "rating": "4.8",
+      "sales": 4635,
+      "shop": "Dark Lab Oficial",
+      "category": "whey protein",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23197485445,
+        "productName": "Whey Protein Fuse 900g Isolate Dark Lab",
+        "price": "78.9",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.21",
+        "sales": 4635,
+        "ratingStar": "4.8",
+        "shopName": "Dark Lab Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzaxtiavhw6de4",
+        "productLink": "https://shopee.com.br/product/1242044379/23197485445",
+        "offerLink": "https://s.shopee.com.br/2LZWKXxMWQ"
       },
       "_last_price": null
     },
@@ -17240,6 +17211,35 @@
       "_last_price": null
     },
     {
+      "id": "23593130581",
+      "name": "FONTE ATX 24 PINOS APARTIR DE 200 W PADRÃO - LEIA A DESCRIÇÃO",
+      "price": 33.9,
+      "original_price": 59.47,
+      "discount": 43.0,
+      "commission": 9.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l7-mra5i3qbyrrbf5",
+      "link": "https://s.shopee.com.br/6L5f5pgJUG",
+      "rating": "4.5",
+      "sales": 41,
+      "shop": "info.monkey",
+      "category": "fonte atx",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23593130581,
+        "productName": "FONTE ATX 24 PINOS APARTIR DE 200 W PADRÃO - LEIA A DESCRIÇÃO",
+        "price": "33.9",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.09",
+        "sales": 41,
+        "ratingStar": "4.5",
+        "shopName": "info.monkey",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mra5i3qbyrrbf5",
+        "productLink": "https://shopee.com.br/product/399801749/23593130581",
+        "offerLink": "https://s.shopee.com.br/6L5f5pgJUG"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23615780781",
       "name": "Kit 4 Super Panos De Chão Grandes Em Microfibra Panão 80x50",
       "price": 39.99,
@@ -19730,6 +19730,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mukmdt0ea1hec7",
         "productLink": "https://shopee.com.br/product/1295467768/52311303643",
         "offerLink": "https://s.shopee.com.br/9pfXGJiLRt"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "5277044633",
+      "name": "Kit 2x Whey Protein Concentrate 900g - DG Labs",
+      "price": 69.89,
+      "original_price": 114.57,
+      "discount": 39.0,
+      "commission": 20.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lm-msbmudfh3dhj90",
+      "link": "https://s.shopee.com.br/5VWY6MlJ6U",
+      "rating": "4.8",
+      "sales": 684,
+      "shop": "SUPLEMENTOS ONLINE.SHOP",
+      "category": "whey protein",
+      "source": "shopee",
+      "_item": {
+        "itemId": 5277044633,
+        "productName": "Kit 2x Whey Protein Concentrate 900g - DG Labs",
+        "price": "69.89",
+        "priceDiscountRate": 39,
+        "commissionRate": "0.2",
+        "sales": 684,
+        "ratingStar": "4.8",
+        "shopName": "SUPLEMENTOS ONLINE.SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-msbmudfh3dhj90",
+        "productLink": "https://shopee.com.br/product/368012695/5277044633",
+        "offerLink": "https://s.shopee.com.br/5VWY6MlJ6U"
       },
       "_last_price": null
     },
@@ -26081,6 +26110,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825at-mty6cg1jd9fnf9",
         "productLink": "https://shopee.com.br/product/829646892/23691925276",
         "offerLink": "https://s.shopee.com.br/60SohJMWne"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22693991400",
+      "name": "Panela de Pressão Elétrica Electrolux por Rita Lobo 3L Preta Efficient c/ Timer (PCE15)",
+      "price": 309.9,
+      "original_price": 430.42,
+      "discount": 28.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825ar-mtvb14po3eh227",
+      "link": "https://s.shopee.com.br/8fTc1DU5lb",
+      "rating": "4.9",
+      "sales": 469,
+      "shop": "Electrolux",
+      "category": "panela pressao",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22693991400,
+        "productName": "Panela de Pressão Elétrica Electrolux por Rita Lobo 3L Preta Efficient c/ Timer (PCE15)",
+        "price": "309.9",
+        "priceDiscountRate": 28,
+        "commissionRate": "0.03",
+        "sales": 469,
+        "ratingStar": "4.9",
+        "shopName": "Electrolux",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ar-mtvb14po3eh227",
+        "productLink": "https://shopee.com.br/product/1526836548/22693991400",
+        "offerLink": "https://s.shopee.com.br/8fTc1DU5lb"
       },
       "_last_price": null
     },
