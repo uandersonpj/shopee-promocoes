@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T03:13:58.836042+00:00",
+  "updated_at": "2026-11-03T03:33:11.774318+00:00",
   "total": 1091,
   "products": [
     {
@@ -201,7 +201,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134275-7rdxw-mdfucal40l6y57",
         "productLink": "https://shopee.com.br/product/236693678/26539956454",
         "offerLink": "https://s.shopee.com.br/1qdFjjAFRw"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49466540071",
@@ -9788,6 +9789,35 @@
       "_last_price": null
     },
     {
+      "id": "58215217850",
+      "name": "Mouse Vertical Ergonômico Sem Fio Recarregável USB Bluetooth Silencioso Ortopédico Mão Direita PC Gamer Super ",
+      "price": 36.99,
+      "original_price": 80.41,
+      "discount": 54.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8257t-mr8v1xuod63088",
+      "link": "https://s.shopee.com.br/9V2j0bHQQO",
+      "rating": "4.9",
+      "sales": 841,
+      "shop": "CLICK TECH BR",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58215217850,
+        "productName": "Mouse Vertical Ergonômico Sem Fio Recarregável USB Bluetooth Silencioso Ortopédico Mão Direita PC Gamer Super ",
+        "price": "36.99",
+        "priceDiscountRate": 54,
+        "commissionRate": "0.07",
+        "sales": 841,
+        "ratingStar": "4.9",
+        "shopName": "CLICK TECH BR",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257t-mr8v1xuod63088",
+        "productLink": "https://shopee.com.br/product/1372008216/58215217850",
+        "offerLink": "https://s.shopee.com.br/9V2j0bHQQO"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58215279978",
       "name": "Vertical Mouse Sem Fio com Bluetooth e 2.4G Ergonômico Recarregável Portátil para PC Gamer Notebook",
       "price": 34.95,
@@ -11035,35 +11065,6 @@
       "_last_price": null
     },
     {
-      "id": "23398082837",
-      "name": "Kit 2x Mousepad Ergonômico Gamer Com Apoio De Punho Pulso Mouse Pad Ergonomico Confortável Expedição",
-      "price": 11.58,
-      "original_price": 24.12,
-      "discount": 52.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3wfdg89ffhx9a",
-      "link": "https://s.shopee.com.br/1Lh2JQKK06",
-      "rating": "4.9",
-      "sales": 722,
-      "shop": "Oliveira Flex",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23398082837,
-        "productName": "Kit 2x Mousepad Ergonômico Gamer Com Apoio De Punho Pulso Mouse Pad Ergonomico Confortável Expedição",
-        "price": "11.58",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.07",
-        "sales": 722,
-        "ratingStar": "4.9",
-        "shopName": "Oliveira Flex",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3wfdg89ffhx9a",
-        "productLink": "https://shopee.com.br/product/760173021/23398082837",
-        "offerLink": "https://s.shopee.com.br/1Lh2JQKK06"
-      },
-      "_last_price": null
-    },
-    {
       "id": "56511310186",
       "name": "Kit 3 Potes Herméticos 2L Lavanderia Copo Medidor Bico Dosador Porta Sabão em Pó Amaciante Anti Vazamento",
       "price": 47.67,
@@ -11216,7 +11217,7 @@
       "discount": 52.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4l-lu12o63azpqq01",
-      "link": "https://s.shopee.com.br/gRGkR7VuN",
+      "link": "https://s.shopee.com.br/2BG9KM40Gv",
       "rating": "4.7",
       "sales": 1531,
       "shop": "Empório DK - Produtos Infantis",
@@ -11233,7 +11234,7 @@
         "shopName": "Empório DK - Produtos Infantis",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4l-lu12o63azpqq01",
         "productLink": "https://shopee.com.br/product/1045804093/22492958419",
-        "offerLink": "https://s.shopee.com.br/gRGkR7VuN"
+        "offerLink": "https://s.shopee.com.br/2BG9KM40Gv"
       },
       "_last_price": null
     },
@@ -14805,35 +14806,6 @@
       "_last_price": null
     },
     {
-      "id": "42071102324",
-      "name": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
-      "price": 66.39,
-      "original_price": 125.26,
-      "discount": 47.0,
-      "commission": 6.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
-      "link": "https://s.shopee.com.br/6fiX6KFXqs",
-      "rating": "4.9",
-      "sales": 4201,
-      "shop": "Clube Kids Baby II",
-      "category": "fralda",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42071102324,
-        "productName": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
-        "price": "66.39",
-        "priceDiscountRate": 47,
-        "commissionRate": "0.06",
-        "sales": 4201,
-        "ratingStar": "4.9",
-        "shopName": "Clube Kids Baby II",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
-        "productLink": "https://shopee.com.br/product/1450084195/42071102324",
-        "offerLink": "https://s.shopee.com.br/6fiX6KFXqs"
-      },
-      "_last_price": null
-    },
-    {
       "id": "18699254225",
       "name": "Creatina Monohidratada Pura 300g Dark Lab - 100% Pura",
       "price": 39.9,
@@ -16831,6 +16803,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820la-mqj7ti2uhiwx4a",
         "productLink": "https://shopee.com.br/product/1458574782/54663825990",
         "offerLink": "https://s.shopee.com.br/1W0PL0E4M3"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "42071102324",
+      "name": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
+      "price": 69.88,
+      "original_price": 124.79,
+      "discount": 44.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
+      "link": "https://s.shopee.com.br/6fiX6KFXqs",
+      "rating": "4.9",
+      "sales": 4201,
+      "shop": "Clube Kids Baby II",
+      "category": "fralda",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42071102324,
+        "productName": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
+        "price": "69.88",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.06",
+        "sales": 4201,
+        "ratingStar": "4.9",
+        "shopName": "Clube Kids Baby II",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
+        "productLink": "https://shopee.com.br/product/1450084195/42071102324",
+        "offerLink": "https://s.shopee.com.br/6fiX6KFXqs"
       },
       "_last_price": null
     },
@@ -23541,7 +23542,7 @@
       "discount": 32.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mqni5t3phaf47c",
-      "link": "https://s.shopee.com.br/2VsxIOKcJh",
+      "link": "https://s.shopee.com.br/1Bej552Ss",
       "rating": "4.8",
       "sales": 2422,
       "shop": "AQUARELA DECORAÇÕES",
@@ -23558,7 +23559,7 @@
         "shopName": "AQUARELA DECORAÇÕES",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mqni5t3phaf47c",
         "productLink": "https://shopee.com.br/product/597391186/19899866990",
-        "offerLink": "https://s.shopee.com.br/2VsxIOKcJh"
+        "offerLink": "https://s.shopee.com.br/1Bej552Ss"
       },
       "_last_price": null
     },
@@ -26644,7 +26645,7 @@
       "discount": 26.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lr-mp18dhjxhy4l91",
-      "link": "https://s.shopee.com.br/3g4w3znw4d",
+      "link": "https://s.shopee.com.br/3g4x5or51k",
       "rating": "4.9",
       "sales": 1471,
       "shop": "Casa Ilume",
@@ -26661,7 +26662,7 @@
         "shopName": "Casa Ilume",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mp18dhjxhy4l91",
         "productLink": "https://shopee.com.br/product/987020544/58261911959",
-        "offerLink": "https://s.shopee.com.br/3g4w3znw4d"
+        "offerLink": "https://s.shopee.com.br/3g4x5or51k"
       },
       "_last_price": null
     },
