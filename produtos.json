@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T05:28:34.224840+00:00",
+  "updated_at": "2026-11-03T05:47:43.900247+00:00",
   "total": 1090,
   "products": [
     {
@@ -2602,7 +2602,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-ms4ydyx58xdy23",
         "productLink": "https://shopee.com.br/product/1734810849/58208872077",
         "offerLink": "https://s.shopee.com.br/5q9OUsqnBb"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22299265128",
@@ -5792,6 +5793,35 @@
       }
     },
     {
+      "id": "45468100867",
+      "name": "Mini Jesus Sentado Decorativo Oratório Para Monitor Mesa Prateleira Nicho Carro Kit",
+      "price": 11.87,
+      "original_price": 31.24,
+      "discount": 62.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mte3hafgagw306",
+      "link": "https://s.shopee.com.br/9KjGfKPvyj",
+      "rating": "4.6",
+      "sales": 5840,
+      "shop": "ALFA 3D",
+      "category": "monitor",
+      "source": "shopee",
+      "_item": {
+        "itemId": 45468100867,
+        "productName": "Mini Jesus Sentado Decorativo Oratório Para Monitor Mesa Prateleira Nicho Carro Kit",
+        "price": "11.87",
+        "priceDiscountRate": 62,
+        "commissionRate": "0.13",
+        "sales": 5840,
+        "ratingStar": "4.6",
+        "shopName": "ALFA 3D",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mte3hafgagw306",
+        "productLink": "https://shopee.com.br/product/1161608606/45468100867",
+        "offerLink": "https://s.shopee.com.br/9KjGfKPvyj"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58262310122",
       "name": "Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
       "price": 75.78,
@@ -7238,35 +7268,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lkz9ur4r4lj3c1",
         "productLink": "https://shopee.com.br/product/752743341/18350470458",
         "offerLink": "https://s.shopee.com.br/9pfXGEbZ4F"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "45468100867",
-      "name": "Mini Jesus Sentado Decorativo Oratório Para Monitor Mesa Prateleira Nicho Carro Kit",
-      "price": 24.9,
-      "original_price": 60.73,
-      "discount": 59.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-mte3hafgagw306",
-      "link": "https://s.shopee.com.br/9KjGfKPvyj",
-      "rating": "4.6",
-      "sales": 5840,
-      "shop": "ALFA 3D",
-      "category": "monitor",
-      "source": "shopee",
-      "_item": {
-        "itemId": 45468100867,
-        "productName": "Mini Jesus Sentado Decorativo Oratório Para Monitor Mesa Prateleira Nicho Carro Kit",
-        "price": "24.9",
-        "priceDiscountRate": 59,
-        "commissionRate": "0.13",
-        "sales": 5840,
-        "ratingStar": "4.6",
-        "shopName": "ALFA 3D",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mte3hafgagw306",
-        "productLink": "https://shopee.com.br/product/1161608606/45468100867",
-        "offerLink": "https://s.shopee.com.br/9KjGfKPvyj"
       },
       "_last_price": null
     },
