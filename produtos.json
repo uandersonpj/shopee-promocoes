@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T07:17:14.641498+00:00",
-  "total": 1133,
+  "updated_at": "2026-11-17T07:37:13.419124+00:00",
+  "total": 1134,
   "products": [
     {
       "id": "21099546181",
@@ -10696,7 +10696,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mujm49g0fpqb4d",
         "productLink": "https://shopee.com.br/product/847641179/20598270836",
         "offerLink": "https://s.shopee.com.br/3LSQnVuVbC"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "19097661270",
@@ -12696,35 +12697,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821fx-mggwxncc2yoec0",
         "productLink": "https://shopee.com.br/product/397374716/58200187594",
         "offerLink": "https://s.shopee.com.br/1LhMMYwbx1"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "56511310186",
-      "name": "Kit 3 Potes Herméticos 2L Lavanderia Copo Medidor Bico Dosador Porta Sabão em Pó Amaciante Anti Vazamento",
-      "price": 50.06,
-      "original_price": 100.12,
-      "discount": 50.0,
-      "commission": 12.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lj-mosc7lrooo3n52",
-      "link": "https://s.shopee.com.br/9zzLqQntYJ",
-      "rating": "4.8",
-      "sales": 1430,
-      "shop": "CampvendasMulticoisas",
-      "category": "sabao em po",
-      "source": "shopee",
-      "_item": {
-        "itemId": 56511310186,
-        "productName": "Kit 3 Potes Herméticos 2L Lavanderia Copo Medidor Bico Dosador Porta Sabão em Pó Amaciante Anti Vazamento",
-        "price": "50.06",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.12",
-        "sales": 1430,
-        "ratingStar": "4.8",
-        "shopName": "CampvendasMulticoisas",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mosc7lrooo3n52",
-        "productLink": "https://shopee.com.br/product/1627792845/56511310186",
-        "offerLink": "https://s.shopee.com.br/9zzLqQntYJ"
       },
       "_last_price": null
     },
@@ -14794,7 +14766,7 @@
       "original_price": 178.81,
       "discount": 48.0,
       "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ld-mvdak7dja8eb0b",
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mvmsfugj09og1c",
       "link": "https://s.shopee.com.br/6VPSXknFtM",
       "rating": "4.9",
       "sales": 36,
@@ -14810,7 +14782,7 @@
         "sales": 36,
         "ratingStar": "4.9",
         "shopName": "VENTO LIVRE",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mvdak7dja8eb0b",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mvmsfugj09og1c",
         "productLink": "https://shopee.com.br/product/1545761787/58204434373",
         "offerLink": "https://s.shopee.com.br/6VPSXknFtM"
       },
@@ -15799,6 +15771,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6m9l0e7xmo95",
         "productLink": "https://shopee.com.br/product/319738922/23594622047",
         "offerLink": "https://s.shopee.com.br/6q2K4bzwz0"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "54911306293",
+      "name": "Kit 2 Potes Herméticos 2L Lavanderia Copo Medidor Bico Dosador Porta Sabão em Pó Amaciante Produtos de Limpeza",
+      "price": 37.46,
+      "original_price": 69.37,
+      "discount": 46.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lf-mosc7lron9j77a",
+      "link": "https://s.shopee.com.br/60TD5537fv",
+      "rating": "4.8",
+      "sales": 537,
+      "shop": "CampvendasMulticoisas",
+      "category": "sabao em po",
+      "source": "shopee",
+      "_item": {
+        "itemId": 54911306293,
+        "productName": "Kit 2 Potes Herméticos 2L Lavanderia Copo Medidor Bico Dosador Porta Sabão em Pó Amaciante Produtos de Limpeza",
+        "price": "37.46",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.12",
+        "sales": 537,
+        "ratingStar": "4.8",
+        "shopName": "CampvendasMulticoisas",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lf-mosc7lron9j77a",
+        "productLink": "https://shopee.com.br/product/1627792845/54911306293",
+        "offerLink": "https://s.shopee.com.br/60TD5537fv"
       },
       "_last_price": null
     },
@@ -18206,6 +18207,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zu4-mks9boy67bib69",
         "productLink": "https://shopee.com.br/product/1177903362/22398897653",
         "offerLink": "https://s.shopee.com.br/6L62DXsASN"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22998029026",
+      "name": "Easyfresh Bouquet Facilitador Finalizador Passar Roupas e Tecidos Passadoria Lavanderia 1l Spartan",
+      "price": 30.9,
+      "original_price": 53.28,
+      "discount": 42.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfsnogvj5wqs3d",
+      "link": "https://s.shopee.com.br/6fisc9qtmT",
+      "rating": "4.9",
+      "sales": 1552,
+      "shop": "CasaEletro Marcon",
+      "category": "amaciante",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22998029026,
+        "productName": "Easyfresh Bouquet Facilitador Finalizador Passar Roupas e Tecidos Passadoria Lavanderia 1l Spartan",
+        "price": "30.9",
+        "priceDiscountRate": 42,
+        "commissionRate": "0.06",
+        "sales": 1552,
+        "ratingStar": "4.9",
+        "shopName": "CasaEletro Marcon",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfsnogvj5wqs3d",
+        "productLink": "https://shopee.com.br/product/433434010/22998029026",
+        "offerLink": "https://s.shopee.com.br/6fisc9qtmT"
       },
       "_last_price": null
     },
