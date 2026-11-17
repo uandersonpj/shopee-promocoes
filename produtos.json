@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T06:16:54.519435+00:00",
+  "updated_at": "2026-11-17T06:37:05.975163+00:00",
   "total": 1133,
   "products": [
     {
@@ -8201,7 +8201,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259r-mtxv7ho7670m45",
         "productLink": "https://shopee.com.br/product/1179518791/23994933674",
         "offerLink": "https://s.shopee.com.br/70LjATJIPM"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "52103908995",
@@ -24269,35 +24270,6 @@
       "_last_price": null
     },
     {
-      "id": "58200947469",
-      "name": "Racao Gatos Adultos 10.1KG Special Cat Premium Sabor Carne envio rapido",
-      "price": 109.19,
-      "original_price": 160.57,
-      "discount": 32.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mobfdvrye96uce",
-      "link": "https://s.shopee.com.br/70Lj2ULkBV",
-      "rating": "5",
-      "sales": 687,
-      "shop": "animalzecommerce",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58200947469,
-        "productName": "Racao Gatos Adultos 10.1KG Special Cat Premium Sabor Carne envio rapido",
-        "price": "109.19",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.03",
-        "sales": 687,
-        "ratingStar": "5",
-        "shopName": "animalzecommerce",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mobfdvrye96uce",
-        "productLink": "https://shopee.com.br/product/1509105042/58200947469",
-        "offerLink": "https://s.shopee.com.br/70Lj2ULkBV"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20599359513",
       "name": "Kit Cozinha Brinquedo Infantil Fogão Forno Panelinhas Xícaras Acessórios Faz de Conta",
       "price": 29.99,
@@ -28064,6 +28036,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mut4i4hfcjczb9",
         "productLink": "https://shopee.com.br/product/1194006916/22893283679",
         "offerLink": "https://s.shopee.com.br/2BGTHbe8z8"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58200947469",
+      "name": "Racao Gatos Adultos 10.1KG Special Cat Premium Sabor Carne envio rapido",
+      "price": 118.2,
+      "original_price": 159.73,
+      "discount": 26.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m7-mobfdvrye96uce",
+      "link": "https://s.shopee.com.br/70Lj2ULkBV",
+      "rating": "5",
+      "sales": 687,
+      "shop": "animalzecommerce",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58200947469,
+        "productName": "Racao Gatos Adultos 10.1KG Special Cat Premium Sabor Carne envio rapido",
+        "price": "118.2",
+        "priceDiscountRate": 26,
+        "commissionRate": "0.03",
+        "sales": 687,
+        "ratingStar": "5",
+        "shopName": "animalzecommerce",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mobfdvrye96uce",
+        "productLink": "https://shopee.com.br/product/1509105042/58200947469",
+        "offerLink": "https://s.shopee.com.br/70Lj2ULkBV"
       },
       "_last_price": null
     },
