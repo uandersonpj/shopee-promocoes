@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T08:39:30.370226+00:00",
-  "total": 1130,
+  "updated_at": "2026-11-18T08:59:19.939254+00:00",
+  "total": 1131,
   "products": [
     {
       "id": "21099546181",
@@ -144,7 +144,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lygnvwoxla5170",
         "productLink": "https://shopee.com.br/product/322874822/20997735891",
         "offerLink": "https://s.shopee.com.br/AUvbG67tpL"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58254860002",
@@ -2728,35 +2729,6 @@
       "_last_price": null
     },
     {
-      "id": "44059916730",
-      "name": "Flutuador De Bateria De Lítio CR425 CR311 CR316 CR322 Mini Pesca Durável Sem Mercúrio",
-      "price": 12.43,
-      "original_price": 41.43,
-      "discount": 70.0,
-      "commission": 16.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8262w-mjmq1p9890qsaa",
-      "link": "https://s.shopee.com.br/5fqMtMp4ny",
-      "rating": "4.8",
-      "sales": 31,
-      "shop": "Choice Oficial",
-      "category": "flutuador pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 44059916730,
-        "productName": "Flutuador De Bateria De Lítio CR425 CR311 CR316 CR322 Mini Pesca Durável Sem Mercúrio",
-        "price": "12.43",
-        "priceDiscountRate": 70,
-        "commissionRate": "0.16",
-        "sales": 31,
-        "ratingStar": "4.8",
-        "shopName": "Choice Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262w-mjmq1p9890qsaa",
-        "productLink": "https://shopee.com.br/product/1006215031/44059916730",
-        "offerLink": "https://s.shopee.com.br/5fqMtMp4ny"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58251073566",
       "name": "Passaguá de Pesca 1,75m em Alumínio Retrátil Dobrável – Ideal para Lago, Rio e Pesca Esportiva",
       "price": 29.99,
@@ -3577,7 +3549,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l4-msrp9bhnvw91a6",
       "link": "https://s.shopee.com.br/AUvcfVRdQt",
-      "rating": "4.8",
+      "rating": "4.7",
       "sales": 2459,
       "shop": "BOTHale",
       "category": "sabao em po",
@@ -3589,7 +3561,7 @@
         "priceDiscountRate": 67,
         "commissionRate": "0.03",
         "sales": 2459,
-        "ratingStar": "4.8",
+        "ratingStar": "4.7",
         "shopName": "BOTHale",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-msrp9bhnvw91a6",
         "productLink": "https://shopee.com.br/product/1927684214/58267517550",
@@ -4145,6 +4117,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-22110-wadt3ny78kjv4f",
         "productLink": "https://shopee.com.br/product/504210070/21660585175",
         "offerLink": "https://s.shopee.com.br/5q9n8g5lpq"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "44059916730",
+      "name": "Flutuador De Bateria De Lítio CR425 CR311 CR316 CR322 Mini Pesca Durável Sem Mercúrio",
+      "price": 13.67,
+      "original_price": 41.42,
+      "discount": 67.0,
+      "commission": 16.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8262w-mjmq1p9890qsaa",
+      "link": "https://s.shopee.com.br/5fqMtMp4ny",
+      "rating": "4.8",
+      "sales": 31,
+      "shop": "Choice Oficial",
+      "category": "flutuador pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 44059916730,
+        "productName": "Flutuador De Bateria De Lítio CR425 CR311 CR316 CR322 Mini Pesca Durável Sem Mercúrio",
+        "price": "13.67",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.16",
+        "sales": 31,
+        "ratingStar": "4.8",
+        "shopName": "Choice Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262w-mjmq1p9890qsaa",
+        "productLink": "https://shopee.com.br/product/1006215031/44059916730",
+        "offerLink": "https://s.shopee.com.br/5fqMtMp4ny"
       },
       "_last_price": null
     },
@@ -13924,8 +13925,8 @@
     {
       "id": "25614629818",
       "name": "Boné De Beisebol Masculino Camuflado Com Caveira , Chapéu Tático Para Pesca E Caminhada Ao Ar Livre O Verão",
-      "price": 28.95,
-      "original_price": 57.9,
+      "price": 31.66,
+      "original_price": 63.32,
       "discount": 50.0,
       "commission": 14.000000000000002,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rdvq-mcakt9br8pflf2",
@@ -13938,7 +13939,7 @@
       "_item": {
         "itemId": 25614629818,
         "productName": "Boné De Beisebol Masculino Camuflado Com Caveira , Chapéu Tático Para Pesca E Caminhada Ao Ar Livre O Verão",
-        "price": "28.95",
+        "price": "31.66",
         "priceDiscountRate": 50,
         "commissionRate": "0.14",
         "sales": 170,
@@ -14527,35 +14528,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mp9wipll8u85a3",
         "productLink": "https://shopee.com.br/product/452150155/22795028666",
         "offerLink": "https://s.shopee.com.br/1ByndTiBB"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "18098210626",
-      "name": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
-      "price": 8.87,
-      "original_price": 17.06,
-      "discount": 48.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8257v-msyqkx7dbmkof9",
-      "link": "https://s.shopee.com.br/4VeO2F6T4p",
-      "rating": "4.9",
-      "sales": 3838,
-      "shop": "mypetone",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18098210626,
-        "productName": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
-        "price": "8.87",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.11",
-        "sales": 3838,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257v-msyqkx7dbmkof9",
-        "productLink": "https://shopee.com.br/product/290073877/18098210626",
-        "offerLink": "https://s.shopee.com.br/4VeO2F6T4p"
       },
       "_last_price": null
     },
@@ -21636,6 +21608,35 @@
       "_last_price": null
     },
     {
+      "id": "55263761898",
+      "name": "Chaveiro Com Pingente De Fitness Multicolorido , Ecológico Halteres , Portátil , Resistente , Mini Haltere , Porta-Chave",
+      "price": 9.9,
+      "original_price": 15.47,
+      "discount": 36.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825ar-mqhadgz76x3hb3",
+      "link": "https://s.shopee.com.br/8Kr8AGr6Mx",
+      "rating": "4.8",
+      "sales": 12,
+      "shop": "Meexea Loja Artigos Domésticos",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 55263761898,
+        "productName": "Chaveiro Com Pingente De Fitness Multicolorido , Ecológico Halteres , Portátil , Resistente , Mini Haltere , Porta-Chave",
+        "price": "9.9",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 12,
+        "ratingStar": "4.8",
+        "shopName": "Meexea Loja Artigos Domésticos",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ar-mqhadgz76x3hb3",
+        "productLink": "https://shopee.com.br/product/191444887/55263761898",
+        "offerLink": "https://s.shopee.com.br/8Kr8AGr6Mx"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22393210542",
       "name": "Ração Golden Gatos Castrados 10kg Frango e Carne",
       "price": 139.9,
@@ -28215,6 +28216,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwo-lxlkc48y5z0qbe",
         "productLink": "https://shopee.com.br/product/290073877/20799325352",
         "offerLink": "https://s.shopee.com.br/2qWA3BCoSL"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18098210626",
+      "name": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
+      "price": 8.87,
+      "original_price": 11.83,
+      "discount": 25.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8257v-msyqkx7dbmkof9",
+      "link": "https://s.shopee.com.br/4VeO2F6T4p",
+      "rating": "4.9",
+      "sales": 3838,
+      "shop": "mypetone",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18098210626,
+        "productName": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
+        "price": "8.87",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.11",
+        "sales": 3838,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257v-msyqkx7dbmkof9",
+        "productLink": "https://shopee.com.br/product/290073877/18098210626",
+        "offerLink": "https://s.shopee.com.br/4VeO2F6T4p"
       },
       "_last_price": null
     },
