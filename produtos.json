@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T05:56:57.627090+00:00",
+  "updated_at": "2026-11-18T06:17:40.065885+00:00",
   "total": 1130,
   "products": [
     {
@@ -549,7 +549,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mubsbck78ttxc0",
         "productLink": "https://shopee.com.br/product/1489642227/55519277349",
         "offerLink": "https://s.shopee.com.br/1gKFpO9Xtn"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58207521088",
@@ -5908,35 +5909,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258d-mu04umrnr76214",
         "productLink": "https://shopee.com.br/product/1885387446/58219906551",
         "offerLink": "https://s.shopee.com.br/5Au4uT1tl8"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21998128832",
-      "name": "Suporte Ajustável Vertical para GPU Placa de Vídeo Anti Sag Universal para Gabinete PC Gamer",
-      "price": 7.49,
-      "original_price": 19.71,
-      "discount": 62.0,
-      "commission": 15.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825zr-mklbm2prptdx7f",
-      "link": "https://s.shopee.com.br/gRiw3pjIi",
-      "rating": "4.9",
-      "sales": 147,
-      "shop": "MEGA1",
-      "category": "placa de video",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21998128832,
-        "productName": "Suporte Ajustável Vertical para GPU Placa de Vídeo Anti Sag Universal para Gabinete PC Gamer",
-        "price": "7.49",
-        "priceDiscountRate": 62,
-        "commissionRate": "0.15",
-        "sales": 147,
-        "ratingStar": "4.9",
-        "shopName": "MEGA1",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zr-mklbm2prptdx7f",
-        "productLink": "https://shopee.com.br/product/664761873/21998128832",
-        "offerLink": "https://s.shopee.com.br/gRiw3pjIi"
       },
       "_last_price": null
     },
@@ -14757,35 +14729,6 @@
       "_last_price": null
     },
     {
-      "id": "58204434373",
-      "name": "VENTO LIVRE Garrafa Térmica Dopaminérgica 1000ml Aço 316 com Canudo, que pode ser usada como haltere",
-      "price": 92.98,
-      "original_price": 178.81,
-      "discount": 48.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mvmsfugj09og1c",
-      "link": "https://s.shopee.com.br/6VPSXknFtM",
-      "rating": "4.9",
-      "sales": 38,
-      "shop": "VENTO LIVRE",
-      "category": "haltere",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58204434373,
-        "productName": "VENTO LIVRE Garrafa Térmica Dopaminérgica 1000ml Aço 316 com Canudo, que pode ser usada como haltere",
-        "price": "92.98",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.13",
-        "sales": 38,
-        "ratingStar": "4.9",
-        "shopName": "VENTO LIVRE",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mvmsfugj09og1c",
-        "productLink": "https://shopee.com.br/product/1545761787/58204434373",
-        "offerLink": "https://s.shopee.com.br/6VPSXknFtM"
-      },
-      "_last_price": null
-    },
-    {
       "id": "19499594439",
       "name": "Arranhador Para Gatos Com Casinha Playground",
       "price": 129.99,
@@ -16725,6 +16668,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xb-mod7bwkej6z04a",
         "productLink": "https://shopee.com.br/product/252308329/57960684492",
         "offerLink": "https://s.shopee.com.br/5fqLYDqQa9"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58204434373",
+      "name": "VENTO LIVRE Garrafa Térmica Dopaminérgica 1000ml Aço 316 com Canudo, que pode ser usada como haltere",
+      "price": 98.99,
+      "original_price": 179.98,
+      "discount": 45.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mvmsfugj09og1c",
+      "link": "https://s.shopee.com.br/6VPSXknFtM",
+      "rating": "4.9",
+      "sales": 38,
+      "shop": "VENTO LIVRE",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58204434373,
+        "productName": "VENTO LIVRE Garrafa Térmica Dopaminérgica 1000ml Aço 316 com Canudo, que pode ser usada como haltere",
+        "price": "98.99",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.13",
+        "sales": 38,
+        "ratingStar": "4.9",
+        "shopName": "VENTO LIVRE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mvmsfugj09og1c",
+        "productLink": "https://shopee.com.br/product/1545761787/58204434373",
+        "offerLink": "https://s.shopee.com.br/6VPSXknFtM"
       },
       "_last_price": null
     },
@@ -21712,6 +21684,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h4-mpm1ps3kzv2m99",
         "productLink": "https://shopee.com.br/product/1846124945/53112404991",
         "offerLink": "https://s.shopee.com.br/6Amc98oWZK"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "55263761898",
+      "name": "Chaveiro Com Pingente De Fitness Multicolorido , Ecológico Halteres , Portátil , Resistente , Mini Haltere , Porta-Chave",
+      "price": 9.9,
+      "original_price": 15.47,
+      "discount": 36.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825ar-mqhadgz76x3hb3",
+      "link": "https://s.shopee.com.br/8Kr8AGr6Mx",
+      "rating": "4.8",
+      "sales": 12,
+      "shop": "Meexea Loja Artigos Domésticos",
+      "category": "haltere",
+      "source": "shopee",
+      "_item": {
+        "itemId": 55263761898,
+        "productName": "Chaveiro Com Pingente De Fitness Multicolorido , Ecológico Halteres , Portátil , Resistente , Mini Haltere , Porta-Chave",
+        "price": "9.9",
+        "priceDiscountRate": 36,
+        "commissionRate": "0.03",
+        "sales": 12,
+        "ratingStar": "4.8",
+        "shopName": "Meexea Loja Artigos Domésticos",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ar-mqhadgz76x3hb3",
+        "productLink": "https://shopee.com.br/product/191444887/55263761898",
+        "offerLink": "https://s.shopee.com.br/8Kr8AGr6Mx"
       },
       "_last_price": null
     },
@@ -27139,35 +27140,6 @@
       "_last_price": null
     },
     {
-      "id": "20799325352",
-      "name": "Shampoo Clorexidina Sabonete Clorexidina ou Shampoo Antiparasitario 500mL world para Cães e Gatos",
-      "price": 8.88,
-      "original_price": 12.16,
-      "discount": 27.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwo-lxlkc48y5z0qbe",
-      "link": "https://s.shopee.com.br/2qWA3BCoSL",
-      "rating": "4.9",
-      "sales": 5080,
-      "shop": "mypetone",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20799325352,
-        "productName": "Shampoo Clorexidina Sabonete Clorexidina ou Shampoo Antiparasitario 500mL world para Cães e Gatos",
-        "price": "8.88",
-        "priceDiscountRate": 27,
-        "commissionRate": "0.11",
-        "sales": 5080,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwo-lxlkc48y5z0qbe",
-        "productLink": "https://shopee.com.br/product/290073877/20799325352",
-        "offerLink": "https://s.shopee.com.br/2qWA3BCoSL"
-      },
-      "_last_price": null
-    },
-    {
       "id": "8658711360",
       "name": "Tasty Whey Adaptogen 900g Whey Protein 3w",
       "price": 217.6,
@@ -28237,6 +28209,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824g5-med9x5t6ifb561",
         "productLink": "https://shopee.com.br/product/1626133503/23594386814",
         "offerLink": "https://s.shopee.com.br/2BGUnH88Cl"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "20799325352",
+      "name": "Shampoo Clorexidina Sabonete Clorexidina ou Shampoo Antiparasitario 500mL world para Cães e Gatos",
+      "price": 8.88,
+      "original_price": 11.84,
+      "discount": 25.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwo-lxlkc48y5z0qbe",
+      "link": "https://s.shopee.com.br/2qWA3BCoSL",
+      "rating": "4.9",
+      "sales": 5080,
+      "shop": "mypetone",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20799325352,
+        "productName": "Shampoo Clorexidina Sabonete Clorexidina ou Shampoo Antiparasitario 500mL world para Cães e Gatos",
+        "price": "8.88",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.11",
+        "sales": 5080,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwo-lxlkc48y5z0qbe",
+        "productLink": "https://shopee.com.br/product/290073877/20799325352",
+        "offerLink": "https://s.shopee.com.br/2qWA3BCoSL"
       },
       "_last_price": null
     },
