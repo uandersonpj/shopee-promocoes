@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T04:55:18.846966+00:00",
-  "total": 1129,
+  "updated_at": "2026-11-18T05:16:32.005215+00:00",
+  "total": 1130,
   "products": [
     {
       "id": "21099546181",
@@ -3037,7 +3037,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134207-825aq-mv5lwbhuyj9ld9",
         "productLink": "https://shopee.com.br/product/457864097/29379615929",
         "offerLink": "https://s.shopee.com.br/30paLiwZbH"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58207922771",
@@ -3627,7 +3628,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820l4-msrp9bhnvw91a6",
       "link": "https://s.shopee.com.br/AUvcfVRdQt",
-      "rating": "4.7",
+      "rating": "4.8",
       "sales": 2459,
       "shop": "BOTHale",
       "category": "sabao em po",
@@ -3639,7 +3640,7 @@
         "priceDiscountRate": 67,
         "commissionRate": "0.03",
         "sales": 2459,
-        "ratingStar": "4.7",
+        "ratingStar": "4.8",
         "shopName": "BOTHale",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-msrp9bhnvw91a6",
         "productLink": "https://shopee.com.br/product/1927684214/58267517550",
@@ -3992,6 +3993,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mo6gb24c9vk13d",
         "productLink": "https://shopee.com.br/product/1703361987/23694958324",
         "offerLink": "https://s.shopee.com.br/9V33zYO48s"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58209107153",
+      "name": "3/2/1 Formas de Silicone Quadrada Assadeira Air Fryer e Forno Forma para Fritadeira Elétrica com Alça",
+      "price": 10.0,
+      "original_price": 30.3,
+      "discount": 67.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824ix-me64x24er3eo01",
+      "link": "https://s.shopee.com.br/9zzNZbwDry",
+      "rating": "4.7",
+      "sales": 1720,
+      "shop": "Fullshop.br",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58209107153,
+        "productName": "3/2/1 Formas de Silicone Quadrada Assadeira Air Fryer e Forno Forma para Fritadeira Elétrica com Alça",
+        "price": "10",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.03",
+        "sales": 1720,
+        "ratingStar": "4.7",
+        "shopName": "Fullshop.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ix-me64x24er3eo01",
+        "productLink": "https://shopee.com.br/product/1083951020/58209107153",
+        "offerLink": "https://s.shopee.com.br/9zzNZbwDry"
       },
       "_last_price": null
     },
@@ -8606,35 +8636,6 @@
       "_last_price": null
     },
     {
-      "id": "22597848333",
-      "name": "Perfume Joyful Feminino Hinode 100ml",
-      "price": 47.26,
-      "original_price": 109.91,
-      "discount": 57.0,
-      "commission": 31.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820l9-mv6ef3l8zxfn55",
-      "link": "https://s.shopee.com.br/AKcDy71lfk",
-      "rating": "4.9",
-      "sales": 2370,
-      "shop": "Hinode ",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22597848333,
-        "productName": "Perfume Joyful Feminino Hinode 100ml",
-        "price": "47.26",
-        "priceDiscountRate": 57,
-        "commissionRate": "0.31",
-        "sales": 2370,
-        "ratingStar": "4.9",
-        "shopName": "Hinode ",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mv6ef3l8zxfn55",
-        "productLink": "https://shopee.com.br/product/876865394/22597848333",
-        "offerLink": "https://s.shopee.com.br/AKcDy71lfk"
-      },
-      "_last_price": null
-    },
-    {
       "id": "55050251437",
       "name": "KIT BODY SPLASH MASCULINO BARBARIUS E MIDTOWN 200ML - PRIMACIAL PERFUME FRESCO AMADEIRADO",
       "price": 60.71,
@@ -12010,7 +12011,7 @@
       "rating": "4.9",
       "sales": 4915,
       "shop": "Ding Tudo",
-      "category": "shampoo",
+      "category": "organizador",
       "source": "shopee",
       "_item": {
         "itemId": 58268303881,
@@ -20351,6 +20352,35 @@
       "_last_price": null
     },
     {
+      "id": "19747855339",
+      "name": "Deo Colônia Tabu Tradicional 60ml",
+      "price": 12.9,
+      "original_price": 20.81,
+      "discount": 38.0,
+      "commission": 6.0,
+      "image": "https://cf.shopee.com.br/file/9ea44eb398263976d03b4461b76ab069",
+      "link": "https://s.shopee.com.br/9zzKjhX9pr",
+      "rating": "4.7",
+      "sales": 2659,
+      "shop": "Dana Cosmeticos",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 19747855339,
+        "productName": "Deo Colônia Tabu Tradicional 60ml",
+        "price": "12.9",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.06",
+        "sales": 2659,
+        "ratingStar": "4.7",
+        "shopName": "Dana Cosmeticos",
+        "imageUrl": "https://cf.shopee.com.br/file/9ea44eb398263976d03b4461b76ab069",
+        "productLink": "https://shopee.com.br/product/436104412/19747855339",
+        "offerLink": "https://s.shopee.com.br/9zzKjhX9pr"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23599356431",
       "name": "Mega Hidratação Ouro Marroquino 24k Efeito Teia Máscara Capilar Whey Protein",
       "price": 36.9,
@@ -20608,6 +20638,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rav7-maa0t3e5yenmdb",
         "productLink": "https://shopee.com.br/product/1294737459/23698542471",
         "offerLink": "https://s.shopee.com.br/20x33nYLfA"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23294549994",
+      "name": "Blender Zoop Contrast Cadence com 2 Jarras",
+      "price": 99.5,
+      "original_price": 160.48,
+      "discount": 38.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825ae-mv2jkezncz5tc5",
+      "link": "https://s.shopee.com.br/30pdElQrmw",
+      "rating": "4.9",
+      "sales": 526,
+      "shop": "Cadence Oficial",
+      "category": "liquidificador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23294549994,
+        "productName": "Blender Zoop Contrast Cadence com 2 Jarras",
+        "price": "99.5",
+        "priceDiscountRate": 38,
+        "commissionRate": "0.03",
+        "sales": 526,
+        "ratingStar": "4.9",
+        "shopName": "Cadence Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ae-mv2jkezncz5tc5",
+        "productLink": "https://shopee.com.br/product/1608214292/23294549994",
+        "offerLink": "https://s.shopee.com.br/30pdElQrmw"
       },
       "_last_price": null
     },
@@ -30293,35 +30352,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mseh828jw1s5ff",
         "productLink": "https://shopee.com.br/product/1242044379/19697676006",
         "offerLink": "https://s.shopee.com.br/W8GgT5z4k"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "57205646686",
-      "name": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
-      "price": 181.77,
-      "original_price": 230.09,
-      "discount": 21.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
-      "link": "https://s.shopee.com.br/8VAWtwcnK5",
-      "rating": "4.9",
-      "sales": 3565,
-      "shop": "BESTBYBRASILGOLD",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57205646686,
-        "productName": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
-        "price": "181.77",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.07",
-        "sales": 3565,
-        "ratingStar": "4.9",
-        "shopName": "BESTBYBRASILGOLD",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
-        "productLink": "https://shopee.com.br/product/1494297971/57205646686",
-        "offerLink": "https://s.shopee.com.br/8VAWtwcnK5"
       },
       "_last_price": null
     },
