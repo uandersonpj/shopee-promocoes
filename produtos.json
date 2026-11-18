@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T06:37:53.326687+00:00",
+  "updated_at": "2026-11-18T06:57:57.400825+00:00",
   "total": 1129,
   "products": [
     {
@@ -1070,7 +1070,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259g-mti3d8e2xqtgd1",
         "productLink": "https://shopee.com.br/product/1932427736/58218879571",
         "offerLink": "https://s.shopee.com.br/5LDV1z2J4s"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "20197726295",
@@ -5770,8 +5771,8 @@
     {
       "id": "41809393497",
       "name": "Sougayilang Baitcasting Fishing Combo Carretel De Relação De Engrenagem De Alta Velocidade 7.2 : 1 + Vara De Fibra De Ca",
-      "price": 101.2,
-      "original_price": 273.51,
+      "price": 109.0,
+      "original_price": 294.59,
       "discount": 63.0,
       "commission": 9.0,
       "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-moj6y9k3bm6l25",
@@ -5784,7 +5785,7 @@
       "_item": {
         "itemId": 41809393497,
         "productName": "Sougayilang Baitcasting Fishing Combo Carretel De Relação De Engrenagem De Alta Velocidade 7.2 : 1 + Vara De Fibra De Ca",
-        "price": "101.2",
+        "price": "109",
         "priceDiscountRate": 63,
         "commissionRate": "0.09",
         "sales": 691,
@@ -11655,35 +11656,6 @@
       "_last_price": null
     },
     {
-      "id": "23024135841",
-      "name": "AJENNIFER Flutuador Oval De Pesca Mini Carpa Espaço Bóia Bobber",
-      "price": 35.66,
-      "original_price": 74.29,
-      "discount": 52.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lg463sal6vnk53",
-      "link": "https://s.shopee.com.br/5q9n5foRT1",
-      "rating": "4.9",
-      "sales": 20,
-      "shop": "Loja Mimi Artigos Domésticos",
-      "category": "flutuador pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23024135841,
-        "productName": "AJENNIFER Flutuador Oval De Pesca Mini Carpa Espaço Bóia Bobber",
-        "price": "35.66",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 20,
-        "ratingStar": "4.9",
-        "shopName": "Loja Mimi Artigos Domésticos",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lg463sal6vnk53",
-        "productLink": "https://shopee.com.br/product/191445232/23024135841",
-        "offerLink": "https://s.shopee.com.br/5q9n5foRT1"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22694408785",
       "name": "Placa De Vídeo AITEK RX 580 2048SP 8GB GDDR5 256 Bits PCIe 3.0 Recondicionada 8 Pinos",
       "price": 939.99,
@@ -16262,6 +16234,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lr-mll0jf9geqyu23",
         "productLink": "https://shopee.com.br/product/1619868980/22294439863",
         "offerLink": "https://s.shopee.com.br/6AmdVmTGzr"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23024135841",
+      "name": "AJENNIFER Flutuador Oval De Pesca Mini Carpa Espaço Bóia Bobber",
+      "price": 39.73,
+      "original_price": 73.57,
+      "discount": 46.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lg463sal6vnk53",
+      "link": "https://s.shopee.com.br/5q9n5foRT1",
+      "rating": "4.9",
+      "sales": 20,
+      "shop": "Loja Mimi Artigos Domésticos",
+      "category": "flutuador pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23024135841,
+        "productName": "AJENNIFER Flutuador Oval De Pesca Mini Carpa Espaço Bóia Bobber",
+        "price": "39.73",
+        "priceDiscountRate": 46,
+        "commissionRate": "0.03",
+        "sales": 20,
+        "ratingStar": "4.9",
+        "shopName": "Loja Mimi Artigos Domésticos",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7qvdh-lg463sal6vnk53",
+        "productLink": "https://shopee.com.br/product/191445232/23024135841",
+        "offerLink": "https://s.shopee.com.br/5q9n5foRT1"
       },
       "_last_price": null
     },
