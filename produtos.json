@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T03:53:54.125835+00:00",
+  "updated_at": "2026-11-18T04:14:29.241048+00:00",
   "total": 1129,
   "products": [
     {
@@ -374,7 +374,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwoh850dygu797",
         "productLink": "https://shopee.com.br/product/883941882/22293104065",
         "offerLink": "https://s.shopee.com.br/2LZxE80Iqo"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "49466540071",
@@ -3989,6 +3990,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mo6gb24c9vk13d",
         "productLink": "https://shopee.com.br/product/1703361987/23694958324",
         "offerLink": "https://s.shopee.com.br/9V33zYO48s"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58209107153",
+      "name": "3/2/1 Formas de Silicone Quadrada Assadeira Air Fryer e Forno Forma para Fritadeira Elétrica com Alça",
+      "price": 10.0,
+      "original_price": 30.3,
+      "discount": 67.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824ix-me64x24er3eo01",
+      "link": "https://s.shopee.com.br/9zzNZbwDry",
+      "rating": "4.7",
+      "sales": 1720,
+      "shop": "Fullshop.br",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58209107153,
+        "productName": "3/2/1 Formas de Silicone Quadrada Assadeira Air Fryer e Forno Forma para Fritadeira Elétrica com Alça",
+        "price": "10",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.03",
+        "sales": 1720,
+        "ratingStar": "4.7",
+        "shopName": "Fullshop.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ix-me64x24er3eo01",
+        "productLink": "https://shopee.com.br/product/1083951020/58209107153",
+        "offerLink": "https://s.shopee.com.br/9zzNZbwDry"
       },
       "_last_price": null
     },
@@ -22031,8 +22061,8 @@
     {
       "id": "23593551607",
       "name": "Guarda Chuva Automático Portátil À Prova Vento UV Resistente e Protetor Solar Grande Dobrável",
-      "price": 42.4,
-      "original_price": 65.23,
+      "price": 34.88,
+      "original_price": 53.66,
       "discount": 35.0,
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mp241zogbfnl20",
@@ -22045,7 +22075,7 @@
       "_item": {
         "itemId": 23593551607,
         "productName": "Guarda Chuva Automático Portátil À Prova Vento UV Resistente e Protetor Solar Grande Dobrável",
-        "price": "42.4",
+        "price": "34.88",
         "priceDiscountRate": 35,
         "commissionRate": "0.1",
         "sales": 1916,
@@ -27075,6 +27105,35 @@
       "_last_price": null
     },
     {
+      "id": "20799325352",
+      "name": "Shampoo Clorexidina Sabonete Clorexidina ou Shampoo Antiparasitario 500mL world para Cães e Gatos",
+      "price": 8.88,
+      "original_price": 12.16,
+      "discount": 27.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwo-lxlkc48y5z0qbe",
+      "link": "https://s.shopee.com.br/2qWA3BCoSL",
+      "rating": "4.9",
+      "sales": 5080,
+      "shop": "mypetone",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20799325352,
+        "productName": "Shampoo Clorexidina Sabonete Clorexidina ou Shampoo Antiparasitario 500mL world para Cães e Gatos",
+        "price": "8.88",
+        "priceDiscountRate": 27,
+        "commissionRate": "0.11",
+        "sales": 5080,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwo-lxlkc48y5z0qbe",
+        "productLink": "https://shopee.com.br/product/290073877/20799325352",
+        "offerLink": "https://s.shopee.com.br/2qWA3BCoSL"
+      },
+      "_last_price": null
+    },
+    {
       "id": "8658711360",
       "name": "Tasty Whey Adaptogen 900g Whey Protein 3w",
       "price": 217.6,
@@ -28144,35 +28203,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824g5-med9x5t6ifb561",
         "productLink": "https://shopee.com.br/product/1626133503/23594386814",
         "offerLink": "https://s.shopee.com.br/2BGUnH88Cl"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "20799325352",
-      "name": "Shampoo Clorexidina Sabonete Clorexidina ou Shampoo Antiparasitario 500mL world para Cães e Gatos",
-      "price": 8.88,
-      "original_price": 11.84,
-      "discount": 25.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwo-lxlkc48y5z0qbe",
-      "link": "https://s.shopee.com.br/2qWA3BCoSL",
-      "rating": "4.9",
-      "sales": 5080,
-      "shop": "mypetone",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20799325352,
-        "productName": "Shampoo Clorexidina Sabonete Clorexidina ou Shampoo Antiparasitario 500mL world para Cães e Gatos",
-        "price": "8.88",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.11",
-        "sales": 5080,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwo-lxlkc48y5z0qbe",
-        "productLink": "https://shopee.com.br/product/290073877/20799325352",
-        "offerLink": "https://s.shopee.com.br/2qWA3BCoSL"
       },
       "_last_price": null
     },
@@ -30290,35 +30320,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mseh828jw1s5ff",
         "productLink": "https://shopee.com.br/product/1242044379/19697676006",
         "offerLink": "https://s.shopee.com.br/W8GgT5z4k"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "57205646686",
-      "name": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
-      "price": 181.77,
-      "original_price": 230.09,
-      "discount": 21.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
-      "link": "https://s.shopee.com.br/8VAWtwcnK5",
-      "rating": "4.9",
-      "sales": 3565,
-      "shop": "BESTBYBRASILGOLD",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57205646686,
-        "productName": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
-        "price": "181.77",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.07",
-        "sales": 3565,
-        "ratingStar": "4.9",
-        "shopName": "BESTBYBRASILGOLD",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
-        "productLink": "https://shopee.com.br/product/1494297971/57205646686",
-        "offerLink": "https://s.shopee.com.br/8VAWtwcnK5"
       },
       "_last_price": null
     },
