@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T07:58:07.474661+00:00",
+  "updated_at": "2026-11-18T08:18:54.919364+00:00",
   "total": 1130,
   "products": [
     {
@@ -607,7 +607,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-mtuu145upvyad4",
         "productLink": "https://shopee.com.br/product/1917760353/58269663685",
         "offerLink": "https://s.shopee.com.br/3qOhMqxPJ6"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "20199713818",
@@ -3944,6 +3945,35 @@
       "_last_price": null
     },
     {
+      "id": "58209107153",
+      "name": "3/2/1 Formas de Silicone Quadrada Assadeira Air Fryer e Forno Forma para Fritadeira Elétrica com Alça",
+      "price": 10.0,
+      "original_price": 30.3,
+      "discount": 67.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-824ix-me64x24er3eo01",
+      "link": "https://s.shopee.com.br/9zzNZbwDry",
+      "rating": "4.7",
+      "sales": 1720,
+      "shop": "Fullshop.br",
+      "category": "air fryer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58209107153,
+        "productName": "3/2/1 Formas de Silicone Quadrada Assadeira Air Fryer e Forno Forma para Fritadeira Elétrica com Alça",
+        "price": "10",
+        "priceDiscountRate": 67,
+        "commissionRate": "0.03",
+        "sales": 1720,
+        "ratingStar": "4.7",
+        "shopName": "Fullshop.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824ix-me64x24er3eo01",
+        "productLink": "https://shopee.com.br/product/1083951020/58209107153",
+        "offerLink": "https://s.shopee.com.br/9zzNZbwDry"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22693513091",
       "name": "ROMANTIC CROWN Bolsa de Ombra Feminina com Alça Ajustável, Bolsa Feminina Elegante com Couro Sintetico Preto, Presente",
       "price": 69.98,
@@ -6322,35 +6352,6 @@
       "_last_price": null
     },
     {
-      "id": "20797619594",
-      "name": "Kit Vara de Pesca Carretilha Linha Multifilamento 100m Conjunto Completo para Pesca Esportiva",
-      "price": 115.0,
-      "original_price": 302.63,
-      "discount": 62.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk0gs1xemhhe9c",
-      "link": "https://s.shopee.com.br/6VPTvt3dUh",
-      "rating": "4.8",
-      "sales": 331,
-      "shop": "GYO COMERCIO LTDA",
-      "category": "carretilha pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 20797619594,
-        "productName": "Kit Vara de Pesca Carretilha Linha Multifilamento 100m Conjunto Completo para Pesca Esportiva",
-        "price": "115",
-        "priceDiscountRate": 62,
-        "commissionRate": "0.08",
-        "sales": 331,
-        "ratingStar": "4.8",
-        "shopName": "GYO COMERCIO LTDA",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk0gs1xemhhe9c",
-        "productLink": "https://shopee.com.br/product/1045152671/20797619594",
-        "offerLink": "https://s.shopee.com.br/6VPTvt3dUh"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22797770364",
       "name": "Vara de Pesca Telescópica 1.8-3.6M Super Dura Ultra Leve Longo Alcance Profissional para Molinete Praia Mar Rio Lago",
       "price": 27.0,
@@ -8700,6 +8701,35 @@
       "_last_price": null
     },
     {
+      "id": "20797619594",
+      "name": "Kit Vara de Pesca Carretilha Linha Multifilamento 100m Conjunto Completo para Pesca Esportiva",
+      "price": 129.0,
+      "original_price": 300.0,
+      "discount": 57.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk0gs1xemhhe9c",
+      "link": "https://s.shopee.com.br/6VPTvt3dUh",
+      "rating": "4.8",
+      "sales": 331,
+      "shop": "GYO COMERCIO LTDA",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 20797619594,
+        "productName": "Kit Vara de Pesca Carretilha Linha Multifilamento 100m Conjunto Completo para Pesca Esportiva",
+        "price": "129",
+        "priceDiscountRate": 57,
+        "commissionRate": "0.08",
+        "sales": 331,
+        "ratingStar": "4.8",
+        "shopName": "GYO COMERCIO LTDA",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk0gs1xemhhe9c",
+        "productLink": "https://shopee.com.br/product/1045152671/20797619594",
+        "offerLink": "https://s.shopee.com.br/6VPTvt3dUh"
+      },
+      "_last_price": null
+    },
+    {
       "id": "25924508666",
       "name": "100~600Pcs Conjunto De Anzóis De Pesca Tamanho Misto Carpa De Aço De Alto Carbono Corda Gancho Acessórios Em Círculo Off",
       "price": 19.75,
@@ -9276,35 +9306,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/5794797f3d5fe25a874e953091734b51",
         "productLink": "https://shopee.com.br/product/421422443/4886594145",
         "offerLink": "https://s.shopee.com.br/7puq5CI3EZ"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "26538918731",
-      "name": "Linha De Pesca 120M Condutor De Monofilamento De Fibra De Carbono Revestido De Fluorocarbono Resistente Ao Desgaste , Ad",
-      "price": 11.12,
-      "original_price": 25.27,
-      "discount": 56.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825b8-mq36i3xnt34c85",
-      "link": "https://s.shopee.com.br/9pfvsTlFvu",
-      "rating": "4.8",
-      "sales": 424,
-      "shop": "Value Choice",
-      "category": "linha de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 26538918731,
-        "productName": "Linha De Pesca 120M Condutor De Monofilamento De Fibra De Carbono Revestido De Fluorocarbono Resistente Ao Desgaste , Ad",
-        "price": "11.12",
-        "priceDiscountRate": 56,
-        "commissionRate": "0.07",
-        "sales": 424,
-        "ratingStar": "4.8",
-        "shopName": "Value Choice",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b8-mq36i3xnt34c85",
-        "productLink": "https://shopee.com.br/product/230709939/26538918731",
-        "offerLink": "https://s.shopee.com.br/9pfvsTlFvu"
       },
       "_last_price": null
     },
@@ -12209,6 +12210,35 @@
       "_last_price": null
     },
     {
+      "id": "26538918731",
+      "name": "Linha De Pesca 120M Condutor De Monofilamento De Fibra De Carbono Revestido De Fluorocarbono Resistente Ao Desgaste , Ad",
+      "price": 11.12,
+      "original_price": 22.69,
+      "discount": 51.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825b8-mq36i3xnt34c85",
+      "link": "https://s.shopee.com.br/9pfvsTlFvu",
+      "rating": "4.8",
+      "sales": 424,
+      "shop": "Value Choice",
+      "category": "linha de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 26538918731,
+        "productName": "Linha De Pesca 120M Condutor De Monofilamento De Fibra De Carbono Revestido De Fluorocarbono Resistente Ao Desgaste , Ad",
+        "price": "11.12",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.07",
+        "sales": 424,
+        "ratingStar": "4.8",
+        "shopName": "Value Choice",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b8-mq36i3xnt34c85",
+        "productLink": "https://shopee.com.br/product/230709939/26538918731",
+        "offerLink": "https://s.shopee.com.br/9pfvsTlFvu"
+      },
+      "_last_price": null
+    },
+    {
       "id": "27732913408",
       "name": "2025 Novo Boné De Beisebol Para YAMAHA 46 F1 Corrida Masculino Feminino Fãs Chapéu Pesca Ao Ar Livre Esportes Sol Sombra",
       "price": 39.36,
@@ -14496,6 +14526,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l7-mp9wipll8u85a3",
         "productLink": "https://shopee.com.br/product/452150155/22795028666",
         "offerLink": "https://s.shopee.com.br/1ByndTiBB"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "18098210626",
+      "name": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
+      "price": 8.87,
+      "original_price": 17.06,
+      "discount": 48.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8257v-msyqkx7dbmkof9",
+      "link": "https://s.shopee.com.br/4VeO2F6T4p",
+      "rating": "4.9",
+      "sales": 3838,
+      "shop": "mypetone",
+      "category": "shampoo",
+      "source": "shopee",
+      "_item": {
+        "itemId": 18098210626,
+        "productName": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
+        "price": "8.87",
+        "priceDiscountRate": 48,
+        "commissionRate": "0.11",
+        "sales": 3838,
+        "ratingStar": "4.9",
+        "shopName": "mypetone",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257v-msyqkx7dbmkof9",
+        "productLink": "https://shopee.com.br/product/290073877/18098210626",
+        "offerLink": "https://s.shopee.com.br/4VeO2F6T4p"
       },
       "_last_price": null
     },
@@ -22997,35 +23056,6 @@
       "_last_price": null
     },
     {
-      "id": "23098728972",
-      "name": "Ração Cachorro Adulto 15kg Quatree Gourmet Todas Raças Sabor Carne",
-      "price": 105.39,
-      "original_price": 159.68,
-      "discount": 34.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-modzq7qw7fure5",
-      "link": "https://s.shopee.com.br/BVS2QyF4w",
-      "rating": "4.9",
-      "sales": 565,
-      "shop": "animalzecommerce",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23098728972,
-        "productName": "Ração Cachorro Adulto 15kg Quatree Gourmet Todas Raças Sabor Carne",
-        "price": "105.39",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.03",
-        "sales": 565,
-        "ratingStar": "4.9",
-        "shopName": "animalzecommerce",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-modzq7qw7fure5",
-        "productLink": "https://shopee.com.br/product/1509105042/23098728972",
-        "offerLink": "https://s.shopee.com.br/BVS2QyF4w"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22494696420",
       "name": "Biscoito Pedigree Biscrok Para Cães Adultos Multi 1 kg",
       "price": 28.34,
@@ -26216,6 +26246,35 @@
       "_last_price": null
     },
     {
+      "id": "22194652202",
+      "name": "KIT 2-3 Chapéu de Pescador Australiano Proteção Solar Nuca Pescoço Pesca Camping Trilha",
+      "price": 14.97,
+      "original_price": 21.08,
+      "discount": 29.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mga86gezygp128",
+      "link": "https://s.shopee.com.br/20x370t1EB",
+      "rating": "4.9",
+      "sales": 492,
+      "shop": "Chapeu lindo",
+      "category": "boné pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22194652202,
+        "productName": "KIT 2-3 Chapéu de Pescador Australiano Proteção Solar Nuca Pescoço Pesca Camping Trilha",
+        "price": "14.97",
+        "priceDiscountRate": 29,
+        "commissionRate": "0.03",
+        "sales": 492,
+        "ratingStar": "4.9",
+        "shopName": "Chapeu lindo",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mga86gezygp128",
+        "productLink": "https://shopee.com.br/product/1321544840/22194652202",
+        "offerLink": "https://s.shopee.com.br/20x370t1EB"
+      },
+      "_last_price": null
+    },
+    {
       "id": "22493892274",
       "name": "Chapéu Pescador Australiano Com Proteção Para Nuca e Aba Larga Pesca Camping Trilha",
       "price": 28.7,
@@ -28159,35 +28218,6 @@
       "_last_price": null
     },
     {
-      "id": "18098210626",
-      "name": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
-      "price": 8.87,
-      "original_price": 11.83,
-      "discount": 25.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8257v-msyqkx7dbmkof9",
-      "link": "https://s.shopee.com.br/4VeO2F6T4p",
-      "rating": "4.9",
-      "sales": 3838,
-      "shop": "mypetone",
-      "category": "shampoo",
-      "source": "shopee",
-      "_item": {
-        "itemId": 18098210626,
-        "productName": "Shampoo Clorexidina ou Shampoo Antiparasitário 500mL ou Sabonete World para Cães e Gatos",
-        "price": "8.87",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.11",
-        "sales": 3838,
-        "ratingStar": "4.9",
-        "shopName": "mypetone",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257v-msyqkx7dbmkof9",
-        "productLink": "https://shopee.com.br/product/290073877/18098210626",
-        "offerLink": "https://s.shopee.com.br/4VeO2F6T4p"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58216164154",
       "name": "KIT ELSEVE COLÁGENO LIFTER - Shampoo 400 ml + Condicionador 400 ml",
       "price": 55.9,
@@ -28387,6 +28417,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mqlzlrycnj0gf0",
         "productLink": "https://shopee.com.br/product/398944029/13746319989",
         "offerLink": "https://s.shopee.com.br/3qOhOQsbaH"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23098728972",
+      "name": "Ração Cachorro Adulto 15kg Quatree Gourmet Todas Raças Sabor Carne",
+      "price": 118.99,
+      "original_price": 158.65,
+      "discount": 25.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-modzq7qw7fure5",
+      "link": "https://s.shopee.com.br/BVS2QyF4w",
+      "rating": "4.9",
+      "sales": 565,
+      "shop": "animalzecommerce",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23098728972,
+        "productName": "Ração Cachorro Adulto 15kg Quatree Gourmet Todas Raças Sabor Carne",
+        "price": "118.99",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.03",
+        "sales": 565,
+        "ratingStar": "4.9",
+        "shopName": "animalzecommerce",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-modzq7qw7fure5",
+        "productLink": "https://shopee.com.br/product/1509105042/23098728972",
+        "offerLink": "https://s.shopee.com.br/BVS2QyF4w"
       },
       "_last_price": null
     },
@@ -29493,35 +29552,6 @@
       "_last_price": null
     },
     {
-      "id": "22194652202",
-      "name": "KIT 2-3 Chapéu de Pescador Australiano Proteção Solar Nuca Pescoço Pesca Camping Trilha",
-      "price": 16.73,
-      "original_price": 21.73,
-      "discount": 23.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mga86gezygp128",
-      "link": "https://s.shopee.com.br/20x370t1EB",
-      "rating": "4.9",
-      "sales": 492,
-      "shop": "Chapeu lindo",
-      "category": "boné pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22194652202,
-        "productName": "KIT 2-3 Chapéu de Pescador Australiano Proteção Solar Nuca Pescoço Pesca Camping Trilha",
-        "price": "16.73",
-        "priceDiscountRate": 23,
-        "commissionRate": "0.03",
-        "sales": 492,
-        "ratingStar": "4.9",
-        "shopName": "Chapeu lindo",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mga86gezygp128",
-        "productLink": "https://shopee.com.br/product/1321544840/22194652202",
-        "offerLink": "https://s.shopee.com.br/20x370t1EB"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20099892643",
       "name": "Óculos de Sol Polarizado com Estojo Proteção UV Masculino Esportivo Pesca",
       "price": 30.67,
@@ -30301,35 +30331,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mseh828jw1s5ff",
         "productLink": "https://shopee.com.br/product/1242044379/19697676006",
         "offerLink": "https://s.shopee.com.br/W8GgT5z4k"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "57205646686",
-      "name": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
-      "price": 181.77,
-      "original_price": 230.09,
-      "discount": 21.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
-      "link": "https://s.shopee.com.br/8VAWtwcnK5",
-      "rating": "4.9",
-      "sales": 3565,
-      "shop": "BESTBYBRASILGOLD",
-      "category": "air fryer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 57205646686,
-        "productName": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
-        "price": "181.77",
-        "priceDiscountRate": 21,
-        "commissionRate": "0.07",
-        "sales": 3565,
-        "ratingStar": "4.9",
-        "shopName": "BESTBYBRASILGOLD",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk41p3nwui9tca",
-        "productLink": "https://shopee.com.br/product/1494297971/57205646686",
-        "offerLink": "https://s.shopee.com.br/8VAWtwcnK5"
       },
       "_last_price": null
     },
