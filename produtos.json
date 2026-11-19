@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T07:29:52.566238+00:00",
-  "total": 1138,
+  "updated_at": "2026-11-19T07:49:59.469312+00:00",
+  "total": 1137,
   "products": [
     {
       "id": "21099546181",
@@ -1100,7 +1100,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mpnvskafmdc004",
         "productLink": "https://shopee.com.br/product/1761364246/22895058213",
         "offerLink": "https://s.shopee.com.br/8pnStIhJmp"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23218022612",
@@ -15138,35 +15139,6 @@
       "_last_price": null
     },
     {
-      "id": "23594325190",
-      "name": "Tênis casual Feminino Coração Leve e Confortável Dia dia",
-      "price": 25.9,
-      "original_price": 49.81,
-      "discount": 48.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdkak7ycblch90",
-      "link": "https://s.shopee.com.br/BVUSGtzbg",
-      "rating": "4.8",
-      "sales": 906,
-      "shop": "Filoh calçados",
-      "category": "tenis feminino",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23594325190,
-        "productName": "Tênis casual Feminino Coração Leve e Confortável Dia dia",
-        "price": "25.9",
-        "priceDiscountRate": 48,
-        "commissionRate": "0.03",
-        "sales": 906,
-        "ratingStar": "4.8",
-        "shopName": "Filoh calçados",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdkak7ycblch90",
-        "productLink": "https://shopee.com.br/product/375080873/23594325190",
-        "offerLink": "https://s.shopee.com.br/BVUSGtzbg"
-      },
-      "_last_price": null
-    },
-    {
       "id": "57412117145",
       "name": "Óculos de Sol Feminino Oval Vintage Retrô UV400 Elegante Moda",
       "price": 18.78,
@@ -16990,6 +16962,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mvltj9m2fy0wc9",
         "productLink": "https://shopee.com.br/product/1334945356/56918578360",
         "offerLink": "https://s.shopee.com.br/20x8ddILvI"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23594325190",
+      "name": "Tênis casual Feminino Coração Leve e Confortável Dia dia",
+      "price": 27.2,
+      "original_price": 49.45,
+      "discount": 45.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdkak7ycblch90",
+      "link": "https://s.shopee.com.br/BVUSGtzbg",
+      "rating": "4.8",
+      "sales": 906,
+      "shop": "Filoh calçados",
+      "category": "tenis feminino",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23594325190,
+        "productName": "Tênis casual Feminino Coração Leve e Confortável Dia dia",
+        "price": "27.2",
+        "priceDiscountRate": 45,
+        "commissionRate": "0.03",
+        "sales": 906,
+        "ratingStar": "4.8",
+        "shopName": "Filoh calçados",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdkak7ycblch90",
+        "productLink": "https://shopee.com.br/product/375080873/23594325190",
+        "offerLink": "https://s.shopee.com.br/BVUSGtzbg"
       },
       "_last_price": null
     },
@@ -32389,35 +32390,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259m-mujbjroyhzi94b",
         "productLink": "https://shopee.com.br/product/270541776/23397665026",
         "offerLink": "https://s.shopee.com.br/7puva9eVvD"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23693885927",
-      "name": "Repetidor Wifi Kp-3007 Expansor De Sinal Sem Fio Roteador",
-      "price": 33.5,
-      "original_price": 39.88,
-      "discount": 16.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7reqh-m8cdhwq6myz5e6",
-      "link": "https://s.shopee.com.br/LoueNXo9d",
-      "rating": "4.7",
-      "sales": 1917,
-      "shop": "WUDI SHOP",
-      "category": "roteador wifi",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23693885927,
-        "productName": "Repetidor Wifi Kp-3007 Expansor De Sinal Sem Fio Roteador",
-        "price": "33.5",
-        "priceDiscountRate": 16,
-        "commissionRate": "0.03",
-        "sales": 1917,
-        "ratingStar": "4.7",
-        "shopName": "WUDI SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reqh-m8cdhwq6myz5e6",
-        "productLink": "https://shopee.com.br/product/1502069336/23693885927",
-        "offerLink": "https://s.shopee.com.br/LoueNXo9d"
       },
       "_last_price": null
     },
