@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T05:48:15.521292+00:00",
-  "total": 1137,
+  "updated_at": "2026-11-19T06:08:51.769382+00:00",
+  "total": 1139,
   "products": [
     {
       "id": "21099546181",
@@ -1389,7 +1389,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mnkugr2ku5ms16",
         "productLink": "https://shopee.com.br/product/1686270454/58209139124",
         "offerLink": "https://s.shopee.com.br/1W0s2WTMn0"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58258562285",
@@ -3189,35 +3190,6 @@
       "_last_price": null
     },
     {
-      "id": "44464548182",
-      "name": "Body Splash Corporal Cheiro de Rica N2 Kokeshi 200ml Floral Fresco Frutado",
-      "price": 14.9,
-      "original_price": 46.56,
-      "discount": 68.0,
-      "commission": 26.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mtquf9epl34371",
-      "link": "https://s.shopee.com.br/qlBMbBm0y",
-      "rating": "4.8",
-      "sales": 3547,
-      "shop": "KOKESHI OFICIAL",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 44464548182,
-        "productName": "Body Splash Corporal Cheiro de Rica N2 Kokeshi 200ml Floral Fresco Frutado",
-        "price": "14.9",
-        "priceDiscountRate": 68,
-        "commissionRate": "0.26",
-        "sales": 3547,
-        "ratingStar": "4.8",
-        "shopName": "KOKESHI OFICIAL",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtquf9epl34371",
-        "productLink": "https://shopee.com.br/product/395166866/44464548182",
-        "offerLink": "https://s.shopee.com.br/qlBMbBm0y"
-      },
-      "_last_price": null
-    },
-    {
       "id": "51004391053",
       "name": "EBuy Sports Haltere Ajustável Gallant Com Placas De Peso De 20Kg E Base Elite Pro",
       "price": 568.0,
@@ -3301,35 +3273,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mpkgea3hfv2j75",
         "productLink": "https://shopee.com.br/product/1550289846/28489319549",
         "offerLink": "https://s.shopee.com.br/6VPXyV168q"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23026990667",
-      "name": "Isca De Pesca 15g 13g 8g 5g Rã Thunder Frog Com Falsa Anzol Duplo De Aço De Alto Carbono Macia Cor Da Cauda",
-      "price": 4.08,
-      "original_price": 12.75,
-      "discount": 68.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-23020-s1jr09pmaxnva4",
-      "link": "https://s.shopee.com.br/7VI5AMRgiP",
-      "rating": "4.9",
-      "sales": 532,
-      "shop": "YQBUY.br",
-      "category": "anzol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23026990667,
-        "productName": "Isca De Pesca 15g 13g 8g 5g Rã Thunder Frog Com Falsa Anzol Duplo De Aço De Alto Carbono Macia Cor Da Cauda",
-        "price": "4.08",
-        "priceDiscountRate": 68,
-        "commissionRate": "0.08",
-        "sales": 532,
-        "ratingStar": "4.9",
-        "shopName": "YQBUY.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-23020-s1jr09pmaxnva4",
-        "productLink": "https://shopee.com.br/product/754127588/23026990667",
-        "offerLink": "https://s.shopee.com.br/7VI5AMRgiP"
       },
       "_last_price": null
     },
@@ -11712,6 +11655,35 @@
       "_last_price": null
     },
     {
+      "id": "23026990667",
+      "name": "Isca De Pesca 15g 13g 8g 5g Rã Thunder Frog Com Falsa Anzol Duplo De Aço De Alto Carbono Macia Cor Da Cauda",
+      "price": 5.99,
+      "original_price": 12.48,
+      "discount": 52.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-23020-s1jr09pmaxnva4",
+      "link": "https://s.shopee.com.br/7VI5AMRgiP",
+      "rating": "4.9",
+      "sales": 532,
+      "shop": "YQBUY.br",
+      "category": "anzol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23026990667,
+        "productName": "Isca De Pesca 15g 13g 8g 5g Rã Thunder Frog Com Falsa Anzol Duplo De Aço De Alto Carbono Macia Cor Da Cauda",
+        "price": "5.99",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.08",
+        "sales": 532,
+        "ratingStar": "4.9",
+        "shopName": "YQBUY.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-23020-s1jr09pmaxnva4",
+        "productLink": "https://shopee.com.br/product/754127588/23026990667",
+        "offerLink": "https://s.shopee.com.br/7VI5AMRgiP"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58252556362",
       "name": "Canivete de Bolsa Portátil Resistente Multifuncional Pesca Cozinha Esportivo Com Mini Led",
       "price": 17.96,
@@ -11766,6 +11738,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf39vaznt5hje7",
         "productLink": "https://shopee.com.br/product/1587756843/23198789439",
         "offerLink": "https://s.shopee.com.br/3qOmng9Iiq"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "43484354902",
+      "name": "Kit 2 Camisas Agro Masculinas Manga Longa Dry Fit UV50+ Trator Roça Campo Trabalho Pesca Proteção Solar",
+      "price": 61.9,
+      "original_price": 128.96,
+      "discount": 52.0,
+      "commission": 19.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-msy2cohipoud1b",
+      "link": "https://s.shopee.com.br/3VlwbsNjMn",
+      "rating": "4.8",
+      "sales": 571,
+      "shop": "Ciclista Store",
+      "category": "kit pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 43484354902,
+        "productName": "Kit 2 Camisas Agro Masculinas Manga Longa Dry Fit UV50+ Trator Roça Campo Trabalho Pesca Proteção Solar",
+        "price": "61.9",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.19",
+        "sales": 571,
+        "ratingStar": "4.8",
+        "shopName": "Ciclista Store",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-msy2cohipoud1b",
+        "productLink": "https://shopee.com.br/product/323312546/43484354902",
+        "offerLink": "https://s.shopee.com.br/3VlwbsNjMn"
       },
       "_last_price": null
     },
@@ -18730,35 +18731,6 @@
       "_last_price": null
     },
     {
-      "id": "22598826303",
-      "name": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
-      "price": 64.99,
-      "original_price": 110.15,
-      "discount": 41.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
-      "link": "https://s.shopee.com.br/BVUS5KuHB",
-      "rating": "4.8",
-      "sales": 2266,
-      "shop": "Traxen",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22598826303,
-        "productName": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
-        "price": "64.99",
-        "priceDiscountRate": 41,
-        "commissionRate": "0.03",
-        "sales": 2266,
-        "ratingStar": "4.8",
-        "shopName": "Traxen",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
-        "productLink": "https://shopee.com.br/product/786353833/22598826303",
-        "offerLink": "https://s.shopee.com.br/BVUS5KuHB"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23898672363",
       "name": "Mousepad Ergonômico Confort Desk Pad Grande Apoio Pulso Antiderrapante Escritório Gamer Confortavel",
       "price": 9.99,
@@ -19948,10 +19920,39 @@
       "_last_price": null
     },
     {
+      "id": "22598826303",
+      "name": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
+      "price": 79.69,
+      "original_price": 130.64,
+      "discount": 39.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
+      "link": "https://s.shopee.com.br/BVUS5KuHB",
+      "rating": "4.8",
+      "sales": 2266,
+      "shop": "Traxen",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22598826303,
+        "productName": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
+        "price": "79.69",
+        "priceDiscountRate": 39,
+        "commissionRate": "0.03",
+        "sales": 2266,
+        "ratingStar": "4.8",
+        "shopName": "Traxen",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
+        "productLink": "https://shopee.com.br/product/786353833/22598826303",
+        "offerLink": "https://s.shopee.com.br/BVUS5KuHB"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23694320738",
       "name": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-      "price": 59.99,
-      "original_price": 98.34,
+      "price": 79.69,
+      "original_price": 130.64,
       "discount": 39.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
@@ -19964,7 +19965,7 @@
       "_item": {
         "itemId": 23694320738,
         "productName": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-        "price": "59.99",
+        "price": "79.69",
         "priceDiscountRate": 39,
         "commissionRate": "0.03",
         "sales": 1571,
@@ -22674,6 +22675,35 @@
       "_last_price": null
     },
     {
+      "id": "22191330243",
+      "name": "Kit de Pesca Vara Fibra Vidro Maciça 25 Lbs + Molinete 4000 Carretel de Alumínio E Drag de 12 kgs",
+      "price": 134.99,
+      "original_price": 207.68,
+      "discount": 35.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mtgz16l1ob9fbc",
+      "link": "https://s.shopee.com.br/9pg09SEmLy",
+      "rating": "4.9",
+      "sales": 298,
+      "shop": "MTZK Pesca",
+      "category": "molinete pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22191330243,
+        "productName": "Kit de Pesca Vara Fibra Vidro Maciça 25 Lbs + Molinete 4000 Carretel de Alumínio E Drag de 12 kgs",
+        "price": "134.99",
+        "priceDiscountRate": 35,
+        "commissionRate": "0.11",
+        "sales": 298,
+        "ratingStar": "4.9",
+        "shopName": "MTZK Pesca",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mtgz16l1ob9fbc",
+        "productLink": "https://shopee.com.br/product/865469111/22191330243",
+        "offerLink": "https://s.shopee.com.br/9pg09SEmLy"
+      },
+      "_last_price": null
+    },
+    {
       "id": "48514950250",
       "name": "Fio de Nylon 100mt 0,20/0,25/0,30/0,35/0,40/0,45/0,50/0,60/0,70/0,80/0,90/1,00 Linha de Pesca e Artesanato",
       "price": 9.67,
@@ -23772,6 +23802,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mctps2qs53cib8",
         "productLink": "https://shopee.com.br/product/373261329/27189338384",
         "offerLink": "https://s.shopee.com.br/7puvaFgpos"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22598926569",
+      "name": "EZ Kaya Ocean - Eau de Toilette 100ml LANÇAMENTO EXCLUSIVO",
+      "price": 29.9,
+      "original_price": 44.63,
+      "discount": 33.0,
+      "commission": 28.000000000000004,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meuecpy1e3uoa3",
+      "link": "https://s.shopee.com.br/gRl35UFnm",
+      "rating": "4.8",
+      "sales": 3427,
+      "shop": "E'thereal Paris",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22598926569,
+        "productName": "EZ Kaya Ocean - Eau de Toilette 100ml LANÇAMENTO EXCLUSIVO",
+        "price": "29.9",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.28",
+        "sales": 3427,
+        "ratingStar": "4.8",
+        "shopName": "E'thereal Paris",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meuecpy1e3uoa3",
+        "productLink": "https://shopee.com.br/product/1482776546/22598926569",
+        "offerLink": "https://s.shopee.com.br/gRl35UFnm"
       },
       "_last_price": null
     },
@@ -25199,8 +25258,8 @@
     {
       "id": "42159232629",
       "name": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
-      "price": 49.99,
-      "original_price": 71.41,
+      "price": 51.44,
+      "original_price": 73.49,
       "discount": 30.0,
       "commission": 11.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mmc35w68b30k0e",
@@ -25213,7 +25272,7 @@
       "_item": {
         "itemId": 42159232629,
         "productName": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno E Médio Porte Com Caminha De Cachorro",
-        "price": "49.99",
+        "price": "51.44",
         "priceDiscountRate": 30,
         "commissionRate": "0.11",
         "sales": 589,
@@ -29576,6 +29635,35 @@
       "_last_price": null
     },
     {
+      "id": "23998761112",
+      "name": "Kit De Pesca 3 Vara E 3 Molinete Com Linha Maleta Acessórios",
+      "price": 159.99,
+      "original_price": 207.78,
+      "discount": 23.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8260l-mlgenq30c83s21",
+      "link": "https://s.shopee.com.br/5VX0mf4uAc",
+      "rating": "4.9",
+      "sales": 337,
+      "shop": "ApexVendas",
+      "category": "vara de pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23998761112,
+        "productName": "Kit De Pesca 3 Vara E 3 Molinete Com Linha Maleta Acessórios",
+        "price": "159.99",
+        "priceDiscountRate": 23,
+        "commissionRate": "0.07",
+        "sales": 337,
+        "ratingStar": "4.9",
+        "shopName": "ApexVendas",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260l-mlgenq30c83s21",
+        "productLink": "https://shopee.com.br/product/940287081/23998761112",
+        "offerLink": "https://s.shopee.com.br/5VX0mf4uAc"
+      },
+      "_last_price": null
+    },
+    {
       "id": "27828788607",
       "name": "Carretilha Pesqueiro Black Pira 400 11 Rolamentos Drag 18kg",
       "price": 215.45,
@@ -29601,35 +29689,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdys-mc9brknydxiq2b",
         "productLink": "https://shopee.com.br/product/351948631/27828788607",
         "offerLink": "https://s.shopee.com.br/50akDBWWRY"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23998761112",
-      "name": "Kit De Pesca 3 Vara E 3 Molinete Com Linha Maleta Acessórios",
-      "price": 159.99,
-      "original_price": 207.78,
-      "discount": 23.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8260l-mlgenq30c83s21",
-      "link": "https://s.shopee.com.br/5VX0mf4uAc",
-      "rating": "4.9",
-      "sales": 337,
-      "shop": "ApexVendas",
-      "category": "molinete pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23998761112,
-        "productName": "Kit De Pesca 3 Vara E 3 Molinete Com Linha Maleta Acessórios",
-        "price": "159.99",
-        "priceDiscountRate": 23,
-        "commissionRate": "0.07",
-        "sales": 337,
-        "ratingStar": "4.9",
-        "shopName": "ApexVendas",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8260l-mlgenq30c83s21",
-        "productLink": "https://shopee.com.br/product/940287081/23998761112",
-        "offerLink": "https://s.shopee.com.br/5VX0mf4uAc"
       },
       "_last_price": null
     },
