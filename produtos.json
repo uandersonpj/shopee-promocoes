@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T05:28:11.025157+00:00",
-  "total": 1136,
+  "updated_at": "2026-11-19T05:48:15.521292+00:00",
+  "total": 1137,
   "products": [
     {
       "id": "21099546181",
@@ -57,7 +57,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lm-msxmjc87thc46e",
         "productLink": "https://shopee.com.br/product/1198407784/52807406192",
         "offerLink": "https://s.shopee.com.br/60THOztvC8"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58210104632",
@@ -3184,6 +3185,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meligd367qipdc",
         "productLink": "https://shopee.com.br/product/1223641329/23398892792",
         "offerLink": "https://s.shopee.com.br/4LL3PmdMkU"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "44464548182",
+      "name": "Body Splash Corporal Cheiro de Rica N2 Kokeshi 200ml Floral Fresco Frutado",
+      "price": 14.9,
+      "original_price": 46.56,
+      "discount": 68.0,
+      "commission": 26.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820m2-mtquf9epl34371",
+      "link": "https://s.shopee.com.br/qlBMbBm0y",
+      "rating": "4.8",
+      "sales": 3547,
+      "shop": "KOKESHI OFICIAL",
+      "category": "perfume",
+      "source": "shopee",
+      "_item": {
+        "itemId": 44464548182,
+        "productName": "Body Splash Corporal Cheiro de Rica N2 Kokeshi 200ml Floral Fresco Frutado",
+        "price": "14.9",
+        "priceDiscountRate": 68,
+        "commissionRate": "0.26",
+        "sales": 3547,
+        "ratingStar": "4.8",
+        "shopName": "KOKESHI OFICIAL",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mtquf9epl34371",
+        "productLink": "https://shopee.com.br/product/395166866/44464548182",
+        "offerLink": "https://s.shopee.com.br/qlBMbBm0y"
       },
       "_last_price": null
     },
@@ -7966,6 +7996,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-ms0e8jfsnb45e1",
         "productLink": "https://shopee.com.br/product/1242044379/22092998564",
         "offerLink": "https://s.shopee.com.br/2LZz2ArowD"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21697454355",
+      "name": "Creatina Monohidratada 100% Pura Com Laudo de Pureza - Pure Creatine Importada",
+      "price": 21.9,
+      "original_price": 52.14,
+      "discount": 58.0,
+      "commission": 13.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mts28b489gjmf0",
+      "link": "https://s.shopee.com.br/2gCpaliyLh",
+      "rating": "4.9",
+      "sales": 883,
+      "shop": "3VS Nutrition",
+      "category": "creatina",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21697454355,
+        "productName": "Creatina Monohidratada 100% Pura Com Laudo de Pureza - Pure Creatine Importada",
+        "price": "21.9",
+        "priceDiscountRate": 58,
+        "commissionRate": "0.13",
+        "sales": 883,
+        "ratingStar": "4.9",
+        "shopName": "3VS Nutrition",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mts28b489gjmf0",
+        "productLink": "https://shopee.com.br/product/1072754698/21697454355",
+        "offerLink": "https://s.shopee.com.br/2gCpaliyLh"
       },
       "_last_price": null
     },
@@ -18671,6 +18730,35 @@
       "_last_price": null
     },
     {
+      "id": "22598826303",
+      "name": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
+      "price": 64.99,
+      "original_price": 110.15,
+      "discount": 41.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
+      "link": "https://s.shopee.com.br/BVUS5KuHB",
+      "rating": "4.8",
+      "sales": 2266,
+      "shop": "Traxen",
+      "category": "mouse gamer",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22598826303,
+        "productName": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
+        "price": "64.99",
+        "priceDiscountRate": 41,
+        "commissionRate": "0.03",
+        "sales": 2266,
+        "ratingStar": "4.8",
+        "shopName": "Traxen",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
+        "productLink": "https://shopee.com.br/product/786353833/22598826303",
+        "offerLink": "https://s.shopee.com.br/BVUS5KuHB"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23898672363",
       "name": "Mousepad Ergonômico Confort Desk Pad Grande Apoio Pulso Antiderrapante Escritório Gamer Confortavel",
       "price": 9.99,
@@ -19860,39 +19948,10 @@
       "_last_price": null
     },
     {
-      "id": "22598826303",
-      "name": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
-      "price": 79.69,
-      "original_price": 130.64,
-      "discount": 39.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
-      "link": "https://s.shopee.com.br/BVUS5KuHB",
-      "rating": "4.8",
-      "sales": 2266,
-      "shop": "Traxen",
-      "category": "mouse gamer",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22598826303,
-        "productName": "Kit Mobilador Completo Teclado Mouse Gamer Rgb Mouse Pad Hub Tipo c Tripe",
-        "price": "79.69",
-        "priceDiscountRate": 39,
-        "commissionRate": "0.03",
-        "sales": 2266,
-        "ratingStar": "4.8",
-        "shopName": "Traxen",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mnwytrtoaeis3d",
-        "productLink": "https://shopee.com.br/product/786353833/22598826303",
-        "offerLink": "https://s.shopee.com.br/BVUS5KuHB"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23694320738",
       "name": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-      "price": 79.69,
-      "original_price": 130.64,
+      "price": 59.99,
+      "original_price": 98.34,
       "discount": 39.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820lk-mnwytrtobt389e",
@@ -19905,7 +19964,7 @@
       "_item": {
         "itemId": 23694320738,
         "productName": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-        "price": "79.69",
+        "price": "59.99",
         "priceDiscountRate": 39,
         "commissionRate": "0.03",
         "sales": 1571,
@@ -21803,31 +21862,31 @@
       "_last_price": null
     },
     {
-      "id": "55263761898",
-      "name": "Chaveiro Com Pingente De Fitness Multicolorido , Ecológico Halteres , Portátil , Resistente , Mini Haltere , Porta-Chave",
-      "price": 9.9,
-      "original_price": 15.47,
+      "id": "45104154361",
+      "name": "* 4 Unidades Haltere Antiderrapante Porca Hexagonal Coleiras Spinlock Haste",
+      "price": 27.0,
+      "original_price": 42.19,
       "discount": 36.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-825ar-mqhadgz76x3hb3",
-      "link": "https://s.shopee.com.br/7KyezMqjE6",
-      "rating": "4.8",
-      "sales": 12,
-      "shop": "Meexea Loja Artigos Domésticos",
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4e-m6nn8a9m83zd6c",
+      "link": "https://s.shopee.com.br/2LZz3czwWq",
+      "rating": "5",
+      "sales": 11,
+      "shop": "siamstyle.br",
       "category": "haltere",
       "source": "shopee",
       "_item": {
-        "itemId": 55263761898,
-        "productName": "Chaveiro Com Pingente De Fitness Multicolorido , Ecológico Halteres , Portátil , Resistente , Mini Haltere , Porta-Chave",
-        "price": "9.9",
+        "itemId": 45104154361,
+        "productName": "* 4 Unidades Haltere Antiderrapante Porca Hexagonal Coleiras Spinlock Haste",
+        "price": "27",
         "priceDiscountRate": 36,
-        "commissionRate": "0.03",
-        "sales": 12,
-        "ratingStar": "4.8",
-        "shopName": "Meexea Loja Artigos Domésticos",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ar-mqhadgz76x3hb3",
-        "productLink": "https://shopee.com.br/product/191444887/55263761898",
-        "offerLink": "https://s.shopee.com.br/7KyezMqjE6"
+        "commissionRate": "0.11",
+        "sales": 11,
+        "ratingStar": "5",
+        "shopName": "siamstyle.br",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4e-m6nn8a9m83zd6c",
+        "productLink": "https://shopee.com.br/product/1502312481/45104154361",
+        "offerLink": "https://s.shopee.com.br/2LZz3czwWq"
       },
       "_last_price": null
     },
@@ -23713,35 +23772,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mctps2qs53cib8",
         "productLink": "https://shopee.com.br/product/373261329/27189338384",
         "offerLink": "https://s.shopee.com.br/7puvaFgpos"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22598926569",
-      "name": "EZ Kaya Ocean - Eau de Toilette 100ml LANÇAMENTO EXCLUSIVO",
-      "price": 29.9,
-      "original_price": 44.63,
-      "discount": 33.0,
-      "commission": 28.000000000000004,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-meuecpy1e3uoa3",
-      "link": "https://s.shopee.com.br/gRl35UFnm",
-      "rating": "4.8",
-      "sales": 3427,
-      "shop": "E'thereal Paris",
-      "category": "perfume",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22598926569,
-        "productName": "EZ Kaya Ocean - Eau de Toilette 100ml LANÇAMENTO EXCLUSIVO",
-        "price": "29.9",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.28",
-        "sales": 3427,
-        "ratingStar": "4.8",
-        "shopName": "E'thereal Paris",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meuecpy1e3uoa3",
-        "productLink": "https://shopee.com.br/product/1482776546/22598926569",
-        "offerLink": "https://s.shopee.com.br/gRl35UFnm"
       },
       "_last_price": null
     },
