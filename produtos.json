@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T06:08:51.769382+00:00",
+  "updated_at": "2026-11-19T06:28:56.359639+00:00",
   "total": 1139,
   "products": [
     {
@@ -5129,7 +5129,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mpwabid27s3n3f",
         "productLink": "https://shopee.com.br/product/866679071/23199528877",
         "offerLink": "https://s.shopee.com.br/1gKIF1oHYt"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "47855423393",
@@ -12324,8 +12325,8 @@
     {
       "id": "22392157748",
       "name": "Ração Fórmula Natural Pro Cães Sênior Porte Mini e Pequeno 10,1kg Adimax",
-      "price": 145.86,
-      "original_price": 297.67,
+      "price": 145.87,
+      "original_price": 297.69,
       "discount": 51.0,
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh0knrwoe0w475",
@@ -12338,7 +12339,7 @@
       "_item": {
         "itemId": 22392157748,
         "productName": "Ração Fórmula Natural Pro Cães Sênior Porte Mini e Pequeno 10,1kg Adimax",
-        "price": "145.86",
+        "price": "145.87",
         "priceDiscountRate": 51,
         "commissionRate": "0.03",
         "sales": 688,
@@ -19110,8 +19111,8 @@
     {
       "id": "42620071435",
       "name": "Mega Kit de Pesca Completo Varas Molinetes Caixa Maleta, com Anzóis, Boias, Chumbos e Iscas OU APENAS MALETA COM ACESSOR",
-      "price": 144.9,
-      "original_price": 245.59,
+      "price": 144.89,
+      "original_price": 245.58,
       "discount": 41.0,
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ma-mtsmpj3pp6v424",
@@ -19124,7 +19125,7 @@
       "_item": {
         "itemId": 42620071435,
         "productName": "Mega Kit de Pesca Completo Varas Molinetes Caixa Maleta, com Anzóis, Boias, Chumbos e Iscas OU APENAS MALETA COM ACESSOR",
-        "price": "144.9",
+        "price": "144.89",
         "priceDiscountRate": 41,
         "commissionRate": "0.12",
         "sales": 369,
@@ -31783,8 +31784,8 @@
     {
       "id": "23893698436",
       "name": "Kit 48 Carrinhos de Lata Metálica com Fricção - 8758 Coloridos Caixa Container  que Vira Pista",
-      "price": 65.98,
-      "original_price": 80.46,
+      "price": 65.99,
+      "original_price": 80.48,
       "discount": 18.0,
       "commission": 12.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mddjirck6er6d1",
@@ -31797,7 +31798,7 @@
       "_item": {
         "itemId": 23893698436,
         "productName": "Kit 48 Carrinhos de Lata Metálica com Fricção - 8758 Coloridos Caixa Container  que Vira Pista",
-        "price": "65.98",
+        "price": "65.99",
         "priceDiscountRate": 18,
         "commissionRate": "0.12",
         "sales": 3050,
