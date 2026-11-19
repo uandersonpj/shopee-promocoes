@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T06:28:56.359639+00:00",
-  "total": 1139,
+  "updated_at": "2026-11-19T06:49:10.815079+00:00",
+  "total": 1138,
   "products": [
     {
       "id": "21099546181",
@@ -5216,7 +5216,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/3c5c292f73a7da4ff5dbb3b0c6bc1a08",
         "productLink": "https://shopee.com.br/product/233660920/18617064006",
         "offerLink": "https://s.shopee.com.br/8VAcMCNsgZ"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58264092360",
@@ -7940,35 +7941,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-ms0e8jfsnb45e1",
         "productLink": "https://shopee.com.br/product/1242044379/22092998564",
         "offerLink": "https://s.shopee.com.br/2LZz2ArowD"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "21697454355",
-      "name": "Creatina Monohidratada 100% Pura Com Laudo de Pureza - Pure Creatine Importada",
-      "price": 21.9,
-      "original_price": 52.14,
-      "discount": 58.0,
-      "commission": 13.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mts28b489gjmf0",
-      "link": "https://s.shopee.com.br/2gCpaliyLh",
-      "rating": "4.9",
-      "sales": 883,
-      "shop": "3VS Nutrition",
-      "category": "creatina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21697454355,
-        "productName": "Creatina Monohidratada 100% Pura Com Laudo de Pureza - Pure Creatine Importada",
-        "price": "21.9",
-        "priceDiscountRate": 58,
-        "commissionRate": "0.13",
-        "sales": 883,
-        "ratingStar": "4.9",
-        "shopName": "3VS Nutrition",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mts28b489gjmf0",
-        "productLink": "https://shopee.com.br/product/1072754698/21697454355",
-        "offerLink": "https://s.shopee.com.br/2gCpaliyLh"
       },
       "_last_price": null
     },
