@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T02:31:02.761629+00:00",
+  "updated_at": "2026-11-20T02:52:02.923681+00:00",
   "total": 1134,
   "products": [
     {
@@ -173,7 +173,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkhdddqhzytd1d",
         "productLink": "https://shopee.com.br/product/1226352173/58254860002",
         "offerLink": "https://s.shopee.com.br/qlBFVvaZ0"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23497594302",
@@ -230,8 +231,7 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rfhq-m94jsi5hwaol47",
         "productLink": "https://shopee.com.br/product/1127030290/23593603405",
         "offerLink": "https://s.shopee.com.br/40iD16t6h6"
-      },
-      "_last_price": null
+      }
     },
     {
       "id": "23797686527",
@@ -1355,35 +1355,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvu-mmvetjba5xq9cb",
         "productLink": "https://shopee.com.br/product/1795268131/58258562285",
         "offerLink": "https://s.shopee.com.br/5fqR0EYI2b"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "58202416470",
-      "name": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
-      "price": 4.98,
-      "original_price": 19.92,
-      "discount": 75.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
-      "link": "https://s.shopee.com.br/2gCpQiji8G",
-      "rating": "4.9",
-      "sales": 8691,
-      "shop": "LUCIOshopping",
-      "category": "organizador",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58202416470,
-        "productName": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
-        "price": "4.98",
-        "priceDiscountRate": 75,
-        "commissionRate": "0.03",
-        "sales": 8691,
-        "ratingStar": "4.9",
-        "shopName": "LUCIOshopping",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
-        "productLink": "https://shopee.com.br/product/1691846378/58202416470",
-        "offerLink": "https://s.shopee.com.br/2gCpQiji8G"
       },
       "_last_price": null
     },
@@ -6525,7 +6496,7 @@
       "commission": 3.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6g1pij03hifd2",
       "link": "https://s.shopee.com.br/9pg0DROea7",
-      "rating": "4.7",
+      "rating": "4.6",
       "sales": 474,
       "shop": "Embalagens GK",
       "category": "desinfetante",
@@ -6537,7 +6508,7 @@
         "priceDiscountRate": 61,
         "commissionRate": "0.03",
         "sales": 474,
-        "ratingStar": "4.7",
+        "ratingStar": "4.6",
         "shopName": "Embalagens GK",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6g1pij03hifd2",
         "productLink": "https://shopee.com.br/product/897539623/20798030316",
@@ -8605,8 +8576,8 @@
     {
       "id": "25924508666",
       "name": "100~600Pcs Conjunto De Anzóis De Pesca Tamanho Misto Carpa De Aço De Alto Carbono Corda Gancho Acessórios Em Círculo Off",
-      "price": 19.75,
-      "original_price": 45.93,
+      "price": 10.88,
+      "original_price": 25.3,
       "discount": 57.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rcdk-ltm8s7hu2jks92",
@@ -8619,7 +8590,7 @@
       "_item": {
         "itemId": 25924508666,
         "productName": "100~600Pcs Conjunto De Anzóis De Pesca Tamanho Misto Carpa De Aço De Alto Carbono Corda Gancho Acessórios Em Círculo Off",
-        "price": "19.75",
+        "price": "10.88",
         "priceDiscountRate": 57,
         "commissionRate": "0.07",
         "sales": 312,
@@ -10169,35 +10140,6 @@
       "_last_price": null
     },
     {
-      "id": "23997337490",
-      "name": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
-      "price": 23.0,
-      "original_price": 50.0,
-      "discount": 54.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
-      "link": "https://s.shopee.com.br/7AfEn9XThv",
-      "rating": "4.8",
-      "sales": 8831,
-      "shop": "CAZA SHOP",
-      "category": "oculos sol",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23997337490,
-        "productName": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
-        "price": "23",
-        "priceDiscountRate": 54,
-        "commissionRate": "0.11",
-        "sales": 8831,
-        "ratingStar": "4.8",
-        "shopName": "CAZA SHOP",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
-        "productLink": "https://shopee.com.br/product/1059936083/23997337490",
-        "offerLink": "https://s.shopee.com.br/7AfEn9XThv"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58266722708",
       "name": "Óculos de sol feminino oval retrô, padrão tartaruga, estilo moderno",
       "price": 16.99,
@@ -11209,35 +11151,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ld-mr7n4xtiuz9g70",
         "productLink": "https://shopee.com.br/product/800097091/58215149908",
         "offerLink": "https://s.shopee.com.br/5AuAPOlRSC"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22998482488",
-      "name": "Kit 15 Unidades de Sachês Friskies Original para Gatos Adultos Ração Úmida 85g - Escolha o Sabor",
-      "price": 37.0,
-      "original_price": 77.08,
-      "discount": 52.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mtzp049rfh8j75",
-      "link": "https://s.shopee.com.br/20x8dabA9o",
-      "rating": "4.9",
-      "sales": 3141,
-      "shop": "Morato Agropecuária",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22998482488,
-        "productName": "Kit 15 Unidades de Sachês Friskies Original para Gatos Adultos Ração Úmida 85g - Escolha o Sabor",
-        "price": "37",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.03",
-        "sales": 3141,
-        "ratingStar": "4.9",
-        "shopName": "Morato Agropecuária",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mtzp049rfh8j75",
-        "productLink": "https://shopee.com.br/product/1055269003/22998482488",
-        "offerLink": "https://s.shopee.com.br/20x8dabA9o"
       },
       "_last_price": null
     },
@@ -12431,35 +12344,6 @@
       "_last_price": null
     },
     {
-      "id": "58270998022",
-      "name": "Mini Jesus Sentado 5 cm Enfeite Religioso para Monitor, Mesa, Prateleira e Nicho",
-      "price": 10.0,
-      "original_price": 20.0,
-      "discount": 50.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mujzt6w8xiir16",
-      "link": "https://s.shopee.com.br/5q9rCTm7yt",
-      "rating": "4.9",
-      "sales": 730,
-      "shop": "Kubo Design",
-      "category": "monitor",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58270998022,
-        "productName": "Mini Jesus Sentado 5 cm Enfeite Religioso para Monitor, Mesa, Prateleira e Nicho",
-        "price": "10",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.03",
-        "sales": 730,
-        "ratingStar": "4.9",
-        "shopName": "Kubo Design",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mujzt6w8xiir16",
-        "productLink": "https://shopee.com.br/product/1755726944/58270998022",
-        "offerLink": "https://s.shopee.com.br/5q9rCTm7yt"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58207413715",
       "name": "Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 1200MBPS",
       "price": 52.99,
@@ -13500,6 +13384,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/f9ef4adba7d0bcfcfa9f6fd7e2d48af2",
         "productLink": "https://shopee.com.br/product/387517673/19044723152",
         "offerLink": "https://s.shopee.com.br/7KyezS6Rf6"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23997337490",
+      "name": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
+      "price": 25.0,
+      "original_price": 50.0,
+      "discount": 50.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
+      "link": "https://s.shopee.com.br/7AfEn9XThv",
+      "rating": "4.8",
+      "sales": 8831,
+      "shop": "CAZA SHOP",
+      "category": "oculos sol",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23997337490,
+        "productName": "Guarda Chuva de sol Caso Óculos Da Cápsula ultra light mini Sombrinha Bolso",
+        "price": "25",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.11",
+        "sales": 8831,
+        "ratingStar": "4.8",
+        "shopName": "CAZA SHOP",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrm85nfxp8h024",
+        "productLink": "https://shopee.com.br/product/1059936083/23997337490",
+        "offerLink": "https://s.shopee.com.br/7AfEn9XThv"
       },
       "_last_price": null
     },
@@ -17215,6 +17128,35 @@
       "_last_price": null
     },
     {
+      "id": "22998482488",
+      "name": "Kit 15 Unidades de Sachês Friskies Original para Gatos Adultos Ração Úmida 85g - Escolha o Sabor",
+      "price": 37.0,
+      "original_price": 66.07,
+      "discount": 44.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lx-mtzp049rfh8j75",
+      "link": "https://s.shopee.com.br/20x8dabA9o",
+      "rating": "4.9",
+      "sales": 3141,
+      "shop": "Morato Agropecuária",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22998482488,
+        "productName": "Kit 15 Unidades de Sachês Friskies Original para Gatos Adultos Ração Úmida 85g - Escolha o Sabor",
+        "price": "37",
+        "priceDiscountRate": 44,
+        "commissionRate": "0.03",
+        "sales": 3141,
+        "ratingStar": "4.9",
+        "shopName": "Morato Agropecuária",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mtzp049rfh8j75",
+        "productLink": "https://shopee.com.br/product/1055269003/22998482488",
+        "offerLink": "https://s.shopee.com.br/20x8dabA9o"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58215643764",
       "name": "Casinha de Cachorro Grande Porte N8 ou N9 Casa Pet Big Casa Pra Cachorro",
       "price": 169.99,
@@ -18897,6 +18839,35 @@
       "_last_price": null
     },
     {
+      "id": "58270998022",
+      "name": "Mini Jesus Sentado 5 cm Enfeite Religioso para Monitor, Mesa, Prateleira e Nicho",
+      "price": 11.99,
+      "original_price": 19.98,
+      "discount": 40.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mc-mujzt6w8xiir16",
+      "link": "https://s.shopee.com.br/5q9rCTm7yt",
+      "rating": "4.9",
+      "sales": 730,
+      "shop": "Kubo Design",
+      "category": "monitor",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58270998022,
+        "productName": "Mini Jesus Sentado 5 cm Enfeite Religioso para Monitor, Mesa, Prateleira e Nicho",
+        "price": "11.99",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 730,
+        "ratingStar": "4.9",
+        "shopName": "Kubo Design",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mujzt6w8xiir16",
+        "productLink": "https://shopee.com.br/product/1755726944/58270998022",
+        "offerLink": "https://s.shopee.com.br/5q9rCTm7yt"
+      },
+      "_last_price": null
+    },
+    {
       "id": "58250766884",
       "name": "Rig Frame Suporte Placa Mãe CPU GPU e Fonte ATX Open Frame Bancada de Testes para PC Gamer Original",
       "price": 39.9,
@@ -19067,6 +19038,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mu2yvx94gqv54f",
         "productLink": "https://shopee.com.br/product/1468361340/58270103647",
         "offerLink": "https://s.shopee.com.br/1gKIEtMqxV"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23293253949",
+      "name": "Whey Protein Concentrado 1Kg Dark Lab",
+      "price": 136.9,
+      "original_price": 228.17,
+      "discount": 40.0,
+      "commission": 26.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzkq1yrpylqtc1",
+      "link": "https://s.shopee.com.br/60THOuDwcp",
+      "rating": "4.9",
+      "sales": 2284,
+      "shop": "Dark Lab Oficial",
+      "category": "whey protein",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23293253949,
+        "productName": "Whey Protein Concentrado 1Kg Dark Lab",
+        "price": "136.9",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.26",
+        "sales": 2284,
+        "ratingStar": "4.9",
+        "shopName": "Dark Lab Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzkq1yrpylqtc1",
+        "productLink": "https://shopee.com.br/product/1242044379/23293253949",
+        "offerLink": "https://s.shopee.com.br/60THOuDwcp"
       },
       "_last_price": null
     },
@@ -21391,31 +21391,31 @@
       "_last_price": null
     },
     {
-      "id": "45104154361",
-      "name": "* 4 Unidades Haltere Antiderrapante Porca Hexagonal Coleiras Spinlock Haste",
-      "price": 27.0,
-      "original_price": 42.19,
+      "id": "55263761898",
+      "name": "Chaveiro Com Pingente De Fitness Multicolorido , Ecológico Halteres , Portátil , Resistente , Mini Haltere , Porta-Chave",
+      "price": 9.9,
+      "original_price": 15.47,
       "discount": 36.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4e-m6nn8a9m83zd6c",
-      "link": "https://s.shopee.com.br/2LZz3czwWq",
-      "rating": "5",
-      "sales": 11,
-      "shop": "siamstyle.br",
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-825ar-mqhadgz76x3hb3",
+      "link": "https://s.shopee.com.br/7KyezMqjE6",
+      "rating": "4.8",
+      "sales": 12,
+      "shop": "Meexea Loja Artigos Domésticos",
       "category": "haltere",
       "source": "shopee",
       "_item": {
-        "itemId": 45104154361,
-        "productName": "* 4 Unidades Haltere Antiderrapante Porca Hexagonal Coleiras Spinlock Haste",
-        "price": "27",
+        "itemId": 55263761898,
+        "productName": "Chaveiro Com Pingente De Fitness Multicolorido , Ecológico Halteres , Portátil , Resistente , Mini Haltere , Porta-Chave",
+        "price": "9.9",
         "priceDiscountRate": 36,
-        "commissionRate": "0.11",
-        "sales": 11,
-        "ratingStar": "5",
-        "shopName": "siamstyle.br",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd4e-m6nn8a9m83zd6c",
-        "productLink": "https://shopee.com.br/product/1502312481/45104154361",
-        "offerLink": "https://s.shopee.com.br/2LZz3czwWq"
+        "commissionRate": "0.03",
+        "sales": 12,
+        "ratingStar": "4.8",
+        "shopName": "Meexea Loja Artigos Domésticos",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825ar-mqhadgz76x3hb3",
+        "productLink": "https://shopee.com.br/product/191444887/55263761898",
+        "offerLink": "https://s.shopee.com.br/7KyezMqjE6"
       },
       "_last_price": null
     },
@@ -25519,7 +25519,7 @@
       "link": "https://s.shopee.com.br/4VeTayQfG9",
       "rating": "4.9",
       "sales": 67,
-      "shop": "RHSS MOTO PEÇAS",
+      "shop": "RHSS Variedades",
       "category": "luva pesca",
       "source": "shopee",
       "_item": {
@@ -25530,7 +25530,7 @@
         "commissionRate": "0.03",
         "sales": 67,
         "ratingStar": "4.9",
-        "shopName": "RHSS MOTO PEÇAS",
+        "shopName": "RHSS Variedades",
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825b2-mqlljyykvz7wdb",
         "productLink": "https://shopee.com.br/product/1783857404/58264128864",
         "offerLink": "https://s.shopee.com.br/4VeTayQfG9"
