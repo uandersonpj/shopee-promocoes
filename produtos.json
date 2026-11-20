@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T04:56:41.721621+00:00",
+  "updated_at": "2026-11-20T05:17:12.343130+00:00",
   "total": 1135,
   "products": [
     {
@@ -836,7 +836,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-ms6hxutagw04bd",
         "productLink": "https://shopee.com.br/product/1506274241/22694660203",
         "offerLink": "https://s.shopee.com.br/qlBE8UBoX"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "22492388439",
@@ -17885,6 +17886,35 @@
       "_last_price": null
     },
     {
+      "id": "23997627527",
+      "name": "Molinete Carretilha de Pesca Anti-Cabeleira Profissional Metal 8.1:1 Arrasto 15KG Arremesso De Alta Performance 19+1",
+      "price": 64.9,
+      "original_price": 113.86,
+      "discount": 43.0,
+      "commission": 12.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxtxrfir6s2a80",
+      "link": "https://s.shopee.com.br/1C5PBskY9",
+      "rating": "4.8",
+      "sales": 88,
+      "shop": "warm11.br",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23997627527,
+        "productName": "Molinete Carretilha de Pesca Anti-Cabeleira Profissional Metal 8.1:1 Arrasto 15KG Arremesso De Alta Performance 19+1",
+        "price": "64.9",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.12",
+        "sales": 88,
+        "ratingStar": "4.8",
+        "shopName": "warm11.br",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxtxrfir6s2a80",
+        "productLink": "https://shopee.com.br/product/1171921876/23997627527",
+        "offerLink": "https://s.shopee.com.br/1C5PBskY9"
+      },
+      "_last_price": null
+    },
+    {
       "id": "41165421078",
       "name": "ACASIS Estação de Conectividade com Bloco para SSD 10Gbps USB-C Magnético com Ventilador de Arrefecimento para Série",
       "price": 233.0,
@@ -21918,8 +21948,8 @@
     {
       "id": "23593551607",
       "name": "Guarda Chuva Automático Portátil À Prova Vento UV Resistente e Protetor Solar Grande Dobrável",
-      "price": 34.88,
-      "original_price": 53.66,
+      "price": 42.4,
+      "original_price": 65.23,
       "discount": 35.0,
       "commission": 10.0,
       "image": "https://cf.shopee.com.br/file/br-11134207-820ls-mp241zogbfnl20",
@@ -21932,7 +21962,7 @@
       "_item": {
         "itemId": 23593551607,
         "productName": "Guarda Chuva Automático Portátil À Prova Vento UV Resistente e Protetor Solar Grande Dobrável",
-        "price": "34.88",
+        "price": "42.4",
         "priceDiscountRate": 35,
         "commissionRate": "0.1",
         "sales": 2150,
@@ -24029,35 +24059,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82596-mv3gpnjjbi8677",
         "productLink": "https://shopee.com.br/product/1531827759/58213895899",
         "offerLink": "https://s.shopee.com.br/1BO1zExmQL"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "23198075346",
-      "name": "Carretilha de Pesca Black Tamba BG 11 Rolamentos - Maruri",
-      "price": 449.9,
-      "original_price": 661.62,
-      "discount": 32.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rffz-m3l30igeyx0d0f",
-      "link": "https://s.shopee.com.br/5fqR0PTz5l",
-      "rating": "5",
-      "sales": 89,
-      "shop": "Tubarão Max",
-      "category": "carretilha pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23198075346,
-        "productName": "Carretilha de Pesca Black Tamba BG 11 Rolamentos - Maruri",
-        "price": "449.9",
-        "priceDiscountRate": 32,
-        "commissionRate": "0.03",
-        "sales": 89,
-        "ratingStar": "5",
-        "shopName": "Tubarão Max",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rffz-m3l30igeyx0d0f",
-        "productLink": "https://shopee.com.br/product/1314243679/23198075346",
-        "offerLink": "https://s.shopee.com.br/5fqR0PTz5l"
       },
       "_last_price": null
     },
