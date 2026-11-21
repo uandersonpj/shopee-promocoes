@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T08:36:01.426195+00:00",
+  "updated_at": "2026-11-21T08:56:13.087541+00:00",
   "total": 1135,
   "products": [
     {
@@ -3566,7 +3566,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82588-msykfh91143qa6",
         "productLink": "https://shopee.com.br/product/885435015/58217898609",
         "offerLink": "https://s.shopee.com.br/9KjjMwpwC4"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23891732730",
@@ -17692,35 +17693,6 @@
       "_last_price": null
     },
     {
-      "id": "23498386191",
-      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-      "price": 169.9,
-      "original_price": 298.07,
-      "discount": 43.0,
-      "commission": 7.000000000000001,
-      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-      "link": "https://s.shopee.com.br/5LDabfpwkG",
-      "rating": "4.9",
-      "sales": 2469,
-      "shop": "Zociella Kids",
-      "category": "carrinho bebe",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23498386191,
-        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-        "price": "169.9",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.07",
-        "sales": 2469,
-        "ratingStar": "4.9",
-        "shopName": "Zociella Kids",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
-        "productLink": "https://shopee.com.br/product/504754787/23498386191",
-        "offerLink": "https://s.shopee.com.br/5LDabfpwkG"
-      },
-      "_last_price": null
-    },
-    {
       "id": "22297616098",
       "name": "Triciclo Kemotoca Kendy Menino e Menina Patrulha Canina C/Empurrador Velotrol Proteção Lateral Carrinho de Passeio",
       "price": 99.9,
@@ -29955,6 +29927,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mscq6sidjqx07c",
         "productLink": "https://shopee.com.br/product/1665304899/58263263481",
         "offerLink": "https://s.shopee.com.br/80ELmWyk6s"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23498386191",
+      "name": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+      "price": 249.9,
+      "original_price": 320.38,
+      "discount": 22.0,
+      "commission": 7.000000000000001,
+      "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+      "link": "https://s.shopee.com.br/5LDabfpwkG",
+      "rating": "4.9",
+      "sales": 2469,
+      "shop": "Zociella Kids",
+      "category": "carrinho bebe",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23498386191,
+        "productName": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+        "price": "249.9",
+        "priceDiscountRate": 22,
+        "commissionRate": "0.07",
+        "sales": 2469,
+        "ratingStar": "4.9",
+        "shopName": "Zociella Kids",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8g60ajxg45tc6",
+        "productLink": "https://shopee.com.br/product/504754787/23498386191",
+        "offerLink": "https://s.shopee.com.br/5LDabfpwkG"
       },
       "_last_price": null
     },
