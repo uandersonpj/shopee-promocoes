@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T04:49:23.017794+00:00",
-  "total": 1134,
+  "updated_at": "2026-11-21T05:10:08.213804+00:00",
+  "total": 1135,
   "products": [
     {
       "id": "21099546181",
@@ -1763,7 +1763,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mr1pu215296u72",
         "productLink": "https://shopee.com.br/product/1541994310/58214913448",
         "offerLink": "https://s.shopee.com.br/7puvaAVinL"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58263320947",
@@ -12549,35 +12550,6 @@
       "_last_price": null
     },
     {
-      "id": "46407635136",
-      "name": "Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 1200MBPS",
-      "price": 59.99,
-      "original_price": 119.98,
-      "discount": 50.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-msv0zvvqe8ei13",
-      "link": "https://s.shopee.com.br/20x8dRRSm3",
-      "rating": "4.8",
-      "sales": 492,
-      "shop": "Pixel_Workshop.br",
-      "category": "roteador wifi",
-      "source": "shopee",
-      "_item": {
-        "itemId": 46407635136,
-        "productName": "Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 1200MBPS",
-        "price": "59.99",
-        "priceDiscountRate": 50,
-        "commissionRate": "0.03",
-        "sales": 492,
-        "ratingStar": "4.8",
-        "shopName": "Pixel_Workshop.br",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-msv0zvvqe8ei13",
-        "productLink": "https://shopee.com.br/product/1604972581/46407635136",
-        "offerLink": "https://s.shopee.com.br/20x8dRRSm3"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58264414848",
       "name": "Suporte Roteador WIFI Parede Sem Furo Adesivo 3m Dupla Face Extra Forte WiFi Modem Universal",
       "price": 14.84,
@@ -17591,6 +17563,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259z-mt00841nas5h92",
         "productLink": "https://shopee.com.br/product/1773595422/58217980343",
         "offerLink": "https://s.shopee.com.br/3VlwQBv0iD"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "49668736318",
+      "name": "Suporte Roteador WiFi Parede Sem Furo Fita 3M Dupla Face Universal Organizador",
+      "price": 13.5,
+      "original_price": 23.68,
+      "discount": 43.0,
+      "commission": 14.000000000000002,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mtuai5a7smirb4",
+      "link": "https://s.shopee.com.br/9KjmYy2M3k",
+      "rating": "4.5",
+      "sales": 186,
+      "shop": "AF Commerce",
+      "category": "roteador wifi",
+      "source": "shopee",
+      "_item": {
+        "itemId": 49668736318,
+        "productName": "Suporte Roteador WiFi Parede Sem Furo Fita 3M Dupla Face Universal Organizador",
+        "price": "13.5",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.14",
+        "sales": 186,
+        "ratingStar": "4.5",
+        "shopName": "AF Commerce",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mtuai5a7smirb4",
+        "productLink": "https://shopee.com.br/product/1545989160/49668736318",
+        "offerLink": "https://s.shopee.com.br/9KjmYy2M3k"
       },
       "_last_price": null
     },
@@ -23304,6 +23305,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgekr6unijus5f",
         "productLink": "https://shopee.com.br/product/1217782773/22097785703",
         "offerLink": "https://s.shopee.com.br/gRl2zWXTf"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23999402961",
+      "name": "Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 1200MBPS",
+      "price": 59.99,
+      "original_price": 89.54,
+      "discount": 33.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8261j-mm7vyn40pzic16",
+      "link": "https://s.shopee.com.br/2VtPEMPYl6",
+      "rating": "4.7",
+      "sales": 528,
+      "shop": "JACKCELL",
+      "category": "roteador wifi",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23999402961,
+        "productName": "Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 1200MBPS",
+        "price": "59.99",
+        "priceDiscountRate": 33,
+        "commissionRate": "0.03",
+        "sales": 528,
+        "ratingStar": "4.7",
+        "shopName": "JACKCELL",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261j-mm7vyn40pzic16",
+        "productLink": "https://shopee.com.br/product/1598954691/23999402961",
+        "offerLink": "https://s.shopee.com.br/2VtPEMPYl6"
       },
       "_last_price": null
     },
