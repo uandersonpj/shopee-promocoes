@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T07:34:10.434623+00:00",
+  "updated_at": "2026-11-21T07:54:16.783700+00:00",
   "total": 1135,
   "products": [
     {
@@ -1970,7 +1970,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m9-mpwm1rqctatfc5",
         "productLink": "https://shopee.com.br/product/347988064/9212570285",
         "offerLink": "https://s.shopee.com.br/1C4Ft0hfj"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "54850610196",
@@ -8701,8 +8702,8 @@
     {
       "id": "25924508666",
       "name": "100~600Pcs Conjunto De Anzóis De Pesca Tamanho Misto Carpa De Aço De Alto Carbono Corda Gancho Acessórios Em Círculo Off",
-      "price": 19.75,
-      "original_price": 45.93,
+      "price": 10.88,
+      "original_price": 25.3,
       "discount": 57.0,
       "commission": 7.000000000000001,
       "image": "https://cf.shopee.com.br/file/sg-11134201-7rcdk-ltm8s7hu2jks92",
@@ -8715,7 +8716,7 @@
       "_item": {
         "itemId": 25924508666,
         "productName": "100~600Pcs Conjunto De Anzóis De Pesca Tamanho Misto Carpa De Aço De Alto Carbono Corda Gancho Acessórios Em Círculo Off",
-        "price": "19.75",
+        "price": "10.88",
         "priceDiscountRate": 57,
         "commissionRate": "0.07",
         "sales": 320,
@@ -22503,35 +22504,6 @@
       "_last_price": null
     },
     {
-      "id": "23194918564",
-      "name": "Chapéu Balaclava Terno Dobrável Macio Proteção Solar Boné De Pesca Respirável Pescadoria Ao Ar Livre",
-      "price": 39.99,
-      "original_price": 61.52,
-      "discount": 35.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mlymvthdhedca5",
-      "link": "https://s.shopee.com.br/2BGYoaP76f",
-      "rating": "4.9",
-      "sales": 101,
-      "shop": "Utime.Brasil",
-      "category": "boné pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23194918564,
-        "productName": "Chapéu Balaclava Terno Dobrável Macio Proteção Solar Boné De Pesca Respirável Pescadoria Ao Ar Livre",
-        "price": "39.99",
-        "priceDiscountRate": 35,
-        "commissionRate": "0.1",
-        "sales": 101,
-        "ratingStar": "4.9",
-        "shopName": "Utime.Brasil",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mlymvthdhedca5",
-        "productLink": "https://shopee.com.br/product/1025202028/23194918564",
-        "offerLink": "https://s.shopee.com.br/2BGYoaP76f"
-      },
-      "_last_price": null
-    },
-    {
       "id": "29777745435",
       "name": "Boonie Chapéu Balaclava Terno Dobrável Macio Proteção Solar Boné De Pesca Respirável Pescador Caça Ao Ar Livre Amplo Pro",
       "price": 36.16,
@@ -24239,6 +24211,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfy2av7acd8g3c",
         "productLink": "https://shopee.com.br/product/344487407/23294539279",
         "offerLink": "https://s.shopee.com.br/9AQJ9R7o4O"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23194918564",
+      "name": "Chapéu Balaclava Terno Dobrável Macio Proteção Solar Boné De Pesca Respirável Pescadoria Ao Ar Livre",
+      "price": 41.99,
+      "original_price": 61.75,
+      "discount": 32.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820ll-mlymvthdhedca5",
+      "link": "https://s.shopee.com.br/2BGYoaP76f",
+      "rating": "4.9",
+      "sales": 101,
+      "shop": "Utime.Brasil",
+      "category": "boné pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23194918564,
+        "productName": "Chapéu Balaclava Terno Dobrável Macio Proteção Solar Boné De Pesca Respirável Pescadoria Ao Ar Livre",
+        "price": "41.99",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.1",
+        "sales": 101,
+        "ratingStar": "4.9",
+        "shopName": "Utime.Brasil",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ll-mlymvthdhedca5",
+        "productLink": "https://shopee.com.br/product/1025202028/23194918564",
+        "offerLink": "https://s.shopee.com.br/2BGYoaP76f"
       },
       "_last_price": null
     },
