@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T03:47:50.458258+00:00",
+  "updated_at": "2026-11-21T04:08:43.555758+00:00",
   "total": 1133,
   "products": [
     {
@@ -3093,7 +3093,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mn3cmeqnyfwh53",
         "productLink": "https://shopee.com.br/product/1564593552/22994148851",
         "offerLink": "https://s.shopee.com.br/6fiyC3m8r8"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23398892792",
@@ -9212,35 +9213,6 @@
       "_last_price": null
     },
     {
-      "id": "52168487372",
-      "name": "Suporte para Roteador e Modem de Parede Sem Furo com Fita Dupla Face Universal Organizador WiFi Adesivo",
-      "price": 11.99,
-      "original_price": 26.64,
-      "discount": 55.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lp-mtmt097sveo1bd",
-      "link": "https://s.shopee.com.br/9V3ClH1iin",
-      "rating": "4.8",
-      "sales": 173,
-      "shop": "Preco Bom Shop",
-      "category": "roteador wifi",
-      "source": "shopee",
-      "_item": {
-        "itemId": 52168487372,
-        "productName": "Suporte para Roteador e Modem de Parede Sem Furo com Fita Dupla Face Universal Organizador WiFi Adesivo",
-        "price": "11.99",
-        "priceDiscountRate": 55,
-        "commissionRate": "0.11",
-        "sales": 173,
-        "ratingStar": "4.8",
-        "shopName": "Preco Bom Shop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lp-mtmt097sveo1bd",
-        "productLink": "https://shopee.com.br/product/836568803/52168487372",
-        "offerLink": "https://s.shopee.com.br/9V3ClH1iin"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58215840878",
       "name": "Sabão em Pó Lava Roupas Com Percabonato de Sodio",
       "price": 9.9,
@@ -12484,6 +12456,64 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mujzt6w8xiir16",
         "productLink": "https://shopee.com.br/product/1755726944/58270998022",
         "offerLink": "https://s.shopee.com.br/5q9rCTm7yt"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58207485901",
+      "name": "Repetidor WiFi Profissional 2800m 6 Antenas Roteador Amplificador de Sinal Modem 300Mbps",
+      "price": 59.99,
+      "original_price": 119.98,
+      "discount": 50.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820l6-mmqtorx784jl5d",
+      "link": "https://s.shopee.com.br/1C4FlZ4pb",
+      "rating": "4.7",
+      "sales": 1072,
+      "shop": "REAL LIFE.BR",
+      "category": "roteador wifi",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58207485901,
+        "productName": "Repetidor WiFi Profissional 2800m 6 Antenas Roteador Amplificador de Sinal Modem 300Mbps",
+        "price": "59.99",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 1072,
+        "ratingStar": "4.7",
+        "shopName": "REAL LIFE.BR",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mmqtorx784jl5d",
+        "productLink": "https://shopee.com.br/product/1412882242/58207485901",
+        "offerLink": "https://s.shopee.com.br/1C4FlZ4pb"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "46407635136",
+      "name": "Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 1200MBPS",
+      "price": 59.99,
+      "original_price": 119.98,
+      "discount": 50.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-msv0zvvqe8ei13",
+      "link": "https://s.shopee.com.br/20x8dRRSm3",
+      "rating": "4.8",
+      "sales": 492,
+      "shop": "Pixel_Workshop.br",
+      "category": "roteador wifi",
+      "source": "shopee",
+      "_item": {
+        "itemId": 46407635136,
+        "productName": "Repetidor Wifi 2800m 6 Antenas Roteador Amplificador De Sinal Modem 1200MBPS",
+        "price": "59.99",
+        "priceDiscountRate": 50,
+        "commissionRate": "0.03",
+        "sales": 492,
+        "ratingStar": "4.8",
+        "shopName": "Pixel_Workshop.br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-msv0zvvqe8ei13",
+        "productLink": "https://shopee.com.br/product/1604972581/46407635136",
+        "offerLink": "https://s.shopee.com.br/20x8dRRSm3"
       },
       "_last_price": null
     },
@@ -17501,35 +17531,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259z-mt00841nas5h92",
         "productLink": "https://shopee.com.br/product/1773595422/58217980343",
         "offerLink": "https://s.shopee.com.br/3VlwQBv0iD"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "49668736318",
-      "name": "Suporte Roteador WiFi Parede Sem Furo Fita 3M Dupla Face Universal Organizador",
-      "price": 13.5,
-      "original_price": 23.68,
-      "discount": 43.0,
-      "commission": 14.000000000000002,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lw-mtuai5a7smirb4",
-      "link": "https://s.shopee.com.br/9KjmYy2M3k",
-      "rating": "4.5",
-      "sales": 186,
-      "shop": "AF Commerce",
-      "category": "roteador wifi",
-      "source": "shopee",
-      "_item": {
-        "itemId": 49668736318,
-        "productName": "Suporte Roteador WiFi Parede Sem Furo Fita 3M Dupla Face Universal Organizador",
-        "price": "13.5",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.14",
-        "sales": 186,
-        "ratingStar": "4.5",
-        "shopName": "AF Commerce",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lw-mtuai5a7smirb4",
-        "productLink": "https://shopee.com.br/product/1545989160/49668736318",
-        "offerLink": "https://s.shopee.com.br/9KjmYy2M3k"
       },
       "_last_price": null
     },
