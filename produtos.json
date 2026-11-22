@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T04:43:51.900527+00:00",
+  "updated_at": "2026-11-22T05:04:38.077193+00:00",
   "total": 1129,
   "products": [
     {
@@ -1273,7 +1273,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824i9-mfra08dv9dl91a",
         "productLink": "https://shopee.com.br/product/1643589827/20399896346",
         "offerLink": "https://s.shopee.com.br/906xqgqn2d"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "18299890269",
@@ -18763,7 +18764,7 @@
       "commission": 13.05,
       "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhkgppo9wjk2a5",
       "link": "https://s.shopee.com.br/6q2TBBEOpt",
-      "rating": "4.3",
+      "rating": "4.4",
       "sales": 988,
       "shop": "LitoralModa",
       "category": "kit pesca",
@@ -18775,7 +18776,7 @@
         "priceDiscountRate": 41,
         "commissionRate": "0.1305",
         "sales": 988,
-        "ratingStar": "4.3",
+        "ratingStar": "4.4",
         "shopName": "LitoralModa",
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhkgppo9wjk2a5",
         "productLink": "https://shopee.com.br/product/916176093/21869568513",
@@ -22728,6 +22729,35 @@
       "_last_price": null
     },
     {
+      "id": "58215949856",
+      "name": "Kit Cafeteira Dolce Gusto Mini Me 2.0 Cinza Chumbo + 30 cápsulas",
+      "price": 441.99,
+      "original_price": 669.68,
+      "discount": 34.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-8258g-mrrdpcso9seed3",
+      "link": "https://s.shopee.com.br/7VI9zgskFq",
+      "rating": "5",
+      "sales": 474,
+      "shop": "Nescafé Dolce Gusto",
+      "category": "cafeteira",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58215949856,
+        "productName": "Kit Cafeteira Dolce Gusto Mini Me 2.0 Cinza Chumbo + 30 cápsulas",
+        "price": "441.99",
+        "priceDiscountRate": 34,
+        "commissionRate": "0.03",
+        "sales": 474,
+        "ratingStar": "5",
+        "shopName": "Nescafé Dolce Gusto",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258g-mrrdpcso9seed3",
+        "productLink": "https://shopee.com.br/product/1531827759/58215949856",
+        "offerLink": "https://s.shopee.com.br/7VI9zgskFq"
+      },
+      "_last_price": null
+    },
+    {
       "id": "23498650045",
       "name": "Panela de Pressão 4,5 Litros ASJ Preta Craqueada - Polida Envio Imediato",
       "price": 58.89,
@@ -25914,35 +25944,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mujmwt0e65mq36",
         "productLink": "https://shopee.com.br/product/1861330390/58214850384",
         "offerLink": "https://s.shopee.com.br/5VX5bzjAE5"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22792891006",
-      "name": "Cafeteira Philco 15 Cafezinhos 600ml 550W PCFE01",
-      "price": 99.9,
-      "original_price": 140.7,
-      "discount": 29.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-8257u-mudif1wl4w0512",
-      "link": "https://s.shopee.com.br/8VAhFlsh3S",
-      "rating": "4.9",
-      "sales": 2649,
-      "shop": "Philco Oficial",
-      "category": "cafeteira",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22792891006,
-        "productName": "Cafeteira Philco 15 Cafezinhos 600ml 550W PCFE01",
-        "price": "99.9",
-        "priceDiscountRate": 29,
-        "commissionRate": "0.03",
-        "sales": 2649,
-        "ratingStar": "4.9",
-        "shopName": "Philco Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257u-mudif1wl4w0512",
-        "productLink": "https://shopee.com.br/product/811034337/22792891006",
-        "offerLink": "https://s.shopee.com.br/8VAhFlsh3S"
       },
       "_last_price": null
     },
