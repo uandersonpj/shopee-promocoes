@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T04:19:07.204058+00:00",
+  "updated_at": "2026-11-23T04:39:38.732082+00:00",
   "total": 1138,
   "products": [
     {
@@ -5732,7 +5732,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zr-mklbm2prptdx7f",
         "productLink": "https://shopee.com.br/product/664761873/21998128832",
         "offerLink": "https://s.shopee.com.br/4LL8DgeNQp"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "45468100867",
@@ -22812,35 +22813,6 @@
       "_last_price": null
     },
     {
-      "id": "22894277342",
-      "name": "Racao Seca Special Cat Premium Gatos Castrados e Castrado Sabor Mix de Carnes 10kg",
-      "price": 124.99,
-      "original_price": 189.38,
-      "discount": 34.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820m4-mob6pbcc87ib12",
-      "link": "https://s.shopee.com.br/1W0xjaQ3ak",
-      "rating": "4.9",
-      "sales": 1115,
-      "shop": "animalzecommerce",
-      "category": "racao gato",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22894277342,
-        "productName": "Racao Seca Special Cat Premium Gatos Castrados e Castrado Sabor Mix de Carnes 10kg",
-        "price": "124.99",
-        "priceDiscountRate": 34,
-        "commissionRate": "0.03",
-        "sales": 1115,
-        "ratingStar": "4.9",
-        "shopName": "animalzecommerce",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mob6pbcc87ib12",
-        "productLink": "https://shopee.com.br/product/1509105042/22894277342",
-        "offerLink": "https://s.shopee.com.br/1W0xjaQ3ak"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58201753455",
       "name": "Cama Toca Pet Iglu 2 em 1 para Gato e Cachorro | Casinha Pet Macia com Almofada | Tamanhos P M G",
       "price": 33.75,
@@ -23997,6 +23969,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ls-mqni5t3phaf47c",
         "productLink": "https://shopee.com.br/product/597391186/19899866990",
         "offerLink": "https://s.shopee.com.br/2BGddrZmpw"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22494372670",
+      "name": "Ração Quatree Supreme Para Gatos Castrados 10kg Salmão Batata Doce Super Premium",
+      "price": 170.5,
+      "original_price": 250.74,
+      "discount": 32.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820mf-moe5zu37jrb7ef",
+      "link": "https://s.shopee.com.br/30pkdOWc9D",
+      "rating": "5",
+      "sales": 1502,
+      "shop": "animalzecommerce",
+      "category": "racao gato",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22494372670,
+        "productName": "Ração Quatree Supreme Para Gatos Castrados 10kg Salmão Batata Doce Super Premium",
+        "price": "170.5",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.03",
+        "sales": 1502,
+        "ratingStar": "5",
+        "shopName": "animalzecommerce",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-moe5zu37jrb7ef",
+        "productLink": "https://shopee.com.br/product/1509105042/22494372670",
+        "offerLink": "https://s.shopee.com.br/30pkdOWc9D"
       },
       "_last_price": null
     },
