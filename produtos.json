@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T04:39:38.732082+00:00",
+  "updated_at": "2026-11-23T04:59:51.848366+00:00",
   "total": 1138,
   "products": [
     {
@@ -7181,7 +7181,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/61acc9ceab520f01c88143404e1ea3dd",
         "productLink": "https://shopee.com.br/product/321570462/11485271859",
         "offerLink": "https://s.shopee.com.br/5AuFDOApbA"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "14796214327",
@@ -23364,35 +23365,6 @@
       "_last_price": null
     },
     {
-      "id": "58209837071",
-      "name": "Ração Cachorro 15kg Caninos Start Adulto Todas as Raças Sabor Carne",
-      "price": 66.85,
-      "original_price": 99.78,
-      "discount": 33.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mr1zwjey22o459",
-      "link": "https://s.shopee.com.br/AKcLMrdxEQ",
-      "rating": "4.9",
-      "sales": 3945,
-      "shop": "Ox Distribuidora",
-      "category": "racao cachorro",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58209837071,
-        "productName": "Ração Cachorro 15kg Caninos Start Adulto Todas as Raças Sabor Carne",
-        "price": "66.85",
-        "priceDiscountRate": 33,
-        "commissionRate": "0.03",
-        "sales": 3945,
-        "ratingStar": "4.9",
-        "shopName": "Ox Distribuidora",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mr1zwjey22o459",
-        "productLink": "https://shopee.com.br/product/1571276714/58209837071",
-        "offerLink": "https://s.shopee.com.br/AKcLMrdxEQ"
-      },
-      "_last_price": null
-    },
-    {
       "id": "58201486139",
       "name": "Ração Úmida Dog Chow Cães - Display com 15 Sachês 85g",
       "price": 39.9,
@@ -23940,6 +23912,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mszvu2e6ymfa09",
         "productLink": "https://shopee.com.br/product/413194339/16216726904",
         "offerLink": "https://s.shopee.com.br/8fU7NnBaD6"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58209837071",
+      "name": "Ração Cachorro 15kg Caninos Start Adulto Todas as Raças Sabor Carne",
+      "price": 68.2,
+      "original_price": 100.29,
+      "discount": 32.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lo-mr1zwjey22o459",
+      "link": "https://s.shopee.com.br/AKcLMrdxEQ",
+      "rating": "4.9",
+      "sales": 3945,
+      "shop": "Ox Distribuidora",
+      "category": "racao cachorro",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58209837071,
+        "productName": "Ração Cachorro 15kg Caninos Start Adulto Todas as Raças Sabor Carne",
+        "price": "68.2",
+        "priceDiscountRate": 32,
+        "commissionRate": "0.03",
+        "sales": 3945,
+        "ratingStar": "4.9",
+        "shopName": "Ox Distribuidora",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lo-mr1zwjey22o459",
+        "productLink": "https://shopee.com.br/product/1571276714/58209837071",
+        "offerLink": "https://s.shopee.com.br/AKcLMrdxEQ"
       },
       "_last_price": null
     },
