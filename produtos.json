@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T06:42:18.396214+00:00",
-  "total": 1138,
+  "updated_at": "2026-11-23T07:02:56.711273+00:00",
+  "total": 1137,
   "products": [
     {
       "id": "21099546181",
@@ -954,7 +954,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m3-mr1vaho31o90f0",
         "productLink": "https://shopee.com.br/product/1246081278/45364806848",
         "offerLink": "https://s.shopee.com.br/6VPcnhmZmL"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "23298719961",
@@ -1489,7 +1490,7 @@
       "rating": "4.8",
       "sales": 448,
       "shop": "JOYFOX",
-      "category": "vara de pesca",
+      "category": "carretilha pesca",
       "source": "shopee",
       "_item": {
         "itemId": 18299069073,
@@ -4203,35 +4204,6 @@
       "_last_price": null
     },
     {
-      "id": "42806494664",
-      "name": "Molinete HE Série 1000-7000 Carretel em Metal Empunhadura EVA 10kg Limite Marítimo Oceânico",
-      "price": 26.97,
-      "original_price": 79.32,
-      "discount": 66.0,
-      "commission": 10.0,
-      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdyk-mch7z6c4ouee89",
-      "link": "https://s.shopee.com.br/9Kjof3zYvP",
-      "rating": "4.7",
-      "sales": 438,
-      "shop": "CarioShop",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42806494664,
-        "productName": "Molinete HE Série 1000-7000 Carretel em Metal Empunhadura EVA 10kg Limite Marítimo Oceânico",
-        "price": "26.97",
-        "priceDiscountRate": 66,
-        "commissionRate": "0.1",
-        "sales": 438,
-        "ratingStar": "4.7",
-        "shopName": "CarioShop",
-        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyk-mch7z6c4ouee89",
-        "productLink": "https://shopee.com.br/product/1489659102/42806494664",
-        "offerLink": "https://s.shopee.com.br/9Kjof3zYvP"
-      },
-      "_last_price": null
-    },
-    {
       "id": "43156498472",
       "name": "Carretilha Moinho de Pesca HE 1000-7000 Metal EVA 10kg Máximo Água Salada Oceano Carretel Metálico",
       "price": 26.97,
@@ -4257,6 +4229,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra2c-mbjbdak57b6edb",
         "productLink": "https://shopee.com.br/product/1259156762/43156498472",
         "offerLink": "https://s.shopee.com.br/4B1i1cqCzW"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "42806494664",
+      "name": "Molinete HE Série 1000-7000 Carretel em Metal Empunhadura EVA 10kg Limite Marítimo Oceânico",
+      "price": 26.97,
+      "original_price": 79.32,
+      "discount": 66.0,
+      "commission": 10.0,
+      "image": "https://cf.shopee.com.br/file/sg-11134201-7rdyk-mch7z6c4ouee89",
+      "link": "https://s.shopee.com.br/9Kjof3zYvP",
+      "rating": "4.7",
+      "sales": 438,
+      "shop": "CarioShop",
+      "category": "molinete pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42806494664,
+        "productName": "Molinete HE Série 1000-7000 Carretel em Metal Empunhadura EVA 10kg Limite Marítimo Oceânico",
+        "price": "26.97",
+        "priceDiscountRate": 66,
+        "commissionRate": "0.1",
+        "sales": 438,
+        "ratingStar": "4.7",
+        "shopName": "CarioShop",
+        "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdyk-mch7z6c4ouee89",
+        "productLink": "https://shopee.com.br/product/1489659102/42806494664",
+        "offerLink": "https://s.shopee.com.br/9Kjof3zYvP"
       },
       "_last_price": null
     },
@@ -5576,7 +5577,7 @@
       "rating": "4.8",
       "sales": 649,
       "shop": "sougayilanglocal3.br",
-      "category": "vara de pesca",
+      "category": "molinete pesca",
       "source": "shopee",
       "_item": {
         "itemId": 41809393497,
@@ -6243,7 +6244,7 @@
       "rating": "4.9",
       "sales": 413,
       "shop": "HI SPORTS",
-      "category": "vara de pesca",
+      "category": "carretilha pesca",
       "source": "shopee",
       "_item": {
         "itemId": 22399450069,
@@ -7576,7 +7577,7 @@
       "rating": "4.9",
       "sales": 651,
       "shop": "HK  STORE",
-      "category": "vara de pesca",
+      "category": "molinete pesca",
       "source": "shopee",
       "_item": {
         "itemId": 23893429110,
@@ -8040,7 +8041,7 @@
       "rating": "4.8",
       "sales": 354,
       "shop": "Loja De Decoração De Lustres",
-      "category": "vara de pesca",
+      "category": "molinete pesca",
       "source": "shopee",
       "_item": {
         "itemId": 27486864605,
@@ -8562,7 +8563,7 @@
       "rating": "4.7",
       "sales": 423,
       "shop": "Loja De Decoração De Lustres",
-      "category": "vara de pesca",
+      "category": "carretilha pesca",
       "source": "shopee",
       "_item": {
         "itemId": 41852046975,
@@ -11219,35 +11220,6 @@
       "_last_price": null
     },
     {
-      "id": "23893325676",
-      "name": "Molinete De Pesca De Metal EVA HD1000-7000 Max Arraste 10kg Cana Em Água Salgada",
-      "price": 39.8,
-      "original_price": 82.92,
-      "discount": 52.0,
-      "commission": 8.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfje3r8xov0gce",
-      "link": "https://s.shopee.com.br/9fMeYIo6TI",
-      "rating": "4.9",
-      "sales": 973,
-      "shop": "HK  STORE",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 23893325676,
-        "productName": "Molinete De Pesca De Metal EVA HD1000-7000 Max Arraste 10kg Cana Em Água Salgada",
-        "price": "39.8",
-        "priceDiscountRate": 52,
-        "commissionRate": "0.08",
-        "sales": 973,
-        "ratingStar": "4.9",
-        "shopName": "HK  STORE",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfje3r8xov0gce",
-        "productLink": "https://shopee.com.br/product/1267134569/23893325676",
-        "offerLink": "https://s.shopee.com.br/9fMeYIo6TI"
-      },
-      "_last_price": null
-    },
-    {
       "id": "42105987016",
       "name": "Carretilha De Pesca Com Marine Sports Pitching 7.2 : 1 Alta 10kg Max Molinete De Pesca Molinete Pesca Mulinete",
       "price": 45.7,
@@ -11273,6 +11245,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mbevxeo3rlq134",
         "productLink": "https://shopee.com.br/product/1550289846/42105987016",
         "offerLink": "https://s.shopee.com.br/40iHpJqqKV"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "23893325676",
+      "name": "Molinete De Pesca De Metal EVA HD1000-7000 Max Arraste 10kg Cana Em Água Salgada",
+      "price": 39.8,
+      "original_price": 82.92,
+      "discount": 52.0,
+      "commission": 8.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfje3r8xov0gce",
+      "link": "https://s.shopee.com.br/9fMeYIo6TI",
+      "rating": "4.9",
+      "sales": 973,
+      "shop": "HK  STORE",
+      "category": "molinete pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 23893325676,
+        "productName": "Molinete De Pesca De Metal EVA HD1000-7000 Max Arraste 10kg Cana Em Água Salgada",
+        "price": "39.8",
+        "priceDiscountRate": 52,
+        "commissionRate": "0.08",
+        "sales": 973,
+        "ratingStar": "4.9",
+        "shopName": "HK  STORE",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfje3r8xov0gce",
+        "productLink": "https://shopee.com.br/product/1267134569/23893325676",
+        "offerLink": "https://s.shopee.com.br/9fMeYIo6TI"
       },
       "_last_price": null
     },
@@ -12002,35 +12003,6 @@
       "_last_price": null
     },
     {
-      "id": "42877226612",
-      "name": "Suporte Guarda Sol Praia Saca Areia Furador Ancora Fixador Base Fixa Camping Porta Vara Pesca Verão",
-      "price": 19.49,
-      "original_price": 39.78,
-      "discount": 51.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mv4tzzhd8g024f",
-      "link": "https://s.shopee.com.br/5fqWIKDWMX",
-      "rating": "4.8",
-      "sales": 498,
-      "shop": "Bestfy Oficial",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 42877226612,
-        "productName": "Suporte Guarda Sol Praia Saca Areia Furador Ancora Fixador Base Fixa Camping Porta Vara Pesca Verão",
-        "price": "19.49",
-        "priceDiscountRate": 51,
-        "commissionRate": "0.03",
-        "sales": 498,
-        "ratingStar": "4.8",
-        "shopName": "Bestfy Oficial",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mv4tzzhd8g024f",
-        "productLink": "https://shopee.com.br/product/1138038255/42877226612",
-        "offerLink": "https://s.shopee.com.br/5fqWIKDWMX"
-      },
-      "_last_price": null
-    },
-    {
       "id": "26538918731",
       "name": "Linha De Pesca 120M Condutor De Monofilamento De Fibra De Carbono Revestido De Fluorocarbono Resistente Ao Desgaste , Ad",
       "price": 11.75,
@@ -12114,6 +12086,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mh-mqxnch3hzkli5c",
         "productLink": "https://shopee.com.br/product/882785833/18554808191",
         "offerLink": "https://s.shopee.com.br/2BGdcaWV6V"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "42877226612",
+      "name": "Suporte Guarda Sol Praia Saca Areia Furador Ancora Fixador Base Fixa Camping Porta Vara Pesca Verão",
+      "price": 19.49,
+      "original_price": 39.78,
+      "discount": 51.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820lb-mv4tzzhd8g024f",
+      "link": "https://s.shopee.com.br/5fqWIKDWMX",
+      "rating": "4.8",
+      "sales": 498,
+      "shop": "Bestfy Oficial",
+      "category": "suporte vara pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 42877226612,
+        "productName": "Suporte Guarda Sol Praia Saca Areia Furador Ancora Fixador Base Fixa Camping Porta Vara Pesca Verão",
+        "price": "19.49",
+        "priceDiscountRate": 51,
+        "commissionRate": "0.03",
+        "sales": 498,
+        "ratingStar": "4.8",
+        "shopName": "Bestfy Oficial",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mv4tzzhd8g024f",
+        "productLink": "https://shopee.com.br/product/1138038255/42877226612",
+        "offerLink": "https://s.shopee.com.br/5fqWIKDWMX"
       },
       "_last_price": null
     },
@@ -14003,64 +14004,6 @@
       "_last_price": null
     },
     {
-      "id": "48857230908",
-      "name": "Vara de pesca telescópica, suave e ultraleve, ideal para diversas situações, com comprimentos de 2,4 m e 3,6 m",
-      "price": 19.6,
-      "original_price": 38.43,
-      "discount": 49.0,
-      "commission": 11.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsuws7bcgznad",
-      "link": "https://s.shopee.com.br/70LtNUDlUw",
-      "rating": "4.8",
-      "sales": 951,
-      "shop": "BD Boutique De Lustres",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 48857230908,
-        "productName": "Vara de pesca telescópica, suave e ultraleve, ideal para diversas situações, com comprimentos de 2,4 m e 3,6 m",
-        "price": "19.6",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.11",
-        "sales": 951,
-        "ratingStar": "4.8",
-        "shopName": "BD Boutique De Lustres",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsuws7bcgznad",
-        "productLink": "https://shopee.com.br/product/1489642227/48857230908",
-        "offerLink": "https://s.shopee.com.br/70LtNUDlUw"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "41912366108",
-      "name": "Vara De Pesca Completa De 1.8M + Carretel De Arrasto Máximo De 10Kg , Resistente E Dur",
-      "price": 39.9,
-      "original_price": 78.24,
-      "discount": 49.0,
-      "commission": 16.0,
-      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mqh19cm5143k1f",
-      "link": "https://s.shopee.com.br/60TMBeHZWu",
-      "rating": "4.8",
-      "sales": 533,
-      "shop": "VaradaDouradaaa.br",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 41912366108,
-        "productName": "Vara De Pesca Completa De 1.8M + Carretel De Arrasto Máximo De 10Kg , Resistente E Dur",
-        "price": "39.9",
-        "priceDiscountRate": 49,
-        "commissionRate": "0.16",
-        "sales": 533,
-        "ratingStar": "4.8",
-        "shopName": "VaradaDouradaaa.br",
-        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mqh19cm5143k1f",
-        "productLink": "https://shopee.com.br/product/1594828185/41912366108",
-        "offerLink": "https://s.shopee.com.br/60TMBeHZWu"
-      },
-      "_last_price": null
-    },
-    {
       "id": "43961714345",
       "name": "Vara de pesca com carretilha 1.8M Vara De Pesca Carretel Kit Completo Com Alta Velocidade Max Drag 30KG",
       "price": 79.63,
@@ -14115,6 +14058,64 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8262u-mld5a49ibgun9e",
         "productLink": "https://shopee.com.br/product/1541645210/28642994952",
         "offerLink": "https://s.shopee.com.br/5fqVoNkUxA"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "48857230908",
+      "name": "Vara de pesca telescópica, suave e ultraleve, ideal para diversas situações, com comprimentos de 2,4 m e 3,6 m",
+      "price": 19.6,
+      "original_price": 38.43,
+      "discount": 49.0,
+      "commission": 11.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsuws7bcgznad",
+      "link": "https://s.shopee.com.br/70LtNUDlUw",
+      "rating": "4.8",
+      "sales": 951,
+      "shop": "BD Boutique De Lustres",
+      "category": "molinete pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 48857230908,
+        "productName": "Vara de pesca telescópica, suave e ultraleve, ideal para diversas situações, com comprimentos de 2,4 m e 3,6 m",
+        "price": "19.6",
+        "priceDiscountRate": 49,
+        "commissionRate": "0.11",
+        "sales": 951,
+        "ratingStar": "4.8",
+        "shopName": "BD Boutique De Lustres",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mlsuws7bcgznad",
+        "productLink": "https://shopee.com.br/product/1489642227/48857230908",
+        "offerLink": "https://s.shopee.com.br/70LtNUDlUw"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "41912366108",
+      "name": "Vara De Pesca Completa De 1.8M + Carretel De Arrasto Máximo De 10Kg , Resistente E Dur",
+      "price": 39.9,
+      "original_price": 78.24,
+      "discount": 49.0,
+      "commission": 16.0,
+      "image": "https://cf.shopee.com.br/file/cn-11134207-820l4-mqh19cm5143k1f",
+      "link": "https://s.shopee.com.br/60TMBeHZWu",
+      "rating": "4.8",
+      "sales": 533,
+      "shop": "VaradaDouradaaa.br",
+      "category": "molinete pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 41912366108,
+        "productName": "Vara De Pesca Completa De 1.8M + Carretel De Arrasto Máximo De 10Kg , Resistente E Dur",
+        "price": "39.9",
+        "priceDiscountRate": 49,
+        "commissionRate": "0.16",
+        "sales": 533,
+        "ratingStar": "4.8",
+        "shopName": "VaradaDouradaaa.br",
+        "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mqh19cm5143k1f",
+        "productLink": "https://shopee.com.br/product/1594828185/41912366108",
+        "offerLink": "https://s.shopee.com.br/60TMBeHZWu"
       },
       "_last_price": null
     },
@@ -15899,7 +15900,7 @@
       "rating": "4.7",
       "sales": 375,
       "shop": "Loja Sao Miguel Multicoisas",
-      "category": "vara de pesca",
+      "category": "molinete pesca",
       "source": "shopee",
       "_item": {
         "itemId": 23192991550,
@@ -17570,6 +17571,35 @@
       "_last_price": null
     },
     {
+      "id": "22092833789",
+      "name": "Molinete Carretilha Pesca Carretel Longo 6000 ou 7000 13 Rolamentos 5.2:1",
+      "price": 39.99,
+      "original_price": 70.16,
+      "discount": 43.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mv66gnkodl378d",
+      "link": "https://s.shopee.com.br/2gCuErvv2N",
+      "rating": "4.8",
+      "sales": 140,
+      "shop": "Ideal.mix",
+      "category": "carretilha pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22092833789,
+        "productName": "Molinete Carretilha Pesca Carretel Longo 6000 ou 7000 13 Rolamentos 5.2:1",
+        "price": "39.99",
+        "priceDiscountRate": 43,
+        "commissionRate": "0.03",
+        "sales": 140,
+        "ratingStar": "4.8",
+        "shopName": "Ideal.mix",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mv66gnkodl378d",
+        "productLink": "https://shopee.com.br/product/858096792/22092833789",
+        "offerLink": "https://s.shopee.com.br/2gCuErvv2N"
+      },
+      "_last_price": null
+    },
+    {
       "id": "19698133912",
       "name": "KIT 1-3 Vara De Pesca 60-120lbs Completa Com Molinete Esportiva Ao Ar Livre Robalo Portátil Joran Pancing",
       "price": 39.0,
@@ -17581,7 +17611,7 @@
       "rating": "4.8",
       "sales": 759,
       "shop": "HK  STORE",
-      "category": "vara de pesca",
+      "category": "molinete pesca",
       "source": "shopee",
       "_item": {
         "itemId": 19698133912,
@@ -17610,7 +17640,7 @@
       "rating": "4.9",
       "sales": 440,
       "shop": "YONGXINSHENG",
-      "category": "vara de pesca",
+      "category": "molinete pesca",
       "source": "shopee",
       "_item": {
         "itemId": 47956018833,
@@ -17639,7 +17669,7 @@
       "rating": "4.8",
       "sales": 318,
       "shop": "HK  STORE",
-      "category": "vara de pesca",
+      "category": "molinete pesca",
       "source": "shopee",
       "_item": {
         "itemId": 23198460867,
@@ -17653,35 +17683,6 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfjdj6rz280792",
         "productLink": "https://shopee.com.br/product/1267134569/23198460867",
         "offerLink": "https://s.shopee.com.br/2VtUWVPZnE"
-      },
-      "_last_price": null
-    },
-    {
-      "id": "22092833789",
-      "name": "Molinete Carretilha Pesca Carretel Longo 6000 ou 7000 13 Rolamentos 5.2:1",
-      "price": 39.99,
-      "original_price": 70.16,
-      "discount": 43.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820le-mv66gnkodl378d",
-      "link": "https://s.shopee.com.br/2gCuErvv2N",
-      "rating": "4.8",
-      "sales": 140,
-      "shop": "Ideal.mix",
-      "category": "carretilha pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22092833789,
-        "productName": "Molinete Carretilha Pesca Carretel Longo 6000 ou 7000 13 Rolamentos 5.2:1",
-        "price": "39.99",
-        "priceDiscountRate": 43,
-        "commissionRate": "0.03",
-        "sales": 140,
-        "ratingStar": "4.8",
-        "shopName": "Ideal.mix",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820le-mv66gnkodl378d",
-        "productLink": "https://shopee.com.br/product/858096792/22092833789",
-        "offerLink": "https://s.shopee.com.br/2gCuErvv2N"
       },
       "_last_price": null
     },
@@ -18683,7 +18684,7 @@
       "rating": "4.7",
       "sales": 356,
       "shop": "Loja Sao Miguel Multicoisas",
-      "category": "vara de pesca",
+      "category": "molinete pesca",
       "source": "shopee",
       "_item": {
         "itemId": 42620071435,
@@ -19426,35 +19427,6 @@
       "_last_price": null
     },
     {
-      "id": "22197604954",
-      "name": "Vara De Pesca 1.8M Completa + Molinete máxtração 50 kg Ao Ar Livre Resistente E Durável",
-      "price": 39.0,
-      "original_price": 65.0,
-      "discount": 40.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1vww3i83y814",
-      "link": "https://s.shopee.com.br/AKcLqtvktV",
-      "rating": "4.8",
-      "sales": 464,
-      "shop": "Podaodao",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 22197604954,
-        "productName": "Vara De Pesca 1.8M Completa + Molinete máxtração 50 kg Ao Ar Livre Resistente E Durável",
-        "price": "39",
-        "priceDiscountRate": 40,
-        "commissionRate": "0.03",
-        "sales": 464,
-        "ratingStar": "4.8",
-        "shopName": "Podaodao",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1vww3i83y814",
-        "productLink": "https://shopee.com.br/product/1167145056/22197604954",
-        "offerLink": "https://s.shopee.com.br/AKcLqtvktV"
-      },
-      "_last_price": null
-    },
-    {
       "id": "23193478084",
       "name": "Kit Pesca Esportiva: Carretilha Perfil Baixo 17+1 Rolamentos Drag 10kg + Vara Carbono 1,80m Branca",
       "price": 179.0,
@@ -19480,6 +19452,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mma1oopty2vb75",
         "productLink": "https://shopee.com.br/product/1045152671/23193478084",
         "offerLink": "https://s.shopee.com.br/3Vm1EOskLS"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "22197604954",
+      "name": "Vara De Pesca 1.8M Completa + Molinete máxtração 50 kg Ao Ar Livre Resistente E Durável",
+      "price": 39.0,
+      "original_price": 65.0,
+      "discount": 40.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1vww3i83y814",
+      "link": "https://s.shopee.com.br/AKcLqtvktV",
+      "rating": "4.8",
+      "sales": 464,
+      "shop": "Podaodao",
+      "category": "molinete pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 22197604954,
+        "productName": "Vara De Pesca 1.8M Completa + Molinete máxtração 50 kg Ao Ar Livre Resistente E Durável",
+        "price": "39",
+        "priceDiscountRate": 40,
+        "commissionRate": "0.03",
+        "sales": 464,
+        "ratingStar": "4.8",
+        "shopName": "Podaodao",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1vww3i83y814",
+        "productLink": "https://shopee.com.br/product/1167145056/22197604954",
+        "offerLink": "https://s.shopee.com.br/AKcLqtvktV"
       },
       "_last_price": null
     },
@@ -24773,7 +24774,7 @@
       "rating": "4.9",
       "sales": 921,
       "shop": "JAUPESCA",
-      "category": "vara de pesca",
+      "category": "molinete pesca",
       "source": "shopee",
       "_item": {
         "itemId": 21997920517,
@@ -24802,7 +24803,7 @@
       "rating": "4.8",
       "sales": 453,
       "shop": "JAUPESCA",
-      "category": "vara de pesca",
+      "category": "molinete pesca",
       "source": "shopee",
       "_item": {
         "itemId": 19498994816,
@@ -28532,35 +28533,6 @@
       "_last_price": null
     },
     {
-      "id": "21771687059",
-      "name": "Kit 3 Varas Telescópicas Lisa / 3,60M - 40% Carbono - C.W 8-18lbs - Cmik",
-      "price": 68.68,
-      "original_price": 91.57,
-      "discount": 25.0,
-      "commission": 3.0,
-      "image": "https://cf.shopee.com.br/file/br-11134201-23010-ukscdhw5iomv2d",
-      "link": "https://s.shopee.com.br/5VX661E9hW",
-      "rating": "4.9",
-      "sales": 532,
-      "shop": "PescaShop",
-      "category": "vara de pesca",
-      "source": "shopee",
-      "_item": {
-        "itemId": 21771687059,
-        "productName": "Kit 3 Varas Telescópicas Lisa / 3,60M - 40% Carbono - C.W 8-18lbs - Cmik",
-        "price": "68.68",
-        "priceDiscountRate": 25,
-        "commissionRate": "0.03",
-        "sales": 532,
-        "ratingStar": "4.9",
-        "shopName": "PescaShop",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23010-ukscdhw5iomv2d",
-        "productLink": "https://shopee.com.br/product/361954967/21771687059",
-        "offerLink": "https://s.shopee.com.br/5VX661E9hW"
-      },
-      "_last_price": null
-    },
-    {
       "id": "41455696739",
       "name": "Carretilha Pesqueiro Tigon BG 300 Drag 13,6kg 11 Rolamentos",
       "price": 165.52,
@@ -28586,6 +28558,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra2c-mbctdpxsu4i8e1",
         "productLink": "https://shopee.com.br/product/351948631/41455696739",
         "offerLink": "https://s.shopee.com.br/7AfJb8emuL"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "21771687059",
+      "name": "Kit 3 Varas Telescópicas Lisa / 3,60M - 40% Carbono - C.W 8-18lbs - Cmik",
+      "price": 68.68,
+      "original_price": 91.57,
+      "discount": 25.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134201-23010-ukscdhw5iomv2d",
+      "link": "https://s.shopee.com.br/5VX661E9hW",
+      "rating": "4.9",
+      "sales": 532,
+      "shop": "PescaShop",
+      "category": "molinete pesca",
+      "source": "shopee",
+      "_item": {
+        "itemId": 21771687059,
+        "productName": "Kit 3 Varas Telescópicas Lisa / 3,60M - 40% Carbono - C.W 8-18lbs - Cmik",
+        "price": "68.68",
+        "priceDiscountRate": 25,
+        "commissionRate": "0.03",
+        "sales": 532,
+        "ratingStar": "4.9",
+        "shopName": "PescaShop",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23010-ukscdhw5iomv2d",
+        "productLink": "https://shopee.com.br/product/361954967/21771687059",
+        "offerLink": "https://s.shopee.com.br/5VX661E9hW"
       },
       "_last_price": null
     },
@@ -31780,35 +31781,6 @@
       "_last_price": null
     },
     {
-      "id": "58253571216",
-      "name": "Cola Transparente Para Reparo De Sapatos – Adesivo À Prova D'água Fixação De Solas , Saltos E Bolsas (60ml)",
-      "price": 20.78,
-      "original_price": 25.34,
-      "discount": 18.0,
-      "commission": 15.0,
-      "image": "https://cf.shopee.com.br/file/br-11134207-820ly-mv1klpyjrcoz2c",
-      "link": "https://s.shopee.com.br/8KrGzFbdO3",
-      "rating": "4.8",
-      "sales": 4889,
-      "shop": "Summit--07",
-      "category": "bolsa feminina",
-      "source": "shopee",
-      "_item": {
-        "itemId": 58253571216,
-        "productName": "Cola Transparente Para Reparo De Sapatos – Adesivo À Prova D'água Fixação De Solas , Saltos E Bolsas (60ml)",
-        "price": "20.78",
-        "priceDiscountRate": 18,
-        "commissionRate": "0.15",
-        "sales": 4889,
-        "ratingStar": "4.8",
-        "shopName": "Summit--07",
-        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mv1klpyjrcoz2c",
-        "productLink": "https://shopee.com.br/product/1639518888/58253571216",
-        "offerLink": "https://s.shopee.com.br/8KrGzFbdO3"
-      },
-      "_last_price": null
-    },
-    {
       "id": "20399721858",
       "name": "Kit Relógio Masculino Aço Inox Resistente a Água Com Corrente Cruz e Pulseira",
       "price": 32.7,
@@ -32168,7 +32140,7 @@
       "rating": "4.9",
       "sales": 453,
       "shop": "Summer Pesca e Camping",
-      "category": "vara de pesca",
+      "category": "molinete pesca",
       "source": "shopee",
       "_item": {
         "itemId": 21745736877,
