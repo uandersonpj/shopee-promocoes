@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T07:23:25.828494+00:00",
-  "total": 1136,
+  "updated_at": "2026-11-23T07:43:41.546462+00:00",
+  "total": 1137,
   "products": [
     {
       "id": "21099546181",
@@ -86,7 +86,8 @@
         "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mpf8btxmai2u62",
         "productLink": "https://shopee.com.br/product/1739671384/58210104632",
         "offerLink": "https://s.shopee.com.br/114gFdt6Sh"
-      }
+      },
+      "_last_price": null
     },
     {
       "id": "58218141043",
@@ -1417,6 +1418,35 @@
         "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvu-mmvetjba5xq9cb",
         "productLink": "https://shopee.com.br/product/1795268131/58258562285",
         "offerLink": "https://s.shopee.com.br/2gCuEh0MTz"
+      },
+      "_last_price": null
+    },
+    {
+      "id": "58202416470",
+      "name": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
+      "price": 4.98,
+      "original_price": 19.92,
+      "discount": 75.0,
+      "commission": 3.0,
+      "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
+      "link": "https://s.shopee.com.br/BVZG69sYk",
+      "rating": "4.9",
+      "sales": 7975,
+      "shop": "LUCIOshopping",
+      "category": "organizador",
+      "source": "shopee",
+      "_item": {
+        "itemId": 58202416470,
+        "productName": "2/4/6/8/10/15 Gancho Adesivo Parede Multifuncional Transparente Autocolante Metálico Premium",
+        "price": "4.98",
+        "priceDiscountRate": 75,
+        "commissionRate": "0.03",
+        "sales": 7975,
+        "ratingStar": "4.9",
+        "shopName": "LUCIOshopping",
+        "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-minv6pm3l14x7b",
+        "productLink": "https://shopee.com.br/product/1691846378/58202416470",
+        "offerLink": "https://s.shopee.com.br/BVZG69sYk"
       },
       "_last_price": null
     },
